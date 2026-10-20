@@ -1,0 +1,205 @@
+{
+  "id": "science-blood-types",
+  "name": "ชุดข้อมูลแผนภูมิความเข้ากันได้ของกรุ๊ปเลือดที่ครอบคลุม",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "blood_type",
+      "label": "Blood Type",
+      "type": "string"
+    },
+    {
+      "key": "abo_group",
+      "label": "ABO Group",
+      "type": "string"
+    },
+    {
+      "key": "rh_factor",
+      "label": "Rh Factor",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "Can Donate To (EN)",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "Can Receive From (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population_percent",
+      "label": "Population %",
+      "type": "number"
+    },
+    {
+      "key": "antigens",
+      "label": "Antigens",
+      "type": "string"
+    },
+    {
+      "key": "antibodies",
+      "label": "Antibodies",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blood_type": "A+",
+      "abo_group": "A",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "A+, A-, O+, O-",
+      "population_percent": 35.7,
+      "antigens": "A, Rh",
+      "antibodies": "Anti-B",
+      "category": "ชนิดทั่วไป"
+    },
+    {
+      "blood_type": "A-",
+      "abo_group": "A",
+      "rh_factor": "Negative",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "A-, O-",
+      "population_percent": 6.3,
+      "antigens": "A",
+      "antibodies": "Anti-B",
+      "category": "ชนิดทั่วไป"
+    },
+    {
+      "blood_type": "B+",
+      "abo_group": "B",
+      "rh_factor": "Positive",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "B+, B-, O+, O-",
+      "population_percent": 8.5,
+      "antigens": "B, Rh",
+      "antibodies": "Anti-A",
+      "category": "ชนิดทั่วไป"
+    },
+    {
+      "blood_type": "B-",
+      "abo_group": "B",
+      "rh_factor": "Negative",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "B-, O-",
+      "population_percent": 1.5,
+      "antigens": "B",
+      "antibodies": "Anti-A",
+      "category": "ชนิดหายาก"
+    },
+    {
+      "blood_type": "AB+",
+      "abo_group": "AB",
+      "rh_factor": "Positive",
+      "can_donate_to": "AB+",
+      "can_receive_from": "ทุกชนิด (ผู้รับสากล)",
+      "population_percent": 3.4,
+      "antigens": "A, B, Rh",
+      "antibodies": "None",
+      "category": "ชนิดหายาก"
+    },
+    {
+      "blood_type": "AB-",
+      "abo_group": "AB",
+      "rh_factor": "Negative",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "A-, B-, AB-, O-",
+      "population_percent": 0.6,
+      "antigens": "A, B",
+      "antibodies": "None",
+      "category": "ชนิดหายาก"
+    },
+    {
+      "blood_type": "O+",
+      "abo_group": "O",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, B+, AB+, O+",
+      "can_receive_from": "O+, O-",
+      "population_percent": 37.4,
+      "antigens": "Rh",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "ชนิดทั่วไป"
+    },
+    {
+      "blood_type": "O-",
+      "abo_group": "O",
+      "rh_factor": "Negative",
+      "can_donate_to": "ทุกชนิด (ผู้ให้สากล)",
+      "can_receive_from": "O-",
+      "population_percent": 6.6,
+      "antigens": "None",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "ผู้ให้สากล"
+    },
+    {
+      "blood_type": "AB Plasma",
+      "abo_group": "AB",
+      "rh_factor": "Any",
+      "can_donate_to": "ทุกชนิด (ผู้ให้พลาสมาสากล)",
+      "can_receive_from": "AB",
+      "population_percent": 4,
+      "antigens": "A, B (in cells)",
+      "antibodies": "None (in plasma)",
+      "category": "พลาสมา"
+    },
+    {
+      "blood_type": "Rh+ Summary",
+      "abo_group": "Any",
+      "rh_factor": "Positive",
+      "can_donate_to": "ผู้รับ Rh+ เท่านั้น",
+      "can_receive_from": "ทั้ง Rh+ และ Rh-",
+      "population_percent": 85,
+      "antigens": "Rh (D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "ข้อมูล Rh Factor"
+    },
+    {
+      "blood_type": "Rh- Summary",
+      "abo_group": "Any",
+      "rh_factor": "Negative",
+      "can_donate_to": "ทั้ง Rh+ และ Rh-",
+      "can_receive_from": "Rh- เท่านั้น",
+      "population_percent": 15,
+      "antigens": "None (no D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "ข้อมูล Rh Factor"
+    }
+  ],
+  "meta": {
+    "seo_title": "แผนภูมิความเข้ากันได้ของกรุ๊ปเลือด - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรีข้อมูลแผนภูมิความเข้ากันได้ของกรุ๊ปเลือด 11 ชนิด สำรวจกรุ๊ป ABO, Rh factor และกฎการบริจาค มีในรูปแบบ Excel, CSV และ PDF.",
+    "title": "ชุดข้อมูลแผนภูมิความเข้ากันได้ของกรุ๊ปเลือดที่ครอบคลุม",
+    "description": "ชุดข้อมูลนี้ให้แผนภูมิความเข้ากันได้โดยละเอียดสำหรับกรุ๊ปเลือดหลักทั้งหมด รวมถึงกลุ่ม ABO, Rh factor, กฎการบริจาค/รับ, เปอร์เซ็นต์ประชากร, แอนติเจน และแอนติบอดี มีข้อมูล 11 รายการเกี่ยวกับกรุ๊ปเลือดที่แตกต่างกัน.",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลสำคัญเกี่ยวกับการบริจาคเลือดและความเข้ากันได้ของการถ่ายเลือด.",
+      "สำรวจเปอร์เซ็นต์ประชากรและรายละเอียดทางวิทยาศาสตร์สำหรับกรุ๊ปเลือด 11 ชนิด.",
+      "ดาวน์โหลดข้อมูลที่ครอบคลุมเกี่ยวกับแอนติเจน แอนติบอดี และการจัดประเภท ABO/Rh.",
+      "ใช้แผนภูมินี้เพื่อวัตถุประสงค์ทางการศึกษาหรืออ้างอิงทางการแพทย์."
+    ],
+    "keywords": [
+      "แผนภูมิกรุ๊ปเลือด",
+      "ความเข้ากันได้ของเลือด",
+      "กฎการบริจาคเลือด",
+      "ข้อมูลกรุ๊ปเลือด",
+      "Rh factor",
+      "ABO กรุ๊ปเลือด excel csv"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณสำหรับการวิจัยทางการแพทย์หรือพัฒนาแอปพลิเคชันด้านสุขภาพ.",
+      "ใช้ไฟล์ **Excel** เพื่อกรองกรุ๊ปเลือด สร้าง Pivot Tables และวิเคราะห์เปอร์เซ็นต์ประชากรสำหรับการรายงานด้านสาธารณสุขหรืองานนำเสนอ.",
+      "พิมพ์เวอร์ชัน **PDF** เพื่อการเข้าถึงที่ง่ายในสำนักงานแพทย์ ห้องเรียน หรือเป็นคู่มืออ้างอิงฉบับย่อเพื่อความเข้าใจส่วนบุคคล.",
+      "ใช้ประโยชน์จากชุดข้อมูลที่ครอบคลุมนี้เพื่อการศึกษาผู้ป่วย นักเรียน หรือบุคลากรเกี่ยวกับความซับซ้อนของการถ่ายเลือดและความเข้ากันได้."
+    ]
+  },
+  "record_count": 11,
+  "title": "ชุดข้อมูลแผนภูมิความเข้ากันได้ของกรุ๊ปเลือดที่ครอบคลุม"
+}

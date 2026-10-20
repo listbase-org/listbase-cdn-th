@@ -1,0 +1,379 @@
+{
+  "id": "tech-regex-patterns",
+  "name": "ชุดข้อมูลรูปแบบ Regular Expression ที่จำเป็น",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Pattern Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "pattern",
+      "label": "Regex Pattern",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ที่อยู่อีเมล",
+      "category": "การติดต่อ",
+      "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+      "example": "user@example.com",
+      "description": "การตรวจสอบอีเมลมาตรฐาน"
+    },
+    {
+      "name": "อีเมล (เข้มงวด)",
+      "category": "การติดต่อ",
+      "pattern": "^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$",
+      "example": "name+tag@sub.domain.com",
+      "description": "อีเมลที่สอดคล้องกับ RFC 5322"
+    },
+    {
+      "name": "โทรศัพท์ (ระหว่างประเทศ)",
+      "category": "การติดต่อ",
+      "pattern": "^\\+?[1-9]\\d{1,14}$",
+      "example": "+14155551234",
+      "description": "รูปแบบโทรศัพท์ระหว่างประเทศ E.164"
+    },
+    {
+      "name": "โทรศัพท์ (สหรัฐอเมริกา)",
+      "category": "การติดต่อ",
+      "pattern": "^\\(?([0-9]{3})\\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$",
+      "example": "(415) 555-1234",
+      "description": "รูปแบบหมายเลขโทรศัพท์สหรัฐอเมริกา"
+    },
+    {
+      "name": "โทรศัพท์ (ไทย)",
+      "category": "การติดต่อ",
+      "pattern": "^(0[689]{1})\\d{8}$",
+      "example": "0812345678",
+      "description": "หมายเลขโทรศัพท์มือถือไทย"
+    },
+    {
+      "name": "URL (HTTP/HTTPS)",
+      "category": "เว็บ",
+      "pattern": "^https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?&//=]*)$",
+      "example": "https://example.com/path",
+      "description": "การตรวจสอบ URL HTTP/HTTPS"
+    },
+    {
+      "name": "URL (ง่าย)",
+      "category": "เว็บ",
+      "pattern": "^(https?:\\/\\/)?[\\w.-]+\\.[a-z]{2,}(\\/\\S*)?$",
+      "example": "example.com/page",
+      "description": "รูปแบบ URL อย่างง่าย"
+    },
+    {
+      "name": "ชื่อโดเมน",
+      "category": "เว็บ",
+      "pattern": "^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$",
+      "example": "sub.example.com",
+      "description": "การตรวจสอบชื่อโดเมน"
+    },
+    {
+      "name": "ที่อยู่ IP (IPv4)",
+      "category": "เว็บ",
+      "pattern": "^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$",
+      "example": "192.168.1.1",
+      "description": "การตรวจสอบที่อยู่ IPv4"
+    },
+    {
+      "name": "ที่อยู่ IP (IPv6)",
+      "category": "เว็บ",
+      "pattern": "^([0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$",
+      "example": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+      "description": "ที่อยู่ IPv6 (รูปแบบเต็ม)"
+    },
+    {
+      "name": "ที่อยู่ MAC",
+      "category": "เว็บ",
+      "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
+      "example": "00:1A:2B:3C:4D:5E",
+      "description": "การตรวจสอบที่อยู่ MAC"
+    },
+    {
+      "name": "สลัก (เป็นมิตรกับ URL)",
+      "category": "เว็บ",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "example": "my-blog-post-title",
+      "description": "รูปแบบสลัก URL"
+    },
+    {
+      "name": "รหัสผ่าน (แข็งแกร่ง)",
+      "category": "ความปลอดภัย",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$",
+      "example": "Pass@123",
+      "description": "อย่างน้อย 8 ตัวอักษร, ตัวพิมพ์ใหญ่, ตัวพิมพ์เล็ก, ตัวเลข, อักขระพิเศษ"
+    },
+    {
+      "name": "รหัสผ่าน (ปานกลาง)",
+      "category": "ความปลอดภัย",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)[A-Za-z\\d]{8,}$",
+      "example": "Password1",
+      "description": "อย่างน้อย 8 ตัวอักษร, ตัวพิมพ์ใหญ่, ตัวพิมพ์เล็ก, ตัวเลข"
+    },
+    {
+      "name": "UUID v4",
+      "category": "ความปลอดภัย",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+      "example": "550e8400-e29b-41d4-a716-446655440000",
+      "description": "รูปแบบ UUID เวอร์ชัน 4"
+    },
+    {
+      "name": "โทเค็น JWT",
+      "category": "ความปลอดภัย",
+      "pattern": "^[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]*$",
+      "example": "eyJhbGc.eyJzdWI.SflKxw",
+      "description": "รูปแบบ JSON Web Token"
+    },
+    {
+      "name": "สีฐานสิบหก",
+      "category": "ความปลอดภัย",
+      "pattern": "^#?([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$",
+      "example": "#FF5733",
+      "description": "รหัสสีฐานสิบหก"
+    },
+    {
+      "name": "จำนวนเต็ม",
+      "category": "ตัวเลข",
+      "pattern": "^-?\\d+$",
+      "example": "-12345",
+      "description": "จำนวนเต็มบวกหรือลบ"
+    },
+    {
+      "name": "เลขทศนิยม",
+      "category": "ตัวเลข",
+      "pattern": "^-?\\d*\\.?\\d+$",
+      "example": "123.45",
+      "description": "เลขทศนิยม"
+    },
+    {
+      "name": "สกุลเงิน (USD)",
+      "category": "การเงิน",
+      "pattern": "^\\$?\\d{1,3}(,\\d{3})*(\\.\\d{2})?$",
+      "example": "$1,234.56",
+      "description": "รูปแบบสกุลเงินสหรัฐอเมริกา"
+    },
+    {
+      "name": "บัตรเครดิต",
+      "category": "การเงิน",
+      "pattern": "^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|6(?:011|5[0-9]{2})[0-9]{12})$",
+      "example": "4111111111111111",
+      "description": "Visa, MC, Amex, Discover"
+    },
+    {
+      "name": "CVV",
+      "category": "การเงิน",
+      "pattern": "^[0-9]{3,4}$",
+      "example": "123",
+      "description": "CVV/CVC ของบัตรเครดิต"
+    },
+    {
+      "name": "IBAN",
+      "category": "การเงิน",
+      "pattern": "^[A-Z]{2}[0-9]{2}[A-Z0-9]{4}[0-9]{7}([A-Z0-9]?){0,16}$",
+      "example": "DE89370400440532013000",
+      "description": "เลขที่บัญชีธนาคารระหว่างประเทศ"
+    },
+    {
+      "name": "วันที่ (YYYY-MM-DD)",
+      "category": "วันและเวลา",
+      "pattern": "^\\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$",
+      "example": "2024-12-25",
+      "description": "รูปแบบวันที่ ISO 8601"
+    },
+    {
+      "name": "วันที่ (DD/MM/YYYY)",
+      "category": "วันและเวลา",
+      "pattern": "^(0[1-9]|[12]\\d|3[01])\\/(0[1-9]|1[0-2])\\/\\d{4}$",
+      "example": "25/12/2024",
+      "description": "รูปแบบวันที่แบบยุโรป"
+    },
+    {
+      "name": "วันที่ (MM/DD/YYYY)",
+      "category": "วันและเวลา",
+      "pattern": "^(0[1-9]|1[0-2])\\/(0[1-9]|[12]\\d|3[01])\\/\\d{4}$",
+      "example": "12/25/2024",
+      "description": "รูปแบบวันที่แบบสหรัฐอเมริกา"
+    },
+    {
+      "name": "เวลา (24 ชม.)",
+      "category": "วันและเวลา",
+      "pattern": "^([01]\\d|2[0-3]):([0-5]\\d)$",
+      "example": "23:59",
+      "description": "รูปแบบเวลา 24 ชั่วโมง"
+    },
+    {
+      "name": "เวลา (12 ชม.)",
+      "category": "วันและเวลา",
+      "pattern": "^(0?[1-9]|1[0-2]):[0-5][0-9]\\s?(AM|PM|am|pm)$",
+      "example": "11:30 PM",
+      "description": "เวลา 12 ชั่วโมงพร้อม AM/PM"
+    },
+    {
+      "name": "วันและเวลา ISO 8601",
+      "category": "วันและเวลา",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?(Z|[+-]\\d{2}:\\d{2})?$",
+      "example": "2024-12-25T10:30:00Z",
+      "description": "รูปแบบวันและเวลา ISO 8601"
+    },
+    {
+      "name": "ชื่อผู้ใช้",
+      "category": "ข้อความ",
+      "pattern": "^[a-zA-Z0-9_]{3,16}$",
+      "example": "user_name123",
+      "description": "ตัวอักษรและตัวเลขพร้อมขีดล่าง, 3-16 ตัวอักษร"
+    },
+    {
+      "name": "ตัวอักษรและตัวเลข",
+      "category": "ข้อความ",
+      "pattern": "^[a-zA-Z0-9]+$",
+      "example": "abc123",
+      "description": "เฉพาะตัวอักษรและตัวเลข"
+    },
+    {
+      "name": "เฉพาะตัวอักษร",
+      "category": "ข้อความ",
+      "pattern": "^[a-zA-Z]+$",
+      "example": "HelloWorld",
+      "description": "เฉพาะตัวอักษรภาษาอังกฤษ"
+    },
+    {
+      "name": "ไม่มีอักขระพิเศษ",
+      "category": "ข้อความ",
+      "pattern": "^[a-zA-Z0-9\\s]+$",
+      "example": "Hello World 123",
+      "description": "ตัวอักษรและตัวเลขพร้อมช่องว่าง"
+    },
+    {
+      "name": "ตัดช่องว่าง",
+      "category": "ข้อความ",
+      "pattern": "^\\S.*\\S$|^\\S$",
+      "example": "no leading/trailing spaces",
+      "description": "ไม่มีช่องว่างนำหน้า/ต่อท้าย"
+    },
+    {
+      "name": "US SSN",
+      "category": "รหัสประจำตัว",
+      "pattern": "^(?!000|666|9\\d{2})\\d{3}-(?!00)\\d{2}-(?!0000)\\d{4}$",
+      "example": "123-45-6789",
+      "description": "หมายเลขประกันสังคมของสหรัฐอเมริกา"
+    },
+    {
+      "name": "รหัสไปรษณีย์ US",
+      "category": "รหัสประจำตัว",
+      "pattern": "^\\d{5}(-\\d{4})?$",
+      "example": "12345-6789",
+      "description": "รหัสไปรษณีย์สหรัฐอเมริกา (5 หรือ 9 หลัก)"
+    },
+    {
+      "name": "รหัสไปรษณีย์ UK",
+      "category": "รหัสประจำตัว",
+      "pattern": "^[A-Z]{1,2}[0-9][A-Z0-9]?\\s?[0-9][A-Z]{2}$",
+      "example": "SW1A 1AA",
+      "description": "รหัสไปรษณีย์สหราชอาณาจักร"
+    },
+    {
+      "name": "ISBN-10",
+      "category": "รหัสประจำตัว",
+      "pattern": "^(?:\\d{9}X|\\d{10})$",
+      "example": "0306406152",
+      "description": "รูปแบบ ISBN-10"
+    },
+    {
+      "name": "ISBN-13",
+      "category": "รหัสประจำตัว",
+      "pattern": "^97[89]\\d{10}$",
+      "example": "9780306406157",
+      "description": "รูปแบบ ISBN-13"
+    },
+    {
+      "name": "นามสกุลไฟล์",
+      "category": "ไฟล์",
+      "pattern": "^.*\\.(jpg|jpeg|png|gif|pdf|doc|docx)$",
+      "example": "document.pdf",
+      "description": "นามสกุลไฟล์ทั่วไป"
+    },
+    {
+      "name": "เส้นทางไฟล์ (Unix)",
+      "category": "ไฟล์",
+      "pattern": "^\\/([\\w.-]+\\/)*[\\w.-]+$",
+      "example": "/home/user/file.txt",
+      "description": "เส้นทางไฟล์ Unix"
+    },
+    {
+      "name": "เส้นทางไฟล์ (Windows)",
+      "category": "ไฟล์",
+      "pattern": "^[a-zA-Z]:\\\\(?:[\\w.-]+\\\\)*[\\w.-]+$",
+      "example": "C:\\Users\\file.txt",
+      "description": "เส้นทางไฟล์ Windows"
+    },
+    {
+      "name": "แท็ก HTML",
+      "category": "โค้ด",
+      "pattern": "<([a-z]+)([^<]+)*(?:>(.*)<\\/\\1>|\\s+\\/>)",
+      "example": "<div class=\"x\">content</div>",
+      "description": "การจับคู่แท็ก HTML"
+    },
+    {
+      "name": "แฮชแท็ก",
+      "category": "โซเชียล",
+      "pattern": "^#[a-zA-Z0-9_]+$",
+      "example": "#trending",
+      "description": "แฮชแท็กโซเชียลมีเดีย"
+    },
+    {
+      "name": "ชื่อผู้ใช้ Twitter",
+      "category": "โซเชียล",
+      "pattern": "^@[a-zA-Z0-9_]{1,15}$",
+      "example": "@username",
+      "description": "ชื่อผู้ใช้ Twitter/X"
+    }
+  ],
+  "meta": {
+    "seo_title": "รูปแบบ Regex ทั่วไป - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 45 รูปแบบ Regular Expression ที่พบบ่อยสำหรับการตรวจสอบและแยกวิเคราะห์ข้อมูล ฟรีในรูปแบบ Excel, CSV และ PDF สำหรับนักพัฒนา นักวิเคราะห์ และนักเรียน",
+    "title": "ชุดข้อมูลรูปแบบ Regular Expression ที่จำเป็น",
+    "description": "ชุดข้อมูลนี้รวบรวม 45 รูปแบบ Regular Expression ที่ใช้กันอย่างแพร่หลาย ครอบคลุมหมวดหมู่ต่างๆ เช่น ข้อมูลติดต่อ รูปแบบข้อมูล และกฎการตรวจสอบ แต่ละรายการประกอบด้วยรูปแบบ หมวดหมู่ ตัวอย่าง และคำอธิบาย",
+    "key_takeaways": [
+      "เข้าถึง 45 รูปแบบ Regular Expression ที่รวบรวมไว้ล่วงหน้าเพื่อใช้งานได้ทันที",
+      "สำรวจ Regex ทั่วไปสำหรับอีเมล, เบอร์โทรศัพท์, URL และอื่นๆ",
+      "ดาวน์โหลดรูปแบบสำหรับงานการเขียนโปรแกรมและการตรวจสอบข้อมูลต่างๆ",
+      "ใช้ Regex พร้อมใช้งานเพื่อปรับปรุงขั้นตอนการพัฒนาและวิเคราะห์ของคุณ"
+    ],
+    "keywords": [
+      "รูปแบบ regex ฟรี",
+      "รายการ regular expression",
+      "ดาวน์โหลด regex csv",
+      "regex ตรวจสอบอีเมล excel",
+      "regex เบอร์โทรศัพท์ pdf",
+      "ตัวอย่าง regex ทั่วไป"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อนำตรรกะการตรวจสอบข้อมูลสำหรับอินพุตผู้ใช้หรือการทำความสะอาดข้อมูลไปใช้",
+      "ใช้ไฟล์ **Excel** เพื่อกรอง, จัดเรียง และวิเคราะห์รูปแบบ regex ทั่วไป หรือสำหรับการค้นหาและรายงานอย่างรวดเร็วโดยนักวิเคราะห์ข้อมูล",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับการอ้างอิงในห้องเรียน, การศึกษาแบบออฟไลน์ หรือเป็นแผ่นข้อมูลอ้างอิงสำหรับนักพัฒนาและนักเรียน",
+      "รวมรูปแบบเหล่านี้เข้ากับฟอร์มเว็บ, API หรือไปป์ไลน์การประมวลผลข้อมูลเพื่อให้แน่ใจว่าข้อมูลมีความสมบูรณ์และเป็นไปตามรูปแบบ"
+    ]
+  },
+  "record_count": 45,
+  "title": "ชุดข้อมูลรูปแบบ Regular Expression ที่จำเป็น"
+}

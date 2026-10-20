@@ -1,0 +1,281 @@
+{
+  "id": "reference-china-presidents",
+  "name": "รายชื่อประธานาธิบดีสาธารณรัฐประชาชนจีน",
+  "title": "รายชื่อประธานาธิบดีสาธารณรัฐประชาชนจีน",
+  "description": "รายชื่อประธานาธิบดีสาธารณรัฐประชาชนจีนตั้งแต่การก่อตั้งตำแหน่งในปี พ.ศ. 2497 จนถึงปัจจุบัน รวมถึงประธานรัฐบาลประชาชนกลางและประธานาธิบดีกิตติมศักดิ์ ข้อมูลประกอบด้วยลำดับ ชื่อภาษาไทยและจีน วันที่เริ่มและสิ้นสุดวาระ สังกัดพรรค รองประธานาธิบดี และวาระการดำรงตำแหน่ง",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%94%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B8%99",
+  "updated": "2023-10-27",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อภาษาไทย",
+      "type": "string"
+    },
+    {
+      "key": "name_zh",
+      "label": "ชื่อภาษาจีน",
+      "type": "string"
+    },
+    {
+      "key": "image_filename",
+      "label": "ภาพ",
+      "type": "string"
+    },
+    {
+      "key": "start_date",
+      "label": "เริ่มวาระ",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "สิ้นสุดวาระ",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "สังกัดพรรค",
+      "type": "string"
+    },
+    {
+      "key": "vice_president",
+      "label": "รองประธานาธิบดี",
+      "type": "string"
+    },
+    {
+      "key": "term_number",
+      "label": "วาระ",
+      "type": "string"
+    },
+    {
+      "key": "leader_generation",
+      "label": "ผู้นำรุ่นที่",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "",
+      "name_th": "เหมา เจ๋อตง",
+      "name_zh": "毛澤東 / 毛泽东",
+      "image_filename": "",
+      "start_date": "1 ตุลาคม พ.ศ. 2492",
+      "end_date": "27 กันยายน พ.ศ. 2497",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "",
+      "term_number": "",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "1",
+      "name_th": "เหมา เจ๋อตง",
+      "name_zh": "毛澤東 / 毛泽东",
+      "image_filename": "",
+      "start_date": "27 กันยายน พ.ศ. 2497",
+      "end_date": "27 เมษายน พ.ศ. 2502",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "จูเต๋อ",
+      "term_number": "1",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "2",
+      "name_th": "หลิว เช่าฉี",
+      "name_zh": "劉少奇 / 刘少奇",
+      "image_filename": "",
+      "start_date": "27 เมษายน พ.ศ. 2502",
+      "end_date": "21 ธันวาคม พ.ศ. 2507",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "ต่ง ปี้หวู",
+      "term_number": "2",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "2",
+      "name_th": "หลิว เช่าฉี",
+      "name_zh": "劉少奇 / 刘少奇",
+      "image_filename": "",
+      "start_date": "21 ธันวาคม พ.ศ. 2507",
+      "end_date": "31 ตุลาคม พ.ศ. 2511",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "ต่ง ปี้หวู",
+      "term_number": "3",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "",
+      "name_th": "ซ่ง ชิ่งหลิง",
+      "name_zh": "宋慶齡 / 宋庆龄",
+      "image_filename": "Soong_Ching_Ling_1920_shanghai.jpg",
+      "start_date": "31 ตุลาคม พ.ศ. 2511",
+      "end_date": "24 กุมภาพันธ์ พ.ศ. 2515",
+      "party": "แนวร่วม คณะปฏิวัติก๊กมินตั๋ง",
+      "vice_president": "",
+      "term_number": "3",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "",
+      "name_th": "ต่ง ปี้หวู",
+      "name_zh": "董必武",
+      "image_filename": "DONGBIWU.JPG",
+      "start_date": "31 ตุลาคม พ.ศ. 2511",
+      "end_date": "24 กุมภาพันธ์ พ.ศ. 2515",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "",
+      "term_number": "3",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "",
+      "name_th": "ต่ง ปี้หวู",
+      "name_zh": "董必武",
+      "image_filename": "DONGBIWU.JPG",
+      "start_date": "24 กุมภาพันธ์ พ.ศ. 2515",
+      "end_date": "17 มกราคม พ.ศ. 2518",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "",
+      "term_number": "3",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "",
+      "name_th": "ยกเลิกตำแหน่ง",
+      "name_zh": "",
+      "image_filename": "",
+      "start_date": "17 มกราคม พ.ศ. 2518",
+      "end_date": "16 พฤษภาคม พ.ศ. 2524",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "",
+      "term_number": "3",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "",
+      "name_th": "ซ่ง ชิ่งหลิง",
+      "name_zh": "宋慶齡 / 宋庆龄",
+      "image_filename": "Soong_Ching_Ling_1920_shanghai.jpg",
+      "start_date": "16 พฤษภาคม พ.ศ. 2524",
+      "end_date": "28 พฤษภาคม พ.ศ. 2524",
+      "party": "United Front",
+      "vice_president": "",
+      "term_number": "3",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "",
+      "name_th": "ยกเลิกตำแหน่ง",
+      "name_zh": "",
+      "image_filename": "",
+      "start_date": "28 พฤษภาคม พ.ศ. 2524",
+      "end_date": "18 มิถุนายน พ.ศ. 2526",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "",
+      "term_number": "3",
+      "leader_generation": "รุ่นที่หนึ่ง"
+    },
+    {
+      "order": "3",
+      "name_th": "หลี่ เซียนเนี่ยน",
+      "name_zh": "李先念",
+      "image_filename": "Li Xiannian.jpg",
+      "start_date": "18 มิถุนายน พ.ศ. 2526",
+      "end_date": "8 เมษายน พ.ศ. 2531",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "อูลานฮู",
+      "term_number": "4",
+      "leader_generation": "รุ่นที่สอง"
+    },
+    {
+      "order": "4",
+      "name_th": "หยาง ซั่งคุน",
+      "name_zh": "楊尚昆 / 杨尚昆",
+      "image_filename": "YangShangkun1958.png",
+      "start_date": "8 เมษายน พ.ศ. 2531",
+      "end_date": "27 มีนาคม พ.ศ. 2536",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "หวัง เจิ้น",
+      "term_number": "5",
+      "leader_generation": "รุ่นที่สอง"
+    },
+    {
+      "order": "5",
+      "name_th": "เจียง เจ๋อหมิง",
+      "name_zh": "江澤民 / 江泽民",
+      "image_filename": "Jiang_Zemin_St._Petersburg2002.jpg",
+      "start_date": "27 มีนาคม พ.ศ. 2536",
+      "end_date": "มีนาคม พ.ศ. 2541",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "หรง ยี่เหริน",
+      "term_number": "6",
+      "leader_generation": "รุ่นที่สาม"
+    },
+    {
+      "order": "5",
+      "name_th": "เจียง เจ๋อหมิง",
+      "name_zh": "江澤民 / 江泽民",
+      "image_filename": "Jiang_Zemin_St._Petersburg2002.jpg",
+      "start_date": "มีนาคม พ.ศ. 2541",
+      "end_date": "23 มีนาคม พ.ศ. 2546",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "หู จิ่นเทา",
+      "term_number": "7",
+      "leader_generation": "รุ่นที่สาม"
+    },
+    {
+      "order": "6",
+      "name_th": "หู จิ่นเทา",
+      "name_zh": "胡錦濤 / 胡锦涛",
+      "image_filename": "Hu_Jintao_Cannes2011.jpg",
+      "start_date": "23 มีนาคม พ.ศ. 2546",
+      "end_date": "15 มีนาคม พ.ศ. 2551",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "เฉิง ชิ่งหง",
+      "term_number": "8",
+      "leader_generation": "รุ่นที่สี่"
+    },
+    {
+      "order": "6",
+      "name_th": "หู จิ่นเทา",
+      "name_zh": "胡錦濤 / 胡锦涛",
+      "image_filename": "Hu_Jintao_Cannes2011.jpg",
+      "start_date": "15 มีนาคม พ.ศ. 2551",
+      "end_date": "14 มีนาคม พ.ศ. 2556",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "สี จิ้นผิง",
+      "term_number": "9",
+      "leader_generation": "รุ่นที่สี่"
+    },
+    {
+      "order": "7",
+      "name_th": "สี จิ้นผิง",
+      "name_zh": "習近平 / 习近平",
+      "image_filename": "Xi Jinping Sept. 19, 2012.jpg",
+      "start_date": "15 มีนาคม พ.ศ. 2556",
+      "end_date": "ยังอยู่ในวาระ",
+      "party": "พรรคคอมมิวนิสต์",
+      "vice_president": "หลี่ หยวนเฉา",
+      "term_number": "10",
+      "leader_generation": "รุ่นที่ห้า"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประธานาธิบดีสาธารณรัฐประชาชนจีน",
+    "description": "รายชื่อประธานาธิบดีสาธารณรัฐประชาชนจีนตั้งแต่การก่อตั้งตำแหน่งในปี พ.ศ. 2497 จนถึงปัจจุบัน รวมถึงประธานรัฐบาลประชาชนกลางและประธานาธิบดีกิตติมศักดิ์",
+    "seo_title": "รายชื่อประธานาธิบดีสาธารณรัฐประชาชนจีน - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 17 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 17 รายการครบถ้วน",
+      "รวม: ลำดับ, ชื่อ, วันที่เริ่ม/สิ้นสุดวาระ, สังกัดพรรค, รองประธานาธิบดี",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

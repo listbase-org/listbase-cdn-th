@@ -1,0 +1,1157 @@
+{
+  "id": "science-country-infant-mortality-rate",
+  "name": "รายชื่อประเทศเรียงตามอัตราภาวะการตายของทารก",
+  "title": "รายชื่อประเทศเรียงตามอัตราภาวะการตายของทารก",
+  "description": "ข้อมูลรายชื่อประเทศและดินแดนทั่วโลกเรียงตามอัตราภาวะการตายของทารก (ต่อ 1,000 คน) โดยอ้างอิงจากเดอะเวิลด์แฟกต์บุ๊ก (CIA World Factbook) ปี 2015 ประกอบด้วยลำดับที่, ชื่อประเทศ/ดินแดน และอัตราภาวะการตายของทารก",
+  "category": "science",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%81",
+  "updated": "2023-10-27",
+  "record_count": 223,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "ลำดับที่",
+      "type": "number"
+    },
+    {
+      "key": "country_territory_th",
+      "label": "ประเทศและดินแดน",
+      "type": "string"
+    },
+    {
+      "key": "infant_mortality_rate",
+      "label": "อัตราภาวะการตายของทารก",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "country_territory_th": "Afghanistan",
+      "infant_mortality_rate": 200.8
+    },
+    {
+      "rank": 2,
+      "country_territory_th": "Albania",
+      "infant_mortality_rate": 12.75
+    },
+    {
+      "rank": 3,
+      "country_territory_th": "Algeria",
+      "infant_mortality_rate": 20.98
+    },
+    {
+      "rank": 4,
+      "country_territory_th": "American Samoa",
+      "infant_mortality_rate": 8.69
+    },
+    {
+      "rank": 5,
+      "country_territory_th": "Andorra",
+      "infant_mortality_rate": 3.65
+    },
+    {
+      "rank": 6,
+      "country_territory_th": "Angola",
+      "infant_mortality_rate": 78.26
+    },
+    {
+      "rank": 7,
+      "country_territory_th": "Anguilla",
+      "infant_mortality_rate": 3.37
+    },
+    {
+      "rank": 8,
+      "country_territory_th": "Antigua and Barbuda",
+      "infant_mortality_rate": 12.87
+    },
+    {
+      "rank": 9,
+      "country_territory_th": "Argentina",
+      "infant_mortality_rate": 9.69
+    },
+    {
+      "rank": 10,
+      "country_territory_th": "Armenia",
+      "infant_mortality_rate": 13.51
+    },
+    {
+      "rank": 11,
+      "country_territory_th": "Aruba",
+      "infant_mortality_rate": 11.37
+    },
+    {
+      "rank": 12,
+      "country_territory_th": "Australia",
+      "infant_mortality_rate": 4.37
+    },
+    {
+      "rank": 13,
+      "country_territory_th": "Austria",
+      "infant_mortality_rate": 3.45
+    },
+    {
+      "rank": 14,
+      "country_territory_th": "Azerbaijan",
+      "infant_mortality_rate": 25.68
+    },
+    {
+      "rank": 15,
+      "country_territory_th": "Bahamas",
+      "infant_mortality_rate": 11.92
+    },
+    {
+      "rank": 16,
+      "country_territory_th": "Bahrain",
+      "infant_mortality_rate": 9.35
+    },
+    {
+      "rank": 17,
+      "country_territory_th": "Bangladesh",
+      "infant_mortality_rate": 44.09
+    },
+    {
+      "rank": 18,
+      "country_territory_th": "Barbados",
+      "infant_mortality_rate": 10.42
+    },
+    {
+      "rank": 19,
+      "country_territory_th": "Belarus",
+      "infant_mortality_rate": 3.62
+    },
+    {
+      "rank": 20,
+      "country_territory_th": "Belgium",
+      "infant_mortality_rate": 3.41
+    },
+    {
+      "rank": 21,
+      "country_territory_th": "Belize",
+      "infant_mortality_rate": 19.82
+    },
+    {
+      "rank": 22,
+      "country_territory_th": "Benin",
+      "infant_mortality_rate": 55.68
+    },
+    {
+      "rank": 23,
+      "country_territory_th": "Bermuda",
+      "infant_mortality_rate": 2.48
+    },
+    {
+      "rank": 24,
+      "country_territory_th": "Bhutan",
+      "infant_mortality_rate": 35.91
+    },
+    {
+      "rank": 25,
+      "country_territory_th": "Bolivia",
+      "infant_mortality_rate": 37.49
+    },
+    {
+      "rank": 26,
+      "country_territory_th": "Bosnia and Herzegovina",
+      "infant_mortality_rate": 5.72
+    },
+    {
+      "rank": 27,
+      "country_territory_th": "Botswana",
+      "infant_mortality_rate": 8.93
+    },
+    {
+      "rank": 28,
+      "country_territory_th": "Brazil",
+      "infant_mortality_rate": 18.6
+    },
+    {
+      "rank": 29,
+      "country_territory_th": "British Virgin Islands",
+      "infant_mortality_rate": 12.98
+    },
+    {
+      "rank": 30,
+      "country_territory_th": "Brunei",
+      "infant_mortality_rate": 10.16
+    },
+    {
+      "rank": 31,
+      "country_territory_th": "Bulgaria",
+      "infant_mortality_rate": 8.66
+    },
+    {
+      "rank": 32,
+      "country_territory_th": "Burkina Faso",
+      "infant_mortality_rate": 75.32
+    },
+    {
+      "rank": 33,
+      "country_territory_th": "Burma",
+      "infant_mortality_rate": 43.55
+    },
+    {
+      "rank": 34,
+      "country_territory_th": "Burundi",
+      "infant_mortality_rate": 61.89
+    },
+    {
+      "rank": 35,
+      "country_territory_th": "Cambodia",
+      "infant_mortality_rate": 50.04
+    },
+    {
+      "rank": 36,
+      "country_territory_th": "Cameroon",
+      "infant_mortality_rate": 52.63
+    },
+    {
+      "rank": 37,
+      "country_territory_th": "Canada",
+      "infant_mortality_rate": 4.65
+    },
+    {
+      "rank": 38,
+      "country_territory_th": "Cape Verde",
+      "infant_mortality_rate": 23.45
+    },
+    {
+      "rank": 39,
+      "country_territory_th": "Cayman Islands",
+      "infant_mortality_rate": 6.08
+    },
+    {
+      "rank": 40,
+      "country_territory_th": "Central African Republic",
+      "infant_mortality_rate": 90.63
+    },
+    {
+      "rank": 41,
+      "country_territory_th": "Chad",
+      "infant_mortality_rate": 88.69
+    },
+    {
+      "rank": 42,
+      "country_territory_th": "Chile",
+      "infant_mortality_rate": 6.86
+    },
+    {
+      "rank": 43,
+      "country_territory_th": "China",
+      "infant_mortality_rate": 12.44
+    },
+    {
+      "rank": 44,
+      "country_territory_th": "Colombia",
+      "infant_mortality_rate": 14.58
+    },
+    {
+      "rank": 45,
+      "country_territory_th": "Comoros",
+      "infant_mortality_rate": 63.55
+    },
+    {
+      "rank": 46,
+      "country_territory_th": "Congo, Democratic Republic of the",
+      "infant_mortality_rate": 71.47
+    },
+    {
+      "rank": 47,
+      "country_territory_th": "Congo, Republic of the",
+      "infant_mortality_rate": 57.92
+    },
+    {
+      "rank": 48,
+      "country_territory_th": "Cook Islands",
+      "infant_mortality_rate": 13.87
+    },
+    {
+      "rank": 49,
+      "country_territory_th": "Costa Rica",
+      "infant_mortality_rate": 8.46
+    },
+    {
+      "rank": 50,
+      "country_territory_th": "Cote d'Ivoire",
+      "infant_mortality_rate": 58.7
+    },
+    {
+      "rank": 51,
+      "country_territory_th": "Croatia",
+      "infant_mortality_rate": 5.77
+    },
+    {
+      "rank": 52,
+      "country_territory_th": "Cuba",
+      "infant_mortality_rate": 4.63
+    },
+    {
+      "rank": 53,
+      "country_territory_th": "Cyprus",
+      "infant_mortality_rate": 8.36
+    },
+    {
+      "rank": 54,
+      "country_territory_th": "Czech Republic",
+      "infant_mortality_rate": 2.63
+    },
+    {
+      "rank": 55,
+      "country_territory_th": "Denmark",
+      "infant_mortality_rate": 4.05
+    },
+    {
+      "rank": 56,
+      "country_territory_th": "Djibouti",
+      "infant_mortality_rate": 48.7
+    },
+    {
+      "rank": 57,
+      "country_territory_th": "Dominica",
+      "infant_mortality_rate": 11.25
+    },
+    {
+      "rank": 58,
+      "country_territory_th": "Dominican Republic",
+      "infant_mortality_rate": 18.84
+    },
+    {
+      "rank": 59,
+      "country_territory_th": "Ecuador",
+      "infant_mortality_rate": 17.38
+    },
+    {
+      "rank": 60,
+      "country_territory_th": "Egypt",
+      "infant_mortality_rate": 21.55
+    },
+    {
+      "rank": 61,
+      "country_territory_th": "El Salvador",
+      "infant_mortality_rate": 17.86
+    },
+    {
+      "rank": 62,
+      "country_territory_th": "Equatorial Guinea",
+      "infant_mortality_rate": 69.17
+    },
+    {
+      "rank": 63,
+      "country_territory_th": "Eritrea",
+      "infant_mortality_rate": 37.53
+    },
+    {
+      "rank": 64,
+      "country_territory_th": "Estonia",
+      "infant_mortality_rate": 3.85
+    },
+    {
+      "rank": 65,
+      "country_territory_th": "Ethiopia",
+      "infant_mortality_rate": 53.37
+    },
+    {
+      "rank": 66,
+      "country_territory_th": "European Union",
+      "infant_mortality_rate": 4
+    },
+    {
+      "rank": 67,
+      "country_territory_th": "Faroe Islands",
+      "infant_mortality_rate": 5.6
+    },
+    {
+      "rank": 68,
+      "country_territory_th": "Fiji",
+      "infant_mortality_rate": 9.94
+    },
+    {
+      "rank": 69,
+      "country_territory_th": "Finland",
+      "infant_mortality_rate": 2.52
+    },
+    {
+      "rank": 70,
+      "country_territory_th": "France",
+      "infant_mortality_rate": 3.28
+    },
+    {
+      "rank": 71,
+      "country_territory_th": "French Polynesia",
+      "infant_mortality_rate": 4.73
+    },
+    {
+      "rank": 72,
+      "country_territory_th": "Gabon",
+      "infant_mortality_rate": 46.07
+    },
+    {
+      "rank": 73,
+      "country_territory_th": "Gambia",
+      "infant_mortality_rate": 63.9
+    },
+    {
+      "rank": 74,
+      "country_territory_th": "Gaza Strip",
+      "infant_mortality_rate": 14.94
+    },
+    {
+      "rank": 75,
+      "country_territory_th": "Georgia",
+      "infant_mortality_rate": 16.15
+    },
+    {
+      "rank": 76,
+      "country_territory_th": "Germany",
+      "infant_mortality_rate": 3.43
+    },
+    {
+      "rank": 77,
+      "country_territory_th": "Ghana",
+      "infant_mortality_rate": 37.37
+    },
+    {
+      "rank": 78,
+      "country_territory_th": "Gibraltar",
+      "infant_mortality_rate": 6.16
+    },
+    {
+      "rank": 79,
+      "country_territory_th": "Greece",
+      "infant_mortality_rate": 4.7
+    },
+    {
+      "rank": 80,
+      "country_territory_th": "Greenland",
+      "infant_mortality_rate": 9.23
+    },
+    {
+      "rank": 81,
+      "country_territory_th": "Grenada",
+      "infant_mortality_rate": 10.21
+    },
+    {
+      "rank": 82,
+      "country_territory_th": "Guam",
+      "infant_mortality_rate": 5.41
+    },
+    {
+      "rank": 83,
+      "country_territory_th": "Guatemala",
+      "infant_mortality_rate": 22.73
+    },
+    {
+      "rank": 84,
+      "country_territory_th": "Guernsey",
+      "infant_mortality_rate": 3.44
+    },
+    {
+      "rank": 85,
+      "country_territory_th": "Guinea",
+      "infant_mortality_rate": 53.43
+    },
+    {
+      "rank": 86,
+      "country_territory_th": "Guinea-Bissau",
+      "infant_mortality_rate": 89.21
+    },
+    {
+      "rank": 87,
+      "country_territory_th": "Guyana",
+      "infant_mortality_rate": 32.56
+    },
+    {
+      "rank": 88,
+      "country_territory_th": "Haiti",
+      "infant_mortality_rate": 47.98
+    },
+    {
+      "rank": 89,
+      "country_territory_th": "Honduras",
+      "infant_mortality_rate": 18.18
+    },
+    {
+      "rank": 90,
+      "country_territory_th": "Hong Kong",
+      "infant_mortality_rate": 2.73
+    },
+    {
+      "rank": 91,
+      "country_territory_th": "Hungary",
+      "infant_mortality_rate": 5.02
+    },
+    {
+      "rank": 92,
+      "country_territory_th": "Iceland",
+      "infant_mortality_rate": 2.06
+    },
+    {
+      "rank": 93,
+      "country_territory_th": "India",
+      "infant_mortality_rate": 41.81
+    },
+    {
+      "rank": 94,
+      "country_territory_th": "Indonesia",
+      "infant_mortality_rate": 24.29
+    },
+    {
+      "rank": 95,
+      "country_territory_th": "Iran",
+      "infant_mortality_rate": 38.04
+    },
+    {
+      "rank": 96,
+      "country_territory_th": "Iraq",
+      "infant_mortality_rate": 37.49
+    },
+    {
+      "rank": 97,
+      "country_territory_th": "Ireland",
+      "infant_mortality_rate": 3.7
+    },
+    {
+      "rank": 98,
+      "country_territory_th": "Isle of Man",
+      "infant_mortality_rate": 4.11
+    },
+    {
+      "rank": 99,
+      "country_territory_th": "Israel",
+      "infant_mortality_rate": 3.55
+    },
+    {
+      "rank": 100,
+      "country_territory_th": "Italy",
+      "infant_mortality_rate": 3.29
+    },
+    {
+      "rank": 101,
+      "country_territory_th": "Jamaica",
+      "infant_mortality_rate": 13.37
+    },
+    {
+      "rank": 102,
+      "country_territory_th": "Japan",
+      "infant_mortality_rate": 2.08
+    },
+    {
+      "rank": 103,
+      "country_territory_th": "Jersey",
+      "infant_mortality_rate": 3.82
+    },
+    {
+      "rank": 104,
+      "country_territory_th": "Jordan",
+      "infant_mortality_rate": 15.18
+    },
+    {
+      "rank": 105,
+      "country_territory_th": "Kazakhstan",
+      "infant_mortality_rate": 20.92
+    },
+    {
+      "rank": 106,
+      "country_territory_th": "Kenya",
+      "infant_mortality_rate": 39.38
+    },
+    {
+      "rank": 107,
+      "country_territory_th": "Kiribati",
+      "infant_mortality_rate": 34.26
+    },
+    {
+      "rank": 108,
+      "country_territory_th": "Korea, North",
+      "infant_mortality_rate": 23.68
+    },
+    {
+      "rank": 109,
+      "country_territory_th": "Korea, South",
+      "infant_mortality_rate": 3.86
+    },
+    {
+      "rank": 110,
+      "country_territory_th": "Kuwait",
+      "infant_mortality_rate": 7.31
+    },
+    {
+      "rank": 111,
+      "country_territory_th": "Kyrgyzstan",
+      "infant_mortality_rate": 27.73
+    },
+    {
+      "rank": 112,
+      "country_territory_th": "Laos",
+      "infant_mortality_rate": 52.97
+    },
+    {
+      "rank": 113,
+      "country_territory_th": "Latvia",
+      "infant_mortality_rate": 5.36
+    },
+    {
+      "rank": 114,
+      "country_territory_th": "Lebanon",
+      "infant_mortality_rate": 7.76
+    },
+    {
+      "rank": 115,
+      "country_territory_th": "Lesotho",
+      "infant_mortality_rate": 49.03
+    },
+    {
+      "rank": 116,
+      "country_territory_th": "Liberia",
+      "infant_mortality_rate": 67.5
+    },
+    {
+      "rank": 117,
+      "country_territory_th": "Libya",
+      "infant_mortality_rate": 11.48
+    },
+    {
+      "rank": 118,
+      "country_territory_th": "Liechtenstein",
+      "infant_mortality_rate": 4.29
+    },
+    {
+      "rank": 119,
+      "country_territory_th": "Lithuania",
+      "infant_mortality_rate": 3.84
+    },
+    {
+      "rank": 120,
+      "country_territory_th": "Luxembourg",
+      "infant_mortality_rate": 3.46
+    },
+    {
+      "rank": 121,
+      "country_territory_th": "Macau",
+      "infant_mortality_rate": 3.12
+    },
+    {
+      "rank": 122,
+      "country_territory_th": "North Macedonia",
+      "infant_mortality_rate": 7.7
+    },
+    {
+      "rank": 123,
+      "country_territory_th": "Madagascar",
+      "infant_mortality_rate": 43.67
+    },
+    {
+      "rank": 124,
+      "country_territory_th": "Malawi",
+      "infant_mortality_rate": 46.26
+    },
+    {
+      "rank": 125,
+      "country_territory_th": "Malaysia",
+      "infant_mortality_rate": 13.27
+    },
+    {
+      "rank": 126,
+      "country_territory_th": "Maldives",
+      "infant_mortality_rate": 23.7
+    },
+    {
+      "rank": 127,
+      "country_territory_th": "Mali",
+      "infant_mortality_rate": 102.23
+    },
+    {
+      "rank": 128,
+      "country_territory_th": "Malta",
+      "infant_mortality_rate": 3.56
+    },
+    {
+      "rank": 129,
+      "country_territory_th": "Marshall Islands",
+      "infant_mortality_rate": 20.66
+    },
+    {
+      "rank": 130,
+      "country_territory_th": "Mauritania",
+      "infant_mortality_rate": 54.68
+    },
+    {
+      "rank": 131,
+      "country_territory_th": "Mauritius",
+      "infant_mortality_rate": 10.3
+    },
+    {
+      "rank": 132,
+      "country_territory_th": "Mexico",
+      "infant_mortality_rate": 12.23
+    },
+    {
+      "rank": 133,
+      "country_territory_th": "Micronesia",
+      "infant_mortality_rate": 21.18
+    },
+    {
+      "rank": 134,
+      "country_territory_th": "Moldova",
+      "infant_mortality_rate": 12.59
+    },
+    {
+      "rank": 135,
+      "country_territory_th": "Monaco",
+      "infant_mortality_rate": 1.82
+    },
+    {
+      "rank": 136,
+      "country_territory_th": "Mongolia",
+      "infant_mortality_rate": 22.44
+    },
+    {
+      "rank": 137,
+      "country_territory_th": "Montserrat",
+      "infant_mortality_rate": 13.17
+    },
+    {
+      "rank": 138,
+      "country_territory_th": "Morocco",
+      "infant_mortality_rate": 23.6
+    },
+    {
+      "rank": 139,
+      "country_territory_th": "Mozambique",
+      "infant_mortality_rate": 70.21
+    },
+    {
+      "rank": 140,
+      "country_territory_th": "Namibia",
+      "infant_mortality_rate": 45.62
+    },
+    {
+      "rank": 141,
+      "country_territory_th": "Nauru",
+      "infant_mortality_rate": 8.07
+    },
+    {
+      "rank": 142,
+      "country_territory_th": "Nepal",
+      "infant_mortality_rate": 39.14
+    },
+    {
+      "rank": 143,
+      "country_territory_th": "Netherlands",
+      "infant_mortality_rate": 3.62
+    },
+    {
+      "rank": 144,
+      "country_territory_th": "New Caledonia",
+      "infant_mortality_rate": 5.37
+    },
+    {
+      "rank": 145,
+      "country_territory_th": "New Zealand",
+      "infant_mortality_rate": 4.52
+    },
+    {
+      "rank": 146,
+      "country_territory_th": "Nicaragua",
+      "infant_mortality_rate": 19.65
+    },
+    {
+      "rank": 147,
+      "country_territory_th": "Niger",
+      "infant_mortality_rate": 84.59
+    },
+    {
+      "rank": 148,
+      "country_territory_th": "Nigeria",
+      "infant_mortality_rate": 72.7
+    },
+    {
+      "rank": 149,
+      "country_territory_th": "Northern Mariana Islands",
+      "infant_mortality_rate": 5.4
+    },
+    {
+      "rank": 150,
+      "country_territory_th": "Norway",
+      "infant_mortality_rate": 2.48
+    },
+    {
+      "rank": 151,
+      "country_territory_th": "Oman",
+      "infant_mortality_rate": 13.55
+    },
+    {
+      "rank": 152,
+      "country_territory_th": "Pakistan",
+      "infant_mortality_rate": 55.67
+    },
+    {
+      "rank": 153,
+      "country_territory_th": "Palau",
+      "infant_mortality_rate": 11.15
+    },
+    {
+      "rank": 154,
+      "country_territory_th": "Panama",
+      "infant_mortality_rate": 10.41
+    },
+    {
+      "rank": 155,
+      "country_territory_th": "Papua New Guinea",
+      "infant_mortality_rate": 38.55
+    },
+    {
+      "rank": 156,
+      "country_territory_th": "Paraguay",
+      "infant_mortality_rate": 20.05
+    },
+    {
+      "rank": 157,
+      "country_territory_th": "Peru",
+      "infant_mortality_rate": 19.59
+    },
+    {
+      "rank": 158,
+      "country_territory_th": "Philippines",
+      "infant_mortality_rate": 22.34
+    },
+    {
+      "rank": 159,
+      "country_territory_th": "Poland",
+      "infant_mortality_rate": 4.5
+    },
+    {
+      "rank": 160,
+      "country_territory_th": "Portugal",
+      "infant_mortality_rate": 4.43
+    },
+    {
+      "rank": 161,
+      "country_territory_th": "Puerto Rico",
+      "infant_mortality_rate": 7.57
+    },
+    {
+      "rank": 162,
+      "country_territory_th": "Qatar",
+      "infant_mortality_rate": 6.32
+    },
+    {
+      "rank": 163,
+      "country_territory_th": "Romania",
+      "infant_mortality_rate": 9.89
+    },
+    {
+      "rank": 164,
+      "country_territory_th": "Russia",
+      "infant_mortality_rate": 6.97
+    },
+    {
+      "rank": 165,
+      "country_territory_th": "Rwanda",
+      "infant_mortality_rate": 58.19
+    },
+    {
+      "rank": 166,
+      "country_territory_th": "Saint Helena",
+      "infant_mortality_rate": 14.19
+    },
+    {
+      "rank": 167,
+      "country_territory_th": "Saint Kitts and Nevis",
+      "infant_mortality_rate": 8.77
+    },
+    {
+      "rank": 168,
+      "country_territory_th": "Saint Lucia",
+      "infant_mortality_rate": 11.45
+    },
+    {
+      "rank": 169,
+      "country_territory_th": "Saint Pierre and Miquelon",
+      "infant_mortality_rate": 6.78
+    },
+    {
+      "rank": 170,
+      "country_territory_th": "Saint Vincent and the Grenadines",
+      "infant_mortality_rate": 12.69
+    },
+    {
+      "rank": 171,
+      "country_territory_th": "Samoa",
+      "infant_mortality_rate": 19.57
+    },
+    {
+      "rank": 172,
+      "country_territory_th": "San Marino",
+      "infant_mortality_rate": 4.45
+    },
+    {
+      "rank": 173,
+      "country_territory_th": "Sao Tome and Principe",
+      "infant_mortality_rate": 47.88
+    },
+    {
+      "rank": 174,
+      "country_territory_th": "Saudi Arabia",
+      "infant_mortality_rate": 14.09
+    },
+    {
+      "rank": 175,
+      "country_territory_th": "Senegal",
+      "infant_mortality_rate": 51.54
+    },
+    {
+      "rank": 176,
+      "country_territory_th": "Serbia",
+      "infant_mortality_rate": 6.05
+    },
+    {
+      "rank": 177,
+      "country_territory_th": "Seychelles",
+      "infant_mortality_rate": 10.49
+    },
+    {
+      "rank": 178,
+      "country_territory_th": "Sierra Leone",
+      "infant_mortality_rate": 71.68
+    },
+    {
+      "rank": 179,
+      "country_territory_th": "Singapore",
+      "infant_mortality_rate": 2.48
+    },
+    {
+      "rank": 180,
+      "country_territory_th": "Slovakia",
+      "infant_mortality_rate": 5.27
+    },
+    {
+      "rank": 181,
+      "country_territory_th": "Slovenia",
+      "infant_mortality_rate": 4
+    },
+    {
+      "rank": 182,
+      "country_territory_th": "Solomon Islands",
+      "infant_mortality_rate": 15.65
+    },
+    {
+      "rank": 183,
+      "country_territory_th": "Somalia",
+      "infant_mortality_rate": 98.39
+    },
+    {
+      "rank": 184,
+      "country_territory_th": "South Africa",
+      "infant_mortality_rate": 32.99
+    },
+    {
+      "rank": 185,
+      "country_territory_th": "South Sudan",
+      "infant_mortality_rate": 66.39
+    },
+    {
+      "rank": 186,
+      "country_territory_th": "Spain",
+      "infant_mortality_rate": 3.3
+    },
+    {
+      "rank": 187,
+      "country_territory_th": "Sri Lanka",
+      "infant_mortality_rate": 8.8
+    },
+    {
+      "rank": 188,
+      "country_territory_th": "Sudan",
+      "infant_mortality_rate": 51.52
+    },
+    {
+      "rank": 189,
+      "country_territory_th": "Suriname",
+      "infant_mortality_rate": 26.17
+    },
+    {
+      "rank": 190,
+      "country_territory_th": "Swaziland",
+      "infant_mortality_rate": 52.57
+    },
+    {
+      "rank": 191,
+      "country_territory_th": "Sweden",
+      "infant_mortality_rate": 2.6
+    },
+    {
+      "rank": 192,
+      "country_territory_th": "Switzerland",
+      "infant_mortality_rate": 3.67
+    },
+    {
+      "rank": 193,
+      "country_territory_th": "Syria",
+      "infant_mortality_rate": 15.61
+    },
+    {
+      "rank": 194,
+      "country_territory_th": "Taiwan",
+      "infant_mortality_rate": 4.44
+    },
+    {
+      "rank": 195,
+      "country_territory_th": "Tajikistan",
+      "infant_mortality_rate": 33.93
+    },
+    {
+      "rank": 196,
+      "country_territory_th": "Tanzania",
+      "infant_mortality_rate": 42.43
+    },
+    {
+      "rank": 197,
+      "country_territory_th": "Thailand",
+      "infant_mortality_rate": 9.63
+    },
+    {
+      "rank": 198,
+      "country_territory_th": "Timor-Leste",
+      "infant_mortality_rate": 37.54
+    },
+    {
+      "rank": 199,
+      "country_territory_th": "Togo",
+      "infant_mortality_rate": 45.22
+    },
+    {
+      "rank": 200,
+      "country_territory_th": "Tonga",
+      "infant_mortality_rate": 11.96
+    },
+    {
+      "rank": 201,
+      "country_territory_th": "Trinidad and Tobago",
+      "infant_mortality_rate": 23.9
+    },
+    {
+      "rank": 202,
+      "country_territory_th": "Tunisia",
+      "infant_mortality_rate": 22.35
+    },
+    {
+      "rank": 203,
+      "country_territory_th": "Turkey",
+      "infant_mortality_rate": 18.87
+    },
+    {
+      "rank": 204,
+      "country_territory_th": "Turkmenistan",
+      "infant_mortality_rate": 36.82
+    },
+    {
+      "rank": 205,
+      "country_territory_th": "Turks and Caicos Islands",
+      "infant_mortality_rate": 10.65
+    },
+    {
+      "rank": 206,
+      "country_territory_th": "Tuvalu",
+      "infant_mortality_rate": 30.8
+    },
+    {
+      "rank": 207,
+      "country_territory_th": "Uganda",
+      "infant_mortality_rate": 59.21
+    },
+    {
+      "rank": 208,
+      "country_territory_th": "Ukraine",
+      "infant_mortality_rate": 8.12
+    },
+    {
+      "rank": 209,
+      "country_territory_th": "United Arab Emirates",
+      "infant_mortality_rate": 10.59
+    },
+    {
+      "rank": 210,
+      "country_territory_th": "United Kingdom",
+      "infant_mortality_rate": 4.38
+    },
+    {
+      "rank": 211,
+      "country_territory_th": "United States",
+      "infant_mortality_rate": 5.87
+    },
+    {
+      "rank": 212,
+      "country_territory_th": "Uruguay",
+      "infant_mortality_rate": 8.74
+    },
+    {
+      "rank": 213,
+      "country_territory_th": "Uzbekistan",
+      "infant_mortality_rate": 19.2
+    },
+    {
+      "rank": 214,
+      "country_territory_th": "Vanuatu",
+      "infant_mortality_rate": 15.7
+    },
+    {
+      "rank": 215,
+      "country_territory_th": "Venezuela",
+      "infant_mortality_rate": 18.91
+    },
+    {
+      "rank": 216,
+      "country_territory_th": "Vietnam",
+      "infant_mortality_rate": 18.39
+    },
+    {
+      "rank": 217,
+      "country_territory_th": "U.S. Virgin Islands",
+      "infant_mortality_rate": 6.64
+    },
+    {
+      "rank": 218,
+      "country_territory_th": "Wallis and Futuna",
+      "infant_mortality_rate": 4.43
+    },
+    {
+      "rank": 219,
+      "country_territory_th": "West Bank",
+      "infant_mortality_rate": 13.08
+    },
+    {
+      "rank": 220,
+      "country_territory_th": "Western Sahara",
+      "infant_mortality_rate": 54.7
+    },
+    {
+      "rank": 221,
+      "country_territory_th": "Yemen",
+      "infant_mortality_rate": 48.93
+    },
+    {
+      "rank": 222,
+      "country_territory_th": "Zambia",
+      "infant_mortality_rate": 64.72
+    },
+    {
+      "rank": 223,
+      "country_territory_th": "Zimbabwe",
+      "infant_mortality_rate": 26.11
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประเทศเรียงตามอัตราภาวะการตายของทารก",
+    "description": "ข้อมูลรายชื่อประเทศและดินแดนทั่วโลกเรียงตามอัตราภาวะการตายของทารก (ต่อ 1,000 คน) โดยอ้างอิงจากเดอะเวิลด์แฟกต์บุ๊ก (CIA World Factbook) ปี 2015",
+    "seo_title": "รายชื่อประเทศเรียงตามอัตราภาวะการตายของทารก - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 223 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 223 รายการครบถ้วน",
+      "รวม: ลำดับที่, ประเทศ/ดินแดน, อัตราภาวะการตายของทารก",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "id": "science-electronegativity",
+  "name": "ชุดข้อมูลตารางค่าอิเล็กโทรเนกาทิวิตี (Pauling Scale)",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Element Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "electronegativity",
+      "label": "Electronegativity (Pauling)",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Element Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "trend",
+      "label": "Trend Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "H",
+      "name": "ไฮโดรเจน",
+      "atomic_number": 1,
+      "electronegativity": 2.2,
+      "period": 1,
+      "group": 1,
+      "category": "อโลหะ",
+      "trend": "อ้างอิง"
+    },
+    {
+      "symbol": "He",
+      "name": "ฮีเลียม",
+      "atomic_number": 2,
+      "electronegativity": "-",
+      "period": 1,
+      "group": 18,
+      "category": "แก๊สมีตระกูล",
+      "trend": "ไม่เกี่ยวข้อง - แก๊สมีตระกูล"
+    },
+    {
+      "symbol": "Li",
+      "name": "ลิเทียม",
+      "atomic_number": 3,
+      "electronegativity": 0.98,
+      "period": 2,
+      "group": 1,
+      "category": "โลหะอัลคาไล",
+      "trend": "ต่ำสุดในคาบ"
+    },
+    {
+      "symbol": "Be",
+      "name": "เบริลเลียม",
+      "atomic_number": 4,
+      "electronegativity": 1.57,
+      "period": 2,
+      "group": 2,
+      "category": "โลหะอัลคาไลน์เอิร์ท",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "B",
+      "name": "โบรอน",
+      "atomic_number": 5,
+      "electronegativity": 2.04,
+      "period": 2,
+      "group": 13,
+      "category": "ธาตุกึ่งโลหะ",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "C",
+      "name": "คาร์บอน",
+      "atomic_number": 6,
+      "electronegativity": 2.55,
+      "period": 2,
+      "group": 14,
+      "category": "อโลหะ",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "N",
+      "name": "ไนโตรเจน",
+      "atomic_number": 7,
+      "electronegativity": 3.04,
+      "period": 2,
+      "group": 15,
+      "category": "อโลหะ",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "O",
+      "name": "ออกซิเจน",
+      "atomic_number": 8,
+      "electronegativity": 3.44,
+      "period": 2,
+      "group": 16,
+      "category": "อโลหะ",
+      "trend": "สูงสุดเป็นอันดับสอง"
+    },
+    {
+      "symbol": "F",
+      "name": "ฟลูออรีน",
+      "atomic_number": 9,
+      "electronegativity": 3.98,
+      "period": 2,
+      "group": 17,
+      "category": "ฮาโลเจน",
+      "trend": "ธาตุที่อิเล็กโตรเนกาติฟที่สุด"
+    },
+    {
+      "symbol": "Ne",
+      "name": "นีออน",
+      "atomic_number": 10,
+      "electronegativity": "-",
+      "period": 2,
+      "group": 18,
+      "category": "แก๊สมีตระกูล",
+      "trend": "ไม่เกี่ยวข้อง - แก๊สมีตระกูล"
+    },
+    {
+      "symbol": "Na",
+      "name": "โซเดียม",
+      "atomic_number": 11,
+      "electronegativity": 0.93,
+      "period": 3,
+      "group": 1,
+      "category": "โลหะอัลคาไล",
+      "trend": "ต่ำสุดในคาบ"
+    },
+    {
+      "symbol": "Mg",
+      "name": "แมกนีเซียม",
+      "atomic_number": 12,
+      "electronegativity": 1.31,
+      "period": 3,
+      "group": 2,
+      "category": "โลหะอัลคาไลน์เอิร์ท",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "Al",
+      "name": "อะลูมิเนียม",
+      "atomic_number": 13,
+      "electronegativity": 1.61,
+      "period": 3,
+      "group": 13,
+      "category": "โลหะหลังทรานซิชัน",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "Si",
+      "name": "ซิลิคอน",
+      "atomic_number": 14,
+      "electronegativity": 1.9,
+      "period": 3,
+      "group": 14,
+      "category": "ธาตุกึ่งโลหะ",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "P",
+      "name": "ฟอสฟอรัส",
+      "atomic_number": 15,
+      "electronegativity": 2.19,
+      "period": 3,
+      "group": 15,
+      "category": "อโลหะ",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "S",
+      "name": "ซัลเฟอร์",
+      "atomic_number": 16,
+      "electronegativity": 2.58,
+      "period": 3,
+      "group": 16,
+      "category": "อโลหะ",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "Cl",
+      "name": "คลอรีน",
+      "atomic_number": 17,
+      "electronegativity": 3.16,
+      "period": 3,
+      "group": 17,
+      "category": "ฮาโลเจน",
+      "trend": "สูงสุดในคาบ"
+    },
+    {
+      "symbol": "Ar",
+      "name": "อาร์กอน",
+      "atomic_number": 18,
+      "electronegativity": "-",
+      "period": 3,
+      "group": 18,
+      "category": "แก๊สมีตระกูล",
+      "trend": "ไม่เกี่ยวข้อง - แก๊สมีตระกูล"
+    },
+    {
+      "symbol": "K",
+      "name": "โพแทสเซียม",
+      "atomic_number": 19,
+      "electronegativity": 0.82,
+      "period": 4,
+      "group": 1,
+      "category": "โลหะอัลคาไล",
+      "trend": "ต่ำสุดในคาบ"
+    },
+    {
+      "symbol": "Ca",
+      "name": "แคลเซียม",
+      "atomic_number": 20,
+      "electronegativity": 1,
+      "period": 4,
+      "group": 2,
+      "category": "โลหะอัลคาไลน์เอิร์ท",
+      "trend": "เพิ่มขึ้นตลอดคาบ"
+    },
+    {
+      "symbol": "Sc",
+      "name": "สแกนเดียม",
+      "atomic_number": 21,
+      "electronegativity": 1.36,
+      "period": 4,
+      "group": 3,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Ti",
+      "name": "ไทเทเนียม",
+      "atomic_number": 22,
+      "electronegativity": 1.54,
+      "period": 4,
+      "group": 4,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "V",
+      "name": "วานาเดียม",
+      "atomic_number": 23,
+      "electronegativity": 1.63,
+      "period": 4,
+      "group": 5,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Cr",
+      "name": "โครเมียม",
+      "atomic_number": 24,
+      "electronegativity": 1.66,
+      "period": 4,
+      "group": 6,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Mn",
+      "name": "แมงกานีส",
+      "atomic_number": 25,
+      "electronegativity": 1.55,
+      "period": 4,
+      "group": 7,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Fe",
+      "name": "เหล็ก",
+      "atomic_number": 26,
+      "electronegativity": 1.83,
+      "period": 4,
+      "group": 8,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Co",
+      "name": "โคบอลต์",
+      "atomic_number": 27,
+      "electronegativity": 1.88,
+      "period": 4,
+      "group": 9,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Ni",
+      "name": "นิกเกิล",
+      "atomic_number": 28,
+      "electronegativity": 1.91,
+      "period": 4,
+      "group": 10,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Cu",
+      "name": "ทองแดง",
+      "atomic_number": 29,
+      "electronegativity": 1.9,
+      "period": 4,
+      "group": 11,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Zn",
+      "name": "สังกะสี",
+      "atomic_number": 30,
+      "electronegativity": 1.65,
+      "period": 4,
+      "group": 12,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Ga",
+      "name": "แกลเลียม",
+      "atomic_number": 31,
+      "electronegativity": 1.81,
+      "period": 4,
+      "group": 13,
+      "category": "โลหะหลังทรานซิชัน",
+      "trend": "หลังทรานซิชัน"
+    },
+    {
+      "symbol": "Ge",
+      "name": "เจอร์เมเนียม",
+      "atomic_number": 32,
+      "electronegativity": 2.01,
+      "period": 4,
+      "group": 14,
+      "category": "กึ่งโลหะ",
+      "trend": "เพิ่มขึ้นตามคาบ"
+    },
+    {
+      "symbol": "As",
+      "name": "สารหนู",
+      "atomic_number": 33,
+      "electronegativity": 2.18,
+      "period": 4,
+      "group": 15,
+      "category": "กึ่งโลหะ",
+      "trend": "เพิ่มขึ้นตามคาบ"
+    },
+    {
+      "symbol": "Se",
+      "name": "ซีลีเนียม",
+      "atomic_number": 34,
+      "electronegativity": 2.55,
+      "period": 4,
+      "group": 16,
+      "category": "อโลหะ",
+      "trend": "เพิ่มขึ้นตามคาบ"
+    },
+    {
+      "symbol": "Br",
+      "name": "โบรมีน",
+      "atomic_number": 35,
+      "electronegativity": 2.96,
+      "period": 4,
+      "group": 17,
+      "category": "แฮโลเจน",
+      "trend": "สูงสุดในคาบ"
+    },
+    {
+      "symbol": "Kr",
+      "name": "คริปตอน",
+      "atomic_number": 36,
+      "electronegativity": 3,
+      "period": 4,
+      "group": 18,
+      "category": "แก๊สมีสกุล",
+      "trend": "แก๊สมีสกุลที่มีค่า EN"
+    },
+    {
+      "symbol": "Rb",
+      "name": "รูบิเดียม",
+      "atomic_number": 37,
+      "electronegativity": 0.82,
+      "period": 5,
+      "group": 1,
+      "category": "โลหะอัลคาไล",
+      "trend": "ต่ำสุดในคาบ"
+    },
+    {
+      "symbol": "Sr",
+      "name": "สตรอนเชียม",
+      "atomic_number": 38,
+      "electronegativity": 0.95,
+      "period": 5,
+      "group": 2,
+      "category": "โลหะแอลคาไลน์เอิร์ท",
+      "trend": "เพิ่มขึ้นตามคาบ"
+    },
+    {
+      "symbol": "Y",
+      "name": "อิตเทรียม",
+      "atomic_number": 39,
+      "electronegativity": 1.22,
+      "period": 5,
+      "group": 3,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Zr",
+      "name": "เซอร์โคเนียม",
+      "atomic_number": 40,
+      "electronegativity": 1.33,
+      "period": 5,
+      "group": 4,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Nb",
+      "name": "ไนโอเบียม",
+      "atomic_number": 41,
+      "electronegativity": 1.6,
+      "period": 5,
+      "group": 5,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Mo",
+      "name": "โมลิบดีนัม",
+      "atomic_number": 42,
+      "electronegativity": 2.16,
+      "period": 5,
+      "group": 6,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Tc",
+      "name": "เทคนีเชียม",
+      "atomic_number": 43,
+      "electronegativity": 1.9,
+      "period": 5,
+      "group": 7,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Ru",
+      "name": "รูทีเนียม",
+      "atomic_number": 44,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 8,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Rh",
+      "name": "โรเดียม",
+      "atomic_number": 45,
+      "electronegativity": 2.28,
+      "period": 5,
+      "group": 9,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Pd",
+      "name": "แพลเลเดียม",
+      "atomic_number": 46,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 10,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Ag",
+      "name": "เงิน",
+      "atomic_number": 47,
+      "electronegativity": 1.93,
+      "period": 5,
+      "group": 11,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Cd",
+      "name": "แคดเมียม",
+      "atomic_number": 48,
+      "electronegativity": 1.69,
+      "period": 5,
+      "group": 12,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "In",
+      "name": "อินเดียม",
+      "atomic_number": 49,
+      "electronegativity": 1.78,
+      "period": 5,
+      "group": 13,
+      "category": "โลหะหลังทรานซิชัน",
+      "trend": "หลังทรานซิชัน"
+    },
+    {
+      "symbol": "Sn",
+      "name": "ดีบุก",
+      "atomic_number": 50,
+      "electronegativity": 1.96,
+      "period": 5,
+      "group": 14,
+      "category": "โลหะหลังทรานซิชัน",
+      "trend": "เพิ่มขึ้นตามคาบ"
+    },
+    {
+      "symbol": "Sb",
+      "name": "พลวง",
+      "atomic_number": 51,
+      "electronegativity": 2.05,
+      "period": 5,
+      "group": 15,
+      "category": "ธาตุกึ่งโลหะ",
+      "trend": "เพิ่มขึ้นตามคาบ"
+    },
+    {
+      "symbol": "Te",
+      "name": "เทลลูเรียม",
+      "atomic_number": 52,
+      "electronegativity": 2.1,
+      "period": 5,
+      "group": 16,
+      "category": "ธาตุกึ่งโลหะ",
+      "trend": "เพิ่มขึ้นตามคาบ"
+    },
+    {
+      "symbol": "I",
+      "name": "ไอโอดีน",
+      "atomic_number": 53,
+      "electronegativity": 2.66,
+      "period": 5,
+      "group": 17,
+      "category": "แฮโลเจน",
+      "trend": "สูงสุดในคาบ (ธาตุหมู่หลัก)"
+    },
+    {
+      "symbol": "Xe",
+      "name": "ซีนอน",
+      "atomic_number": 54,
+      "electronegativity": 2.6,
+      "period": 5,
+      "group": 18,
+      "category": "แก๊สมีสกุล",
+      "trend": "แก๊สมีสกุลที่มีค่า EN"
+    },
+    {
+      "symbol": "Cs",
+      "name": "ซีเซียม",
+      "atomic_number": 55,
+      "electronegativity": 0.79,
+      "period": 6,
+      "group": 1,
+      "category": "โลหะอัลคาไล",
+      "trend": "ธาตุที่มีค่า EN ต่ำสุดเป็นอันดับสอง"
+    },
+    {
+      "symbol": "Ba",
+      "name": "แบเรียม",
+      "atomic_number": 56,
+      "electronegativity": 0.89,
+      "period": 6,
+      "group": 2,
+      "category": "โลหะแอลคาไลน์เอิร์ท",
+      "trend": "ค่า EN ต่ำ"
+    },
+    {
+      "symbol": "Au",
+      "name": "ทอง",
+      "atomic_number": 79,
+      "electronegativity": 2.54,
+      "period": 6,
+      "group": 11,
+      "category": "โลหะทรานซิชัน",
+      "trend": "ค่า EN สูงสำหรับโลหะ"
+    },
+    {
+      "symbol": "Hg",
+      "name": "ปรอท",
+      "atomic_number": 80,
+      "electronegativity": 2,
+      "period": 6,
+      "group": 12,
+      "category": "โลหะทรานซิชัน",
+      "trend": "โซนโลหะทรานซิชัน"
+    },
+    {
+      "symbol": "Pb",
+      "name": "ตะกั่ว",
+      "atomic_number": 82,
+      "electronegativity": 2.33,
+      "period": 6,
+      "group": 14,
+      "category": "โลหะหลังทรานซิชัน",
+      "trend": "หลังทรานซิชัน"
+    },
+    {
+      "symbol": "Bi",
+      "name": "บิสมัท",
+      "atomic_number": 83,
+      "electronegativity": 2.02,
+      "period": 6,
+      "group": 15,
+      "category": "โลหะหลังทรานซิชัน",
+      "trend": "หลังทรานซิชัน"
+    },
+    {
+      "symbol": "At",
+      "name": "แอสทาทีน",
+      "atomic_number": 85,
+      "electronegativity": 2.2,
+      "period": 6,
+      "group": 17,
+      "category": "แฮโลเจน",
+      "trend": "แฮโลเจนกัมมันตรังสี"
+    },
+    {
+      "symbol": "Fr",
+      "name": "แฟรนเซียม",
+      "atomic_number": 87,
+      "electronegativity": 0.7,
+      "period": 7,
+      "group": 1,
+      "category": "โลหะอัลคาไล",
+      "trend": "ธาตุที่มีค่า EN ต่ำที่สุด"
+    }
+  ],
+  "meta": {
+    "seo_title": "ตารางค่าอิเล็กโทรเนกาทิวิตี (Pauling) - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี: ตารางค่าอิเล็กโทรเนกาทิวิตี (Pauling Scale) สำหรับ 62 ธาตุเคมี สำรวจคุณสมบัติอะตอม มีใน Excel, CSV และ PDF",
+    "title": "ชุดข้อมูลตารางค่าอิเล็กโทรเนกาทิวิตี (Pauling Scale)",
+    "description": "ชุดข้อมูลนี้ให้ค่าอิเล็กโทรเนกาทิวิตี (Pauling Scale) สำหรับ 62 ธาตุเคมี รวมถึงเลขอะตอม คาบ หมู่ และประเภทธาตุ เหมาะสำหรับนักเรียน นักวิจัย และนักการศึกษาเคมี",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลค่าอิเล็กโทรเนกาทิวิตี Pauling สำหรับ 62 ธาตุ",
+      "สำรวจคุณสมบัติอะตอมและแนวโน้มเป็นคาบอย่างละเอียด",
+      "ดาวน์โหลดข้อมูลที่ครอบคลุมในรูปแบบ Excel, CSV หรือ PDF เพื่อการวิเคราะห์",
+      "ทำความเข้าใจเกี่ยวกับการเกิดพันธะเคมีและการเกิดปฏิกิริยา"
+    ],
+    "keywords": [
+      "ตารางอิเล็กโทรเนกาทิวิตี",
+      "Pauling scale ธาตุ",
+      "ข้อมูลคุณสมบัติอะตอม",
+      "ค่าอิเล็กโทรเนกาทิวิตี excel",
+      "แนวโน้มเป็นคาบ csv",
+      "ข้อมูลเคมีฟรี"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** เข้าสู่ฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อทำการวิเคราะห์ข้อมูลแนวโน้มอิเล็กโทรเนกาทิวิตีและคุณสมบัติธาตุเคมีได้ตามต้องการ",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Tables, กรองธาตุตามหมู่หรือประเภท และสร้างรายงานสำหรับการวิจัยทางวิชาการหรืองานมอบหมายในชั้นเรียน",
+      "พิมพ์เวอร์ชัน **PDF** เพื่อเป็นคู่มืออ้างอิงแบบออฟไลน์อย่างรวดเร็วในห้องปฏิบัติการเคมี ห้องเรียน หรือสำหรับการนำเสนอเกี่ยวกับลักษณะของอะตอม",
+      "ใช้ชุดข้อมูลนี้เพื่อทำความเข้าใจแนวโน้มของอิเล็กโทรเนกาทิวิตีตามคาบและคาดการณ์พฤติกรรมการเกิดพันธะเคมีในสารประกอบต่างๆ"
+    ]
+  },
+  "record_count": 62,
+  "title": "ชุดข้อมูลตารางค่าอิเล็กโทรเนกาทิวิตี (Pauling Scale)"
+}

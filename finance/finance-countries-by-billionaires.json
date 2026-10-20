@@ -1,0 +1,657 @@
+{
+  "id": "finance-countries-by-billionaires",
+  "name": "รายชื่อประเทศเรียงตามจำนวนเศรษฐีพันล้าน",
+  "title": "รายชื่อประเทศเรียงตามจำนวนเศรษฐีพันล้าน",
+  "description": "รายชื่อประเทศทั่วโลกเรียงตามจำนวนมหาเศรษฐีที่มีมูลค่าทรัพย์สินสุทธิเกิน 1 พันล้านดอลลาร์สหรัฐ ประเมินโดยนิตยสารฟอบส์ ข้อมูลประกอบด้วยอันดับโลก ชื่อประเทศ จำนวนมหาเศรษฐี จำนวนประชากรต่อมหาเศรษฐีหนึ่งคน บุคคลที่รวยที่สุดในประเทศ และมูลค่าทรัพย์สินสุทธิของบุคคลที่รวยที่สุด",
+  "category": "finance",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%B5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99",
+  "updated": "2023-10-27",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "อันดับโลก",
+      "type": "number"
+    },
+    {
+      "key": "country_th",
+      "label": "ประเทศ",
+      "type": "string"
+    },
+    {
+      "key": "billionaire_count",
+      "label": "จำนวนมหาเศรษฐี",
+      "type": "number"
+    },
+    {
+      "key": "population_per_billionaire_thousands",
+      "label": "จำนวนประชากรต่อมหาเศรษฐีหนึ่งคน (หน่วยพันคน)",
+      "type": "number"
+    },
+    {
+      "key": "richest_person_th",
+      "label": "บุคคลที่รวยที่สุดในประเทศ",
+      "type": "string"
+    },
+    {
+      "key": "richest_person_net_worth_billion_usd_and_year",
+      "label": "มูลค่าทรัพย์สินสุทธิของบุคคลที่รวยที่สุดในหน่วยพันล้านดอลลาร์สหรัฐ (ข้อมูลปี)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "country_th": "United States",
+      "billionaire_count": 585,
+      "population_per_billionaire_thousands": 1452,
+      "richest_person_th": "เจฟฟ์ เบโซส",
+      "richest_person_net_worth_billion_usd_and_year": "117.2 (2020)"
+    },
+    {
+      "rank": 2,
+      "country_th": "China",
+      "billionaire_count": 476,
+      "population_per_billionaire_thousands": 2912,
+      "richest_person_th": "แจ็ก หม่า",
+      "richest_person_net_worth_billion_usd_and_year": "42.3 (2020)"
+    },
+    {
+      "rank": 3,
+      "country_th": "India",
+      "billionaire_count": 131,
+      "population_per_billionaire_thousands": 10221,
+      "richest_person_th": "มูเกช อัมบานี",
+      "richest_person_net_worth_billion_usd_and_year": "60.8 (2019)"
+    },
+    {
+      "rank": 4,
+      "country_th": "Germany",
+      "billionaire_count": 114,
+      "population_per_billionaire_thousands": 726,
+      "richest_person_th": "เบอาเทอ ไฮส์เทอร์ และ คาร์ล อัลเบร็ชท์ ผู้ลูก",
+      "richest_person_net_worth_billion_usd_and_year": "31.1 (2017)"
+    },
+    {
+      "rank": 5,
+      "country_th": "Russia",
+      "billionaire_count": 98,
+      "population_per_billionaire_thousands": 1505,
+      "richest_person_th": "เลโอนิด มิเคลสัน",
+      "richest_person_net_worth_billion_usd_and_year": "18.4 (2017)"
+    },
+    {
+      "rank": 6,
+      "country_th": "Hong Kong",
+      "billionaire_count": 67,
+      "population_per_billionaire_thousands": 110,
+      "richest_person_th": "เหลย์ก๊าเส่ง",
+      "richest_person_net_worth_billion_usd_and_year": "37.7 (2018)"
+    },
+    {
+      "rank": 7,
+      "country_th": "United Kingdom",
+      "billionaire_count": 54,
+      "population_per_billionaire_thousands": 1223,
+      "richest_person_th": "ตระกูลฮินดูจา",
+      "richest_person_net_worth_billion_usd_and_year": "19.8 (2018)"
+    },
+    {
+      "rank": 8,
+      "country_th": "Brazil",
+      "billionaire_count": 43,
+      "population_per_billionaire_thousands": 4867,
+      "richest_person_th": "จอร์จ เปาโล เลมันน์",
+      "richest_person_net_worth_billion_usd_and_year": "29.7 (2018)"
+    },
+    {
+      "rank": 9,
+      "country_th": "Italy",
+      "billionaire_count": 42,
+      "population_per_billionaire_thousands": 1443,
+      "richest_person_th": "มาเรีย ฟรังกา ฟิสโซโล",
+      "richest_person_net_worth_billion_usd_and_year": "28 (2018)"
+    },
+    {
+      "rank": 10,
+      "country_th": "Canada",
+      "billionaire_count": 39,
+      "population_per_billionaire_thousands": 950,
+      "richest_person_th": "เดวิด ทอมสัน",
+      "richest_person_net_worth_billion_usd_and_year": "27.2 (2017)"
+    },
+    {
+      "rank": 11,
+      "country_th": "France",
+      "billionaire_count": 38,
+      "population_per_billionaire_thousands": 1763,
+      "richest_person_th": "แบร์นาร์ อาร์โน",
+      "richest_person_net_worth_billion_usd_and_year": "106.6 (2019)"
+    },
+    {
+      "rank": 12,
+      "country_th": "South Korea",
+      "billionaire_count": 38,
+      "population_per_billionaire_thousands": 1354,
+      "richest_person_th": "อี คอน-ฮี",
+      "richest_person_net_worth_billion_usd_and_year": "20.6 (2018)"
+    },
+    {
+      "rank": 13,
+      "country_th": "Switzerland",
+      "billionaire_count": 36,
+      "population_per_billionaire_thousands": 234,
+      "richest_person_th": "เอร์เนสโต เบร์ตาเรลลี",
+      "richest_person_net_worth_billion_usd_and_year": "9 (2017)"
+    },
+    {
+      "rank": 14,
+      "country_th": "Australia",
+      "billionaire_count": 33,
+      "population_per_billionaire_thousands": 745,
+      "richest_person_th": "จินา ไรน์ฮาร์ท",
+      "richest_person_net_worth_billion_usd_and_year": "17.40 (2018)"
+    },
+    {
+      "rank": 15,
+      "country_th": "Japan",
+      "billionaire_count": 33,
+      "population_per_billionaire_thousands": 3842,
+      "richest_person_th": "มาซาโยชิ ซง",
+      "richest_person_net_worth_billion_usd_and_year": "23 (2018)"
+    },
+    {
+      "rank": 16,
+      "country_th": "Sweden",
+      "billionaire_count": 31,
+      "population_per_billionaire_thousands": 322,
+      "richest_person_th": "สเตฟาน แพร์สัน",
+      "richest_person_net_worth_billion_usd_and_year": "18.9 (2017)"
+    },
+    {
+      "rank": 17,
+      "country_th": "Taiwan",
+      "billionaire_count": 31,
+      "population_per_billionaire_thousands": 761,
+      "richest_person_th": "เทอร์รี กัว",
+      "richest_person_net_worth_billion_usd_and_year": "10.6 (2017)"
+    },
+    {
+      "rank": 18,
+      "country_th": "Turkey",
+      "billionaire_count": 29,
+      "population_per_billionaire_thousands": 2752,
+      "richest_person_th": "มูราต อูลเคอร์",
+      "richest_person_net_worth_billion_usd_and_year": "3.9 (2017)"
+    },
+    {
+      "rank": 19,
+      "country_th": "Spain",
+      "billionaire_count": 25,
+      "population_per_billionaire_thousands": 1869,
+      "richest_person_th": "อามันซิโอ ออร์เตกา",
+      "richest_person_net_worth_billion_usd_and_year": "68.4 (2018)"
+    },
+    {
+      "rank": 20,
+      "country_th": "Singapore",
+      "billionaire_count": 21,
+      "population_per_billionaire_thousands": 267,
+      "richest_person_th": "โรเบิร์ตและฟิลิป อึ้ง",
+      "richest_person_net_worth_billion_usd_and_year": "9.7 (2017)"
+    },
+    {
+      "rank": 21,
+      "country_th": "Indonesia",
+      "billionaire_count": 20,
+      "population_per_billionaire_thousands": 13200,
+      "richest_person_th": "โรเบิร์ต บุดี ฮาร์โตโน",
+      "richest_person_net_worth_billion_usd_and_year": "12.6 (2018)"
+    },
+    {
+      "rank": 22,
+      "country_th": "Thailand",
+      "billionaire_count": 20,
+      "population_per_billionaire_thousands": 3452,
+      "richest_person_th": "เจริญ สิริวัฒนภักดี",
+      "richest_person_net_worth_billion_usd_and_year": "19.9 (2018)"
+    },
+    {
+      "rank": 23,
+      "country_th": "Israel",
+      "billionaire_count": 18,
+      "population_per_billionaire_thousands": 484,
+      "richest_person_th": "เอยาล โอเฟอร์",
+      "richest_person_net_worth_billion_usd_and_year": "9.7 (2018)"
+    },
+    {
+      "rank": 24,
+      "country_th": "Mexico",
+      "billionaire_count": 15,
+      "population_per_billionaire_thousands": 8613,
+      "richest_person_th": "การ์โลส เอสลิม",
+      "richest_person_net_worth_billion_usd_and_year": "70.5 (2018)"
+    },
+    {
+      "rank": 25,
+      "country_th": "Philippines",
+      "billionaire_count": 14,
+      "population_per_billionaire_thousands": 7493,
+      "richest_person_th": "เฮนรี ซี",
+      "richest_person_net_worth_billion_usd_and_year": "19.8 (2018)"
+    },
+    {
+      "rank": 26,
+      "country_th": "Norway",
+      "billionaire_count": 14,
+      "population_per_billionaire_thousands": 376,
+      "richest_person_th": "อูดด์ ไรตัน",
+      "richest_person_net_worth_billion_usd_and_year": "4.19 (2017)"
+    },
+    {
+      "rank": 27,
+      "country_th": "Chile",
+      "billionaire_count": 12,
+      "population_per_billionaire_thousands": 1504,
+      "richest_person_th": "อิริส ฟอนต์โบนา",
+      "richest_person_net_worth_billion_usd_and_year": "16.3 (2018)"
+    },
+    {
+      "rank": 28,
+      "country_th": "Malaysia",
+      "billionaire_count": 12,
+      "population_per_billionaire_thousands": 2635,
+      "richest_person_th": "โรเบิร์ต ก๊วก",
+      "richest_person_net_worth_billion_usd_and_year": "15.4 (2018)"
+    },
+    {
+      "rank": 29,
+      "country_th": "Netherlands",
+      "billionaire_count": 10,
+      "population_per_billionaire_thousands": 1708,
+      "richest_person_th": "ชาร์เลเนอ ดี การ์วัลยู-ไฮเนอเกิน",
+      "richest_person_net_worth_billion_usd_and_year": "16.1 (2018)"
+    },
+    {
+      "rank": 30,
+      "country_th": "Saudi Arabia",
+      "billionaire_count": 10,
+      "population_per_billionaire_thousands": 3294,
+      "richest_person_th": "เจ้าชายอัล-วาลีด บิน ทาลาล",
+      "richest_person_net_worth_billion_usd_and_year": "18.7"
+    },
+    {
+      "rank": 31,
+      "country_th": "Austria",
+      "billionaire_count": 8,
+      "population_per_billionaire_thousands": 1097,
+      "richest_person_th": "Dietrich Mateschitz",
+      "richest_person_net_worth_billion_usd_and_year": "21.2 (2018)"
+    },
+    {
+      "rank": 32,
+      "country_th": "Ireland",
+      "billionaire_count": 8,
+      "population_per_billionaire_thousands": 598,
+      "richest_person_th": "Pallonji Mistry",
+      "richest_person_net_worth_billion_usd_and_year": "18.7 (2018)"
+    },
+    {
+      "rank": 33,
+      "country_th": "South Africa",
+      "billionaire_count": 8,
+      "population_per_billionaire_thousands": 7090,
+      "richest_person_th": "Nicky Oppenheimer",
+      "richest_person_net_worth_billion_usd_and_year": "7 (2017)"
+    },
+    {
+      "rank": 34,
+      "country_th": "Argentina",
+      "billionaire_count": 7,
+      "population_per_billionaire_thousands": 6324,
+      "richest_person_th": "Alejandro Bulgheroni",
+      "richest_person_net_worth_billion_usd_and_year": "3.5 (2017)"
+    },
+    {
+      "rank": 35,
+      "country_th": "Egypt",
+      "billionaire_count": 7,
+      "population_per_billionaire_thousands": 13936,
+      "richest_person_th": "Nassef Sawiris",
+      "richest_person_net_worth_billion_usd_and_year": "5.3 (2016)"
+    },
+    {
+      "rank": 36,
+      "country_th": "Finland",
+      "billionaire_count": 7,
+      "population_per_billionaire_thousands": 786,
+      "richest_person_th": "Antti Herlin",
+      "richest_person_net_worth_billion_usd_and_year": "4.2 (2016)"
+    },
+    {
+      "rank": 37,
+      "country_th": "Pakistan",
+      "billionaire_count": 7,
+      "population_per_billionaire_thousands": 30392,
+      "richest_person_th": "Mian Muhammad Mansha",
+      "richest_person_net_worth_billion_usd_and_year": "2.5 (2016)"
+    },
+    {
+      "rank": 38,
+      "country_th": "สหรัฐอาหรับเอมิเรตส์",
+      "billionaire_count": 7,
+      "population_per_billionaire_thousands": 1343,
+      "richest_person_th": "ตระกูล Al Ghurair",
+      "richest_person_net_worth_billion_usd_and_year": "5.9 (2018)"
+    },
+    {
+      "rank": 39,
+      "country_th": "Cyprus",
+      "billionaire_count": 6,
+      "population_per_billionaire_thousands": 142,
+      "richest_person_th": "John Fredriksen",
+      "richest_person_net_worth_billion_usd_and_year": "7.4 (2018)"
+    },
+    {
+      "rank": 40,
+      "country_th": "Czech Republic",
+      "billionaire_count": 6,
+      "population_per_billionaire_thousands": 1763,
+      "richest_person_th": "Petr Kellner",
+      "richest_person_net_worth_billion_usd_and_year": "11.4"
+    },
+    {
+      "rank": 41,
+      "country_th": "Denmark",
+      "billionaire_count": 6,
+      "population_per_billionaire_thousands": 958,
+      "richest_person_th": "Kjeld Kirk Kristiansen",
+      "richest_person_net_worth_billion_usd_and_year": "5.5 (2018)"
+    },
+    {
+      "rank": 42,
+      "country_th": "Ukraine",
+      "billionaire_count": 6,
+      "population_per_billionaire_thousands": 7472,
+      "richest_person_th": "Rinat Akhmetov",
+      "richest_person_net_worth_billion_usd_and_year": "5.5 (2018)"
+    },
+    {
+      "rank": 43,
+      "country_th": "Kazakhstan",
+      "billionaire_count": 5,
+      "population_per_billionaire_thousands": 3608,
+      "richest_person_th": "Bulat Utemuratov",
+      "richest_person_net_worth_billion_usd_and_year": "2.6 (2018)"
+    },
+    {
+      "rank": 44,
+      "country_th": "Peru",
+      "billionaire_count": 5,
+      "population_per_billionaire_thousands": 6434,
+      "richest_person_th": "Carlos Rodriguez-Pastor",
+      "richest_person_net_worth_billion_usd_and_year": "3.4 (2018)"
+    },
+    {
+      "rank": 45,
+      "country_th": "Greece",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 2685,
+      "richest_person_th": "Spiros Latsis",
+      "richest_person_net_worth_billion_usd_and_year": "3.2 (2018)"
+    },
+    {
+      "rank": 46,
+      "country_th": "Kuwait",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 1105,
+      "richest_person_th": "Bassam และ Kutayba Alghanim",
+      "richest_person_net_worth_billion_usd_and_year": "1.4 (2018)"
+    },
+    {
+      "rank": 47,
+      "country_th": "Lebanon",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 1714,
+      "richest_person_th": "Najib และ Taha Mikati",
+      "richest_person_net_worth_billion_usd_and_year": "2.7 (2018)"
+    },
+    {
+      "rank": 48,
+      "country_th": "Monaco",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 10,
+      "richest_person_th": "Tatiana Casiraghi",
+      "richest_person_net_worth_billion_usd_and_year": "2.2 (2018)"
+    },
+    {
+      "rank": 49,
+      "country_th": "Nigeria",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 45488,
+      "richest_person_th": "Aliko Dangote",
+      "richest_person_net_worth_billion_usd_and_year": "10.4 (2019)"
+    },
+    {
+      "rank": 50,
+      "country_th": "Poland",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 9603,
+      "richest_person_th": "Dominika และ Sebastian Kulczyk",
+      "richest_person_net_worth_billion_usd_and_year": "3.8 (2018)"
+    },
+    {
+      "rank": 51,
+      "country_th": "Portugal",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 2569,
+      "richest_person_th": "Américo Amorim",
+      "richest_person_net_worth_billion_usd_and_year": "4.8 (2017)"
+    },
+    {
+      "rank": 52,
+      "country_th": "Vietnam",
+      "billionaire_count": 4,
+      "population_per_billionaire_thousands": 23838,
+      "richest_person_th": "ฝั่ม เญิ้ต เวือง",
+      "richest_person_net_worth_billion_usd_and_year": "6.9 (2018)"
+    },
+    {
+      "rank": 53,
+      "country_th": "Colombia",
+      "billionaire_count": 3,
+      "population_per_billionaire_thousands": 16356,
+      "richest_person_th": "Luis Carlos Sarmiento",
+      "richest_person_net_worth_billion_usd_and_year": "11.3 (2017)"
+    },
+    {
+      "rank": 54,
+      "country_th": "Morocco",
+      "billionaire_count": 3,
+      "population_per_billionaire_thousands": 11685,
+      "richest_person_th": "Othman Benjelloun",
+      "richest_person_net_worth_billion_usd_and_year": "1.67 (2018)"
+    },
+    {
+      "rank": 55,
+      "country_th": "Oman",
+      "billionaire_count": 3,
+      "population_per_billionaire_thousands": 1544,
+      "richest_person_th": "Suhail Bahwan",
+      "richest_person_net_worth_billion_usd_and_year": "3.4 (2018)"
+    },
+    {
+      "rank": 56,
+      "country_th": "Belgium",
+      "billionaire_count": 2,
+      "population_per_billionaire_thousands": 5734,
+      "richest_person_th": "Albert Frère",
+      "richest_person_net_worth_billion_usd_and_year": "5.2 (2017)"
+    },
+    {
+      "rank": 57,
+      "country_th": "New Zealand",
+      "billionaire_count": 2,
+      "population_per_billionaire_thousands": 2485,
+      "richest_person_th": "Graeme Hart",
+      "richest_person_net_worth_billion_usd_and_year": "10.3 (2018)"
+    },
+    {
+      "rank": 58,
+      "country_th": "St. Kitts & Nevis",
+      "billionaire_count": 2,
+      "population_per_billionaire_thousands": 26,
+      "richest_person_th": "Wu Xu",
+      "richest_person_net_worth_billion_usd_and_year": "1.6 (2018)"
+    },
+    {
+      "rank": 59,
+      "country_th": "Venezuela",
+      "billionaire_count": 2,
+      "population_per_billionaire_thousands": 16110,
+      "richest_person_th": "Juan Carlos Escotet",
+      "richest_person_net_worth_billion_usd_and_year": "4.4 (2018)"
+    },
+    {
+      "rank": 60,
+      "country_th": "Algeria",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 43378,
+      "richest_person_th": "Issad Rebrab",
+      "richest_person_net_worth_billion_usd_and_year": "4.31 (2017)"
+    },
+    {
+      "rank": 61,
+      "country_th": "Angola",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 30175,
+      "richest_person_th": "Isabel dos Santos",
+      "richest_person_net_worth_billion_usd_and_year": "2.6 (2018)"
+    },
+    {
+      "rank": 62,
+      "country_th": "Bangladesh",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 166769,
+      "richest_person_th": "Salman F Rahman",
+      "richest_person_net_worth_billion_usd_and_year": ""
+    },
+    {
+      "rank": 63,
+      "country_th": "Eswatini (Swaziland)",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 1367,
+      "richest_person_th": "Nathan Kirsh",
+      "richest_person_net_worth_billion_usd_and_year": "4.3 (2018)"
+    },
+    {
+      "rank": 64,
+      "country_th": "Georgia",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 3724,
+      "richest_person_th": "Bidzina Ivanishvili",
+      "richest_person_net_worth_billion_usd_and_year": "4.6 (2018)"
+    },
+    {
+      "rank": 65,
+      "country_th": "Guernsey",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 62,
+      "richest_person_th": "Stephen Lansdown",
+      "richest_person_net_worth_billion_usd_and_year": "2.4 (2018)"
+    },
+    {
+      "rank": 66,
+      "country_th": "Hungary",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 9764,
+      "richest_person_th": "Sandor Csanyi",
+      "richest_person_net_worth_billion_usd_and_year": "1.14 (2018)"
+    },
+    {
+      "rank": 67,
+      "country_th": "Iceland",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 359,
+      "richest_person_th": "Thor Björgólfsson",
+      "richest_person_net_worth_billion_usd_and_year": "1.99 (2018)"
+    },
+    {
+      "rank": 68,
+      "country_th": "Jordan",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 10443,
+      "richest_person_th": "Ziyad Manasir",
+      "richest_person_net_worth_billion_usd_and_year": "1.1 (2015)"
+    },
+    {
+      "rank": 69,
+      "country_th": "Liechtenstein",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 38,
+      "richest_person_th": "Christoph Zeller",
+      "richest_person_net_worth_billion_usd_and_year": "3.9 (2018)"
+    },
+    {
+      "rank": 70,
+      "country_th": "Macau",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 623,
+      "richest_person_th": "Hoi Kin Hong",
+      "richest_person_net_worth_billion_usd_and_year": "1.58 (2018)"
+    },
+    {
+      "rank": 71,
+      "country_th": "Nepal",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 29610,
+      "richest_person_th": "Binod Chaudhary",
+      "richest_person_net_worth_billion_usd_and_year": "1.5 (2018)"
+    },
+    {
+      "rank": 72,
+      "country_th": "Romania",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 19524,
+      "richest_person_th": "Ion Țiriac",
+      "richest_person_net_worth_billion_usd_and_year": "1.19 (2018)"
+    },
+    {
+      "rank": 73,
+      "country_th": "Slovakia",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 5450,
+      "richest_person_th": "Ivan Chrenko",
+      "richest_person_net_worth_billion_usd_and_year": "1.31 (2018)"
+    },
+    {
+      "rank": 74,
+      "country_th": "Tanzania",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 55891,
+      "richest_person_th": "Mohammed Dewji",
+      "richest_person_net_worth_billion_usd_and_year": "1.52 (2018)"
+    },
+    {
+      "rank": 75,
+      "country_th": "Zimbabwe",
+      "billionaire_count": 1,
+      "population_per_billionaire_thousands": 15160,
+      "richest_person_th": "Strive Masiyiwa",
+      "richest_person_net_worth_billion_usd_and_year": "1.65 (2018)"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประเทศเรียงตามจำนวนเศรษฐีพันล้าน",
+    "description": "รายชื่อประเทศทั่วโลกเรียงตามจำนวนมหาเศรษฐีที่มีมูลค่าทรัพย์สินสุทธิเกิน 1 พันล้านดอลลาร์สหรัฐ ประเมินโดยนิตยสารฟอบส์",
+    "seo_title": "รายชื่อประเทศเรียงตามจำนวนเศรษฐีพันล้าน - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 75 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 75 รายการครบถ้วน",
+      "รวม: อันดับโลก, ประเทศ, จำนวนมหาเศรษฐี, บุคคลที่รวยที่สุด",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

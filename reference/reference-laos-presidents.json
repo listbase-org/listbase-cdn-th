@@ -1,0 +1,209 @@
+{
+  "id": "reference-laos-presidents",
+  "name": "รายชื่อประธานาธิบดีลาว",
+  "title": "รายชื่อประธานาธิบดีลาว",
+  "description": "รายชื่อประธานาธิบดีแห่งสาธารณรัฐประชาธิปไตยประชาชนลาว ตั้งแต่ปี พ.ศ. 2518 จนถึงปัจจุบัน พร้อมข้อมูลลำดับ ชื่อภาษาไทยและลาว ปีเกิด-เสียชีวิต ระยะเวลาดำรงตำแหน่ง พรรคการเมือง และรายชื่อนายกรัฐมนตรีที่ดำรงตำแหน่งในช่วงเวลาดังกล่าว",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%A7",
+  "updated": "2024-05-15",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อประธานาธิบดี (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_lo",
+      "label": "ชื่อประธานาธิบดี (ลาว)",
+      "type": "string"
+    },
+    {
+      "key": "birth_death_years",
+      "label": "ปีเกิด-ปีเสียชีวิต",
+      "type": "string"
+    },
+    {
+      "key": "start_date",
+      "label": "เริ่มดำรงตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "สิ้นสุดการดำรงตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "term_duration",
+      "label": "รวมระยะเวลา",
+      "type": "string"
+    },
+    {
+      "key": "party_th",
+      "label": "พรรคการเมือง",
+      "type": "string"
+    },
+    {
+      "key": "prime_minister_name_th",
+      "label": "นายกรัฐมนตรี (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "prime_minister_term",
+      "label": "ระยะเวลาดำรงตำแหน่งนายกรัฐมนตรี",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name_th": "เจ้า สุภานุวงศ์",
+      "name_lo": "ສຸພານຸວົງ",
+      "birth_death_years": "(1909–1995)",
+      "start_date": "2 ธันวาคม 1975",
+      "end_date": "15 สิงหาคม 1986",
+      "term_duration": "10 ปี 8 เดือน 13 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "ไกสอน พมวิหาน",
+      "prime_minister_term": "(1975–1991)"
+    },
+    {
+      "order": 2,
+      "name_th": "พูมี วงวิจิด",
+      "name_lo": "ພູມີ ວົງວິຈິດ",
+      "birth_death_years": "(1909–1994)",
+      "start_date": "31 ตุลาคม 1986",
+      "end_date": "15 สิงหาคม 1991",
+      "term_duration": "4 ปี 9 เดือน 15 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "ไกสอน พมวิหาน",
+      "prime_minister_term": "(1975–1991)"
+    },
+    {
+      "order": 3,
+      "name_th": "ไกสอน พมวิหาน",
+      "name_lo": "ໄກສອນ ພົມວິຫານ",
+      "birth_death_years": "(1920–1992)",
+      "start_date": "15 สิงหาคม 1991",
+      "end_date": "21 พฤศจิกายน 1992",
+      "term_duration": "1 ปี 3 เดือน 6 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "คำไต สีพันดอน",
+      "prime_minister_term": "(1991–1998)"
+    },
+    {
+      "order": 4,
+      "name_th": "หนูฮัก พูมสะหวัน",
+      "name_lo": "ໜູຮັກ ພູມສະຫວັນ",
+      "birth_death_years": "(1910–2008)",
+      "start_date": "25 พฤศจิกายน 1992",
+      "end_date": "24 กุมภาพันธ์ 1998",
+      "term_duration": "5 ปี 2 เดือน 30 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "คำไต สีพันดอน",
+      "prime_minister_term": "(1991–1998)"
+    },
+    {
+      "order": 5,
+      "name_th": "คำไต สีพันดอน",
+      "name_lo": "ຄຳໄຕ ສີພັນດອນ",
+      "birth_death_years": "(1924–2025)",
+      "start_date": "24 กุมภาพันธ์ 1998",
+      "end_date": "8 มิถุนายน 2006",
+      "term_duration": "8 ปี 3 เดือน 15 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "สีสะหวาด แก้วบุนพัน",
+      "prime_minister_term": "(1998–2001)"
+    },
+    {
+      "order": 5,
+      "name_th": "คำไต สีพันดอน",
+      "name_lo": "ຄຳໄຕ ສີພັນດອນ",
+      "birth_death_years": "(1924–2025)",
+      "start_date": "24 กุมภาพันธ์ 1998",
+      "end_date": "8 มิถุนายน 2006",
+      "term_duration": "8 ปี 3 เดือน 15 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "บุนยัง วอละจิด",
+      "prime_minister_term": "(2001–2006)"
+    },
+    {
+      "order": 6,
+      "name_th": "จูมมะลี ไซยะสอน",
+      "name_lo": "ຈູມມະລີ ໄຊຍະສອນ",
+      "birth_death_years": "(เกิดใน ค.ศ. 1936)",
+      "start_date": "8 มิถุนายน 2006",
+      "end_date": "20 เมษายน 2016",
+      "term_duration": "9 ปี 10 เดือน 12 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "บัวสอน บุบผาวัน",
+      "prime_minister_term": "(2006–2010)"
+    },
+    {
+      "order": 6,
+      "name_th": "จูมมะลี ไซยะสอน",
+      "name_lo": "ຈູມມະລີ ໄຊຍະສອນ",
+      "birth_death_years": "(เกิดใน ค.ศ. 1936)",
+      "start_date": "8 มิถุนายน 2006",
+      "end_date": "20 เมษายน 2016",
+      "term_duration": "9 ปี 10 เดือน 12 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "ทองสิง ทำมะวง",
+      "prime_minister_term": "(2010–2016)"
+    },
+    {
+      "order": 7,
+      "name_th": "บุนยัง วอละจิด",
+      "name_lo": "ບຸນຍັງ ວໍລະຈິດ",
+      "birth_death_years": "(เกิดใน ค.ศ. 1938)",
+      "start_date": "20 เมษายน 2016",
+      "end_date": "22 มีนาคม 2021",
+      "term_duration": "4 ปี 11 เดือน 2 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "ทองลุน สีสุลิด",
+      "prime_minister_term": "(2016–2021)"
+    },
+    {
+      "order": 8,
+      "name_th": "ทองลุน สีสุลิด",
+      "name_lo": "ທອງລຸນ ສີສຸລິດ",
+      "birth_death_years": "(เกิดใน ค.ศ. 1945)",
+      "start_date": "22 มีนาคม 2021",
+      "end_date": "ดำรงตำแหน่ง",
+      "term_duration": "3 ปี 1 เดือน 23 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "พันคำ วิพาวัน",
+      "prime_minister_term": "(2021–2022)"
+    },
+    {
+      "order": 8,
+      "name_th": "ทองลุน สีสุลิด",
+      "name_lo": "ທອງລຸນ ສີສຸລິດ",
+      "birth_death_years": "(เกิดใน ค.ศ. 1945)",
+      "start_date": "22 มีนาคม 2021",
+      "end_date": "ดำรงตำแหน่ง",
+      "term_duration": "3 ปี 1 เดือน 23 วัน",
+      "party_th": "พรรคประชาชนปฏิวัติลาว",
+      "prime_minister_name_th": "สอนไซ สีพันดอน",
+      "prime_minister_term": "(2022–)"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประธานาธิบดีลาว",
+    "description": "รายชื่อประธานาธิบดีแห่งสาธารณรัฐประชาธิปไตยประชาชนลาว ตั้งแต่ปี พ.ศ. 2518 จนถึงปัจจุบัน พร้อมข้อมูลลำดับ ชื่อภาษาไทยและลาว ปีเกิด-เสียชีวิต ระยะเวลาดำรงตำแหน่ง พรรคการเมือง และรายชื่อนายกรัฐมนตรีที่ดำรงตำแหน่งในช่วงเวลาดังกล่าว",
+    "seo_title": "รายชื่อประธานาธิบดีลาว - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 11 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 11 รายการครบถ้วน",
+      "รวม: ลำดับ, ชื่อ, ปีเกิด-เสียชีวิต, ระยะเวลาดำรงตำแหน่ง, พรรคการเมือง, นายกรัฐมนตรี",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

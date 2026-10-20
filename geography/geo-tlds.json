@@ -1,0 +1,1373 @@
+{
+  "id": "geo-tlds",
+  "name": "ชุดข้อมูลโดเมนระดับบนสุดของประเทศ (TLDs) และรหัส ISO",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "TLD",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "อัฟกานิสถาน",
+      "tld": ".af"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "แอลเบเนีย",
+      "tld": ".al"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "แอลจีเรีย",
+      "tld": ".dz"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "แอลจีเรีย",
+      "tld": "الجزائر."
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "อันดอร์รา",
+      "tld": ".ad"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "แองโกลา",
+      "tld": ".ao"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "แอนติกาและบาร์บูดา",
+      "tld": ".ag"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "อาร์เจนตินา",
+      "tld": ".ar"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "อาร์เมเนีย",
+      "tld": ".am"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "ออสเตรเลีย",
+      "tld": ".au"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "ออสเตรีย",
+      "tld": ".at"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "อาเซอร์ไบจาน",
+      "tld": ".az"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "บาฮามาส",
+      "tld": ".bs"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "บาห์เรน",
+      "tld": ".bh"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "บังกลาเทศ",
+      "tld": ".bd"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "บาร์เบโดส",
+      "tld": ".bb"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "เบลารุส",
+      "tld": ".by"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "เบลเยียม",
+      "tld": ".be"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "เบลีซ",
+      "tld": ".bz"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "เบนิน",
+      "tld": ".bj"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "ภูฏาน",
+      "tld": ".bt"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "โบลิเวีย",
+      "tld": ".bo"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "บอสเนียและเฮอร์เซโกวีนา",
+      "tld": ".ba"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "บอตสวานา",
+      "tld": ".bw"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "บราซิล",
+      "tld": ".br"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "บรูไน",
+      "tld": ".bn"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "บัลแกเรีย",
+      "tld": ".bg"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "บูร์กินาฟาโซ",
+      "tld": ".bf"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "บุรุนดี",
+      "tld": ".bi"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "กัมพูชา",
+      "tld": ".kh"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "แคเมอรูน",
+      "tld": ".cm"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "แคนาดา",
+      "tld": ".ca"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "เคปเวิร์ด",
+      "tld": ".cv"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "สาธารณรัฐแอฟริกากลาง",
+      "tld": ".cf"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "ชาด",
+      "tld": ".td"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "ชิลี",
+      "tld": ".cl"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "tld": ".cn"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "tld": ".中国"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "tld": ".中國"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "tld": ".公司"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "tld": ".网络"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "โคลอมเบีย",
+      "tld": ".co"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "คอโมโรส",
+      "tld": ".km"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "คอสตาริกา",
+      "tld": ".cr"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "โครเอเชีย",
+      "tld": ".hr"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "คิวบา",
+      "tld": ".cu"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "ไซปรัส",
+      "tld": ".cy"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "เช็กเกีย",
+      "tld": ".cz"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "เดนมาร์ก",
+      "tld": ".dk"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "จิบูตี",
+      "tld": ".dj"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "ดอมินิกา",
+      "tld": ".dm"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "สาธารณรัฐโดมินิกัน",
+      "tld": ".do"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "DR คองโก",
+      "tld": ".cd"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "เอกวาดอร์",
+      "tld": ".ec"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "อียิปต์",
+      "tld": ".eg"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "อียิปต์",
+      "tld": ".مصر"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "เอลซัลวาดอร์",
+      "tld": ".sv"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "อิเควทอเรียลกินี",
+      "tld": ".gq"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "เอริเทรีย",
+      "tld": ".er"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "เอสโตเนีย",
+      "tld": ".ee"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "เอสวาตินี",
+      "tld": ".sz"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "เอธิโอเปีย",
+      "tld": ".et"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "ฟิจิ",
+      "tld": ".fj"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "ฟินแลนด์",
+      "tld": ".fi"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "ฝรั่งเศส",
+      "tld": ".fr"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "กาบอง",
+      "tld": ".ga"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "แกมเบีย",
+      "tld": ".gm"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "จอร์เจีย",
+      "tld": ".ge"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "เยอรมนี",
+      "tld": ".de"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "กานา",
+      "tld": ".gh"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "กรีซ",
+      "tld": ".gr"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "เกรเนดา",
+      "tld": ".gd"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "กัวเตมาลา",
+      "tld": ".gt"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "กินี",
+      "tld": ".gn"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "กินี-บิสเซา",
+      "tld": ".gw"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "กายอานา",
+      "tld": ".gy"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "เฮติ",
+      "tld": ".ht"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "ฮอนดูรัส",
+      "tld": ".hn"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "ฮังการี",
+      "tld": ".hu"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "ไอซ์แลนด์",
+      "tld": ".is"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "อินเดีย",
+      "tld": ".in"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "อินโดนีเซีย",
+      "tld": ".id"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "อิหร่าน",
+      "tld": ".ir"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "อิหร่าน",
+      "tld": "ایران."
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "อิรัก",
+      "tld": ".iq"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "ไอร์แลนด์",
+      "tld": ".ie"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "อิสราเอล",
+      "tld": ".il"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "อิตาลี",
+      "tld": ".it"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "โกตดิวัวร์",
+      "tld": ".ci"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "จาเมกา",
+      "tld": ".jm"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "ญี่ปุ่น",
+      "tld": ".jp"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "ญี่ปุ่น",
+      "tld": ".みんな"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "จอร์แดน",
+      "tld": ".jo"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "จอร์แดน",
+      "tld": "الاردن."
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "คาซัคสถาน",
+      "tld": ".kz"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "คาซัคสถาน",
+      "tld": ".қаз"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "เคนยา",
+      "tld": ".ke"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "คิริบาส",
+      "tld": ".ki"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "คูเวต",
+      "tld": ".kw"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "คีร์กีซสถาน",
+      "tld": ".kg"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "ลาว",
+      "tld": ".la"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "ลัตเวีย",
+      "tld": ".lv"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "เลบานอน",
+      "tld": ".lb"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "เลโซโท",
+      "tld": ".ls"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "ไลบีเรีย",
+      "tld": ".lr"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "ลิเบีย",
+      "tld": ".ly"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "ลิกเตนสไตน์",
+      "tld": ".li"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "ลิทัวเนีย",
+      "tld": ".lt"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "ลักเซมเบิร์ก",
+      "tld": ".lu"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "มาดากัสการ์",
+      "tld": ".mg"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "มาลาวี",
+      "tld": ".mw"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "มาเลเซีย",
+      "tld": ".my"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "มัลดีฟส์",
+      "tld": ".mv"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "มาลี",
+      "tld": ".ml"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "มอลตา",
+      "tld": ".mt"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "หมู่เกาะมาร์แชลล์",
+      "tld": ".mh"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "มอริเตเนีย",
+      "tld": ".mr"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "มอริเชียส",
+      "tld": ".mu"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "เม็กซิโก",
+      "tld": ".mx"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "ไมโครนีเซีย",
+      "tld": ".fm"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "มอลโดวา",
+      "tld": ".md"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "โมนาโก",
+      "tld": ".mc"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "มองโกเลีย",
+      "tld": ".mn"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "มอนเตเนโกร",
+      "tld": ".me"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "โมร็อกโก",
+      "tld": ".ma"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "โมร็อกโก",
+      "tld": "المغرب."
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "โมซัมบิก",
+      "tld": ".mz"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "เมียนมา",
+      "tld": ".mm"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "นามิเบีย",
+      "tld": ".na"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "นาอูรู",
+      "tld": ".nr"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "เนปาล",
+      "tld": ".np"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "เนเธอร์แลนด์",
+      "tld": ".nl"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "นิวซีแลนด์",
+      "tld": ".nz"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "นิการากัว",
+      "tld": ".ni"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "ไนเจอร์",
+      "tld": ".ne"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "ไนจีเรีย",
+      "tld": ".ng"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "เกาหลีเหนือ",
+      "tld": ".kp"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "มาซิโดเนียเหนือ",
+      "tld": ".mk"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "นอร์เวย์",
+      "tld": ".no"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "โอมาน",
+      "tld": ".om"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "ปากีสถาน",
+      "tld": ".pk"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "ปาเลา",
+      "tld": ".pw"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "ปานามา",
+      "tld": ".pa"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "ปาปัวนิวกินี",
+      "tld": ".pg"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "ปารากวัย",
+      "tld": ".py"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "เปรู",
+      "tld": ".pe"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "ฟิลิปปินส์",
+      "tld": ".ph"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "โปแลนด์",
+      "tld": ".pl"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "โปรตุเกส",
+      "tld": ".pt"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "กาตาร์",
+      "tld": ".qa"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "กาตาร์",
+      "tld": "قطر."
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "สาธารณรัฐคองโก",
+      "tld": ".cg"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "โรมาเนีย",
+      "tld": ".ro"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "tld": ".ru"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "tld": ".su"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "tld": ".рф"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "รวันดา",
+      "tld": ".rw"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "เซนต์คิตส์และเนวิส",
+      "tld": ".kn"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "เซนต์ลูเซีย",
+      "tld": ".lc"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "tld": ".vc"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "ซามัว",
+      "tld": ".ws"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "ซานมารีโน",
+      "tld": ".sm"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "เซาตูเมและปรินซิปี",
+      "tld": ".st"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "ซาอุดีอาระเบีย",
+      "tld": ".sa"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "ซาอุดีอาระเบีย",
+      "tld": ".السعودية"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "เซเนกัล",
+      "tld": ".sn"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "เซอร์เบีย",
+      "tld": ".rs"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "เซอร์เบีย",
+      "tld": ".срб"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "เซเชลส์",
+      "tld": ".sc"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "เซียร์ราลีโอน",
+      "tld": ".sl"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "tld": ".sg"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "tld": ".சிங்கப்பூர்"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "tld": ".新加坡"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "สโลวาเกีย",
+      "tld": ".sk"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "สโลวีเนีย",
+      "tld": ".si"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "หมู่เกาะโซโลมอน",
+      "tld": ".sb"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "โซมาเลีย",
+      "tld": ".so"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "แอฟริกาใต้",
+      "tld": ".za"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "เกาหลีใต้",
+      "tld": ".kr"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "เกาหลีใต้",
+      "tld": ".한국"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "ซูดานใต้",
+      "tld": ".ss"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "สเปน",
+      "tld": ".es"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "tld": ".lk"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "tld": ".இலங்கை"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "tld": ".ලංකා"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "ซูดาน",
+      "tld": ".sd"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "ซูรินาม",
+      "tld": ".sr"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "สวีเดน",
+      "tld": ".se"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "สวิตเซอร์แลนด์",
+      "tld": ".ch"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "ซีเรีย",
+      "tld": ".sy"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "ซีเรีย",
+      "tld": "سوريا."
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "ทาจิกิสถาน",
+      "tld": ".tj"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "แทนซาเนีย",
+      "tld": ".tz"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "ไทย",
+      "tld": ".th"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "ไทย",
+      "tld": ".ไทย"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "ติมอร์-เลสเต",
+      "tld": ".tl"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "โตโก",
+      "tld": ".tg"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "ตองกา",
+      "tld": ".to"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "ตรินิแดดและโตเบโก",
+      "tld": ".tt"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "ตูนิเซีย",
+      "tld": ".tn"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "ตุรกี",
+      "tld": ".tr"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "เติร์กเมนิสถาน",
+      "tld": ".tm"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "ตูวาลู",
+      "tld": ".tv"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "ยูกันดา",
+      "tld": ".ug"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "ยูเครน",
+      "tld": ".ua"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "ยูเครน",
+      "tld": ".укр"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "สหรัฐอาหรับเอมิเรตส์",
+      "tld": ".ae"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "สหรัฐอาหรับเอมิเรตส์",
+      "tld": "امارات."
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "สหราชอาณาจักร",
+      "tld": ".uk"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "สหรัฐอเมริกา",
+      "tld": ".us"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "อุรุกวัย",
+      "tld": ".uy"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "อุซเบกิสถาน",
+      "tld": ".uz"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "วานูอาตู",
+      "tld": ".vu"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "นครรัฐวาติกัน",
+      "tld": ".va"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "เวเนซุเอลา",
+      "tld": ".ve"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "เวียดนาม",
+      "tld": ".vn"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "เยเมน",
+      "tld": ".ye"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "แซมเบีย",
+      "tld": ".zm"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "ซิมบับเว",
+      "tld": ".zw"
+    }
+  ],
+  "meta": {
+    "seo_title": "TLDs ประเทศและรหัส ISO - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี 219 ระเบียน TLDs ประเทศพร้อมรหัส ISO รับส่วนขยายโดเมนสำหรับหลากหลายประเทศ มีในรูปแบบ Excel, CSV และ PDF",
+    "title": "ชุดข้อมูลโดเมนระดับบนสุดของประเทศ (TLDs) และรหัส ISO",
+    "description": "ชุดข้อมูลนี้มีระเบียน 219 รายการของโดเมนระดับบนสุด (TLDs) เฉพาะประเทศ พร้อมด้วยรหัส ISO Alpha-2/Alpha-3 และชื่อประเทศ เป็นแหล่งข้อมูลสำคัญสำหรับทุกคนที่ต้องการข้อมูลโดเมนระหว่างประเทศ",
+    "key_takeaways": [
+      "เข้าถึง 219 ระเบียน TLDs ประเทศพร้อมรหัส ISO และชื่อประเทศที่เกี่ยวข้อง",
+      "สำรวจส่วนขยายโดเมนปัจจุบันสำหรับประเทศต่างๆ ทั่วโลก รวมถึง TLDs ที่เป็นสากล",
+      "ดาวน์โหลดข้อมูล TLDs ประเทศใน Excel, CSV หรือ PDF สำหรับการใช้งานที่หลากหลาย",
+      "ใช้ประโยชน์จากชุดข้อมูลนี้สำหรับการพัฒนาเว็บ การวิเคราะห์การจดทะเบียนโดเมน หรือการเชื่อมโยงข้อมูลทางภูมิศาสตร์"
+    ],
+    "keywords": [
+      "รายการ tlds ประเทศ excel",
+      "ส่วนขยายโดเมน csv",
+      "ข้อมูล cctld ดาวน์โหลด",
+      "รหัสประเทศ iso tld",
+      "รายการโดเมนระดับบนสุด",
+      "ข้อมูลโดเมนฟรี"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL ของคุณ หรือใช้กับสคริปต์ Python เพื่อตรวจสอบโดเมนอัตโนมัติหรือบริการค้นหา",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Tables สำหรับวิเคราะห์การกระจาย TLDs กรองตามรหัสประเทศ หรือรวมเข้ากับเครื่องมือรายงาน",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงออฟไลน์อย่างรวดเร็วสำหรับชื่อโดเมนระหว่างประเทศ หรือเพื่อวัตถุประสงค์ทางการศึกษาในการตั้งค่าห้องเรียน",
+      "รวมข้อมูลนี้เข้ากับแอปพลิเคชันที่ต้องการตารางค้นหาสำหรับส่วนขยายโดเมนเฉพาะประเทศ เพื่อปรับปรุงการตรวจสอบอินพุตของผู้ใช้หรือการเสริมข้อมูล"
+    ]
+  },
+  "record_count": 219,
+  "title": "ชุดข้อมูลโดเมนระดับบนสุดของประเทศ (TLDs) และรหัส ISO"
+}

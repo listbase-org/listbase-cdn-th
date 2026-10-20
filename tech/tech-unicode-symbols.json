@@ -1,0 +1,554 @@
+{
+  "id": "tech-unicode-symbols",
+  "name": "ชุดข้อมูลสัญลักษณ์ Unicode และ HTML Entities ทั่วไป",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "html_entity",
+      "label": "HTML Entity",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "←",
+      "code_point": "U+2190",
+      "html_entity": "&larr;",
+      "name": "ลูกศรชี้ซ้าย",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "→",
+      "code_point": "U+2192",
+      "html_entity": "&rarr;",
+      "name": "ลูกศรชี้ขวา",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "↑",
+      "code_point": "U+2191",
+      "html_entity": "&uarr;",
+      "name": "ลูกศรชี้ขึ้น",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "↓",
+      "code_point": "U+2193",
+      "html_entity": "&darr;",
+      "name": "ลูกศรชี้ลง",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "↔",
+      "code_point": "U+2194",
+      "html_entity": "&harr;",
+      "name": "ลูกศรซ้ายขวา",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "↕",
+      "code_point": "U+2195",
+      "html_entity": "&varr;",
+      "name": "ลูกศรขึ้นลง",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "⇐",
+      "code_point": "U+21D0",
+      "html_entity": "&lArr;",
+      "name": "ลูกศรคู่ชี้ซ้าย",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "⇒",
+      "code_point": "U+21D2",
+      "html_entity": "&rArr;",
+      "name": "ลูกศรคู่ชี้ขวา",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "⇑",
+      "code_point": "U+21D1",
+      "html_entity": "&uArr;",
+      "name": "ลูกศรคู่ชี้ขึ้น",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "⇓",
+      "code_point": "U+21D3",
+      "html_entity": "&dArr;",
+      "name": "ลูกศรคู่ชี้ลง",
+      "category": "ลูกศร"
+    },
+    {
+      "symbol": "±",
+      "code_point": "U+00B1",
+      "html_entity": "&plusmn;",
+      "name": "เครื่องหมายบวกลบ",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "×",
+      "code_point": "U+00D7",
+      "html_entity": "&times;",
+      "name": "เครื่องหมายคูณ",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "÷",
+      "code_point": "U+00F7",
+      "html_entity": "&divide;",
+      "name": "เครื่องหมายหาร",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "≠",
+      "code_point": "U+2260",
+      "html_entity": "&ne;",
+      "name": "ไม่เท่ากับ",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "≈",
+      "code_point": "U+2248",
+      "html_entity": "&asymp;",
+      "name": "เกือบเท่ากับ",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "≤",
+      "code_point": "U+2264",
+      "html_entity": "&le;",
+      "name": "น้อยกว่าหรือเท่ากับ",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "≥",
+      "code_point": "U+2265",
+      "html_entity": "&ge;",
+      "name": "มากกว่าหรือเท่ากับ",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "∞",
+      "code_point": "U+221E",
+      "html_entity": "&infin;",
+      "name": "อนันต์",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "√",
+      "code_point": "U+221A",
+      "html_entity": "&radic;",
+      "name": "รากที่สอง",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "∑",
+      "code_point": "U+2211",
+      "html_entity": "&sum;",
+      "name": "ผลรวมแบบ N-Ary",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "∏",
+      "code_point": "U+220F",
+      "html_entity": "&prod;",
+      "name": "ผลคูณแบบ n-ary",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "∫",
+      "code_point": "U+222B",
+      "html_entity": "&int;",
+      "name": "ปริพันธ์",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "∂",
+      "code_point": "U+2202",
+      "html_entity": "&part;",
+      "name": "อนุพันธ์ย่อย",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "∇",
+      "code_point": "U+2207",
+      "html_entity": "&nabla;",
+      "name": "นาบลา",
+      "category": "ตัวดำเนินการทางคณิตศาสตร์"
+    },
+    {
+      "symbol": "α",
+      "code_point": "U+03B1",
+      "html_entity": "&alpha;",
+      "name": "อักษรกรีกตัวเล็ก แอลฟา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "β",
+      "code_point": "U+03B2",
+      "html_entity": "&beta;",
+      "name": "อักษรกรีกตัวเล็ก เบตา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "γ",
+      "code_point": "U+03B3",
+      "html_entity": "&gamma;",
+      "name": "อักษรกรีกตัวเล็ก แกมมา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "δ",
+      "code_point": "U+03B4",
+      "html_entity": "&delta;",
+      "name": "อักษรกรีกตัวเล็ก เดลตา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "π",
+      "code_point": "U+03C0",
+      "html_entity": "&pi;",
+      "name": "อักษรกรีกตัวเล็ก พาย",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "σ",
+      "code_point": "U+03C3",
+      "html_entity": "&sigma;",
+      "name": "อักษรกรีกตัวเล็ก ซิกมา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "θ",
+      "code_point": "U+03B8",
+      "html_entity": "&theta;",
+      "name": "อักษรกรีกตัวเล็ก ทีตา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "λ",
+      "code_point": "U+03BB",
+      "html_entity": "&lambda;",
+      "name": "อักษรกรีกตัวเล็ก แลมบ์ดา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "μ",
+      "code_point": "U+03BC",
+      "html_entity": "&mu;",
+      "name": "อักษรกรีกตัวเล็ก มิว",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "Ω",
+      "code_point": "U+03A9",
+      "html_entity": "&Omega;",
+      "name": "อักษรกรีกตัวใหญ่ โอเมกา",
+      "category": "อักษรกรีก"
+    },
+    {
+      "symbol": "$",
+      "code_point": "U+0024",
+      "html_entity": "&dollar;",
+      "name": "เครื่องหมายดอลลาร์",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "€",
+      "code_point": "U+20AC",
+      "html_entity": "&euro;",
+      "name": "เครื่องหมายยูโร",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "£",
+      "code_point": "U+00A3",
+      "html_entity": "&pound;",
+      "name": "เครื่องหมายปอนด์",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "¥",
+      "code_point": "U+00A5",
+      "html_entity": "&yen;",
+      "name": "เครื่องหมายเยน",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "₩",
+      "code_point": "U+20A9",
+      "html_entity": "&#8361;",
+      "name": "เครื่องหมายวอน",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "₹",
+      "code_point": "U+20B9",
+      "html_entity": "&#8377;",
+      "name": "เครื่องหมายรูปีอินเดีย",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "฿",
+      "code_point": "U+0E3F",
+      "html_entity": "&#3647;",
+      "name": "สัญลักษณ์เงินบาทไทย",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "₿",
+      "code_point": "U+20BF",
+      "html_entity": "&#8383;",
+      "name": "สัญลักษณ์บิตคอยน์",
+      "category": "สกุลเงิน"
+    },
+    {
+      "symbol": "©",
+      "code_point": "U+00A9",
+      "html_entity": "&copy;",
+      "name": "สัญลักษณ์ลิขสิทธิ์",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "®",
+      "code_point": "U+00AE",
+      "html_entity": "&reg;",
+      "name": "สัญลักษณ์จดทะเบียน",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "™",
+      "code_point": "U+2122",
+      "html_entity": "&trade;",
+      "name": "สัญลักษณ์เครื่องหมายการค้า",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "°",
+      "code_point": "U+00B0",
+      "html_entity": "&deg;",
+      "name": "สัญลักษณ์องศา",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "•",
+      "code_point": "U+2022",
+      "html_entity": "&bull;",
+      "name": "จุดนำ",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "…",
+      "code_point": "U+2026",
+      "html_entity": "&hellip;",
+      "name": "จุดไข่ปลาแนวนอน",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "†",
+      "code_point": "U+2020",
+      "html_entity": "&dagger;",
+      "name": "เครื่องหมายดาการ์",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "‡",
+      "code_point": "U+2021",
+      "html_entity": "&Dagger;",
+      "name": "เครื่องหมายดาการ์คู่",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "§",
+      "code_point": "U+00A7",
+      "html_entity": "&sect;",
+      "name": "สัญลักษณ์มาตรา",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "¶",
+      "code_point": "U+00B6",
+      "html_entity": "&para;",
+      "name": "เครื่องหมายย่อหน้า",
+      "category": "การพิมพ์"
+    },
+    {
+      "symbol": "✓",
+      "code_point": "U+2713",
+      "html_entity": "&#10003;",
+      "name": "เครื่องหมายถูก",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "✗",
+      "code_point": "U+2717",
+      "html_entity": "&#10007;",
+      "name": "กากบาทเลือกตั้ง",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "✔",
+      "code_point": "U+2714",
+      "html_entity": "&#10004;",
+      "name": "เครื่องหมายถูกหนา",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "✘",
+      "code_point": "U+2718",
+      "html_entity": "&#10008;",
+      "name": "กากบาทเลือกตั้งหนา",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "★",
+      "code_point": "U+2605",
+      "html_entity": "&#9733;",
+      "name": "ดาวดำ",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "☆",
+      "code_point": "U+2606",
+      "html_entity": "&#9734;",
+      "name": "ดาวขาว",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "♥",
+      "code_point": "U+2665",
+      "html_entity": "&hearts;",
+      "name": "สัญลักษณ์รูปหัวใจสีดำ",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "♦",
+      "code_point": "U+2666",
+      "html_entity": "&diams;",
+      "name": "สัญลักษณ์รูปข้าวหลามตัดสีดำ",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "♣",
+      "code_point": "U+2663",
+      "html_entity": "&clubs;",
+      "name": "ดอกจิกสีดำ",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "♠",
+      "code_point": "U+2660",
+      "html_entity": "&spades;",
+      "name": "โพดำสีดำ",
+      "category": "สถานะ"
+    },
+    {
+      "symbol": "½",
+      "code_point": "U+00BD",
+      "html_entity": "&frac12;",
+      "name": "เศษส่วนสามัญหนึ่งส่วนสอง",
+      "category": "เศษส่วน"
+    },
+    {
+      "symbol": "⅓",
+      "code_point": "U+2153",
+      "html_entity": "&#8531;",
+      "name": "เศษส่วนสามัญหนึ่งส่วนสาม",
+      "category": "เศษส่วน"
+    },
+    {
+      "symbol": "¼",
+      "code_point": "U+00BC",
+      "html_entity": "&frac14;",
+      "name": "เศษส่วนสามัญหนึ่งส่วนสี่",
+      "category": "เศษส่วน"
+    },
+    {
+      "symbol": "¾",
+      "code_point": "U+00BE",
+      "html_entity": "&frac34;",
+      "name": "เศษส่วนสามัญสามส่วนสี่",
+      "category": "เศษส่วน"
+    },
+    {
+      "symbol": "⅛",
+      "code_point": "U+215B",
+      "html_entity": "&#8539;",
+      "name": "เศษส่วนสามัญหนึ่งส่วนแปด",
+      "category": "เศษส่วน"
+    },
+    {
+      "symbol": "²",
+      "code_point": "U+00B2",
+      "html_entity": "&sup2;",
+      "name": "ตัวยกสอง",
+      "category": "เศษส่วน"
+    },
+    {
+      "symbol": "³",
+      "code_point": "U+00B3",
+      "html_entity": "&sup3;",
+      "name": "ตัวยกสาม",
+      "category": "เศษส่วน"
+    },
+    {
+      "symbol": "¹",
+      "code_point": "U+00B9",
+      "html_entity": "&sup1;",
+      "name": "ตัวยกหนึ่ง",
+      "category": "เศษส่วน"
+    }
+  ],
+  "meta": {
+    "seo_title": "สัญลักษณ์ Unicode ทั่วไป - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี 70 สัญลักษณ์ Unicode ทั่วไปพร้อม Code Point, HTML Entity และหมวดหมู่ มีให้ในรูปแบบ Excel, CSV และ PDF สำหรับการใช้งานที่หลากหลาย",
+    "title": "ชุดข้อมูลสัญลักษณ์ Unicode และ HTML Entities ทั่วไป",
+    "description": "ชุดข้อมูลนี้รวบรวม 70 สัญลักษณ์ Unicode ทั่วไปพร้อม Code Point, HTML Entity, ชื่อ และหมวดหมู่ เพื่อการอ้างอิงที่สะดวกและรวดเร็ว",
+    "key_takeaways": [
+      "เข้าถึง 70 สัญลักษณ์ Unicode ที่จำเป็นพร้อม Code Point และ HTML Entity",
+      "สำรวจหมวดหมู่สัญลักษณ์ที่หลากหลาย เช่น ลูกศร, ตัวดำเนินการทางคณิตศาสตร์ และอื่นๆ",
+      "ดาวน์โหลดข้อมูลพร้อมใช้งานสำหรับการพัฒนาเว็บ, การประมวลผลข้อความ และโครงการออกแบบ",
+      "ใช้ประโยชน์จากสัญลักษณ์เพื่อปรับปรุงเนื้อหาดิจิทัลและการทำให้เป็นสากล"
+    ],
+    "keywords": [
+      "สัญลักษณ์ unicode",
+      "html entities csv",
+      "code point excel",
+      "อักขระพิเศษ ดาวน์โหลด",
+      "สัญลักษณ์ข้อความ pdf",
+      "unicode ทั่วไป"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในแอปพลิเคชันเว็บหรือฐานข้อมูลของคุณเพื่อแสดงสัญลักษณ์แบบไดนามิกตามข้อมูลผู้ใช้หรือหมวดหมู่",
+      "ใช้ไฟล์ **Excel** เพื่อกรองและค้นหาสัญลักษณ์หรือ HTML Entity เฉพาะสำหรับโครงการสร้างเนื้อหาหรือการออกแบบของคุณได้อย่างรวดเร็ว",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงออฟไลน์ที่สะดวกของสัญลักษณ์ Unicode ทั่วไปและรายละเอียดที่เกี่ยวข้อง",
+      "อ้างอิงชุดข้อมูลเพื่อให้แน่ใจว่าการแสดงอักขระพิเศษถูกต้องในแพลตฟอร์มต่างๆ และกลุ่มเป้าหมายทั่วโลก"
+    ]
+  },
+  "record_count": 70,
+  "title": "ชุดข้อมูลสัญลักษณ์ Unicode และ HTML Entities ทั่วไป"
+}

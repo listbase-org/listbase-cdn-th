@@ -1,0 +1,317 @@
+{
+  "id": "science-solubility-rules",
+  "name": "ชุดข้อมูลตารางกฎการละลายที่ครอบคลุม",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "ion_type",
+      "label": "Ion/Compound Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    },
+    {
+      "key": "solubility",
+      "label": "Solubility (EN)",
+      "type": "string"
+    },
+    {
+      "key": "exceptions",
+      "label": "Exceptions/Notes (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ion_type": "ไนเตรต",
+      "formula": "NO₃⁻",
+      "solubility": "ละลายได้",
+      "exceptions": "ไม่มี - ไนเตรตทั้งหมดละลายได้",
+      "category": "ละลายได้เสมอ",
+      "examples": "NaNO₃, KNO₃, AgNO₃, Pb(NO₃)₂"
+    },
+    {
+      "ion_type": "อะซีเตต",
+      "formula": "CH₃COO⁻ (C₂H₃O₂⁻)",
+      "solubility": "ละลายได้",
+      "exceptions": "ซิลเวอร์อะซีเตตละลายได้เล็กน้อย",
+      "category": "ละลายได้เสมอ",
+      "examples": "NaCH₃COO, KC₂H₃O₂, Ca(CH₃COO)₂"
+    },
+    {
+      "ion_type": "คลอเรต",
+      "formula": "ClO₃⁻",
+      "solubility": "ละลายได้",
+      "exceptions": "ไม่มี - คลอเรตทั้งหมดละลายได้",
+      "category": "ละลายได้เสมอ",
+      "examples": "NaClO₃, KClO₃, Ba(ClO₃)₂"
+    },
+    {
+      "ion_type": "เปอร์คลอเรต",
+      "formula": "ClO₄⁻",
+      "solubility": "ละลายได้",
+      "exceptions": "KClO₄, RbClO₄, CsClO₄ ละลายได้เล็กน้อย",
+      "category": "ละลายได้เสมอ",
+      "examples": "NaClO₄, Mg(ClO₄)₂, Ca(ClO₄)₂"
+    },
+    {
+      "ion_type": "ไอออนโลหะอัลคาไล",
+      "formula": "Li⁺, Na⁺, K⁺, Rb⁺, Cs⁺",
+      "solubility": "ละลายได้",
+      "exceptions": "ไม่มี - เกลือหมู่ 1 ทั้งหมดละลายได้",
+      "category": "ละลายได้เสมอ",
+      "examples": "NaCl, KBr, Li₂SO₄, CsNO₃"
+    },
+    {
+      "ion_type": "แอมโมเนียม",
+      "formula": "NH₄⁺",
+      "solubility": "ละลายได้",
+      "exceptions": "ไม่มี - เกลือแอมโมเนียมทั้งหมดละลายได้",
+      "category": "ละลายได้เสมอ",
+      "examples": "NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄OH"
+    },
+    {
+      "ion_type": "แฮไลด์ (Cl⁻, Br⁻, I⁻)",
+      "formula": "Cl⁻, Br⁻, I⁻",
+      "solubility": "ส่วนใหญ่ละลายได้",
+      "exceptions": "แฮไลด์ของ Ag⁺, Pb²⁺, Hg₂²⁺ ไม่ละลายน้ำ",
+      "category": "ละลายได้โดยมีข้อยกเว้น",
+      "examples": "NaCl, KBr soluble; AgCl, PbI₂ insoluble"
+    },
+    {
+      "ion_type": "ฟลูออไรด์",
+      "formula": "F⁻",
+      "solubility": "ส่วนใหญ่ละลายได้",
+      "exceptions": "ฟลูออไรด์หมู่ 2 (MgF₂, CaF₂, BaF₂) และ PbF₂ ไม่ละลายน้ำ",
+      "category": "ละลายได้โดยมีข้อยกเว้น",
+      "examples": "NaF, KF soluble; CaF₂, BaF₂ insoluble"
+    },
+    {
+      "ion_type": "ซัลเฟต",
+      "formula": "SO₄²⁻",
+      "solubility": "ส่วนใหญ่ละลายได้",
+      "exceptions": "BaSO₄, PbSO₄, HgSO₄, CaSO₄, SrSO₄, Ag₂SO₄ ไม่ละลายน้ำหรือละลายได้เล็กน้อย",
+      "category": "ละลายได้โดยมีข้อยกเว้น",
+      "examples": "Na₂SO₄, MgSO₄ soluble; BaSO₄, PbSO₄ insoluble"
+    },
+    {
+      "ion_type": "คาร์บอเนต",
+      "formula": "CO₃²⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "คาร์บอเนตของโลหะอัลคาไลและแอมโมเนียมละลายได้",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "CaCO₃, BaCO₃ insoluble; Na₂CO₃, K₂CO₃ soluble"
+    },
+    {
+      "ion_type": "ฟอสเฟต",
+      "formula": "PO₄³⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "ฟอสเฟตของโลหะอัลคาไลและแอมโมเนียมละลายได้",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "Ca₃(PO₄)₂, Ag₃PO₄ insoluble; Na₃PO₄ soluble"
+    },
+    {
+      "ion_type": "โครเมต",
+      "formula": "CrO₄²⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "โครเมตของโลหะอัลคาไลและแอมโมเนียมละลายได้; MgCrO₄, CaCrO₄ ละลายได้",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "PbCrO₄, BaCrO₄, Ag₂CrO₄ insoluble; K₂CrO₄ soluble"
+    },
+    {
+      "ion_type": "ซัลไฟด์",
+      "formula": "S²⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "ซัลไฟด์ของโลหะอัลคาไล, โลหะอัลคาไลน์เอิร์ท และแอมโมเนียมละลายได้",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "CuS, PbS, Ag₂S insoluble; Na₂S, (NH₄)₂S soluble"
+    },
+    {
+      "ion_type": "ไฮดรอกไซด์",
+      "formula": "OH⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "ไฮดรอกไซด์ของโลหะอัลคาไลละลายได้; Ca(OH)₂, Sr(OH)₂, Ba(OH)₂ ละลายได้เล็กน้อย",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "Fe(OH)₃, Al(OH)₃ insoluble; NaOH, KOH soluble"
+    },
+    {
+      "ion_type": "ออกไซด์",
+      "formula": "O²⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "ออกไซด์ของโลหะอัลคาไลทำปฏิกิริยากับน้ำเกิดไฮดรอกไซด์ที่ละลายได้; CaO, SrO, BaO ละลายได้เล็กน้อย",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "Fe₂O₃, Al₂O₃ insoluble; Na₂O reacts with water"
+    },
+    {
+      "ion_type": "ซัลไฟต์",
+      "formula": "SO₃²⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "ซัลไฟต์ของโลหะอัลคาไลและแอมโมเนียมละลายได้",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "CaSO₃, BaSO₃ insoluble; Na₂SO₃ soluble"
+    },
+    {
+      "ion_type": "ออกซาเลต",
+      "formula": "C₂O₄²⁻",
+      "solubility": "ส่วนใหญ่ไม่ละลายน้ำ",
+      "exceptions": "ออกซาเลตของโลหะอัลคาไลและแอมโมเนียมละลายได้",
+      "category": "ไม่ละลายน้ำโดยมีข้อยกเว้น",
+      "examples": "CaC₂O₄, BaC₂O₄ insoluble; Na₂C₂O₄ soluble"
+    },
+    {
+      "ion_type": "ซิลเวอร์คลอไรด์",
+      "formula": "AgCl",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ละลายในสารละลาย NH₃ เกิด [Ag(NH₃)₂]⁺",
+      "category": "ตะกอนทั่วไป",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "ซิลเวอร์โบรไมด์",
+      "formula": "AgBr",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ละลายน้ำได้น้อยกว่า AgCl",
+      "category": "ตะกอนทั่วไป",
+      "examples": "Light yellow precipitate, Ksp = 5.0 × 10⁻¹³"
+    },
+    {
+      "ion_type": "ซิลเวอร์ไอโอไดด์",
+      "formula": "AgI",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ซิลเวอร์แฮไลด์ที่ละลายน้ำได้น้อยที่สุด",
+      "category": "ตะกอนทั่วไป",
+      "examples": "Yellow precipitate, Ksp = 8.3 × 10⁻¹⁷"
+    },
+    {
+      "ion_type": "ตะกั่ว(II) คลอไรด์",
+      "formula": "PbCl₂",
+      "solubility": "ละลายได้เล็กน้อย",
+      "exceptions": "ละลายได้มากขึ้นในน้ำร้อน",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White precipitate, Ksp = 1.7 × 10⁻⁵"
+    },
+    {
+      "ion_type": "ตะกั่ว(II) ไอโอไดด์",
+      "formula": "PbI₂",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ละลายได้มากขึ้นในน้ำร้อน (การสาธิตฝนทอง)",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "Bright yellow precipitate, Ksp = 7.9 × 10⁻⁹"
+    },
+    {
+      "ion_type": "ตะกั่ว(II) ซัลเฟต",
+      "formula": "PbSO₄",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ละลายใน H₂SO₄ เข้มข้น",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White precipitate, Ksp = 1.6 × 10⁻⁸"
+    },
+    {
+      "ion_type": "แบเรียม ซัลเฟต",
+      "formula": "BaSO₄",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ไม่ละลายมาก - ใช้ในการถ่ายภาพทางการแพทย์",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White precipitate, Ksp = 1.1 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "แคลเซียม คาร์บอเนต",
+      "formula": "CaCO₃",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ละลายในกรด; ละลายได้มากขึ้นในน้ำที่อุดมด้วย CO₂",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White precipitate (limestone, chalk), Ksp = 3.4 × 10⁻⁹"
+    },
+    {
+      "ion_type": "แคลเซียม ซัลเฟต",
+      "formula": "CaSO₄",
+      "solubility": "ละลายได้เล็กน้อย",
+      "exceptions": "ยิปซัม, ปูนปลาสเตอร์",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White solid, Ksp = 2.4 × 10⁻⁵"
+    },
+    {
+      "ion_type": "เหล็ก(III) ไฮดรอกไซด์",
+      "formula": "Fe(OH)₃",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ละลายในกรด",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "Rust-brown precipitate, Ksp = 6.3 × 10⁻³⁸"
+    },
+    {
+      "ion_type": "ทองแดง(II) ไฮดรอกไซด์",
+      "formula": "Cu(OH)₂",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "ละลายใน NH₃ เกิดเป็น [Cu(NH₃)₄]²⁺ (สีน้ำเงินเข้ม)",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "Blue precipitate, Ksp = 2.2 × 10⁻²⁰"
+    },
+    {
+      "ion_type": "แมกนีเซียม ไฮดรอกไซด์",
+      "formula": "Mg(OH)₂",
+      "solubility": "ละลายได้เล็กน้อย",
+      "exceptions": "มิลค์ออฟแมกนีเซีย - ยาลดกรด",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹¹"
+    },
+    {
+      "ion_type": "อะลูมิเนียม ไฮดรอกไซด์",
+      "formula": "Al(OH)₃",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "แอมโฟเทอริก - ละลายได้ทั้งในกรดและเบส",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White gelatinous precipitate, Ksp = 3 × 10⁻³⁴"
+    },
+    {
+      "ion_type": "สังกะสี ไฮดรอกไซด์",
+      "formula": "Zn(OH)₂",
+      "solubility": "ไม่ละลายน้ำ",
+      "exceptions": "แอมโฟเทอริก - ละลายใน NaOH ส่วนเกิน",
+      "category": "สารตกตะกอนทั่วไป",
+      "examples": "White precipitate, Ksp = 3 × 10⁻¹⁷"
+    }
+  ],
+  "meta": {
+    "seo_title": "ตารางกฎการละลาย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดชุดข้อมูลตารางกฎการละลายที่ครอบคลุมฟรี (31 รายการ) มีให้ในรูปแบบ Excel, CSV และ PDF สำหรับนักศึกษาและผู้เชี่ยวชาญด้านเคมี.",
+    "title": "ชุดข้อมูลตารางกฎการละลายที่ครอบคลุม",
+    "description": "ชุดข้อมูลนี้ให้ตารางกฎการละลายโดยละเอียดสำหรับสารประกอบไอออนิกทั่วไป รวมถึงสูตร สถานะการละลาย ข้อยกเว้น และตัวอย่าง เป็นแหล่งข้อมูลที่จำเป็นสำหรับการศึกษาและวิจัยทางเคมี.",
+    "key_takeaways": [
+      "เข้าถึงกฎการละลายที่สำคัญ 31 ข้อสำหรับไอออนและสารประกอบต่างๆ.",
+      "สำรวจข้อยกเว้นและบันทึกโดยละเอียดสำหรับแนวทางการละลายแต่ละข้อ.",
+      "ดาวน์โหลดข้อมูลอ้างอิงพร้อมใช้สำหรับวิชาเคมีและงานในห้องปฏิบัติการ.",
+      "รับตัวอย่างที่ใช้งานได้จริงของสารประกอบที่ละลายได้และไม่ละลาย."
+    ],
+    "keywords": [
+      "ตารางกฎการละลาย excel",
+      "แผนภูมิการละลายเคมี csv",
+      "การละลายสารประกอบไอออนิก pdf",
+      "ชุดข้อมูลอ้างอิงเคมี",
+      "ดาวน์โหลดข้อมูลการละลาย",
+      "แนวทางการละลาย"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** เข้าสู่ฐานข้อมูล SQL หรือสคริปต์ Python ของคุณสำหรับการวิเคราะห์เชิงโปรแกรมและการรวมเข้ากับแอปพลิเคชันการศึกษา.",
+      "ใช้ไฟล์ **Excel** เพื่อกรอง จัดเรียง และสร้างรายงานที่กำหนดเองสำหรับการบ้านเคมีหรืองานวิเคราะห์ข้อมูลในห้องปฏิบัติการ.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับแผนภูมิอ้างอิงที่สะดวกและใช้งานแบบออฟไลน์ในห้องเรียนหรือระหว่างการทดลองในห้องปฏิบัติการ.",
+      "ใช้ประโยชน์จากชุดข้อมูลนี้เพื่อตรวจสอบการละลายของสารประกอบต่างๆ ได้อย่างรวดเร็วสำหรับการคาดการณ์ปฏิกิริยาเคมีและการออกแบบการทดลอง."
+    ]
+  },
+  "record_count": 31,
+  "title": "ชุดข้อมูลตารางกฎการละลายที่ครอบคลุม"
+}

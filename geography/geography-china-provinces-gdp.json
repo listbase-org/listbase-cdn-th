@@ -1,0 +1,202 @@
+{
+  "id": "geography-china-provinces-gdp",
+  "name": "รายชื่อมณฑลของประเทศจีนเรียงตามผลิตภัณฑ์มวลรวมในประเทศ",
+  "title": "รายชื่อมณฑลของประเทศจีนเรียงตามผลิตภัณฑ์มวลรวมในประเทศ",
+  "description": "ข้อมูลผลิตภัณฑ์มวลรวมในประเทศ (GDP) ของมณฑลและเขตการปกครองพิเศษของประเทศจีน รวมถึงยอดรวมของประเทศจีนแผ่นดินใหญ่ โดยเรียงตามอันดับและแสดงมูลค่า GDP เป็นล้านหยวน",
+  "category": "geography",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8",
+  "updated": "2023-10-27",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "อันดับ",
+      "type": "string"
+    },
+    {
+      "key": "province_th",
+      "label": "เขตการปกครอง",
+      "type": "string"
+    },
+    {
+      "key": "gdp_million_cny",
+      "label": "ผลิตภัณฑ์มวลรวมในประเทศ",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "—",
+      "province_th": "จีน",
+      "gdp_million_cny": 16323260
+    },
+    {
+      "rank": "1",
+      "province_th": "กวางตุ้ง",
+      "gdp_million_cny": 1603946
+    },
+    {
+      "rank": "2",
+      "province_th": "ซานตง",
+      "gdp_million_cny": 1549000
+    },
+    {
+      "rank": "3",
+      "province_th": "เจียงซู",
+      "gdp_million_cny": 1540000
+    },
+    {
+      "rank": "4",
+      "province_th": "เจ้อเจียง",
+      "gdp_million_cny": 1124000
+    },
+    {
+      "rank": "5",
+      "province_th": "เหอหนาน",
+      "gdp_million_cny": 881500
+    },
+    {
+      "rank": "6",
+      "province_th": "เหอเป่ย์",
+      "gdp_million_cny": 876900
+    },
+    {
+      "rank": "7",
+      "province_th": "เซี่ยงไฮ้",
+      "gdp_million_cny": 745000
+    },
+    {
+      "rank": "8",
+      "province_th": "เหลียวหนิง",
+      "gdp_million_cny": 687300
+    },
+    {
+      "rank": "9",
+      "province_th": "เสฉวน",
+      "gdp_million_cny": 655600
+    },
+    {
+      "rank": "10",
+      "province_th": "หูเป่ย์",
+      "gdp_million_cny": 631000
+    },
+    {
+      "rank": "11",
+      "province_th": "ฝูเจี้ยน",
+      "gdp_million_cny": 605300
+    },
+    {
+      "rank": "12",
+      "province_th": "หูหนาน",
+      "gdp_million_cny": 561200
+    },
+    {
+      "rank": "13",
+      "province_th": "เฮย์หลงเจียง",
+      "gdp_million_cny": 530300
+    },
+    {
+      "rank": "14",
+      "province_th": "อานฮุย",
+      "gdp_million_cny": 481300
+    },
+    {
+      "rank": "15",
+      "province_th": "ปักกิ่ง",
+      "gdp_million_cny": 428300
+    },
+    {
+      "rank": "16",
+      "province_th": "เจียงซี",
+      "gdp_million_cny": 349600
+    },
+    {
+      "rank": "17",
+      "province_th": "กว่างซี",
+      "gdp_million_cny": 332000
+    },
+    {
+      "rank": "18",
+      "province_th": "ซานซี",
+      "gdp_million_cny": 304200
+    },
+    {
+      "rank": "19",
+      "province_th": "ยูนนาน",
+      "gdp_million_cny": 295900
+    },
+    {
+      "rank": "20",
+      "province_th": "จี๋หลิน",
+      "gdp_million_cny": 295800
+    },
+    {
+      "rank": "21",
+      "province_th": "เทียนจิน",
+      "gdp_million_cny": 293200
+    },
+    {
+      "rank": "22",
+      "province_th": "ฉ่านซี",
+      "gdp_million_cny": 288400
+    },
+    {
+      "rank": "23",
+      "province_th": "มองโกเลียใน",
+      "gdp_million_cny": 271200
+    },
+    {
+      "rank": "24",
+      "province_th": "จุงกิง",
+      "gdp_million_cny": 266500
+    },
+    {
+      "rank": "25",
+      "province_th": "ซินเจียง",
+      "gdp_million_cny": 220000
+    },
+    {
+      "rank": "26",
+      "province_th": "กุ้ยโจว",
+      "gdp_million_cny": 159200
+    },
+    {
+      "rank": "27",
+      "province_th": "กานซู่",
+      "gdp_million_cny": 155900
+    },
+    {
+      "rank": "28",
+      "province_th": "ไหหนาน",
+      "gdp_million_cny": 76940
+    },
+    {
+      "rank": "29",
+      "province_th": "ชิงไห่",
+      "gdp_million_cny": 46570
+    },
+    {
+      "rank": "30",
+      "province_th": "หนิงเซี่ย",
+      "gdp_million_cny": 46040
+    },
+    {
+      "rank": "31",
+      "province_th": "ทิเบต",
+      "gdp_million_cny": 21150
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อมณฑลของประเทศจีนเรียงตามผลิตภัณฑ์มวลรวมในประเทศ",
+    "description": "ข้อมูลผลิตภัณฑ์มวลรวมในประเทศ (GDP) ของมณฑลและเขตการปกครองพิเศษของประเทศจีน รวมถึงยอดรวมของประเทศจีนแผ่นดินใหญ่ โดยเรียงตามอันดับและแสดงมูลค่า GDP เป็นล้านหยวน",
+    "seo_title": "รายชื่อมณฑลของประเทศจีนเรียงตามผลิตภัณฑ์มวลรวมในประเทศ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 32 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 32 รายการครบถ้วน",
+      "รวม: อันดับ, เขตการปกครอง, ผลิตภัณฑ์มวลรวมในประเทศ",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

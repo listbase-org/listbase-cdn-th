@@ -1,0 +1,193 @@
+{
+  "id": "reference-thai-fine-arts-faculties",
+  "name": "รายชื่อคณะศิลปกรรมศาสตร์ในประเทศไทย",
+  "title": "รายชื่อคณะศิลปกรรมศาสตร์ในประเทศไทย",
+  "description": "รายชื่อคณะศิลปกรรมศาสตร์และสาขาวิชาที่เกี่ยวข้องในสถาบันอุดมศึกษาทั่วประเทศไทย ประกอบด้วยชื่อคณะ/วิทยาลัย และมหาวิทยาลัยที่สังกัด",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2",
+  "updated": "2023-10-27",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "faculty_name_th",
+      "label": "คณะ",
+      "type": "string"
+    },
+    {
+      "key": "university_name_th",
+      "label": "มหาวิทยาลัย",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยกรุงเทพ"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยกรุงเทพธนบุรี"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยขอนแก่น"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "จุฬาลงกรณ์มหาวิทยาลัย"
+    },
+    {
+      "faculty_name_th": "คณะวิจิตรศิลป์",
+      "university_name_th": "มหาวิทยาลัยเชียงใหม่"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยทักษิณ"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยเพาะช่าง",
+      "university_name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมและสถาปัตยกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมและออกแบบอุตสาหกรรม",
+      "university_name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยธุรกิจบัณฑิตย์"
+    },
+    {
+      "faculty_name_th": "คณะสถาปัตยกรรมศาสตร์ ศิลปะและการออกแบบ",
+      "university_name_th": "มหาวิทยาลัยนเรศวร"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยช่างศิลป",
+      "university_name_th": "สถาบันบัณฑิตพัฒนศิลป์"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยนาฏศิลป",
+      "university_name_th": "สถาบันบัณฑิตพัฒนศิลป์"
+    },
+    {
+      "faculty_name_th": "คณะศิลปนาฏดุริยางค์",
+      "university_name_th": "สถาบันบัณฑิตพัฒนศิลป์"
+    },
+    {
+      "faculty_name_th": "คณะศิลปวิจิตร",
+      "university_name_th": "สถาบันบัณฑิตพัฒนศิลป์"
+    },
+    {
+      "faculty_name_th": "คณะศิลปศึกษา",
+      "university_name_th": "สถาบันบัณฑิตพัฒนศิลป์"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยบูรพา"
+    },
+    {
+      "faculty_name_th": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยพะเยา"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยดุริยางคศิลป์",
+      "university_name_th": "มหาวิทยาลัยมหาสารคาม"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์และวัฒนธรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยมหาสารคาม"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยดุริยางคศิลป์",
+      "university_name_th": "มหาวิทยาลัยมหิดล"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยนานาชาติ",
+      "university_name_th": "มหาวิทยาลัยมหิดล"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยดนตรี",
+      "university_name_th": "มหาวิทยาลัยรังสิต"
+    },
+    {
+      "faculty_name_th": "คณะดิจิทัลอาร์ต",
+      "university_name_th": "มหาวิทยาลัยรังสิต"
+    },
+    {
+      "faculty_name_th": "คณะศิลปะและการออกแบบ",
+      "university_name_th": "มหาวิทยาลัยรังสิต"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏสงขลา"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏสวนสุนันทา"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยรามคำแหง"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+    },
+    {
+      "faculty_name_th": "คณะดิจิทัลมีเดีย",
+      "university_name_th": "มหาวิทยาลัยศรีปทุม"
+    },
+    {
+      "faculty_name_th": "คณะจิตรกรรมประติมากรรมและภาพพิมพ์",
+      "university_name_th": "มหาวิทยาลัยศิลปากร"
+    },
+    {
+      "faculty_name_th": "คณะดุริยางคศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศิลปากร"
+    },
+    {
+      "faculty_name_th": "คณะมัณฑนศิลป์",
+      "university_name_th": "มหาวิทยาลัยศิลปากร"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยนานาชาติ",
+      "university_name_th": "มหาวิทยาลัยศิลปากร"
+    },
+    {
+      "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยสงขลานครินทร์"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยนานาชาติ",
+      "university_name_th": "มหาวิทยาลัยสยาม"
+    },
+    {
+      "faculty_name_th": "คณะศิลปประยุกต์และสถาปัตยกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยอุบลราชธานี"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อคณะศิลปกรรมศาสตร์ในประเทศไทย",
+    "description": "รายชื่อคณะศิลปกรรมศาสตร์และสาขาวิชาที่เกี่ยวข้องในสถาบันอุดมศึกษาทั่วประเทศไทย",
+    "seo_title": "รายชื่อคณะศิลปกรรมศาสตร์ในประเทศไทย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 39 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 39 รายการครบถ้วน",
+      "รวม: คณะ, มหาวิทยาลัย",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

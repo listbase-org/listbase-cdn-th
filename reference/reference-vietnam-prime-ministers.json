@@ -1,0 +1,217 @@
+{
+  "id": "reference-vietnam-prime-ministers",
+  "name": "รายชื่อนายกรัฐมนตรีเวียดนาม",
+  "title": "รายชื่อนายกรัฐมนตรีเวียดนาม",
+  "description": "รายชื่อนายกรัฐมนตรีและหัวหน้ารัฐบาลของเวียดนามในแต่ละยุคสมัย ตั้งแต่จักรวรรดิเวียดนาม สาธารณรัฐประชาธิปไตยเวียดนาม สาธารณรัฐเวียดนามใต้ จนถึงสาธารณรัฐสังคมนิยมเวียดนามในปัจจุบัน พร้อมข้อมูลลำดับ รายนาม ปีเกิด ปีเสียชีวิต วันที่ดำรงตำแหน่ง และวันที่สิ้นสุดวาระ",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1",
+  "updated": "2024-07-29",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "overall_order",
+      "label": "ลำดับรวม",
+      "type": "string"
+    },
+    {
+      "key": "term_order",
+      "label": "ลำดับในวาระ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "รายนาม",
+      "type": "string"
+    },
+    {
+      "key": "birth_year",
+      "label": "ปีเกิด",
+      "type": "number"
+    },
+    {
+      "key": "death_year",
+      "label": "ปีเสียชีวิต",
+      "type": "number"
+    },
+    {
+      "key": "start_date",
+      "label": "วันที่ดำรงตำแหน่ง",
+      "type": "date"
+    },
+    {
+      "key": "end_date",
+      "label": "วันที่สิ้นสุดวาระ",
+      "type": "date"
+    },
+    {
+      "key": "image_filename",
+      "label": "ไฟล์ภาพ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "overall_order": "1",
+      "term_order": "1",
+      "name_th": "เจิ่น จ่อง กีม",
+      "birth_year": 1883,
+      "death_year": 1953,
+      "start_date": "1945-04-17",
+      "end_date": "1945-08-23",
+      "image_filename": ""
+    },
+    {
+      "overall_order": "1",
+      "term_order": "1",
+      "name_th": "โฮจิมินห์",
+      "birth_year": 1890,
+      "death_year": 1969,
+      "start_date": "1945-09-02",
+      "end_date": "1955-09-20",
+      "image_filename": "Ho Chi Minh 1946.jpg"
+    },
+    {
+      "overall_order": "2",
+      "term_order": "2",
+      "name_th": "ฝั่ม วัน ดง",
+      "birth_year": 1906,
+      "death_year": 2000,
+      "start_date": "1955-09-20",
+      "end_date": "1976-07-02",
+      "image_filename": "PhamVanDong1954.jpg"
+    },
+    {
+      "overall_order": "3",
+      "term_order": "1",
+      "name_th": "ฮหวิ่ญ เติ๊น ฟ้าต",
+      "birth_year": 1913,
+      "death_year": 1989,
+      "start_date": "1969-06-08",
+      "end_date": "1976-07-02",
+      "image_filename": ""
+    },
+    {
+      "overall_order": "2",
+      "term_order": "1",
+      "name_th": "ฝั่ม วัน ดง",
+      "birth_year": 1906,
+      "death_year": 2000,
+      "start_date": "1976-07-02",
+      "end_date": "1981-07-04",
+      "image_filename": "PhamVanDong1954.jpg"
+    },
+    {
+      "overall_order": "2",
+      "term_order": "1",
+      "name_th": "ฝั่ม วัน ดง",
+      "birth_year": 1906,
+      "death_year": 2000,
+      "start_date": "1981-07-04",
+      "end_date": "1987-06-18",
+      "image_filename": "PhamVanDong1954.jpg"
+    },
+    {
+      "overall_order": "4",
+      "term_order": "2",
+      "name_th": "ฝั่ม หุ่ง",
+      "birth_year": 1912,
+      "death_year": 1988,
+      "start_date": "1987-06-18",
+      "end_date": "1988-03-10",
+      "image_filename": "Phạm_Hùng.jpg"
+    },
+    {
+      "overall_order": "",
+      "term_order": "",
+      "name_th": "หวอ วัน เกียต",
+      "birth_year": 1922,
+      "death_year": 2008,
+      "start_date": "1988-03-10",
+      "end_date": "1988-06-22",
+      "image_filename": ""
+    },
+    {
+      "overall_order": "5",
+      "term_order": "3",
+      "name_th": "โด๋ เหมื่อย",
+      "birth_year": 1917,
+      "death_year": null,
+      "start_date": "1988-06-22",
+      "end_date": "1991-08-08",
+      "image_filename": "Mr. Do Muoi.jpg"
+    },
+    {
+      "overall_order": "6",
+      "term_order": "4",
+      "name_th": "หวอ วัน เกียต",
+      "birth_year": 1922,
+      "death_year": 2008,
+      "start_date": "1991-08-08",
+      "end_date": "1992-09-24",
+      "image_filename": ""
+    },
+    {
+      "overall_order": "6",
+      "term_order": "4",
+      "name_th": "หวอ วัน เกียต",
+      "birth_year": 1922,
+      "death_year": 2008,
+      "start_date": "1992-09-24",
+      "end_date": "1997-09-24",
+      "image_filename": ""
+    },
+    {
+      "overall_order": "7",
+      "term_order": "5",
+      "name_th": "ฟาน วัน ขาย",
+      "birth_year": 1933,
+      "death_year": null,
+      "start_date": "1997-09-24",
+      "end_date": "2006-06-27",
+      "image_filename": "Mr. Phan Van Khai.jpg"
+    },
+    {
+      "overall_order": "8",
+      "term_order": "6",
+      "name_th": "เหงียน เติ๊น สุง",
+      "birth_year": 1949,
+      "death_year": null,
+      "start_date": "2006-06-27",
+      "end_date": "2016-04-07",
+      "image_filename": ""
+    },
+    {
+      "overall_order": "9",
+      "term_order": "7",
+      "name_th": "เหงียน ซวน ฟุก",
+      "birth_year": 1954,
+      "death_year": null,
+      "start_date": "2016-04-07",
+      "end_date": "2021-04-05",
+      "image_filename": "Mr. Nguyen Xuan Phuc.jpg"
+    },
+    {
+      "overall_order": "10",
+      "term_order": "8",
+      "name_th": "ฝั่ม มิญ จิ๊ญ",
+      "birth_year": 1961,
+      "death_year": null,
+      "start_date": "2021-04-05",
+      "end_date": "อยู่ในตำแหน่ง",
+      "image_filename": "Mr. Pham Minh Chinh.jpg"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อนายกรัฐมนตรีเวียดนาม",
+    "description": "รายชื่อนายกรัฐมนตรีและหัวหน้ารัฐบาลของเวียดนามในแต่ละยุคสมัย ตั้งแต่จักรวรรดิเวียดนาม สาธารณรัฐประชาธิปไตยเวียดนาม สาธารณรัฐเวียดนามใต้ จนถึงสาธารณรัฐสังคมนิยมเวียดนามในปัจจุบัน พร้อมข้อมูลลำดับ รายนาม ปีเกิด ปีเสียชีวิต วันที่ดำรงตำแหน่ง และวันที่สิ้นสุดวาระ",
+    "seo_title": "รายชื่อนายกรัฐมนตรีเวียดนาม - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 15 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 15 รายการครบถ้วน",
+      "รวม: รายนาม, ปีเกิด-เสียชีวิต, วันที่ดำรงตำแหน่ง, วันที่สิ้นสุดวาระ",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

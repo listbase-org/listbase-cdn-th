@@ -1,0 +1,645 @@
+{
+  "id": "units-conversions",
+  "name": "ชุดข้อมูลปัจจัยการแปลงหน่วยที่ครอบคลุม",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "from_unit",
+      "label": "From Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "to_unit",
+      "label": "To Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "factor",
+      "label": "Conversion Factor",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "from_unit": "นิ้ว",
+      "to_unit": "เซนติเมตร",
+      "factor": 2.54,
+      "category": "ความยาว",
+      "formula": "1 inch = 2.54 cm"
+    },
+    {
+      "from_unit": "ฟุต",
+      "to_unit": "เมตร",
+      "factor": 0.3048,
+      "category": "ความยาว",
+      "formula": "1 ft = 0.3048 m"
+    },
+    {
+      "from_unit": "หลา",
+      "to_unit": "เมตร",
+      "factor": 0.9144,
+      "category": "ความยาว",
+      "formula": "1 yd = 0.9144 m"
+    },
+    {
+      "from_unit": "ไมล์",
+      "to_unit": "กิโลเมตร",
+      "factor": 1.60934,
+      "category": "ความยาว",
+      "formula": "1 mi = 1.60934 km"
+    },
+    {
+      "from_unit": "ไมล์ทะเล",
+      "to_unit": "กิโลเมตร",
+      "factor": 1.852,
+      "category": "ความยาว",
+      "formula": "1 nmi = 1.852 km"
+    },
+    {
+      "from_unit": "เมตร",
+      "to_unit": "ฟุต",
+      "factor": 3.28084,
+      "category": "ความยาว",
+      "formula": "1 m = 3.28084 ft"
+    },
+    {
+      "from_unit": "กิโลเมตร",
+      "to_unit": "ไมล์",
+      "factor": 0.621371,
+      "category": "ความยาว",
+      "formula": "1 km = 0.621371 mi"
+    },
+    {
+      "from_unit": "เซนติเมตร",
+      "to_unit": "นิ้ว",
+      "factor": 0.393701,
+      "category": "ความยาว",
+      "formula": "1 cm = 0.393701 in"
+    },
+    {
+      "from_unit": "มิลลิเมตร",
+      "to_unit": "นิ้ว",
+      "factor": 0.0393701,
+      "category": "ความยาว",
+      "formula": "1 mm = 0.0393701 in"
+    },
+    {
+      "from_unit": "ไมโครเมตร",
+      "to_unit": "นิ้ว",
+      "factor": 0.0000393701,
+      "category": "ความยาว",
+      "formula": "1 µm = 0.0000393701 in"
+    },
+    {
+      "from_unit": "ปอนด์",
+      "to_unit": "กิโลกรัม",
+      "factor": 0.453592,
+      "category": "น้ำหนัก",
+      "formula": "1 lb = 0.453592 kg"
+    },
+    {
+      "from_unit": "ออนซ์",
+      "to_unit": "กรัม",
+      "factor": 28.3495,
+      "category": "น้ำหนัก",
+      "formula": "1 oz = 28.3495 g"
+    },
+    {
+      "from_unit": "กิโลกรัม",
+      "to_unit": "ปอนด์",
+      "factor": 2.20462,
+      "category": "น้ำหนัก",
+      "formula": "1 kg = 2.20462 lb"
+    },
+    {
+      "from_unit": "กรัม",
+      "to_unit": "ออนซ์",
+      "factor": 0.035274,
+      "category": "น้ำหนัก",
+      "formula": "1 g = 0.035274 oz"
+    },
+    {
+      "from_unit": "สโตน",
+      "to_unit": "กิโลกรัม",
+      "factor": 6.35029,
+      "category": "น้ำหนัก",
+      "formula": "1 st = 6.35029 kg"
+    },
+    {
+      "from_unit": "ตัน (สหรัฐฯ)",
+      "to_unit": "กิโลกรัม",
+      "factor": 907.185,
+      "category": "น้ำหนัก",
+      "formula": "1 US ton = 907.185 kg"
+    },
+    {
+      "from_unit": "ตัน (สหราชอาณาจักร)",
+      "to_unit": "กิโลกรัม",
+      "factor": 1016.05,
+      "category": "น้ำหนัก",
+      "formula": "1 UK ton = 1016.05 kg"
+    },
+    {
+      "from_unit": "เมตริกตัน",
+      "to_unit": "กิโลกรัม",
+      "factor": 1000,
+      "category": "น้ำหนัก",
+      "formula": "1 t = 1000 kg"
+    },
+    {
+      "from_unit": "กะรัต",
+      "to_unit": "กรัม",
+      "factor": 0.2,
+      "category": "น้ำหนัก",
+      "formula": "1 ct = 0.2 g"
+    },
+    {
+      "from_unit": "ออนซ์ทรอย",
+      "to_unit": "กรัม",
+      "factor": 31.1035,
+      "category": "น้ำหนัก",
+      "formula": "1 oz t = 31.1035 g"
+    },
+    {
+      "from_unit": "แกลลอน (US)",
+      "to_unit": "ลิตร",
+      "factor": 3.78541,
+      "category": "ปริมาตร",
+      "formula": "1 US gal = 3.78541 L"
+    },
+    {
+      "from_unit": "แกลลอน (UK)",
+      "to_unit": "ลิตร",
+      "factor": 4.54609,
+      "category": "ปริมาตร",
+      "formula": "1 UK gal = 4.54609 L"
+    },
+    {
+      "from_unit": "ควอร์ต (US)",
+      "to_unit": "ลิตร",
+      "factor": 0.946353,
+      "category": "ปริมาตร",
+      "formula": "1 US qt = 0.946353 L"
+    },
+    {
+      "from_unit": "ไพนต์ (US)",
+      "to_unit": "ลิตร",
+      "factor": 0.473176,
+      "category": "ปริมาตร",
+      "formula": "1 US pt = 0.473176 L"
+    },
+    {
+      "from_unit": "ถ้วย (US)",
+      "to_unit": "มิลลิลิตร",
+      "factor": 236.588,
+      "category": "ปริมาตร",
+      "formula": "1 US cup = 236.588 mL"
+    },
+    {
+      "from_unit": "ออนซ์ของเหลว (US)",
+      "to_unit": "มิลลิลิตร",
+      "factor": 29.5735,
+      "category": "ปริมาตร",
+      "formula": "1 US fl oz = 29.5735 mL"
+    },
+    {
+      "from_unit": "ช้อนโต๊ะ",
+      "to_unit": "มิลลิลิตร",
+      "factor": 14.7868,
+      "category": "ปริมาตร",
+      "formula": "1 tbsp = 14.7868 mL"
+    },
+    {
+      "from_unit": "ช้อนชา",
+      "to_unit": "มิลลิลิตร",
+      "factor": 4.92892,
+      "category": "ปริมาตร",
+      "formula": "1 tsp = 4.92892 mL"
+    },
+    {
+      "from_unit": "ลิตร",
+      "to_unit": "แกลลอน (US)",
+      "factor": 0.264172,
+      "category": "ปริมาตร",
+      "formula": "1 L = 0.264172 US gal"
+    },
+    {
+      "from_unit": "ลูกบาศก์เมตร",
+      "to_unit": "ลิตร",
+      "factor": 1000,
+      "category": "ปริมาตร",
+      "formula": "1 m³ = 1000 L"
+    },
+    {
+      "from_unit": "ลูกบาศก์ฟุต",
+      "to_unit": "ลิตร",
+      "factor": 28.3168,
+      "category": "ปริมาตร",
+      "formula": "1 ft³ = 28.3168 L"
+    },
+    {
+      "from_unit": "ลูกบาศก์นิ้ว",
+      "to_unit": "มิลลิลิตร",
+      "factor": 16.3871,
+      "category": "ปริมาตร",
+      "formula": "1 in³ = 16.3871 mL"
+    },
+    {
+      "from_unit": "บาร์เรล (น้ำมัน)",
+      "to_unit": "ลิตร",
+      "factor": 158.987,
+      "category": "ปริมาตร",
+      "formula": "1 bbl = 158.987 L"
+    },
+    {
+      "from_unit": "ตารางฟุต",
+      "to_unit": "ตารางเมตร",
+      "factor": 0.092903,
+      "category": "พื้นที่",
+      "formula": "1 ft² = 0.092903 m²"
+    },
+    {
+      "from_unit": "ตารางหลา",
+      "to_unit": "ตารางเมตร",
+      "factor": 0.836127,
+      "category": "พื้นที่",
+      "formula": "1 yd² = 0.836127 m²"
+    },
+    {
+      "from_unit": "ตารางไมล์",
+      "to_unit": "ตารางกิโลเมตร",
+      "factor": 2.58999,
+      "category": "พื้นที่",
+      "formula": "1 mi² = 2.58999 km²"
+    },
+    {
+      "from_unit": "เอเคอร์",
+      "to_unit": "เฮกตาร์",
+      "factor": 0.404686,
+      "category": "พื้นที่",
+      "formula": "1 acre = 0.404686 ha"
+    },
+    {
+      "from_unit": "เอเคอร์",
+      "to_unit": "ตารางเมตร",
+      "factor": 4046.86,
+      "category": "พื้นที่",
+      "formula": "1 acre = 4046.86 m²"
+    },
+    {
+      "from_unit": "เฮกตาร์",
+      "to_unit": "เอเคอร์",
+      "factor": 2.47105,
+      "category": "พื้นที่",
+      "formula": "1 ha = 2.47105 acres"
+    },
+    {
+      "from_unit": "ตารางเมตร",
+      "to_unit": "ตารางฟุต",
+      "factor": 10.7639,
+      "category": "พื้นที่",
+      "formula": "1 m² = 10.7639 ft²"
+    },
+    {
+      "from_unit": "ตารางกิโลเมตร",
+      "to_unit": "ตารางไมล์",
+      "factor": 0.386102,
+      "category": "พื้นที่",
+      "formula": "1 km² = 0.386102 mi²"
+    },
+    {
+      "from_unit": "ไร่ (ไทย)",
+      "to_unit": "ตารางเมตร",
+      "factor": 1600,
+      "category": "พื้นที่",
+      "formula": "1 rai = 1600 m²"
+    },
+    {
+      "from_unit": "ไมล์ต่อชั่วโมง",
+      "to_unit": "กิโลเมตรต่อชั่วโมง",
+      "factor": 1.60934,
+      "category": "ความเร็ว",
+      "formula": "1 mph = 1.60934 km/h"
+    },
+    {
+      "from_unit": "กิโลเมตรต่อชั่วโมง",
+      "to_unit": "ไมล์ต่อชั่วโมง",
+      "factor": 0.621371,
+      "category": "ความเร็ว",
+      "formula": "1 km/h = 0.621371 mph"
+    },
+    {
+      "from_unit": "นอต",
+      "to_unit": "กิโลเมตรต่อชั่วโมง",
+      "factor": 1.852,
+      "category": "ความเร็ว",
+      "formula": "1 kn = 1.852 km/h"
+    },
+    {
+      "from_unit": "เมตรต่อวินาที",
+      "to_unit": "กิโลเมตรต่อชั่วโมง",
+      "factor": 3.6,
+      "category": "ความเร็ว",
+      "formula": "1 m/s = 3.6 km/h"
+    },
+    {
+      "from_unit": "ฟุตต่อวินาที",
+      "to_unit": "เมตรต่อวินาที",
+      "factor": 0.3048,
+      "category": "ความเร็ว",
+      "formula": "1 ft/s = 0.3048 m/s"
+    },
+    {
+      "from_unit": "มัค",
+      "to_unit": "กิโลเมตรต่อชั่วโมง",
+      "factor": 1234.8,
+      "category": "ความเร็ว",
+      "formula": "1 Mach ≈ 1234.8 km/h (at sea level)"
+    },
+    {
+      "from_unit": "เซลเซียสเป็นฟาเรนไฮต์",
+      "to_unit": "สูตร",
+      "factor": 1.8,
+      "category": "อุณหภูมิ",
+      "formula": "°F = (°C × 1.8) + 32"
+    },
+    {
+      "from_unit": "ฟาเรนไฮต์เป็นเซลเซียส",
+      "to_unit": "สูตร",
+      "factor": 0.5556,
+      "category": "อุณหภูมิ",
+      "formula": "°C = (°F - 32) × 5/9"
+    },
+    {
+      "from_unit": "เซลเซียสเป็นเคลวิน",
+      "to_unit": "สูตร",
+      "factor": 1,
+      "category": "อุณหภูมิ",
+      "formula": "K = °C + 273.15"
+    },
+    {
+      "from_unit": "เคลวินเป็นเซลเซียส",
+      "to_unit": "สูตร",
+      "factor": 1,
+      "category": "อุณหภูมิ",
+      "formula": "°C = K - 273.15"
+    },
+    {
+      "from_unit": "แคลอรี",
+      "to_unit": "จูล",
+      "factor": 4.184,
+      "category": "พลังงาน",
+      "formula": "1 cal = 4.184 J"
+    },
+    {
+      "from_unit": "กิโลแคลอรี",
+      "to_unit": "กิโลจูล",
+      "factor": 4.184,
+      "category": "พลังงาน",
+      "formula": "1 kcal = 4.184 kJ"
+    },
+    {
+      "from_unit": "บีทียู",
+      "to_unit": "จูล",
+      "factor": 1055.06,
+      "category": "พลังงาน",
+      "formula": "1 BTU = 1055.06 J"
+    },
+    {
+      "from_unit": "วัตต์-ชั่วโมง",
+      "to_unit": "จูล",
+      "factor": 3600,
+      "category": "พลังงาน",
+      "formula": "1 Wh = 3600 J"
+    },
+    {
+      "from_unit": "กิโลวัตต์-ชั่วโมง",
+      "to_unit": "เมกะจูล",
+      "factor": 3.6,
+      "category": "พลังงาน",
+      "formula": "1 kWh = 3.6 MJ"
+    },
+    {
+      "from_unit": "อิเล็กตรอนโวลต์",
+      "to_unit": "จูล",
+      "factor": 1.60218e-19,
+      "category": "พลังงาน",
+      "formula": "1 eV = 1.60218×10⁻¹⁹ J"
+    },
+    {
+      "from_unit": "PSI",
+      "to_unit": "บาร์",
+      "factor": 0.0689476,
+      "category": "ความดัน",
+      "formula": "1 psi = 0.0689476 bar"
+    },
+    {
+      "from_unit": "บาร์",
+      "to_unit": "PSI",
+      "factor": 14.5038,
+      "category": "ความดัน",
+      "formula": "1 bar = 14.5038 psi"
+    },
+    {
+      "from_unit": "แอตโมสเฟียร์",
+      "to_unit": "บาร์",
+      "factor": 1.01325,
+      "category": "ความดัน",
+      "formula": "1 atm = 1.01325 bar"
+    },
+    {
+      "from_unit": "ปาสคาล",
+      "to_unit": "บาร์",
+      "factor": 0.00001,
+      "category": "ความดัน",
+      "formula": "1 Pa = 0.00001 bar"
+    },
+    {
+      "from_unit": "mmHg",
+      "to_unit": "ปาสคาล",
+      "factor": 133.322,
+      "category": "ความดัน",
+      "formula": "1 mmHg = 133.322 Pa"
+    },
+    {
+      "from_unit": "ไบต์",
+      "to_unit": "บิต",
+      "factor": 8,
+      "category": "ดิจิทัล",
+      "formula": "1 B = 8 bits"
+    },
+    {
+      "from_unit": "กิโลไบต์",
+      "to_unit": "ไบต์",
+      "factor": 1024,
+      "category": "ดิจิทัล",
+      "formula": "1 KB = 1024 B"
+    },
+    {
+      "from_unit": "เมกะไบต์",
+      "to_unit": "กิโลไบต์",
+      "factor": 1024,
+      "category": "ดิจิทัล",
+      "formula": "1 MB = 1024 KB"
+    },
+    {
+      "from_unit": "กิกะไบต์",
+      "to_unit": "เมกะไบต์",
+      "factor": 1024,
+      "category": "ดิจิทัล",
+      "formula": "1 GB = 1024 MB"
+    },
+    {
+      "from_unit": "เทระไบต์",
+      "to_unit": "กิกะไบต์",
+      "factor": 1024,
+      "category": "ดิจิทัล",
+      "formula": "1 TB = 1024 GB"
+    },
+    {
+      "from_unit": "เพตะไบต์",
+      "to_unit": "เทระไบต์",
+      "factor": 1024,
+      "category": "ดิจิทัล",
+      "formula": "1 PB = 1024 TB"
+    },
+    {
+      "from_unit": "นาที",
+      "to_unit": "วินาที",
+      "factor": 60,
+      "category": "เวลา",
+      "formula": "1 min = 60 s"
+    },
+    {
+      "from_unit": "ชั่วโมง",
+      "to_unit": "นาที",
+      "factor": 60,
+      "category": "เวลา",
+      "formula": "1 h = 60 min"
+    },
+    {
+      "from_unit": "วัน",
+      "to_unit": "ชั่วโมง",
+      "factor": 24,
+      "category": "เวลา",
+      "formula": "1 day = 24 h"
+    },
+    {
+      "from_unit": "สัปดาห์",
+      "to_unit": "วัน",
+      "factor": 7,
+      "category": "เวลา",
+      "formula": "1 week = 7 days"
+    },
+    {
+      "from_unit": "ปี",
+      "to_unit": "วัน",
+      "factor": 365.25,
+      "category": "เวลา",
+      "formula": "1 year ≈ 365.25 days"
+    },
+    {
+      "from_unit": "ทศวรรษ",
+      "to_unit": "ปี",
+      "factor": 10,
+      "category": "เวลา",
+      "formula": "1 decade = 10 years"
+    },
+    {
+      "from_unit": "ศตวรรษ",
+      "to_unit": "ปี",
+      "factor": 100,
+      "category": "เวลา",
+      "formula": "1 century = 100 years"
+    },
+    {
+      "from_unit": "องศา",
+      "to_unit": "เรเดียน",
+      "factor": 0.0174533,
+      "category": "มุม",
+      "formula": "1° = π/180 rad"
+    },
+    {
+      "from_unit": "เรเดียน",
+      "to_unit": "องศา",
+      "factor": 57.2958,
+      "category": "มุม",
+      "formula": "1 rad = 180/π °"
+    },
+    {
+      "from_unit": "เกรเดียน",
+      "to_unit": "องศา",
+      "factor": 0.9,
+      "category": "มุม",
+      "formula": "1 gon = 0.9°"
+    },
+    {
+      "from_unit": "รอบ",
+      "to_unit": "องศา",
+      "factor": 360,
+      "category": "มุม",
+      "formula": "1 rev = 360°"
+    },
+    {
+      "from_unit": "MPG (US)",
+      "to_unit": "L/100km",
+      "factor": 235.215,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 235.215 / MPG"
+    },
+    {
+      "from_unit": "MPG (UK)",
+      "to_unit": "L/100km",
+      "factor": 282.481,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 282.481 / MPG"
+    },
+    {
+      "from_unit": "km/L",
+      "to_unit": "L/100km",
+      "factor": 100,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 100 / km/L"
+    }
+  ],
+  "meta": {
+    "seo_title": "ปัจจัยการแปลงหน่วย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี 83 ปัจจัยการแปลงหน่วยสำหรับความยาว, น้ำหนัก, ปริมาตร และอื่นๆ มีในรูปแบบ Excel, CSV และ PDF สำหรับการใช้งานหลากหลาย.",
+    "title": "ชุดข้อมูลปัจจัยการแปลงหน่วยที่ครอบคลุม",
+    "description": "ชุดข้อมูลนี้มี 83 ปัจจัยการแปลงหน่วยที่จำเป็นในหมวดหมู่ต่างๆ เช่น ความยาว, น้ำหนัก และปริมาตร แต่ละรายการประกอบด้วย 'จากหน่วย', 'ถึงหน่วย', 'ปัจจัยการแปลง', 'หมวดหมู่' และ 'สูตร' เพื่อใช้อ้างอิงได้ง่าย.",
+    "key_takeaways": [
+      "เข้าถึง 83 ปัจจัยการแปลงหน่วยที่สำคัญสำหรับหมวดหมู่ที่หลากหลาย.",
+      "สำรวจความสัมพันธ์ของหน่วยทั่วไปและทางวิทยาศาสตร์ได้ทันที.",
+      "ดาวน์โหลดข้อมูลพร้อมใช้สำหรับงานวิศวกรรม วิทยาศาสตร์ และงานประจำวัน.",
+      "ใช้ประโยชน์จากสูตรที่แม่นยำสำหรับการแปลงที่ถูกต้องในโครงการของคุณ."
+    ],
+    "keywords": [
+      "ปัจจัยการแปลงหน่วย excel",
+      "อัตราการแปลง csv",
+      "ข้อมูลแปลงหน่วยเมตริกอิมพีเรียล",
+      "ชุดข้อมูลตัวแปลงหน่วย",
+      "สูตรแปลงหน่วย",
+      "ดาวน์โหลดปัจจัยการแปลง"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อสร้างเครื่องมือแปลงหน่วยหรือแอปพลิเคชันประมวลผลข้อมูลที่กำหนดเอง.",
+      "ใช้ไฟล์ **Excel** เพื่อกรอง, จัดเรียง, และใช้ปัจจัยการแปลงอย่างรวดเร็วในการสร้างแบบจำลองทางการเงินหรือการคำนวณทางวิทยาศาสตร์.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงออฟไลน์ที่สะดวกสบายในห้องเรียน, เวิร์กช็อป หรือเพื่อการศึกษาด้วยตนเอง.",
+      "รวมชุดข้อมูลนี้เข้ากับซอฟต์แวร์เพื่อการศึกษาหรือแพลตฟอร์มการวิจัย เพื่อให้การแปลงหน่วยที่แม่นยำและเชื่อถือได้."
+    ]
+  },
+  "record_count": 83,
+  "title": "ชุดข้อมูลปัจจัยการแปลงหน่วยที่ครอบคลุม"
+}

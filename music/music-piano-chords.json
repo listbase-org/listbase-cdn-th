@@ -1,0 +1,919 @@
+{
+  "id": "music-piano-chords",
+  "name": "ชุดข้อมูลอ้างอิงตารางคอร์ดเปียโนที่จำเป็น",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "keys",
+      "label": "Keys/Notes",
+      "type": "string"
+    },
+    {
+      "key": "left_hand",
+      "label": "Left Hand",
+      "type": "string"
+    },
+    {
+      "key": "right_hand",
+      "label": "Right Hand",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    },
+    {
+      "key": "semitones",
+      "label": "Semitones",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "คอร์ด C เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "C-E-G",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Cm",
+      "name": "คอร์ด C ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "C-Eb-G",
+      "left_hand": "C-G",
+      "right_hand": "C-Eb-G",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "C7",
+      "name": "คอร์ด C โดมิแนนท์เซเว่น",
+      "type": "โดมิแนนท์เซเว่น",
+      "keys": "C-E-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-E-G-Bb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "คอร์ด C เมเจอร์เซเว่น",
+      "type": "เมเจอร์เซเว่น",
+      "keys": "C-E-G-B",
+      "left_hand": "C-B",
+      "right_hand": "C-E-G-B",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Cm7",
+      "name": "คอร์ด C ไมเนอร์เซเว่น",
+      "type": "ไมเนอร์เซเว่น",
+      "keys": "C-Eb-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Cdim",
+      "name": "คอร์ด C ดิมินิช",
+      "type": "ดิมินิช",
+      "keys": "C-Eb-Gb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Cdim7",
+      "name": "คอร์ด C ดิมินิชเซเว่น",
+      "type": "ดิมินิชเซเว่น",
+      "keys": "C-Eb-Gb-Bbb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb-A",
+      "intervals": "1-b3-b5-bb7",
+      "semitones": "0-3-6-9"
+    },
+    {
+      "chord": "Caug",
+      "name": "คอร์ด C ออกเมนเต็ด",
+      "type": "ออกเมนเต็ด",
+      "keys": "C-E-G#",
+      "left_hand": "C-G#",
+      "right_hand": "C-E-G#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Csus2",
+      "name": "คอร์ด C ซัสเพนเด็ด 2",
+      "type": "ซัสเพนเด็ด",
+      "keys": "C-D-G",
+      "left_hand": "C-G",
+      "right_hand": "C-D-G",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Csus4",
+      "name": "คอร์ด C ซัสเพนเด็ด 4",
+      "type": "ซัสเพนเด็ด",
+      "keys": "C-F-G",
+      "left_hand": "C-G",
+      "right_hand": "C-F-G",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "C6",
+      "name": "คอร์ด C เมเจอร์ซิกซ์",
+      "type": "เมเจอร์ซิกซ์",
+      "keys": "C-E-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-E-G-A",
+      "intervals": "1-3-5-6",
+      "semitones": "0-4-7-9"
+    },
+    {
+      "chord": "Cm6",
+      "name": "คอร์ด C ไมเนอร์ซิกซ์",
+      "type": "ไมเนอร์ซิกซ์",
+      "keys": "C-Eb-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-Eb-G-A",
+      "intervals": "1-b3-5-6",
+      "semitones": "0-3-7-9"
+    },
+    {
+      "chord": "C9",
+      "name": "คอร์ด C โดมิแนนท์ไนน์",
+      "type": "โดมิแนนท์ไนน์",
+      "keys": "C-E-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-Bb-D",
+      "intervals": "1-3-5-b7-9",
+      "semitones": "0-4-7-10-14"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "คอร์ด C แอด 9",
+      "type": "แอด 9",
+      "keys": "C-E-G-D",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G-D",
+      "intervals": "1-3-5-9",
+      "semitones": "0-4-7-14"
+    },
+    {
+      "chord": "D",
+      "name": "คอร์ด D เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "D-F#-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F#-A",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Dm",
+      "name": "คอร์ด D ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "D-F-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F-A",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "D7",
+      "name": "คอร์ด D โดมิแนนท์เซเว่น",
+      "type": "โดมิแนนท์เซเว่น",
+      "keys": "D-F#-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F#-A-C",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "คอร์ด D เมเจอร์เซเว่น",
+      "type": "เมเจอร์เซเว่น",
+      "keys": "D-F#-A-C#",
+      "left_hand": "D-C#",
+      "right_hand": "D-F#-A-C#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Dm7",
+      "name": "คอร์ด D ไมเนอร์เซเว่น",
+      "type": "ไมเนอร์เซเว่น",
+      "keys": "D-F-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F-A-C",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Ddim",
+      "name": "คอร์ด D ดิมินิช",
+      "type": "ดิมินิช",
+      "keys": "D-F-Ab",
+      "left_hand": "D-Ab",
+      "right_hand": "D-F-Ab",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Daug",
+      "name": "D ออกเมนเต็ด",
+      "type": "ออกเมนเต็ด",
+      "keys": "D-F#-A#",
+      "left_hand": "D-A#",
+      "right_hand": "D-F#-A#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D ซัสเพนเด็ด 2",
+      "type": "ซัสเพนเด็ด",
+      "keys": "D-E-A",
+      "left_hand": "D-A",
+      "right_hand": "D-E-A",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D ซัสเพนเด็ด 4",
+      "type": "ซัสเพนเด็ด",
+      "keys": "D-G-A",
+      "left_hand": "D-A",
+      "right_hand": "D-G-A",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "E",
+      "name": "E เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "E-G#-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G#-B",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Em",
+      "name": "E ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "E-G-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G-B",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "E7",
+      "name": "E โดมินันต์ 7",
+      "type": "โดมินันต์ 7",
+      "keys": "E-G#-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G#-B-D",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E เมเจอร์ 7",
+      "type": "เมเจอร์ 7",
+      "keys": "E-G#-B-D#",
+      "left_hand": "E-D#",
+      "right_hand": "E-G#-B-D#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Em7",
+      "name": "E ไมเนอร์ 7",
+      "type": "ไมเนอร์ 7",
+      "keys": "E-G-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Edim",
+      "name": "E ดิมินิช",
+      "type": "ดิมินิช",
+      "keys": "E-G-Bb",
+      "left_hand": "E-Bb",
+      "right_hand": "E-G-Bb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E ออกเมนเต็ด",
+      "type": "ออกเมนเต็ด",
+      "keys": "E-G#-B#",
+      "left_hand": "E-C",
+      "right_hand": "E-G#-C",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E ซัสเพนเด็ด 4",
+      "type": "ซัสเพนเด็ด",
+      "keys": "E-A-B",
+      "left_hand": "E-B",
+      "right_hand": "E-A-B",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "F",
+      "name": "F เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "F-A-C",
+      "left_hand": "F-C",
+      "right_hand": "F-A-C",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Fm",
+      "name": "F ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "F-Ab-C",
+      "left_hand": "F-C",
+      "right_hand": "F-Ab-C",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F7",
+      "name": "F โดมินันต์ 7",
+      "type": "โดมินันต์ 7",
+      "keys": "F-A-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-A-C-Eb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F เมเจอร์ 7",
+      "type": "เมเจอร์ 7",
+      "keys": "F-A-C-E",
+      "left_hand": "F-E",
+      "right_hand": "F-A-C-E",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F ไมเนอร์ 7",
+      "type": "ไมเนอร์ 7",
+      "keys": "F-Ab-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F ดิมินิช",
+      "type": "ดิมินิช",
+      "keys": "F-Ab-Cb",
+      "left_hand": "F-B",
+      "right_hand": "F-Ab-B",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Faug",
+      "name": "F ออกเมนเต็ด",
+      "type": "ออกเมนเต็ด",
+      "keys": "F-A-C#",
+      "left_hand": "F-C#",
+      "right_hand": "F-A-C#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "G",
+      "name": "G เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "G-B-D",
+      "left_hand": "G-D",
+      "right_hand": "G-B-D",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Gm",
+      "name": "G ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "G-Bb-D",
+      "left_hand": "G-D",
+      "right_hand": "G-Bb-D",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "G7",
+      "name": "G โดมิแนนท์เซเว่น",
+      "type": "โดมิแนนท์เซเว่น",
+      "keys": "G-B-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-B-D-F",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G เมเจอร์เซเว่น",
+      "type": "เมเจอร์เซเว่น",
+      "keys": "G-B-D-F#",
+      "left_hand": "G-F#",
+      "right_hand": "G-B-D-F#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G ไมเนอร์เซเว่น",
+      "type": "ไมเนอร์เซเว่น",
+      "keys": "G-Bb-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G ดิมินิช",
+      "type": "ดิมินิช",
+      "keys": "G-Bb-Db",
+      "left_hand": "G-Db",
+      "right_hand": "G-Bb-Db",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G ออคเมนท์",
+      "type": "ออคเมนท์",
+      "keys": "G-B-D#",
+      "left_hand": "G-D#",
+      "right_hand": "G-B-D#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Gsus4",
+      "name": "G ซัสเพนเด็ด 4",
+      "type": "ซัสเพนเด็ด",
+      "keys": "G-C-D",
+      "left_hand": "G-D",
+      "right_hand": "G-C-D",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "A",
+      "name": "A เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "A-C#-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C#-E",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Am",
+      "name": "A ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "A-C-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C-E",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "A7",
+      "name": "A โดมิแนนท์เซเว่น",
+      "type": "โดมิแนนท์เซเว่น",
+      "keys": "A-C#-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C#-E-G",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A เมเจอร์เซเว่น",
+      "type": "เมเจอร์เซเว่น",
+      "keys": "A-C#-E-G#",
+      "left_hand": "A-G#",
+      "right_hand": "A-C#-E-G#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Am7",
+      "name": "A ไมเนอร์เซเว่น",
+      "type": "ไมเนอร์เซเว่น",
+      "keys": "A-C-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C-E-G",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Adim",
+      "name": "A ดิมินิช",
+      "type": "ดิมินิช",
+      "keys": "A-C-Eb",
+      "left_hand": "A-Eb",
+      "right_hand": "A-C-Eb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A ออคเมนท์",
+      "type": "ออคเมนท์",
+      "keys": "A-C#-E#",
+      "left_hand": "A-F",
+      "right_hand": "A-C#-F",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A ซัสเพนเด็ด 2",
+      "type": "ซัสเพนเด็ด",
+      "keys": "A-B-E",
+      "left_hand": "A-E",
+      "right_hand": "A-B-E",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A ซัสเพนเด็ด 4",
+      "type": "ซัสเพนเด็ด",
+      "keys": "A-D-E",
+      "left_hand": "A-E",
+      "right_hand": "A-D-E",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "B",
+      "name": "B เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "B-D#-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D#-F#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bm",
+      "name": "B ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "B-D-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D-F#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "B7",
+      "name": "B โดมิแนนท์เซเว่น",
+      "type": "โดมิแนนท์เซเว่น",
+      "keys": "B-D#-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D#-F#-A",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B เมเจอร์เซเว่น",
+      "type": "เมเจอร์เซเว่น",
+      "keys": "B-D#-F#-A#",
+      "left_hand": "B-A#",
+      "right_hand": "B-D#-F#-A#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B ไมเนอร์เซเว่น",
+      "type": "ไมเนอร์เซเว่น",
+      "keys": "B-D-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D-F#-A",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Bdim",
+      "name": "B ลด",
+      "type": "ลด",
+      "keys": "B-D-F",
+      "left_hand": "B-F",
+      "right_hand": "B-D-F",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Baug",
+      "name": "B เพิ่ม",
+      "type": "เพิ่ม",
+      "keys": "B-D#-Fx",
+      "left_hand": "B-G",
+      "right_hand": "B-D#-G",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "C#",
+      "name": "C# เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "C#-E#-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-F-G#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "C#m",
+      "name": "C# ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "C#-E-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-E-G#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Db",
+      "name": "Db เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "Db-F-Ab",
+      "left_hand": "Db-Ab",
+      "right_hand": "Db-F-Ab",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Eb",
+      "name": "Eb เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "Eb-G-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-G-Bb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Ebm",
+      "name": "Eb ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "Eb-Gb-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-Gb-Bb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F#",
+      "name": "F# เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "F#-A#-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A#-C#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "F#m",
+      "name": "F# ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "F#-A-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A-C#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Gb",
+      "name": "Gb เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "Gb-Bb-Db",
+      "left_hand": "Gb-Db",
+      "right_hand": "Gb-Bb-Db",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "G#m",
+      "name": "G# ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "G#-B-D#",
+      "left_hand": "G#-D#",
+      "right_hand": "G#-B-D#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Ab",
+      "name": "Ab เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "Ab-C-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-C-Eb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Abm",
+      "name": "Ab ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "Ab-Cb-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-B-Eb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb",
+      "name": "Bb เมเจอร์",
+      "type": "เมเจอร์",
+      "keys": "Bb-D-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-D-F",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bbm",
+      "name": "Bb ไมเนอร์",
+      "type": "ไมเนอร์",
+      "keys": "Bb-Db-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-Db-F",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb7",
+      "name": "Bb โดมินันต์เซเว่น",
+      "type": "โดมินันต์เซเว่น",
+      "keys": "Bb-D-F-Ab",
+      "left_hand": "Bb-Ab",
+      "right_hand": "Bb-D-F-Ab",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj9",
+      "name": "C เมเจอร์ไนน์",
+      "type": "เมเจอร์ไนน์",
+      "keys": "C-E-G-B-D",
+      "left_hand": "C-B",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-3-5-7-9",
+      "semitones": "0-4-7-11-14"
+    },
+    {
+      "chord": "Cm9",
+      "name": "C ไมเนอร์ไนน์",
+      "type": "ไมเนอร์ไนน์",
+      "keys": "C-Eb-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "Eb-G-Bb-D",
+      "intervals": "1-b3-5-b7-9",
+      "semitones": "0-3-7-10-14"
+    },
+    {
+      "chord": "C11",
+      "name": "C โดมินันต์อีเลฟเว่น",
+      "type": "โดมินันต์อีเลฟเว่น",
+      "keys": "C-E-G-Bb-D-F",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-F",
+      "intervals": "1-3-5-b7-9-11",
+      "semitones": "0-4-7-10-14-17"
+    },
+    {
+      "chord": "C13",
+      "name": "C โดมินันต์เธอร์ทีน",
+      "type": "โดมินันต์เธอร์ทีน",
+      "keys": "C-E-G-Bb-D-A",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-A",
+      "intervals": "1-3-5-b7-9-13",
+      "semitones": "0-4-7-10-14-21"
+    },
+    {
+      "chord": "Am/E",
+      "name": "A ไมเนอร์ ทับ E",
+      "type": "คอร์ดสแลช",
+      "keys": "E-A-C-E",
+      "left_hand": "E",
+      "right_hand": "A-C-E",
+      "intervals": "5-1-b3-5",
+      "semitones": "7-0-3-7"
+    },
+    {
+      "chord": "C/G",
+      "name": "C เมเจอร์ ทับ G",
+      "type": "คอร์ดสแลช",
+      "keys": "G-C-E-G",
+      "left_hand": "G",
+      "right_hand": "C-E-G",
+      "intervals": "5-1-3-5",
+      "semitones": "7-0-4-7"
+    },
+    {
+      "chord": "D/F#",
+      "name": "D เมเจอร์ ทับ F ชาร์ป",
+      "type": "คอร์ดสแลช",
+      "keys": "F#-D-F#-A",
+      "left_hand": "F#",
+      "right_hand": "D-F#-A",
+      "intervals": "3-1-3-5",
+      "semitones": "4-0-4-7"
+    },
+    {
+      "chord": "G/B",
+      "name": "G เมเจอร์ ทับ B",
+      "type": "คอร์ดสแลช",
+      "keys": "B-D-G-B",
+      "left_hand": "B",
+      "right_hand": "D-G-B",
+      "intervals": "3-5-1-3",
+      "semitones": "4-7-0-4"
+    }
+  ],
+  "meta": {
+    "seo_title": "ตารางคอร์ดเปียโน - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรีตารางคอร์ดเปียโน 84 คอร์ดที่จำเป็นสำหรับทุกระดับ มีให้ในรูปแบบ Excel, CSV และ PDF สำหรับนักดนตรีและผู้เรียน",
+    "title": "ชุดข้อมูลอ้างอิงตารางคอร์ดเปียโนที่จำเป็น",
+    "description": "ชุดข้อมูลนี้รวบรวมคอร์ดเปียโน 84 คอร์ด พร้อมสัญลักษณ์ ชื่อ โน้ต ตำแหน่งมือ ช่วงเสียง และโครงสร้างเซมิโทน เหมาะสำหรับนักดนตรี นักเรียน และครูผู้สอน",
+    "key_takeaways": [
+      "เข้าถึงคอร์ดเปียโนพื้นฐาน 84 คอร์ดพร้อมข้อมูลทางดนตรีโดยละเอียด",
+      "สำรวจโครงสร้างคอร์ด โน้ต ช่วงเสียง และความสัมพันธ์ของเซมิโทนสำหรับคอร์ดประเภทต่างๆ",
+      "ดาวน์โหลดข้อมูลคอร์ดพร้อมใช้สำหรับการศึกษาทฤษฎีดนตรีหรือการพัฒนาแอปพลิเคชัน",
+      "ใช้ตำแหน่งมือที่แม่นยำ (ซ้ายและขวา) สำหรับการเล่นเปียโนที่ถูกต้อง"
+    ],
+    "keywords": [
+      "ตารางคอร์ดเปียโน",
+      "คอร์ดเปียโนฟรี excel",
+      "ชุดข้อมูลทฤษฎีดนตรี",
+      "คอร์ดเปียโน csv",
+      "โน้ตเปียโน pdf",
+      "ดาวน์โหลด 84 คอร์ดเปียโน"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในแอปพลิเคชันการเรียนรู้ดนตรีหรือฐานข้อมูลของคุณ เพื่อรองรับการค้นหาคอร์ดและแบบฝึกหัดแบบไดนามิก",
+      "ใช้ไฟล์ **Excel** เพื่อกรองคอร์ดตามประเภท วิเคราะห์รูปแบบช่วงเสียง หรือสร้างชีทฝึกซ้อมส่วนตัว",
+      "พิมพ์เวอร์ชัน **PDF** เพื่อใช้อ้างอิงอย่างรวดเร็วแบบออฟไลน์ระหว่างเรียนเปียโนหรือฝึกซ้อม",
+      "ใช้ประโยชน์จากชุดข้อมูลนี้เพื่อพัฒนาเครื่องมือการศึกษาสำหรับนักเรียนเปียโน แสดงการสร้างคอร์ดและทฤษฎีด้วยภาพ"
+    ]
+  },
+  "record_count": 84,
+  "title": "ชุดข้อมูลอ้างอิงตารางคอร์ดเปียโนที่จำเป็น"
+}

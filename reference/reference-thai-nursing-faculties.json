@@ -1,0 +1,541 @@
+{
+  "id": "reference-thai-nursing-faculties",
+  "name": "รายชื่อคณะพยาบาลศาสตร์ในประเทศไทย",
+  "title": "รายชื่อคณะพยาบาลศาสตร์ในประเทศไทย",
+  "description": "รายชื่อคณะพยาบาลศาสตร์และสถาบันการศึกษาที่เปิดสอนหลักสูตรพยาบาลศาสตร์ในประเทศไทย ทั้งจากสถาบันอุดมศึกษารัฐบาล/ในกำกับของรัฐ สถาบัน/วิทยาลัยพยาบาลสังกัดหน่วยงานอื่น สถาบันพระบรมราชชนก และสถาบันอุดมศึกษาเอกชน พร้อมข้อมูลปีการศึกษาที่เริ่มรับนิสิต/นักศึกษาพยาบาลศาสตร์ครั้งแรก",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2",
+  "updated": "2023-10-27",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "institution_name_th",
+      "label": "รายชื่อสถาบันการศึกษา",
+      "type": "string"
+    },
+    {
+      "key": "first_admission_year",
+      "label": "ปีการศึกษาที่รับนิสิต/นักศึกษาพยาบาลศาสตร์ครั้งแรก",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยมหิดล",
+      "first_admission_year": "2439"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์เกื้อการุณย์ มหาวิทยาลัยนวมินทราธิราช",
+      "first_admission_year": "2497"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+      "first_admission_year": "2501"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยนราธิวาสราชนครินทร์",
+      "first_admission_year": "2505"
+    },
+    {
+      "institution_name_th": "โรงเรียนพยาบาลรามาธิบดี คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
+      "first_admission_year": "2507"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น",
+      "first_admission_year": "2514"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเชียงใหม่",
+      "first_admission_year": "2515"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตหาดใหญ่",
+      "first_admission_year": "2516"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยบูรพา",
+      "first_admission_year": "2525"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี นครพนม มหาวิทยาลัยนครพนม",
+      "first_admission_year": "2536"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยมหาสารคาม",
+      "first_admission_year": "2538"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
+      "first_admission_year": "2539"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยนเรศวร",
+      "first_admission_year": "2539"
+    },
+    {
+      "institution_name_th": "สำนักวิชาพยาบาลศาสตร์ มหาวิทยาลัยวลัยลักษณ์",
+      "first_admission_year": "2541"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "first_admission_year": "2542"
+    },
+    {
+      "institution_name_th": "สาขาวิชาพยาบาลศาสตร์ มหาวิทยาลัยสุโขทัยธรรมาธิราช หลักสูตรพยาบาลศาสตรบัณฑิต สำหรับเจ้าพนักงานสาธารณสุข",
+      "first_admission_year": "2544"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยพะเยา",
+      "first_admission_year": "2546"
+    },
+    {
+      "institution_name_th": "สำนักวิชาพยาบาลศาสตร์ มหาวิทยาลัยแม่ฟ้าหลวง",
+      "first_admission_year": "2549"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยสวนดุสิต",
+      "first_admission_year": "2550"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลและสุขภาพ มหาวิทยาลัยราชภัฏสวนสุนันทา",
+      "first_admission_year": "2550"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏชัยภูมิ",
+      "first_admission_year": "2551"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏสุราษฎร์ธานี",
+      "first_admission_year": "2551"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏนครปฐม",
+      "first_admission_year": "2552"
+    },
+    {
+      "institution_name_th": "สำนักวิชาพยาบาลศาสตร์ มหาวิทยาลัยเทคโนโลยีสุรนารี",
+      "first_admission_year": "2552"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยอุบลราชธานี",
+      "first_admission_year": "2553"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏอุบลราชธานี",
+      "first_admission_year": "2555"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตปัตตานี",
+      "first_admission_year": "2556"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์และวิทยาการสุขภาพ มหาวิทยาลัยราชภัฏเพชรบุรี",
+      "first_admission_year": "2557"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏร้อยเอ็ด",
+      "first_admission_year": "2557"
+    },
+    {
+      "institution_name_th": "สถาบันพยาบาลศาสตร์ มหาวิทยาลัยมหิดล วิทยาเขตนครสวรรค์",
+      "first_admission_year": "2559"
+    },
+    {
+      "institution_name_th": "หลักสูตรพยาบาลศาสตรบัณฑิต มหาวิทยาลัยมหิดล วิทยาเขตอำนาจเจริญ",
+      "first_admission_year": "2559"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลศาสตร์อัครราชกุมารี วิทยาลัยวิทยาศาสตร์การแพทย์เจ้าฟ้าจุฬาภรณ์ ราชวิทยาลัยจุฬาภรณ์ และหลักสูตรพยาบาลศาสตรบัณฑิต สำหรับผู้สำเร็จปริญญาตรีสาขาอื่น และหลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2560"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี",
+      "first_admission_year": "2561"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยทักษิณ วิทยาเขตพัทลุง และหลักสูตรพยาบาลศาสตรบัณฑิต สำหรับผู้สำเร็จปริญญาตรีสาขาอื่น",
+      "first_admission_year": "2561"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏบุรีรัมย์",
+      "first_admission_year": "2561"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏอุดรธานี",
+      "first_admission_year": "2562"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏรำไพพรรณี",
+      "first_admission_year": "2562"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏพิบูลสงคราม",
+      "first_admission_year": "2562"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏกำแพงเพชร",
+      "first_admission_year": "2563"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏลำปาง",
+      "first_admission_year": "2565"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยแม่โจ้",
+      "first_admission_year": "2565"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏนครราชสีมา",
+      "first_admission_year": "2565"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏศรีสะเกษ",
+      "first_admission_year": "2565"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏเชียงราย",
+      "first_admission_year": "2566"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏอุตรดิตถ์",
+      "first_admission_year": "2566"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏราชนครินทร์",
+      "first_admission_year": "2567"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏเชียงใหม่ วิทยาเขตแม่ฮ่องสอน",
+      "first_admission_year": "2567"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยรามคำแหง วิทยาเขตปัจฉิมสวัสดิ์-สุวรรณนภาศรี",
+      "first_admission_year": "2567"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏเพชรบูรณ์",
+      "first_admission_year": "2567"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์และวิทยาการสุขภาพ มหาวิทยาลัยราชภัฏธนบุรี วิทยาเขตสมุทรปราการ หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    },
+    {
+      "institution_name_th": "โครงการจัดตั้งคณะพยาบาลศาสตร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตสกลนคร",
+      "first_admission_year": "โครงการจัดตั้ง"
+    },
+    {
+      "institution_name_th": "โครงการจัดตั้งคณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏสกลนคร",
+      "first_admission_year": "โครงการจัดตั้ง"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏนครศรีธรรมราช",
+      "first_admission_year": "โครงการจัดตั้ง"
+    },
+    {
+      "institution_name_th": "โครงการจัดตั้งคณะพยาบาลศาสตร์ มหาวิทยาลัยกาฬสินธุ์",
+      "first_admission_year": "โครงการจัดตั้ง"
+    },
+    {
+      "institution_name_th": "โครงการจัดตั้งคณะพยาบาลศาสตร์ มหาวิทยาลัยศิลปากร",
+      "first_admission_year": "โครงการจัดตั้ง"
+    },
+    {
+      "institution_name_th": "สำนักวิชาพยาบาลศาสตร์ สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย",
+      "first_admission_year": "2457"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลทหารอากาศ",
+      "first_admission_year": "2501"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลกองทัพบก",
+      "first_admission_year": "2507"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลกองทัพเรือ",
+      "first_admission_year": "2511"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลตำรวจ",
+      "first_admission_year": "2513"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี จังหวัดนนทบุรี",
+      "first_admission_year": "2399"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี นพรัตน์วชิระ",
+      "first_admission_year": "2475"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ",
+      "first_admission_year": "2489"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี พุทธชินราช",
+      "first_admission_year": "2492"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี สรรพสิทธิประสงค์",
+      "first_admission_year": "2498"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี นครราชสีมา",
+      "first_admission_year": "2498"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี ขอนแก่น",
+      "first_admission_year": "2504"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลพระปกเกล้า จันทบุรี",
+      "first_admission_year": "2508"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี สงขลา",
+      "first_admission_year": "2509"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี สระบุรี",
+      "first_admission_year": "2509"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี ยะลา",
+      "first_admission_year": "2511"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี สวรรค์ประชารักษ์ นครสวรรค์",
+      "first_admission_year": "2513"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี สุราษฎร์ธานี",
+      "first_admission_year": "2513"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี จักรีรัช",
+      "first_admission_year": "2513"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี ชลบุรี",
+      "first_admission_year": "2514"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี สุรินทร์",
+      "first_admission_year": "2516"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี อุตรดิตถ์",
+      "first_admission_year": "2517"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี อุดรธานี",
+      "first_admission_year": "2518"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี ชัยนาท",
+      "first_admission_year": "2520"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี นครลำปาง",
+      "first_admission_year": "2521"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี ราชบุรี",
+      "first_admission_year": "2523"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี พะเยา",
+      "first_admission_year": "2525"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี พระพุทธบาท",
+      "first_admission_year": "2525"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี นครศรีธรรมราช",
+      "first_admission_year": "2525"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลศรีมหาสารคาม",
+      "first_admission_year": "2526"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี เชียงใหม่",
+      "first_admission_year": "2527"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลพระจอมเกล้า จังหวัดเพชรบุรี",
+      "first_admission_year": "2532"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี ตรัง",
+      "first_admission_year": "2532"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี สุพรรณบุรี",
+      "first_admission_year": "2538"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลบรมราชชนนี แพร่",
+      "first_admission_year": "2558"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์แมคคอร์มิค มหาวิทยาลัยพายัพ",
+      "first_admission_year": "2466"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ",
+      "first_admission_year": "2484"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์มิชชั่น มหาวิทยาลัยนานาชาติเอเชีย-แปซิฟิก",
+      "first_admission_year": "2490"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยคริสเตียน",
+      "first_admission_year": "2527"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ วิทยาลัยเซนต์หลุยส์",
+      "first_admission_year": "2528"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยรังสิต และหลักสูตรพยาบาลศาสตรบัณฑิต สำหรับผู้สำเร็จปริญญาตรีสาขาอื่น",
+      "first_admission_year": "2529"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยอัสสัมชัญ",
+      "first_admission_year": "2531"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยสยาม",
+      "first_admission_year": "2537"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชธานี",
+      "first_admission_year": "2538"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชธานี วิทยาเขตอุดรธานี",
+      "first_admission_year": "2542"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยวงษ์ชวลิตกุล",
+      "first_admission_year": "2549"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยอีสเทิร์นเอเชีย",
+      "first_admission_year": "2549"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ วิทยาลัยเชียงราย",
+      "first_admission_year": "2549"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ วิทยาลัยบัณฑิตเอเซีย",
+      "first_admission_year": "2549"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเฉลิมกาญจนา",
+      "first_admission_year": "2549"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยนานาชาติเซนต์เทเรซา",
+      "first_admission_year": "2550"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยปทุมธานี และหลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2550"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเวสเทิร์น วิทยาเขตกาญจนบุรี",
+      "first_admission_year": "2550"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยกรุงเทพธนบุรี",
+      "first_admission_year": "2551"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเวสเทิร์น วิทยาเขตวัชรพล",
+      "first_admission_year": "2552"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเวสเทิร์น วิทยาเขตบุรีรัมย์",
+      "first_admission_year": "2557"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเกษมบัณฑิต",
+      "first_admission_year": "2557"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยชินวัตร",
+      "first_admission_year": "2557"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเนชั่น",
+      "first_admission_year": "2562"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยรัตนบัณฑิต",
+      "first_admission_year": "2563"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยนอร์ทกรุงเทพ",
+      "first_admission_year": "2564"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ สถาบันการจัดการปัญญาภิวัฒน์ หลักสูตรพยาบาลศาสตรบัณฑิต และหลักสูตรพยาบาลศาสตรบัณฑิต สำหรับผู้สำเร็จปริญญาตรีสาขาอื่น",
+      "first_admission_year": "2565"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ วิทยาลัยนอร์ทเทิร์น",
+      "first_admission_year": "2566"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ",
+      "first_admission_year": "2567"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยราชพฤกษ์ หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ วิทยาลัยนครราชสีมา หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยหอการค้าไทย หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    },
+    {
+      "institution_name_th": "วิทยาลัยพยาบาลศาสตร์ มหาวิทยาลัยธุรกิจบัณฑิตย์ หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    },
+    {
+      "institution_name_th": "คณะพยาบาลศาสตร์ มหาวิทยาลัยเนชั่น วิทยาเขตเชียงใหม่ หลักสูตรพยาบาลศาสตรบัณฑิต",
+      "first_admission_year": "2568"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อคณะพยาบาลศาสตร์ในประเทศไทย",
+    "description": "รายชื่อคณะพยาบาลศาสตร์และสถาบันการศึกษาที่เปิดสอนหลักสูตรพยาบาลศาสตร์ในประเทศไทย ทั้งจากสถาบันอุดมศึกษารัฐบาล/ในกำกับของรัฐ สถาบัน/วิทยาลัยพยาบาลสังกัดหน่วยงานอื่น สถาบันพระบรมราชชนก และสถาบันอุดมศึกษาเอกชน",
+    "seo_title": "รายชื่อคณะพยาบาลศาสตร์ในประเทศไทย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 126 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 126 คณะพยาบาลศาสตร์และสถาบันครบถ้วน",
+      "รวม: ชื่อสถาบัน, ปีที่เริ่มรับนักศึกษา",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

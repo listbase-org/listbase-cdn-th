@@ -1,0 +1,488 @@
+{
+  "id": "lang-katakana-table",
+  "name": "ชุดข้อมูลตารางตัวอักษรคะตะคะนะญี่ปุ่นฉบับสมบูรณ์",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "katakana",
+      "label": "Katakana",
+      "type": "string"
+    },
+    {
+      "key": "romaji",
+      "label": "Romaji",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "row",
+      "label": "Row",
+      "type": "string"
+    },
+    {
+      "key": "column",
+      "label": "Column",
+      "type": "string"
+    },
+    {
+      "key": "stroke_count",
+      "label": "Stroke Count",
+      "type": "number"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "katakana": "ア",
+      "romaji": "a",
+      "category": "Vowel",
+      "row": "a",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30A2"
+    },
+    {
+      "katakana": "イ",
+      "romaji": "i",
+      "category": "Vowel",
+      "row": "a",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30A4"
+    },
+    {
+      "katakana": "ウ",
+      "romaji": "u",
+      "category": "Vowel",
+      "row": "a",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+30A6"
+    },
+    {
+      "katakana": "エ",
+      "romaji": "e",
+      "category": "Vowel",
+      "row": "a",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+30A8"
+    },
+    {
+      "katakana": "オ",
+      "romaji": "o",
+      "category": "Vowel",
+      "row": "a",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30AA"
+    },
+    {
+      "katakana": "カ",
+      "romaji": "ka",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30AB"
+    },
+    {
+      "katakana": "キ",
+      "romaji": "ki",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30AD"
+    },
+    {
+      "katakana": "ク",
+      "romaji": "ku",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30AF"
+    },
+    {
+      "katakana": "ケ",
+      "romaji": "ke",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+30B1"
+    },
+    {
+      "katakana": "コ",
+      "romaji": "ko",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+30B3"
+    },
+    {
+      "katakana": "サ",
+      "romaji": "sa",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+30B5"
+    },
+    {
+      "katakana": "シ",
+      "romaji": "shi",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30B7"
+    },
+    {
+      "katakana": "ス",
+      "romaji": "su",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30B9"
+    },
+    {
+      "katakana": "セ",
+      "romaji": "se",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+30BB"
+    },
+    {
+      "katakana": "ソ",
+      "romaji": "so",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+30BD"
+    },
+    {
+      "katakana": "タ",
+      "romaji": "ta",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+30BF"
+    },
+    {
+      "katakana": "チ",
+      "romaji": "chi",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30C1"
+    },
+    {
+      "katakana": "ツ",
+      "romaji": "tsu",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+30C4"
+    },
+    {
+      "katakana": "テ",
+      "romaji": "te",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+30C6"
+    },
+    {
+      "katakana": "ト",
+      "romaji": "to",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+30C8"
+    },
+    {
+      "katakana": "ナ",
+      "romaji": "na",
+      "category": "พยัญชนะ N",
+      "row": "na",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30CA"
+    },
+    {
+      "katakana": "ニ",
+      "romaji": "ni",
+      "category": "พยัญชนะ N",
+      "row": "na",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30CB"
+    },
+    {
+      "katakana": "ヌ",
+      "romaji": "nu",
+      "category": "พยัญชนะ N",
+      "row": "na",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30CC"
+    },
+    {
+      "katakana": "ネ",
+      "romaji": "ne",
+      "category": "พยัญชนะ N",
+      "row": "na",
+      "column": "e",
+      "stroke_count": 4,
+      "unicode": "U+30CD"
+    },
+    {
+      "katakana": "ノ",
+      "romaji": "no",
+      "category": "พยัญชนะ N",
+      "row": "na",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+30CE"
+    },
+    {
+      "katakana": "ハ",
+      "romaji": "ha",
+      "category": "พยัญชนะ H",
+      "row": "ha",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30CF"
+    },
+    {
+      "katakana": "ヒ",
+      "romaji": "hi",
+      "category": "พยัญชนะ H",
+      "row": "ha",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30D2"
+    },
+    {
+      "katakana": "フ",
+      "romaji": "fu",
+      "category": "พยัญชนะ H",
+      "row": "ha",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+30D5"
+    },
+    {
+      "katakana": "ヘ",
+      "romaji": "he",
+      "category": "พยัญชนะ H",
+      "row": "ha",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+30D8"
+    },
+    {
+      "katakana": "ホ",
+      "romaji": "ho",
+      "category": "พยัญชนะ H",
+      "row": "ha",
+      "column": "o",
+      "stroke_count": 4,
+      "unicode": "U+30DB"
+    },
+    {
+      "katakana": "マ",
+      "romaji": "ma",
+      "category": "พยัญชนะ M",
+      "row": "ma",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30DE"
+    },
+    {
+      "katakana": "ミ",
+      "romaji": "mi",
+      "category": "พยัญชนะ M",
+      "row": "ma",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30DF"
+    },
+    {
+      "katakana": "ム",
+      "romaji": "mu",
+      "category": "พยัญชนะ M",
+      "row": "ma",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30E0"
+    },
+    {
+      "katakana": "メ",
+      "romaji": "me",
+      "category": "พยัญชนะ M",
+      "row": "ma",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+30E1"
+    },
+    {
+      "katakana": "モ",
+      "romaji": "mo",
+      "category": "พยัญชนะ M",
+      "row": "ma",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30E2"
+    },
+    {
+      "katakana": "ヤ",
+      "romaji": "ya",
+      "category": "พยัญชนะ Y",
+      "row": "ya",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30E4"
+    },
+    {
+      "katakana": "ユ",
+      "romaji": "yu",
+      "category": "พยัญชนะ Y",
+      "row": "ya",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30E6"
+    },
+    {
+      "katakana": "ヨ",
+      "romaji": "yo",
+      "category": "พยัญชนะ Y",
+      "row": "ya",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30E8"
+    },
+    {
+      "katakana": "ラ",
+      "romaji": "ra",
+      "category": "พยัญชนะ R",
+      "row": "ra",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30E9"
+    },
+    {
+      "katakana": "リ",
+      "romaji": "ri",
+      "category": "พยัญชนะ R",
+      "row": "ra",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30EA"
+    },
+    {
+      "katakana": "ル",
+      "romaji": "ru",
+      "category": "พยัญชนะ R",
+      "row": "ra",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30EB"
+    },
+    {
+      "katakana": "レ",
+      "romaji": "re",
+      "category": "พยัญชนะ R",
+      "row": "ra",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+30EC"
+    },
+    {
+      "katakana": "ロ",
+      "romaji": "ro",
+      "category": "พยัญชนะ R",
+      "row": "ra",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30ED"
+    },
+    {
+      "katakana": "ワ",
+      "romaji": "wa",
+      "category": "พยัญชนะ W",
+      "row": "wa",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30EF"
+    },
+    {
+      "katakana": "ヲ",
+      "romaji": "wo",
+      "category": "พยัญชนะ W",
+      "row": "wa",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30F2"
+    },
+    {
+      "katakana": "ン",
+      "romaji": "n",
+      "category": "พยัญชนะนาสิก",
+      "row": "n",
+      "column": "-",
+      "stroke_count": 2,
+      "unicode": "U+30F3"
+    }
+  ],
+  "meta": {
+    "seo_title": "ตารางคะตะคะนะญี่ปุ่น - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดตารางคะตะคะนะญี่ปุ่นพร้อมโรมาจิ ยูนิโค้ด และจำนวนขีดเขียน ชุดข้อมูลฟรี 46 รายการ มีในรูปแบบ Excel, CSV และ PDF.",
+    "title": "ชุดข้อมูลตารางตัวอักษรคะตะคะนะญี่ปุ่นฉบับสมบูรณ์",
+    "description": "ชุดข้อมูลนี้รวบรวมตัวอักษรคะตะคะนะญี่ปุ่น 46 ตัวพร้อมคำอ่านโรมาจิ หมวดหมู่ จำนวนขีดเขียน และค่า Unicode เหมาะสำหรับผู้เรียน นักพัฒนา และนักภาษาศาสตร์.",
+    "key_takeaways": [
+      "เข้าถึงตัวอักษรคะตะคะนะญี่ปุ่น 46 ตัวพร้อมคุณสมบัติโดยละเอียด.",
+      "สำรวจโรมาจิ ยูนิโค้ด จำนวนขีดเขียน และการจัดหมวดหมู่สำหรับแต่ละตัวอักษร.",
+      "ดาวน์โหลดแหล่งข้อมูลพร้อมใช้งานสำหรับการเรียนภาษาและการพัฒนาซอฟต์แวร์.",
+      "ใช้ประโยชน์จากข้อมูลที่มีโครงสร้างเพื่อสร้างแอปหรือสื่อการศึกษา."
+    ],
+    "keywords": [
+      "ตารางคะตะคะนะญี่ปุ่น",
+      "คะตะคะนะ โรมาจิ",
+      "คะตะคะนะ ยูนิโค้ด csv",
+      "ตัวอักษรญี่ปุ่น excel",
+      "จำนวนขีดคะตะคะนะ",
+      "ข้อมูลเรียนคะตะคะนะ"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือใช้กับสคริปต์ Python สำหรับแอปพลิเคชันประมวลผลภาษาและเครื่องมือค้นหา.",
+      "ใช้ไฟล์ **Excel** เพื่อกรอง จัดเรียง และวิเคราะห์ตัวอักษรคะตะคะนะตามหมวดหมู่ จำนวนขีดเขียน หรือโรมาจิสำหรับการเรียนรู้ภาษาและการพัฒนาหลักสูตร.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงแบบออฟไลน์ที่สะดวกสบาย เอกสารประกอบการเรียน หรือแผนภูมิการศึกษาสำหรับผู้เรียนภาษาญี่ปุ่น.",
+      "รวมชุดข้อมูลที่มีโครงสร้างนี้เข้ากับแพลตฟอร์มการศึกษาหรือแอปมือถือเพื่อสอนและฝึกฝนคะตะคะนะญี่ปุ่นอย่างมีประสิทธิภาพ."
+    ]
+  },
+  "record_count": 46,
+  "title": "ชุดข้อมูลตารางตัวอักษรคะตะคะนะญี่ปุ่นฉบับสมบูรณ์"
+}

@@ -1,0 +1,480 @@
+{
+  "id": "geo-india-states",
+  "name": "ชุดข้อมูลที่ครอบคลุมของรัฐและดินแดนสหภาพของอินเดีย",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_hi",
+      "label": "Name (Hindi)",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    },
+    {
+      "key": "languages",
+      "label": "Official Languages (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "อานธรประเทศ",
+      "name_hi": "आंध्र प्रदेश",
+      "capital": "อมราวตี",
+      "type": "รัฐ",
+      "region": "อินเดียใต้",
+      "iso_code": "IN-AP",
+      "population": 49577103,
+      "area_km2": 162975,
+      "languages": "เตลูกู"
+    },
+    {
+      "name_en": "อรุณาจัลประเทศ",
+      "name_hi": "अरुणाचल प्रदेश",
+      "capital": "อีตานาการ์",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-AR",
+      "population": 1383727,
+      "area_km2": 83743,
+      "languages": "อังกฤษ, ฮินดี"
+    },
+    {
+      "name_en": "อัสสัม",
+      "name_hi": "असम",
+      "capital": "ทิสปุระ",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-AS",
+      "population": 31205576,
+      "area_km2": 78438,
+      "languages": "อัสสัม"
+    },
+    {
+      "name_en": "พิหาร",
+      "name_hi": "बिहार",
+      "capital": "ปัฏนา",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออก",
+      "iso_code": "IN-BR",
+      "population": 104099452,
+      "area_km2": 94163,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "ฉัตติสครห์",
+      "name_hi": "छत्तीसगढ़",
+      "capital": "รายปุระ",
+      "type": "รัฐ",
+      "region": "อินเดียกลาง",
+      "iso_code": "IN-CT",
+      "population": 25545198,
+      "area_km2": 135192,
+      "languages": "ฮินดี, ฉัตติสครห์"
+    },
+    {
+      "name_en": "กัว",
+      "name_hi": "गोवा",
+      "capital": "พานาจี",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันตก",
+      "iso_code": "IN-GA",
+      "population": 1458545,
+      "area_km2": 3702,
+      "languages": "กงกณี"
+    },
+    {
+      "name_en": "คุชราต",
+      "name_hi": "गुजरात",
+      "capital": "คานธีนคร",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันตก",
+      "iso_code": "IN-GJ",
+      "population": 60439692,
+      "area_km2": 196024,
+      "languages": "คุชราต"
+    },
+    {
+      "name_en": "หรยาณา",
+      "name_hi": "हरियाणा",
+      "capital": "จัณฑีครห์",
+      "type": "รัฐ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-HR",
+      "population": 25351462,
+      "area_km2": 44212,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "หิมาจัลประเทศ",
+      "name_hi": "हिमाचल प्रदेश",
+      "capital": "ชิมลา",
+      "type": "รัฐ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-HP",
+      "population": 6864602,
+      "area_km2": 55673,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "ชาร์ขัณฑ์",
+      "name_hi": "झारखंड",
+      "capital": "รานจี",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออก",
+      "iso_code": "IN-JH",
+      "population": 32988134,
+      "area_km2": 79716,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "กรณาฏกะ",
+      "name_hi": "कर्नाटक",
+      "capital": "เบงคาลูรู",
+      "type": "รัฐ",
+      "region": "อินเดียใต้",
+      "iso_code": "IN-KA",
+      "population": 61095297,
+      "area_km2": 191791,
+      "languages": "กันนาดา"
+    },
+    {
+      "name_en": "เกรละ",
+      "name_hi": "केरल",
+      "capital": "ติรุวนันตปุรัม",
+      "type": "รัฐ",
+      "region": "อินเดียใต้",
+      "iso_code": "IN-KL",
+      "population": 33406061,
+      "area_km2": 38852,
+      "languages": "มาลายาลัม"
+    },
+    {
+      "name_en": "มัธยประเทศ",
+      "name_hi": "मध्य प्रदेश",
+      "capital": "โภปาล",
+      "type": "รัฐ",
+      "region": "อินเดียกลาง",
+      "iso_code": "IN-MP",
+      "population": 72626809,
+      "area_km2": 308252,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "มหาราษฏระ",
+      "name_hi": "महाराष्ट्र",
+      "capital": "มุมไบ",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันตก",
+      "iso_code": "IN-MH",
+      "population": 112374333,
+      "area_km2": 307713,
+      "languages": "มราฐี"
+    },
+    {
+      "name_en": "มณีปุระ",
+      "name_hi": "मणिपुर",
+      "capital": "อิมผาล",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-MN",
+      "population": 2855794,
+      "area_km2": 22327,
+      "languages": "ไมตีย์"
+    },
+    {
+      "name_en": "เมฆาลัย",
+      "name_hi": "मेघालय",
+      "capital": "ชิลลอง",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-ML",
+      "population": 2966889,
+      "area_km2": 22429,
+      "languages": "อังกฤษ, คาซี"
+    },
+    {
+      "name_en": "มิโซรัม",
+      "name_hi": "मिज़ोरम",
+      "capital": "ไอซอล",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-MZ",
+      "population": 1097206,
+      "area_km2": 21081,
+      "languages": "มีโซ, อังกฤษ"
+    },
+    {
+      "name_en": "นาคาแลนด์",
+      "name_hi": "नागालैंड",
+      "capital": "โคฮิมา",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-NL",
+      "population": 1978502,
+      "area_km2": 16579,
+      "languages": "อังกฤษ"
+    },
+    {
+      "name_en": "โอริศา",
+      "name_hi": "ओडिशा",
+      "capital": "ภุพเนศวร",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออก",
+      "iso_code": "IN-OR",
+      "population": 41974218,
+      "area_km2": 155707,
+      "languages": "โอเดีย"
+    },
+    {
+      "name_en": "ปัญจาบ",
+      "name_hi": "पंजाब",
+      "capital": "จัณฑีครห์",
+      "type": "รัฐ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-PB",
+      "population": 27743338,
+      "area_km2": 50362,
+      "languages": "ปัญจาบ"
+    },
+    {
+      "name_en": "ราชสถาน",
+      "name_hi": "राजस्थान",
+      "capital": "ชัยปุระ",
+      "type": "รัฐ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-RJ",
+      "population": 68548437,
+      "area_km2": 342239,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "สิกขิม",
+      "name_hi": "सिक्किम",
+      "capital": "กังต็อก",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-SK",
+      "population": 610577,
+      "area_km2": 7096,
+      "languages": "อังกฤษ, เนปาล"
+    },
+    {
+      "name_en": "ทมิฬนาฑู",
+      "name_hi": "तमिलनाडु",
+      "capital": "เจนไน",
+      "type": "รัฐ",
+      "region": "อินเดียใต้",
+      "iso_code": "IN-TN",
+      "population": 72147030,
+      "area_km2": 130060,
+      "languages": "ทมิฬ"
+    },
+    {
+      "name_en": "เตลังคานา",
+      "name_hi": "तेलंगाना",
+      "capital": "ไฮเดอราบัด",
+      "type": "รัฐ",
+      "region": "อินเดียใต้",
+      "iso_code": "IN-TG",
+      "population": 35003674,
+      "area_km2": 112077,
+      "languages": "เตลูกู, อูรดู"
+    },
+    {
+      "name_en": "ตริปุระ",
+      "name_hi": "त्रिपुरा",
+      "capital": "อคาร์ตาลา",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออกเฉียงเหนือ",
+      "iso_code": "IN-TR",
+      "population": 3673917,
+      "area_km2": 10486,
+      "languages": "เบงกาลี, กอกโบโรฮ์ก"
+    },
+    {
+      "name_en": "อุตตรประเทศ",
+      "name_hi": "उत्तर प्रदेश",
+      "capital": "ลักเนา",
+      "type": "รัฐ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-UP",
+      "population": 199812341,
+      "area_km2": 240928,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "อุตตราขัณฑ์",
+      "name_hi": "उत्तराखंड",
+      "capital": "เดห์ราดูน",
+      "type": "รัฐ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-UT",
+      "population": 10086292,
+      "area_km2": 53483,
+      "languages": "ฮินดี"
+    },
+    {
+      "name_en": "เบงกอลตะวันตก",
+      "name_hi": "पश्चिम बंगाल",
+      "capital": "โกลกาตา",
+      "type": "รัฐ",
+      "region": "อินเดียตะวันออก",
+      "iso_code": "IN-WB",
+      "population": 91276115,
+      "area_km2": 88752,
+      "languages": "เบงกาลี"
+    },
+    {
+      "name_en": "หมู่เกาะอันดามันและนิโคบาร์",
+      "name_hi": "अंडमान और निकोबार द्वीपसमूह",
+      "capital": "พอร์ตแบลร์",
+      "type": "ดินแดนสหภาพ",
+      "region": "หมู่เกาะ",
+      "iso_code": "IN-AN",
+      "population": 380581,
+      "area_km2": 8249,
+      "languages": "ฮินดี, อังกฤษ"
+    },
+    {
+      "name_en": "จัณฑีครห์",
+      "name_hi": "चंडीगढ़",
+      "capital": "จัณฑีครห์",
+      "type": "ดินแดนสหภาพ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-CH",
+      "population": 1055450,
+      "area_km2": 114,
+      "languages": "ฮินดี, ปัญจาบ"
+    },
+    {
+      "name_en": "ดาดราและนครหเวลีและดามันและดีอู",
+      "name_hi": "दादरा और नगर हवेली और दमन और दीव",
+      "capital": "ดามัน",
+      "type": "ดินแดนสหภาพ",
+      "region": "อินเดียตะวันตก",
+      "iso_code": "IN-DH",
+      "population": 585764,
+      "area_km2": 603,
+      "languages": "คุชราต, ฮินดี"
+    },
+    {
+      "name_en": "เดลี",
+      "name_hi": "दिल्ली",
+      "capital": "นิวเดลี",
+      "type": "ดินแดนสหภาพ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-DL",
+      "population": 16787941,
+      "area_km2": 1484,
+      "languages": "ฮินดี, อังกฤษ"
+    },
+    {
+      "name_en": "ชัมมูและกัศมีร์",
+      "name_hi": "जम्मू और कश्मीर",
+      "capital": "ศรีนคร (ฤดูร้อน), ชัมมู (ฤดูหนาว)",
+      "type": "ดินแดนสหภาพ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-JK",
+      "population": 12267032,
+      "area_km2": 42241,
+      "languages": "อูรดู, ฮินดี"
+    },
+    {
+      "name_en": "ลาดัก",
+      "name_hi": "लद्दाख",
+      "capital": "เลห์",
+      "type": "ดินแดนสหภาพ",
+      "region": "อินเดียเหนือ",
+      "iso_code": "IN-LA",
+      "population": 274000,
+      "area_km2": 59146,
+      "languages": "ลาดัคคี, ฮินดี"
+    },
+    {
+      "name_en": "ลักษทวีป",
+      "name_hi": "लक्षद्वीप",
+      "capital": "กาวาราตี",
+      "type": "ดินแดนสหภาพ",
+      "region": "หมู่เกาะ",
+      "iso_code": "IN-LD",
+      "population": 64473,
+      "area_km2": 32,
+      "languages": "มาลายาลัม"
+    },
+    {
+      "name_en": "ปุทุจเจรี",
+      "name_hi": "पुडुचेरी",
+      "capital": "ปุทุจเจรี",
+      "type": "ดินแดนสหภาพ",
+      "region": "อินเดียใต้",
+      "iso_code": "IN-PY",
+      "population": 1247953,
+      "area_km2": 479,
+      "languages": "ทมิฬ, ฝรั่งเศส"
+    }
+  ],
+  "meta": {
+    "seo_title": "ข้อมูลรัฐและดินแดนอินเดีย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรีข้อมูล 36 รัฐและดินแดนสหภาพของอินเดีย รวมถึงเมืองหลวง ประชากร พื้นที่ และภาษา มีในรูปแบบ Excel, CSV และ PDF",
+    "title": "ชุดข้อมูลที่ครอบคลุมของรัฐและดินแดนสหภาพของอินเดีย",
+    "description": "ชุดข้อมูลนี้ให้ข้อมูลรายละเอียดเกี่ยวกับ 36 รัฐและดินแดนสหภาพทั้งหมดของอินเดีย รวมถึงชื่อในภาษาอังกฤษและฮินดี เมืองหลวง ประเภท ภูมิภาค รหัส ISO ประชากร พื้นที่ และภาษาทางการ",
+    "key_takeaways": [
+      "เข้าถึงรายละเอียดล่าสุดของ 36 รัฐและดินแดนสหภาพของอินเดียทั้งหมด",
+      "สำรวจข้อมูลประชากรและภูมิศาสตร์ที่สำคัญ เช่น จำนวนประชากร พื้นที่ และภาษาทางการ",
+      "ดาวน์โหลดข้อมูลที่สมบูรณ์เกี่ยวกับเมืองหลวง ภูมิภาค และรหัส ISO สำหรับการแบ่งเขตการปกครองแต่ละแห่ง",
+      "ใช้ประโยชน์จากข้อมูลที่มีโครงสร้างสำหรับโครงการด้านการศึกษา การวิจัย หรือการพัฒนา"
+    ],
+    "keywords": [
+      "ข้อมูลรัฐอินเดีย",
+      "รายชื่อดินแดนสหภาพอินเดีย",
+      "เมืองหลวงรัฐอินเดีย",
+      "ข้อมูลประชากรอินเดีย",
+      "รหัส ISO อินเดีย",
+      "ดาวน์โหลดข้อมูลอินเดีย csv"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อใช้ในการวิเคราะห์ข้อมูลทางภูมิศาสตร์และการพัฒนาแอปพลิเคชัน",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Tables กรองข้อมูลตามภูมิภาค หรือใช้ VLOOKUP สำหรับรายงานการวิเคราะห์อย่างรวดเร็วเกี่ยวกับการแบ่งเขตการปกครองของอินเดีย",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับอ้างอิงในห้องเรียน การนำเสนอเพื่อการศึกษา หรือการศึกษาภูมิศาสตร์แบบออฟไลน์ของรัฐและดินแดนสหภาพของอินเดีย",
+      "วิเคราะห์ข้อมูลประชากรและพื้นที่เพื่อการศึกษาเปรียบเทียบเกี่ยวกับการพัฒนาภูมิภาคและการวางผังเมืองทั่วอินเดีย"
+    ]
+  },
+  "record_count": 36,
+  "title": "ชุดข้อมูลที่ครอบคลุมของรัฐและดินแดนสหภาพของอินเดีย"
+}

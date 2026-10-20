@@ -1,0 +1,1629 @@
+{
+  "id": "geo-capitals",
+  "name": "ชุดข้อมูลเมืองหลวงโลก",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (EN)",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "lng",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "อัฟกานิสถาน",
+      "capital": "คาบูล",
+      "lat": 34.52,
+      "lng": 69.18
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "แอลเบเนีย",
+      "capital": "ติรานา",
+      "lat": 41.32,
+      "lng": 19.82
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "แอลจีเรีย",
+      "capital": "แอลเจียร์",
+      "lat": 36.75,
+      "lng": 3.05
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "อันดอร์รา",
+      "capital": "อันดอร์ราลาเวลลา",
+      "lat": 42.5,
+      "lng": 1.52
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "แองโกลา",
+      "capital": "ลูอันดา",
+      "lat": -8.83,
+      "lng": 13.22
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "แอนติกาและบาร์บูดา",
+      "capital": "เซนต์จอนส์",
+      "lat": 17.12,
+      "lng": -61.85
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "อาร์เจนตินา",
+      "capital": "บัวโนสไอเรส",
+      "lat": -34.58,
+      "lng": -58.67
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "อาร์เมเนีย",
+      "capital": "เยเรวาน",
+      "lat": 40.17,
+      "lng": 44.5
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "ออสเตรเลีย",
+      "capital": "แคนเบอร์รา",
+      "lat": -35.27,
+      "lng": 149.13
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "ออสเตรีย",
+      "capital": "เวียนนา",
+      "lat": 48.2,
+      "lng": 16.37
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "อาเซอร์ไบจาน",
+      "capital": "บากู",
+      "lat": 40.38,
+      "lng": 49.87
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "บาฮามาส",
+      "capital": "แนสซอ",
+      "lat": 25.08,
+      "lng": -77.35
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "บาห์เรน",
+      "capital": "มานามา",
+      "lat": 26.23,
+      "lng": 50.57
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "บังกลาเทศ",
+      "capital": "ธากา",
+      "lat": 23.72,
+      "lng": 90.4
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "บาร์เบโดส",
+      "capital": "บริดจ์ทาวน์",
+      "lat": 13.1,
+      "lng": -59.62
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "เบลารุส",
+      "capital": "มินสค์",
+      "lat": 53.9,
+      "lng": 27.57
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "เบลเยียม",
+      "capital": "บรัสเซลส์",
+      "lat": 50.83,
+      "lng": 4.33
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "เบลีซ",
+      "capital": "เบลมอปัน",
+      "lat": 17.25,
+      "lng": -88.77
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "เบนิน",
+      "capital": "ปอร์โต-โนโว",
+      "lat": 6.48,
+      "lng": 2.62
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "ภูฏาน",
+      "capital": "ทิมพู",
+      "lat": 27.47,
+      "lng": 89.63
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "โบลิเวีย",
+      "capital": "ซูเกร",
+      "lat": -19.02,
+      "lng": -65.26
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "บอสเนียและเฮอร์เซโกวีนา",
+      "capital": "ซาราเยโว",
+      "lat": 43.87,
+      "lng": 18.42
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "บอตสวานา",
+      "capital": "กาโบโรเน",
+      "lat": -24.63,
+      "lng": 25.9
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "บราซิล",
+      "capital": "บราซิเลีย",
+      "lat": -15.79,
+      "lng": -47.88
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "บรูไน",
+      "capital": "บันดาร์เสรีเบกาวัน",
+      "lat": 4.88,
+      "lng": 114.93
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "บัลแกเรีย",
+      "capital": "โซเฟีย",
+      "lat": 42.68,
+      "lng": 23.32
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "บูร์กินาฟาโซ",
+      "capital": "วากาดูกู",
+      "lat": 12.37,
+      "lng": -1.52
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "บุรุนดี",
+      "capital": "กิเตกา",
+      "lat": -3.43,
+      "lng": 29.93
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "กัมพูชา",
+      "capital": "พนมเปญ",
+      "lat": 11.55,
+      "lng": 104.92
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "แคเมอรูน",
+      "capital": "ยาอุนเด",
+      "lat": 3.85,
+      "lng": 11.5
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "แคนาดา",
+      "capital": "ออตตาวา",
+      "lat": 45.42,
+      "lng": -75.7
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "กาบูเวร์ดี",
+      "capital": "ไปรอา",
+      "lat": 14.92,
+      "lng": -23.52
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "สาธารณรัฐแอฟริกากลาง",
+      "capital": "บังกี",
+      "lat": 4.37,
+      "lng": 18.58
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "ชาด",
+      "capital": "เอ็นจาเมนา",
+      "lat": 12.1,
+      "lng": 15.03
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "ชิลี",
+      "capital": "ซันเตียโก",
+      "lat": -33.45,
+      "lng": -70.67
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "capital": "ปักกิ่ง",
+      "lat": 39.92,
+      "lng": 116.38
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "โคลอมเบีย",
+      "capital": "โบโกตา",
+      "lat": 4.71,
+      "lng": -74.07
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "คอโมโรส",
+      "capital": "โมโรนี",
+      "lat": -11.7,
+      "lng": 43.23
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "คอสตาริกา",
+      "capital": "ซานโฮเซ",
+      "lat": 9.93,
+      "lng": -84.09
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "โครเอเชีย",
+      "capital": "ซาเกร็บ",
+      "lat": 45.8,
+      "lng": 16
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "คิวบา",
+      "capital": "ฮาวานา",
+      "lat": 23.12,
+      "lng": -82.35
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "ไซปรัส",
+      "capital": "นิโคเซีย",
+      "lat": 35.17,
+      "lng": 33.37
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "เช็กเกีย",
+      "capital": "ปราก",
+      "lat": 50.08,
+      "lng": 14.47
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "เดนมาร์ก",
+      "capital": "โคเปนเฮเกน",
+      "lat": 55.67,
+      "lng": 12.58
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "จิบูตี",
+      "capital": "จิบูตี",
+      "lat": 11.58,
+      "lng": 43.15
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "ดอมินีกา",
+      "capital": "โรโซ",
+      "lat": 15.3,
+      "lng": -61.4
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "สาธารณรัฐโดมินิกัน",
+      "capital": "ซานโตโดมิงโก",
+      "lat": 18.47,
+      "lng": -69.9
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "DR คองโก",
+      "capital": "กินชาซา",
+      "lat": -4.32,
+      "lng": 15.3
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "เอกวาดอร์",
+      "capital": "กีโต",
+      "lat": -0.22,
+      "lng": -78.5
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "อียิปต์",
+      "capital": "ไคโร",
+      "lat": 30.05,
+      "lng": 31.25
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "เอลซัลวาดอร์",
+      "capital": "ซานซัลวาดอร์",
+      "lat": 13.7,
+      "lng": -89.2
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "อิเควทอเรียลกินี",
+      "capital": "มาลาโบ",
+      "lat": 3.75,
+      "lng": 8.78
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "เอริเทรีย",
+      "capital": "แอสมารา",
+      "lat": 15.33,
+      "lng": 38.93
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "เอสโตเนีย",
+      "capital": "ทาลลินน์",
+      "lat": 59.43,
+      "lng": 24.72
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "เอสวาตีนี",
+      "capital": "เอ็มบาบานี",
+      "lat": -26.32,
+      "lng": 31.13
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "เอธิโอเปีย",
+      "capital": "แอดดิสอาบาบา",
+      "lat": 9.03,
+      "lng": 38.7
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "ฟิจิ",
+      "capital": "ซูวา",
+      "lat": -18.13,
+      "lng": 178.42
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "ฟินแลนด์",
+      "capital": "เฮลซิงกิ",
+      "lat": 60.17,
+      "lng": 24.93
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "ฝรั่งเศส",
+      "capital": "ปารีส",
+      "lat": 48.87,
+      "lng": 2.33
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "กาบอง",
+      "capital": "ลีเบรอวีล",
+      "lat": 0.38,
+      "lng": 9.45
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "แกมเบีย",
+      "capital": "บันจูล",
+      "lat": 13.45,
+      "lng": -16.57
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "จอร์เจีย",
+      "capital": "ทบิลิซี",
+      "lat": 41.68,
+      "lng": 44.83
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "เยอรมนี",
+      "capital": "เบอร์ลิน",
+      "lat": 52.52,
+      "lng": 13.4
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "กานา",
+      "capital": "อักกรา",
+      "lat": 5.55,
+      "lng": -0.22
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "กรีซ",
+      "capital": "เอเธนส์",
+      "lat": 37.98,
+      "lng": 23.73
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "เกรเนดา",
+      "capital": "เซนต์จอร์จ",
+      "lat": 32.38,
+      "lng": -64.68
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "กัวเตมาลา",
+      "capital": "กัวเตมาลาซิตี",
+      "lat": 14.62,
+      "lng": -90.52
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "กินี",
+      "capital": "โกนากรี",
+      "lat": 9.5,
+      "lng": -13.7
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "กินี-บิสเซา",
+      "capital": "บิสเซา",
+      "lat": 11.85,
+      "lng": -15.58
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "กายอานา",
+      "capital": "จอร์จทาวน์",
+      "lat": 6.8,
+      "lng": -58.15
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "เฮติ",
+      "capital": "ปอร์โตแปรงซ์",
+      "lat": 18.53,
+      "lng": -72.33
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "ฮอนดูรัส",
+      "capital": "เตกูซิกัลปา",
+      "lat": 14.1,
+      "lng": -87.22
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "ฮังการี",
+      "capital": "บูดาเปสต์",
+      "lat": 47.5,
+      "lng": 19.08
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "ไอซ์แลนด์",
+      "capital": "เรคยาวิก",
+      "lat": 64.15,
+      "lng": -21.95
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "อินเดีย",
+      "capital": "นิวเดลี",
+      "lat": 28.6,
+      "lng": 77.2
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "อินโดนีเซีย",
+      "capital": "จาการ์ตา",
+      "lat": -6.17,
+      "lng": 106.82
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "อิหร่าน",
+      "capital": "เตหะราน",
+      "lat": 35.7,
+      "lng": 51.42
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "อิรัก",
+      "capital": "แบกแดด",
+      "lat": 33.33,
+      "lng": 44.4
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "ไอร์แลนด์",
+      "capital": "ดับลิน",
+      "lat": 53.32,
+      "lng": -6.23
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "อิสราเอล",
+      "capital": "เยรูซาเลม",
+      "lat": 31.77,
+      "lng": 35.23
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "อิตาลี",
+      "capital": "โรม",
+      "lat": 41.9,
+      "lng": 12.48
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "โกตดิวัวร์",
+      "capital": "ยามูซูโกร",
+      "lat": 6.82,
+      "lng": -5.27
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "จาเมกา",
+      "capital": "คิงส์ตัน",
+      "lat": 17.99702,
+      "lng": -76.79358
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "ญี่ปุ่น",
+      "capital": "โตเกียว",
+      "lat": 35.68,
+      "lng": 139.75
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "จอร์แดน",
+      "capital": "อัมมาน",
+      "lat": 31.95,
+      "lng": 35.93
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "คาซัคสถาน",
+      "capital": "อัสตานา",
+      "lat": 51.16,
+      "lng": 71.45
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "เคนยา",
+      "capital": "ไนโรบี",
+      "lat": -1.28,
+      "lng": 36.82
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "คิริบาส",
+      "capital": "เซาท์ตาราวา",
+      "lat": 1.33,
+      "lng": 172.98
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "คอซอวอ",
+      "capital": "พริสตีนา",
+      "lat": 42.67,
+      "lng": 21.17
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "คูเวต",
+      "capital": "คูเวตซิตี",
+      "lat": 29.37,
+      "lng": 47.97
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "คีร์กีซสถาน",
+      "capital": "บิชเคก",
+      "lat": 42.87,
+      "lng": 74.6
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "ลาว",
+      "capital": "เวียงจันทน์",
+      "lat": 17.97,
+      "lng": 102.6
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "ลัตเวีย",
+      "capital": "ริกา",
+      "lat": 56.95,
+      "lng": 24.1
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "เลบานอน",
+      "capital": "เบรุต",
+      "lat": 33.87,
+      "lng": 35.5
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "เลโซโท",
+      "capital": "มาเซรู",
+      "lat": -29.32,
+      "lng": 27.48
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "ไลบีเรีย",
+      "capital": "มอนโรเวีย",
+      "lat": 6.3,
+      "lng": -10.8
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "ลิเบีย",
+      "capital": "ตริโปลี",
+      "lat": 32.88,
+      "lng": 13.17
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "ลิกเตนสไตน์",
+      "capital": "วาดุซ",
+      "lat": 47.13,
+      "lng": 9.52
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "ลิทัวเนีย",
+      "capital": "วิลนีอุส",
+      "lat": 54.68,
+      "lng": 25.32
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "ลักเซมเบิร์ก",
+      "capital": "ลักเซมเบิร์ก",
+      "lat": 49.6,
+      "lng": 6.12
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "มาดากัสการ์",
+      "capital": "อันตานานาริโว",
+      "lat": -18.92,
+      "lng": 47.52
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "มาลาวี",
+      "capital": "ลิลองเว",
+      "lat": -13.97,
+      "lng": 33.78
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "มาเลเซีย",
+      "capital": "กัวลาลัมเปอร์",
+      "lat": 3.17,
+      "lng": 101.7
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "มัลดีฟส์",
+      "capital": "มาเล",
+      "lat": 4.17,
+      "lng": 73.51
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "มาลี",
+      "capital": "บามาโก",
+      "lat": 12.65,
+      "lng": -8
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "มอลตา",
+      "capital": "วัลเลตตา",
+      "lat": 35.88,
+      "lng": 14.5
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "หมู่เกาะมาร์แชลล์",
+      "capital": "มาจูโร",
+      "lat": 7.1,
+      "lng": 171.38
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "มอริเตเนีย",
+      "capital": "นูแอกชอต",
+      "lat": 18.07,
+      "lng": -15.97
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "มอริเชียส",
+      "capital": "พอร์ตหลุยส์",
+      "lat": -20.15,
+      "lng": 57.48
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "เม็กซิโก",
+      "capital": "เม็กซิโกซิตี",
+      "lat": 19.43,
+      "lng": -99.13
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "ไมโครนีเซีย",
+      "capital": "ปาลีกีร์",
+      "lat": 6.92,
+      "lng": 158.15
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "มอลโดวา",
+      "capital": "คีชีเนา",
+      "lat": 47.01,
+      "lng": 28.9
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "โมนาโก",
+      "capital": "โมนาโก",
+      "lat": 43.73,
+      "lng": 7.42
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "มองโกเลีย",
+      "capital": "อูลานบาตอร์",
+      "lat": 47.92,
+      "lng": 106.91
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "มอนเตเนโกร",
+      "capital": "พอดโกริตซา",
+      "lat": 42.43,
+      "lng": 19.27
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "โมร็อกโก",
+      "capital": "ราบัต",
+      "lat": 34.02,
+      "lng": -6.82
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "โมซัมบิก",
+      "capital": "มาปูโต",
+      "lat": -25.95,
+      "lng": 32.58
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "เมียนมา",
+      "capital": "เนปยีดอ",
+      "lat": 19.76,
+      "lng": 96.07
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "นามิเบีย",
+      "capital": "วินด์ฮุก",
+      "lat": -22.57,
+      "lng": 17.08
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "นาอูรู",
+      "capital": "ยาเรน",
+      "lat": -0.55,
+      "lng": 166.92
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "เนปาล",
+      "capital": "กาฐมาณฑุ",
+      "lat": 27.72,
+      "lng": 85.32
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "เนเธอร์แลนด์",
+      "capital": "อัมสเตอร์ดัม",
+      "lat": 52.35,
+      "lng": 4.92
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "นิวซีแลนด์",
+      "capital": "เวลลิงตัน",
+      "lat": -41.3,
+      "lng": 174.78
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "นิการากัว",
+      "capital": "มานากัว",
+      "lat": 12.13,
+      "lng": -86.25
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "ไนเจอร์",
+      "capital": "นีอาเม",
+      "lat": 13.52,
+      "lng": 2.12
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "ไนจีเรีย",
+      "capital": "อาบูจา",
+      "lat": 9.08,
+      "lng": 7.53
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "เกาหลีเหนือ",
+      "capital": "เปียงยาง",
+      "lat": 39.02,
+      "lng": 125.75
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "นอร์ทมาซิโดเนีย",
+      "capital": "สโกเปีย",
+      "lat": 42,
+      "lng": 21.43
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "นอร์เวย์",
+      "capital": "ออสโล",
+      "lat": 59.92,
+      "lng": 10.75
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "โอมาน",
+      "capital": "มัสกัต",
+      "lat": 23.62,
+      "lng": 58.58
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "ปากีสถาน",
+      "capital": "อิสลามาบาด",
+      "lat": 33.68,
+      "lng": 73.05
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "ปาเลา",
+      "capital": "เงรุลมุด",
+      "lat": 7.5,
+      "lng": 134.62
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "ปานามา",
+      "capital": "ปานามาซิตี",
+      "lat": 8.97,
+      "lng": -79.53
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "ปาปัวนิวกินี",
+      "capital": "พอร์ตมอร์สบี",
+      "lat": -9.45,
+      "lng": 147.18
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "ปารากวัย",
+      "capital": "อาซุนซิโอน",
+      "lat": -25.28,
+      "lng": -57.57
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "เปรู",
+      "capital": "ลิมา",
+      "lat": -12.05,
+      "lng": -77.05
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "ฟิลิปปินส์",
+      "capital": "มะนิลา",
+      "lat": 14.6,
+      "lng": 120.97
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "โปแลนด์",
+      "capital": "วอร์ซอ",
+      "lat": 52.25,
+      "lng": 21
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "โปรตุเกส",
+      "capital": "ลิสบอน",
+      "lat": 38.72,
+      "lng": -9.13
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "กาตาร์",
+      "capital": "โดฮา",
+      "lat": 25.28,
+      "lng": 51.53
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "สาธารณรัฐคองโก",
+      "capital": "บราซซาวิล",
+      "lat": -4.25,
+      "lng": 15.28
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "โรมาเนีย",
+      "capital": "บูคาเรสต์",
+      "lat": 44.43,
+      "lng": 26.1
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "capital": "มอสโก",
+      "lat": 55.75,
+      "lng": 37.6
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "รวันดา",
+      "capital": "คิกาลี",
+      "lat": -1.95,
+      "lng": 30.05
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "เซนต์คิตส์และเนวิส",
+      "capital": "บาสเซแทร์",
+      "lat": 17.3,
+      "lng": -62.72
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "เซนต์ลูเซีย",
+      "capital": "แคสตรีส์",
+      "lat": 14,
+      "lng": -61
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "capital": "คิงส์ทาวน์",
+      "lat": 13.13,
+      "lng": -61.22
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "ซามัว",
+      "capital": "เอเปีย",
+      "lat": -13.82,
+      "lng": -171.77
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "ซานมารีโน",
+      "capital": "นครซานมารีโน",
+      "lat": 43.94,
+      "lng": 12.45
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "เซาตูแมและปรินซิปี",
+      "capital": "เซาตูแม",
+      "lat": 0.34,
+      "lng": 6.73
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "ซาอุดีอาระเบีย",
+      "capital": "ริยาด",
+      "lat": 24.65,
+      "lng": 46.7
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "เซเนกัล",
+      "capital": "ดาการ์",
+      "lat": 14.73,
+      "lng": -17.63
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "เซอร์เบีย",
+      "capital": "เบลเกรด",
+      "lat": 44.83,
+      "lng": 20.5
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "เซเชลส์",
+      "capital": "วิกตอเรีย",
+      "lat": -4.62,
+      "lng": 55.45
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "เซียร์ราลีโอน",
+      "capital": "ฟรีทาวน์",
+      "lat": 8.48,
+      "lng": -13.23
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "capital": "สิงคโปร์",
+      "lat": 1.28,
+      "lng": 103.85
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "สโลวะเกีย",
+      "capital": "บราติสลาวา",
+      "lat": 48.15,
+      "lng": 17.12
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "สโลวีเนีย",
+      "capital": "ลูบลิยานา",
+      "lat": 46.05,
+      "lng": 14.52
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "หมู่เกาะโซโลมอน",
+      "capital": "โฮนีอารา",
+      "lat": -9.43,
+      "lng": 159.95
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "โซมาเลีย",
+      "capital": "โมกาดิชู",
+      "lat": 2.07,
+      "lng": 45.33
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "แอฟริกาใต้",
+      "capital": "พริทอเรีย",
+      "lat": -25.7,
+      "lng": 28.22
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "เกาหลีใต้",
+      "capital": "โซล",
+      "lat": 37.55,
+      "lng": 126.98
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "ซูดานใต้",
+      "capital": "จูบา",
+      "lat": 4.85,
+      "lng": 31.62
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "สเปน",
+      "capital": "มาดริด",
+      "lat": 40.4,
+      "lng": -3.68
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "capital": "ศรีชยวรรธนปุระโกฏเฏ",
+      "lat": 6.89,
+      "lng": 79.9
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "ซูดาน",
+      "capital": "คาร์ทูม",
+      "lat": 15.6,
+      "lng": 32.53
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "ซูรินาม",
+      "capital": "ปารามารีโบ",
+      "lat": 5.83,
+      "lng": -55.17
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "สวีเดน",
+      "capital": "สตอกโฮล์ม",
+      "lat": 59.33,
+      "lng": 18.05
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "สวิตเซอร์แลนด์",
+      "capital": "เบิร์น",
+      "lat": 46.92,
+      "lng": 7.47
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "ซีเรีย",
+      "capital": "ดามัสกัส",
+      "lat": 33.5,
+      "lng": 36.3
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "ทาจิกิสถาน",
+      "capital": "ดูชานเบ",
+      "lat": 38.55,
+      "lng": 68.77
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "แทนซาเนีย",
+      "capital": "โดโดมา",
+      "lat": -6.16,
+      "lng": 35.75
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "ไทย",
+      "capital": "กรุงเทพมหานคร",
+      "lat": 13.75,
+      "lng": 100.52
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "ติมอร์-เลสเต",
+      "capital": "ดิลี",
+      "lat": -8.58,
+      "lng": 125.6
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "โตโก",
+      "capital": "โลเม",
+      "lat": 6.14,
+      "lng": 1.21
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "ตองกา",
+      "capital": "นูกูอะโลฟา",
+      "lat": -21.13,
+      "lng": -175.2
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "ตรินิแดดและโตเบโก",
+      "capital": "พอร์ตออฟสเปน",
+      "lat": 10.65,
+      "lng": -61.52
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "ตูนิเซีย",
+      "capital": "ตูนิส",
+      "lat": 36.8,
+      "lng": 10.18
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "ตุรกี",
+      "capital": "อังการา",
+      "lat": 39.93,
+      "lng": 32.87
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "เติร์กเมนิสถาน",
+      "capital": "อาชกาบัต",
+      "lat": 37.95,
+      "lng": 58.38
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "ตูวาลู",
+      "capital": "ฟูนะฟูตี",
+      "lat": -8.52,
+      "lng": 179.22
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "ยูกันดา",
+      "capital": "กัมปาลา",
+      "lat": 0.32,
+      "lng": 32.55
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "ยูเครน",
+      "capital": "เคียฟ",
+      "lat": 50.43,
+      "lng": 30.52
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "สหรัฐอาหรับเอมิเรตส์",
+      "capital": "อาบูดาบี",
+      "lat": 24.47,
+      "lng": 54.37
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "สหราชอาณาจักร",
+      "capital": "ลอนดอน",
+      "lat": 51.5,
+      "lng": -0.08
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "สหรัฐ",
+      "capital": "วอชิงตัน ดี.ซี.",
+      "lat": 38.89,
+      "lng": -77.05
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "อุรุกวัย",
+      "capital": "มอนเตวิเดโอ",
+      "lat": -34.85,
+      "lng": -56.17
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "อุซเบกิสถาน",
+      "capital": "ทาชเคนต์",
+      "lat": 41.32,
+      "lng": 69.25
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "วานูอาตู",
+      "capital": "พอร์ตวิลา",
+      "lat": -17.73,
+      "lng": 168.32
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "นครรัฐวาติกัน",
+      "capital": "นครรัฐวาติกัน",
+      "lat": 41.9,
+      "lng": 12.45
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "เวเนซุเอลา",
+      "capital": "การากัส",
+      "lat": 10.48,
+      "lng": -66.87
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "เวียดนาม",
+      "capital": "ฮานอย",
+      "lat": 21.03,
+      "lng": 105.85
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "เยเมน",
+      "capital": "ซานา",
+      "lat": 15.37,
+      "lng": 44.19
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "แซมเบีย",
+      "capital": "ลูซากา",
+      "lat": -15.42,
+      "lng": 28.28
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "ซิมบับเว",
+      "capital": "ฮาราเร",
+      "lat": -17.82,
+      "lng": 31.03
+    }
+  ],
+  "meta": {
+    "seo_title": "เมืองหลวงโลก - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี รายชื่อเมืองหลวงทั่วโลก 195 แห่ง มีให้ในรูปแบบ Excel, CSV และ PDF",
+    "title": "ชุดข้อมูลเมืองหลวงโลก",
+    "description": "ชุดข้อมูลนี้รวบรวมรายชื่อเมืองหลวงของโลก 195 แห่ง พร้อมรหัสประเทศ ชื่อประเทศ และพิกัดทางภูมิศาสตร์ (ละติจูดและลองจิจูด) รวมถึงรหัส ISO Alpha-2 และ Alpha-3",
+    "key_takeaways": [
+      "เข้าถึงรายชื่อเมืองหลวงของโลก 195 แห่งพร้อมพิกัดทางภูมิศาสตร์",
+      "สำรวจความสัมพันธ์ระหว่างประเทศและเมืองหลวงโดยใช้รหัส ISO Alpha-2 และ Alpha-3",
+      "ดาวน์โหลดชุดข้อมูลนี้ในรูปแบบ Excel, CSV หรือ PDF เพื่อความสะดวกของคุณ",
+      "ใช้ประโยชน์จากข้อมูลนี้เพื่อการวิเคราะห์ทางภูมิศาสตร์และการพัฒนาแอปพลิเคชัน"
+    ],
+    "keywords": [
+      "รายชื่อเมืองหลวงโลก excel",
+      "เมืองหลวง ละติจูด ลองจิจูด",
+      "รหัส ISO 3166 เมืองหลวง",
+      "ดาวน์โหลด เมืองหลวง csv",
+      "ชุดข้อมูล เมืองหลวงโลก",
+      "ข้อมูล เมืองหลวง ฟรี"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL ของคุณเพื่อรวมข้อมูลทางภูมิศาสตร์เข้ากับแอปพลิเคชันและทำการสืบค้นเชิงพื้นที่",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Table และแผนภูมิเพื่อวิเคราะห์การกระจายตัวของเมืองหลวงและแนวโน้มระดับภูมิภาค",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับใช้อ้างอิงในห้องเรียนหรือเป็นคู่มืออ้างอิงด่วนระหว่างการนำเสนอและบทเรียนภูมิศาสตร์",
+      "พัฒนาแผนที่แบบโต้ตอบและแอปพลิเคชันทางภูมิศาสตร์โดยใช้ประโยชน์จากพิกัดละติจูดและลองจิจูดในรูปแบบใดก็ได้ที่มี"
+    ]
+  },
+  "record_count": 195,
+  "title": "ชุดข้อมูลเมืองหลวงโลก"
+}

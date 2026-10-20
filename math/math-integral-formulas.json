@@ -1,0 +1,456 @@
+{
+  "id": "math-integral-formulas",
+  "name": "ชุดข้อมูลสูตรอินทิเกรตสามัญ",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "integral",
+      "label": "∫f(x)dx",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "พื้นฐาน",
+      "function": "k",
+      "integral": "kx + C",
+      "condition": "k is constant",
+      "notes": "กฎค่าคงที่"
+    },
+    {
+      "category": "พื้นฐาน",
+      "function": "x^n",
+      "integral": "x^(n+1)/(n+1) + C",
+      "condition": "n ≠ -1",
+      "notes": "กฎกำลัง"
+    },
+    {
+      "category": "พื้นฐาน",
+      "function": "1/x",
+      "integral": "ln|x| + C",
+      "condition": "x ≠ 0",
+      "notes": "ลอการิทึมธรรมชาติ"
+    },
+    {
+      "category": "พื้นฐาน",
+      "function": "e^x",
+      "integral": "e^x + C",
+      "condition": "-",
+      "notes": "ฟังก์ชันเลขชี้กำลัง"
+    },
+    {
+      "category": "พื้นฐาน",
+      "function": "a^x",
+      "integral": "a^x/ln(a) + C",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "เลขชี้กำลังทั่วไป"
+    },
+    {
+      "category": "พื้นฐาน",
+      "function": "x^(-1/2)",
+      "integral": "2√x + C",
+      "condition": "x > 0",
+      "notes": "รูปแบบรากที่สอง"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "sin(x)",
+      "integral": "-cos(x) + C",
+      "condition": "-",
+      "notes": "ฟังก์ชันไซน์"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "cos(x)",
+      "integral": "sin(x) + C",
+      "condition": "-",
+      "notes": "ฟังก์ชันโคไซน์"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "tan(x)",
+      "integral": "-ln|cos(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "ฟังก์ชันแทนเจนต์"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "cot(x)",
+      "integral": "ln|sin(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "ฟังก์ชันโคแทนเจนต์"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "sec(x)",
+      "integral": "ln|sec(x) + tan(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "ฟังก์ชันซีแคนต์"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "csc(x)",
+      "integral": "ln|csc(x) - cot(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "ฟังก์ชันโคซีแคนต์"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "sec²(x)",
+      "integral": "tan(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "ซีแคนต์ยกกำลังสอง"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "csc²(x)",
+      "integral": "-cot(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "โคซีแคนต์ยกกำลังสอง"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "sec(x)tan(x)",
+      "integral": "sec(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "รูปแบบผลคูณ"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "csc(x)cot(x)",
+      "integral": "-csc(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "รูปแบบผลคูณ"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "sin²(x)",
+      "integral": "x/2 - sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "เอกลักษณ์ครึ่งมุม"
+    },
+    {
+      "category": "ตรีโกณมิติ",
+      "function": "cos²(x)",
+      "integral": "x/2 + sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "เอกลักษณ์ครึ่งมุม"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "1/√(1-x²)",
+      "integral": "arcsin(x) + C",
+      "condition": "|x| < 1",
+      "notes": "รูปแบบอาร์กไซน์"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "-1/√(1-x²)",
+      "integral": "arccos(x) + C",
+      "condition": "|x| < 1",
+      "notes": "รูปแบบอาร์กโคไซน์"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "1/(1+x²)",
+      "integral": "arctan(x) + C",
+      "condition": "-",
+      "notes": "รูปแบบอาร์กแทนเจนต์"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "-1/(1+x²)",
+      "integral": "arccot(x) + C",
+      "condition": "-",
+      "notes": "รูปแบบอาร์กโคแทนเจนต์"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "1/(|x|√(x²-1))",
+      "integral": "arcsec(x) + C",
+      "condition": "|x| > 1",
+      "notes": "รูปแบบอาร์กเซแคนต์"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "-1/(|x|√(x²-1))",
+      "integral": "arccsc(x) + C",
+      "condition": "|x| > 1",
+      "notes": "รูปแบบอาร์กโคเซแคนต์"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "อาร์กไซน์ทั่วไป"
+    },
+    {
+      "category": "ตรีโกณมิติผกผัน",
+      "function": "1/(a²+x²)",
+      "integral": "(1/a)arctan(x/a) + C",
+      "condition": "a ≠ 0",
+      "notes": "อาร์กแทนเจนต์ทั่วไป"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "sinh(x)",
+      "integral": "cosh(x) + C",
+      "condition": "-",
+      "notes": "ไฮเพอร์โบลิกไซน์"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "cosh(x)",
+      "integral": "sinh(x) + C",
+      "condition": "-",
+      "notes": "ไฮเพอร์โบลิกโคไซน์"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "tanh(x)",
+      "integral": "ln(cosh(x)) + C",
+      "condition": "-",
+      "notes": "ไฮเพอร์โบลิกแทนเจนต์"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "coth(x)",
+      "integral": "ln|sinh(x)| + C",
+      "condition": "x ≠ 0",
+      "notes": "ไฮเพอร์โบลิกโคแทนเจนต์"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "sech(x)",
+      "integral": "arctan(sinh(x)) + C",
+      "condition": "-",
+      "notes": "ไฮเพอร์โบลิกเซแคนต์"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "csch(x)",
+      "integral": "ln|tanh(x/2)| + C",
+      "condition": "x ≠ 0",
+      "notes": "ไฮเพอร์โบลิกโคเซแคนต์"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "sech²(x)",
+      "integral": "tanh(x) + C",
+      "condition": "-",
+      "notes": "กำลังสองของไฮเพอร์โบลิกเซแคนต์"
+    },
+    {
+      "category": "ไฮเพอร์โบลิก",
+      "function": "csch²(x)",
+      "integral": "-coth(x) + C",
+      "condition": "x ≠ 0",
+      "notes": "กำลังสองของไฮเพอร์โบลิกโคเซแคนต์"
+    },
+    {
+      "category": "ลอการิทึม",
+      "function": "ln(x)",
+      "integral": "x·ln(x) - x + C",
+      "condition": "x > 0",
+      "notes": "การหาปริพันธ์ทีละส่วน"
+    },
+    {
+      "category": "ลอการิทึม",
+      "function": "log_a(x)",
+      "integral": "x·log_a(x) - x/ln(a) + C",
+      "condition": "x > 0, a > 0",
+      "notes": "ลอการิทึมทั่วไป"
+    },
+    {
+      "category": "ลอการิทึม",
+      "function": "1/(x·ln(x))",
+      "integral": "ln|ln(x)| + C",
+      "condition": "x > 1",
+      "notes": "ลอการิทึมแบบซ้อน"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "1/(x²-a²)",
+      "integral": "(1/2a)ln|(x-a)/(x+a)| + C",
+      "condition": "x ≠ ±a",
+      "notes": "เศษส่วนย่อย"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "1/(a²-x²)",
+      "integral": "(1/2a)ln|(a+x)/(a-x)| + C",
+      "condition": "|x| < a",
+      "notes": "เศษส่วนย่อย"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "1/√(x²+a²)",
+      "integral": "ln|x + √(x²+a²)| + C",
+      "condition": "-",
+      "notes": "การแทนที่ไฮเพอร์โบลิก"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "1/√(x²-a²)",
+      "integral": "ln|x + √(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "การแทนค่าไฮเพอร์โบลิก"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "การแทนค่าตรีโกณมิติ"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "√(a²-x²)",
+      "integral": "(x/2)√(a²-x²) + (a²/2)arcsin(x/a) + C",
+      "condition": "|x| ≤ a",
+      "notes": "การแทนค่าตรีโกณมิติ"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "√(x²+a²)",
+      "integral": "(x/2)√(x²+a²) + (a²/2)ln|x+√(x²+a²)| + C",
+      "condition": "-",
+      "notes": "การแทนค่าไฮเพอร์โบลิก"
+    },
+    {
+      "category": "ตรรกยะ",
+      "function": "√(x²-a²)",
+      "integral": "(x/2)√(x²-a²) - (a²/2)ln|x+√(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "การแทนค่าไฮเพอร์โบลิก"
+    },
+    {
+      "category": "พิเศษ",
+      "function": "e^(ax)sin(bx)",
+      "integral": "e^(ax)(a·sin(bx)-b·cos(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "การอินทิเกรตทีละส่วนสองครั้ง"
+    },
+    {
+      "category": "พิเศษ",
+      "function": "e^(ax)cos(bx)",
+      "integral": "e^(ax)(a·cos(bx)+b·sin(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "การอินทิเกรตทีละส่วนสองครั้ง"
+    },
+    {
+      "category": "พิเศษ",
+      "function": "x·e^x",
+      "integral": "e^x(x-1) + C",
+      "condition": "-",
+      "notes": "การอินทิเกรตทีละส่วน"
+    },
+    {
+      "category": "พิเศษ",
+      "function": "x·sin(x)",
+      "integral": "sin(x) - x·cos(x) + C",
+      "condition": "-",
+      "notes": "การอินทิเกรตทีละส่วน"
+    },
+    {
+      "category": "พิเศษ",
+      "function": "x·cos(x)",
+      "integral": "cos(x) + x·sin(x) + C",
+      "condition": "-",
+      "notes": "การอินทิเกรตทีละส่วน"
+    },
+    {
+      "category": "พิเศษ",
+      "function": "x²·e^x",
+      "integral": "e^x(x²-2x+2) + C",
+      "condition": "-",
+      "notes": "การอินทิเกรตทีละส่วนสองครั้ง"
+    },
+    {
+      "category": "พิเศษ",
+      "function": "x·ln(x)",
+      "integral": "(x²/2)ln(x) - x²/4 + C",
+      "condition": "x > 0",
+      "notes": "การอินทิเกรตทีละส่วน"
+    },
+    {
+      "category": "จำกัดเขต",
+      "function": "∫₀^∞ e^(-x²) dx",
+      "integral": "√π/2",
+      "condition": "-",
+      "notes": "ปริพันธ์เกาส์เซียน"
+    },
+    {
+      "category": "จำกัดเขต",
+      "function": "∫₀^∞ x^n·e^(-x) dx",
+      "integral": "n! (Gamma function)",
+      "condition": "n ≥ 0 integer",
+      "notes": "ความสัมพันธ์ของฟังก์ชันแกมมา"
+    },
+    {
+      "category": "จำกัดเขต",
+      "function": "∫₀^π sin^n(x) dx",
+      "integral": "Wallis formula",
+      "condition": "n ≥ 0 integer",
+      "notes": "สูตรลดทอน"
+    },
+    {
+      "category": "จำกัดเขต",
+      "function": "∫₀^(π/2) sin^n(x)cos^m(x) dx",
+      "integral": "Beta function",
+      "condition": "n,m > -1",
+      "notes": "ความสัมพันธ์ของฟังก์ชันเบตา"
+    }
+  ],
+  "meta": {
+    "seo_title": "สูตรอินทิเกรตสามัญ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 56 สูตรอินทิเกรตสามัญ ครอบคลุมฟังก์ชันพื้นฐาน ตรีโกณมิติ และเอ็กซ์โพเนนเชียล ฟรีใน Excel, CSV และ PDF สำหรับนักเรียนคณิตศาสตร์และมืออาชีพ.",
+    "title": "ชุดข้อมูลสูตรอินทิเกรตสามัญ",
+    "description": "ชุดข้อมูลนี้รวบรวม 56 สูตรอินทิเกรตสามัญอย่างครอบคลุม โดยมีรายละเอียดของฟังก์ชัน อินทิกรัล เงื่อนไข และหมายเหตุ เหมาะสำหรับนักเรียน นักการศึกษา และผู้เชี่ยวชาญด้านคณิตศาสตร์",
+    "key_takeaways": [
+      "เข้าถึง 56 สูตรอินทิเกรตที่จำเป็นสำหรับการคำนวณแคลคูลัส",
+      "สำรวจหมวดหมู่เช่นฟังก์ชันพื้นฐาน ตรีโกณมิติ และเอ็กซ์โพเนนเชียล",
+      "ดาวน์โหลดสูตรที่พร้อมใช้งานพร้อมเงื่อนไขและหมายเหตุ",
+      "ใช้ประโยชน์จากคำจำกัดความอินทิกรัลที่แม่นยำเพื่อการศึกษาหรือใช้งานระดับมืออาชีพ"
+    ],
+    "keywords": [
+      "สูตรอินทิเกรต excel",
+      "แคลคูลัสอินทิกรัล csv",
+      "ชีทสูตรคณิตศาสตร์ pdf",
+      "กฎอินทิเกรตทั่วไป",
+      "ตารางอินทิกรัลไม่จำกัดเขต",
+      "ดาวน์โหลดข้อมูลแคลคูลัส"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ไปยังสคริปต์ Python หรือฐานข้อมูล SQL เพื่อสร้างตัวแก้แคลคูลัสแบบกำหนดเองหรือเครื่องมือการศึกษา",
+      "ใช้ไฟล์ **Excel** เพื่อกรองสูตรตามหมวดหมู่ สร้างคู่มือการเรียนรู้ หรือตรวจสอบการคำนวณสำหรับปัญหาที่ซับซ้อน",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงฉบับย่อในห้องเรียน ระหว่างการสอบ หรือสำหรับการศึกษาแบบออฟไลน์",
+      "บูรณาการชุดข้อมูลนี้เข้ากับแพลตฟอร์มการเรียนรู้ออนไลน์เพื่อเป็นแหล่งข้อมูลที่มีโครงสร้างสำหรับนักเรียนที่เรียนรู้แคลคูลัสเชิงอินทิกรัล"
+    ]
+  },
+  "record_count": 56,
+  "title": "ชุดข้อมูลสูตรอินทิเกรตสามัญ"
+}

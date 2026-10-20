@@ -1,0 +1,1228 @@
+{
+  "id": "geo-calling-codes",
+  "name": "ชุดข้อมูลรหัสโทรศัพท์ประเทศและรหัส ISO ทั่วโลก",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "calling_code",
+      "label": "Calling Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "แคนาดา",
+      "calling_code": "+1"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "อียิปต์",
+      "calling_code": "+20"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "แอฟริกาใต้",
+      "calling_code": "+27"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "กรีซ",
+      "calling_code": "+30"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "เนเธอร์แลนด์",
+      "calling_code": "+31"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "เบลเยียม",
+      "calling_code": "+32"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "ฝรั่งเศส",
+      "calling_code": "+33"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "สเปน",
+      "calling_code": "+34"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "ฮังการี",
+      "calling_code": "+36"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "อิตาลี",
+      "calling_code": "+39"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "โรมาเนีย",
+      "calling_code": "+40"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "สวิตเซอร์แลนด์",
+      "calling_code": "+41"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "ออสเตรีย",
+      "calling_code": "+43"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "สหราชอาณาจักร",
+      "calling_code": "+44"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "เดนมาร์ก",
+      "calling_code": "+45"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "สวีเดน",
+      "calling_code": "+46"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "นอร์เวย์",
+      "calling_code": "+47"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "โปแลนด์",
+      "calling_code": "+48"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "เยอรมนี",
+      "calling_code": "+49"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "เปรู",
+      "calling_code": "+51"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "เม็กซิโก",
+      "calling_code": "+52"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "คิวบา",
+      "calling_code": "+53"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "อาร์เจนตินา",
+      "calling_code": "+54"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "บราซิล",
+      "calling_code": "+55"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "ชิลี",
+      "calling_code": "+56"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "โคลอมเบีย",
+      "calling_code": "+57"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "เวเนซุเอลา",
+      "calling_code": "+58"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "มาเลเซีย",
+      "calling_code": "+60"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "ออสเตรเลีย",
+      "calling_code": "+61"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "อินโดนีเซีย",
+      "calling_code": "+62"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "ฟิลิปปินส์",
+      "calling_code": "+63"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "นิวซีแลนด์",
+      "calling_code": "+64"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "calling_code": "+65"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "ไทย",
+      "calling_code": "+66"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "calling_code": "+73"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "คาซัคสถาน",
+      "calling_code": "+76"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "ญี่ปุ่น",
+      "calling_code": "+81"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "เกาหลีใต้",
+      "calling_code": "+82"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "เวียดนาม",
+      "calling_code": "+84"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "calling_code": "+86"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "ตุรกี",
+      "calling_code": "+90"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "อินเดีย",
+      "calling_code": "+91"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "ปากีสถาน",
+      "calling_code": "+92"
+    },
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "อัฟกานิสถาน",
+      "calling_code": "+93"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "calling_code": "+94"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "เมียนมา",
+      "calling_code": "+95"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "อิหร่าน",
+      "calling_code": "+98"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "ซูดานใต้",
+      "calling_code": "+211"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "โมร็อกโก",
+      "calling_code": "+212"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "แอลจีเรีย",
+      "calling_code": "+213"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "ตูนิเซีย",
+      "calling_code": "+216"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "ลิเบีย",
+      "calling_code": "+218"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "แกมเบีย",
+      "calling_code": "+220"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "เซเนกัล",
+      "calling_code": "+221"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "มอริเตเนีย",
+      "calling_code": "+222"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "มาลี",
+      "calling_code": "+223"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "กินี",
+      "calling_code": "+224"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "โกตดิวัวร์",
+      "calling_code": "+225"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "บูร์กินาฟาโซ",
+      "calling_code": "+226"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "ไนเจอร์",
+      "calling_code": "+227"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "โตโก",
+      "calling_code": "+228"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "เบนิน",
+      "calling_code": "+229"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "มอริเชียส",
+      "calling_code": "+230"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "ไลบีเรีย",
+      "calling_code": "+231"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "เซียร์ราลีโอน",
+      "calling_code": "+232"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "กานา",
+      "calling_code": "+233"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "ไนจีเรีย",
+      "calling_code": "+234"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "ชาด",
+      "calling_code": "+235"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "สาธารณรัฐแอฟริกากลาง",
+      "calling_code": "+236"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "แคเมอรูน",
+      "calling_code": "+237"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "เคปเวิร์ด",
+      "calling_code": "+238"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "เซาตูเมและปรินซิปี",
+      "calling_code": "+239"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "อิเควทอเรียลกินี",
+      "calling_code": "+240"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "กาบอง",
+      "calling_code": "+241"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "สาธารณรัฐคองโก",
+      "calling_code": "+242"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "สาธารณรัฐประชาธิปไตยคองโก",
+      "calling_code": "+243"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "แองโกลา",
+      "calling_code": "+244"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "กินี-บิสเซา",
+      "calling_code": "+245"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "เซเชลส์",
+      "calling_code": "+248"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "ซูดาน",
+      "calling_code": "+249"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "รวันดา",
+      "calling_code": "+250"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "เอธิโอเปีย",
+      "calling_code": "+251"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "โซมาเลีย",
+      "calling_code": "+252"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "จิบูตี",
+      "calling_code": "+253"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "เคนยา",
+      "calling_code": "+254"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "แทนซาเนีย",
+      "calling_code": "+255"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "ยูกันดา",
+      "calling_code": "+256"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "บุรุนดี",
+      "calling_code": "+257"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "โมซัมบิก",
+      "calling_code": "+258"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "แซมเบีย",
+      "calling_code": "+260"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "มาดากัสการ์",
+      "calling_code": "+261"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "ซิมบับเว",
+      "calling_code": "+263"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "นามิเบีย",
+      "calling_code": "+264"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "มาลาวี",
+      "calling_code": "+265"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "เลโซโท",
+      "calling_code": "+266"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "บอตสวานา",
+      "calling_code": "+267"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "เอสวาตินี",
+      "calling_code": "+268"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "คอโมโรส",
+      "calling_code": "+269"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "เอริเทรีย",
+      "calling_code": "+291"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "โปรตุเกส",
+      "calling_code": "+351"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "ลักเซมเบิร์ก",
+      "calling_code": "+352"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "ไอร์แลนด์",
+      "calling_code": "+353"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "ไอซ์แลนด์",
+      "calling_code": "+354"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "แอลเบเนีย",
+      "calling_code": "+355"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "มอลตา",
+      "calling_code": "+356"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "ไซปรัส",
+      "calling_code": "+357"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "ฟินแลนด์",
+      "calling_code": "+358"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "บัลแกเรีย",
+      "calling_code": "+359"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "ลิทัวเนีย",
+      "calling_code": "+370"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "ลัตเวีย",
+      "calling_code": "+371"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "เอสโตเนีย",
+      "calling_code": "+372"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "มอลโดวา",
+      "calling_code": "+373"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "อาร์เมเนีย",
+      "calling_code": "+374"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "เบลารุส",
+      "calling_code": "+375"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "อันดอร์รา",
+      "calling_code": "+376"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "โมนาโก",
+      "calling_code": "+377"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "ซานมารีโน",
+      "calling_code": "+378"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "ยูเครน",
+      "calling_code": "+380"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "เซอร์เบีย",
+      "calling_code": "+381"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "มอนเตเนโกร",
+      "calling_code": "+382"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "โคโซโว",
+      "calling_code": "+383"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "โครเอเชีย",
+      "calling_code": "+385"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "สโลวีเนีย",
+      "calling_code": "+386"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "บอสเนียและเฮอร์เซโกวีนา",
+      "calling_code": "+387"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "มาซิโดเนียเหนือ",
+      "calling_code": "+389"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "เช็กเกีย",
+      "calling_code": "+420"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "สโลวาเกีย",
+      "calling_code": "+421"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "ลิกเตนสไตน์",
+      "calling_code": "+423"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "เบลีซ",
+      "calling_code": "+501"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "กัวเตมาลา",
+      "calling_code": "+502"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "เอลซัลวาดอร์",
+      "calling_code": "+503"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "ฮอนดูรัส",
+      "calling_code": "+504"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "นิการากัว",
+      "calling_code": "+505"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "คอสตาริกา",
+      "calling_code": "+506"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "ปานามา",
+      "calling_code": "+507"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "เฮติ",
+      "calling_code": "+509"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "โบลิเวีย",
+      "calling_code": "+591"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "กายอานา",
+      "calling_code": "+592"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "เอกวาดอร์",
+      "calling_code": "+593"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "ปารากวัย",
+      "calling_code": "+595"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "ซูรินาม",
+      "calling_code": "+597"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "อุรุกวัย",
+      "calling_code": "+598"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "ติมอร์-เลสเต",
+      "calling_code": "+670"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "บรูไน",
+      "calling_code": "+673"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "นาอูรู",
+      "calling_code": "+674"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "ปาปัวนิวกินี",
+      "calling_code": "+675"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "ตองกา",
+      "calling_code": "+676"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "หมู่เกาะโซโลมอน",
+      "calling_code": "+677"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "วานูอาตู",
+      "calling_code": "+678"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "ฟิจิ",
+      "calling_code": "+679"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "ปาเลา",
+      "calling_code": "+680"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "ซามัว",
+      "calling_code": "+685"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "คิริบาส",
+      "calling_code": "+686"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "ตูวาลู",
+      "calling_code": "+688"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "ไมโครนีเซีย",
+      "calling_code": "+691"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "หมู่เกาะมาร์แชลล์",
+      "calling_code": "+692"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "เกาหลีเหนือ",
+      "calling_code": "+850"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "กัมพูชา",
+      "calling_code": "+855"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "ลาว",
+      "calling_code": "+856"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "บังกลาเทศ",
+      "calling_code": "+880"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "มัลดีฟส์",
+      "calling_code": "+960"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "เลบานอน",
+      "calling_code": "+961"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "จอร์แดน",
+      "calling_code": "+962"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "ซีเรีย",
+      "calling_code": "+963"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "อิรัก",
+      "calling_code": "+964"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "คูเวต",
+      "calling_code": "+965"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "ซาอุดีอาระเบีย",
+      "calling_code": "+966"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "เยเมน",
+      "calling_code": "+967"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "โอมาน",
+      "calling_code": "+968"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "สหรัฐอาหรับเอมิเรตส์",
+      "calling_code": "+971"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "อิสราเอล",
+      "calling_code": "+972"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "บาห์เรน",
+      "calling_code": "+973"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "กาตาร์",
+      "calling_code": "+974"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "ภูฏาน",
+      "calling_code": "+975"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "มองโกเลีย",
+      "calling_code": "+976"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "เนปาล",
+      "calling_code": "+977"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "ทาจิกิสถาน",
+      "calling_code": "+992"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "เติร์กเมนิสถาน",
+      "calling_code": "+993"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "อาเซอร์ไบจาน",
+      "calling_code": "+994"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "จอร์เจีย",
+      "calling_code": "+995"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "คีร์กีซสถาน",
+      "calling_code": "+996"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "อุซเบกิสถาน",
+      "calling_code": "+998"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "สหรัฐอเมริกา",
+      "calling_code": "+1201"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "บาฮามาส",
+      "calling_code": "+1242"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "บาร์เบโดส",
+      "calling_code": "+1246"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "แอนติกาและบาร์บูดา",
+      "calling_code": "+1268"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "เกรนาดา",
+      "calling_code": "+1473"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "เซนต์ลูเซีย",
+      "calling_code": "+1758"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "ดอมินีกา",
+      "calling_code": "+1767"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "calling_code": "+1784"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "สาธารณรัฐโดมินิกัน",
+      "calling_code": "+1809"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "ตรินิแดดและโตเบโก",
+      "calling_code": "+1868"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "เซนต์คิตส์และเนวิส",
+      "calling_code": "+1869"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "จาเมกา",
+      "calling_code": "+1876"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "นครรัฐวาติกัน",
+      "calling_code": "+3906698"
+    }
+  ],
+  "meta": {
+    "seo_title": "รหัสโทรศัพท์ประเทศ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดรายการรหัสโทรศัพท์ประเทศ 195 รายการพร้อมรหัส ISO Alpha-2/3 ฟรีใน Excel, CSV และ PDF สำหรับนักพัฒนาและนักวิเคราะห์.",
+    "title": "ชุดข้อมูลรหัสโทรศัพท์ประเทศและรหัส ISO ทั่วโลก",
+    "description": "ชุดข้อมูลนี้มีรายการประเทศอิสระ 195 ประเทศที่ครอบคลุมรหัส ISO Alpha-2, ISO Alpha-3, ชื่อประเทศ และรหัสโทรศัพท์ระหว่างประเทศ.",
+    "key_takeaways": [
+      "เข้าถึงรหัสโทรศัพท์ระหว่างประเทศที่อัปเดตสำหรับ 195 ประเทศ.",
+      "ดาวน์โหลดข้อมูลประเทศ รวมถึงรหัส ISO Alpha-2 และ Alpha-3.",
+      "ใช้ข้อมูลสำหรับการสื่อสารโทรคมนาคม การพัฒนา และโครงการวิเคราะห์.",
+      "รับแหล่งข้อมูลมาตรฐานสำหรับการระบุประเทศและการโทรทั่วโลก."
+    ],
+    "keywords": [
+      "รหัสโทรศัพท์ประเทศ",
+      "รหัสประเทศระหว่างประเทศ excel",
+      "iso 3166 alpha 2 3 csv",
+      "ฐานข้อมูลรหัสประเทศ",
+      "ดาวน์โหลดรหัสโทรศัพท์ฟรี"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อตรวจสอบหมายเลขโทรศัพท์หรือสร้างแอปพลิเคชันการโทรทั่วโลก.",
+      "ใช้ไฟล์ **Excel** เพื่อกรองและจัดระเบียบรหัสโทรศัพท์อย่างรวดเร็วสำหรับทีมขาย การวางแผนการสื่อสารระหว่างประเทศ หรือการวิเคราะห์ข้อมูล.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงออฟไลน์ที่สะดวกในศูนย์บริการลูกค้า ตัวแทนท่องเที่ยว หรือการตั้งค่าการศึกษา.",
+      "ใช้ประโยชน์จากชุดข้อมูลที่ครอบคลุมนี้เพื่อปรับปรุงระบบ CRM หรือพัฒนาระบบโทรคมนาคมระหว่างประเทศที่แข็งแกร่ง."
+    ]
+  },
+  "record_count": 195,
+  "title": "ชุดข้อมูลรหัสโทรศัพท์ประเทศและรหัส ISO ทั่วโลก"
+}

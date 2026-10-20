@@ -1,0 +1,590 @@
+{
+  "id": "geo-thailand-provinces",
+  "name": "รายชื่อ 77 จังหวัดประเทศไทย",
+  "category": "geography",
+  "source": "https://github.com/kongvut/thai-province-data",
+  "updated": "2026-02-20",
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "จังหวัด",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อภาษาอังกฤษ",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "รหัส ISO",
+      "type": "string"
+    },
+    {
+      "key": "region_th",
+      "label": "ภาค",
+      "type": "string"
+    },
+    {
+      "key": "district_count",
+      "label": "จำนวนอำเภอ",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "กระบี่",
+      "name_en": "Krabi",
+      "iso_code": "TH-81",
+      "region_th": "ภาคใต้",
+      "district_count": 8
+    },
+    {
+      "name_th": "กรุงเทพมหานคร",
+      "name_en": "Bangkok",
+      "iso_code": "TH-10",
+      "region_th": "ภาคกลาง",
+      "district_count": 50
+    },
+    {
+      "name_th": "กาญจนบุรี",
+      "name_en": "Kanchanaburi",
+      "iso_code": "TH-71",
+      "region_th": "ภาคตะวันตก",
+      "district_count": 13
+    },
+    {
+      "name_th": "กาฬสินธุ์",
+      "name_en": "Kalasin",
+      "iso_code": "TH-46",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 18
+    },
+    {
+      "name_th": "กำแพงเพชร",
+      "name_en": "Kamphaeng Phet",
+      "iso_code": "TH-62",
+      "region_th": "ภาคกลาง",
+      "district_count": 11
+    },
+    {
+      "name_th": "ขอนแก่น",
+      "name_en": "Khon Kaen",
+      "iso_code": "TH-40",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 26
+    },
+    {
+      "name_th": "จันทบุรี",
+      "name_en": "Chanthaburi",
+      "iso_code": "TH-22",
+      "region_th": "ภาคตะวันออก",
+      "district_count": 10
+    },
+    {
+      "name_th": "ฉะเชิงเทรา",
+      "name_en": "Chachoengsao",
+      "iso_code": "TH-24",
+      "region_th": "ภาคตะวันออก",
+      "district_count": 11
+    },
+    {
+      "name_th": "ชลบุรี",
+      "name_en": "Chon Buri",
+      "iso_code": "TH-20",
+      "region_th": "ภาคตะวันออก",
+      "district_count": 11
+    },
+    {
+      "name_th": "ชัยนาท",
+      "name_en": "Chai Nat",
+      "iso_code": "TH-18",
+      "region_th": "ภาคกลาง",
+      "district_count": 8
+    },
+    {
+      "name_th": "ชัยภูมิ",
+      "name_en": "Chaiyaphum",
+      "iso_code": "TH-36",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 16
+    },
+    {
+      "name_th": "ชุมพร",
+      "name_en": "Chumphon",
+      "iso_code": "TH-86",
+      "region_th": "ภาคใต้",
+      "district_count": 8
+    },
+    {
+      "name_th": "เชียงราย",
+      "name_en": "Chiang Rai",
+      "iso_code": "TH-57",
+      "region_th": "ภาคเหนือ",
+      "district_count": 18
+    },
+    {
+      "name_th": "เชียงใหม่",
+      "name_en": "Chiang Mai",
+      "iso_code": "TH-50",
+      "region_th": "ภาคเหนือ",
+      "district_count": 25
+    },
+    {
+      "name_th": "ตรัง",
+      "name_en": "Trang",
+      "iso_code": "TH-92",
+      "region_th": "ภาคใต้",
+      "district_count": 10
+    },
+    {
+      "name_th": "ตราด",
+      "name_en": "Trat",
+      "iso_code": "TH-23",
+      "region_th": "ภาคตะวันออก",
+      "district_count": 7
+    },
+    {
+      "name_th": "ตาก",
+      "name_en": "Tak",
+      "iso_code": "TH-63",
+      "region_th": "ภาคตะวันตก",
+      "district_count": 9
+    },
+    {
+      "name_th": "นครนายก",
+      "name_en": "Nakhon Nayok",
+      "iso_code": "TH-26",
+      "region_th": "ภาคกลาง",
+      "district_count": 4
+    },
+    {
+      "name_th": "นครปฐม",
+      "name_en": "Nakhon Pathom",
+      "iso_code": "TH-73",
+      "region_th": "ภาคกลาง",
+      "district_count": 7
+    },
+    {
+      "name_th": "นครพนม",
+      "name_en": "Nakhon Phanom",
+      "iso_code": "TH-48",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 12
+    },
+    {
+      "name_th": "นครราชสีมา",
+      "name_en": "Nakhon Ratchasima",
+      "iso_code": "TH-30",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 32
+    },
+    {
+      "name_th": "นครศรีธรรมราช",
+      "name_en": "Nakhon Si Thammarat",
+      "iso_code": "TH-80",
+      "region_th": "ภาคใต้",
+      "district_count": 23
+    },
+    {
+      "name_th": "นครสวรรค์",
+      "name_en": "Nakhon Sawan",
+      "iso_code": "TH-60",
+      "region_th": "ภาคกลาง",
+      "district_count": 15
+    },
+    {
+      "name_th": "นนทบุรี",
+      "name_en": "Nonthaburi",
+      "iso_code": "TH-12",
+      "region_th": "ภาคกลาง",
+      "district_count": 6
+    },
+    {
+      "name_th": "นราธิวาส",
+      "name_en": "Narathiwat",
+      "iso_code": "TH-96",
+      "region_th": "ภาคใต้",
+      "district_count": 13
+    },
+    {
+      "name_th": "น่าน",
+      "name_en": "Nan",
+      "iso_code": "TH-55",
+      "region_th": "ภาคเหนือ",
+      "district_count": 15
+    },
+    {
+      "name_th": "บึงกาฬ",
+      "name_en": "Bueng Kan",
+      "iso_code": "TH-38",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 8
+    },
+    {
+      "name_th": "บุรีรัมย์",
+      "name_en": "Buri Ram",
+      "iso_code": "TH-31",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 23
+    },
+    {
+      "name_th": "ปทุมธานี",
+      "name_en": "Pathum Thani",
+      "iso_code": "TH-13",
+      "region_th": "ภาคกลาง",
+      "district_count": 7
+    },
+    {
+      "name_th": "ประจวบคีรีขันธ์",
+      "name_en": "Prachuap Khiri Khan",
+      "iso_code": "TH-77",
+      "region_th": "ภาคตะวันตก",
+      "district_count": 8
+    },
+    {
+      "name_th": "ปราจีนบุรี",
+      "name_en": "Prachin Buri",
+      "iso_code": "TH-25",
+      "region_th": "ภาคตะวันออก",
+      "district_count": 7
+    },
+    {
+      "name_th": "ปัตตานี",
+      "name_en": "Pattani",
+      "iso_code": "TH-94",
+      "region_th": "ภาคใต้",
+      "district_count": 12
+    },
+    {
+      "name_th": "พระนครศรีอยุธยา",
+      "name_en": "Phra Nakhon Si Ayutthaya",
+      "iso_code": "TH-14",
+      "region_th": "ภาคกลาง",
+      "district_count": 16
+    },
+    {
+      "name_th": "พะเยา",
+      "name_en": "Phayao",
+      "iso_code": "TH-56",
+      "region_th": "ภาคเหนือ",
+      "district_count": 9
+    },
+    {
+      "name_th": "พังงา",
+      "name_en": "Phangnga",
+      "iso_code": "TH-82",
+      "region_th": "ภาคใต้",
+      "district_count": 8
+    },
+    {
+      "name_th": "พัทลุง",
+      "name_en": "Phatthalung",
+      "iso_code": "TH-93",
+      "region_th": "ภาคใต้",
+      "district_count": 11
+    },
+    {
+      "name_th": "พิจิตร",
+      "name_en": "Phichit",
+      "iso_code": "TH-66",
+      "region_th": "ภาคกลาง",
+      "district_count": 12
+    },
+    {
+      "name_th": "พิษณุโลก",
+      "name_en": "Phitsanulok",
+      "iso_code": "TH-65",
+      "region_th": "ภาคกลาง",
+      "district_count": 9
+    },
+    {
+      "name_th": "เพชรบุรี",
+      "name_en": "Phetchaburi",
+      "iso_code": "TH-76",
+      "region_th": "ภาคตะวันตก",
+      "district_count": 8
+    },
+    {
+      "name_th": "เพชรบูรณ์",
+      "name_en": "Phetchabun",
+      "iso_code": "TH-67",
+      "region_th": "ภาคกลาง",
+      "district_count": 11
+    },
+    {
+      "name_th": "แพร่",
+      "name_en": "Phrae",
+      "iso_code": "TH-54",
+      "region_th": "ภาคเหนือ",
+      "district_count": 8
+    },
+    {
+      "name_th": "ภูเก็ต",
+      "name_en": "Phuket",
+      "iso_code": "TH-83",
+      "region_th": "ภาคใต้",
+      "district_count": 3
+    },
+    {
+      "name_th": "มหาสารคาม",
+      "name_en": "Maha Sarakham",
+      "iso_code": "TH-44",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 13
+    },
+    {
+      "name_th": "มุกดาหาร",
+      "name_en": "Mukdahan",
+      "iso_code": "TH-49",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 7
+    },
+    {
+      "name_th": "แม่ฮ่องสอน",
+      "name_en": "Mae Hong Son",
+      "iso_code": "TH-58",
+      "region_th": "ภาคเหนือ",
+      "district_count": 7
+    },
+    {
+      "name_th": "ยโสธร",
+      "name_en": "Yasothon",
+      "iso_code": "TH-35",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 9
+    },
+    {
+      "name_th": "ยะลา",
+      "name_en": "Yala",
+      "iso_code": "TH-95",
+      "region_th": "ภาคใต้",
+      "district_count": 8
+    },
+    {
+      "name_th": "ร้อยเอ็ด",
+      "name_en": "Roi Et",
+      "iso_code": "TH-45",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 20
+    },
+    {
+      "name_th": "ระนอง",
+      "name_en": "Ranong",
+      "iso_code": "TH-85",
+      "region_th": "ภาคใต้",
+      "district_count": 5
+    },
+    {
+      "name_th": "ระยอง",
+      "name_en": "Rayong",
+      "iso_code": "TH-21",
+      "region_th": "ภาคตะวันออก",
+      "district_count": 8
+    },
+    {
+      "name_th": "ราชบุรี",
+      "name_en": "Ratchaburi",
+      "iso_code": "TH-70",
+      "region_th": "ภาคตะวันตก",
+      "district_count": 11
+    },
+    {
+      "name_th": "ลพบุรี",
+      "name_en": "Lopburi",
+      "iso_code": "TH-16",
+      "region_th": "ภาคกลาง",
+      "district_count": 11
+    },
+    {
+      "name_th": "ลำปาง",
+      "name_en": "Lampang",
+      "iso_code": "TH-52",
+      "region_th": "ภาคเหนือ",
+      "district_count": 13
+    },
+    {
+      "name_th": "ลำพูน",
+      "name_en": "Lamphun",
+      "iso_code": "TH-51",
+      "region_th": "ภาคเหนือ",
+      "district_count": 8
+    },
+    {
+      "name_th": "เลย",
+      "name_en": "Loei",
+      "iso_code": "TH-42",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 14
+    },
+    {
+      "name_th": "ศรีสะเกษ",
+      "name_en": "Si Sa Ket",
+      "iso_code": "TH-33",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 22
+    },
+    {
+      "name_th": "สกลนคร",
+      "name_en": "Sakon Nakhon",
+      "iso_code": "TH-47",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 18
+    },
+    {
+      "name_th": "สงขลา",
+      "name_en": "Songkhla",
+      "iso_code": "TH-90",
+      "region_th": "ภาคใต้",
+      "district_count": 17
+    },
+    {
+      "name_th": "สตูล",
+      "name_en": "Satun",
+      "iso_code": "TH-91",
+      "region_th": "ภาคใต้",
+      "district_count": 7
+    },
+    {
+      "name_th": "สมุทรปราการ",
+      "name_en": "Samut Prakan",
+      "iso_code": "TH-11",
+      "region_th": "ภาคกลาง",
+      "district_count": 6
+    },
+    {
+      "name_th": "สมุทรสงคราม",
+      "name_en": "Samut Songkhram",
+      "iso_code": "TH-75",
+      "region_th": "ภาคกลาง",
+      "district_count": 3
+    },
+    {
+      "name_th": "สมุทรสาคร",
+      "name_en": "Samut Sakhon",
+      "iso_code": "TH-74",
+      "region_th": "ภาคกลาง",
+      "district_count": 3
+    },
+    {
+      "name_th": "สระแก้ว",
+      "name_en": "Sa Kaeo",
+      "iso_code": "TH-27",
+      "region_th": "ภาคตะวันออก",
+      "district_count": 9
+    },
+    {
+      "name_th": "สระบุรี",
+      "name_en": "Saraburi",
+      "iso_code": "TH-19",
+      "region_th": "ภาคกลาง",
+      "district_count": 13
+    },
+    {
+      "name_th": "สิงห์บุรี",
+      "name_en": "Sing Buri",
+      "iso_code": "TH-17",
+      "region_th": "ภาคกลาง",
+      "district_count": 6
+    },
+    {
+      "name_th": "สุโขทัย",
+      "name_en": "Sukhothai",
+      "iso_code": "TH-64",
+      "region_th": "ภาคกลาง",
+      "district_count": 9
+    },
+    {
+      "name_th": "สุพรรณบุรี",
+      "name_en": "Suphan Buri",
+      "iso_code": "TH-72",
+      "region_th": "ภาคกลาง",
+      "district_count": 10
+    },
+    {
+      "name_th": "สุราษฎร์ธานี",
+      "name_en": "Surat Thani",
+      "iso_code": "TH-84",
+      "region_th": "ภาคใต้",
+      "district_count": 19
+    },
+    {
+      "name_th": "สุรินทร์",
+      "name_en": "Surin",
+      "iso_code": "TH-32",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 17
+    },
+    {
+      "name_th": "หนองคาย",
+      "name_en": "Nong Khai",
+      "iso_code": "TH-43",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 9
+    },
+    {
+      "name_th": "หนองบัวลำภู",
+      "name_en": "Nong Bua Lam Phu",
+      "iso_code": "TH-39",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 6
+    },
+    {
+      "name_th": "อ่างทอง",
+      "name_en": "Ang Thong",
+      "iso_code": "TH-15",
+      "region_th": "ภาคกลาง",
+      "district_count": 7
+    },
+    {
+      "name_th": "อำนาจเจริญ",
+      "name_en": "Amnat Charoen",
+      "iso_code": "TH-37",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 7
+    },
+    {
+      "name_th": "อุดรธานี",
+      "name_en": "Udon Thani",
+      "iso_code": "TH-41",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 20
+    },
+    {
+      "name_th": "อุตรดิตถ์",
+      "name_en": "Uttaradit",
+      "iso_code": "TH-53",
+      "region_th": "ภาคเหนือ",
+      "district_count": 9
+    },
+    {
+      "name_th": "อุทัยธานี",
+      "name_en": "Uthai Thani",
+      "iso_code": "TH-61",
+      "region_th": "ภาคกลาง",
+      "district_count": 8
+    },
+    {
+      "name_th": "อุบลราชธานี",
+      "name_en": "Ubon Ratchathani",
+      "iso_code": "TH-34",
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "district_count": 25
+    }
+  ],
+  "record_count": 77,
+  "title": "รายชื่อ 77 จังหวัดประเทศไทย",
+  "description": "รายชื่อจังหวัดทั้ง 77 จังหวัดของประเทศไทย พร้อมชื่อภาษาไทย-อังกฤษ รหัส ISO ภาค และจำนวนอำเภอ",
+  "meta": {
+    "title": "รายชื่อ 77 จังหวัดประเทศไทย",
+    "description": "รายชื่อจังหวัดทั้ง 77 จังหวัดของประเทศไทย พร้อมชื่อภาษาไทย-อังกฤษ รหัส ISO ภาค และจำนวนอำเภอ",
+    "seo_title": "รายชื่อ 77 จังหวัดประเทศไทย - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download 77 รายชื่อ 77 จังหวัดประเทศไทย records. Free in Excel, CSV, and PDF formats.",
+    "key_takeaways": [
+      "Access 77 complete records",
+      "Includes: จังหวัด, ชื่อภาษาอังกฤษ, รหัส ISO",
+      "Download in Excel, CSV, or PDF format",
+      "Free for personal and commercial use"
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "id": "tech-logic-gates",
+  "name": "ชุดข้อมูลตารางความจริงลอจิกเกต",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "gate",
+      "label": "Gate Type",
+      "type": "string"
+    },
+    {
+      "key": "inputs",
+      "label": "Number of Inputs",
+      "type": "number"
+    },
+    {
+      "key": "input_a",
+      "label": "Input A",
+      "type": "number"
+    },
+    {
+      "key": "input_b",
+      "label": "Input B",
+      "type": "number"
+    },
+    {
+      "key": "output",
+      "label": "Output",
+      "type": "number"
+    },
+    {
+      "key": "expression",
+      "label": "Boolean Expression",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 1,
+      "expression": "¬A",
+      "description": "กลับค่าอินพุต"
+    },
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 0,
+      "expression": "¬A",
+      "description": "กลับค่าอินพุต"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∧ B",
+      "description": "เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∨ B",
+      "description": "เอาต์พุตเป็น 1 ถ้าอินพุตใดๆ เป็น 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "เอาต์พุตเป็น 1 ถ้าอินพุตใดๆ เป็น 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "เอาต์พุตเป็น 1 ถ้าอินพุตใดๆ เป็น 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "เอาต์พุตเป็น 1 ถ้าอินพุตใดๆ เป็น 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - เอาต์พุตเป็น 0 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - เอาต์พุตเป็น 0 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - เอาต์พุตเป็น 0 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - เอาต์พุตเป็น 0 ก็ต่อเมื่ออินพุตทั้งสองเป็น 1"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - เอาต์พุตเป็น 1 ก็ต่อเมื่ออินพุตทั้งสองเป็น 0"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "เอาต์พุตเป็น 1 ถ้าอินพุตแตกต่างกัน"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "เอาต์พุตเป็น 1 ถ้าอินพุตแตกต่างกัน"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "ส่งออก 1 หากอินพุตแตกต่างกัน"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "ส่งออก 1 หากอินพุตแตกต่างกัน"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "ส่งออก 1 หากอินพุตเหมือนกัน"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "ส่งออก 1 หากอินพุตเหมือนกัน"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "ส่งออก 1 หากอินพุตเหมือนกัน"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "ส่งออก 1 หากอินพุตเหมือนกัน"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 0,
+      "expression": "A",
+      "description": "ส่งออกเท่ากับอินพุต (เครื่องขยายสัญญาณ)"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 1,
+      "expression": "A",
+      "description": "ส่งออกเท่ากับอินพุต (เครื่องขยายสัญญาณ)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A → B",
+      "description": "การบ่งชี้เชิงตรรกะ (ถ้า A แล้ว B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "การบ่งชี้เชิงตรรกะ (ถ้า A แล้ว B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A → B",
+      "description": "การบ่งชี้เชิงตรรกะ (ถ้า A แล้ว B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "การบ่งชี้เชิงตรรกะ (ถ้า A แล้ว B)"
+    }
+  ],
+  "meta": {
+    "seo_title": "ตารางความจริงลอจิกเกต - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรีตารางความจริงของลอจิกเกต 32 รายการพร้อมนิพจน์บูลีน จำเป็นสำหรับอิเล็กทรอนิกส์ดิจิทัล มีในรูปแบบ Excel, CSV และ PDF.",
+    "title": "ชุดข้อมูลตารางความจริงลอจิกเกต",
+    "description": "ชุดข้อมูลนี้มีตารางความจริงสำหรับลอจิกเกตทั่วไป 32 ตัว รวมถึงสถานะอินพุต/เอาต์พุต นิพจน์บูลีน และคำอธิบาย เหมาะสำหรับการเรียนรู้และอ้างอิงด้านอิเล็กทรอนิกส์ดิจิทัล",
+    "key_takeaways": [
+      "เข้าถึงตารางความจริงสำหรับลอจิกเกตพื้นฐาน 32 ตัว",
+      "สำรวจนิพจน์บูลีนและคำอธิบายการทำงานสำหรับแต่ละเกต",
+      "ดาวน์โหลดข้อมูลพร้อมใช้สำหรับการออกแบบและศึกษาลอจิกดิจิทัล",
+      "ใช้ประเภทเกต อินพุต และเอาต์พุตเพื่อจำลองวงจรดิจิทัล"
+    ],
+    "keywords": [
+      "ตารางความจริง ลอจิกเกต excel",
+      "ข้อมูลพีชคณิตบูลีน csv",
+      "ลอจิกเกตดิจิทัล pdf",
+      "อิเล็กทรอนิกส์ ตารางความจริง",
+      "ดาวน์โหลด ลอจิกเกต ฟรี"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในสคริปต์ Python หรือฐานข้อมูล SQL ของคุณเพื่อวิเคราะห์พฤติกรรมเกตหรือสร้างตัวจำลองวงจรดิจิทัล",
+      "ใช้ไฟล์ **Excel** เพื่อกรองเกตตามประเภท สร้างมุมมองตารางความจริงที่กำหนดเอง หรือคำนวณลอจิกเกตเพื่อการศึกษา",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับการอ้างอิงในห้องเรียน การศึกษาออฟไลน์ หรือเพื่อรวมในการนำเสนอพื้นฐานอิเล็กทรอนิกส์ดิจิทัล",
+      "ใช้ประโยชน์จากชุดข้อมูลนี้เพื่อตรวจสอบเอาต์พุตลอจิกเกตอย่างรวดเร็ว หรือเป็นแหล่งข้อมูลพื้นฐานสำหรับการออกแบบระบบดิจิทัลที่ซับซ้อน"
+    ]
+  },
+  "record_count": 32,
+  "title": "ชุดข้อมูลตารางความจริงลอจิกเกต"
+}

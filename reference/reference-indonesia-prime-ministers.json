@@ -1,0 +1,136 @@
+{
+  "id": "reference-indonesia-prime-ministers",
+  "name": "รายชื่อนายกรัฐมนตรีอินโดนีเซีย",
+  "title": "รายชื่อนายกรัฐมนตรีอินโดนีเซีย",
+  "description": "รายชื่อนายกรัฐมนตรีของอินโดนีเซียระหว่าง พ.ศ. 2488–2509 ประกอบด้วยข้อมูลลำดับ ชื่อ รูปภาพ ช่วงเวลาที่ดำรงตำแหน่ง และพรรคการเมืองที่สังกัด",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%99%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2",
+  "updated": "2023-10-27",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "number",
+      "label": "#",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อ",
+      "type": "string"
+    },
+    {
+      "key": "image_filename",
+      "label": "รูป",
+      "type": "string"
+    },
+    {
+      "key": "term_of_office_th",
+      "label": "ครองตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "party_th",
+      "label": "พรรค",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": "1",
+      "name_th": "ซูตัน ชะฮ์รีร์",
+      "image_filename": "SoetanSjahrir.jpg",
+      "term_of_office_th": "14 พฤศจิกายน 2488 – 20 มิถุนายน 2490",
+      "party_th": "พรรคสังคมนิยม"
+    },
+    {
+      "number": "2",
+      "name_th": "อามีร์ ชารีฟุดดิน",
+      "image_filename": "Amir Sjarifuddin.jpg",
+      "term_of_office_th": "3 กรกฎาคม 2490 – 29 มกราคม 2491",
+      "party_th": "พรรคสังคมนิยม"
+    },
+    {
+      "number": "3",
+      "name_th": "โมฮัมมัด ฮัตตา",
+      "image_filename": "Hatta-1.jpg",
+      "term_of_office_th": "29 มกราคม 2491–16 กรกฎาคม 2493 (ถูกเนเธอร์แลนด์คุมขังระหว่าง 19 ธันวาคม 2491 – 13 กรกฎาคม 2492)",
+      "party_th": "ไม่สังกัดพรรค"
+    },
+    {
+      "number": "4",
+      "name_th": "อับดุล ฮาลิม",
+      "image_filename": "Abdul Halim.jpg",
+      "term_of_office_th": "16 มกราคม 2493 – 5 กันยายน 2493",
+      "party_th": "ไม่สังกัดพรรค"
+    },
+    {
+      "number": "5",
+      "name_th": "โมฮัมมัด นัตซีร์",
+      "image_filename": "Mohammad Natsir 1950s.jpg",
+      "term_of_office_th": "5 กันยายน 2493 – 26 เมษายน 2494",
+      "party_th": "พรรคมาชูมี"
+    },
+    {
+      "number": "6",
+      "name_th": "ซูกีมัน วีร์โยซันโจโย",
+      "image_filename": "Soekiman Wirjosandjojo - Aankomst Nieuw Guinea delegatie van de Verenigde Staten van Indonesië op Schipho, Bestanddeelnr 904-2694.jpg",
+      "term_of_office_th": "26 เมษายน 2494 – 1 เมษายน 2495",
+      "party_th": "พรรคมาชูมี"
+    },
+    {
+      "number": "7",
+      "name_th": "วีโลโป",
+      "image_filename": "Wilopo.jpg",
+      "term_of_office_th": "1 เมษายน 2495 – 30 กรกฎาคม 2496",
+      "party_th": "พรรคชาตินิยมอินโดนีเซีย"
+    },
+    {
+      "number": "8",
+      "name_th": "อาลี ซัซโตรอามีโจโย",
+      "image_filename": "Ali Sastroamidjojo.jpg",
+      "term_of_office_th": "30 กรกฎาคม 2496 – 11 สิงหาคม 2498 (1st time)",
+      "party_th": "พรรคชาตินิยมอินโดนีเซีย"
+    },
+    {
+      "number": "9",
+      "name_th": "บูร์ฮันอุดดิน ฮาราฮัป",
+      "image_filename": "Burhanuddin Harahap headshot.jpg",
+      "term_of_office_th": "11 สิงหาคม 2498 – 20 มีนาคม 2499",
+      "party_th": "พรรคมาชูมี"
+    },
+    {
+      "number": "(8)",
+      "name_th": "อาลี ซัซโตรอามีโจโย",
+      "image_filename": "Ali Sastroamidjojo.jpg",
+      "term_of_office_th": "20 มีนาคม 2499 – 9 เมษายน 2500 (สมัยที่ 2)",
+      "party_th": "พรรคชาตินิยมอินโดนีเซีย"
+    },
+    {
+      "number": "10",
+      "name_th": "จูวันดา การ์ตาวีจายา",
+      "image_filename": "Djuanda.jpg",
+      "term_of_office_th": "9 เมษายน 2500 – 9 กรกฎาคม 2502",
+      "party_th": "ไม่สังกัดพรรค"
+    },
+    {
+      "number": "11",
+      "name_th": "ซูการ์โน",
+      "image_filename": "Presiden Sukarno dyk.jpg",
+      "term_of_office_th": "9 กรกฎาคม 2502 – 25 กรกฎาคม 2509 (โดยการประกาศลาออกจากตำแหน่งประธานาธิบดีด้วย)",
+      "party_th": "ไม่สังกัดพรรค"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อนายกรัฐมนตรีอินโดนีเซีย",
+    "description": "รายชื่อนายกรัฐมนตรีของอินโดนีเซียระหว่าง พ.ศ. 2488–2509 พร้อมข้อมูลลำดับ ชื่อ รูปภาพ ช่วงเวลาที่ดำรงตำแหน่ง และพรรคการเมือง",
+    "seo_title": "รายชื่อนายกรัฐมนตรีอินโดนีเซีย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 12 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 12 รายชื่อนายกรัฐมนตรีครบถ้วน",
+      "รวม: ลำดับ, ชื่อ, ช่วงเวลาที่ดำรงตำแหน่ง, พรรค",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

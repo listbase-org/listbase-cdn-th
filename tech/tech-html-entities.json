@@ -1,0 +1,669 @@
+{
+  "id": "tech-html-entities",
+  "name": "ชุดข้อมูล HTML Character Entities และสัญลักษณ์พิเศษ",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "entity",
+      "label": "Entity",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "decimal",
+      "label": "Decimal Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "entity": "&amp;",
+      "character": "&",
+      "code_point": "U+0026",
+      "decimal": "&#38;",
+      "name": "แอมเพอร์แซนด์",
+      "category": "จำเป็น"
+    },
+    {
+      "entity": "&lt;",
+      "character": "<",
+      "code_point": "U+003C",
+      "decimal": "&#60;",
+      "name": "น้อยกว่า",
+      "category": "จำเป็น"
+    },
+    {
+      "entity": "&gt;",
+      "character": ">",
+      "code_point": "U+003E",
+      "decimal": "&#62;",
+      "name": "มากกว่า",
+      "category": "จำเป็น"
+    },
+    {
+      "entity": "&quot;",
+      "character": "\"",
+      "code_point": "U+0022",
+      "decimal": "&#34;",
+      "name": "เครื่องหมายคำพูด",
+      "category": "จำเป็น"
+    },
+    {
+      "entity": "&apos;",
+      "character": "'",
+      "code_point": "U+0027",
+      "decimal": "&#39;",
+      "name": "เครื่องหมายอะพอสทรอฟี",
+      "category": "จำเป็น"
+    },
+    {
+      "entity": "&nbsp;",
+      "character": " ",
+      "code_point": "U+00A0",
+      "decimal": "&#160;",
+      "name": "ช่องว่างไม่ตัดคำ",
+      "category": "ช่องว่าง"
+    },
+    {
+      "entity": "&ensp;",
+      "character": " ",
+      "code_point": "U+2002",
+      "decimal": "&#8194;",
+      "name": "เอ็นสเปซ",
+      "category": "ช่องว่าง"
+    },
+    {
+      "entity": "&emsp;",
+      "character": " ",
+      "code_point": "U+2003",
+      "decimal": "&#8195;",
+      "name": "เอ็มสเปซ",
+      "category": "ช่องว่าง"
+    },
+    {
+      "entity": "&thinsp;",
+      "character": " ",
+      "code_point": "U+2009",
+      "decimal": "&#8201;",
+      "name": "ช่องว่างบาง",
+      "category": "ช่องว่าง"
+    },
+    {
+      "entity": "&shy;",
+      "character": "­",
+      "code_point": "U+00AD",
+      "decimal": "&#173;",
+      "name": "ยัติภังค์แบบอ่อน",
+      "category": "ช่องว่าง"
+    },
+    {
+      "entity": "&zwj;",
+      "character": "‍",
+      "code_point": "U+200D",
+      "decimal": "&#8205;",
+      "name": "ตัวเชื่อมความกว้างศูนย์",
+      "category": "ช่องว่าง"
+    },
+    {
+      "entity": "&zwnj;",
+      "character": "‌",
+      "code_point": "U+200C",
+      "decimal": "&#8204;",
+      "name": "ตัวไม่เชื่อมความกว้างศูนย์",
+      "category": "ช่องว่าง"
+    },
+    {
+      "entity": "&ndash;",
+      "character": "–",
+      "code_point": "U+2013",
+      "decimal": "&#8211;",
+      "name": "ยัติภังค์ เอ็นแดช",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&mdash;",
+      "character": "—",
+      "code_point": "U+2014",
+      "decimal": "&#8212;",
+      "name": "ยัติภังค์ เอ็มแดช",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&lsquo;",
+      "character": "‘",
+      "code_point": "U+2018",
+      "decimal": "&#8216;",
+      "name": "เครื่องหมายคำพูดเดี่ยวเปิด",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&rsquo;",
+      "character": "’",
+      "code_point": "U+2019",
+      "decimal": "&#8217;",
+      "name": "เครื่องหมายคำพูดเดี่ยวปิด",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&ldquo;",
+      "character": "“",
+      "code_point": "U+201C",
+      "decimal": "&#8220;",
+      "name": "เครื่องหมายคำพูดคู่เปิด",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&rdquo;",
+      "character": "”",
+      "code_point": "U+201D",
+      "decimal": "&#8221;",
+      "name": "เครื่องหมายคำพูดคู่ปิด",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&laquo;",
+      "character": "«",
+      "code_point": "U+00AB",
+      "decimal": "&#171;",
+      "name": "เครื่องหมายอัญประกาศมุมคู่ชี้ซ้าย",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&raquo;",
+      "character": "»",
+      "code_point": "U+00BB",
+      "decimal": "&#187;",
+      "name": "เครื่องหมายอัญประกาศมุมคู่ชี้ขวา",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&hellip;",
+      "character": "…",
+      "code_point": "U+2026",
+      "decimal": "&#8230;",
+      "name": "จุดไข่ปลาแนวนอน",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&bull;",
+      "character": "•",
+      "code_point": "U+2022",
+      "decimal": "&#8226;",
+      "name": "สัญลักษณ์หัวข้อย่อย",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&middot;",
+      "character": "·",
+      "code_point": "U+00B7",
+      "decimal": "&#183;",
+      "name": "จุดกึ่งกลาง",
+      "category": "เครื่องหมายวรรคตอน"
+    },
+    {
+      "entity": "&copy;",
+      "character": "©",
+      "code_point": "U+00A9",
+      "decimal": "&#169;",
+      "name": "เครื่องหมายลิขสิทธิ์",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&reg;",
+      "character": "®",
+      "code_point": "U+00AE",
+      "decimal": "&#174;",
+      "name": "เครื่องหมายการค้าจดทะเบียน",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&trade;",
+      "character": "™",
+      "code_point": "U+2122",
+      "decimal": "&#8482;",
+      "name": "เครื่องหมายการค้า",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&deg;",
+      "character": "°",
+      "code_point": "U+00B0",
+      "decimal": "&#176;",
+      "name": "เครื่องหมายองศา",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&sect;",
+      "character": "§",
+      "code_point": "U+00A7",
+      "decimal": "&#167;",
+      "name": "เครื่องหมายมาตรา",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&para;",
+      "character": "¶",
+      "code_point": "U+00B6",
+      "decimal": "&#182;",
+      "name": "เครื่องหมายย่อหน้า",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&dagger;",
+      "character": "†",
+      "code_point": "U+2020",
+      "decimal": "&#8224;",
+      "name": "เครื่องหมายกริช",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&Dagger;",
+      "character": "‡",
+      "code_point": "U+2021",
+      "decimal": "&#8225;",
+      "name": "เครื่องหมายกริชคู่",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&prime;",
+      "character": "′",
+      "code_point": "U+2032",
+      "decimal": "&#8242;",
+      "name": "เครื่องหมายไพรม์",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&Prime;",
+      "character": "″",
+      "code_point": "U+2033",
+      "decimal": "&#8243;",
+      "name": "เครื่องหมายไพรม์คู่",
+      "category": "เครื่องหมายการพิมพ์"
+    },
+    {
+      "entity": "&plus;",
+      "character": "+",
+      "code_point": "U+002B",
+      "decimal": "&#43;",
+      "name": "เครื่องหมายบวก",
+      "category": "เครื่องหมายคณิตศาสตร์"
+    },
+    {
+      "entity": "&minus;",
+      "character": "−",
+      "code_point": "U+2212",
+      "decimal": "&#8722;",
+      "name": "เครื่องหมายลบ",
+      "category": "เครื่องหมายคณิตศาสตร์"
+    },
+    {
+      "entity": "&times;",
+      "character": "×",
+      "code_point": "U+00D7",
+      "decimal": "&#215;",
+      "name": "เครื่องหมายคูณ",
+      "category": "เครื่องหมายคณิตศาสตร์"
+    },
+    {
+      "entity": "&divide;",
+      "character": "÷",
+      "code_point": "U+00F7",
+      "decimal": "&#247;",
+      "name": "เครื่องหมายหาร",
+      "category": "เครื่องหมายคณิตศาสตร์"
+    },
+    {
+      "entity": "&plusmn;",
+      "character": "±",
+      "code_point": "U+00B1",
+      "decimal": "&#177;",
+      "name": "เครื่องหมายบวก-ลบ",
+      "category": "เครื่องหมายคณิตศาสตร์"
+    },
+    {
+      "entity": "&ne;",
+      "character": "≠",
+      "code_point": "U+2260",
+      "decimal": "&#8800;",
+      "name": "เครื่องหมายไม่เท่ากับ",
+      "category": "เครื่องหมายคณิตศาสตร์"
+    },
+    {
+      "entity": "&le;",
+      "character": "≤",
+      "code_point": "U+2264",
+      "decimal": "&#8804;",
+      "name": "เครื่องหมายน้อยกว่าหรือเท่ากับ",
+      "category": "เครื่องหมายคณิตศาสตร์"
+    },
+    {
+      "entity": "&ge;",
+      "character": "≥",
+      "code_point": "U+2265",
+      "decimal": "&#8805;",
+      "name": "มากกว่าหรือเท่ากับ",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&asymp;",
+      "character": "≈",
+      "code_point": "U+2248",
+      "decimal": "&#8776;",
+      "name": "เกือบเท่ากับ",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&infin;",
+      "character": "∞",
+      "code_point": "U+221E",
+      "decimal": "&#8734;",
+      "name": "อนันต์",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&radic;",
+      "character": "√",
+      "code_point": "U+221A",
+      "decimal": "&#8730;",
+      "name": "รากที่สอง",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&sum;",
+      "character": "∑",
+      "code_point": "U+2211",
+      "decimal": "&#8721;",
+      "name": "ผลรวม N-Ary",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&prod;",
+      "character": "∏",
+      "code_point": "U+220F",
+      "decimal": "&#8719;",
+      "name": "ผลคูณ N-Ary",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&int;",
+      "character": "∫",
+      "code_point": "U+222B",
+      "decimal": "&#8747;",
+      "name": "ปริพันธ์",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&permil;",
+      "character": "‰",
+      "code_point": "U+2030",
+      "decimal": "&#8240;",
+      "name": "เครื่องหมายเปอร์มิลล์",
+      "category": "คณิตศาสตร์"
+    },
+    {
+      "entity": "&frac14;",
+      "character": "¼",
+      "code_point": "U+00BC",
+      "decimal": "&#188;",
+      "name": "เศษส่วนสามัญหนึ่งในสี่",
+      "category": "เศษส่วน"
+    },
+    {
+      "entity": "&frac12;",
+      "character": "½",
+      "code_point": "U+00BD",
+      "decimal": "&#189;",
+      "name": "เศษส่วนสามัญหนึ่งในสอง",
+      "category": "เศษส่วน"
+    },
+    {
+      "entity": "&frac34;",
+      "character": "¾",
+      "code_point": "U+00BE",
+      "decimal": "&#190;",
+      "name": "เศษส่วนสามัญสามในสี่",
+      "category": "เศษส่วน"
+    },
+    {
+      "entity": "&cent;",
+      "character": "¢",
+      "code_point": "U+00A2",
+      "decimal": "&#162;",
+      "name": "เครื่องหมายเซ็นต์",
+      "category": "สกุลเงิน"
+    },
+    {
+      "entity": "&pound;",
+      "character": "£",
+      "code_point": "U+00A3",
+      "decimal": "&#163;",
+      "name": "เครื่องหมายปอนด์",
+      "category": "สกุลเงิน"
+    },
+    {
+      "entity": "&yen;",
+      "character": "¥",
+      "code_point": "U+00A5",
+      "decimal": "&#165;",
+      "name": "เครื่องหมายเยน",
+      "category": "สกุลเงิน"
+    },
+    {
+      "entity": "&euro;",
+      "character": "€",
+      "code_point": "U+20AC",
+      "decimal": "&#8364;",
+      "name": "เครื่องหมายยูโร",
+      "category": "สกุลเงิน"
+    },
+    {
+      "entity": "&curren;",
+      "character": "¤",
+      "code_point": "U+00A4",
+      "decimal": "&#164;",
+      "name": "เครื่องหมายสกุลเงิน",
+      "category": "สกุลเงิน"
+    },
+    {
+      "entity": "&larr;",
+      "character": "←",
+      "code_point": "U+2190",
+      "decimal": "&#8592;",
+      "name": "ลูกศรชี้ซ้าย",
+      "category": "ลูกศร"
+    },
+    {
+      "entity": "&uarr;",
+      "character": "↑",
+      "code_point": "U+2191",
+      "decimal": "&#8593;",
+      "name": "ลูกศรชี้ขึ้น",
+      "category": "ลูกศร"
+    },
+    {
+      "entity": "&rarr;",
+      "character": "→",
+      "code_point": "U+2192",
+      "decimal": "&#8594;",
+      "name": "ลูกศรชี้ขวา",
+      "category": "ลูกศร"
+    },
+    {
+      "entity": "&darr;",
+      "character": "↓",
+      "code_point": "U+2193",
+      "decimal": "&#8595;",
+      "name": "ลูกศรชี้ลง",
+      "category": "ลูกศร"
+    },
+    {
+      "entity": "&harr;",
+      "character": "↔",
+      "code_point": "U+2194",
+      "decimal": "&#8596;",
+      "name": "ลูกศรซ้ายขวา",
+      "category": "ลูกศร"
+    },
+    {
+      "entity": "&lArr;",
+      "character": "⇐",
+      "code_point": "U+21D0",
+      "decimal": "&#8656;",
+      "name": "ลูกศรคู่ชี้ซ้าย",
+      "category": "ลูกศร"
+    },
+    {
+      "entity": "&rArr;",
+      "character": "⇒",
+      "code_point": "U+21D2",
+      "decimal": "&#8658;",
+      "name": "ลูกศรคู่ชี้ขวา",
+      "category": "ลูกศร"
+    },
+    {
+      "entity": "&Agrave;",
+      "character": "À",
+      "code_point": "U+00C0",
+      "decimal": "&#192;",
+      "name": "อักษรละตินตัวใหญ่ A มีเกรฟ",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Aacute;",
+      "character": "Á",
+      "code_point": "U+00C1",
+      "decimal": "&#193;",
+      "name": "อักษรละตินตัวใหญ่ A มีอะคิวต์",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Acirc;",
+      "character": "Â",
+      "code_point": "U+00C2",
+      "decimal": "&#194;",
+      "name": "อักษรละตินตัวใหญ่ A มีเซอร์คัมเฟล็กซ์",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Atilde;",
+      "character": "Ã",
+      "code_point": "U+00C3",
+      "decimal": "&#195;",
+      "name": "อักษรละตินตัวใหญ่ A มีทิลเดอ",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Auml;",
+      "character": "Ä",
+      "code_point": "U+00C4",
+      "decimal": "&#196;",
+      "name": "อักษรละตินตัวใหญ่ A มีไดแอริซิส",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Ccedil;",
+      "character": "Ç",
+      "code_point": "U+00C7",
+      "decimal": "&#199;",
+      "name": "อักษรละตินตัวใหญ่ C มีเซดิลลา",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Egrave;",
+      "character": "È",
+      "code_point": "U+00C8",
+      "decimal": "&#200;",
+      "name": "อักษรละตินตัวใหญ่ E มีเกรฟ",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Eacute;",
+      "character": "É",
+      "code_point": "U+00C9",
+      "decimal": "&#201;",
+      "name": "อักษรละตินตัวใหญ่ E มีอะคิวต์",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Ntilde;",
+      "character": "Ñ",
+      "code_point": "U+00D1",
+      "decimal": "&#209;",
+      "name": "อักษรละตินตัวใหญ่ N มีทิลเดอ",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Ouml;",
+      "character": "Ö",
+      "code_point": "U+00D6",
+      "decimal": "&#214;",
+      "name": "อักษรละตินตัวใหญ่ O มีไดแอริซิส",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&Uuml;",
+      "character": "Ü",
+      "code_point": "U+00DC",
+      "decimal": "&#220;",
+      "name": "อักษรละตินตัวใหญ่ U มีไดแอริซิส",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    },
+    {
+      "entity": "&szlig;",
+      "character": "ß",
+      "code_point": "U+00DF",
+      "decimal": "&#223;",
+      "name": "อักษรละตินตัวเล็ก Sharp S",
+      "category": "อักขระมีเครื่องหมายกำกับ"
+    }
+  ],
+  "meta": {
+    "seo_title": "รายการ HTML Character Entities - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 75 HTML character entities ฟรี ทั้งสัญลักษณ์และโค้ดที่จำเป็น มีให้ในรูปแบบ Excel, CSV และ PDF สำหรับนักพัฒนาเว็บและนักออกแบบ.",
+    "title": "ชุดข้อมูล HTML Character Entities และสัญลักษณ์พิเศษ",
+    "description": "ชุดข้อมูลนี้รวบรวมรายการ HTML character entities ที่ใช้บ่อย 75 รายการ พร้อมด้วยอักขระ, โค้ดพอยต์, โค้ดทศนิยม, ชื่อ และหมวดหมู่ เป็นแหล่งข้อมูลสำคัญสำหรับการพัฒนาเว็บ.",
+    "key_takeaways": [
+      "เข้าถึงรายการ HTML character entities และรายละเอียด 75 รายการที่สมบูรณ์.",
+      "สำรวจสัญลักษณ์ที่จำเป็น เช่น &amp;, &lt;, &gt;, &quot; และ &apos;.",
+      "ดาวน์โหลดโค้ดตัวอักษร (โค้ดพอยต์, ทศนิยม) เพื่อใช้อ้างอิงและรวมเข้ากับโปรเจกต์ได้อย่างง่ายดาย.",
+      "ใช้ข้อมูลนี้เพื่อให้แน่ใจว่าแสดงอักขขระพิเศษในเว็บแอปพลิเคชันได้อย่างถูกต้อง."
+    ],
+    "keywords": [
+      "html character entities thai",
+      "สัญลักษณ์ html พิเศษ",
+      "โค้ด entity html",
+      "ดาวน์โหลด html characters csv",
+      "html symbols excel",
+      "อักขระพิเศษ html"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในเว็บแอปพลิเคชันหรือฐานข้อมูล CMS ของคุณ เพื่อให้แสดงอักขระพิเศษได้อย่างถูกต้อง หรือใช้ในสคริปต์ Python สำหรับการวิเคราะห์เนื้อหา.",
+      "ใช้ไฟล์ **Excel** เพื่อกรอง, จัดเรียง และวิเคราะห์คุณสมบัติของอักขระสำหรับการจัดทำเอกสาร หรือเพื่อค้นหา entities ที่ต้องการได้อย่างรวดเร็วสำหรับโครงการออกแบบ.",
+      "พิมพ์เวอร์ชัน **PDF** เพื่อเป็นคู่มืออ้างอิงฉบับย่อแบบออฟไลน์ระหว่างการเขียนโค้ด หรือเพื่อวัตถุประสงค์ทางการศึกษาในชั้นเรียนการออกแบบเว็บ.",
+      "ใช้ประโยชน์จากชุดข้อมูลนี้เพื่อตรวจสอบและทำความสะอาดอินพุตของผู้ใช้ ป้องกันการโจมตี Cross-Site Scripting (XSS) โดยการเข้ารหัสอักขระพิเศษ HTML อย่างถูกต้อง."
+    ]
+  },
+  "record_count": 75,
+  "title": "ชุดข้อมูล HTML Character Entities และสัญลักษณ์พิเศษ"
+}

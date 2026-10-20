@@ -1,0 +1,663 @@
+{
+  "id": "business-thailand-industrial-estates",
+  "name": "นิคมอุตสาหกรรมในประเทศไทย",
+  "description": "รายชื่อนิคมอุตสาหกรรมในประเทศไทย 67 แห่ง จาก กนอ. พร้อมข้อมูลผู้พัฒนา ปีก่อตั้ง และเบอร์โทรติดต่อ",
+  "category": "business",
+  "source": "การนิคมอุตสาหกรรมแห่งประเทศไทย (กนอ.)",
+  "source_url": "https://www.ieat.go.th/th/factory",
+  "updated": "2026-02-21",
+  "columns": [
+    {
+      "key": "rank",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "ชื่อนิคมอุตสาหกรรม",
+      "type": "string"
+    },
+    {
+      "key": "nameEN",
+      "label": "ชื่อภาษาอังกฤษ",
+      "type": "string"
+    },
+    {
+      "key": "developer",
+      "label": "ผู้พัฒนา",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "ปีก่อตั้ง",
+      "type": "number"
+    },
+    {
+      "key": "phone",
+      "label": "โทรศัพท์",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "เว็บไซต์",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "โครงการนิคมอุตสาหกรรมยางพารา (Rubber City) ในนิคมอุตสาหกรรมภาคใต้",
+      "nameEN": "Rubber City Industrial Estate Project in The Southern Region",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย (กนอ.)",
+      "established": 2558,
+      "phone": "0 7420 6033",
+      "website": "https://south-s.ieat.go.th/th"
+    },
+    {
+      "rank": 2,
+      "name": "โครงการนิคมอุตสาหกรรมเฮอร์มีส",
+      "nameEN": "Hermes Industrial Estate Project",
+      "developer": "บริษัท เฮอร์มีส โคออพเปอเรชั่น จำกัด",
+      "established": 2567,
+      "phone": "083-918-9999",
+      "website": ""
+    },
+    {
+      "rank": 3,
+      "name": "นิคมอุตสาหกรรมเกตเวย์ซิตี้",
+      "nameEN": "Gateway City Industrial Estate",
+      "developer": "บริษัท เอ็ม ดี เอ็กซ์ จำกัด (มหาชน)",
+      "established": 2533,
+      "phone": "0 2302 2300, 0 3857 5277-84, 0 3857 5398",
+      "website": "http://www.gatewaycity.net"
+    },
+    {
+      "rank": 4,
+      "name": "นิคมอุตสาหกรรมแก่งคอย",
+      "nameEN": "Kaeng Khoi Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2533,
+      "phone": "0 2253 0561",
+      "website": "https://kaengkhoi.ieat.go.th/th"
+    },
+    {
+      "rank": 5,
+      "name": "นิคมอุตสาหกรรมซีพีจีซี",
+      "nameEN": "CPGC Industrial Estate",
+      "developer": "บริษัท ซีจี คอร์เปอเรชั่น จำกัด",
+      "established": 2561,
+      "phone": null,
+      "website": "http://www.cg-corp.com"
+    },
+    {
+      "rank": 6,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอชลบุรี",
+      "nameEN": "WHA Chonburi Industrial Estate",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2532,
+      "phone": "0 3834 5234",
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 7,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี (โครงการ 2)",
+      "nameEN": "WHA Chonburi Industrial Estate Project 2",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2556,
+      "phone": "0 3308 7212-4",
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 8,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอ ตะวันออก (มาบตาพุด)",
+      "nameEN": "WHA Eastern Industrial Estate Map Ta Phut",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2532,
+      "phone": "02 719 9555",
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 9,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอระยอง 36",
+      "nameEN": "WHA Rayong 36 Industrial Estate",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2558,
+      "phone": "02 719 9555",
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 10,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอ อินดัสเตรียล เอสเตท ระยอง",
+      "nameEN": "WHA Industrial Estate Rayong",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": null,
+      "phone": null,
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 11,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด",
+      "nameEN": "WHA Industrial Estate Eastern Seaboard",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2542,
+      "phone": "0 3895 0475-6",
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 12,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด 4",
+      "nameEN": "WHA Industrial Estate Eastern Seaboard 4",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2557,
+      "phone": "0 2719 9555 , 0 3895 0475-6",
+      "website": "http://www.hemaraj.com"
+    },
+    {
+      "rank": 13,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด แห่งที่ 2",
+      "nameEN": "WHA Industrial Estate Eastern Seaboard 2",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2557,
+      "phone": "0 3895 0475-6",
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 14,
+      "name": "นิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด แห่งที่ 3",
+      "nameEN": "WHA Industrial Estate Eastern Seaboard 3",
+      "developer": "บริษัท ดับบลิวเอชเอ อินดัสเตรียล ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "established": 2557,
+      "phone": "0 2719 9555",
+      "website": "http://www.wha-industrialestate.com"
+    },
+    {
+      "rank": 15,
+      "name": "นิคมอุตสาหกรรมที เอฟ ดี",
+      "nameEN": "TFD Industrial Estate",
+      "developer": "บริษัท เจซีเค อินเตอร์เนชั่นแนล จำกัด(มหาชน)",
+      "established": 2550,
+      "phone": "0 2676 4031-6",
+      "website": "http://www.tfd-factory.com"
+    },
+    {
+      "rank": 16,
+      "name": "นิคมอุตสาหกรรมที เอฟ ดี 2",
+      "nameEN": "TFD Industrial Estate 2",
+      "developer": "บริษัท เจซีเค อินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+      "established": 2559,
+      "phone": "02-6764-031-6, 089-669-0488",
+      "website": "http://www.tfd-factory.com"
+    },
+    {
+      "rank": 17,
+      "name": "นิคมอุตสาหกรรมนครหลวง",
+      "nameEN": "Nakhon Luang Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2537,
+      "phone": "0 3595 0559",
+      "website": "https://nkl.ieat.go.th/th"
+    },
+    {
+      "rank": 18,
+      "name": "นิคมอุตสาหกรรมบ่อทอง33",
+      "nameEN": "Borthong33 Industrial Estate",
+      "developer": "Borthong Industrial Technology Co., Ltd.",
+      "established": 2562,
+      "phone": "02-631-8856, -7",
+      "website": "http://www.jinchi33.com"
+    },
+    {
+      "rank": 19,
+      "name": "นิคมอุตสาหกรรมบางชัน",
+      "nameEN": "Bangchan Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2515,
+      "phone": "0 2517 0744, 0 2517 1895, 0 2517 9653",
+      "website": "https://bcn.ieat.go.th/th"
+    },
+    {
+      "rank": 20,
+      "name": "นิคมอุตสาหกรรมบางปะอิน",
+      "nameEN": "Bangpa-IN Industrial Estate",
+      "developer": "บริษัท ที่ดินบางปะอิน จำกัด",
+      "established": 2532,
+      "phone": "035 258 395-8",
+      "website": "http://www.bangpainestate.com"
+    },
+    {
+      "rank": 21,
+      "name": "นิคมอุตสาหกรรมบางปู",
+      "nameEN": "Bangpoo Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2520,
+      "phone": "0 2709 3450-3",
+      "website": "https://bangpoo.ieat.go.th/th"
+    },
+    {
+      "rank": 22,
+      "name": "นิคมอุตสาหกรรมบางปูเหนือ",
+      "nameEN": "Bangpoo Nuea Industrial Estate",
+      "developer": "บริษัท ไทย บอนเนต เทรดดิ้ง โซน จำกัด",
+      "established": 2556,
+      "phone": "0 2117 1500",
+      "website": ""
+    },
+    {
+      "rank": 23,
+      "name": "นิคมอุตสาหกรรมบางพลี",
+      "nameEN": "Bangplee Industrial Estate",
+      "developer": "การเคหะแห่งชาติ",
+      "established": 2532,
+      "phone": "0 2705 0657-8",
+      "website": "https://bangplee.ieat.go.th/th"
+    },
+    {
+      "rank": 24,
+      "name": "นิคมอุตสาหกรรมบ้านบึง",
+      "nameEN": "Ban Bueng Industrial Estate",
+      "developer": "บริษัท เอส ที พาวเวอร์ กรุ๊ป จำกัด",
+      "established": 2554,
+      "phone": "0 2570 9121",
+      "website": ""
+    },
+    {
+      "rank": 25,
+      "name": "นิคมอุตสาหกรรมบ้านหว้า(ไฮเทค)",
+      "nameEN": "Hi-Tech Industrial Estate",
+      "developer": "บริษัท ไทยอินดัสเตรียล เอสเตท จำกัด",
+      "established": 2532,
+      "phone": "035-350-144-5, 035-350-142",
+      "website": "http://www.hitechindustrialgroup.com"
+    },
+    {
+      "rank": 26,
+      "name": "นิคมอุตสาหกรรมปิ่นทอง",
+      "nameEN": "Pinthong Industrial Estate",
+      "developer": "บริษัท ปิ่นทอง อินดัสเตรียล ปาร์ค จำกัด (มหาชน)",
+      "established": 2538,
+      "phone": "083-117-2090, 038-296334-7",
+      "website": "http://www.pinthongindustrial.com"
+    },
+    {
+      "rank": 27,
+      "name": "นิคมอุตสาหกรรมปิ่นทอง (โครงการ 3)",
+      "nameEN": "Pinthong Industrial Estate Project 3",
+      "developer": "บริษัท ปิ่นทอง อินดัสเตรียล ปาร์ค จำกัด (มหาชน)",
+      "established": 2551,
+      "phone": "083-117-2090, 038-296334-7",
+      "website": "http://www.pinthongindustrial.com"
+    },
+    {
+      "rank": 28,
+      "name": "นิคมอุตสาหกรรมปิ่นทอง (โครงการ 4)",
+      "nameEN": "Pinthong Industrial Estate Project 4",
+      "developer": "บริษัท ปิ่นทอง อินดัสเตรียล ปาร์ค จำกัด (มหาชน)",
+      "established": 2557,
+      "phone": "083-117-2090, 038-296334-7",
+      "website": "http://www.pinthongindustrial.com"
+    },
+    {
+      "rank": 29,
+      "name": "นิคมอุตสาหกรรมปิ่นทอง (โครงการ 5)",
+      "nameEN": "Pinthong Industrial Estate Project 5",
+      "developer": "บริษัท ปิ่นทอง อินดัสเตรียล ปาร์ค จำกัด (มหาชน)",
+      "established": 2557,
+      "phone": "083-117-2090, 038-296334-7",
+      "website": "http://www.pinthongindustrial.com"
+    },
+    {
+      "rank": 30,
+      "name": "นิคมอุตสาหกรรมปิ่นทอง (โครงการ 6) จังหวัดระยอง",
+      "nameEN": "Pinthong Industrial Estate Project 6 Rayong Province",
+      "developer": "บริษัท ปิ่นทอง อินดัสเตรียล ปาร์ค จำกัด (มหาชน)",
+      "established": 2563,
+      "phone": "083-117-2090, 038-296334-7",
+      "website": "http://www.pinthongindustrial.com"
+    },
+    {
+      "rank": 31,
+      "name": "นิคมอุตสาหกรรมปิ่นทอง (แหลมฉบัง)",
+      "nameEN": "Pinthong Industrial Estate Laem Chabang",
+      "developer": "บริษัท ปิ่นทอง อินดัสเตรียล ปาร์ค จำกัด (มหาชน)",
+      "established": 2547,
+      "phone": "083-117-2090, 038-296334-7",
+      "website": "http://www.pinthongindustrial.com"
+    },
+    {
+      "rank": 32,
+      "name": "นิคมอุตสาหกรรมผาแดง",
+      "nameEN": "Padaeng Industrial Estate",
+      "developer": "บริษัท ผาแดงพร็อบเพอร์ตี้ส์ จำกัด (มหาชน)",
+      "established": 2537,
+      "phone": "0 3868 3318-20",
+      "website": ""
+    },
+    {
+      "rank": 33,
+      "name": "นิคมอุตสาหกรรมพิจิตร",
+      "nameEN": "Phichit Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2541,
+      "phone": "0 5669 2191-2",
+      "website": "https://phichit.ieat.go.th/th"
+    },
+    {
+      "rank": 34,
+      "name": "นิคมอุตสาหกรรมแพรกษา อินดัสเทรียลล์",
+      "nameEN": "Bhakasa Industrial Industrial Estate",
+      "developer": "บริษัท วีเอ็นเอส พร็อพเพอร์ตี้ จำกัด",
+      "established": 2562,
+      "phone": "062-474-4659, 096-828-8888",
+      "website": "https://www.bhakasaindustrial.com"
+    },
+    {
+      "rank": 35,
+      "name": "นิคมอุตสาหกรรมภาคใต้ จ.สงขลา",
+      "nameEN": "Southern Region Industrial Estate Songkhla Provincial",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2527,
+      "phone": "0 7420 6033",
+      "website": "https://south-s.ieat.go.th/th"
+    },
+    {
+      "rank": 36,
+      "name": "นิคมอุตสาหกรรมภาคเหนือ",
+      "nameEN": "Northern Region industrial estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2528,
+      "phone": "0 5358 1061",
+      "website": "https://nrie.ieat.go.th/th"
+    },
+    {
+      "rank": 37,
+      "name": "นิคมอุตสาหกรรมมหาราชนคร",
+      "nameEN": "Maharaj Nakorn Industrial Estate",
+      "developer": "บริษัท มหาราชนคร จำกัด",
+      "established": 2550,
+      "phone": "0 2253 5577",
+      "website": ""
+    },
+    {
+      "rank": 38,
+      "name": "นิคมอุตสาหกรรมมาบตาพุด",
+      "nameEN": "Map Ta Phut Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2532,
+      "phone": "0 3868 3930-6",
+      "website": "https://maptaphut.ieat.go.th/th"
+    },
+    {
+      "rank": 39,
+      "name": "นิคมอุตสาหกรรมยามาโตะอินดัสทรีส์",
+      "nameEN": "Yamato Industries Industrial Estate",
+      "developer": "บริษัท อเมริกัน บิวเดอร์ จำกัด",
+      "established": null,
+      "phone": "038-219126, 091-776-9805",
+      "website": "https://th.ymt-th.com"
+    },
+    {
+      "rank": 40,
+      "name": "นิคมอุตสาหกรรมราชบุรี",
+      "nameEN": "Ratchaburi Industrial Estate",
+      "developer": "บริษัท มหาชัยพัฒนาที่ดิน จำกัด",
+      "established": 2541,
+      "phone": "02 399 2478-9, 032 240 618-9, 08 1315 6447",
+      "website": "http://www.industrial-land.com"
+    },
+    {
+      "rank": 41,
+      "name": "นิคมอุตสาหกรรมโรจนะแหลมฉบัง จังหวัดชลบุรี",
+      "nameEN": "Rojana Industrial Estate Laem Chabang Chonburi Province",
+      "developer": "บริษัท สวนอุตสาหกรรมโรจนะ จำกัด (มหาชน)",
+      "established": 2558,
+      "phone": "02-716-1750, 038-197-198",
+      "website": "http://www.rojana.com"
+    },
+    {
+      "rank": 42,
+      "name": "นิคมอุตสาหกรรมลาดกระบัง",
+      "nameEN": "Lat Krabang Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2521,
+      "phone": "0 2326 0221-3, 0 2326 0137, 0 2326 0234",
+      "website": "https://latkrabang.ieat.go.th/th"
+    },
+    {
+      "rank": 43,
+      "name": "นิคมอุตสาหกรรมเวลโกรว์",
+      "nameEN": "Wellgrow Industrial Estate",
+      "developer": "บริษัท เวลโกรว์ อินดัสทรีส์ จำกัด",
+      "established": 2532,
+      "phone": "0 3857 0001, 0 3857 0522-3",
+      "website": ""
+    },
+    {
+      "rank": 44,
+      "name": "นิคมอุตสาหกรรมเวิลด์ ลำพูน",
+      "nameEN": "World Lamphun Industrial Estate",
+      "developer": "บริษัท เวิลด์ อินดัสเทรียล เอสเตท จำกัด",
+      "established": 2555,
+      "phone": "0 2650 1192",
+      "website": ""
+    },
+    {
+      "rank": 45,
+      "name": "นิคมอุตสาหกรรมสงขลา",
+      "nameEN": "Songkhla Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย (กนอ.)",
+      "established": 2562,
+      "phone": "0 2253 0561",
+      "website": "https://south-sd.ieat.go.th/th"
+    },
+    {
+      "rank": 46,
+      "name": "นิคมอุตสาหกรรม สมาร์ทปาร์ค",
+      "nameEN": "",
+      "developer": null,
+      "established": null,
+      "phone": "02-253-0561",
+      "website": "https://sp.ieat.go.th/th"
+    },
+    {
+      "rank": 47,
+      "name": "นิคมอุตสาหกรรมสมุทรสาคร",
+      "nameEN": "Samut Sakhon Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2533,
+      "phone": "0 3449 0066-9",
+      "website": "https://samutsakhon.ieat.go.th/th"
+    },
+    {
+      "rank": 48,
+      "name": "นิคมอุตสาหกรรมสระแก้ว",
+      "nameEN": "Sa Kaeo Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "established": 2560,
+      "phone": "0614692958",
+      "website": "https://sakaeo.ieat.go.th/th"
+    },
+    {
+      "rank": 49,
+      "name": "นิคมอุตสาหกรรมสินสาคร",
+      "nameEN": "Sinsakhon Industrial Estate",
+      "developer": "บริษัท ซี.เอ.เอส. แอสเซท จำกัด",
+      "established": null,
+      "phone": "0 3445 2222 , 0 3445 2022",
+      "website": "http://www.sinsakhon.com"
+    },
+    {
+      "rank": 50,
+      "name": "นิคมอุตสาหกรรมหนองแค",
+      "nameEN": "Nong Khae Industrial Estate",
+      "developer": null,
+      "established": null,
+      "phone": null,
+      "website": ""
+    },
+    {
+      "rank": 51,
+      "name": "นิคมอุตสาหกรรมหลักชัยเมืองยาง",
+      "nameEN": "Lakchai Industrial Estate Muang Yang",
+      "developer": "บริษัท ไทรเบคก้า เอ็นเตอร์ไพร์ส จำกัด",
+      "established": 2554,
+      "phone": "0 2274 1673-4",
+      "website": "http://www.lk-rich.com"
+    },
+    {
+      "rank": 52,
+      "name": "นิคมอุตสาหกรรมแหลมฉบัง",
+      "nameEN": "Laem Chabang Industrial Estate",
+      "developer": "การนิคมอุตสาหกรรมแห่งประเทศไทย (กนอ.)",
+      "established": 2525,
+      "phone": "038490942-9",
+      "website": "https://lcb.ieat.go.th/th"
+    },
+    {
+      "rank": 53,
+      "name": "นิคมอุตสาหกรรมอมตะซิตี้ ชลบุรี",
+      "nameEN": "Amata City Chonburi Industrial Estate",
+      "developer": "บริษัท อมตะ คอร์ปอเรชัน จำกัด (มหาชน)",
+      "established": 2532,
+      "phone": "038 457 002-4",
+      "website": "http://www.amata.com"
+    },
+    {
+      "rank": 54,
+      "name": "นิคมอุตสาหกรรมอมตะซิตี้ ระยอง",
+      "nameEN": "Amata City Rayong Industrial Estate",
+      "developer": "บริษัท อมตะซิตี้ ระยอง จำกัด",
+      "established": 2549,
+      "phone": null,
+      "website": "http://www.amata.com"
+    },
+    {
+      "rank": 55,
+      "name": "นิคมอุตสาหกรรมอมตะซิตี้ สมาร์ทซิตี้ ชลบุรี",
+      "nameEN": "Amata Smart City Chonburi Industrial Estate",
+      "developer": "บริษัท อมตะ คอร์ปอเรชัน จำกัด (มหาชน)",
+      "established": 2553,
+      "phone": null,
+      "website": "http://www.amata.com"
+    },
+    {
+      "rank": 56,
+      "name": "นิคมอุตสาหกรรมอัญธานี",
+      "nameEN": "Gemopolis Industrial Estate",
+      "developer": "บริษัท ไอ.จี.เอส จำกัด (มหาชน)",
+      "established": 2536,
+      "phone": "0 2727 0190, 0 2727 0000, 0 2727 0021-9",
+      "website": "http://www.gemopolis.com"
+    },
+    {
+      "rank": 57,
+      "name": "นิคมอุตสาหกรรมอารยะ",
+      "nameEN": "Araya Eastern Gateway Industrial Estate",
+      "developer": null,
+      "established": null,
+      "phone": null,
+      "website": ""
+    },
+    {
+      "rank": 58,
+      "name": "นิคมอุตสาหกรรมอาร์ ไอ แอล",
+      "nameEN": "RIL Industrial Estate",
+      "developer": "บริษัท อาร์ ไอ แอล 1996 จำกัด",
+      "established": 2532,
+      "phone": "0 3891 5284-7 , 0 3893 7000",
+      "website": ""
+    },
+    {
+      "rank": 59,
+      "name": "นิคมอุตสาหกรรมอีสเทิร์นซีบอร์ด(ระยอง)",
+      "nameEN": "Eastern Seaboard Industrial Estate Rayong",
+      "developer": "บริษัท เหมราชพัฒนาที่ดิน จำกัด (มหาชน)",
+      "established": 2539,
+      "phone": "0 3895 4543-4",
+      "website": "http://www.hemaraj.com"
+    },
+    {
+      "rank": 60,
+      "name": "นิคมอุตสาหกรรมอุดรธานี",
+      "nameEN": "Udon Thani Industrial Estate",
+      "developer": "บริษัท เมืองอุตสาหกรรมอุดรธานี จำกัด",
+      "established": 2557,
+      "phone": "0 4224 4771-4",
+      "website": "http://www.udonindustrial.com"
+    },
+    {
+      "rank": 61,
+      "name": "นิคมอุตสาหกรรมเอเชีย คลีน ชลบุรี",
+      "nameEN": "Asia Clean Industrial Estate Chonburi",
+      "developer": "บริษัท เอเชีย คลีน อินดัสเตรียล เอสเตท จำกัด",
+      "established": 2563,
+      "phone": null,
+      "website": "http://www.acie.co.th"
+    },
+    {
+      "rank": 62,
+      "name": "นิคมอุตสาหกรรมเอเซีย",
+      "nameEN": "Asia Industrial Estate",
+      "developer": "บริษัท นิคมอุตสาหกรรมเอเซีย จำกัด",
+      "established": 2544,
+      "phone": "038 689 123-5",
+      "website": "http://www.asiaindustrialestate.com"
+    },
+    {
+      "rank": 63,
+      "name": "นิคมอุตสาหกรรมเอเซีย (สุวรรณภูมิ)",
+      "nameEN": "Asia Industrial Estate Suvarnabhumi",
+      "developer": "บริษัท นิคมอุตสาหกรรมเอเซีย จำกัด",
+      "established": 2551,
+      "phone": null,
+      "website": "http://www.asiaindustrialestate.com"
+    },
+    {
+      "rank": 64,
+      "name": "นิคมอุตสาหกรรมเอเพ็กซ์กรีน อินดัสเตรียล เอสเตท",
+      "nameEN": "Apex green Industrial Estate",
+      "developer": "บริษัท เอเพ็กซ์ ปาร์ค จำกัด",
+      "established": 2565,
+      "phone": "095-454-1154",
+      "website": ""
+    },
+    {
+      "rank": 65,
+      "name": "นิคมอุตสาหกรรม เอส อ่างทอง",
+      "nameEN": "S Industrial Estate Angthong",
+      "developer": "บริษัท เอส อินดัสเทรียล เอสเตท จำกัด",
+      "established": 2563,
+      "phone": null,
+      "website": "https://www.singhaestate.co.th/en/business/infrastructure/#about-us"
+    },
+    {
+      "rank": 66,
+      "name": "นิคมอุตสาหกรรมแอลพีพี นครสวรรค์",
+      "nameEN": "LPP Nakhon Sawan Industrial Estate",
+      "developer": null,
+      "established": null,
+      "phone": null,
+      "website": ""
+    },
+    {
+      "rank": 67,
+      "name": "นิคมอุตสาหกรรมไฮเทค กบินทร์",
+      "nameEN": "Hi-Tech Kabin Industrial Estate",
+      "developer": "บริษัท ไฮเทค กบินทร์ โลจิสติกส์ จำกัด",
+      "established": 2556,
+      "phone": "037-480-784",
+      "website": "http://www.hitechindustrialgroup.com"
+    }
+  ],
+  "meta": {
+    "title": "นิคมอุตสาหกรรมในประเทศไทย",
+    "description": "รายชื่อนิคมอุตสาหกรรมในประเทศไทย 67 แห่ง",
+    "seo_title": "นิคมอุตสาหกรรมในประเทศไทย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดข้อมูล 67 นิคมอุตสาหกรรมในประเทศไทย ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูลครบ 67 นิคมอุตสาหกรรม",
+      "รวมข้อมูล: ลำดับ, ชื่อนิคมอุตสาหกรรม, ชื่อภาษาอังกฤษ",
+      "ดาวน์โหลดได้ในรูปแบบ Excel, CSV หรือ PDF",
+      "ฟรีสำหรับใช้งานส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

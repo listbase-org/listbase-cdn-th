@@ -1,0 +1,355 @@
+{
+  "id": "reference-vietnam-presidents",
+  "name": "รายชื่อประธานาธิบดีเวียดนาม",
+  "title": "รายชื่อประธานาธิบดีเวียดนาม",
+  "description": "รายชื่อประธานาธิบดีและประมุขแห่งรัฐของเวียดนามตั้งแต่ปี พ.ศ. 2488 จนถึงปัจจุบัน รวมถึงประธานาธิบดีสาธารณรัฐประชาธิปไตยเวียดนาม ประธานสภาที่ปรึกษาแห่งสาธารณรัฐเวียดนามใต้ ประธานาธิบดี และประธานสภาแห่งรัฐแห่งสาธารณรัฐสังคมนิยมเวียดนาม พร้อมข้อมูลชื่อ, ไฟล์ภาพ, วันที่เริ่มและสิ้นสุดวาระ, ระยะเวลาดำรงตำแหน่ง, ลำดับในพรรค, ตำแหน่งก่อนหน้า และพรรคการเมือง",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1",
+  "updated": "2024-05-22",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "order_number",
+      "label": "ลำดับ",
+      "type": "string"
+    },
+    {
+      "key": "image_filename",
+      "label": "ไฟล์ภาพ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "รายนาม",
+      "type": "string"
+    },
+    {
+      "key": "birth_death_years",
+      "label": "เกิด-เสียชีวิต",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "เริ่มดำรงตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "สิ้นสุดวาระ",
+      "type": "string"
+    },
+    {
+      "key": "term_duration",
+      "label": "ระยะเวลาดำรงตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "party_order",
+      "label": "ลำดับในพรรค",
+      "type": "string"
+    },
+    {
+      "key": "previous_position",
+      "label": "ตำแหน่งก่อนหน้า",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "พรรค",
+      "type": "string"
+    },
+    {
+      "key": "title_type",
+      "label": "ตำแหน่งประมุขแห่งรัฐ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order_number": "1 (1)",
+      "image_filename": "Ho Chi Minh 1946.jpg",
+      "name_th": "โฮจิมินห์",
+      "birth_death_years": "2433–2512",
+      "term_start": "2 กันยายน พ.ศ. 2488",
+      "term_end": "2 กันยายน พ.ศ. 2512",
+      "term_duration": "",
+      "party_order": "1",
+      "previous_position": "",
+      "party": "พรรคคอมมิวนิสต์อินโดจีน (ถึงปี 2494)\nพรรคแรงงานเวียดนาม (ตั้งแต่ 2494)",
+      "title_type": "ประธานาธิบดีสาธารณรัฐประชาธิปไตยเวียดนาม"
+    },
+    {
+      "order_number": "",
+      "image_filename": "Tôn Đức Thắng.jpg",
+      "name_th": "โตน ดึ๊ก ทั้ง",
+      "birth_death_years": "2431–2523",
+      "term_start": "3 กันยายน พ.ศ. 2512",
+      "term_end": "23 กันยายน พ.ศ. 2512",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "",
+      "party": "พรรคแรงงานเวียดนาม",
+      "title_type": "ประธานาธิบดีสาธารณรัฐประชาธิปไตยเวียดนาม"
+    },
+    {
+      "order_number": "2 (2)",
+      "image_filename": "Tôn Đức Thắng.jpg",
+      "name_th": "โตน ดึ๊ก ทั้ง",
+      "birth_death_years": "2431–2523",
+      "term_start": "23 กันยายน พ.ศ. 2512",
+      "term_end": "2 กรกฎาคม พ.ศ. 2519",
+      "term_duration": "",
+      "party_order": "1",
+      "previous_position": "",
+      "party": "พรรคแรงงานเวียดนาม",
+      "title_type": "ประธานาธิบดีสาธารณรัฐประชาธิปไตยเวียดนาม"
+    },
+    {
+      "order_number": "1",
+      "image_filename": "Nguyễn Hữu Thọ.jpg",
+      "name_th": "เหงียน หืว เถาะ",
+      "birth_death_years": "2453–2539",
+      "term_start": "8 มิถุนายน พ.ศ. 2512",
+      "term_end": "2 กรกฎาคม พ.ศ. 2519",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "",
+      "party": "People's Revolutionary Party of Vietnam (influenced by Worker's Party of Vietnam)",
+      "title_type": "ประธานสภาที่ปรึกษาแห่งสาธารณรัฐเวียดนามใต้"
+    },
+    {
+      "order_number": "2 (1)",
+      "image_filename": "Tôn Đức Thắng.jpg",
+      "name_th": "โตน ดึ๊ก ทั้ง",
+      "birth_death_years": "2431–2523",
+      "term_start": "2 กรกฎาคม พ.ศ. 2519",
+      "term_end": "30 มีนาคม พ.ศ. 2523",
+      "term_duration": "",
+      "party_order": "1",
+      "previous_position": "ประธานาธิบดีสาธารณรัฐประชาธิปไตยเวียดนาม (พ.ศ. 2512-2519)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "",
+      "image_filename": "Nguyễn Hữu Thọ.jpg",
+      "name_th": "เหงียน หืว เถาะ",
+      "birth_death_years": "2453–2539",
+      "term_start": "30 มีนาคม พ.ศ. 2523",
+      "term_end": "4 กรกฎาคม พ.ศ. 2524",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "รองประธานาธิบดีเวียดนาม",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "3 (2)",
+      "image_filename": "TruongChinh1955.jpg",
+      "name_th": "เจื่อง จิญ",
+      "birth_death_years": "2450–2531",
+      "term_start": "4 กรกฎาคม พ.ศ. 2524",
+      "term_end": "17 มิถุนายน พ.ศ. 2530",
+      "term_duration": "",
+      "party_order": "2",
+      "previous_position": "ประธานรัฐสภา (2503-2524)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานสภาแห่งรัฐแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "4 (3)",
+      "image_filename": "",
+      "name_th": "หวอ จี๊ กง",
+      "birth_death_years": "2455–2554",
+      "term_start": "18 มิถุนายน พ.ศ. 2530",
+      "term_end": "24 กันยายน พ.ศ. 2535",
+      "term_duration": "",
+      "party_order": "3",
+      "previous_position": "รัฐมนตรีว่าการกระทรวงเกษตรและพัฒนาชนบท (2520-2522)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานสภาแห่งรัฐแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "5 (4)",
+      "image_filename": "",
+      "name_th": "เล ดึ๊ก อัญ",
+      "birth_death_years": "2463–2562",
+      "term_start": "24 กันยายน พ.ศ. 2535",
+      "term_end": "24 กันยายน พ.ศ. 2540",
+      "term_duration": "",
+      "party_order": "2",
+      "previous_position": "Chief of the General Staff (2529–2530)\nรัฐมนตรีว่าการกระทรวงกลาโหมเวียดนาม (2530–2534)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "6 (5)",
+      "image_filename": "Tran Duc Luong, Nov 17, 2004.jpg",
+      "name_th": "เจิ่น ดึ๊ก เลือง",
+      "birth_death_years": "2480–2568",
+      "term_start": "24 กันยายน พ.ศ. 2540",
+      "term_end": "27 มิถุนายน พ.ศ. 2549",
+      "term_duration": "",
+      "party_order": "2",
+      "previous_position": "รองนายกรัฐมนตรีเวียดนาม (2530–2540)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "7 (6)",
+      "image_filename": "Mr. Nguyen Minh Triet.jpg",
+      "name_th": "เหงียน มิญ เจี๊ยต",
+      "birth_death_years": "2485–",
+      "term_start": "27 มิถุนายน พ.ศ. 2549",
+      "term_end": "25 กรกฎาคม พ.ศ. 2554",
+      "term_duration": "",
+      "party_order": "4",
+      "previous_position": "Head of the Central Mass Mobilization Commission of the Communist Party of Vietnam (2540–2543)\nSecretary of the Ho Chi Minh City Party Committee (2543–2549)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "8 (7)",
+      "image_filename": "Truong Tan Sang 2015.jpg",
+      "name_th": "เจือง เติ๊น ซาง",
+      "birth_death_years": "2492–",
+      "term_start": "25 กรกฎาคม พ.ศ. 2554",
+      "term_end": "2 เมษายน พ.ศ. 2559",
+      "term_duration": "",
+      "party_order": "1",
+      "previous_position": "Secretary of the Ho Chi Minh City Party Committee (1996–2000)\nHead of the Party Central Committee Economic Commission (2543–2546)\nExecutive Secretary of the Communist Party (2549–2554)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "9 (8)",
+      "image_filename": "Tran Dai Quang 2017.jpg",
+      "name_th": "เจิ่น ดั่ย กวาง",
+      "birth_death_years": "2499–2561",
+      "term_start": "2 เมษายน พ.ศ. 2559",
+      "term_end": "21 กันยายน พ.ศ. 2561",
+      "term_duration": "",
+      "party_order": "2",
+      "previous_position": "รัฐมนตรีว่าการกระทรวงความมั่นคงสาธารณะ (2554–2559)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "",
+      "image_filename": "Mrs. Dang Thi Ngoc Thinh.jpg",
+      "name_th": "ดั่ง ถิ หง็อก ถิ่ญ",
+      "birth_death_years": "2502–",
+      "term_start": "21 กันยายน พ.ศ. 2561",
+      "term_end": "23 ตุลาคม พ.ศ. 2561",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "รองประธานาธิบดีเวียดนาม",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "10 (9)",
+      "image_filename": "Nguyen Phu Trong 2013.jpg",
+      "name_th": "เหงียน ฟู้ จ่อง",
+      "birth_death_years": "2487–2567",
+      "term_start": "23 ตุลาคม พ.ศ. 2561",
+      "term_end": "5 เมษายน พ.ศ. 2564",
+      "term_duration": "",
+      "party_order": "1",
+      "previous_position": "เลขาธิการพรรคคอมมิวนิสต์เวียดนาม (2554–)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "11 (10)",
+      "image_filename": "Nguyen Xuan Phuc 2022.jpg",
+      "name_th": "เหงียน ซวน ฟุก",
+      "birth_death_years": "2497–",
+      "term_start": "5 เมษายน พ.ศ. 2564",
+      "term_end": "18 มกราคม พ.ศ. 2566 (ลาออก)",
+      "term_duration": "",
+      "party_order": "2",
+      "previous_position": "นายกรัฐมนตรีเวียดนาม (2559–2564)",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "",
+      "image_filename": "Courtesy Call of Vice President Vo Thi Anh Xuan of the Socialist Republic of Vietnam 7 1 2022 0-18 screenshot.jpg",
+      "name_th": "หวอ ถิ อั๊ญ ซวน",
+      "birth_death_years": "2513–",
+      "term_start": "18 มกราคม พ.ศ. 2566",
+      "term_end": "2 มีนาคม พ.ศ. 2566",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "รองประธานาธิบดีเวียดนาม",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "12 (11)",
+      "image_filename": "Võ Văn Thưởng in Italy.jpg",
+      "name_th": "หวอ วัน เถือง",
+      "birth_death_years": "2513–",
+      "term_start": "2 มีนาคม พ.ศ. 2566",
+      "term_end": "21 มีนาคม พ.ศ. 2567",
+      "term_duration": "",
+      "party_order": "4",
+      "previous_position": "เลขาธิการพรรคคอมมิวนิสต์แห่งคณะกรรมการกลางเวียดนาม",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "",
+      "image_filename": "Courtesy Call of Vice President Vo Thi Anh Xuan of the Socialist Republic of Vietnam 7 1 2022 0-18 screenshot.jpg",
+      "name_th": "หวอ ถิ อั๊ญ ซวน",
+      "birth_death_years": "2513–",
+      "term_start": "21 มีนาคม พ.ศ. 2567",
+      "term_end": "22 พฤษภาคม พ.ศ. 2567",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "รองประธานาธิบดีเวียดนาม",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "13",
+      "image_filename": "To Lam October 2022.jpg",
+      "name_th": "โต เลิม",
+      "birth_death_years": "1957–",
+      "term_start": "22 พฤษภาคม พ.ศ. 2567",
+      "term_end": "21 ตุลาคม พ.ศ. 2567",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "รัฐมนตรีว่าการกระทรวงความมั่นคงมหาชน",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    },
+    {
+      "order_number": "14",
+      "image_filename": "ĐT Luongcuong.jpg",
+      "name_th": "เลือง เกื่อง",
+      "birth_death_years": "1957–",
+      "term_start": "21 ตุลาคม พ.ศ. 2567",
+      "term_end": "ปัจจุบัน",
+      "term_duration": "",
+      "party_order": "",
+      "previous_position": "สำนักเลขาธิการพรรคคอมมิวนิสต์เวียดนาม",
+      "party": "พรรคคอมมิวนิสต์เวียดนาม",
+      "title_type": "ประธานาธิบดีแห่งสาธารณรัฐสังคมนิยมเวียดนาม"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประธานาธิบดีเวียดนาม",
+    "description": "รายชื่อประธานาธิบดีและประมุขแห่งรัฐของเวียดนามตั้งแต่ปี พ.ศ. 2488 จนถึงปัจจุบัน รวมถึงประธานาธิบดีสาธารณรัฐประชาธิปไตยเวียดนาม ประธานสภาที่ปรึกษาแห่งสาธารณรัฐเวียดนามใต้ ประธานาธิบดี และประธานสภาแห่งรัฐแห่งสาธารณรัฐสังคมนิยมเวียดนาม",
+    "seo_title": "รายชื่อประธานาธิบดีเวียดนาม - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 21 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 21 รายการครบถ้วน",
+      "รวม: ชื่อ, ตำแหน่งประมุขแห่งรัฐ, เริ่มดำรงตำแหน่ง, สิ้นสุดวาระ, พรรค",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

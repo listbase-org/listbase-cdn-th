@@ -1,0 +1,189 @@
+{
+  "id": "finance-incoterms",
+  "name": "ชุดข้อมูลกฎและคำจำกัดความ Incoterms 2020",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Transport Mode (EN)",
+      "type": "string"
+    },
+    {
+      "key": "seller_delivery",
+      "label": "Delivery Point",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer",
+      "label": "Risk Transfer",
+      "type": "string"
+    },
+    {
+      "key": "seller_pays",
+      "label": "Seller Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "buyer_pays",
+      "label": "Buyer Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name": "ณ โรงงาน (Ex Works)",
+      "category": "ทุกรูปแบบการขนส่ง",
+      "seller_delivery": "Seller's premises",
+      "risk_transfer": "At seller's premises",
+      "seller_pays": "ไม่มี (สินค้าพร้อมส่งมอบ ณ สถานที่ของผู้ขาย)",
+      "buyer_pays": "ค่าขนส่งทั้งหมด, ประกันภัย, พิธีการศุลกากร",
+      "description": "ผู้ซื้อรับสินค้า ณ สถานที่ของผู้ขาย"
+    },
+    {
+      "code": "FCA",
+      "name": "ส่งมอบให้ผู้รับขนส่ง (Free Carrier)",
+      "category": "ทุกรูปแบบการขนส่ง",
+      "seller_delivery": "Named place of delivery",
+      "risk_transfer": "When delivered to carrier",
+      "seller_pays": "ค่าส่งมอบให้ผู้รับขนส่ง, พิธีการศุลกากรขาออก",
+      "buyer_pays": "ค่าขนส่งหลัก, ประกันภัย, พิธีการศุลกากรขาเข้า",
+      "description": "ผู้ขายส่งมอบสินค้าให้แก่ผู้รับขนส่ง หรือ ณ สถานที่ที่ระบุ"
+    },
+    {
+      "code": "CPT",
+      "name": "ค่าระวางขนส่งสินค้าต้นทางถึงปลายทาง (Carriage Paid To)",
+      "category": "ทุกรูปแบบการขนส่ง",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "ค่าขนส่งถึงปลายทาง, พิธีการศุลกากรขาออก",
+      "buyer_pays": "ประกันภัย, พิธีการศุลกากรขาเข้า, ค่าขนถ่ายสินค้า",
+      "description": "ผู้ขายจ่ายค่าขนส่ง, ความเสี่ยงโอนเมื่อส่งมอบให้ผู้รับขนส่ง"
+    },
+    {
+      "code": "CIP",
+      "name": "ค่าระวางและค่าประกันภัยจ่ายถึงที่หมาย (Carriage and Insurance Paid To)",
+      "category": "ทุกรูปแบบการขนส่ง",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "ค่าขนส่ง, ค่าประกันภัยถึงปลายทาง, พิธีการศุลกากรขาออก",
+      "buyer_pays": "พิธีการศุลกากรขาเข้า, ค่าขนถ่ายสินค้า",
+      "description": "คล้ายกับ CPT แต่ผู้ขายเป็นผู้จ่ายค่าประกันภัยด้วย"
+    },
+    {
+      "code": "DAP",
+      "name": "ส่งมอบ ณ สถานที่ (Delivered at Place)",
+      "category": "ทุกรูปแบบการขนส่ง",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "ค่าขนส่งทั้งหมดถึงปลายทาง, พิธีการศุลกากรขาออก",
+      "buyer_pays": "ค่าขนถ่ายสินค้า, พิธีการศุลกากรขาเข้า",
+      "description": "ผู้ขายส่งมอบสินค้าพร้อมสำหรับการขนถ่าย"
+    },
+    {
+      "code": "DPU",
+      "name": "ส่งมอบ ณ สถานที่ขนถ่าย (Delivered at Place Unloaded)",
+      "category": "ทุกรูปแบบการขนส่ง",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, after unloading",
+      "seller_pays": "ค่าขนส่งทั้งหมด, ค่าขนถ่ายสินค้า, พิธีการศุลกากรขาออก",
+      "buyer_pays": "พิธีการศุลกากรขาเข้า",
+      "description": "ผู้ขายขนถ่ายสินค้า ณ สถานที่ปลายทาง"
+    },
+    {
+      "code": "DDP",
+      "name": "ส่งมอบสินค้าโดยชำระอากรแล้ว (Delivered Duty Paid)",
+      "category": "ทุกรูปแบบการขนส่ง",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "ทุกอย่างรวมถึงอากรขาเข้า",
+      "buyer_pays": "เพียงแค่ค่าขนถ่ายสินค้า",
+      "description": "ภาระผูกพันสูงสุดสำหรับผู้ขาย"
+    },
+    {
+      "code": "FAS",
+      "name": "ส่งมอบริมเรือ (Free Alongside Ship)",
+      "category": "การขนส่งทางทะเล/ทางน้ำ",
+      "seller_delivery": "Alongside ship at port",
+      "risk_transfer": "When placed alongside ship",
+      "seller_pays": "ค่าขนส่งถึงท่าเรือ, พิธีการศุลกากรขาออก",
+      "buyer_pays": "ค่าบรรทุกสินค้า, ค่าระวางเรือ, ประกันภัย, พิธีการศุลกากรขาเข้า",
+      "description": "ผู้ขายส่งมอบสินค้าไว้ข้างเรือ"
+    },
+    {
+      "code": "FOB",
+      "name": "ส่งมอบบนเรือ (Free on Board)",
+      "category": "การขนส่งทางทะเล/ทางน้ำ",
+      "seller_delivery": "On board vessel at port",
+      "risk_transfer": "When goods are on board",
+      "seller_pays": "ค่าบรรทุกขึ้นเรือ, พิธีการศุลกากรขาออก",
+      "buyer_pays": "ค่าระวางเรือ, ประกันภัย, พิธีการศุลกากรขาเข้า",
+      "description": "ผู้ขายบรรทุกสินค้าขึ้นเรือ"
+    },
+    {
+      "code": "CFR",
+      "name": "ราคาสินค้าและค่าระวางเรือ (Cost and Freight)",
+      "category": "การขนส่งทางทะเล/ทางน้ำ",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "ค่าระวางเรือถึงปลายทาง, พิธีการศุลกากรขาออก",
+      "buyer_pays": "ประกันภัย, พิธีการศุลกากรขาเข้า, ค่าขนถ่ายสินค้า",
+      "description": "ผู้ขายจ่ายค่าระวางเรือ, ความเสี่ยงโอนเมื่อบรรทุกสินค้า"
+    },
+    {
+      "code": "CIF",
+      "name": "ราคาสินค้า ค่าประกันภัย และค่าระวางเรือ (Cost, Insurance and Freight)",
+      "category": "การขนส่งทางทะเล/ทางน้ำ",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "ค่าระวางเรือ, ค่าประกันภัย, พิธีการศุลกากรขาออก",
+      "buyer_pays": "พิธีการศุลกากรขาเข้า, ค่าขนถ่ายสินค้า",
+      "description": "คล้ายกับ CFR แต่ผู้ขายเป็นผู้จ่ายค่าประกันภัยด้วย"
+    }
+  ],
+  "meta": {
+    "seo_title": "กฎ Incoterms 2020 - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดกฎ Incoterms 2020 สำหรับการค้าระหว่างประเทศ รับ 11 ข้อกำหนดสำคัญ รวมถึงการโอนความเสี่ยงและค่าใช้จ่าย ฟรีใน Excel, CSV, PDF.",
+    "title": "ชุดข้อมูลกฎและคำจำกัดความ Incoterms 2020",
+    "description": "ชุดข้อมูลนี้ให้รายการสั้นๆ ของกฎ Incoterms 2020 ทั้ง 11 ข้อ โดยให้รายละเอียดความรับผิดชอบในการส่งมอบ การโอนความเสี่ยง และการจัดสรรต้นทุนในการค้าระหว่างประเทศ ครอบคลุมทุกประเด็นสำคัญสำหรับผู้ซื้อและผู้ขาย",
+    "key_takeaways": [
+      "เข้าถึงกฎ Incoterms 2020 ทั้ง 11 ข้อสำหรับการค้าทั่วโลก",
+      "สำรวจคำจำกัดความ โหมดการขนส่ง และจุดโอนความเสี่ยง",
+      "ทำความเข้าใจความรับผิดชอบด้านต้นทุนของผู้ขายและผู้ซื้อ",
+      "ลดความซับซ้อนของข้อตกลงการขนส่งระหว่างประเทศ"
+    ],
+    "keywords": [
+      "incoterms 2020 รายการ",
+      "ข้อกำหนดการค้าระหว่างประเทศ",
+      "กฎการจัดส่ง 2020",
+      "ดาวน์โหลด incoterms excel",
+      "ข้อกำหนดการค้า csv",
+      "คำจำกัดความโลจิสติกส์"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** เข้าสู่ระบบ ERP หรือระบบโลจิสติกส์ของคุณ เพื่อทำให้การสร้างเงื่อนไขสัญญาและการตรวจสอบการปฏิบัติตามข้อกำหนดสำหรับการจัดส่งระหว่างประเทศเป็นไปโดยอัตโนมัติ",
+      "ใช้ไฟล์ **Excel** เพื่อกรองข้อกำหนดตามโหมดการขนส่ง วิเคราะห์การจัดสรรต้นทุน และจัดเตรียมเอกสารการฝึกอบรมสำหรับทีมขายหรือจัดซื้อของคุณ",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงฉบับย่อแบบออฟไลน์ในคลังสินค้า ห้องเรียน หรือระหว่างการเจรจาสัญญา",
+      "ใช้ประโยชน์จากข้อมูลนี้เพื่อวัตถุประสงค์ทางการศึกษาในการสอนนักเรียนเกี่ยวกับการจัดการห่วงโซ่อุปทานทั่วโลกและกฎระเบียบการค้า"
+    ]
+  },
+  "record_count": 11,
+  "title": "ชุดข้อมูลกฎและคำจำกัดความ Incoterms 2020"
+}

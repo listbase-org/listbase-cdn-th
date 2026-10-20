@@ -1,0 +1,567 @@
+{
+  "id": "finance-reit-thailand",
+  "name": "กองทุนรวมอสังหาริมทรัพย์และ REITs ไทย",
+  "description": "รายชื่อกองทุนรวมอสังหาริมทรัพย์ กอง REIT และกองทุนโครงสร้างพื้นฐานในตลาดหลักทรัพย์ จำนวน 64 กอง",
+  "category": "finance",
+  "source": "ตลาดหลักทรัพย์แห่งประเทศไทย (SET)",
+  "source_url": "https://www.set.or.th",
+  "updated": "2026-02-21",
+  "columns": [
+    {
+      "key": "rank",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "symbol",
+      "label": "สัญลักษณ์",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "ชื่อบริษัท",
+      "type": "string"
+    },
+    {
+      "key": "nameEN",
+      "label": "ชื่อบริษัท (EN)",
+      "type": "string"
+    },
+    {
+      "key": "industry",
+      "label": "กลุ่มอุตสาหกรรม",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "หมวดธุรกิจ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "3BBIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐานบรอดแบนด์อินเทอร์เน็ต สามบีบี",
+      "nameEN": "3BB INTERNET INFRASTRUCTURE FUND",
+      "industry": "เทคโนโลยี",
+      "sector": "เทคโนโลยีสารสนเทศ"
+    },
+    {
+      "rank": 2,
+      "symbol": "AIMCG",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ เอไอเอ็ม คอมเมอร์เชียล โกรท",
+      "nameEN": "AIM COMMERCIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 3,
+      "symbol": "AIMIRT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ เอไอเอ็ม อินดัสเทรียล โกรท",
+      "nameEN": "AIM INDUSTRIAL GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 4,
+      "symbol": "ALLY",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ อัลไล",
+      "nameEN": "ALLY FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 5,
+      "symbol": "AMATAR",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอมตะซัมมิทโกรท",
+      "nameEN": "AMATA SUMMIT GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 6,
+      "symbol": "AXTRART",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า แอ็กซ์ตร้า ฟิวเจอร์ ซิตี้",
+      "nameEN": "Axtra Future City Freehold and Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 7,
+      "symbol": "B-WORK",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์บัวหลวง ออฟฟิศ",
+      "nameEN": "BUALUANG OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 8,
+      "symbol": "BAREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์สนามบินการบินกรุงเทพ",
+      "nameEN": "BA Airport Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 9,
+      "symbol": "BOFFICE",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ภิรัชออฟฟิศ",
+      "nameEN": "BHIRAJ OFFICE LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 10,
+      "symbol": "BRRGIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐานโรงไฟฟ้ากลุ่มน้ำตาลบุรีรัมย์",
+      "nameEN": "BURIRAM SUGAR GROUP POWER PLANT INFRASTRUCTURE FUND",
+      "industry": "ทรัพยากร",
+      "sector": "พลังงานและสาธารณูปโภค"
+    },
+    {
+      "rank": 11,
+      "symbol": "BTSGIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐานระบบขนส่งมวลชนทางราง บีทีเอสโกรท",
+      "nameEN": "BTS RAIL MASS TRANSIT GROWTH INFRASTRUCTURE FUND",
+      "industry": "บริการ",
+      "sector": "ขนส่งและโลจิสติกส์"
+    },
+    {
+      "rank": 12,
+      "symbol": "CPNCG",
+      "name": "กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ CPN คอมเมอร์เชียล โกรท",
+      "nameEN": "CPN COMMERCIAL GROWTH LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 13,
+      "symbol": "CPNREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ CPN รีเทล โกรท",
+      "nameEN": "CPN RETAIL GROWTH LEASEHOLD REIT",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 14,
+      "symbol": "CPTREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ ซี.พี.ทาวเวอร์",
+      "nameEN": "C.P. Tower Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 15,
+      "symbol": "CTARAF",
+      "name": "กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์โรงแรมและรีสอร์ทในเครือฯ",
+      "nameEN": "CENTARA HOTELS & RESORTS LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 16,
+      "symbol": "DIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐานโทรคมนาคม ดิจิทัล",
+      "nameEN": "DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE FUND",
+      "industry": "เทคโนโลยี",
+      "sector": "เทคโนโลยีสารสนเทศ"
+    },
+    {
+      "rank": 17,
+      "symbol": "DREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดุสิตธานี",
+      "nameEN": "DUSIT THANI FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 18,
+      "symbol": "EGATIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐาน โรงไฟฟ้าพระนครเหนือ ชุดที่ 1 การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+      "nameEN": "NORTH BANGKOK POWER PLANT BLOCK 1 INFRASTRUCTURE FUND, ELECTRICITY GENERATING AUTHORITY OF THAILAND",
+      "industry": "ทรัพยากร",
+      "sector": "พลังงานและสาธารณูปโภค"
+    },
+    {
+      "rank": 19,
+      "symbol": "FTREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์เพื่ออุตสาหกรรม เฟรเซอร์ส พร็อพเพอร์ตี้",
+      "nameEN": "FRASERS PROPERTY THAILAND INDUSTRIAL FREEHOLD & LEASEHOLD REIT",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 20,
+      "symbol": "FUTURERT",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ฟิวเจอร์ซิตี้",
+      "nameEN": "Future City Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 21,
+      "symbol": "GAHREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ แกรนด์ โฮสพีทาลิตี้",
+      "nameEN": "GRANDE HOSPITALITY REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 22,
+      "symbol": "GROREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ แกรนด์ รอยัล ออคิด โฮสพีทาลิตี้ ที่มีข้อตกลงในการซื้อคืน",
+      "nameEN": "GRANDE ROYAL ORCHID HOSPITALITY REAL ESTATE INVESTMENT TRUST WITH BUY-BACK CONDITION",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 23,
+      "symbol": "GVREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์โกลเด้นเวนเจอร์",
+      "nameEN": "GOLDEN VENTURES LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 24,
+      "symbol": "HPF",
+      "name": "กองทุนรวมอสังหาริมทรัพย์และสิทธิการเช่าเหมราชอินดัสเตรียล",
+      "nameEN": "HEMARAJ INDUSTRIAL PROPERTY AND LEASEHOLD FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 25,
+      "symbol": "HYDROGEN",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าไฮโดรเจน",
+      "nameEN": "Hydrogen Freehold and Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 26,
+      "symbol": "IMPACT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์อิมแพ็คโกรท",
+      "nameEN": "IMPACT GROWTH REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 27,
+      "symbol": "INETREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ไอเน็ต",
+      "nameEN": "INET FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 28,
+      "symbol": "ISSARA",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์อิสสระ",
+      "nameEN": "ISSARA REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 29,
+      "symbol": "KBSPIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐานโรงไฟฟ้า กลุ่มน้ำตาลครบุรี",
+      "nameEN": "KHONBURI SUGAR POWER PLANT INFRASTRUCTURE FUND",
+      "industry": "ทรัพยากร",
+      "sector": "พลังงานและสาธารณูปโภค"
+    },
+    {
+      "rank": 30,
+      "symbol": "KPNREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์เคพีเอ็น",
+      "nameEN": "KPN Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 31,
+      "symbol": "KTBSTMR",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ เคทีบีเอสที มิกซ์",
+      "nameEN": "KTBST MIXED FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 32,
+      "symbol": "LHHOTEL",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช โฮเทล",
+      "nameEN": "LH HOTEL LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 33,
+      "symbol": "LHRREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า แลนด์ แอนด์ เฮ้าส์ เรซิเดนซ์",
+      "nameEN": "Land and Houses Residential FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 34,
+      "symbol": "LHSC",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช ช้อปปิ้ง เซ็นเตอร์",
+      "nameEN": "LH SHOPPING CENTERS LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 35,
+      "symbol": "LUXF",
+      "name": "กองทุนรวมอสังหาริมทรัพย์ลักซ์ชัวรี่",
+      "nameEN": "LUXURY REAL ESTATE INVESTMENT FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 36,
+      "symbol": "M-PAT",
+      "name": "กองทุนรวมอสังหาริมทรัพย์เอ็มเอฟซี ป่าตอง เฮอริเทจ",
+      "nameEN": "MFC PATONG HERITAGE PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 37,
+      "symbol": "M-STOR",
+      "name": "กองทุนรวมอสังหาริมทรัพย์เอ็มเอฟซี-สแตรทิจิกสโตเรจฟันด์",
+      "nameEN": "MFC-STRATEGIC STORAGE FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 38,
+      "symbol": "MII",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า เอ็มเอฟซี อินดัสเตรียล อินเวสเมนท์",
+      "nameEN": "MFC Industrial Investment Freehold and Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 39,
+      "symbol": "MIPF",
+      "name": "กองทุนรวมอสังหาริมทรัพย์มิลเลียนแนร์",
+      "nameEN": "MILLIONAIRE PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 40,
+      "symbol": "MJLF",
+      "name": "กองทุนรวมสิทธิการเช่าอสังหาฯ เมเจอร์ ซีนีเพล็กซ์ ไลฟ์สไตส์",
+      "nameEN": "MAJOR CINEPLEX LIFESTYLE LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 41,
+      "symbol": "MNIT",
+      "name": "กองทุนรวมอสังหาริมทรัพย์เอ็มเอฟซี-นิชดาธานี",
+      "nameEN": "MFC-NICHADA THANI PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 42,
+      "symbol": "MNIT2",
+      "name": "กองทุนรวมอสังหาริมทรัพย์นิชดาธานี 2",
+      "nameEN": "NICHADA THANI PROPERTY FUND 2",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 43,
+      "symbol": "MNRF",
+      "name": "กองทุนรวมอสังหาริมทรัพย์มัลติเนชั่นแนลเรสซิเดนซ์ฟันด์",
+      "nameEN": "MULTI-NATIONAL RESIDENCE FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 44,
+      "symbol": "POPF",
+      "name": "กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ไพร์มออฟฟิศ",
+      "nameEN": "PRIME OFFICE LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 45,
+      "symbol": "PROSPECT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ พรอสเพค โลจิสติกส์และอินดัสเทรียล",
+      "nameEN": "PROSPECT LOGISTICS AND INDUSTRIAL FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 46,
+      "symbol": "QHBREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ ควอลิตี้ เฮ้าส์ บิสซิเนส คอมเพล็กซ์",
+      "nameEN": "Quality Houses Business Complex Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 47,
+      "symbol": "QHHRREIT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า ควอลิตี้ เฮ้าส์ โฮเทล แอนด์ เรซิเดนซ์",
+      "nameEN": "Quality Houses Hotel and Residence Freehold and Leasehold Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 48,
+      "symbol": "QHOP",
+      "name": "กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ควอลิตี้ ฮอสพิทอลลิตี้",
+      "nameEN": "QUALITY HOSPITALITY LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 49,
+      "symbol": "SIRIPRT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์สิริภิญโญ",
+      "nameEN": "Siripinyo Real Estate Investment Trust",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 50,
+      "symbol": "SPRIME",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ เอส ไพรม์ โกรท",
+      "nameEN": "S PRIME GROWTH LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 51,
+      "symbol": "SRIPANWA",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์โรงแรมศรีพันวา",
+      "nameEN": "SRI PANWA HOSPITALITY REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 52,
+      "symbol": "SSPF",
+      "name": "กองทุนรวมอสังหาริมทรัพย์ศาลาแอทสาทร",
+      "nameEN": "SALA @ SATHORN PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 53,
+      "symbol": "SSTRT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ทรัพย์ศรีไทย",
+      "nameEN": "SUB SRI THAI REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 54,
+      "symbol": "SUPEREIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐานโรงไฟฟ้า ซุปเปอร์ เอนเนอร์ยี",
+      "nameEN": "SUPER ENERGY POWER PLANT INFRASTRUCTURE FUND",
+      "industry": "ทรัพยากร",
+      "sector": "พลังงานและสาธารณูปโภค"
+    },
+    {
+      "rank": 55,
+      "symbol": "TFFIF",
+      "name": "กองทุนรวมโครงสร้างพื้นฐานเพื่ออนาคตประเทศไทย",
+      "nameEN": "THAILAND FUTURE FUND",
+      "industry": "บริการ",
+      "sector": "ขนส่งและโลจิสติกส์"
+    },
+    {
+      "rank": 56,
+      "symbol": "TIF1",
+      "name": "กองทุนรวมอสังหาริมทรัพย์ไทยอินดัสเตรียล 1",
+      "nameEN": "THAI INDUSTRIAL FUND 1",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 57,
+      "symbol": "TLHPF",
+      "name": "กองทุนรวมอสังหาริมทรัพย์ ไทยแลนด์ โฮสพีทาลิตี้",
+      "nameEN": "THAILAND HOSPITALITY PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 58,
+      "symbol": "TNPF",
+      "name": "กองทุนรวมอสังหาริมทรัพย์และสิทธิการเช่าตรีนิตี้",
+      "nameEN": "TRINITY FREEHOLD AND LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 59,
+      "symbol": "TPRIME",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าไทยแลนด์ ไพร์ม พร็อพเพอร์ตี้",
+      "nameEN": "THAILAND PRIME PROPERTY FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 60,
+      "symbol": "TTLPF",
+      "name": "กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ตลาดไท",
+      "nameEN": "TALAAD THAI LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 61,
+      "symbol": "TU-PF",
+      "name": "กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ ที ยู โดม เรสซิเดนท์เชียล คอมเพล็กซ์",
+      "nameEN": "T.U. DOME RESIDENTIAL COMPLEX LEASEHOLD PROPERTY FUND",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 62,
+      "symbol": "WHABT",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ บิสซิเนส คอมเพล็กซ์",
+      "nameEN": "WHA BUSINESS COMPLEX FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 63,
+      "symbol": "WHAIR",
+      "name": "ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ดับบลิวเอชเอ อินดัสเตรียล",
+      "nameEN": "WHA INDUSTRIAL LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    },
+    {
+      "rank": 64,
+      "symbol": "WHART",
+      "name": "ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท",
+      "nameEN": "WHA PREMIUM GROWTH FREEHOLD AND LEASEHOLD REAL ESTATE INVESTMENT TRUST",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "กองทุนรวมอสังหาริมทรัพย์และREITs"
+    }
+  ],
+  "meta": {
+    "title": "กองทุนรวมอสังหาริมทรัพย์และ REITs ไทย",
+    "description": "รายชื่อกองทุนรวมอสังหาริมทรัพย์ กอง REIT และกองทุนโครงสร้างพื้นฐานในตลาดหลักทรัพย์ จำนวน 64 กอง",
+    "seo_title": "กองทุนรวมอสังหาริมทรัพย์และ REITs ไทย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดข้อมูล 64 หุ้น ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูลครบ 64 หุ้น",
+      "รวมข้อมูล: ลำดับ, สัญลักษณ์, ชื่อบริษัท",
+      "ดาวน์โหลดได้ในรูปแบบ Excel, CSV หรือ PDF",
+      "ฟรีสำหรับใช้งานส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

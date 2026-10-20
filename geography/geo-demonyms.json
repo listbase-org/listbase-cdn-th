@@ -1,0 +1,1429 @@
+{
+  "id": "geo-demonyms",
+  "name": "ชุดข้อมูลชื่อเรียกพลเมืองของประเทศและรหัส ISO ทั่วโลก",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_m",
+      "label": "Demonym (Male) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_f",
+      "label": "Demonym (Female) (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "อัฟกานิสถาน",
+      "demonym_m": "อัฟกัน",
+      "demonym_f": "อัฟกัน"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "แอลเบเนีย",
+      "demonym_m": "แอลเบเนีย",
+      "demonym_f": "แอลเบเนีย"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "แอลจีเรีย",
+      "demonym_m": "แอลจีเรีย",
+      "demonym_f": "แอลจีเรีย"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "อันดอร์รา",
+      "demonym_m": "อันดอร์รา",
+      "demonym_f": "อันดอร์รา"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "แองโกลา",
+      "demonym_m": "แองโกลา",
+      "demonym_f": "แองโกลา"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "แอนติกาและบาร์บิวดา",
+      "demonym_m": "แอนติกัน, บาร์บิวดัน",
+      "demonym_f": "แอนติกัน, บาร์บิวดัน"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "อาร์เจนตินา",
+      "demonym_m": "อาร์เจนตินา",
+      "demonym_f": "อาร์เจนตินา"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "อาร์มีเนีย",
+      "demonym_m": "อาร์มีเนีย",
+      "demonym_f": "อาร์มีเนีย"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "ออสเตรเลีย",
+      "demonym_m": "ออสเตรเลีย",
+      "demonym_f": "ออสเตรเลีย"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "ออสเตรีย",
+      "demonym_m": "ออสเตรีย",
+      "demonym_f": "ออสเตรีย"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "อาเซอร์ไบจาน",
+      "demonym_m": "อาเซอร์ไบจาน",
+      "demonym_f": "อาเซอร์ไบจาน"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "บาฮามาส",
+      "demonym_m": "บาฮามาส",
+      "demonym_f": "บาฮามาส"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "บาห์เรน",
+      "demonym_m": "บาห์เรน",
+      "demonym_f": "บาห์เรน"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "บังกลาเทศ",
+      "demonym_m": "บังกลาเทศ",
+      "demonym_f": "บังกลาเทศ"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "บาร์เบโดส",
+      "demonym_m": "บาร์เบโดส",
+      "demonym_f": "บาร์เบโดส"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "เบลารุส",
+      "demonym_m": "เบลารุส",
+      "demonym_f": "เบลารุส"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "เบลเยียม",
+      "demonym_m": "เบลเยียม",
+      "demonym_f": "เบลเยียม"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "เบลีซ",
+      "demonym_m": "เบลีซ",
+      "demonym_f": "เบลีซ"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "เบนิน",
+      "demonym_m": "เบนิน",
+      "demonym_f": "เบนิน"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "ภูฏาน",
+      "demonym_m": "ภูฏาน",
+      "demonym_f": "ภูฏาน"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "โบลิเวีย",
+      "demonym_m": "ชาวโบลิเวีย",
+      "demonym_f": "ชาวโบลิเวีย"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "บอสเนียและเฮอร์เซโกวีนา",
+      "demonym_m": "ชาวบอสเนีย, ชาวเฮอร์เซโกวีนา",
+      "demonym_f": "ชาวบอสเนีย, ชาวเฮอร์เซโกวีนา"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "บอตสวานา",
+      "demonym_m": "ชาวมอตสวานา",
+      "demonym_f": "ชาวมอตสวานา"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "บราซิล",
+      "demonym_m": "ชาวบราซิล",
+      "demonym_f": "ชาวบราซิล"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "บรูไน",
+      "demonym_m": "ชาวบรูไน",
+      "demonym_f": "ชาวบรูไน"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "บัลแกเรีย",
+      "demonym_m": "ชาวบัลแกเรีย",
+      "demonym_f": "ชาวบัลแกเรีย"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "บูร์กินาฟาโซ",
+      "demonym_m": "ชาวบูร์กินาเบ",
+      "demonym_f": "ชาวบูร์กินาเบ"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "บุรุนดี",
+      "demonym_m": "ชาวบุรุนดี",
+      "demonym_f": "ชาวบุรุนดี"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "กัมพูชา",
+      "demonym_m": "ชาวกัมพูชา",
+      "demonym_f": "ชาวกัมพูชา"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "แคเมอรูน",
+      "demonym_m": "ชาวแคเมอรูน",
+      "demonym_f": "ชาวแคเมอรูน"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "แคนาดา",
+      "demonym_m": "ชาวแคนาดา",
+      "demonym_f": "ชาวแคนาดา"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "กาบูเวร์ดี",
+      "demonym_m": "ชาวกาบูเวร์ดี",
+      "demonym_f": "ชาวกาบูเวร์ดี"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "สาธารณรัฐแอฟริกากลาง",
+      "demonym_m": "ชาวแอฟริกากลาง",
+      "demonym_f": "ชาวแอฟริกากลาง"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "ชาด",
+      "demonym_m": "ชาวชาด",
+      "demonym_f": "ชาวชาด"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "ชิลี",
+      "demonym_m": "ชาวชิลี",
+      "demonym_f": "ชาวชิลี"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "demonym_m": "ชาวจีน",
+      "demonym_f": "ชาวจีน"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "โคลอมเบีย",
+      "demonym_m": "ชาวโคลอมเบีย",
+      "demonym_f": "ชาวโคลอมเบีย"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "คอโมโรส",
+      "demonym_m": "ชาวคอโมโรส",
+      "demonym_f": "ชาวคอโมโรส"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "คอสตาริกา",
+      "demonym_m": "ชาวคอสตาริกา",
+      "demonym_f": "ชาวคอสตาริกา"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "โครเอเชีย",
+      "demonym_m": "ชาวโครเอเชีย",
+      "demonym_f": "ชาวโครเอเชีย"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "คิวบา",
+      "demonym_m": "ชาวคิวบา",
+      "demonym_f": "ชาวคิวบา"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "ไซปรัส",
+      "demonym_m": "ชาวไซปรัส",
+      "demonym_f": "ชาวไซปรัส"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "เช็กเกีย",
+      "demonym_m": "ชาวเช็ก",
+      "demonym_f": "ชาวเช็ก"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "เดนมาร์ก",
+      "demonym_m": "ชาวเดนมาร์ก",
+      "demonym_f": "ชาวเดนมาร์ก"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "จิบูตี",
+      "demonym_m": "ชาวจิบูตี",
+      "demonym_f": "ชาวจิบูตี"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "ดอมินีกา",
+      "demonym_m": "ชาวดอมินีกา",
+      "demonym_f": "ชาวดอมินีกา"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "สาธารณรัฐโดมินิกัน",
+      "demonym_m": "ชาวโดมินิกัน",
+      "demonym_f": "ชาวโดมินิกัน"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "สาธารณรัฐประชาธิปไตยคองโก",
+      "demonym_m": "ชาวคองโก",
+      "demonym_f": "ชาวคองโก"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "เอกวาดอร์",
+      "demonym_m": "ชาวเอกวาดอร์",
+      "demonym_f": "ชาวเอกวาดอร์"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "อียิปต์",
+      "demonym_m": "ชาวอียิปต์",
+      "demonym_f": "ชาวอียิปต์"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "เอลซัลวาดอร์",
+      "demonym_m": "ชาวเอลซัลวาดอร์",
+      "demonym_f": "ชาวเอลซัลวาดอร์"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "อิเควทอเรียลกินี",
+      "demonym_m": "ชาวอิเควทอเรียลกินี",
+      "demonym_f": "ชาวอิเควทอเรียลกินี"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "เอริเทรีย",
+      "demonym_m": "ชาวเอริเทรีย",
+      "demonym_f": "ชาวเอริเทรีย"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "เอสโตเนีย",
+      "demonym_m": "ชาวเอสโตเนีย",
+      "demonym_f": "ชาวเอสโตเนีย"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "เอสวาตินี",
+      "demonym_m": "ชาวสวาซี",
+      "demonym_f": "ชาวสวาซี"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "เอธิโอเปีย",
+      "demonym_m": "ชาวเอธิโอเปีย",
+      "demonym_f": "ชาวเอธิโอเปีย"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "ฟิจิ",
+      "demonym_m": "ชาวฟิจิ",
+      "demonym_f": "ชาวฟิจิ"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "ฟินแลนด์",
+      "demonym_m": "ชาวฟินแลนด์",
+      "demonym_f": "ชาวฟินแลนด์"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "ฝรั่งเศส",
+      "demonym_m": "ชาวฝรั่งเศส",
+      "demonym_f": "ชาวฝรั่งเศส"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "กาบอง",
+      "demonym_m": "ชาวกาบอง",
+      "demonym_f": "ชาวกาบอง"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "แกมเบีย",
+      "demonym_m": "ชาวแกมเบีย",
+      "demonym_f": "ชาวแกมเบีย"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "จอร์เจีย",
+      "demonym_m": "ชาวจอร์เจีย",
+      "demonym_f": "ชาวจอร์เจีย"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "เยอรมนี",
+      "demonym_m": "ชาวเยอรมัน",
+      "demonym_f": "ชาวเยอรมัน"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "กานา",
+      "demonym_m": "ชาวกานา",
+      "demonym_f": "ชาวกานา"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "กรีซ",
+      "demonym_m": "ชาวกรีก",
+      "demonym_f": "ชาวกรีก"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "เกรเนดา",
+      "demonym_m": "ชาวเกรเนดา",
+      "demonym_f": "ชาวเกรเนดา"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "กัวเตมาลา",
+      "demonym_m": "ชาวกัวเตมาลา",
+      "demonym_f": "ชาวกัวเตมาลา"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "กินี",
+      "demonym_m": "ชาวกินี",
+      "demonym_f": "ชาวกินี"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "กินี-บิสเซา",
+      "demonym_m": "ชาวกินี-บิสเซา",
+      "demonym_f": "ชาวกินี-บิสเซา"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "กายอานา",
+      "demonym_m": "ชาวกายอานา",
+      "demonym_f": "ชาวกายอานา"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "เฮติ",
+      "demonym_m": "ชาวเฮติ",
+      "demonym_f": "ชาวเฮติ"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "ฮอนดูรัส",
+      "demonym_m": "ชาวฮอนดูรัส",
+      "demonym_f": "ชาวฮอนดูรัส"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "ฮังการี",
+      "demonym_m": "ชาวฮังการี",
+      "demonym_f": "ชาวฮังการี"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "ไอซ์แลนด์",
+      "demonym_m": "ชาวไอซ์แลนด์",
+      "demonym_f": "ชาวไอซ์แลนด์"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "อินเดีย",
+      "demonym_m": "ชาวอินเดีย",
+      "demonym_f": "ชาวอินเดีย"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "อินโดนีเซีย",
+      "demonym_m": "ชาวอินโดนีเซีย",
+      "demonym_f": "ชาวอินโดนีเซีย"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "อิหร่าน",
+      "demonym_m": "ชาวอิหร่าน",
+      "demonym_f": "ชาวอิหร่าน"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "อิรัก",
+      "demonym_m": "ชาวอิรัก",
+      "demonym_f": "ชาวอิรัก"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "ไอร์แลนด์",
+      "demonym_m": "ชาวไอริช",
+      "demonym_f": "ชาวไอริช"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "อิสราเอล",
+      "demonym_m": "ชาวอิสราเอล",
+      "demonym_f": "ชาวอิสราเอล"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "อิตาลี",
+      "demonym_m": "ชาวอิตาลี",
+      "demonym_f": "ชาวอิตาลี"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "โกตดิวัวร์",
+      "demonym_m": "ชาวโกตดิวัวร์",
+      "demonym_f": "ชาวโกตดิวัวร์"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "จาเมกา",
+      "demonym_m": "ชาวจาเมกา",
+      "demonym_f": "ชาวจาเมกา"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "ญี่ปุ่น",
+      "demonym_m": "ชาวญี่ปุ่น",
+      "demonym_f": "ชาวญี่ปุ่น"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "จอร์แดน",
+      "demonym_m": "ชาวจอร์แดน",
+      "demonym_f": "ชาวจอร์แดน"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "คาซัคสถาน",
+      "demonym_m": "ชาวคาซัคสถาน",
+      "demonym_f": "ชาวคาซัคสถาน"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "เคนยา",
+      "demonym_m": "ชาวเคนยา",
+      "demonym_f": "ชาวเคนยา"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "คิริบาส",
+      "demonym_m": "ชาวคิริบาส",
+      "demonym_f": "ชาวคิริบาส"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "โคโซโว",
+      "demonym_m": "ชาวโคโซโว",
+      "demonym_f": "ชาวโคโซโว"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "คูเวต",
+      "demonym_m": "ชาวคูเวต",
+      "demonym_f": "ชาวคูเวต"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "คีร์กีซสถาน",
+      "demonym_m": "ชาวคีร์กีซ",
+      "demonym_f": "ชาวคีร์กีซ"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "ลาว",
+      "demonym_m": "ชาวลาว",
+      "demonym_f": "ชาวลาว"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "ลัตเวีย",
+      "demonym_m": "ชาวลัตเวีย",
+      "demonym_f": "ชาวลัตเวีย"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "เลบานอน",
+      "demonym_m": "ชาวเลบานอน",
+      "demonym_f": "ชาวเลบานอน"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "เลโซโท",
+      "demonym_m": "ชาวโมโซโท",
+      "demonym_f": "ชาวโมโซโท"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "ไลบีเรีย",
+      "demonym_m": "ชาวไลบีเรีย",
+      "demonym_f": "ชาวไลบีเรีย"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "ลิเบีย",
+      "demonym_m": "ชาวลิเบีย",
+      "demonym_f": "ชาวลิเบีย"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "ลิกเตนสไตน์",
+      "demonym_m": "ชาวลิกเตนสไตน์",
+      "demonym_f": "ชาวลิกเตนสไตน์"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "ลิทัวเนีย",
+      "demonym_m": "ชาวลิทัวเนีย",
+      "demonym_f": "ชาวลิทัวเนีย"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "ลักเซมเบิร์ก",
+      "demonym_m": "ชาวลักเซมเบิร์ก",
+      "demonym_f": "ชาวลักเซมเบิร์ก"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "มาดากัสการ์",
+      "demonym_m": "ชาวมาดากัสการ์",
+      "demonym_f": "ชาวมาดากัสการ์"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "มาลาวี",
+      "demonym_m": "ชาวมาลาวี",
+      "demonym_f": "ชาวมาลาวี"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "มาเลเซีย",
+      "demonym_m": "ชาวมาเลเซีย",
+      "demonym_f": "ชาวมาเลเซีย"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "มัลดีฟส์",
+      "demonym_m": "ชาวมัลดีฟส์",
+      "demonym_f": "ชาวมัลดีฟส์"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "มาลี",
+      "demonym_m": "ชาวมาลี",
+      "demonym_f": "ชาวมาลี"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "มอลตา",
+      "demonym_m": "ชาวมอลตา",
+      "demonym_f": "ชาวมอลตา"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "หมู่เกาะมาร์แชลล์",
+      "demonym_m": "ชาวหมู่เกาะมาร์แชลล์",
+      "demonym_f": "ชาวหมู่เกาะมาร์แชลล์"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "มอริเตเนีย",
+      "demonym_m": "ชาวมอริเตเนีย",
+      "demonym_f": "ชาวมอริเตเนีย"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "มอริเชียส",
+      "demonym_m": "ชาวมอริเชียส",
+      "demonym_f": "ชาวมอริเชียส"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "เม็กซิโก",
+      "demonym_m": "ชาวเม็กซิกัน",
+      "demonym_f": "ชาวเม็กซิกัน"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "ไมโครนีเซีย",
+      "demonym_m": "ชาวไมโครนีเซีย",
+      "demonym_f": "ชาวไมโครนีเซีย"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "มอลโดวา",
+      "demonym_m": "ชาวมอลโดวา",
+      "demonym_f": "ชาวมอลโดวา"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "โมนาโก",
+      "demonym_m": "ชาวโมนาโก",
+      "demonym_f": "ชาวโมนาโก"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "มองโกเลีย",
+      "demonym_m": "ชาวมองโกเลีย",
+      "demonym_f": "ชาวมองโกเลีย"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "มอนเตเนโกร",
+      "demonym_m": "ชาวมอนเตเนโกร",
+      "demonym_f": "ชาวมอนเตเนโกร"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "โมร็อกโก",
+      "demonym_m": "ชาวโมร็อกโก",
+      "demonym_f": "ชาวโมร็อกโก"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "โมซัมบิก",
+      "demonym_m": "ชาวโมซัมบิก",
+      "demonym_f": "ชาวโมซัมบิก"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "เมียนมา",
+      "demonym_m": "ชาวพม่า",
+      "demonym_f": "ชาวพม่า"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "นามิเบีย",
+      "demonym_m": "ชาวนามิเบีย",
+      "demonym_f": "ชาวนามิเบีย"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "นาอูรู",
+      "demonym_m": "ชาวนาอูรู",
+      "demonym_f": "ชาวนาอูรู"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "เนปาล",
+      "demonym_m": "ชาวเนปาล",
+      "demonym_f": "ชาวเนปาล"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "เนเธอร์แลนด์",
+      "demonym_m": "ชาวดัตช์",
+      "demonym_f": "ชาวดัตช์"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "นิวซีแลนด์",
+      "demonym_m": "ชาวนิวซีแลนด์",
+      "demonym_f": "ชาวนิวซีแลนด์"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "นิการากัว",
+      "demonym_m": "ชาวนิการากัว",
+      "demonym_f": "ชาวนิการากัว"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "ไนเจอร์",
+      "demonym_m": "ชาวไนเจอร์",
+      "demonym_f": "ชาวไนเจอร์"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "ไนจีเรีย",
+      "demonym_m": "ชาวไนจีเรีย",
+      "demonym_f": "ชาวไนจีเรีย"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "เกาหลีเหนือ",
+      "demonym_m": "ชาวเกาหลีเหนือ",
+      "demonym_f": "ชาวเกาหลีเหนือ"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "มาซิโดเนียเหนือ",
+      "demonym_m": "ชาวมาซิโดเนีย",
+      "demonym_f": "ชาวมาซิโดเนีย"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "นอร์เวย์",
+      "demonym_m": "ชาวนอร์เวย์",
+      "demonym_f": "ชาวนอร์เวย์"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "โอมาน",
+      "demonym_m": "ชาวโอมาน",
+      "demonym_f": "ชาวโอมาน"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "ปากีสถาน",
+      "demonym_m": "ชาวปากีสถาน",
+      "demonym_f": "ชาวปากีสถาน"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "ปาเลา",
+      "demonym_m": "ชาวปาเลา",
+      "demonym_f": "ชาวปาเลา"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "ปานามา",
+      "demonym_m": "ชาวปานามา",
+      "demonym_f": "ชาวปานามา"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "ปาปัวนิวกินี",
+      "demonym_m": "ชาวปาปัวนิวกินี",
+      "demonym_f": "ชาวปาปัวนิวกินี"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "ปารากวัย",
+      "demonym_m": "ชาวปารากวัย",
+      "demonym_f": "ชาวปารากวัย"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "เปรู",
+      "demonym_m": "ชาวเปรู",
+      "demonym_f": "ชาวเปรู"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "ฟิลิปปินส์",
+      "demonym_m": "ชาวฟิลิปปินส์",
+      "demonym_f": "ชาวฟิลิปปินส์"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "โปแลนด์",
+      "demonym_m": "ชาวโปแลนด์",
+      "demonym_f": "ชาวโปแลนด์"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "โปรตุเกส",
+      "demonym_m": "ชาวโปรตุเกส",
+      "demonym_f": "ชาวโปรตุเกส"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "กาตาร์",
+      "demonym_m": "ชาวกาตาร์",
+      "demonym_f": "ชาวกาตาร์"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "สาธารณรัฐคองโก",
+      "demonym_m": "ชาวคองโก",
+      "demonym_f": "ชาวคองโก"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "โรมาเนีย",
+      "demonym_m": "ชาวโรมาเนีย",
+      "demonym_f": "ชาวโรมาเนีย"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "demonym_m": "ชาวรัสเซีย",
+      "demonym_f": "ชาวรัสเซีย"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "รวันดา",
+      "demonym_m": "ชาวรวันดา",
+      "demonym_f": "ชาวรวันดา"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "เซนต์คิตส์และเนวิส",
+      "demonym_m": "ชาวคิตเชียนหรือชาวเนวิส",
+      "demonym_f": "ชาวคิตเชียนหรือชาวเนวิส"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "เซนต์ลูเซีย",
+      "demonym_m": "ชาวเซนต์ลูเซียน",
+      "demonym_f": "ชาวเซนต์ลูเซียน"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "demonym_m": "ชาวเซนต์วินเซนต์",
+      "demonym_f": "ชาวเซนต์วินเซนต์"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "ซามัว",
+      "demonym_m": "ชาวซามัว",
+      "demonym_f": "ชาวซามัว"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "ซานมารีโน",
+      "demonym_m": "ชาวซานมารีนีส",
+      "demonym_f": "ชาวซานมารีนีส"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "เซาตูเมและปรินซิปี",
+      "demonym_m": "ชาวเซาตูเม",
+      "demonym_f": "ชาวเซาตูเม"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "ซาอุดีอาระเบีย",
+      "demonym_m": "ชาวซาอุดีอาระเบีย",
+      "demonym_f": "ชาวซาอุดีอาระเบีย"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "เซเนกัล",
+      "demonym_m": "ชาวเซเนกัล",
+      "demonym_f": "ชาวเซเนกัล"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "เซอร์เบีย",
+      "demonym_m": "ชาวเซอร์เบีย",
+      "demonym_f": "ชาวเซอร์เบีย"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "เซเชลส์",
+      "demonym_m": "ชาวเซเชลส์",
+      "demonym_f": "ชาวเซเชลส์"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "เซียร์ราลีโอน",
+      "demonym_m": "ชาวเซียร์ราลีโอน",
+      "demonym_f": "ชาวเซียร์ราลีโอน"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "demonym_m": "ชาวสิงคโปร์",
+      "demonym_f": "ชาวสิงคโปร์"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "สโลวาเกีย",
+      "demonym_m": "ชาวสโลวัก",
+      "demonym_f": "ชาวสโลวัก"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "สโลวีเนีย",
+      "demonym_m": "ชาวสโลวีน",
+      "demonym_f": "ชาวสโลวีน"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "หมู่เกาะโซโลมอน",
+      "demonym_m": "ชาวหมู่เกาะโซโลมอน",
+      "demonym_f": "ชาวหมู่เกาะโซโลมอน"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "โซมาเลีย",
+      "demonym_m": "ชาวโซมาเลีย",
+      "demonym_f": "ชาวโซมาเลีย"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "แอฟริกาใต้",
+      "demonym_m": "ชาวแอฟริกาใต้",
+      "demonym_f": "ชาวแอฟริกาใต้"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "เกาหลีใต้",
+      "demonym_m": "ชาวเกาหลีใต้",
+      "demonym_f": "ชาวเกาหลีใต้"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "ซูดานใต้",
+      "demonym_m": "ชาวซูดานใต้",
+      "demonym_f": "ชาวซูดานใต้"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "สเปน",
+      "demonym_m": "ชาวสเปน",
+      "demonym_f": "ชาวสเปน"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "demonym_m": "ชาวศรีลังกา",
+      "demonym_f": "ชาวศรีลังกา"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "ซูดาน",
+      "demonym_m": "ชาวซูดาน",
+      "demonym_f": "ชาวซูดาน"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "ซูรินาม",
+      "demonym_m": "ชาวซูรินาม",
+      "demonym_f": "ชาวซูรินาม"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "สวีเดน",
+      "demonym_m": "ชาวสวีเดน",
+      "demonym_f": "ชาวสวีเดน"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "สวิตเซอร์แลนด์",
+      "demonym_m": "ชาวสวิส",
+      "demonym_f": "ชาวสวิส"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "ซีเรีย",
+      "demonym_m": "ชาวซีเรีย",
+      "demonym_f": "ชาวซีเรีย"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "ทาจิกิสถาน",
+      "demonym_m": "ชาวทาจิก",
+      "demonym_f": "ชาวทาจิก"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "แทนซาเนีย",
+      "demonym_m": "ชาวแทนซาเนีย",
+      "demonym_f": "ชาวแทนซาเนีย"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "ประเทศไทย",
+      "demonym_m": "ชาวไทย",
+      "demonym_f": "ชาวไทย"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "ติมอร์-เลสเต",
+      "demonym_m": "ชาวติมอร์ตะวันออก",
+      "demonym_f": "ชาวติมอร์ตะวันออก"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "โตโก",
+      "demonym_m": "ชาวโตโก",
+      "demonym_f": "ชาวโตโก"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "ตองกา",
+      "demonym_m": "ชาวตองกา",
+      "demonym_f": "ชาวตองกา"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "ตรินิแดดและโตเบโก",
+      "demonym_m": "ชาวตรินิแดด",
+      "demonym_f": "ชาวตรินิแดด"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "ตูนิเซีย",
+      "demonym_m": "ชาวตูนิเซีย",
+      "demonym_f": "ชาวตูนิเซีย"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "ตุรกี",
+      "demonym_m": "ชาวตุรกี",
+      "demonym_f": "ชาวตุรกี"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "เติร์กเมนิสถาน",
+      "demonym_m": "ชาวเติร์กเมน",
+      "demonym_f": "ชาวเติร์กเมน"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "ตูวาลู",
+      "demonym_m": "ชาวตูวาลู",
+      "demonym_f": "ชาวตูวาลู"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "ยูกันดา",
+      "demonym_m": "ชาวยูกันดา",
+      "demonym_f": "ชาวยูกันดา"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "ยูเครน",
+      "demonym_m": "ชาวยูเครน",
+      "demonym_f": "ชาวยูเครน"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "สหรัฐอาหรับเอมิเรตส์",
+      "demonym_m": "ชาวเอมิเรตส์",
+      "demonym_f": "ชาวเอมิเรตส์"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "สหราชอาณาจักร",
+      "demonym_m": "ชาวอังกฤษ",
+      "demonym_f": "ชาวอังกฤษ"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "สหรัฐอเมริกา",
+      "demonym_m": "ชาวอเมริกัน",
+      "demonym_f": "ชาวอเมริกัน"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "อุรุกวัย",
+      "demonym_m": "ชาวอุรุกวัย",
+      "demonym_f": "ชาวอุรุกวัย"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "อุซเบกิสถาน",
+      "demonym_m": "ชาวอุซเบกิสถาน",
+      "demonym_f": "ชาวอุซเบกิสถาน"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "วานูอาตู",
+      "demonym_m": "ชาววานูอาตู",
+      "demonym_f": "ชาววานูอาตู"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "นครรัฐวาติกัน",
+      "demonym_m": "ชาววาติกัน",
+      "demonym_f": "ชาววาติกัน"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "เวเนซุเอลา",
+      "demonym_m": "ชาวเวเนซุเอลา",
+      "demonym_f": "ชาวเวเนซุเอลา"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "เวียดนาม",
+      "demonym_m": "ชาวเวียดนาม",
+      "demonym_f": "ชาวเวียดนาม"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "เยเมน",
+      "demonym_m": "ชาวเยเมน",
+      "demonym_f": "ชาวเยเมน"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "แซมเบีย",
+      "demonym_m": "ชาวแซมเบีย",
+      "demonym_f": "ชาวแซมเบีย"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "ซิมบับเว",
+      "demonym_m": "ชาวซิมบับเว",
+      "demonym_f": "ชาวซิมบับเว"
+    }
+  ],
+  "meta": {
+    "seo_title": "ชื่อเรียกพลเมืองประเทศ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดรายชื่อชื่อเรียกพลเมือง 195 ประเทศ พร้อมรหัส ISO ฟรี ในรูปแบบ Excel, CSV และ PDF สำหรับโครงการข้อมูลของคุณ",
+    "title": "ชุดข้อมูลชื่อเรียกพลเมืองของประเทศและรหัส ISO ทั่วโลก",
+    "description": "ชุดข้อมูลนี้รวบรวมรายชื่อประเทศอิสระ 195 ประเทศ พร้อมชื่อเรียกพลเมืองทั้งชายและหญิง รวมถึงรหัส ISO Alpha-2 และ Alpha-3 ที่เกี่ยวข้อง",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลชื่อเรียกพลเมือง 195 ประเทศ รวมถึงรูปแบบชายและหญิง",
+      "สำรวจประเทศต่างๆ พร้อมรหัส ISO Alpha-2 และ Alpha-3 ที่เกี่ยวข้อง",
+      "ดาวน์โหลดข้อมูลพร้อมใช้สำหรับการศึกษาภาษาศาสตร์หรือการประยุกต์ใช้ทางภูมิศาสตร์",
+      "ใช้ประโยชน์จากข้อมูลชื่อเรียกพลเมืองที่ถูกต้องสำหรับความต้องการด้านการวิจัยและการพัฒนาที่หลากหลาย"
+    ],
+    "keywords": [
+      "ชื่อเรียกพลเมืองประเทศ",
+      "ข้อมูลชื่อประเทศ",
+      "รหัส ISO ชื่อพลเมือง",
+      "ดาวน์โหลดชื่อพลเมือง excel",
+      "ข้อมูลพลเมือง csv",
+      "คำคุณศัพท์ประเทศ"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณ เพื่อสร้างแอปพลิเคชันที่ต้องการคำศัพท์เฉพาะของประเทศ",
+      "ใช้ไฟล์ **Excel** เพื่อกรอง จัดเรียง และวิเคราะห์แนวโน้มชื่อเรียกพลเมืองของประเทศ สำหรับการวิจัยภาษาศาสตร์หรือการสร้างเนื้อหาการศึกษา",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงออฟไลน์อย่างรวดเร็วในห้องเรียน หน่วยงานแปล หรือการวางแผนการเดินทาง",
+      "รวมข้อมูลนี้เข้ากับเว็บไซต์หรือแอปพลิเคชันมือถือ เพื่อให้คำศัพท์ที่ถูกต้องตามวัฒนธรรมสำหรับการระบุตัวตนของผู้ใช้หรือการปรับเนื้อหาให้เข้ากับท้องถิ่น"
+    ]
+  },
+  "record_count": 195,
+  "title": "ชุดข้อมูลชื่อเรียกพลเมืองของประเทศและรหัส ISO ทั่วโลก"
+}

@@ -1,0 +1,1031 @@
+{
+  "id": "science-countries-by-aids-patients",
+  "name": "รายชื่อประเทศตามจำนวนผู้ป่วยโรคเอดส์",
+  "title": "รายชื่อประเทศตามจำนวนผู้ป่วยโรคเอดส์",
+  "description": "รายชื่อประเทศทั่วโลกเรียงตามจำนวนผู้ป่วยโรคเอดส์ (HIV/AIDS) ประกอบด้วยข้อมูลอันดับ ประเทศ/เขตแดน จำนวนผู้ป่วย และปีข้อมูลที่รวบรวม",
+  "category": "science",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B9%80%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B9%8C",
+  "updated": "2024-07-29",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "อันดับ",
+      "type": "string"
+    },
+    {
+      "key": "country_territory",
+      "label": "ประเทศ / เขตแดน",
+      "type": "string"
+    },
+    {
+      "key": "hiv_aids_patients",
+      "label": "จำนวนผู้ป่วย HIV/AIDS",
+      "type": "number"
+    },
+    {
+      "key": "data_year",
+      "label": "ปีข้อมูล (ค.ศ.)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "1",
+      "country_territory": "แอฟริกาใต้",
+      "hiv_aids_patients": 10000000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "2",
+      "country_territory": "อินเดีย",
+      "hiv_aids_patients": 5100000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "3",
+      "country_territory": "ไนจีเรีย",
+      "hiv_aids_patients": 3600000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "4",
+      "country_territory": "ซิมบับเว",
+      "hiv_aids_patients": 1800000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "5",
+      "country_territory": "แทนซาเนีย",
+      "hiv_aids_patients": 1600000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "6",
+      "country_territory": "เอธิโอเปีย",
+      "hiv_aids_patients": 1500000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "7",
+      "country_territory": "โมซัมบิก",
+      "hiv_aids_patients": 1300000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "8",
+      "country_territory": "เคนยา",
+      "hiv_aids_patients": 1200000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "9",
+      "country_territory": "สาธารณรัฐประชาธิปไตยคองโก",
+      "hiv_aids_patients": 1100000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "10",
+      "country_territory": "สหรัฐอเมริกา",
+      "hiv_aids_patients": 950000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "11",
+      "country_territory": "แซมเบีย",
+      "hiv_aids_patients": 920000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "12",
+      "country_territory": "มาลาวี",
+      "hiv_aids_patients": 900000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "13",
+      "country_territory": "รัสเซีย",
+      "hiv_aids_patients": 860000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "14",
+      "country_territory": "เกาหลีใต้",
+      "hiv_aids_patients": 840000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "15",
+      "country_territory": "บราซิล",
+      "hiv_aids_patients": 660000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "16",
+      "country_territory": "โกตดิวัวร์",
+      "hiv_aids_patients": 570000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "17",
+      "country_territory": "ยูเครน",
+      "hiv_aids_patients": 360000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "18",
+      "country_territory": "แคเมอรูน",
+      "hiv_aids_patients": 560000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "19",
+      "country_territory": "ยูกันดา",
+      "hiv_aids_patients": 530000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "20",
+      "country_territory": "ซูดาน",
+      "hiv_aids_patients": 430000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "21",
+      "country_territory": "จีน",
+      "hiv_aids_patients": 610000,
+      "data_year": "2007"
+    },
+    {
+      "rank": "22",
+      "country_territory": "บอตสวานา",
+      "hiv_aids_patients": 350000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "23",
+      "country_territory": "กานา",
+      "hiv_aids_patients": 350000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "24",
+      "country_territory": "เมียนมา",
+      "hiv_aids_patients": 330000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "25",
+      "country_territory": "เลโซโท",
+      "hiv_aids_patients": 320000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "26",
+      "country_territory": "บูร์กินาฟาโซ",
+      "hiv_aids_patients": 300000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "27",
+      "country_territory": "เฮติ",
+      "hiv_aids_patients": 280000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "28",
+      "country_territory": "สาธารณรัฐแอฟริกากลาง",
+      "hiv_aids_patients": 260000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "29",
+      "country_territory": "บุรุนดี",
+      "hiv_aids_patients": 250000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "30",
+      "country_territory": "รวันดา",
+      "hiv_aids_patients": 250000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "31",
+      "country_territory": "แองโกลา",
+      "hiv_aids_patients": 240000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "32",
+      "country_territory": "เวียดนาม",
+      "hiv_aids_patients": 220000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "33",
+      "country_territory": "เอสวาตินี",
+      "hiv_aids_patients": 220000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "34",
+      "country_territory": "นามิเบีย",
+      "hiv_aids_patients": 210000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "35",
+      "country_territory": "ชาด",
+      "hiv_aids_patients": 200000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "36",
+      "country_territory": "โคลอมเบีย",
+      "hiv_aids_patients": 190000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "37",
+      "country_territory": "กัมพูชา",
+      "hiv_aids_patients": 170000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "38",
+      "country_territory": "เซียร์ราลีโอน",
+      "hiv_aids_patients": 170000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "39",
+      "country_territory": "เม็กซิโก",
+      "hiv_aids_patients": 160000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "40",
+      "country_territory": "กินี",
+      "hiv_aids_patients": 140000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "41",
+      "country_territory": "มาดากัสการ์",
+      "hiv_aids_patients": 140000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "42",
+      "country_territory": "อิตาลี",
+      "hiv_aids_patients": 140000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "43",
+      "country_territory": "มาลี",
+      "hiv_aids_patients": 140000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "44",
+      "country_territory": "สเปน",
+      "hiv_aids_patients": 140000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "45",
+      "country_territory": "อาร์เจนตินา",
+      "hiv_aids_patients": 130000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "46",
+      "country_territory": "ฝรั่งเศส",
+      "hiv_aids_patients": 120000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "47",
+      "country_territory": "อินโดนีเซีย",
+      "hiv_aids_patients": 110000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "48",
+      "country_territory": "โตโก",
+      "hiv_aids_patients": 110000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "49",
+      "country_territory": "เวเนซุเอลา",
+      "hiv_aids_patients": 110000,
+      "data_year": "1999"
+    },
+    {
+      "rank": "50",
+      "country_territory": "ไลบีเรีย",
+      "hiv_aids_patients": 100000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "51",
+      "country_territory": "สาธารณรัฐคองโก",
+      "hiv_aids_patients": 90000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "52",
+      "country_territory": "สาธารณรัฐโดมินิกัน",
+      "hiv_aids_patients": 88000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "53",
+      "country_territory": "เปรู",
+      "hiv_aids_patients": 82000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "54",
+      "country_territory": "กัวเตมาลา",
+      "hiv_aids_patients": 78000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "55",
+      "country_territory": "ปากีสถาน",
+      "hiv_aids_patients": 74000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "56",
+      "country_territory": "ไนเจอร์",
+      "hiv_aids_patients": 70000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "57",
+      "country_territory": "เบนิน",
+      "hiv_aids_patients": 68000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "58",
+      "country_territory": "ฮอนดูรัส",
+      "hiv_aids_patients": 63000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "59",
+      "country_territory": "เนปาล",
+      "hiv_aids_patients": 61000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "60",
+      "country_territory": "เอริเทรีย",
+      "hiv_aids_patients": 60000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "61",
+      "country_territory": "แคนาดา",
+      "hiv_aids_patients": 56000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "62",
+      "country_territory": "มาเลเซีย",
+      "hiv_aids_patients": 52000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "63",
+      "country_territory": "สหราชอาณาจักร",
+      "hiv_aids_patients": 51000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "64",
+      "country_territory": "กาบอง",
+      "hiv_aids_patients": 48000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "65",
+      "country_territory": "เซเนกัล",
+      "hiv_aids_patients": 44000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "66",
+      "country_territory": "เยอรมนี",
+      "hiv_aids_patients": 43000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "67",
+      "country_territory": "โซมาเลีย",
+      "hiv_aids_patients": 43000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "68",
+      "country_territory": "อิหร่าน",
+      "hiv_aids_patients": 31000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "69",
+      "country_territory": "เอลซัลวาดอร์",
+      "hiv_aids_patients": 29000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "70",
+      "country_territory": "ตรินิแดดและโตเบโก",
+      "hiv_aids_patients": 29000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "71",
+      "country_territory": "ชิลี",
+      "hiv_aids_patients": 26000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "72",
+      "country_territory": "จาเมกา",
+      "hiv_aids_patients": 22000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "73",
+      "country_territory": "โปรตุเกส",
+      "hiv_aids_patients": 22000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "74",
+      "country_territory": "เอกวาดอร์",
+      "hiv_aids_patients": 21000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "75",
+      "country_territory": "เนเธอร์แลนด์",
+      "hiv_aids_patients": 19000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "76",
+      "country_territory": "กินี-บิสเซา",
+      "hiv_aids_patients": 17000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "77",
+      "country_territory": "คาซัคสถาน",
+      "hiv_aids_patients": 16500,
+      "data_year": "2001"
+    },
+    {
+      "rank": "78",
+      "country_territory": "ปานามา",
+      "hiv_aids_patients": 16000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "79",
+      "country_territory": "ปาปัวนิวกินี",
+      "hiv_aids_patients": 16000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "80",
+      "country_territory": "เบลารุส",
+      "hiv_aids_patients": 15000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "81",
+      "country_territory": "โมร็อกโก",
+      "hiv_aids_patients": 15000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "82",
+      "country_territory": "ปารากวัย",
+      "hiv_aids_patients": 15000,
+      "data_year": "1999"
+    },
+    {
+      "rank": "83",
+      "country_territory": "ออสเตรเลีย",
+      "hiv_aids_patients": 14000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "84",
+      "country_territory": "โปแลนด์",
+      "hiv_aids_patients": 14000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "85",
+      "country_territory": "บังกลาเทศ",
+      "hiv_aids_patients": 13000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "86",
+      "country_territory": "สวิตเซอร์แลนด์",
+      "hiv_aids_patients": 13000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "87",
+      "country_territory": "คอสตาริกา",
+      "hiv_aids_patients": 12000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "88",
+      "country_territory": "เยเมน",
+      "hiv_aids_patients": 12000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "89",
+      "country_territory": "ญี่ปุ่น",
+      "hiv_aids_patients": 12000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "90",
+      "country_territory": "อียิปต์",
+      "hiv_aids_patients": 12000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "91",
+      "country_territory": "กายอานา",
+      "hiv_aids_patients": 11000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "92",
+      "country_territory": "อุซเบกิสถาน",
+      "hiv_aids_patients": 11000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "93",
+      "country_territory": "ออสเตรีย",
+      "hiv_aids_patients": 10000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "94",
+      "country_territory": "เบลเยียม",
+      "hiv_aids_patients": 10000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "95",
+      "country_territory": "ลิเบีย",
+      "hiv_aids_patients": 10000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "96",
+      "country_territory": "เซอร์เบียและมอนเตเนโกร",
+      "hiv_aids_patients": 10000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "97",
+      "country_territory": "มอริเตเนีย",
+      "hiv_aids_patients": 9500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "98",
+      "country_territory": "แอลจีเรีย",
+      "hiv_aids_patients": 9100,
+      "data_year": "2003"
+    },
+    {
+      "rank": "99",
+      "country_territory": "กรีซ",
+      "hiv_aids_patients": 9100,
+      "data_year": "2001"
+    },
+    {
+      "rank": "100",
+      "country_territory": "จิบูตี",
+      "hiv_aids_patients": 9100,
+      "data_year": "2003"
+    },
+    {
+      "rank": "101",
+      "country_territory": "ฟิลิปปินส์",
+      "hiv_aids_patients": 9000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "102",
+      "country_territory": "เกาหลีเหนือ",
+      "hiv_aids_patients": 8300,
+      "data_year": "2003"
+    },
+    {
+      "rank": "103",
+      "country_territory": "เอสโตเนีย",
+      "hiv_aids_patients": 7800,
+      "data_year": "2003"
+    },
+    {
+      "rank": "104",
+      "country_territory": "ลัตเวีย",
+      "hiv_aids_patients": 7600,
+      "data_year": "2001"
+    },
+    {
+      "rank": "",
+      "country_territory": "ปวยร์โตรีโก",
+      "hiv_aids_patients": 7397,
+      "data_year": ""
+    },
+    {
+      "rank": "105",
+      "country_territory": "แกมเบีย",
+      "hiv_aids_patients": 6800,
+      "data_year": "2003"
+    },
+    {
+      "rank": "106",
+      "country_territory": "โรมาเนีย",
+      "hiv_aids_patients": 6500,
+      "data_year": "2001"
+    },
+    {
+      "rank": "107",
+      "country_territory": "นิการากัว",
+      "hiv_aids_patients": 6400,
+      "data_year": "2003"
+    },
+    {
+      "rank": "108",
+      "country_territory": "อุรุกวัย",
+      "hiv_aids_patients": 6000,
+      "data_year": "2001"
+    },
+    {
+      "rank": "109",
+      "country_territory": "อิเควทอเรียลกินี",
+      "hiv_aids_patients": 5900,
+      "data_year": "2001"
+    },
+    {
+      "rank": "110",
+      "country_territory": "บาฮามาส",
+      "hiv_aids_patients": 5600,
+      "data_year": "2003"
+    },
+    {
+      "rank": "111",
+      "country_territory": "มอลโดวา",
+      "hiv_aids_patients": 5500,
+      "data_year": "2001"
+    },
+    {
+      "rank": "112",
+      "country_territory": "ซูรินาม",
+      "hiv_aids_patients": 5200,
+      "data_year": "2001"
+    },
+    {
+      "rank": "113",
+      "country_territory": "เดนมาร์ก",
+      "hiv_aids_patients": 5000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "114",
+      "country_territory": "โบลิเวีย",
+      "hiv_aids_patients": 4900,
+      "data_year": "2003"
+    },
+    {
+      "rank": "115",
+      "country_territory": "สิงคโปร์",
+      "hiv_aids_patients": 4100,
+      "data_year": "2003"
+    },
+    {
+      "rank": "116",
+      "country_territory": "คีร์กีซสถาน",
+      "hiv_aids_patients": 3900,
+      "data_year": "2003"
+    },
+    {
+      "rank": "117",
+      "country_territory": "เบลีซ",
+      "hiv_aids_patients": 3600,
+      "data_year": "2003"
+    },
+    {
+      "rank": "118",
+      "country_territory": "สวีเดน",
+      "hiv_aids_patients": 3600,
+      "data_year": "2001"
+    },
+    {
+      "rank": "119",
+      "country_territory": "ศรีลังกา",
+      "hiv_aids_patients": 3500,
+      "data_year": "2001"
+    },
+    {
+      "rank": "120",
+      "country_territory": "คิวบา",
+      "hiv_aids_patients": 3300,
+      "data_year": "2003"
+    },
+    {
+      "rank": "121",
+      "country_territory": "จอร์เจีย",
+      "hiv_aids_patients": 3000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "122",
+      "country_territory": "อิสราเอล",
+      "hiv_aids_patients": 3000,
+      "data_year": "1999"
+    },
+    {
+      "rank": "123",
+      "country_territory": "ไอร์แลนด์",
+      "hiv_aids_patients": 2800,
+      "data_year": "2001"
+    },
+    {
+      "rank": "124",
+      "country_territory": "ฮังการี",
+      "hiv_aids_patients": 2800,
+      "data_year": "2001"
+    },
+    {
+      "rank": "125",
+      "country_territory": "เลบานอน",
+      "hiv_aids_patients": 2800,
+      "data_year": "2003"
+    },
+    {
+      "rank": "126",
+      "country_territory": "อาร์เมเนีย",
+      "hiv_aids_patients": 2600,
+      "data_year": "2003"
+    },
+    {
+      "rank": "",
+      "country_territory": "ฮ่องกง",
+      "hiv_aids_patients": 2600,
+      "data_year": "2003"
+    },
+    {
+      "rank": "127",
+      "country_territory": "บาร์เบโดส",
+      "hiv_aids_patients": 2500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "128",
+      "country_territory": "เช็กเกีย",
+      "hiv_aids_patients": 2500,
+      "data_year": "2001"
+    },
+    {
+      "rank": "129",
+      "country_territory": "นอร์เวย์",
+      "hiv_aids_patients": 2100,
+      "data_year": "2001"
+    },
+    {
+      "rank": "130",
+      "country_territory": "ลาว",
+      "hiv_aids_patients": 1700,
+      "data_year": "2003"
+    },
+    {
+      "rank": "131",
+      "country_territory": "ฟินแลนด์",
+      "hiv_aids_patients": 1500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "132",
+      "country_territory": "อาเซอร์ไบจาน",
+      "hiv_aids_patients": 1400,
+      "data_year": "2003"
+    },
+    {
+      "rank": "133",
+      "country_territory": "นิวซีแลนด์",
+      "hiv_aids_patients": 1400,
+      "data_year": "2003"
+    },
+    {
+      "rank": "134",
+      "country_territory": "ลิทัวเนีย",
+      "hiv_aids_patients": 1300,
+      "data_year": "2003"
+    },
+    {
+      "rank": "135",
+      "country_territory": "โอมาน",
+      "hiv_aids_patients": 1300,
+      "data_year": "2001"
+    },
+    {
+      "rank": "136",
+      "country_territory": "ไซปรัส",
+      "hiv_aids_patients": 1000,
+      "data_year": "1999"
+    },
+    {
+      "rank": "137",
+      "country_territory": "ตูนิเซีย",
+      "hiv_aids_patients": 1000,
+      "data_year": "2003"
+    },
+    {
+      "rank": "138",
+      "country_territory": "บอสเนียและเฮอร์เซโกวีนา",
+      "hiv_aids_patients": 900,
+      "data_year": "2003"
+    },
+    {
+      "rank": "139",
+      "country_territory": "กาบูเวร์ดี",
+      "hiv_aids_patients": 775,
+      "data_year": ""
+    },
+    {
+      "rank": "140",
+      "country_territory": "มอริเชียส",
+      "hiv_aids_patients": 700,
+      "data_year": "2001"
+    },
+    {
+      "rank": "141",
+      "country_territory": "บาห์เรน",
+      "hiv_aids_patients": 600,
+      "data_year": "2003"
+    },
+    {
+      "rank": "142",
+      "country_territory": "ฟิจิ",
+      "hiv_aids_patients": 600,
+      "data_year": "2003"
+    },
+    {
+      "rank": "143",
+      "country_territory": "จอร์แดน",
+      "hiv_aids_patients": 600,
+      "data_year": "2003"
+    },
+    {
+      "rank": "144",
+      "country_territory": "อิรัก",
+      "hiv_aids_patients": 500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "145",
+      "country_territory": "ซีเรีย",
+      "hiv_aids_patients": 500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "146",
+      "country_territory": "มอลตา",
+      "hiv_aids_patients": 500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "147",
+      "country_territory": "มองโกเลีย",
+      "hiv_aids_patients": 500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "148",
+      "country_territory": "ลักเซมเบิร์ก",
+      "hiv_aids_patients": 500,
+      "data_year": "2003"
+    },
+    {
+      "rank": "149",
+      "country_territory": "บัลแกเรีย",
+      "hiv_aids_patients": 346,
+      "data_year": "2001"
+    },
+    {
+      "rank": "150",
+      "country_territory": "สโลวีเนีย",
+      "hiv_aids_patients": 280,
+      "data_year": "2001"
+    },
+    {
+      "rank": "151",
+      "country_territory": "ไอซ์แลนด์",
+      "hiv_aids_patients": 220,
+      "data_year": "2001"
+    },
+    {
+      "rank": "152",
+      "country_territory": "บรูไน",
+      "hiv_aids_patients": 200,
+      "data_year": "2003"
+    },
+    {
+      "rank": "153",
+      "country_territory": "เติร์กเมนิสถาน",
+      "hiv_aids_patients": 200,
+      "data_year": "2003"
+    },
+    {
+      "rank": "154",
+      "country_territory": "ทาจิกิสถาน",
+      "hiv_aids_patients": 200,
+      "data_year": "2003"
+    },
+    {
+      "rank": "155",
+      "country_territory": "มาซิโดเนียเหนือ",
+      "hiv_aids_patients": 200,
+      "data_year": "2003"
+    },
+    {
+      "rank": "156",
+      "country_territory": "สโลวาเกีย",
+      "hiv_aids_patients": 200,
+      "data_year": "2003"
+    },
+    {
+      "rank": "157",
+      "country_territory": "โครเอเชีย",
+      "hiv_aids_patients": 200,
+      "data_year": "2001"
+    },
+    {
+      "rank": "158",
+      "country_territory": "ภูฏาน",
+      "hiv_aids_patients": 100,
+      "data_year": "1999"
+    },
+    {
+      "rank": "",
+      "country_territory": "กรีนแลนด์",
+      "hiv_aids_patients": 100,
+      "data_year": ""
+    },
+    {
+      "rank": "159",
+      "country_territory": "มัลดีฟส์",
+      "hiv_aids_patients": 100,
+      "data_year": "2001"
+    },
+    {
+      "rank": "160",
+      "country_territory": "ซามัว",
+      "hiv_aids_patients": 12,
+      "data_year": ""
+    },
+    {
+      "rank": "",
+      "country_territory": "สฟาลบาร์และยานไมเอน",
+      "hiv_aids_patients": 0,
+      "data_year": "2001"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประเทศตามจำนวนผู้ป่วยโรคเอดส์",
+    "description": "รายชื่อประเทศทั่วโลกเรียงตามจำนวนผู้ป่วยโรคเอดส์ (HIV/AIDS) ประกอบด้วยข้อมูลอันดับ ประเทศ/เขตแดน จำนวนผู้ป่วย และปีข้อมูลที่รวบรวม",
+    "seo_title": "รายชื่อประเทศตามจำนวนผู้ป่วยโรคเอดส์ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 164 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 164 รายการครบถ้วน",
+      "รวม: อันดับ, ประเทศ / เขตแดน, จำนวนผู้ป่วย HIV/AIDS, ปีข้อมูล (ค.ศ.)",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

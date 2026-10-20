@@ -1,0 +1,1001 @@
+{
+  "id": "transport-nonthaburi-roads",
+  "name": "รายชื่อถนนในจังหวัดนนทบุรี",
+  "title": "รายชื่อถนนในจังหวัดนนทบุรี",
+  "description": "รายชื่อถนนทั้งหมดในจังหวัดนนทบุรี ประกอบด้วยชื่อถนนภาษาไทยและโรมัน จุดเริ่มต้นและจุดสิ้นสุดของถนน ท้องที่อำเภอที่ถนนพาดผ่าน และหมายเหตุเพิ่มเติมเกี่ยวกับถนนนั้น ๆ",
+  "category": "transport",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%96%E0%B8%99%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+  "updated": "2024-07-29",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อถนน (อักษรไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อถนน (อักษรโรมัน)",
+      "type": "string"
+    },
+    {
+      "key": "start_point",
+      "label": "จุดเริ่มต้น",
+      "type": "string"
+    },
+    {
+      "key": "end_point",
+      "label": "จุดสิ้นสุด",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "ท้องที่อำเภอ",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "หมายเหตุ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "กรุงเทพฯ-นนทบุรี",
+      "name_en": "Krung Thep - Nonthaburi",
+      "start_point": "สะพานข้ามคลองบางเขน (เข้าเขตจังหวัดนนทบุรี)",
+      "end_point": "แยกติวานนท์",
+      "district": "เมืองนนทบุรี",
+      "notes": "ทางหลวงแผ่นดินหมายเลข 301"
+    },
+    {
+      "name_th": "กาญจนาภิเษก",
+      "name_en": "Kanchanaphisek",
+      "start_point": "สะพานข้ามคลองมหาสวัสดิ์ (เข้าเขตจังหวัดนนทบุรี)",
+      "end_point": "สะพานข้ามคลองพระอุดม (สุดเขตจังหวัดนนทบุรี)",
+      "district": "บางกรวย, บางใหญ่, บางบัวทอง, ปากเกร็ด",
+      "notes": "ทางหลวงพิเศษหมายเลข 9 และทางหลวงแผ่นดินหมายเลข 3901, 3902; (ถนนวงแหวนรอบนอกตะวันตก; ถนนตลิ่งชัน-สุพรรณบุรี)"
+    },
+    {
+      "name_th": "กำนันสมจิตร",
+      "name_en": "Kamnan Somchit",
+      "start_point": "ถนนประชาอุทิศ",
+      "end_point": "สุดเขตเทศบาลเมืองบางใหญ่",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "เกตุอ่ำพัฒนา",
+      "name_en": "Ket-am Phatthana",
+      "start_point": "ทางหลวงชนบท นบ.1002",
+      "end_point": "สุดถนน",
+      "district": "บางบัวทอง",
+      "notes": ""
+    },
+    {
+      "name_th": "แก้วอินทร์",
+      "name_en": "Kaeo In",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "ข้างโรงกรองน้ำ",
+      "name_en": "Khang Rong Krong Nam",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "สุดถนน",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "คลองข่อย ม.4",
+      "name_en": "Khlong Khoi Mu 4",
+      "start_point": "ถนนราชพฤกษ์",
+      "end_point": "สะพานข้ามคลองบางภูมิ (สุดเขต อบต. คลองข่อย)",
+      "district": "ปากเกร็ด",
+      "notes": "แนวที่ตรงต่อเนื่องไปในเขต อบต. คลองพระอุดมคือซอยเกษตรพัฒนา 2"
+    },
+    {
+      "name_th": "งามวงศ์วาน",
+      "name_en": "Ngam Wong Wan",
+      "start_point": "แยกแคราย",
+      "end_point": "สะพานข้ามคลองประปา (สุดเขตจังหวัดนนทบุรี)",
+      "district": "เมืองนนทบุรี",
+      "notes": "ส่วนหนึ่งของทางหลวงแผ่นดินหมายเลข 302"
+    },
+    {
+      "name_th": "จงถนอม-ไทรน้อย",
+      "name_en": "Chong Thanom - Sai Noi",
+      "start_point": "",
+      "end_point": "",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "จันทร์ทองเอี่ยม",
+      "name_en": "Chan Thong-iam",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "สะพานข้ามคลองบางไผ่",
+      "district": "บางบัวทอง",
+      "notes": "แนวที่ตรงต่อเนื่องไปในเขตเทศบาลนครบางบัวทองคือซอยเทศบาล 11"
+    },
+    {
+      "name_th": "จรัญสนิทวงศ์",
+      "name_en": "Charan Sanit Wong",
+      "start_point": "ทางรถไฟสายใต้ (เข้าเขตจังหวัดนนทบุรี)",
+      "end_point": "ใต้สะพานพระราม 6 (สุดเขตจังหวัดนนทบุรี)",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "แจ้งวัฒนะ",
+      "name_en": "Chaeng Watthana",
+      "start_point": "ท่าน้ำปากเกร็ด",
+      "end_point": "สะพานข้ามคลองประปา (สุดเขตจังหวัดนนทบุรี)",
+      "district": "ปากเกร็ด",
+      "notes": "ส่วนหนึ่งของทางหลวงแผ่นดินหมายเลข 304 (ยกเว้นช่วงต้น)"
+    },
+    {
+      "name_th": "แจ้งวัฒนะ-ปากเกร็ด 16",
+      "name_en": "Chaeng Watthana - Pak Kret 16",
+      "start_point": "ถนนแจ้งวัฒนะ",
+      "end_point": "ท่าน้ำวัดกลางเกร็ด",
+      "district": "ปากเกร็ด",
+      "notes": "(ถนนภูมิเวท)"
+    },
+    {
+      "name_th": "ฉลองราชย์ ร.9",
+      "name_en": "Chalong Rat Ratchakan Thi 9",
+      "start_point": "ทางหลวงชนบท นบ.5027",
+      "end_point": "ถนนเลียบคลองประปา",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "ฉลองราชย์ 50 ปี",
+      "name_en": "Chalong Rat 50 Pi",
+      "start_point": "ทางหลวงชนบท นบ.1011",
+      "end_point": "ทางหลวงชนบท นบ.1001",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "ชัยพฤกษ์",
+      "name_en": "Chaiyaphruek",
+      "start_point": "ถนนแจ้งวัฒนะ",
+      "end_point": "ถนนบางกรวย-ไทรน้อย",
+      "district": "ปากเกร็ด, บางบัวทอง",
+      "notes": "ทางหลวงชนบท นบ.3030"
+    },
+    {
+      "name_th": "เด่นอารี",
+      "name_en": "Den Ari",
+      "start_point": "ซอยบางพลับ 2",
+      "end_point": "ซอยบางพลับ 2",
+      "district": "ปากเกร็ด",
+      "notes": ""
+    },
+    {
+      "name_th": "ต้นเชือก-สี่แยกคลองโยง",
+      "name_en": "Ton Chueak - Si Yaek Khlong Yong",
+      "start_point": "ถนนจงถนอม-ไทรน้อย",
+      "end_point": "ถนนหลวงพ่อวิหาร",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "ตาแดง",
+      "name_en": "Ta Daeng",
+      "start_point": "ทางหลวงชนบท นบ.5014",
+      "end_point": "ถนนทวีวัฒนา",
+      "district": "บางใหญ่",
+      "notes": "(ถนนเลียบคลองตาแดง)"
+    },
+    {
+      "name_th": "ติวานนท์",
+      "name_en": "Tiwanon",
+      "start_point": "แยกติวานนท์",
+      "end_point": "สะพานข้ามคลองบ้านใหม่ (สุดเขตจังหวัดนนทบุรี)",
+      "district": "เมืองนนทบุรี, ปากเกร็ด",
+      "notes": "ส่วนหนึ่งของทางหลวงแผ่นดินหมายเลข 306"
+    },
+    {
+      "name_th": "ทวีวัฒนา",
+      "name_en": "Thawi Watthana",
+      "start_point": "เข้าเขต อบต. บ้านใหม่ (ด้านเหนือ)",
+      "end_point": "สะพาน 3 ส.ส. (สุดเขต อบต. บ้านใหม่)",
+      "district": "บางใหญ่",
+      "notes": "บางส่วนมีฐานะเป็นทางหลวงชนบท นบ.1009"
+    },
+    {
+      "name_th": "เทศบาล 1",
+      "name_en": "Thetsaban 1",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "คลองพระพิมล",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 1",
+      "name_en": "Thetsaban 1",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "สุดถนน",
+      "district": "บางบัวทอง",
+      "notes": "แยกจากฝั่งซ้าย"
+    },
+    {
+      "name_th": "เทศบาล 2",
+      "name_en": "Thetsaban 2",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "คลองพระพิมล",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 2",
+      "name_en": "Thetsaban 2",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "สุดเขตเทศบาลนครบางบัวทอง",
+      "district": "บางบัวทอง",
+      "notes": "แยกจากฝั่งขวา"
+    },
+    {
+      "name_th": "เทศบาล 3",
+      "name_en": "Thetsaban 3",
+      "start_point": "ทางหลวงท้องถิ่น นบ.ถ 1-0018",
+      "end_point": "คลองไทรน้อยพัฒนา (สุดเขตเทศบาลตำบลไทรน้อย)",
+      "district": "ไทรน้อย",
+      "notes": "(ถนนไทรน้อย-วัดต้นเชือก); ส่วนหนึ่งของทางหลวงชนบท นบ.5027"
+    },
+    {
+      "name_th": "เทศบาล 3",
+      "name_en": "Thetsaban 3",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "ทางแยกหน้าสถานธนานุบาล",
+      "district": "บางบัวทอง",
+      "notes": "แยกจากฝั่งซ้าย"
+    },
+    {
+      "name_th": "เทศบาล 4",
+      "name_en": "Thetsaban 4",
+      "start_point": "คลองพระพิมล",
+      "end_point": "โรงสีไทยเจริญกิจ",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 4",
+      "name_en": "Thetsaban 4",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "คลองบางบัวทอง",
+      "district": "บางบัวทอง",
+      "notes": "แยกจากฝั่งขวา"
+    },
+    {
+      "name_th": "เทศบาล 5",
+      "name_en": "Thetsaban 5",
+      "start_point": "ถนนเทศบาล 2",
+      "end_point": "ถนนเทศบาล 3",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 5",
+      "name_en": "Thetsaban 5",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "ซอยแยกถนนบางกรวย-ไทรน้อย",
+      "district": "บางบัวทอง",
+      "notes": "แยกจากฝั่งซ้าย"
+    },
+    {
+      "name_th": "เทศบาล 6",
+      "name_en": "Thetsaban 6",
+      "start_point": "ถนนเทศบาล 3",
+      "end_point": "สุดเขตเทศบาลตำบลไทรน้อย (ด้านตะวันออก)",
+      "district": "ไทรน้อย",
+      "notes": "แนวที่ตรงต่อเนื่องไปคือถนนบ้านกล้วย-ไทรน้อย; ส่วนหนึ่งของทางหลวงชนบท นบ.1013"
+    },
+    {
+      "name_th": "เทศบาล 6",
+      "name_en": "Thetsaban 6",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "สุดถนน",
+      "district": "บางบัวทอง",
+      "notes": "แยกจากฝั่งขวา"
+    },
+    {
+      "name_th": "เทศบาล 7",
+      "name_en": "Thetsaban 7",
+      "start_point": "ถนนเทศบาล 1",
+      "end_point": "สุดเขตเทศบาลตำบลไทรน้อย (ด้านตะวันออก)",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 7",
+      "name_en": "Thetsaban 7",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "ถนนเทศบาล 17",
+      "district": "บางบัวทอง",
+      "notes": "(ซอยอารีย์); แยกจากฝั่งซ้าย"
+    },
+    {
+      "name_th": "เทศบาล 8",
+      "name_en": "Thetsaban 8",
+      "start_point": "ถนนเทศบาล 3",
+      "end_point": "ถนนริมคลองไทรน้อยพัฒนา",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 8",
+      "name_en": "Thetsaban 8",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "สุดถนน",
+      "district": "บางบัวทอง",
+      "notes": "(เสนะวาทิน); แยกจากฝั่งขวา"
+    },
+    {
+      "name_th": "เทศบาล 9",
+      "name_en": "Thetsaban 9",
+      "start_point": "ถนนเทศบาล 6",
+      "end_point": "ถนนเทศบาล 3",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 9",
+      "name_en": "Thetsaban 9",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "สุดถนน",
+      "district": "บางบัวทอง",
+      "notes": "แยกจากฝั่งซ้าย"
+    },
+    {
+      "name_th": "เทศบาล 10",
+      "name_en": "Thetsaban 10",
+      "start_point": "ถนนเทศบาล 6",
+      "end_point": "สุดถนน",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 11",
+      "name_en": "Thetsaban 11",
+      "start_point": "ถนนเทศบาล 6",
+      "end_point": "สุดถนน",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 11",
+      "name_en": "Thetsaban 11",
+      "start_point": "ทางแยกหน้าสถานธนานุบาล",
+      "end_point": "ถนนกาญจนาภิเษก",
+      "district": "บางบัวทอง",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 12",
+      "name_en": "Thetsaban 12",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "ถนนเทศบาล 6",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 13",
+      "name_en": "Thetsaban 13",
+      "start_point": "ถนนเทศบาล 7",
+      "end_point": "สุดถนน",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 13",
+      "name_en": "Thetsaban 13",
+      "start_point": "ถนนเทศบาล 9 (ฝั่งขวา)",
+      "end_point": "ถนนเทศบาล 3 (ฝั่งซ้าย)",
+      "district": "บางบัวทอง",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 14",
+      "name_en": "Thetsaban 14",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "ถนนเทศบาล 7",
+      "district": "ไทรน้อย",
+      "notes": "(ซอยตาเจียน)"
+    },
+    {
+      "name_th": "เทศบาล 14",
+      "name_en": "Thetsaban 14",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "คลองสามวัง (สุดเขตเทศบาลนครบางบัวทอง)",
+      "district": "บางบัวทอง",
+      "notes": "(ถนนสามวัง)"
+    },
+    {
+      "name_th": "เทศบาล 15",
+      "name_en": "Thetsaban 15",
+      "start_point": "ถนนเทศบาล 9 (ฝั่งซ้าย)",
+      "end_point": "สวนสาธารณะเทศบาลนครบางบัวทอง",
+      "district": "บางบัวทอง",
+      "notes": ""
+    },
+    {
+      "name_th": "เทศบาล 17",
+      "name_en": "Thetsaban 17",
+      "start_point": "ถนนเทศบาล 11 (ฝั่งซ้าย)",
+      "end_point": "ถนนเทศบาล 9 (ฝั่งขวา)",
+      "district": "บางบัวทอง",
+      "notes": ""
+    },
+    {
+      "name_th": "เทอดพระเกียรติ",
+      "name_en": "Thoet Phra Kiat",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "ทางรถไฟสายใต้ (สุดเขตจังหวัดนนทบุรี)",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "เทิดพระเกียรติ",
+      "name_en": "Thoet Phra Kiat",
+      "start_point": "ทางหลวงชนบท นบ.1016",
+      "end_point": "ทางหลวงชนบท นบ.1009",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "ไทรม้า-บางรักน้อย-ท่าอิฐ",
+      "name_en": "Sai Ma - Bang Rak Noi - Tha It",
+      "start_point": "แยกไทรม้า",
+      "end_point": "",
+      "district": "เมืองนนทบุรี",
+      "notes": "(ถนนไทรม้า-ท่าอิฐ; ถนนท่าอิฐ)"
+    },
+    {
+      "name_th": "นครอินทร์",
+      "name_en": "Nakhon In",
+      "start_point": "แยกติวานนท์",
+      "end_point": "ทางแยกต่างระดับบางคูเวียง",
+      "district": "เมืองนนทบุรี, บางกรวย",
+      "notes": "ทางหลวงชนบท นบ.1020"
+    },
+    {
+      "name_th": "นนทกิจ-บางม่วง",
+      "name_en": "Nonthakit - Bang Muang",
+      "start_point": "ทางหลวงชนบท นบ.1001",
+      "end_point": "ท้ายซอยสามแยกตาฉัตร",
+      "district": "บางใหญ่",
+      "notes": "(ถนนทางเข้า อบต.)"
+    },
+    {
+      "name_th": "นนทบุรี 1",
+      "name_en": "Nonthaburi 1",
+      "start_point": "ถนนประชาราษฎร์",
+      "end_point": "แยกสนามบินน้ำ",
+      "district": "เมืองนนทบุรี",
+      "notes": "(ถนนสนามบินน้ำ)"
+    },
+    {
+      "name_th": "นราภิรมย์",
+      "name_en": "Naraphirom",
+      "start_point": "ถนนเลียบคลองมหาสวัสดิ์",
+      "end_point": "ทางหลวงชนบท นบ.1011",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "บางกรวย-จงถนอม",
+      "name_en": "Bang Kruai - Chong Thanom",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "บางไกรใน",
+      "name_en": "Bang Krai Nai",
+      "start_point": "",
+      "end_point": "",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "บางกรวย-ไทรน้อย",
+      "name_en": "Bang Kruai - Sai Noi",
+      "start_point": "ถนนจรัญสนิทวงศ์",
+      "end_point": "สุดถนน",
+      "district": "บางกรวย, เมืองนนทบุรี, บางใหญ่, บางบัวทอง, ไทรน้อย",
+      "notes": "ช่วงตั้งแต่สะพานข้ามคลองวัดแดงจนถึงกิโลเมตรที่ 19+973 และช่วงตั้งแต่กิโลเมตรที่ 21+560 จนสุดถนนมีฐานะเป็นทางหลวงแผ่นดินหมายเลข 3215"
+    },
+    {
+      "name_th": "บางกรวย-ไทรน้อย",
+      "name_en": "Bang Kruai - Sai Noi",
+      "start_point": "ถนนบางกรวย-ไทรน้อย (สายหลัก)",
+      "end_point": "สะพานข้ามคลองบางกอกน้อย",
+      "district": "บางใหญ่",
+      "notes": "ช่วงตั้งแต่วงเวียนการไฟฟ้าบางใหญ่จนถึงกิโลเมตรที่ 0+631 มีฐานะเป็นทางหลวงแผ่นดินหมายเลข 3584; (ถนนบางกรวย-บางใหญ่; ถนนบางใหญ่เก่า)"
+    },
+    {
+      "name_th": "บางคูลัด-วัดพระเงิน",
+      "name_en": "Bang Khu Lat - Wat Phra Ngoen",
+      "start_point": "ถนนบางใหญ่-บางคูลัด",
+      "end_point": "",
+      "district": "บางใหญ่",
+      "notes": "ส่วนหนึ่งของทางหลวงชนบท นบ.5035"
+    },
+    {
+      "name_th": "บางคูเวียง",
+      "name_en": "Bang Khu Wiang",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "ถนนนครอินทร์",
+      "district": "บางกรวย",
+      "notes": "(ซอยวัดหูช้าง)"
+    },
+    {
+      "name_th": "บางคูเวียง",
+      "name_en": "Bang Khu Wiang",
+      "start_point": "ถนนนครอินทร์",
+      "end_point": "สุดถนน",
+      "district": "บางกรวย",
+      "notes": "(ซอยวัดตะเคียน; ซอยวัดโบสถ์บน)"
+    },
+    {
+      "name_th": "บางคูเวียง 1",
+      "name_en": "Bang Khu Wiang 1",
+      "start_point": "ถนนบางคูเวียง",
+      "end_point": "สะพานข้ามคลองบางราวนก (สุดเขตเทศบาลเมืองปลายบาง)",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "บางน้อย",
+      "name_en": "Bang Noi",
+      "start_point": "ถนนสายวัดใหญ่สว่างอารมณ์",
+      "end_point": "สุดถนน",
+      "district": "ปากเกร็ด",
+      "notes": ""
+    },
+    {
+      "name_th": "บางไผ่-หนองเพรางาย",
+      "name_en": "Bang Phai - Nong Phrao Ngai",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "ทางหลวงชนบท นบ.5027",
+      "district": "บางบัวทอง, ไทรน้อย",
+      "notes": "ทางหลวงชนบท นบ.1002; (ถนนวัดลาดปลาดุก)"
+    },
+    {
+      "name_th": "บางม่วง-บางคูลัด",
+      "name_en": "Bang Muang - Bang Khu Lat",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "สุดเขตเทศบาลเมืองบ้านบางม่วง",
+      "district": "บางใหญ่",
+      "notes": "(ซอยวัดพระเงิน); ส่วนหนึ่งของทางหลวงชนบท นบ.1001 และทางหลวงชนบท นบ.5035"
+    },
+    {
+      "name_th": "บางม่วง-ศาลายา",
+      "name_en": "Bang Muang - Sala Ya",
+      "start_point": "ถนนบางม่วง-บางคูลัด",
+      "end_point": "สุดเขตเทศบาลเมืองบ้านบางม่วง",
+      "district": "บางใหญ่",
+      "notes": "(ซอยวัดพระเงิน); ส่วนหนึ่งของทางหลวงชนบท นบ.1001"
+    },
+    {
+      "name_th": "บางศรีเมือง",
+      "name_en": "Bang Si Mueang",
+      "start_point": "ถนนบางกรวย-ไทรน้อย",
+      "end_point": "ท่าน้ำบางศรีเมือง",
+      "district": "เมืองนนทบุรี",
+      "notes": "ถนนท่าน้ำนนทบุรีเดิม"
+    },
+    {
+      "name_th": "บางศรีเมือง 1",
+      "name_en": "Bang Si Mueang 1",
+      "start_point": "แยกบางศรีเมือง",
+      "end_point": "แยกบางสีทอง",
+      "district": "เมืองนนทบุรี, บางกรวย",
+      "notes": "ถนนสุขาภิบาล 1 เดิม"
+    },
+    {
+      "name_th": "บางศรีเมือง-วัดโบสถ์ดอนพรหม",
+      "name_en": "Bang Si Mueang - Wat Bot Don Phrom",
+      "start_point": "แยกบางศรีเมือง",
+      "end_point": "",
+      "district": "เมืองนนทบุรี",
+      "notes": "ถนนท่าน้ำ-วัดโบสถ์เดิม"
+    },
+    {
+      "name_th": "บางใหญ่-บางคูลัด",
+      "name_en": "Bang Yai - Bang Khu Lat",
+      "start_point": "สะพานข้ามคลองบางกอกน้อย",
+      "end_point": "ถนนจงถนอม-ไทรน้อย",
+      "district": "บางใหญ่",
+      "notes": "ส่วนที่อยู่ทางฝั่งตะวันตกของถนนกาญจนาภิเษกมีฐานะเป็นทางหลวงชนบท นบ.1026; (ซอยกันตนา)"
+    },
+    {
+      "name_th": "บ้านกล้วย-ไทรน้อย",
+      "name_en": "Ban Kluai - Sai Noi",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "สุดเขต อบต. ไทรน้อย",
+      "district": "บางบัวทอง, ไทรน้อย",
+      "notes": "แนวที่ตรงต่อเนื่องไปคือถนนเทศบาล 6; ส่วนหนึ่งของทางหลวงชนบท นบ.1013"
+    },
+    {
+      "name_th": "บ้านไทรม้า",
+      "name_en": "Ban Sai Ma",
+      "start_point": "แยกไทรม้า",
+      "end_point": "",
+      "district": "เมืองนนทบุรี",
+      "notes": ""
+    },
+    {
+      "name_th": "บ้านบางไทร",
+      "name_en": "Ban Bang Sai",
+      "start_point": "ถนนประชาอุทิศ",
+      "end_point": "ทางหลวงชนบท นบ.1016",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "ประชาชื่น",
+      "name_en": "Pracha Chuen",
+      "start_point": "สะพานข้ามคลองบางเขน (เข้าเขตจังหวัดนนทบุรี)",
+      "end_point": "คลองบางตลาด (สุดเขตเทศบาลนครนนทบุรี)",
+      "district": "เมืองนนทบุรี",
+      "notes": ""
+    },
+    {
+      "name_th": "ประชาชื่น-ปากเกร็ด",
+      "name_en": "Pracha Chuen - Pak Kret",
+      "start_point": "คลองบางตลาด (เข้าเขตเทศบาลนครปากเกร็ด)",
+      "end_point": "คลองบ้านใหม่ (สุดเขตจังหวัดนนทบุรี)",
+      "district": "ปากเกร็ด",
+      "notes": ""
+    },
+    {
+      "name_th": "ประชานิเวศน์ 3",
+      "name_en": "Pracha Niwet 3",
+      "start_point": "ถนนสามัคคี",
+      "end_point": "ท้ายซอยงามวงศ์วาน 23",
+      "district": "เมืองนนทบุรี",
+      "notes": ""
+    },
+    {
+      "name_th": "ประชาราษฎร์",
+      "name_en": "Pracha Rat",
+      "start_point": "แยกติวานนท์",
+      "end_point": "วงเวียนหอนาฬิกา",
+      "district": "เมืองนนทบุรี",
+      "notes": "ช่วงตั้งแต่แยกติวานนท์ถึงแยกศรีพรสวรรค์มีฐานะเป็นทางหลวงแผ่นดินหมายเลข 306"
+    },
+    {
+      "name_th": "ประชาอุทิศ",
+      "name_en": "Pracha Uthit",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "ถนนจงถนอม-ไทรน้อย",
+      "district": "บางใหญ่",
+      "notes": "ส่วนหนึ่งของทางหลวงชนบท นบ.1016 และทางหลวงชนบท นบ.5005"
+    },
+    {
+      "name_th": "ปลายบาง",
+      "name_en": "Plai Bang",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "ถนนบางกรวย-จงถนอม",
+      "district": "บางกรวย",
+      "notes": "(ซอยวัดศรีเรืองบุญ)"
+    },
+    {
+      "name_th": "ผดุงสวัสดิ์",
+      "name_en": "Phadung Sawat",
+      "start_point": "ถนนสำเร็จพัฒนา",
+      "end_point": "",
+      "district": "บางกรวย",
+      "notes": "ส่วนหนึ่งของทางหลวงชนบท นบ.5029"
+    },
+    {
+      "name_th": "ปู่เส็งเจริญสุข",
+      "name_en": "Pu Seng Charoen Suk",
+      "start_point": "ทางหลวงชนบท นบ.1011",
+      "end_point": "สุดถนน",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "ผู้ใหญ่หงษ์",
+      "name_en": "Phuyai Hong",
+      "start_point": "ถนนหลวงพ่อวิหาร",
+      "end_point": "สุดถนน",
+      "district": "บางใหญ่",
+      "notes": "(ถนนเลียบคลองผู้ใหญ่หงษ์)"
+    },
+    {
+      "name_th": "ผู้ใหญ่อุดม",
+      "name_en": "Phuyai Udom",
+      "start_point": "ทางหลวงชนบท นบ.1011",
+      "end_point": "ทางหลวงชนบท นบ.5029",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "พิชัยเขต",
+      "name_en": "Phichai Khet",
+      "start_point": "ทางหลวงชนบท นบ.1011",
+      "end_point": "",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "พิบูลสงคราม",
+      "name_en": "Pibulsonggram",
+      "start_point": "สะพานข้ามคลองบางเขน (เข้าเขตจังหวัดนนทบุรี)",
+      "end_point": "แยกศรีพรสวรรค์",
+      "district": "เมืองนนทบุรี",
+      "notes": "ส่วนหนึ่งของทางหลวงแผ่นดินหมายเลข 306"
+    },
+    {
+      "name_th": "รัตนาธิเบศร์",
+      "name_en": "Rattanathibet",
+      "start_point": "แยกแคราย",
+      "end_point": "ทางแยกต่างระดับบางใหญ่",
+      "district": "เมืองนนทบุรี, บางบัวทอง, บางใหญ่",
+      "notes": "ส่วนหนึ่งของทางหลวงแผ่นดินหมายเลข 302"
+    },
+    {
+      "name_th": "ราชพฤกษ์",
+      "name_en": "Ratchaphruek",
+      "start_point": "เข้าเขตจังหวัดนนทบุรี (สะพานข้ามคลองมหาสวัสดิ์)",
+      "end_point": "สุดเขตจังหวัดนนทบุรี",
+      "district": "บางกรวย, เมืองนนทบุรี, ปากเกร็ด",
+      "notes": "ทางหลวงชนบท นบ.3021"
+    },
+    {
+      "name_th": "ราษฎร์ประเสริฐ",
+      "name_en": "Rat Prasoet",
+      "start_point": "ทางหลวงชนบท นบ.5014",
+      "end_point": "สุดถนน",
+      "district": "บางใหญ่",
+      "notes": "(ถนนเลียบคลองราษฎร์ประเสริฐ)"
+    },
+    {
+      "name_th": "เรวดี",
+      "name_en": "Rewadi",
+      "start_point": "ถนนติวานนท์",
+      "end_point": "ถนนเลี่ยงเมืองนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "notes": ""
+    },
+    {
+      "name_th": "ฤชุพันธุ์",
+      "name_en": "Ruechuphan",
+      "start_point": "ทางหลวงแผ่นดินหมายเลข 340",
+      "end_point": "สุดเขตจังหวัดนนทบุรี",
+      "district": "ไทรน้อย",
+      "notes": "(ถนนไทรน้อย-ลาดบัวหลวง)"
+    },
+    {
+      "name_th": "เลี่ยงเมืองนนทบุรี",
+      "name_en": "Liang Mueang Nonthaburi",
+      "start_point": "ถนนพิบูลสงคราม",
+      "end_point": "ถนนนนทบุรี 1",
+      "district": "เมืองนนทบุรี",
+      "notes": "ทางหลวงชนบท นบ.4018"
+    },
+    {
+      "name_th": "เลี่ยงเมืองนนทบุรี",
+      "name_en": "Liang Mueang Nonthaburi",
+      "start_point": "ถนนเลี่ยงเมืองนนทบุรี",
+      "end_point": "ถนนนนทบุรี 1",
+      "district": "เมืองนนทบุรี",
+      "notes": ""
+    },
+    {
+      "name_th": "เลี่ยงเมืองปากเกร็ด",
+      "name_en": "Liang Mueang Pak Kret",
+      "start_point": "ทางแยกต่างระดับอัมพรไพศาล",
+      "end_point": "ถนนสามัคคี",
+      "district": "ปากเกร็ด, เมืองนนทบุรี",
+      "notes": "ทางหลวงชนบท นบ.3019"
+    },
+    {
+      "name_th": "เลียบคลองบางไผ่",
+      "name_en": "Liap Khlong Bang Phai",
+      "start_point": "ถนนรัตนาธิเบศร์",
+      "end_point": "สุดถนน",
+      "district": "บางบัวทอง",
+      "notes": ""
+    },
+    {
+      "name_th": "เลียบคลองมหาสวัสดิ์",
+      "name_en": "Liap Khlong Maha Sawat",
+      "start_point": "",
+      "end_point": "ถนนนราภิรมย์",
+      "district": "บางกรวย",
+      "notes": "ส่วนหนึ่งของทางหลวงชนบท นบ.5029"
+    },
+    {
+      "name_th": "เลียบคลองหนองทับ",
+      "name_en": "Liap Khlong Nong Thap",
+      "start_point": "",
+      "end_point": "",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "เลียบคลองใหม่เจริญ",
+      "name_en": "Liap Khlong Mai Charoen",
+      "start_point": "",
+      "end_point": "",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "วัดปรางค์หลวง",
+      "name_en": "Wat Prang Luang",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "หน้าวัดปรางค์หลวง",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "วัดสังวรพิมลไพบูลย์",
+      "name_en": "Wat Sangwon Phimon Phaibun",
+      "start_point": "ถนนบางใหญ่-บางคูลัด",
+      "end_point": "ถนนวัดปรางค์หลวง",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "วัดใหม่ผดุงเขต",
+      "name_en": "Wat Mai Phadung Khet",
+      "start_point": "ทางหลวงชนบท นบ.1011",
+      "end_point": "ทางหลวงชนบท นบ.5029",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "วัดอัมพวัน",
+      "name_en": "Wat Amphawan",
+      "start_point": "ถนนวัดปรางค์หลวง",
+      "end_point": "สุดถนน",
+      "district": "บางใหญ่",
+      "notes": ""
+    },
+    {
+      "name_th": "ศรีสมาน",
+      "name_en": "Si Saman",
+      "start_point": "แยกสวนสมเด็จพระศรีนครินทร์",
+      "end_point": "สะพานข้ามคลองประปา (สุดเขตจังหวัดนนทบุรี)",
+      "district": "ปากเกร็ด",
+      "notes": ""
+    },
+    {
+      "name_th": "สวนหลวง",
+      "name_en": "Suan Luang",
+      "start_point": "",
+      "end_point": "",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "ส.ส. สำเร็จ",
+      "name_en": "Soso Samret",
+      "start_point": "ทางหลวงท้องถิ่น นบ.ถ 1-0013",
+      "end_point": "ทางหลวงท้องถิ่น นบ.ถ 1-0015",
+      "district": "บางใหญ่, ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "สามัคคี",
+      "name_en": "Samakkhi",
+      "start_point": "แยกสามัคคี",
+      "end_point": "ถนนประชาชื่น",
+      "district": "เมืองนนทบุรี",
+      "notes": ""
+    },
+    {
+      "name_th": "สายสมเดชอุทิศ",
+      "name_en": "Sai Somdet Uthit",
+      "start_point": "ทางหลวงชนบท นบ.3032",
+      "end_point": "",
+      "district": "ไทรน้อย",
+      "notes": ""
+    },
+    {
+      "name_th": "สำเร็จพัฒนา",
+      "name_en": "Samret Phatthana",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "สุดเขตเทศบาลเมืองปลายบาง",
+      "district": "บางกรวย",
+      "notes": "(ซอยวัดศรีประวัติ); ส่วนหนึ่งของทางหลวงชนบท นบ.1011"
+    },
+    {
+      "name_th": "สุขาประชาสรรค์ 1",
+      "name_en": "Sukha Pracha San 1",
+      "start_point": "ถนนแจ้งวัฒนะ",
+      "end_point": "ถนนแจ้งวัฒนะ-ปากเกร็ด 16",
+      "district": "ปากเกร็ด",
+      "notes": ""
+    },
+    {
+      "name_th": "สุขาประชาสรรค์ 2",
+      "name_en": "Sukha Pracha San 2",
+      "start_point": "ถนนแจ้งวัฒนะ",
+      "end_point": "สุดถนน",
+      "district": "ปากเกร็ด",
+      "notes": ""
+    },
+    {
+      "name_th": "สุขาประชาสรรค์ 3",
+      "name_en": "Sukha Pracha San 3",
+      "start_point": "ถนนสุขาประชาสรรค์ 2",
+      "end_point": "ถนนติวานนท์",
+      "district": "ปากเกร็ด",
+      "notes": ""
+    },
+    {
+      "name_th": "หลวงพ่อวิหาร",
+      "name_en": "Luangpho Wihan",
+      "start_point": "ทางหลวงชนบท นบ.5014",
+      "end_point": "ถนนทวีวัฒนา",
+      "district": "บางใหญ่",
+      "notes": "(ถนนต้นเชือก-สี่แยกคลองโยง); ส่วนหนึ่งของทางหลวงชนบท นบ.1009"
+    },
+    {
+      "name_th": "หลุมลี",
+      "name_en": "Lum Li",
+      "start_point": "ถนนประชาอุทิศ",
+      "end_point": "ถนนราษฎร์ประเสริฐ",
+      "district": "บางใหญ่",
+      "notes": "(ถนนเลียบคลองหลุมลี)"
+    },
+    {
+      "name_th": "อัจฉริยะประสิทธิ์",
+      "name_en": "Atchariya Prasit",
+      "start_point": "",
+      "end_point": "",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "อัจฉริยะประสิทธิ์ 1",
+      "name_en": "Atchariya Prasit 1",
+      "start_point": "",
+      "end_point": "สะพานข้ามคลองบางขวาง (บางโคเผือก)",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "อัจฉริยะพัฒนา",
+      "name_en": "Atchariya Phatthana",
+      "start_point": "ถนนกาญจนาภิเษก",
+      "end_point": "",
+      "district": "บางกรวย",
+      "notes": ""
+    },
+    {
+      "name_th": "อัจฉริยะพัฒนา 2",
+      "name_en": "Atchariya Phatthana 2",
+      "start_point": "ถนนอัจฉริยะพัฒนา",
+      "end_point": "ถนนสำเร็จพัฒนา",
+      "district": "บางกรวย",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อถนนในจังหวัดนนทบุรี",
+    "description": "รายชื่อถนนทั้งหมดในจังหวัดนนทบุรี ประกอบด้วยชื่อถนนภาษาไทยและโรมัน จุดเริ่มต้นและจุดสิ้นสุดของถนน ท้องที่อำเภอที่ถนนพาดผ่าน และหมายเหตุเพิ่มเติมเกี่ยวกับถนนนั้น ๆ",
+    "seo_title": "รายชื่อถนนในจังหวัดนนทบุรี - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 79 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 79 รายการครบถ้วน",
+      "รวม: ชื่อถนน (ไทย/โรมัน), จุดเริ่มต้น, จุดสิ้นสุด, อำเภอ, หมายเหตุ",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "id": "finance-thai-banks",
+  "name": "รายชื่อธนาคารพาณิชย์ในประเทศไทย",
+  "description": "รายชื่อธนาคารพาณิชย์และธนาคารเฉพาะกิจทั้งหมดในประเทศไทย พร้อมรหัสธนาคาร ปีที่ก่อตั้ง ประเภท และรหัส SWIFT",
+  "category": "finance",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/ธนาคารในประเทศไทย",
+  "updated": "2026-02-22",
+  "meta": {
+    "title": "รายชื่อธนาคารพาณิชย์ในประเทศไทย - ข้อมูลธนาคารทั้งหมด พร้อมรหัสและปีที่ก่อตั้ง",
+    "description": "รายชื่อธนาคารพาณิชย์และธนาคารเฉพาะกิจทั้งหมดในประเทศไทย รวม 18 แห่ง พร้อมรหัสธนาคาร ปีที่ก่อตั้ง ประเภท รหัส SWIFT และหมายเหตุสำคัญ อัปเดตล่าสุด 2026",
+    "seo_title": "รายชื่อธนาคารในประเทศไทย ทั้งหมด 18 แห่ง | รหัสธนาคาร SWIFT Code",
+    "seo_description": "ดาวน์โหลดรายชื่อธนาคารพาณิชย์และธนาคารเฉพาะกิจในประเทศไทยครบถ้วน 18 แห่ง พร้อมรหัสธนาคาร ปีที่ก่อตั้ง รหัส SWIFT และประเภทธนาคาร ข้อมูลอัปเดตล่าสุด 2026",
+    "key_takeaways": [
+      "มีธนาคารพาณิชย์และธนาคารเฉพาะกิจทั้งหมด 18 แห่งในประเทศไทย",
+      "ธนาคารไทยพาณิชย์เป็นธนาคารพาณิชย์แห่งแรกของไทย ก่อตั้งปี พ.ศ. 2449",
+      "มีธนาคารของรัฐบาล 5 แห่ง ได้แก่ กรุงไทย ออมสิน อาคารสงเคราะห์ ธ.ก.ส. และ EXIM Bank",
+      "ธนาคารทหารไทยธนชาต (TTB) เป็นผลจากการควบรวมธนาคารทหารไทยและธนาคารธนชาต เมื่อปี พ.ศ. 2564"
+    ]
+  },
+  "columns": [
+    {
+      "key": "code",
+      "label": "รหัสธนาคาร",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อธนาคาร",
+      "type": "string"
+    },
+    {
+      "key": "founded_year_buddhist",
+      "label": "ปีที่ก่อตั้ง (พ.ศ.)",
+      "type": "string"
+    },
+    {
+      "key": "founded_year",
+      "label": "ปีที่ก่อตั้ง (ค.ศ.)",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "ประเภท",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "รหัส SWIFT",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "หมายเหตุ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "002",
+      "name_th": "ธนาคารกรุงเทพ",
+      "founded_year_buddhist": "2487",
+      "founded_year": 1944,
+      "type": "บริษัทมหาชน (SET: BBL)",
+      "swift_code": "BKKBTHBK",
+      "notes": ""
+    },
+    {
+      "code": "004",
+      "name_th": "ธนาคารกสิกรไทย",
+      "founded_year_buddhist": "2488",
+      "founded_year": 1945,
+      "type": "บริษัทมหาชน (SET: KBANK)",
+      "swift_code": "KASITHBK",
+      "notes": ""
+    },
+    {
+      "code": "006",
+      "name_th": "ธนาคารกรุงไทย",
+      "founded_year_buddhist": "2509",
+      "founded_year": 1966,
+      "type": "บริษัทมหาชน (SET: KTB)",
+      "swift_code": "KRTHTHBK",
+      "notes": "ธนาคารพาณิชย์ของรัฐ"
+    },
+    {
+      "code": "011",
+      "name_th": "ธนาคารทหารไทยธนชาต",
+      "founded_year_buddhist": "2500",
+      "founded_year": 1957,
+      "type": "บริษัทมหาชน (SET: TTB)",
+      "swift_code": "TMBKTHBK",
+      "notes": "ควบรวมกับธนาคารธนชาต พ.ศ. 2564"
+    },
+    {
+      "code": "014",
+      "name_th": "ธนาคารไทยพาณิชย์",
+      "founded_year_buddhist": "2449",
+      "founded_year": 1906,
+      "type": "บริษัทมหาชน (SET: SCB)",
+      "swift_code": "SICOTHBK",
+      "notes": "ธนาคารพาณิชย์แห่งแรกของไทย"
+    },
+    {
+      "code": "025",
+      "name_th": "ธนาคารกรุงศรีอยุธยา",
+      "founded_year_buddhist": "2488",
+      "founded_year": 1945,
+      "type": "บริษัทมหาชน (SET: BAY)",
+      "swift_code": "AYUDTHBK",
+      "notes": ""
+    },
+    {
+      "code": "069",
+      "name_th": "ธนาคารเกียรตินาคินภัทร",
+      "founded_year_buddhist": "2514",
+      "founded_year": 1971,
+      "type": "บริษัทมหาชน (SET: KKP)",
+      "swift_code": "KIFITHB1",
+      "notes": "ปรับรูปแบบจากบริษัทเงินทุน พ.ศ. 2548"
+    },
+    {
+      "code": "022",
+      "name_th": "ธนาคารซีไอเอ็มบีไทย",
+      "founded_year_buddhist": "2492",
+      "founded_year": 1949,
+      "type": "บริษัทมหาชน (SET: CIMBT)",
+      "swift_code": "UBOBTHBK",
+      "notes": "เดิมชื่อธนาคารสหธนาคาร"
+    },
+    {
+      "code": "067",
+      "name_th": "ธนาคารทิสโก้",
+      "founded_year_buddhist": "2548",
+      "founded_year": 2005,
+      "type": "บริษัทมหาชน (SET: TISCO)",
+      "swift_code": "TFPCTHB1",
+      "notes": "ปรับรูปแบบจากบริษัทเงินทุน"
+    },
+    {
+      "code": "024",
+      "name_th": "ธนาคารยูโอบี",
+      "founded_year_buddhist": "2549",
+      "founded_year": 2006,
+      "type": "บริษัทมหาชน (SET: UOBT)",
+      "swift_code": "UOVBTHBK",
+      "notes": ""
+    },
+    {
+      "code": "071",
+      "name_th": "ธนาคารไทยเครดิต",
+      "founded_year_buddhist": "2547",
+      "founded_year": 2004,
+      "type": "บริษัทมหาชน (SET: CREDIT)",
+      "swift_code": "THCETHB1",
+      "notes": "ปรับสถานะจากธนาคารเพื่อรายย่อย พ.ศ. 2566"
+    },
+    {
+      "code": "073",
+      "name_th": "ธนาคารแลนด์ แอนด์ เฮ้าส์",
+      "founded_year_buddhist": "2552",
+      "founded_year": 2009,
+      "type": "บริษัทมหาชน (SET: LHFG)",
+      "swift_code": "LAHRTHB1",
+      "notes": "ปรับสถานะจากธนาคารเพื่อรายย่อย พ.ศ. 2554"
+    },
+    {
+      "code": "070",
+      "name_th": "ธนาคารไอซีบีซี (ไทย)",
+      "founded_year_buddhist": "2553",
+      "founded_year": 2010,
+      "type": "บริษัทมหาชน (SET: ICBCT)",
+      "swift_code": "ICBKTHBK",
+      "notes": "เดิมชื่อธนาคารสินเอเซีย"
+    },
+    {
+      "code": "098",
+      "name_th": "ธนาคารพัฒนาวิสาหกิจขนาดกลางและขนาดย่อม",
+      "founded_year_buddhist": "2545",
+      "founded_year": 2002,
+      "type": "ธนาคารของรัฐบาล (SME)",
+      "swift_code": "",
+      "notes": "เดิมคือบรรษัทเงินทุนอุตสาหกรรมขนาดย่อม"
+    },
+    {
+      "code": "034",
+      "name_th": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
+      "founded_year_buddhist": "2509",
+      "founded_year": 1966,
+      "type": "ธนาคารของรัฐบาล (BAAC)",
+      "swift_code": "BAABTHBK",
+      "notes": "เดิมชื่อธนาคารเพื่อการสหกรณ์"
+    },
+    {
+      "code": "035",
+      "name_th": "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย",
+      "founded_year_buddhist": "2536",
+      "founded_year": 1993,
+      "type": "ธนาคารของรัฐบาล (EXIM)",
+      "swift_code": "EXTHTHBK",
+      "notes": ""
+    },
+    {
+      "code": "030",
+      "name_th": "ธนาคารออมสิน",
+      "founded_year_buddhist": "2456",
+      "founded_year": 1913,
+      "type": "ธนาคารของรัฐบาล (GSB)",
+      "swift_code": "GSBATHBK",
+      "notes": "เปลี่ยนชื่อมาจากคลังออมสิน พ.ศ. 2490"
+    },
+    {
+      "code": "033",
+      "name_th": "ธนาคารอาคารสงเคราะห์",
+      "founded_year_buddhist": "2496",
+      "founded_year": 1953,
+      "type": "ธนาคารของรัฐบาล (GHB)",
+      "swift_code": "GHBATHBK",
+      "notes": ""
+    }
+  ]
+}

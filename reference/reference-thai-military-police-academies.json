@@ -1,0 +1,556 @@
+{
+  "id": "reference-thai-military-police-academies",
+  "name": "รายชื่อสถาบันการศึกษาของทหารและตำรวจในประเทศไทย",
+  "title": "รายชื่อสถาบันการศึกษาของทหารและตำรวจในประเทศไทย",
+  "description": "รายชื่อสถาบันการศึกษาของทหารและตำรวจในประเทศไทย จำแนกตามสังกัดต่างๆ ได้แก่ กองบัญชาการกองทัพไทย กองทัพบก กองทัพเรือ กองทัพอากาศ และสำนักงานตำรวจแห่งชาติ พร้อมข้อมูลวุฒิการศึกษาที่ได้รับและคุณสมบัติของผู้เข้าศึกษา",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2",
+  "updated": "2023-10-27",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อสถาบันการศึกษา",
+      "type": "string"
+    },
+    {
+      "key": "affiliation_th",
+      "label": "สังกัด",
+      "type": "string"
+    },
+    {
+      "key": "degree_awarded_th",
+      "label": "วุฒิเมื่อสำเร็จการศึกษา",
+      "type": "string"
+    },
+    {
+      "key": "entry_qualification_th",
+      "label": "วุฒิของผู้เข้าศึกษา",
+      "type": "string"
+    },
+    {
+      "key": "notes_th",
+      "label": "หมายเหตุ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "วิทยาลัยป้องกันราชอาณาจักร",
+      "affiliation_th": "สถาบันวิชาการป้องกันประเทศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "วิทยาลัยเสนาธิการทหาร",
+      "affiliation_th": "สถาบันวิชาการป้องกันประเทศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "สถาบันจิตวิทยาความมั่นคง",
+      "affiliation_th": "สถาบันวิชาการป้องกันประเทศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "สถาบันวิจัยทางยุทธศาสตร์",
+      "affiliation_th": "สถาบันวิชาการป้องกันประเทศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "บัณฑิตวิทยาลัย สถาบันวิชาการป้องกันประเทศ",
+      "affiliation_th": "สถาบันวิชาการป้องกันประเทศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนเตรียมทหาร",
+      "affiliation_th": "สถาบันวิชาการป้องกันประเทศ",
+      "degree_awarded_th": "มัธยมศึกษาตอนปลาย (ม.5-ม.6)",
+      "entry_qualification_th": "มัธยมศึกษาชั้นปีที่ 4 หรือ เทียบเท่า",
+      "notes_th": "สถานศึกษาเบื้องต้นก่อนแยกเหล่า สำหรับผู้ที่จะเข้ารับการศึกษาเป็นนายทหารและนายตำรวจสัญญาบัตร"
+    },
+    {
+      "name_th": "โรงเรียนช่างฝีมือทหาร",
+      "affiliation_th": "สถาบันวิชาการป้องกันประเทศ",
+      "degree_awarded_th": "ปวช.",
+      "entry_qualification_th": "มัธยมศึกษาตอนต้น",
+      "notes_th": "เป็นสถานศึกษาที่ผลิตนายทหารชั้นประทวนและช่างฝีมือระดับประกาศนียบัตรวิชาชีพให้กองทัพไทยและตลาดแรงงาน"
+    },
+    {
+      "name_th": "โรงเรียนแผนที่",
+      "affiliation_th": "กรมแผนที่ทหาร",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนเสนาธิการทหารบก",
+      "affiliation_th": "สถาบันวิชาการทหารบกชั้นสูง",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "นายทหารสัญญาบัตรของกองทัพบก",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายร้อยพระจุลจอมเกล้า",
+      "affiliation_th": "กรมยุทธศึกษาทหารบก",
+      "degree_awarded_th": "วิศวกรรมศาสตรบัณฑิต\nวิทยาศาสตรบัณฑิต\nศิลปศาสตรบัณฑิต",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลายจาก โรงเรียนเตรียมทหาร",
+      "notes_th": "- เข้าศึกษาโดยอัตโนมัติ\n- ผู้สำเร็จการศึกษาได้รับการบรรจุเป็นนายทหารสัญญาบัตร ชั้นยศร้อยตรี"
+    },
+    {
+      "name_th": "วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า",
+      "affiliation_th": "กรมแพทย์ทหารบก",
+      "degree_awarded_th": "แพทยศาสตรบัณฑิต",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลาย หรือ เทียบเท่า ตามประกาศของ กสพท.",
+      "notes_th": "-ผู้สำเร็จการศึกษาได้รับการบรรจุเป็นนายทหารสัญญาบัตร ชั้นยศร้อยตรี เรือตรี เรืออากาศตรี และบางส่วนบรรจุในกระทรวงสาธารณสุข\n-สถาบันสมทบของมหาวิทยาลัยมหิดล"
+    },
+    {
+      "name_th": "วิทยาลัยพยาบาลกองทัพบก",
+      "affiliation_th": "กรมแพทย์ทหารบก",
+      "degree_awarded_th": "พยาบาลศาสตรบัณฑิต\nประกาศนียบัตรผู้ช่วยพยาบาล",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลายแผนกวิชา วิทยาศาสตร์-คณิตศาสตร์",
+      "notes_th": "-ผู้สำเร็จการศึกษาบางส่วนได้รับการบรรจุเป็นนายทหารสัญญาบัตร ชั้นยศร้อยตรี\n-สถาบันสมทบของมหาวิทยาลัยมหิดล"
+    },
+    {
+      "name_th": "โรงเรียนนายสิบทหารบก",
+      "affiliation_th": "กรมยุทธศึกษาทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลาย",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารราบ",
+      "affiliation_th": "ศูนย์การทหารราบ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารม้า",
+      "affiliation_th": "ศูนย์การทหารม้า",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารปืนใหญ่",
+      "affiliation_th": "ศูนย์การทหารปืนใหญ่",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารช่าง",
+      "affiliation_th": "กรมการทหารช่าง",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารสื่อสาร",
+      "affiliation_th": "กรมการทหารสื่อสาร",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารขนส่ง",
+      "affiliation_th": "กรมการขนส่งทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารสรรพาวุธ",
+      "affiliation_th": "กรมสรรพาวุธทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารพลาธิการ",
+      "affiliation_th": "กรมพลาธิการทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารสารวัตร",
+      "affiliation_th": "กรมการสารวัตรทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารสารบรรณ",
+      "affiliation_th": "กรมสารบรรณทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารการเงิน",
+      "affiliation_th": "กรมการเงินทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนเสนารักษ์",
+      "affiliation_th": "กรมแพทย์ทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "นายทหารชั้นประทวนของกองทัพบก, นายทหารชั้นสัญญาบัตรของกองทัพบก,",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารการสัตว์",
+      "affiliation_th": "กรมการสัตว์ทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนดุริยางค์ทหารบก",
+      "affiliation_th": "กรมดุริยางค์ทหารบก",
+      "degree_awarded_th": "ประกาศนียบัตรวิชาชีพ",
+      "entry_qualification_th": "มัธยมศึกษาตอนต้น",
+      "notes_th": "-สอบคัดเลือก\n-ผู้ที่สำเร็จการศึกษาได้รับบรรจุเป็นนายทหารชั้นประทวน ยศสิบตรี เหล่าทหารดุริยางค์"
+    },
+    {
+      "name_th": "โรงเรียนข่าวทหารบก",
+      "affiliation_th": "กรมข่าวทหารบก",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": "-หลักสูตร6เดือน เมื่อสำเร็จการศึกษาจะศึกษาต่อในโรงเรียนเหล่าสายวิทยาการ เช่น โรงเรียนทหารราบ โรงเรียนทหารม้า โรงเรียนทหารปืนใหญ่ โรงเรียนทหารสื่อสาร เป็นต้น"
+    },
+    {
+      "name_th": "โรงเรียนสงครามพิเศษ",
+      "affiliation_th": "ศูนย์สงครามพิเศษ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนกิจการพลเรือน",
+      "affiliation_th": "กรมกิจการพลเรือนทหารบก",
+      "degree_awarded_th": "ประกาศนียบัตร",
+      "entry_qualification_th": "ตามเกณฑ์ในหลักสูตรของโรงเรียนกิจการพลเรือน กรมกิจการพลเรือนทหารบก",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนการบินทหารบก",
+      "affiliation_th": "",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนสุนัขทหาร",
+      "affiliation_th": "ศูนย์การสุนัขทหาร",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายเรือ",
+      "affiliation_th": "กรมยุทธศึกษาทหารเรือ",
+      "degree_awarded_th": "วิศวกรรมศาสตรบัณฑิต\nวิทยาศาสตรบัณฑิต",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลายจาก โรงเรียนเตรียมทหาร",
+      "notes_th": "- เข้าศึกษาโดยอัตโนมัติ\n- ผู้สำเร็จการศึกษาได้รับการบรรจุเป็นนายทหารสัญญาบัตร ชั้นยศเรือตรี"
+    },
+    {
+      "name_th": "โรงเรียนเสนาธิการทหารเรือ",
+      "affiliation_th": "กรมยุทธศึกษาทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "นายทหารสัญญาบัตรของกองทัพเรือ",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนชุมพลทหารเรือ",
+      "affiliation_th": "กรมยุทธศึกษาทหารเรือ",
+      "degree_awarded_th": "ปวส.",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลาย, ปวช.",
+      "notes_th": "สอบคัดเลือก\n-ผู้ที่สำเร็จการศึกษาได้รับบรรจุเป็นนายทหารชั้นประทวน ยศจ่าตรี"
+    },
+    {
+      "name_th": "วิทยาลัยการทัพเรือ",
+      "affiliation_th": "กรมยุทธศึกษาทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "ปริญญาตรี",
+      "notes_th": "- สำเร็จการศึกาษาจากโรงเรียนเสนาธิการ\n- หรือสำเร็จจากโรงเรียนนายทหารอาวุโส\n- ชั้นยศ นาวาเอก (น.๔)"
+    },
+    {
+      "name_th": "โรงเรียนพันจ่า",
+      "affiliation_th": "กรมยุทธศึกษาทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายทหารเรือชั้นต้น",
+      "affiliation_th": "กรมยุทธศึกษาทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "วิทยาลัยพยาบาลกองทัพเรือ",
+      "affiliation_th": "กองการศึกษา กรมแพทย์ทหารเรือ",
+      "degree_awarded_th": "พยาบาลศาสตรบัณฑิต",
+      "entry_qualification_th": "",
+      "notes_th": "สถาบันสมทบของมหาวิทยาลัยมหิดล"
+    },
+    {
+      "name_th": "โรงเรียนช่างกรมอู่​ทหารเรือ​",
+      "affiliation_th": "กรมพัฒนาการช่าง​ กรมอู่ทหารเรือ",
+      "degree_awarded_th": "ปวช.",
+      "entry_qualification_th": "มัธยม​ศึกษาตอนต้น",
+      "notes_th": "กระทรวงศึกษาธิการ​ รับรองคุณวุฒิ​"
+    },
+    {
+      "name_th": "โรงเรียนอิเล็กทรอนิกส์",
+      "affiliation_th": "กองวิทยาการ กรมอิเล็กทรอนิกส์ทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนการขนส่งทหารเรือ",
+      "affiliation_th": "กองวิทยาการ กรมการขนส่งทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนสรรพาวุธ",
+      "affiliation_th": "กองวิทยาการ กรมสรรพาวุธทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนสารบรรณ",
+      "affiliation_th": "กรมสารบรรณทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนการเงิน",
+      "affiliation_th": "กองวิทยาการ กรมการเงินทหารเรือ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนทหารนาวิกโยธิน",
+      "affiliation_th": "ศูนย์การฝึก หน่วยบัญชาการนาวิกโยธิน",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายเรืออากาศนวมินทกษัตริยาธิราช",
+      "affiliation_th": "",
+      "degree_awarded_th": "วิศวกรรมศาสตรบัณฑิต\nวิทยาศาสตรบัณฑิต",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลายจาก โรงเรียนเตรียมทหาร",
+      "notes_th": "- เข้าศึกษาโดยอัตโนมัติ\n- ผู้สำเร็จการศึกษาได้รับการบรรจุเป็นนายทหารสัญญาบัตร ชั้นยศเรืออากาศตรี"
+    },
+    {
+      "name_th": "โรงเรียนเสนาธิการทหารอากาศ",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "นายทหารสัญญาบัตรของกองทัพอากาศ",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนจ่าอากาศ",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "เทียบเท่า ปวส.",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลาย หรือ ปวช.",
+      "notes_th": "เมื่อสำเร็จการศึกษาแล้วจะได้รับการประดับยศเป็นจ่าอากาศตรี\nระยะเวลา 2 ปี"
+    },
+    {
+      "name_th": "วิทยาลัยการทัพอากาศ",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายทหารอากาศอาวุโส",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายทหารชั้นผู้บังคับฝูง",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายทหารชั้นผู้บังคับหมวด",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนนายทหารชั้นประทวน",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนครูทหาร",
+      "affiliation_th": "กรมยุทธศึกษาทหารอากาศ",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "โรงเรียนการบิน กำแพงแสน",
+      "affiliation_th": "",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "วิทยาลัยพยาบาลทหารอากาศ",
+      "affiliation_th": "กรมแพทย์ทหารอากาศ",
+      "degree_awarded_th": "พยาบาลศาสตรบัณฑิต",
+      "entry_qualification_th": "",
+      "notes_th": "-สถาบันสมทบของมหาวิทยาลัยมหิดล"
+    },
+    {
+      "name_th": "โรงเรียนนายร้อยตำรวจ",
+      "affiliation_th": "สำนักงานตำรวจแห่งชาติ",
+      "degree_awarded_th": "รัฐประศาสนศาสตรบัณฑิต",
+      "entry_qualification_th": "มัธยมศึกษาตอนปลายจากโรงเรียนเตรียมทหาร (เข้าศึกษาโดยอัตโนมัติ)",
+      "notes_th": "- ผู้สำเร็จการศึกษาได้รับการบรรจุเป็นนายตำรวจสัญญาบัตร ยศร้อยตำรวจตรี"
+    },
+    {
+      "name_th": "วิทยาลัยการตำรวจ",
+      "affiliation_th": "กองบัญชาการศึกษา",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "นายตำรวจชั้นสัญญาบัตร ระดับรองสารวัตร (ยศ ร.ต.อ.), รองผู้กำกับการ หรือ รองผู้บังคับการ",
+      "notes_th": "- หลักสูตรการฝึกอบรมข้าราชการตำรวจชั้นสัญญาบัตร เพื่อตำรงตำแหน่งผู้บริหารชั้นต้น ชั้นกลาง และชั้นสูง"
+    },
+    {
+      "name_th": "สถาบันฝึกอบรมระหว่างประเทศฯ (ILEA)",
+      "affiliation_th": "กองบัญชาการศึกษา",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": "- อบรมหลักสูตรความร่วมมือระหว่างประเทศต่างๆ"
+    },
+    {
+      "name_th": "กองบังคับการฝึกอบรมตำรวจกลาง",
+      "affiliation_th": "กองบัญชาการศึกษา",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 1",
+      "affiliation_th": "ตำรวจภูธรภาค 1",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 2",
+      "affiliation_th": "ตำรวจภูธรภาค 2",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 3",
+      "affiliation_th": "ตำรวจภูธรภาค 3",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 4",
+      "affiliation_th": "ตำรวจภูธรภาค 4",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 5",
+      "affiliation_th": "ตำรวจภูธรภาค 5",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 6",
+      "affiliation_th": "ตำรวจภูธรภาค 6",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 7",
+      "affiliation_th": "ตำรวจภูธรภาค 7",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรมตำรวจภูธรภาค 8",
+      "affiliation_th": "ตำรวจภูธรภาค 8",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": ""
+    },
+    {
+      "name_th": "ศูนย์ฝึกอบรม ศูนย์ปฏิบัติการตำรวจจังหวัดชายแดนภาคใต้",
+      "affiliation_th": "ศูนย์ปฏิบัติการตำรวจจังหวัดชายแดนภาคใต้",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "",
+      "notes_th": "เดิมคือศูนย์ฝึกอบรมตำรวจภูธรภาค 9 สังกัดกองบัญชาการตำรวจภูธรภาค 9 ได้รับการยกฐานะเมื่อ พ.ศ. 2552"
+    },
+    {
+      "name_th": "วิทยาลัยพยาบาลตำรวจ",
+      "affiliation_th": "โรงพยาบาลตำรวจ สำนักงานตำรวจแห่งชาติ",
+      "degree_awarded_th": "พยาบาลศาสตรบัณฑิต\nประกาศนียบัตรผู้ช่วยพยาบาล",
+      "entry_qualification_th": "",
+      "notes_th": "สถาบันสมทบของจุฬาลงกรณ์มหาวิทยาลัย"
+    },
+    {
+      "name_th": "วิทยาลัยแพทยศาสตร์โรงพยาบาลตำรวจ",
+      "affiliation_th": "",
+      "degree_awarded_th": "",
+      "entry_qualification_th": "แพทยศาสตร์บัณฑิต",
+      "notes_th": ""
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อสถาบันการศึกษาของทหารและตำรวจในประเทศไทย",
+    "description": "รายชื่อสถาบันการศึกษาของทหารและตำรวจในประเทศไทย จำแนกตามสังกัดต่างๆ พร้อมข้อมูลวุฒิการศึกษาและคุณสมบัติผู้เข้าศึกษา",
+    "seo_title": "รายชื่อสถาบันการศึกษาของทหารและตำรวจในประเทศไทย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 72 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 72 สถาบันครบถ้วน",
+      "รวม: ชื่อสถาบัน, สังกัด, วุฒิที่ได้รับ, คุณสมบัติผู้เข้าศึกษา",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

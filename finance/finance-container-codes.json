@@ -1,0 +1,257 @@
+{
+  "id": "finance-container-codes",
+  "name": "ชุดข้อมูลรหัสคอนเทนเนอร์และข้อมูลจำเพาะ ISO 6346",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Container Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "length_ft",
+      "label": "Length (ft)",
+      "type": "number"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (L×W×H m)",
+      "type": "string"
+    },
+    {
+      "key": "capacity_cbm",
+      "label": "Capacity (m³)",
+      "type": "number"
+    },
+    {
+      "key": "max_payload_kg",
+      "label": "Max Payload (kg)",
+      "type": "number"
+    },
+    {
+      "key": "tare_weight_kg",
+      "label": "Tare Weight (kg)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20GP",
+      "iso_code": "22G1",
+      "name": "20ft อเนกประสงค์",
+      "category": "ตู้แห้ง",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 33.2,
+      "max_payload_kg": 28200,
+      "tare_weight_kg": 2300,
+      "description": "ตู้คอนเทนเนอร์แห้งมาตรฐาน 20 ฟุต"
+    },
+    {
+      "code": "40GP",
+      "iso_code": "42G1",
+      "name": "40ft อเนกประสงค์",
+      "category": "ตู้แห้ง",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 67.7,
+      "max_payload_kg": 26680,
+      "tare_weight_kg": 3800,
+      "description": "ตู้คอนเทนเนอร์แห้งมาตรฐาน 40 ฟุต"
+    },
+    {
+      "code": "40HC",
+      "iso_code": "45G1",
+      "name": "40ft ไฮคิวบ์",
+      "category": "ตู้แห้ง",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 76.3,
+      "max_payload_kg": 26460,
+      "tare_weight_kg": 4020,
+      "description": "ตู้ไฮคิวบ์ที่มีความสูงพิเศษ"
+    },
+    {
+      "code": "45HC",
+      "iso_code": "45G1",
+      "name": "45ft ไฮคิวบ์",
+      "category": "ตู้แห้ง",
+      "length_ft": 45,
+      "dimensions": "13.72 × 2.44 × 2.89",
+      "capacity_cbm": 86.1,
+      "max_payload_kg": 25600,
+      "tare_weight_kg": 4800,
+      "description": "ตู้คอนเทนเนอร์ไฮคิวบ์ขนาด 45 ฟุต"
+    },
+    {
+      "code": "20RF",
+      "iso_code": "22R1",
+      "name": "20ft ตู้เย็น",
+      "category": "ตู้เย็น",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 28.3,
+      "max_payload_kg": 27400,
+      "tare_weight_kg": 3080,
+      "description": "ตู้คอนเทนเนอร์ห้องเย็นขนาด 20 ฟุต"
+    },
+    {
+      "code": "40RF",
+      "iso_code": "42R1",
+      "name": "40ft ตู้เย็น",
+      "category": "ตู้เย็น",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 59.3,
+      "max_payload_kg": 26280,
+      "tare_weight_kg": 4200,
+      "description": "ตู้คอนเทนเนอร์ห้องเย็นขนาด 40 ฟุต"
+    },
+    {
+      "code": "40RH",
+      "iso_code": "45R1",
+      "name": "40ft ตู้เย็นไฮคิวบ์",
+      "category": "ตู้เย็น",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 67.5,
+      "max_payload_kg": 25900,
+      "tare_weight_kg": 4580,
+      "description": "ตู้คอนเทนเนอร์ห้องเย็นแบบไฮคิวบ์"
+    },
+    {
+      "code": "20OT",
+      "iso_code": "22U1",
+      "name": "20ft เปิดด้านบน",
+      "category": "เปิดด้านบน",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 32.5,
+      "max_payload_kg": 28100,
+      "tare_weight_kg": 2400,
+      "description": "ตู้เปิดด้านบนสำหรับสินค้าขนาดใหญ่พิเศษ"
+    },
+    {
+      "code": "40OT",
+      "iso_code": "42U1",
+      "name": "40ft เปิดด้านบน",
+      "category": "เปิดด้านบน",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 65.9,
+      "max_payload_kg": 26500,
+      "tare_weight_kg": 3980,
+      "description": "ตู้คอนเทนเนอร์เปิดด้านบนขนาด 40 ฟุต"
+    },
+    {
+      "code": "20FR",
+      "iso_code": "22P1",
+      "name": "20ft พื้นราบ",
+      "category": "พื้นราบ",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 28600,
+      "tare_weight_kg": 2700,
+      "description": "ไม่มีผนัง/หลังคาสำหรับเครื่องจักรหนัก"
+    },
+    {
+      "code": "40FR",
+      "iso_code": "42P1",
+      "name": "40ft พื้นราบ",
+      "category": "พื้นราบ",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5700,
+      "description": "ตู้คอนเทนเนอร์พื้นราบขนาด 40 ฟุต"
+    },
+    {
+      "code": "20TK",
+      "iso_code": "22T1",
+      "name": "20ft ถัง",
+      "category": "ถัง",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 21,
+      "max_payload_kg": 26000,
+      "tare_weight_kg": 4480,
+      "description": "สำหรับขนส่งของเหลว/ก๊าซ"
+    },
+    {
+      "code": "20PL",
+      "iso_code": "22P3",
+      "name": "20ft แพลตฟอร์ม",
+      "category": "แพลตฟอร์ม",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 30000,
+      "tare_weight_kg": 2500,
+      "description": "แพลตฟอร์มเรียบ ไม่มีผนัง"
+    },
+    {
+      "code": "40PL",
+      "iso_code": "42P3",
+      "name": "40ft แพลตฟอร์ม",
+      "category": "แพลตฟอร์ม",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5000,
+      "description": "ตู้คอนเทนเนอร์แพลตฟอร์มขนาด 40 ฟุต"
+    }
+  ],
+  "meta": {
+    "seo_title": "รหัสคอนเทนเนอร์ ISO 6346 - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดข้อมูลรหัสคอนเทนเนอร์ ISO 6346 ฟรี 14 รายการ รวมถึงขนาด ความจุ และน้ำหนักบรรทุก มีใน Excel, CSV และ PDF",
+    "title": "ชุดข้อมูลรหัสคอนเทนเนอร์และข้อมูลจำเพาะ ISO 6346",
+    "description": "ชุดข้อมูลนี้มีรายการรหัสคอนเทนเนอร์ ISO 6346 จำนวน 14 รายการโดยละเอียด ระบุประเภท ขนาด ความจุ และข้อกำหนดน้ำหนักสำหรับตู้คอนเทนเนอร์ขนส่งต่างๆ",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลจำเพาะโดยละเอียดสำหรับตู้คอนเทนเนอร์ ISO 6346 ทั่วไป 14 ประเภท",
+      "สำรวจขนาดคอนเทนเนอร์ ความจุ น้ำหนักบรรทุกสูงสุด และน้ำหนักตู้เปล่า",
+      "ดาวน์โหลดข้อมูลอ้างอิงพร้อมใช้สำหรับการวิเคราะห์โลจิสติกส์ การขนส่ง และห่วงโซ่อุปทาน",
+      "ใช้ประโยชน์จากข้อมูลที่แม่นยำสำหรับการวางแผนการขนส่งและการใช้คอนเทนเนอร์"
+    ],
+    "keywords": [
+      "รหัสคอนเทนเนอร์ ISO 6346",
+      "ขนาดตู้คอนเทนเนอร์",
+      "ข้อมูลตู้ขนส่ง",
+      "ข้อกำหนดคอนเทนเนอร์ excel",
+      "ประเภทคอนเทนเนอร์ ISO csv",
+      "ความจุคอนเทนเนอร์ pdf"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อรวมข้อมูลจำเพาะคอนเทนเนอร์เข้ากับระบบการจัดการโลจิสติกส์หรือเครื่องมือคำนวณค่าขนส่ง",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Tables, กรองประเภทคอนเทนเนอร์ และวิเคราะห์ความจุสำหรับการวางแผนเส้นทางการขนส่งและการบรรทุกสินค้าที่เหมาะสมที่สุด",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับการอ้างอิงในห้องเรียน คู่มือการปฏิบัติงาน หรือการค้นหาแบบออฟไลน์อย่างรวดเร็วในคลังสินค้า",
+      "อ้างอิงชุดข้อมูลนี้สำหรับการตรวจสอบการประกาศคอนเทนเนอร์ ทำความเข้าใจมาตรฐานการขนส่งระหว่างประเทศ หรือสร้างสื่อการเรียนรู้เกี่ยวกับการค้าโลก"
+    ]
+  },
+  "record_count": 14,
+  "title": "ชุดข้อมูลรหัสคอนเทนเนอร์และข้อมูลจำเพาะ ISO 6346"
+}

@@ -1,0 +1,603 @@
+{
+  "id": "tech-keyboard-shortcuts",
+  "name": "ชุดข้อมูลคีย์ลัดสากลสำหรับ Windows และ macOS",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "action",
+      "label": "Action (EN)",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_win",
+      "label": "Windows",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_mac",
+      "label": "macOS",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "application",
+      "label": "Application",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "action": "คัดลอก",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Cmd+C",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "ตัด",
+      "shortcut_win": "Ctrl+X",
+      "shortcut_mac": "Cmd+X",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "วาง",
+      "shortcut_win": "Ctrl+V",
+      "shortcut_mac": "Cmd+V",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "เลิกทำ",
+      "shortcut_win": "Ctrl+Z",
+      "shortcut_mac": "Cmd+Z",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "ทำซ้ำ",
+      "shortcut_win": "Ctrl+Y",
+      "shortcut_mac": "Cmd+Shift+Z",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "เลือกทั้งหมด",
+      "shortcut_win": "Ctrl+A",
+      "shortcut_mac": "Cmd+A",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "บันทึก",
+      "shortcut_win": "Ctrl+S",
+      "shortcut_mac": "Cmd+S",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "ค้นหา",
+      "shortcut_win": "Ctrl+F",
+      "shortcut_mac": "Cmd+F",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "ค้นหาและแทนที่",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+H",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "พิมพ์",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "ใหม่",
+      "shortcut_win": "Ctrl+N",
+      "shortcut_mac": "Cmd+N",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "เปิด",
+      "shortcut_win": "Ctrl+O",
+      "shortcut_mac": "Cmd+O",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "ปิดหน้าต่าง/แท็บ",
+      "shortcut_win": "Ctrl+W",
+      "shortcut_mac": "Cmd+W",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "ออกจากแอปพลิเคชัน",
+      "shortcut_win": "Alt+F4",
+      "shortcut_mac": "Cmd+Q",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "วิธีใช้",
+      "shortcut_win": "F1",
+      "shortcut_mac": "Cmd+Shift+?",
+      "category": "สากล",
+      "application": "All"
+    },
+    {
+      "action": "แสดงเดสก์ท็อป",
+      "shortcut_win": "Win+D",
+      "shortcut_mac": "F11",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "เปิด File Explorer/คอมพิวเตอร์",
+      "shortcut_win": "Win+E",
+      "shortcut_mac": "Cmd+Shift+C",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "ล็อกหน้าจอ",
+      "shortcut_win": "Win+L",
+      "shortcut_mac": "Ctrl+Cmd+Q",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "มุมมองงาน/Mission Control",
+      "shortcut_win": "Win+Tab",
+      "shortcut_mac": "Ctrl+Up",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "สลับแอปพลิเคชัน",
+      "shortcut_win": "Alt+Tab",
+      "shortcut_mac": "Cmd+Tab",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "จับภาพหน้าจอที่เลือก",
+      "shortcut_win": "Win+Shift+S",
+      "shortcut_mac": "Cmd+Shift+4",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "จับภาพหน้าจอทั้งหมด",
+      "shortcut_win": "PrtScn",
+      "shortcut_mac": "Cmd+Shift+3",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "ตัวจัดการงาน/บังคับเลิก",
+      "shortcut_win": "Ctrl+Shift+Esc",
+      "shortcut_mac": "Cmd+Opt+Esc",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "เรียกใช้/สปอตไลท์",
+      "shortcut_win": "Win+R",
+      "shortcut_mac": "Cmd+Space",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "การตั้งค่า/ค่ากำหนด",
+      "shortcut_win": "Win+I",
+      "shortcut_mac": "Cmd+,",
+      "category": "ระบบ",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "แท็บใหม่",
+      "shortcut_win": "Ctrl+T",
+      "shortcut_mac": "Cmd+T",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "เปิดแท็บที่ปิดไปแล้วอีกครั้ง",
+      "shortcut_win": "Ctrl+Shift+T",
+      "shortcut_mac": "Cmd+Shift+T",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "แท็บถัดไป",
+      "shortcut_win": "Ctrl+Tab",
+      "shortcut_mac": "Ctrl+Tab",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "แท็บก่อนหน้า",
+      "shortcut_win": "Ctrl+Shift+Tab",
+      "shortcut_mac": "Ctrl+Shift+Tab",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "โฟกัสแถบที่อยู่",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+L",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "โหลดหน้าซ้ำ",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Cmd+R",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "โหลดหน้าซ้ำแบบบังคับ (ล้างแคช)",
+      "shortcut_win": "Ctrl+Shift+R",
+      "shortcut_mac": "Cmd+Shift+R",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "บุ๊กมาร์กหน้า",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "สลับแถบบุ๊กมาร์ก",
+      "shortcut_win": "Ctrl+Shift+B",
+      "shortcut_mac": "Cmd+Shift+B",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "การดาวน์โหลด",
+      "shortcut_win": "Ctrl+J",
+      "shortcut_mac": "Cmd+Shift+J",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "ประวัติ",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+Y",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "หน้าต่างไม่ระบุตัวตนใหม่",
+      "shortcut_win": "Ctrl+Shift+N",
+      "shortcut_mac": "Cmd+Shift+N",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Edge"
+    },
+    {
+      "action": "หน้าต่างส่วนตัวใหม่",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "เบราว์เซอร์",
+      "application": "Firefox"
+    },
+    {
+      "action": "เครื่องมือสำหรับนักพัฒนา",
+      "shortcut_win": "F12",
+      "shortcut_mac": "Cmd+Opt+I",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "ดูซอร์สโค้ดหน้า",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+Opt+U",
+      "category": "เบราว์เซอร์",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "จานคำสั่ง",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "เปิดไฟล์ด่วน",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "สลับเทอร์มินัล",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "สลับแถบข้าง",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "สลับความคิดเห็นบรรทัด",
+      "shortcut_win": "Ctrl+/",
+      "shortcut_mac": "Cmd+/",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "ลบบรรทัด",
+      "shortcut_win": "Ctrl+Shift+K",
+      "shortcut_mac": "Cmd+Shift+K",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "เลื่อนบรรทัดขึ้น/ลง",
+      "shortcut_win": "Alt+Up/Down",
+      "shortcut_mac": "Opt+Up/Down",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "เลือกการเกิดขึ้นถัดไป",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "เลือกการเกิดขึ้นทั้งหมด",
+      "shortcut_win": "Ctrl+Shift+L",
+      "shortcut_mac": "Cmd+Shift+L",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "ไปที่บรรทัด",
+      "shortcut_win": "Ctrl+G",
+      "shortcut_mac": "Ctrl+G",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "เปลี่ยนชื่อสัญลักษณ์",
+      "shortcut_win": "F2",
+      "shortcut_mac": "F2",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "ไปที่คำจำกัดความ",
+      "shortcut_win": "F12",
+      "shortcut_mac": "F12",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "ค้นหาในไฟล์",
+      "shortcut_win": "Ctrl+Shift+F",
+      "shortcut_mac": "Cmd+Shift+F",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "เพิ่มความคิดเห็นบรรทัด",
+      "shortcut_win": "Ctrl+K Ctrl+C",
+      "shortcut_mac": "Cmd+K Cmd+C",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "ลบความคิดเห็นบรรทัด",
+      "shortcut_win": "Ctrl+K Ctrl+U",
+      "shortcut_mac": "Cmd+K Cmd+U",
+      "category": "ตัวแก้ไข",
+      "application": "VS Code"
+    },
+    {
+      "action": "เลื่อนทีละคำ",
+      "shortcut_win": "Ctrl+Left/Right",
+      "shortcut_mac": "Opt+Left/Right",
+      "category": "ข้อความ",
+      "application": "All"
+    },
+    {
+      "action": "เลือกทีละคำ",
+      "shortcut_win": "Ctrl+Shift+Left/Right",
+      "shortcut_mac": "Opt+Shift+Left/Right",
+      "category": "ข้อความ",
+      "application": "All"
+    },
+    {
+      "action": "ไปที่ต้น/ท้ายบรรทัด",
+      "shortcut_win": "Home/End",
+      "shortcut_mac": "Cmd+Left/Right",
+      "category": "ข้อความ",
+      "application": "All"
+    },
+    {
+      "action": "ไปที่ต้น/ท้ายเอกสาร",
+      "shortcut_win": "Ctrl+Home/End",
+      "shortcut_mac": "Cmd+Up/Down",
+      "category": "ข้อความ",
+      "application": "All"
+    },
+    {
+      "action": "ลบคำก่อนหน้า",
+      "shortcut_win": "Ctrl+Backspace",
+      "shortcut_mac": "Opt+Backspace",
+      "category": "ข้อความ",
+      "application": "All"
+    },
+    {
+      "action": "ลบคำข้างหลัง",
+      "shortcut_win": "Ctrl+Delete",
+      "shortcut_mac": "Opt+Delete",
+      "category": "ข้อความ",
+      "application": "All"
+    },
+    {
+      "action": "ตัวหนา",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "ข้อความ",
+      "application": "Word Processors"
+    },
+    {
+      "action": "ตัวเอียง",
+      "shortcut_win": "Ctrl+I",
+      "shortcut_mac": "Cmd+I",
+      "category": "ข้อความ",
+      "application": "Word Processors"
+    },
+    {
+      "action": "ขีดเส้นใต้",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+U",
+      "category": "ข้อความ",
+      "application": "Word Processors"
+    },
+    {
+      "action": "แทรกวันที่ปัจจุบัน",
+      "shortcut_win": "Ctrl+;",
+      "shortcut_mac": "Ctrl+;",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "แทรกเวลาปัจจุบัน",
+      "shortcut_win": "Ctrl+Shift+;",
+      "shortcut_mac": "Cmd+;",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "เลือกคอลัมน์",
+      "shortcut_win": "Ctrl+Space",
+      "shortcut_mac": "Ctrl+Space",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "เลือกแถว",
+      "shortcut_win": "Shift+Space",
+      "shortcut_mac": "Shift+Space",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "แทรกเซลล์",
+      "shortcut_win": "Ctrl+Shift++",
+      "shortcut_mac": "Cmd+Shift++",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "ลบเซลล์",
+      "shortcut_win": "Ctrl+-",
+      "shortcut_mac": "Cmd+-",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "สลับการอ้างอิงสัมบูรณ์",
+      "shortcut_win": "F4",
+      "shortcut_mac": "Cmd+T",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "แสดงสูตร",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "สเปรดชีต",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "ยกเลิก/ขัดจังหวะ",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Ctrl+C",
+      "category": "เทอร์มินัล",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "ล้างหน้าจอ",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+K",
+      "category": "เทอร์มินัล",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "เติมข้อความอัตโนมัติ",
+      "shortcut_win": "Tab",
+      "shortcut_mac": "Tab",
+      "category": "เทอร์มินัล",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "ประวัติคำสั่ง",
+      "shortcut_win": "Up/Down",
+      "shortcut_mac": "Up/Down",
+      "category": "เทอร์มินัล",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "ค้นหาประวัติคำสั่ง",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Ctrl+R",
+      "category": "เทอร์มินัล",
+      "application": "Terminal/Bash"
+    }
+  ],
+  "meta": {
+    "seo_title": "คีย์ลัดทั่วไป - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 77 คีย์ลัดทั่วไปสำหรับ Windows และ macOS ฟรี ในรูปแบบ Excel, CSV, PDF เพื่อเพิ่มประสิทธิภาพการทำงานของคุณ",
+    "title": "ชุดข้อมูลคีย์ลัดสากลสำหรับ Windows และ macOS",
+    "description": "ชุดข้อมูลนี้รวบรวมคีย์ลัดที่ใช้บ่อย 77 รายการสำหรับทั้ง Windows และ macOS แยกตามการกระทำและแอปพลิเคชัน ช่วยเพิ่มประสิทธิภาพการทำงานของคุณด้วยการเข้าถึงคำสั่งสำคัญได้อย่างรวดเร็ว",
+    "key_takeaways": [
+      "เข้าถึงคีย์ลัดที่จำเป็น 77 รายการสำหรับ Windows และ macOS.",
+      "สำรวจคำสั่งสากลและเฉพาะแอปพลิเคชันเพื่อเพิ่มประสิทธิภาพการทำงาน.",
+      "ดาวน์โหลดรายการคีย์ลัดที่ครอบคลุมในหลายรูปแบบที่สะดวก.",
+      "ปรับปรุงประสิทธิภาพการทำงานโดยการใช้คำสั่งคอมพิวเตอร์ทั่วไป."
+    ],
+    "keywords": [
+      "คีย์ลัด excel",
+      "คีย์ลัด windows csv",
+      "คีย์ลัด macOS pdf",
+      "รายการคีย์ลัดทั่วไป",
+      "ดาวน์โหลดคีย์ลัดเพิ่มผลผลิต",
+      "ปุ่มลัดคอมพิวเตอร์"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในแอปพลิเคชันที่กำหนดเองหรือแพลตฟอร์มการเรียนรู้เพื่อรวมการอ้างอิงคีย์ลัดสำหรับนักพัฒนา.",
+      "ใช้ไฟล์ **Excel** เพื่อกรองและจัดเรียงคีย์ลัดตามหมวดหมู่ แอปพลิเคชัน หรือแพลตฟอร์มสำหรับสร้างเอกสารสรุปส่วนตัวและสื่อการฝึกอบรม.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับเป็นคู่มืออ้างอิงบนโต๊ะทำงานที่สะดวก หรือแจกจ่ายในการประชุมเชิงปฏิบัติการด้านการใช้คอมพิวเตอร์.",
+      "ใช้ประโยชน์จากข้อมูลนี้เพื่อสร้างแบบทดสอบเชิงโต้ตอบหรือเครื่องมือช่วยเหลือที่สอนผู้ใช้การนำทางและการเรียกใช้คำสั่งที่มีประสิทธิภาพ."
+    ]
+  },
+  "record_count": 77,
+  "title": "ชุดข้อมูลคีย์ลัดสากลสำหรับ Windows และ macOS"
+}

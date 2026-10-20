@@ -1,0 +1,467 @@
+{
+  "id": "transport-nonthaburi-intersections",
+  "name": "รายชื่อทางแยกในจังหวัดนนทบุรี",
+  "title": "รายชื่อทางแยกในจังหวัดนนทบุรี",
+  "description": "รายชื่อทางแยกทั้งหมดในจังหวัดนนทบุรี ประกอบด้วยชื่อทางแยกทั้งภาษาไทยและโรมัน ประเภทของทางแยก ถนนที่เกี่ยวข้อง ตำบล อำเภอ พิกัดภูมิศาสตร์ และหมายเหตุเพิ่มเติม",
+  "category": "transport",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+  "updated": "2024-05-16",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อทางแยก (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อทางแยก (โรมัน)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "ประเภท",
+      "type": "string"
+    },
+    {
+      "key": "related_roads",
+      "label": "ถนนที่เกี่ยวข้อง",
+      "type": "string"
+    },
+    {
+      "key": "subdistrict",
+      "label": "ตำบล",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "อำเภอ",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "พิกัดภูมิศาสตร์",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "หมายเหตุ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "การไฟฟ้าบางใหญ่",
+      "name_en": "Kan Faifa Bang Yai",
+      "type": "สามแยก/วงเวียน",
+      "related_roads": "ถนนบางกรวย-ไทรน้อย\nถนนบางกรวย-ไทรน้อย (แยกเข้าบางใหญ่เก่า)",
+      "subdistrict": "บางเลน",
+      "district": "บางใหญ่",
+      "coordinates": "13|50|55.903|N|100|26|12.228|E",
+      "notes": ""
+    },
+    {
+      "name_th": "เขียวขจี",
+      "name_en": "Khiao Khachi",
+      "type": "สามแยก",
+      "related_roads": "ถนน\nถนน",
+      "subdistrict": "บางขุนกอง",
+      "district": "บางกรวย",
+      "coordinates": "13|49|35.976|N|100|25|47.885|E",
+      "notes": ""
+    },
+    {
+      "name_th": "คลองประปา",
+      "name_en": "Khlong Prapa",
+      "type": "สี่แยก",
+      "related_roads": "ถนนแจ้งวัฒนะ\nถนนประชาชื่น-ปากเกร็ด",
+      "subdistrict": "บางตลาด, คลองเกลือ",
+      "district": "ปากเกร็ด",
+      "coordinates": "13|53|43.141|N|100|33|15.35|E",
+      "notes": ""
+    },
+    {
+      "name_th": "คลังเชื้อเพลิง",
+      "name_en": "Khlang Chuea Phloeng",
+      "type": "สามแยก",
+      "related_roads": "ถนนนนทบุรี 1\nถนนเลี่ยงเมืองนนทบุรี (แนวเหนือ-ใต้)",
+      "subdistrict": "ท่าทราย",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|52|54.548|N|100|29|47.015|E",
+      "notes": ""
+    },
+    {
+      "name_th": "แคราย",
+      "name_en": "Khae Rai",
+      "type": "สี่แยก",
+      "related_roads": "ถนนงามวงศ์วาน\nถนนรัตนาธิเบศร์\nถนนติวานนท์",
+      "subdistrict": "บางกระสอ",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|51|32.699|N|100|31|17.846|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ดอนตะลุมพุก",
+      "name_en": "Don Talumphuk",
+      "type": "สามแยก",
+      "related_roads": "ทางหลวงชนบท นบ.1009\nทางหลวงชนบท นบ.5027",
+      "subdistrict": "บ้านใหม่",
+      "district": "บางใหญ่",
+      "coordinates": "13||N|100||E",
+      "notes": ""
+    },
+    {
+      "name_th": "ตลาดบางคูลัด",
+      "name_en": "Talat Bang Khu Lat",
+      "type": "สามแยก",
+      "related_roads": "ถนนบางใหญ่-บางคูลัด\nถนนบางคูลัด-วัดพระเงิน",
+      "subdistrict": "บางใหญ่",
+      "district": "บางใหญ่",
+      "coordinates": "13|50|25.591|N|100|21|53.37|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ตาลเดี่ยว",
+      "name_en": "Tan Diao",
+      "type": "สี่แยก",
+      "related_roads": "ทางหลวงท้องถิ่น นบ.ถ 1-0002\nทางหลวงท้องถิ่นสายแยกตาลเดี่ยว-วัดบางบัวทอง\nทางหลวงท้องถิ่นสายเข้าวัดแดง ม.9 ต.ท่าอิฐ",
+      "subdistrict": "ท่าอิฐ",
+      "district": "ปากเกร็ด",
+      "coordinates": "13|53|39.419|N|100|27|55.429|E",
+      "notes": "แยกวัดบางบัวทอง"
+    },
+    {
+      "name_th": "ติวานนท์",
+      "name_en": "Tiwanon",
+      "type": "สี่แยก",
+      "related_roads": "ถนนกรุงเทพ-นนทบุรี\nถนนประชาราษฎร์\nถนนติวานนท์\nถนนนครอินทร์",
+      "subdistrict": "ตลาดขวัญ",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|50|34.789|N|100|30|39.341|E",
+      "notes": "แยกนนทบุรี, แยกวัดลานฯ, แยกบิ๊กซี"
+    },
+    {
+      "name_th": "ท่าน้ำนนท์",
+      "name_en": "Tha Nam Non",
+      "type": "สามแยก",
+      "related_roads": "ถนนบางกรวย-ไทรน้อย\nถนนบางศรีเมือง",
+      "subdistrict": "บางกร่าง",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|49|58.476|N|100|28|5.326|E",
+      "notes": "ทางแยกเข้าท่าเรือบางศรีเมือง"
+    },
+    {
+      "name_th": "ไทรน้อย",
+      "name_en": "Sai Noi",
+      "type": "สี่แยก",
+      "related_roads": "ทางหลวงแผ่นดินหมายเลข 346\nทางหลวงชนบท นบ.3004\nทางหลวงท้องถิ่น นบ.ถ 1-0018",
+      "subdistrict": "คลองขวาง",
+      "district": "ไทรน้อย",
+      "coordinates": "14|1|33.175|N|100|18|44.384|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ไทรม้า",
+      "name_en": "Sai Ma",
+      "type": "สี่แยก",
+      "related_roads": "ถนนรัตนาธิเบศร์\nถนนบ้านไทรม้า\nถนนไทรม้า-บางรักน้อย-ท่าอิฐ",
+      "subdistrict": "ไทรม้า, บางรักน้อย",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|52|23.772|N|100|27|34.013|E",
+      "notes": "แยกท่าอิฐ"
+    },
+    {
+      "name_th": "นนทกิจ",
+      "name_en": "Nonthakit",
+      "type": "สามแยก",
+      "related_roads": "ถนนบางใหญ่-บางคูลัด\nถนนเทศบาลบางใหญ่ 11",
+      "subdistrict": "บางใหญ่",
+      "district": "บางใหญ่",
+      "coordinates": "13|50|22.15|N|100|20|44.621|E",
+      "notes": ""
+    },
+    {
+      "name_th": "บางกรวย",
+      "name_en": "Bang Kruai",
+      "type": "สี่แยก",
+      "related_roads": "ถนนบางกรวย-ไทรน้อย\nถนนบางกรวย-จงถนอม\nถนนเทอดพระเกียรติ",
+      "subdistrict": "บางกรวย",
+      "district": "บางกรวย",
+      "coordinates": "13|55|31.134|N|100|24|47.84|E",
+      "notes": "แยกบางกรวย"
+    },
+    {
+      "name_th": "บางบัวทอง",
+      "name_en": "Bang Bua Thong",
+      "type": "สี่แยก",
+      "related_roads": "ถนนกาญจนาภิเษก\nถนนบางกรวย-ไทรน้อย",
+      "subdistrict": "บางบัวทอง",
+      "district": "บางบัวทอง",
+      "coordinates": "13|55|31.134|N|100|24|47.84|E",
+      "notes": "แยกบางกรวย-ไทรน้อย"
+    },
+    {
+      "name_th": "บางพลู",
+      "name_en": "Bang Phlu",
+      "type": "สี่แยก",
+      "related_roads": "ถนนรัตนาธิเบศร์\nถนนบางกรวย-ไทรน้อย",
+      "subdistrict": "บางรักใหญ่",
+      "district": "บางบัวทอง",
+      "coordinates": "13|52|32.614|N|100|26|1.594|E",
+      "notes": ""
+    },
+    {
+      "name_th": "บางศรีเมือง",
+      "name_en": "Bang Si Mueang",
+      "type": "สี่แยก",
+      "related_roads": "ถนนบางศรีเมือง\nถนนบางศรีเมือง 1\nถนนบางศรีเมือง-วัดโบสถ์ดอนพรหม",
+      "subdistrict": "บางศรีเมือง",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|50|32.96|N|100|28|54.138|E",
+      "notes": ""
+    },
+    {
+      "name_th": "บางสีทอง",
+      "name_en": "Bang Si Thong",
+      "type": "สี่แยก",
+      "related_roads": "ถนนบางกรวย-ไทรน้อย\nถนนนครอินทร์",
+      "subdistrict": "บางสีทอง",
+      "district": "บางกรวย",
+      "coordinates": "13|49|27.275|N|100|28|43.536|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ปากเกร็ด",
+      "name_en": "Pak Kret",
+      "type": "สี่แยก/ห้าแยก",
+      "related_roads": "ถนนแจ้งวัฒนะ\nถนนติวานนท์\nถนนแจ้งวัฒนะ-ปากเกร็ด 16",
+      "subdistrict": "ปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "coordinates": "13|54|26.885|N|100|30|15.336|E",
+      "notes": ""
+    },
+    {
+      "name_th": "พงษ์เพชร",
+      "name_en": "Phong Phet",
+      "type": "สี่แยก",
+      "related_roads": "ถนนงามวงศ์วาน\nถนนประชาชื่น",
+      "subdistrict": "บางเขน",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|51|22.349|N|100|32|42.248|E",
+      "notes": ""
+    },
+    {
+      "name_th": "พระราม 5",
+      "name_en": "Rama V",
+      "type": "สี่แยก",
+      "related_roads": "ถนนพิบูลสงคราม\nถนนนครอินทร์\nซอยพิบูลสงคราม 13",
+      "subdistrict": "สวนใหญ่",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|50|4.787|N|100|29|58.34|E",
+      "notes": "แยกวัดนครอินทร์"
+    },
+    {
+      "name_th": "พ่อปู่",
+      "name_en": "Pho Pu",
+      "type": "สามแยก",
+      "related_roads": "ถนนบางม่วง-บางคูลัด\nทางหลวงชนบท นบ.5035",
+      "subdistrict": "ศาลากลาง",
+      "district": "บางกรวย",
+      "coordinates": "13|49|7.302|N|100|22|22.771|E",
+      "notes": ""
+    },
+    {
+      "name_th": "พ่อปู่",
+      "name_en": "Pho Pu",
+      "type": "สามแยก",
+      "related_roads": "ถนนบางม่วง-บางคูลัด\nทางหลวงชนบท นบ.5035",
+      "subdistrict": "บางม่วง",
+      "district": "บางใหญ่",
+      "coordinates": "13|49|7.302|N|100|22|22.771|E",
+      "notes": ""
+    },
+    {
+      "name_th": "โพธิ์เอน",
+      "name_en": "Pho En",
+      "type": "สามแยก",
+      "related_roads": "ถนน\nทางเข้าวัดโพธิ์เอน",
+      "subdistrict": "บางขุนกอง",
+      "district": "บางกรวย",
+      "coordinates": "13|49|38.806|N|100|25|50.984|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ภ.จว.นนทบุรี",
+      "name_en": "Nonthaburi Provincial Police",
+      "type": "สี่แยก",
+      "related_roads": "ถนนนนทบุรี 1\nซอยนนทบุรี 39\nซอยนนทบุรี 42",
+      "subdistrict": "ท่าทราย",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|52|48.752|N|100|30|14.332|E",
+      "notes": ""
+    },
+    {
+      "name_th": "เมืองทองธานี 3",
+      "name_en": "Muang Thong Thani 3",
+      "type": "สามแยก",
+      "related_roads": "ถนนแจ้งวัฒนะ\nซอยแจ้งวัฒนะ-ปากเกร็ด 33",
+      "subdistrict": "บางตลาด, คลองเกลือ",
+      "district": "ปากเกร็ด",
+      "coordinates": "13|54|3.816|N|100|32|16.566|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ราชพฤกษ์",
+      "name_en": "Ratchaphruek",
+      "type": "วงเวียน",
+      "related_roads": "ถนนราชพฤกษ์\nถนนนครอินทร์",
+      "subdistrict": "บางขุนกอง",
+      "district": "บางกรวย",
+      "coordinates": "13|49|28.052|N|100|26|54.676|E",
+      "notes": "วงเวียนบางขุนกอง"
+    },
+    {
+      "name_th": "โรงธูป",
+      "name_en": "Rong Thup",
+      "type": "สามแยก",
+      "related_roads": "ทางหลวงท้องถิ่น นบ.ถ 1-0004\nทางหลวงท้องถิ่น นบ.ถ 24-003",
+      "subdistrict": "บางขุนกอง",
+      "district": "บางกรวย",
+      "coordinates": "13|48|55.102|N|100|26|49.564|E",
+      "notes": ""
+    },
+    {
+      "name_th": "วัดสำโรง",
+      "name_en": "Wat Samrong",
+      "type": "สี่แยก",
+      "related_roads": "ถนนบางกรวย-ไทรน้อย\nซอยบางกรวย-ไทรน้อย 17\nซอยบางกรวย-ไทรน้อย 18",
+      "subdistrict": "บางกรวย",
+      "district": "บางกรวย",
+      "coordinates": "13|48|19.789|N|100|29|18.172|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ศรีธัญญา",
+      "name_en": "Si Thanya",
+      "type": "สามแยก",
+      "related_roads": "ถนนติวานนท์\nซอยติวานนท์ 4",
+      "subdistrict": "ตลาดขวัญ",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|50|52.368|N|100|30|51.516|E",
+      "notes": ""
+    },
+    {
+      "name_th": "ศรีพรสวรรค์",
+      "name_en": "Si Phon Sawan",
+      "type": "สามแยก/สี่แยก",
+      "related_roads": "ถนนประชาราษฎร์\nถนนพิบูลสงคราม\nซอยประชาราษฎร์ 26",
+      "subdistrict": "สวนใหญ่",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|50|35.912|N|100|29|43.991|E",
+      "notes": "แยกโรงหนังศรีพรสวรรค์; แยกท่าน้ำนนท์"
+    },
+    {
+      "name_th": "ศรีสมาน",
+      "name_en": "Si Saman",
+      "type": "สี่แยก",
+      "related_roads": "ถนนศรีสมาน\nถนนติวานนท์\nถนนประชาชื่น-ปากเกร็ด",
+      "subdistrict": "บ้านใหม่",
+      "district": "ปากเกร็ด",
+      "coordinates": "13|56|3.728|N|100|33|48.431|E",
+      "notes": ""
+    },
+    {
+      "name_th": "สนามบินน้ำ",
+      "name_en": "Sanam Bin Nam",
+      "type": "สามแยก",
+      "related_roads": "ถนนติวานนท์\nถนนนนทบุรี 1",
+      "subdistrict": "ท่าทราย",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|52|40.364|N|100|30|53.467|E",
+      "notes": "แยกกรมพลาฯ"
+    },
+    {
+      "name_th": "สวนสมเด็จฯ",
+      "name_en": "Suan Somdet",
+      "type": "สี่แยก",
+      "related_roads": "ถนนติวานนท์\nทางหลวงแผ่นดินหมายเลข 307\nถนนศรีสมาน",
+      "subdistrict": "บ้านใหม่",
+      "district": "ปากเกร็ด",
+      "coordinates": "13|56|26.063|N|100|32|31.513|E",
+      "notes": ""
+    },
+    {
+      "name_th": "สะพานพระนั่งเกล้า",
+      "name_en": "Saphan Phra Nangklao",
+      "type": "สี่แยก",
+      "related_roads": "ถนนรัตนาธิเบศร์\nถนนนนทบุรี 1",
+      "subdistrict": "บางกระสอ",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|52|14.905|N|100|28|55.142|E",
+      "notes": ""
+    },
+    {
+      "name_th": "สามตำบล",
+      "name_en": "Sam Tambon",
+      "type": "สามแยก",
+      "related_roads": "ทางหลวงท้องถิ่น นบ.ถ 1-0004\nถนนสามตำบล",
+      "subdistrict": "บางขุนกอง",
+      "district": "บางกรวย",
+      "coordinates": "13|48|54.266|N|100|27|2.765|E",
+      "notes": ""
+    },
+    {
+      "name_th": "สามัคคี",
+      "name_en": "Samakkhi",
+      "type": "สามแยก",
+      "related_roads": "ถนนติวานนท์\nถนนสามัคคี",
+      "subdistrict": "ท่าทราย",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|53|12.937|N|100|30|41.184|E",
+      "notes": ""
+    },
+    {
+      "name_th": "สามัคคี-ประชาชื่น",
+      "name_en": "Samakkhi - Pracha Chuen",
+      "type": "สี่แยก",
+      "related_roads": "ถนนประชาชื่น\nถนนสามัคคี\nซอยประชาชื่น 14",
+      "subdistrict": "ท่าทราย",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|52|38.676|N|100|33|0.364|E",
+      "notes": ""
+    },
+    {
+      "name_th": "หนองเพรางาย",
+      "name_en": "Nong Phrao Ngai",
+      "type": "สามแยก",
+      "related_roads": "ทางหลวงชนบท นบ.5027\nถนนบางไผ่-หนองเพรางาย",
+      "subdistrict": "หนองเพรางาย",
+      "district": "ไทรน้อย",
+      "coordinates": "13|54|33.016|N|100|19|24.438|E",
+      "notes": ""
+    },
+    {
+      "name_th": "อตก. 3",
+      "name_en": "Otoko 3",
+      "type": "สามแยก",
+      "related_roads": "ถนนเลี่ยงเมืองนนทบุรี\nถนนเลี่ยงเมืองนนทบุรี (แนวเหนือ-ใต้)",
+      "subdistrict": "ตลาดขวัญ",
+      "district": "เมืองนนทบุรี",
+      "coordinates": "13|51|22.536|N|100|29|35.822|E",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อทางแยกในจังหวัดนนทบุรี",
+    "description": "รายชื่อทางแยกทั้งหมดในจังหวัดนนทบุรี ประกอบด้วยชื่อทางแยกทั้งภาษาไทยและโรมัน ประเภทของทางแยก ถนนที่เกี่ยวข้อง ตำบล อำเภอ พิกัดภูมิศาสตร์ และหมายเหตุเพิ่มเติม",
+    "seo_title": "รายชื่อทางแยกในจังหวัดนนทบุรี - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 40 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 40 รายการครบถ้วน",
+      "รวม: ชื่อทางแยก, ประเภท, ถนนที่เกี่ยวข้อง, ตำบล, อำเภอ",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

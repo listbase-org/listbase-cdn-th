@@ -1,0 +1,373 @@
+{
+  "id": "reference-thai-education-faculties",
+  "name": "รายชื่อคณะศึกษาศาสตร์ในประเทศไทย",
+  "title": "รายชื่อคณะศึกษาศาสตร์ในประเทศไทย",
+  "description": "รายชื่อคณะศึกษาศาสตร์และคณะครุศาสตร์ในสถาบันอุดมศึกษาทั่วประเทศไทย ที่เปิดสอนวิชาด้านศึกษาศาสตร์หรือครุศาสตร์ พร้อมข้อมูลชื่อคณะและมหาวิทยาลัยที่สังกัด",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2",
+  "updated": "2023-10-27",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "faculty_name_th",
+      "label": "คณะ",
+      "type": "string"
+    },
+    {
+      "key": "university_name_th",
+      "label": "มหาวิทยาลัย",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยกรุงเทพธนบุรี"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยเกษตรศาสตร์"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์และพัฒนศาสตร์",
+      "university_name_th": "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยการกีฬาแห่งชาติ"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยการจัดการและเทคโนโลยีอีสเทิร์น"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์และนวัตกรรมการศึกษา",
+      "university_name_th": "มหาวิทยาลัยกาฬสินธุ์"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยขอนแก่น"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "จุฬาลงกรณ์มหาวิทยาลัย"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยเชียงใหม่"
+    },
+    {
+      "faculty_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สำนักวิชาจีนวิทยา",
+      "university_name_th": "มหาวิทยาลัยแม่ฟ้าหลวง"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยทักษิณ"
+    },
+    {
+      "faculty_name_th": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยธรรมศาสตร์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยนครพนม"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยนเรศวร"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยบูรพา"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยการศึกษา",
+      "university_name_th": "มหาวิทยาลัยพะเยา"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยฟาฏอนี"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์ *เปิดสอนในระดับบัณฑิตศึกษา",
+      "university_name_th": "มหาวิทยาลัยฟาร์อีสเทิร์น"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยมหามกุฏราชวิทยาลัย"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยมหาสารคาม"
+    },
+    {
+      "faculty_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต วิทยาลัยราชสุดา",
+      "university_name_th": "มหาวิทยาลัยมหิดล"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยครูสุริยเทพ",
+      "university_name_th": "มหาวิทยาลัยรังสิต"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏกาญจนบุรี"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏกำแพงเพชร"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏจันทรเกษม"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏชัยภูมิ"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏเชียงราย"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏเชียงใหม่"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏเทพสตรี"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏธนบุรี"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏนครปฐม"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏนครราชสีมา"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏนครศรีธรรมราช"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏนครสวรรค์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏบุรีรัมย์"
+    },
+    {
+      "faculty_name_th": "วิทยาลัยการฝึกหัดครู",
+      "university_name_th": "มหาวิทยาลัยราชภัฏพระนคร"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏพระนครศรีอยุธยา"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏพิบูลสงคราม"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏเพชรบุรี"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏเพชรบูรณ์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏภูเก็ต"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏมหาสารคาม"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏยะลา"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏร้อยเอ็ด"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏราชนครินทร์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏรำไพพรรณี"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏลำปาง"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏเลย"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏศรีสะเกษ"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏสกลนคร"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏสงขลา"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏสวนสุนันทา"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏสุราษฎร์ธานี"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏสุรินทร์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏหมู่บ้านจอมบึง"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏอุดรธานี"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏอุตรดิตถ์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยราชภัฏอุบลราชธานี"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยรามคำแหง"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยวงษ์ชวลิตกุล"
+    },
+    {
+      "faculty_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สำนักวิชาศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยวลัยลักษณ์"
+    },
+    {
+      "faculty_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต สำนักวิชาวิทยาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยวลัยลักษณ์"
+    },
+    {
+      "faculty_name_th": "หลักสูตรการศึกษาบัณฑิต คณะพลศึกษา",
+      "university_name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+    },
+    {
+      "faculty_name_th": "หลักสูตรการศึกษาบัณฑิต คณะมนุษยศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+    },
+    {
+      "faculty_name_th": "หลักสูตรการศึกษาบัณฑิต คณะวิทยาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+    },
+    {
+      "faculty_name_th": "หลักสูตรการศึกษาบัณฑิต คณะศิลปกรรมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+    },
+    {
+      "faculty_name_th": "หลักสูตรการศึกษาบัณฑิต คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+    },
+    {
+      "faculty_name_th": "หลักสูตรการศึกษาบัณฑิต คณะสังคมศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยศิลปากร"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยสงขลานครินทร์"
+    },
+    {
+      "faculty_name_th": "คณะครุศาสตร์",
+      "university_name_th": "มหาวิทยาลัยสวนดุสิต"
+    },
+    {
+      "faculty_name_th": "สาขาวิชาศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยสุโขทัยธรรมาธิราช"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+      "university_name_th": "มหาวิทยาลัยหาดใหญ่"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "มหาวิทยาลัยอุบลราชธานี"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "วิทยาลัยนานาชาติเซนต์เทเรซา"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "วิทยาลัยพิชญบัณฑิต"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "วิทยาลัยสันตพล"
+    },
+    {
+      "faculty_name_th": "คณะศึกษาศาสตร์",
+      "university_name_th": "สถาบันการจัดการปัญญาภิวัฒน์"
+    },
+    {
+      "faculty_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต คณะศิลปศึกษา",
+      "university_name_th": "สถาบันบัณฑิตพัฒนศิลป์"
+    },
+    {
+      "faculty_name_th": "หลักสูตรศึกษาศาสตรบัณฑิต",
+      "university_name_th": "สถาบันอาศรมศิลป์"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อคณะศึกษาศาสตร์ในประเทศไทย",
+    "description": "รายชื่อคณะศึกษาศาสตร์และคณะครุศาสตร์ในสถาบันอุดมศึกษาทั่วประเทศไทย พร้อมข้อมูลชื่อคณะและมหาวิทยาลัยที่สังกัด",
+    "seo_title": "รายชื่อคณะศึกษาศาสตร์ในประเทศไทย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 84 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 84 รายการครบถ้วน",
+      "รวม: ชื่อคณะ, มหาวิทยาลัย",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

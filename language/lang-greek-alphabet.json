@@ -1,0 +1,319 @@
+{
+  "id": "lang-greek-alphabet",
+  "name": "ชุดข้อมูลอักษรกรีกพร้อมรายละเอียด",
+  "category": "language",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "uppercase",
+      "label": "Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "lowercase",
+      "label": "Lowercase",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "transliteration",
+      "label": "Transliteration",
+      "type": "string"
+    },
+    {
+      "key": "code_point_upper",
+      "label": "Code Point (Upper)",
+      "type": "string"
+    },
+    {
+      "key": "code_point_lower",
+      "label": "Code Point (Lower)",
+      "type": "string"
+    },
+    {
+      "key": "numeric_value",
+      "label": "Numeric Value",
+      "type": "number"
+    },
+    {
+      "key": "usage",
+      "label": "Common Usage in Science/Math (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uppercase": "Α",
+      "lowercase": "α",
+      "name": "อัลฟา",
+      "transliteration": "a",
+      "code_point_upper": "U+0391",
+      "code_point_lower": "U+03B1",
+      "numeric_value": 1,
+      "usage": "มุม, ความเร่งเชิงมุม, ค่าคงที่โครงสร้างละเอียด"
+    },
+    {
+      "uppercase": "Β",
+      "lowercase": "β",
+      "name": "เบตา",
+      "transliteration": "b",
+      "code_point_upper": "U+0392",
+      "code_point_lower": "U+03B2",
+      "numeric_value": 2,
+      "usage": "สัมประสิทธิ์เบตา, อนุภาคเบตา, มุม"
+    },
+    {
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "name": "แกมมา",
+      "transliteration": "g",
+      "code_point_upper": "U+0393",
+      "code_point_lower": "U+03B3",
+      "numeric_value": 3,
+      "usage": "ฟังก์ชันแกมมา, รังสีแกมมา, แรงตึงผิว"
+    },
+    {
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "name": "เดลตา",
+      "transliteration": "d",
+      "code_point_upper": "U+0394",
+      "code_point_lower": "U+03B4",
+      "numeric_value": 4,
+      "usage": "การเปลี่ยนแปลง/ความแตกต่าง, ฟังก์ชันเดลตาของดิแรก, มุม"
+    },
+    {
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "name": "เอปไซลอน",
+      "transliteration": "e",
+      "code_point_upper": "U+0395",
+      "code_point_lower": "U+03B5",
+      "numeric_value": 5,
+      "usage": "ปริมาณบวกขนาดเล็ก, สภาพยอม, ความเครียด"
+    },
+    {
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "name": "ซีตา",
+      "transliteration": "z",
+      "code_point_upper": "U+0396",
+      "code_point_lower": "U+03B6",
+      "numeric_value": 7,
+      "usage": "ฟังก์ชันซีตาของรีมันน์, อัตราส่วนการหน่วง"
+    },
+    {
+      "uppercase": "Η",
+      "lowercase": "η",
+      "name": "อีตา",
+      "transliteration": "ē",
+      "code_point_upper": "U+0397",
+      "code_point_lower": "U+03B7",
+      "numeric_value": 8,
+      "usage": "ประสิทธิภาพ, ความหนืด, ฟังก์ชันอีตาของดิริชเลต์"
+    },
+    {
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "name": "ทีตา",
+      "transliteration": "th",
+      "code_point_upper": "U+0398",
+      "code_point_lower": "U+03B8",
+      "numeric_value": 9,
+      "usage": "มุม, อุณหภูมิ, รูปแบบของสัญกรณ์บิ๊กโอ"
+    },
+    {
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "name": "ไอโอตา",
+      "transliteration": "i",
+      "code_point_upper": "U+0399",
+      "code_point_lower": "U+03B9",
+      "numeric_value": 10,
+      "usage": "ดัชนี, การแมปการรวม, ค่าบวกที่เล็กที่สุด"
+    },
+    {
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "name": "แคปปา",
+      "transliteration": "k",
+      "code_point_upper": "U+039A",
+      "code_point_lower": "U+03BA",
+      "numeric_value": 20,
+      "usage": "ความโค้ง, สภาพนำความร้อน, การเชื่อมต่อ"
+    },
+    {
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "name": "แลมบ์ดา",
+      "transliteration": "l",
+      "code_point_upper": "U+039B",
+      "code_point_lower": "U+03BB",
+      "numeric_value": 30,
+      "usage": "ความยาวคลื่น, ค่าลักษณะเฉพาะ, แคลคูลัสแลมบ์ดา"
+    },
+    {
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "name": "มิว",
+      "transliteration": "m",
+      "code_point_upper": "U+039C",
+      "code_point_lower": "U+03BC",
+      "numeric_value": 40,
+      "usage": "คำอุปสรรคไมโคร-, ค่าเฉลี่ย, สัมประสิทธิ์ความเสียดทาน"
+    },
+    {
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "name": "นิว",
+      "transliteration": "n",
+      "code_point_upper": "U+039D",
+      "code_point_lower": "U+03BD",
+      "numeric_value": 50,
+      "usage": "ความถี่, ความหนืดจลนศาสตร์, อัตราส่วนปัวซง"
+    },
+    {
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "name": "ไซ",
+      "transliteration": "x",
+      "code_point_upper": "U+039E",
+      "code_point_lower": "U+03BE",
+      "numeric_value": 60,
+      "usage": "ตัวแปรสุ่ม, ขอบเขตของการเกิดปฏิกิริยา"
+    },
+    {
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "name": "โอไมครอน",
+      "transliteration": "o",
+      "code_point_upper": "U+039F",
+      "code_point_lower": "U+03BF",
+      "numeric_value": 70,
+      "usage": "สัญกรณ์บิ๊กโอ (ไม่ค่อยใช้เนื่องจากความสับสนกับ 0)"
+    },
+    {
+      "uppercase": "Π",
+      "lowercase": "π",
+      "name": "พาย",
+      "transliteration": "p",
+      "code_point_upper": "U+03A0",
+      "code_point_lower": "U+03C0",
+      "numeric_value": 80,
+      "usage": "ค่าคงที่พาย (3.14159...), สัญกรณ์ผลคูณ, กำไร"
+    },
+    {
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "name": "โร",
+      "transliteration": "r",
+      "code_point_upper": "U+03A1",
+      "code_point_lower": "U+03C1",
+      "numeric_value": 100,
+      "usage": "ความหนาแน่น, สภาพต้านทานไฟฟ้า, สัมประสิทธิ์สหสัมพันธ์"
+    },
+    {
+      "uppercase": "Σ",
+      "lowercase": "σ/ς",
+      "name": "ซิกมา",
+      "transliteration": "s",
+      "code_point_upper": "U+03A3",
+      "code_point_lower": "U+03C3",
+      "numeric_value": 200,
+      "usage": "การรวม, ส่วนเบี่ยงเบนมาตรฐาน, ความเค้น"
+    },
+    {
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "name": "เทา",
+      "transliteration": "t",
+      "code_point_upper": "U+03A4",
+      "code_point_lower": "U+03C4",
+      "numeric_value": 300,
+      "usage": "แรงบิด, ความเค้นเฉือน, ค่าคงที่เวลา, เทา (2π)"
+    },
+    {
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "name": "อุปไซลอน",
+      "transliteration": "u/y",
+      "code_point_upper": "U+03A5",
+      "code_point_lower": "U+03C5",
+      "numeric_value": 400,
+      "usage": "เมซอนอุปไซลอน, ปริมาตรจำเพาะ"
+    },
+    {
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "name": "ฟาย",
+      "transliteration": "ph",
+      "code_point_upper": "U+03A6",
+      "code_point_lower": "U+03C6",
+      "numeric_value": 500,
+      "usage": "อัตราส่วนทองคำ, ฟลักซ์แม่เหล็ก, มุม, ฟังก์ชันคลื่น"
+    },
+    {
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "name": "ไค",
+      "transliteration": "ch",
+      "code_point_upper": "U+03A7",
+      "code_point_lower": "U+03C7",
+      "numeric_value": 600,
+      "usage": "การแจกแจงไคกำลังสอง, สภาพไฟฟ้าลบ"
+    },
+    {
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "name": "ไซ",
+      "transliteration": "ps",
+      "code_point_upper": "U+03A8",
+      "code_point_lower": "U+03C8",
+      "numeric_value": 700,
+      "usage": "ฟังก์ชันคลื่น, ฟังก์ชันไดแกมมา, มุม"
+    },
+    {
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "name": "โอเมกา",
+      "transliteration": "ō",
+      "code_point_upper": "U+03A9",
+      "code_point_lower": "U+03C9",
+      "numeric_value": 800,
+      "usage": "โอห์ม (ความต้านทานไฟฟ้า), ความเร็วเชิงมุม, มุมตัน"
+    }
+  ],
+  "meta": {
+    "seo_title": "อักษรกรีก - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดชุดข้อมูลอักษรกรีก 24 ตัวพร้อมชื่อ การถอดเสียง ค่าตัวเลข และการใช้งานทางวิทยาศาสตร์ ฟรีใน Excel, CSV, PDF.",
+    "title": "ชุดข้อมูลอักษรกรีกพร้อมรายละเอียด",
+    "description": "ชุดข้อมูลนี้รวบรวมตัวอักษร 24 ตัวของอักษรกรีกอย่างครบถ้วน รวมถึงตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ชื่อ การถอดเสียง จุดรหัส Unicode ค่าตัวเลข และการใช้งานทางวิทยาศาสตร์/คณิตศาสตร์ทั่วไป",
+    "key_takeaways": [
+      "เข้าถึงตัวอักษรกรีกทั้ง 24 ตัวพร้อมคุณสมบัติโดยละเอียด",
+      "สำรวจจุดรหัส Unicode และการใช้งานทางวิทยาศาสตร์/คณิตศาสตร์ทั่วไป",
+      "ดาวน์โหลดข้อมูลพร้อมใช้สำหรับโครงการภาษาศาสตร์หรือ STEM",
+      "รับข้อมูลอ้างอิงที่สมบูรณ์สำหรับภาษากรีกโบราณและสัญลักษณ์ทางวิทยาศาสตร์"
+    ],
+    "keywords": [
+      "อักษรกรีก excel",
+      "ตัวอักษรกรีก unicode",
+      "alpha beta gamma ชุดข้อมูล",
+      "สัญลักษณ์วิทยาศาสตร์ csv",
+      "การใช้อักษรกรีก pdf",
+      "ดาวน์โหลดตัวอักษรกรีก"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในสคริปต์ Python หรือฐานข้อมูล SQL ของคุณสำหรับการวิเคราะห์ภาษาหรือการจับคู่ตัวอักษร",
+      "ใช้ไฟล์ **Excel** เพื่อกรองตัวอักษรตามค่าตัวเลขหรือการใช้งานทั่วไป สร้างตารางอ้างอิงสำหรับการศึกษาอย่างรวดเร็ว",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับแผนภูมิอ้างอิงที่ชัดเจนแบบออฟไลน์ในห้องเรียน ห้องปฏิบัติการ หรือการศึกษาด้วยตนเอง",
+      "ใช้ประโยชน์จากข้อมูลนี้เพื่อสร้างแอปพลิเคชันการศึกษา แบบทดสอบ หรือเครื่องมือสำหรับการเรียนรู้อักษรกรีกและการประยุกต์ใช้"
+    ]
+  },
+  "record_count": 24,
+  "title": "ชุดข้อมูลอักษรกรีกพร้อมรายละเอียด"
+}

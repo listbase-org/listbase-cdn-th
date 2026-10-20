@@ -1,0 +1,1429 @@
+{
+  "id": "geo-driving",
+  "name": "ชุดข้อมูลข้างทางขับรถและป้ายทะเบียนรถทั่วโลก",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "driving_side",
+      "label": "Driving Side (EN)",
+      "type": "string"
+    },
+    {
+      "key": "car_signs",
+      "label": "Car Signs",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "อัฟกานิสถาน",
+      "driving_side": "ขวา",
+      "car_signs": "AFG"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "แอลเบเนีย",
+      "driving_side": "ขวา",
+      "car_signs": "AL"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "แอลจีเรีย",
+      "driving_side": "ขวา",
+      "car_signs": "DZ"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "อันดอร์รา",
+      "driving_side": "ขวา",
+      "car_signs": "AND"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "แองโกลา",
+      "driving_side": "ขวา",
+      "car_signs": "ANG"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "แอนติกาและบาร์บูดา",
+      "driving_side": "ซ้าย",
+      "car_signs": "AG"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "อาร์เจนตินา",
+      "driving_side": "ขวา",
+      "car_signs": "RA"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "อาร์เมเนีย",
+      "driving_side": "ขวา",
+      "car_signs": "AM"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "ออสเตรเลีย",
+      "driving_side": "ซ้าย",
+      "car_signs": "AUS"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "ออสเตรีย",
+      "driving_side": "ขวา",
+      "car_signs": "A"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "อาเซอร์ไบจาน",
+      "driving_side": "ขวา",
+      "car_signs": "AZ"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "บาฮามาส",
+      "driving_side": "ซ้าย",
+      "car_signs": "BS"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "บาห์เรน",
+      "driving_side": "ขวา",
+      "car_signs": "BRN"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "บังกลาเทศ",
+      "driving_side": "ซ้าย",
+      "car_signs": "BD"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "บาร์เบโดส",
+      "driving_side": "ซ้าย",
+      "car_signs": "BDS"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "เบลารุส",
+      "driving_side": "ขวา",
+      "car_signs": "BY"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "เบลเยียม",
+      "driving_side": "ขวา",
+      "car_signs": "B"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "เบลีซ",
+      "driving_side": "ขวา",
+      "car_signs": "BH"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "เบนิน",
+      "driving_side": "ขวา",
+      "car_signs": "DY"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "ภูฏาน",
+      "driving_side": "ซ้าย",
+      "car_signs": "BHT"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "โบลิเวีย",
+      "driving_side": "ขวา",
+      "car_signs": "BOL"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "บอสเนียและเฮอร์เซโกวีนา",
+      "driving_side": "ขวา",
+      "car_signs": "BIH"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "บอตสวานา",
+      "driving_side": "ซ้าย",
+      "car_signs": "BW"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "บราซิล",
+      "driving_side": "ขวา",
+      "car_signs": "BR"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "บรูไน",
+      "driving_side": "ซ้าย",
+      "car_signs": "BRU"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "บัลแกเรีย",
+      "driving_side": "ขวา",
+      "car_signs": "BG"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "บูร์กินาฟาโซ",
+      "driving_side": "ขวา",
+      "car_signs": "BF"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "บุรุนดี",
+      "driving_side": "ขวา",
+      "car_signs": "RU"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "กัมพูชา",
+      "driving_side": "ขวา",
+      "car_signs": "K"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "แคเมอรูน",
+      "driving_side": "ขวา",
+      "car_signs": "CAM"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "แคนาดา",
+      "driving_side": "ขวา",
+      "car_signs": "CDN"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "กาบูเวร์ดี",
+      "driving_side": "ขวา",
+      "car_signs": "CV"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "สาธารณรัฐแอฟริกากลาง",
+      "driving_side": "ขวา",
+      "car_signs": "RCA"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "ชาด",
+      "driving_side": "ขวา",
+      "car_signs": "TCH, TD"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "ชิลี",
+      "driving_side": "ขวา",
+      "car_signs": "RCH"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "driving_side": "ขวา",
+      "car_signs": "RC"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "โคลอมเบีย",
+      "driving_side": "ขวา",
+      "car_signs": "CO"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "คอโมโรส",
+      "driving_side": "ขวา",
+      "car_signs": "COM"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "คอสตาริกา",
+      "driving_side": "ขวา",
+      "car_signs": "CR"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "โครเอเชีย",
+      "driving_side": "ขวา",
+      "car_signs": "HR"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "คิวบา",
+      "driving_side": "ขวา",
+      "car_signs": "C"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "ไซปรัส",
+      "driving_side": "ซ้าย",
+      "car_signs": "CY"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "เช็กเกีย",
+      "driving_side": "ขวา",
+      "car_signs": "CZ"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "เดนมาร์ก",
+      "driving_side": "ขวา",
+      "car_signs": "DK"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "จิบูตี",
+      "driving_side": "ขวา",
+      "car_signs": "DJI"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "โดมินิกา",
+      "driving_side": "ซ้าย",
+      "car_signs": "WD"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "สาธารณรัฐโดมินิกัน",
+      "driving_side": "ขวา",
+      "car_signs": "DOM"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "สาธารณรัฐประชาธิปไตยคองโก",
+      "driving_side": "ขวา",
+      "car_signs": "CGO"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "เอกวาดอร์",
+      "driving_side": "ขวา",
+      "car_signs": "EC"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "อียิปต์",
+      "driving_side": "ขวา",
+      "car_signs": "ET"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "เอลซัลวาดอร์",
+      "driving_side": "ขวา",
+      "car_signs": "ES"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "อิเควทอเรียลกินี",
+      "driving_side": "ขวา",
+      "car_signs": "GQ"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "เอริเทรีย",
+      "driving_side": "ขวา",
+      "car_signs": "ER"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "เอสโตเนีย",
+      "driving_side": "ขวา",
+      "car_signs": "EST"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "เอสวาตินี",
+      "driving_side": "ซ้าย",
+      "car_signs": "SD"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "เอธิโอเปีย",
+      "driving_side": "ขวา",
+      "car_signs": "ETH"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "ฟิจิ",
+      "driving_side": "ซ้าย",
+      "car_signs": "FJI"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "ฟินแลนด์",
+      "driving_side": "ขวา",
+      "car_signs": "FIN"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "ฝรั่งเศส",
+      "driving_side": "ขวา",
+      "car_signs": "F"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "กาบอง",
+      "driving_side": "ขวา",
+      "car_signs": "G"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "แกมเบีย",
+      "driving_side": "ทางขวา",
+      "car_signs": "WAG"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "จอร์เจีย",
+      "driving_side": "ทางขวา",
+      "car_signs": "GE"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "เยอรมนี",
+      "driving_side": "ทางขวา",
+      "car_signs": "DY"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "กานา",
+      "driving_side": "ทางขวา",
+      "car_signs": "GH"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "กรีซ",
+      "driving_side": "ทางขวา",
+      "car_signs": "GR"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "เกรเนดา",
+      "driving_side": "ทางซ้าย",
+      "car_signs": "WG"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "กัวเตมาลา",
+      "driving_side": "ทางขวา",
+      "car_signs": "GCA"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "กินี",
+      "driving_side": "ทางขวา",
+      "car_signs": "RG"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "กินี-บิสเซา",
+      "driving_side": "ทางขวา",
+      "car_signs": "RGB"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "กายอานา",
+      "driving_side": "ทางซ้าย",
+      "car_signs": "GUY"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "เฮติ",
+      "driving_side": "ทางขวา",
+      "car_signs": "RH"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "ฮอนดูรัส",
+      "driving_side": "ทางขวา",
+      "car_signs": "HN"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "ฮังการี",
+      "driving_side": "ทางขวา",
+      "car_signs": "H"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "ไอซ์แลนด์",
+      "driving_side": "ทางขวา",
+      "car_signs": "IS"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "อินเดีย",
+      "driving_side": "ทางซ้าย",
+      "car_signs": "IND"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "อินโดนีเซีย",
+      "driving_side": "ทางซ้าย",
+      "car_signs": "RI"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "อิหร่าน",
+      "driving_side": "ทางขวา",
+      "car_signs": "IR"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "อิรัก",
+      "driving_side": "ทางขวา",
+      "car_signs": "IRQ"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "ไอร์แลนด์",
+      "driving_side": "ทางซ้าย",
+      "car_signs": "IRL"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "อิสราเอล",
+      "driving_side": "ทางขวา",
+      "car_signs": "IL"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "อิตาลี",
+      "driving_side": "ชิดขวา",
+      "car_signs": "I"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "ไอวอรีโคสต์",
+      "driving_side": "ชิดขวา",
+      "car_signs": "CI"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "จาเมกา",
+      "driving_side": "ชิดซ้าย",
+      "car_signs": "JA"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "ญี่ปุ่น",
+      "driving_side": "ชิดซ้าย",
+      "car_signs": "J"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "จอร์แดน",
+      "driving_side": "ชิดขวา",
+      "car_signs": "HKJ"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "คาซัคสถาน",
+      "driving_side": "ชิดขวา",
+      "car_signs": "KZ"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "เคนยา",
+      "driving_side": "ชิดซ้าย",
+      "car_signs": "EAK"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "คิริบาส",
+      "driving_side": "ชิดซ้าย",
+      "car_signs": "KIR"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "โคโซโว",
+      "driving_side": "ชิดขวา",
+      "car_signs": "CS"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "คูเวต",
+      "driving_side": "ชิดขวา",
+      "car_signs": "KWT"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "คีร์กีซสถาน",
+      "driving_side": "ชิดขวา",
+      "car_signs": "KS"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "ลาว",
+      "driving_side": "ชิดขวา",
+      "car_signs": "LAO"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "ลัตเวีย",
+      "driving_side": "ชิดขวา",
+      "car_signs": "LV"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "เลบานอน",
+      "driving_side": "ชิดขวา",
+      "car_signs": "RL"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "เลโซโท",
+      "driving_side": "ชิดซ้าย",
+      "car_signs": "LS"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "ไลบีเรีย",
+      "driving_side": "ชิดขวา",
+      "car_signs": "LB"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "ลิเบีย",
+      "driving_side": "ชิดขวา",
+      "car_signs": "LAR"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "ลิกเตนสไตน์",
+      "driving_side": "ชิดขวา",
+      "car_signs": "FL"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "ลิทัวเนีย",
+      "driving_side": "ชิดขวา",
+      "car_signs": "LT"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "ลักเซมเบิร์ก",
+      "driving_side": "ชิดขวา",
+      "car_signs": "L"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "มาดากัสการ์",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "RM"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "มาลาวี",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "MW"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "มาเลเซีย",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "MAL"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "มัลดีฟส์",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "MV"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "มาลี",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "RMM"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "มอลตา",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "M"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "หมู่เกาะมาร์แชลล์",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "MH"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "มอริเตเนีย",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "RIM"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "มอริเชียส",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "MS"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "เม็กซิโก",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "MEX"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "ไมโครเนเซีย",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "FSM"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "มอลโดวา",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "MD"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "โมนาโก",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "MC"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "มองโกเลีย",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "MGL"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "มอนเตเนโกร",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "SCG"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "โมร็อกโก",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "MA"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "โมซัมบิก",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "MOC"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "เมียนมา",
+      "driving_side": "ขับรถทางขวา",
+      "car_signs": "BUR"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "นามิเบีย",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "NAM"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "นาอูรู",
+      "driving_side": "ขับรถทางซ้าย",
+      "car_signs": "NAU"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "เนปาล",
+      "driving_side": "ซ้าย",
+      "car_signs": "NEP"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "เนเธอร์แลนด์",
+      "driving_side": "ขวา",
+      "car_signs": "NL"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "นิวซีแลนด์",
+      "driving_side": "ซ้าย",
+      "car_signs": "NZ"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "นิการากัว",
+      "driving_side": "ขวา",
+      "car_signs": "NIC"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "ไนเจอร์",
+      "driving_side": "ขวา",
+      "car_signs": "RN"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "ไนจีเรีย",
+      "driving_side": "ขวา",
+      "car_signs": "WAN"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "เกาหลีเหนือ",
+      "driving_side": "ขวา",
+      "car_signs": ""
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "มาซิโดเนียเหนือ",
+      "driving_side": "ขวา",
+      "car_signs": "MK"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "นอร์เวย์",
+      "driving_side": "ขวา",
+      "car_signs": "N"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "โอมาน",
+      "driving_side": "ขวา",
+      "car_signs": "OM"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "ปากีสถาน",
+      "driving_side": "ซ้าย",
+      "car_signs": "PK"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "ปาเลา",
+      "driving_side": "ขวา",
+      "car_signs": "PAL"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "ปานามา",
+      "driving_side": "ขวา",
+      "car_signs": "PA"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "ปาปัวนิวกินี",
+      "driving_side": "ซ้าย",
+      "car_signs": "PNG"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "ปารากวัย",
+      "driving_side": "ขวา",
+      "car_signs": "PY"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "เปรู",
+      "driving_side": "ขวา",
+      "car_signs": "PE"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "ฟิลิปปินส์",
+      "driving_side": "ขวา",
+      "car_signs": "RP"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "โปแลนด์",
+      "driving_side": "ขวา",
+      "car_signs": "PL"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "โปรตุเกส",
+      "driving_side": "ขวา",
+      "car_signs": "P"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "กาตาร์",
+      "driving_side": "ขวา",
+      "car_signs": "Q"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "สาธารณรัฐคองโก",
+      "driving_side": "ขวา",
+      "car_signs": "RCB"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "โรมาเนีย",
+      "driving_side": "ขวา",
+      "car_signs": "RO"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "driving_side": "ขวา",
+      "car_signs": "RUS"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "รวันดา",
+      "driving_side": "ขวา",
+      "car_signs": "RWA"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "เซนต์คิตส์และเนวิส",
+      "driving_side": "ซ้าย",
+      "car_signs": "KN"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "เซนต์ลูเซีย",
+      "driving_side": "ซ้าย",
+      "car_signs": "WL"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "driving_side": "ซ้าย",
+      "car_signs": "WV"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "ซามัว",
+      "driving_side": "ซ้าย",
+      "car_signs": "WS"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "ซานมารีโน",
+      "driving_side": "ขวา",
+      "car_signs": "RSM"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "เซาตูเมและปรินซิปี",
+      "driving_side": "ขวา",
+      "car_signs": "STP"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "ซาอุดีอาระเบีย",
+      "driving_side": "ขวา",
+      "car_signs": "SA"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "เซเนกัล",
+      "driving_side": "ขวา",
+      "car_signs": "SN"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "เซอร์เบีย",
+      "driving_side": "ขวา",
+      "car_signs": "SRB"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "เซเชลส์",
+      "driving_side": "ซ้าย",
+      "car_signs": "SY"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "เซียร์ราลีโอน",
+      "driving_side": "ขวา",
+      "car_signs": "WAL"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "driving_side": "ซ้าย",
+      "car_signs": "SGP"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "สโลวาเกีย",
+      "driving_side": "ขวา",
+      "car_signs": "SK"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "สโลวีเนีย",
+      "driving_side": "ขวา",
+      "car_signs": "SLO"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "หมู่เกาะโซโลมอน",
+      "driving_side": "ซ้าย",
+      "car_signs": "SOL"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "โซมาเลีย",
+      "driving_side": "ขวา",
+      "car_signs": "SO"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "แอฟริกาใต้",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "ZA"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "เกาหลีใต้",
+      "driving_side": "ขับขวา",
+      "car_signs": "ROK"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "ซูดานใต้",
+      "driving_side": "ขับขวา",
+      "car_signs": ""
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "สเปน",
+      "driving_side": "ขับขวา",
+      "car_signs": "E"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "CL"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "ซูดาน",
+      "driving_side": "ขับขวา",
+      "car_signs": "SUD"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "ซูรินาม",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "SME"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "สวีเดน",
+      "driving_side": "ขับขวา",
+      "car_signs": "S"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "สวิตเซอร์แลนด์",
+      "driving_side": "ขับขวา",
+      "car_signs": "CH"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "ซีเรีย",
+      "driving_side": "ขับขวา",
+      "car_signs": "SYR"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "ทาจิกิสถาน",
+      "driving_side": "ขับขวา",
+      "car_signs": "TJ"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "แทนซาเนีย",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "EAT"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "ประเทศไทย",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "T"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "ติมอร์-เลสเต",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "TL"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "โตโก",
+      "driving_side": "ขับขวา",
+      "car_signs": "TG"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "ตองกา",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "TO"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "ตรินิแดดและโตเบโก",
+      "driving_side": "ขับซ้าย",
+      "car_signs": "TT"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "ตูนิเซีย",
+      "driving_side": "ขับขวา",
+      "car_signs": "TN"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "ตุรกี",
+      "driving_side": "ขับขวา",
+      "car_signs": "TR"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "เติร์กเมนิสถาน",
+      "driving_side": "ขับขวา",
+      "car_signs": "TM"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "ตูวาลู",
+      "driving_side": "ซ้าย",
+      "car_signs": "TUV"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "ยูกันดา",
+      "driving_side": "ซ้าย",
+      "car_signs": "EAU"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "ยูเครน",
+      "driving_side": "ขวา",
+      "car_signs": "UA"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "สหรัฐอาหรับเอมิเรตส์",
+      "driving_side": "ขวา",
+      "car_signs": "UAE"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "สหราชอาณาจักร",
+      "driving_side": "ซ้าย",
+      "car_signs": "GB"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "สหรัฐอเมริกา",
+      "driving_side": "ขวา",
+      "car_signs": "USA"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "อุรุกวัย",
+      "driving_side": "ขวา",
+      "car_signs": "ROU"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "อุซเบกิสถาน",
+      "driving_side": "ขวา",
+      "car_signs": "UZ"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "วานูอาตู",
+      "driving_side": "ขวา",
+      "car_signs": "VU"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "นครรัฐวาติกัน",
+      "driving_side": "ขวา",
+      "car_signs": "V"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "เวเนซุเอลา",
+      "driving_side": "ขวา",
+      "car_signs": "YV"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "เวียดนาม",
+      "driving_side": "ขวา",
+      "car_signs": "VN"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "เยเมน",
+      "driving_side": "ขวา",
+      "car_signs": "YAR"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "แซมเบีย",
+      "driving_side": "ซ้าย",
+      "car_signs": "RNR"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "ซิมบับเว",
+      "driving_side": "ซ้าย",
+      "car_signs": "ZW"
+    }
+  ],
+  "meta": {
+    "seo_title": "ข้อมูลประเทศขับรถด้านไหน - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดข้อมูลข้างทางขับรถของ 195 ประเทศฟรี รับรหัส ISO, ข้างทางขับรถ และป้ายทะเบียนรถ มีในรูปแบบ Excel, CSV และ PDF",
+    "title": "ชุดข้อมูลข้างทางขับรถและป้ายทะเบียนรถทั่วโลก",
+    "description": "ค้นหาว่าประเทศต่างๆ ขับรถด้านไหน พร้อมรหัส ISO Alpha-2, Alpha-3 และป้ายทะเบียนรถสากล ชุดข้อมูลนี้ครอบคลุม 195 ประเทศอิสระ",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลข้างทางขับรถสำหรับ 195 ประเทศทั่วโลก",
+      "สำรวจรหัส ISO Alpha-2, Alpha-3 และป้ายทะเบียนรถอย่างเป็นทางการ",
+      "ดาวน์โหลดข้อมูลการใช้ถนนที่ครอบคลุมในหลายรูปแบบ",
+      "ใช้รายละเอียดการขับขี่เฉพาะประเทศที่แม่นยำสำหรับโครงการระหว่างประเทศ"
+    ],
+    "keywords": [
+      "ประเทศขับรถด้านไหน",
+      "ข้อมูลขับรถซ้ายขวา",
+      "iso 3166 ข้างทางขับรถ",
+      "ป้ายทะเบียนรถตามประเทศ excel",
+      "ดาวน์โหลดทิศทางการขับขี่ csv",
+      "กฎจราจรโลก pdf"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL ของคุณ หรือใช้กับสคริปต์ Python เพื่อวิเคราะห์รูปแบบการขับขี่ทั่วโลกหรือรวมเข้ากับแอปนำทาง",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Tables, กรองข้อมูลตามภูมิภาค หรือทำการ VLOOKUP เพื่อข้อมูลเชิงลึกเกี่ยวกับกฎระเบียบการขับขี่และป้ายทะเบียนรถ",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับการอ้างอิงในชั้นเรียน, การวางแผนการเดินทาง หรือเป็นเอกสารที่แบ่งปันง่ายซึ่งมีรายละเอียดการขับขี่ระหว่างประเทศ",
+      "รวมข้อมูลนี้เข้ากับระบบการวางแผนโลจิสติกส์เพื่อให้แน่ใจว่าเป็นไปตามกฎระเบียบการขับขี่ในท้องถิ่นสำหรับกองยานพาหนะระหว่างประเทศ"
+    ]
+  },
+  "record_count": 195,
+  "title": "ชุดข้อมูลข้างทางขับรถและป้ายทะเบียนรถทั่วโลก"
+}

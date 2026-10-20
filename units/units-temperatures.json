@@ -1,0 +1,446 @@
+{
+  "id": "units-temperatures",
+  "name": "Temperature Conversion Matrix Dataset",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "celsius",
+      "label": "Celsius (°C)",
+      "type": "number"
+    },
+    {
+      "key": "fahrenheit",
+      "label": "Fahrenheit (°F)",
+      "type": "number"
+    },
+    {
+      "key": "kelvin",
+      "label": "Kelvin (K)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "celsius": -273.15,
+      "fahrenheit": -459.67,
+      "kelvin": 0,
+      "description": "ศูนย์สัมบูรณ์",
+      "category": "วิทยาศาสตร์"
+    },
+    {
+      "celsius": -269,
+      "fahrenheit": -452.2,
+      "kelvin": 4.15,
+      "description": "จุดเดือดฮีเลียมเหลว",
+      "category": "วิทยาศาสตร์"
+    },
+    {
+      "celsius": -196,
+      "fahrenheit": -320.8,
+      "kelvin": 77.15,
+      "description": "จุดเดือดไนโตรเจนเหลว",
+      "category": "วิทยาศาสตร์"
+    },
+    {
+      "celsius": -89.2,
+      "fahrenheit": -128.56,
+      "kelvin": 183.95,
+      "description": "หนาวที่สุดที่เคยบันทึกบนโลก (แอนตาร์กติกา)",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": -78.5,
+      "fahrenheit": -109.3,
+      "kelvin": 194.65,
+      "description": "การระเหิดของน้ำแข็งแห้ง",
+      "category": "วิทยาศาสตร์"
+    },
+    {
+      "celsius": -40,
+      "fahrenheit": -40,
+      "kelvin": 233.15,
+      "description": "เท่ากันทั้งเซลเซียสและฟาเรนไฮต์",
+      "category": "อ้างอิง"
+    },
+    {
+      "celsius": -30,
+      "fahrenheit": -22,
+      "kelvin": 243.15,
+      "description": "อากาศหนาวจัด",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": -20,
+      "fahrenheit": -4,
+      "kelvin": 253.15,
+      "description": "ฤดูหนาวที่หนาวมาก",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": -18,
+      "fahrenheit": -0.4,
+      "kelvin": 255.15,
+      "description": "อุณหภูมิตู้แช่แข็งมาตรฐาน",
+      "category": "ครัวเรือน"
+    },
+    {
+      "celsius": -10,
+      "fahrenheit": 14,
+      "kelvin": 263.15,
+      "description": "วันฤดูหนาวที่หนาวเย็น",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": 0,
+      "fahrenheit": 32,
+      "kelvin": 273.15,
+      "description": "จุดเยือกแข็งของน้ำ",
+      "category": "อ้างอิง"
+    },
+    {
+      "celsius": 4,
+      "fahrenheit": 39.2,
+      "kelvin": 277.15,
+      "description": "อุณหภูมิตู้เย็น / ความหนาแน่นของน้ำสูงสุด",
+      "category": "ครัวเรือน"
+    },
+    {
+      "celsius": 10,
+      "fahrenheit": 50,
+      "kelvin": 283.15,
+      "description": "วันฤดูใบไม้ผลิที่เย็นสบาย",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": 15,
+      "fahrenheit": 59,
+      "kelvin": 288.15,
+      "description": "วันอากาศอบอุ่น",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": 20,
+      "fahrenheit": 68,
+      "kelvin": 293.15,
+      "description": "อุณหภูมิห้องมาตรฐาน",
+      "category": "อ้างอิง"
+    },
+    {
+      "celsius": 21,
+      "fahrenheit": 69.8,
+      "kelvin": 294.15,
+      "description": "อุณหภูมิในร่มที่สบาย",
+      "category": "ครัวเรือน"
+    },
+    {
+      "celsius": 22,
+      "fahrenheit": 71.6,
+      "kelvin": 295.15,
+      "description": "อุณหภูมิสำนักงานโดยทั่วไป",
+      "category": "ครัวเรือน"
+    },
+    {
+      "celsius": 25,
+      "fahrenheit": 77,
+      "kelvin": 298.15,
+      "description": "อุณหภูมิห้องที่อบอุ่น",
+      "category": "อ้างอิง"
+    },
+    {
+      "celsius": 30,
+      "fahrenheit": 86,
+      "kelvin": 303.15,
+      "description": "วันฤดูร้อนที่ร้อนจัด",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": 35,
+      "fahrenheit": 95,
+      "kelvin": 308.15,
+      "description": "คลื่นความร้อน",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": 37,
+      "fahrenheit": 98.6,
+      "kelvin": 310.15,
+      "description": "อุณหภูมิร่างกายมนุษย์",
+      "category": "การแพทย์"
+    },
+    {
+      "celsius": 38,
+      "fahrenheit": 100.4,
+      "kelvin": 311.15,
+      "description": "เกณฑ์ไข้",
+      "category": "การแพทย์"
+    },
+    {
+      "celsius": 40,
+      "fahrenheit": 104,
+      "kelvin": 313.15,
+      "description": "ไข้สูง / ร้อนจัด",
+      "category": "การแพทย์"
+    },
+    {
+      "celsius": 42,
+      "fahrenheit": 107.6,
+      "kelvin": 315.15,
+      "description": "ไข้อันตราย",
+      "category": "การแพทย์"
+    },
+    {
+      "celsius": 50,
+      "fahrenheit": 122,
+      "kelvin": 323.15,
+      "description": "ความร้อนจัดในทะเลทราย",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": 56.7,
+      "fahrenheit": 134.06,
+      "kelvin": 329.85,
+      "description": "อุณหภูมิที่ร้อนที่สุดที่บันทึกบนโลก (หุบเขามรณะ)",
+      "category": "สภาพอากาศ"
+    },
+    {
+      "celsius": 60,
+      "fahrenheit": 140,
+      "kelvin": 333.15,
+      "description": "อุณหภูมิอุ่นคงที่",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 63,
+      "fahrenheit": 145.4,
+      "kelvin": 336.15,
+      "description": "อุณหภูมิต่ำสุดที่ปลอดภัยสำหรับเนื้อวัว/หมู",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 70,
+      "fahrenheit": 158,
+      "kelvin": 343.15,
+      "description": "อุณหภูมิต่ำสุดที่ปลอดภัยสำหรับการอุ่นซ้ำ",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 74,
+      "fahrenheit": 165.2,
+      "kelvin": 347.15,
+      "description": "อุณหภูมิต่ำสุดที่ปลอดภัยสำหรับสัตว์ปีก",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 80,
+      "fahrenheit": 176,
+      "kelvin": 353.15,
+      "description": "อุณหภูมิเสิร์ฟกาแฟร้อน",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 100,
+      "fahrenheit": 212,
+      "kelvin": 373.15,
+      "description": "จุดเดือดของน้ำ (ระดับน้ำทะเล)",
+      "category": "อ้างอิง"
+    },
+    {
+      "celsius": 110,
+      "fahrenheit": 230,
+      "kelvin": 383.15,
+      "description": "เตาอบอุณหภูมิต่ำ / การอุ่น",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 120,
+      "fahrenheit": 248,
+      "kelvin": 393.15,
+      "description": "เตาอบอุณหภูมิต่ำมาก",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 150,
+      "fahrenheit": 302,
+      "kelvin": 423.15,
+      "description": "เตาอบอุณหภูมิต่ำ (300°F)",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 160,
+      "fahrenheit": 320,
+      "kelvin": 433.15,
+      "description": "การอบช้า",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 175,
+      "fahrenheit": 347,
+      "kelvin": 448.15,
+      "description": "เตาอบอุณหภูมิปานกลาง-ต่ำ (350°F)",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 180,
+      "fahrenheit": 356,
+      "kelvin": 453.15,
+      "description": "อุณหภูมิอบมาตรฐาน",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 190,
+      "fahrenheit": 374,
+      "kelvin": 463.15,
+      "description": "เตาอบอุณหภูมิปานกลาง (375°F)",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 200,
+      "fahrenheit": 392,
+      "kelvin": 473.15,
+      "description": "อุณหภูมิการอบ",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 220,
+      "fahrenheit": 428,
+      "kelvin": 493.15,
+      "description": "เตาอบร้อนจัด (425°F)",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 230,
+      "fahrenheit": 446,
+      "kelvin": 503.15,
+      "description": "เตาอบร้อนมาก (450°F)",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 250,
+      "fahrenheit": 482,
+      "kelvin": 523.15,
+      "description": "เตาอบพิซซ่า / การย่างไฟบน",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 300,
+      "fahrenheit": 572,
+      "kelvin": 573.15,
+      "description": "ทอดน้ำมันท่วมสูงสุด",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 350,
+      "fahrenheit": 662,
+      "kelvin": 623.15,
+      "description": "จุดควันของน้ำมัน (แบบบริสุทธิ์)",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 400,
+      "fahrenheit": 752,
+      "kelvin": 673.15,
+      "description": "เตาอบฟืน",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 450,
+      "fahrenheit": 842,
+      "kelvin": 723.15,
+      "description": "เตาอบพิซซ่ามืออาชีพ",
+      "category": "การทำอาหาร"
+    },
+    {
+      "celsius": 660,
+      "fahrenheit": 1220,
+      "kelvin": 933.15,
+      "description": "จุดหลอมเหลวของอะลูมิเนียม",
+      "category": "อุตสาหกรรม"
+    },
+    {
+      "celsius": 1064,
+      "fahrenheit": 1947.2,
+      "kelvin": 1337.15,
+      "description": "จุดหลอมเหลวของทองคำ",
+      "category": "อุตสาหกรรม"
+    },
+    {
+      "celsius": 1085,
+      "fahrenheit": 1985,
+      "kelvin": 1358.15,
+      "description": "จุดหลอมเหลวของทองแดง",
+      "category": "อุตสาหกรรม"
+    },
+    {
+      "celsius": 1538,
+      "fahrenheit": 2800.4,
+      "kelvin": 1811.15,
+      "description": "จุดหลอมเหลวของเหล็ก",
+      "category": "อุตสาหกรรม"
+    },
+    {
+      "celsius": 1668,
+      "fahrenheit": 3034.4,
+      "kelvin": 1941.15,
+      "description": "จุดหลอมเหลวของไทเทเนียม",
+      "category": "อุตสาหกรรม"
+    },
+    {
+      "celsius": 3422,
+      "fahrenheit": 6191.6,
+      "kelvin": 3695.15,
+      "description": "จุดหลอมเหลวของทังสเตน (โลหะที่สูงที่สุด)",
+      "category": "อุตสาหกรรม"
+    },
+    {
+      "celsius": 5500,
+      "fahrenheit": 9932,
+      "kelvin": 5773.15,
+      "description": "อุณหภูมิพื้นผิวของดวงอาทิตย์",
+      "category": "ดาราศาสตร์"
+    },
+    {
+      "celsius": 15000000,
+      "fahrenheit": 27000032,
+      "kelvin": 15000273.15,
+      "description": "อุณหภูมิแกนกลางของดวงอาทิตย์",
+      "category": "ดาราศาสตร์"
+    }
+  ],
+  "meta": {
+    "seo_title": "Temperature Conversion Matrix - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download Temperature Conversion Matrix with 55 records. Available in Excel, CSV, and PDF formats.",
+    "title": "Temperature Conversion Matrix Dataset",
+    "description": "Temperature Conversion Matrix containing 55 records.",
+    "key_takeaways": [
+      "Access 55 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "temperature conversion matrix excel",
+      "temperature conversion matrix csv download",
+      "temperature conversion matrix data",
+      "temperature conversion matrix list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 55,
+  "title": "Temperature Conversion Matrix Dataset"
+}

@@ -1,0 +1,1571 @@
+{
+  "id": "reference-football-stadiums-by-capacity",
+  "name": "รายชื่อสนามฟุตบอลเรียงตามความจุ",
+  "title": "รายชื่อสนามฟุตบอลเรียงตามความจุ",
+  "description": "รายชื่อสนามฟุตบอลทั่วโลกที่จัดเรียงตามความจุที่นั่ง โดยส่วนใหญ่เป็นไปตามข้อกำหนดขั้นต่ำ 40,000 ที่นั่งของฟีฟ่าสำหรับการจัดการแข่งขันระดับฟุตบอลโลก ข้อมูลประกอบด้วยชื่อสนาม ความจุ สถานที่ตั้ง และสโมสรหรือทีมชาติที่ใช้สนามเป็นหลัก",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B8",
+  "updated": "2024-07-29",
+  "record_count": 254,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อ",
+      "type": "string"
+    },
+    {
+      "key": "capacity",
+      "label": "ความจุ",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "สถานที่ตั้ง",
+      "type": "string"
+    },
+    {
+      "key": "club_or_national_team",
+      "label": "สโมสร, ทีมชาติ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "รุงราโดเมย์เดย์",
+      "capacity": 114000,
+      "location": "เปียงยาง เกาหลีเหนือ",
+      "club_or_national_team": "ทีมชาติเกาหลีเหนือ"
+    },
+    {
+      "name_th": "เอทีแอนด์ทีสเตเดียม",
+      "capacity": 105000,
+      "location": "อาร์ลิงตัน สหรัฐอเมริกา",
+      "club_or_national_team": ""
+    },
+    {
+      "name_th": "สนามคริกเก็ตเมลเบิร์น",
+      "capacity": 100024,
+      "location": "เมลเบิร์น ออสเตรเลีย",
+      "club_or_national_team": ""
+    },
+    {
+      "name_th": "กัมนอว์",
+      "capacity": 99354,
+      "location": "บาร์เซโลนา สเปน",
+      "club_or_national_team": "บาร์เซโลนา, ทีมชาติกาตาลุญญา (บางนัด)"
+    },
+    {
+      "name_th": "ซอกเกอร์ซิตี",
+      "capacity": 94736,
+      "location": "โจฮันเนสเบิร์ก แอฟริกาใต้",
+      "club_or_national_team": "ทีมชาติแอฟริกาใต้ , ไกเซอร์ชีฟส์"
+    },
+    {
+      "name_th": "โรสโบว์",
+      "capacity": 92542,
+      "location": "แพซาดีนา สหรัฐอเมริกา",
+      "club_or_national_team": ""
+    },
+    {
+      "name_th": "สนามกีฬาเว็มบลีย์",
+      "capacity": 90000,
+      "location": "ลอนดอน อังกฤษ",
+      "club_or_national_team": "ทีมชาติอังกฤษ (เปิดใช้งาน 2550 หลังจากปิดปรับปรุง)"
+    },
+    {
+      "name_th": "อัซเตกา",
+      "capacity": 87523,
+      "location": "เม็กซิโกซิตี เม็กซิโก",
+      "club_or_national_team": "ทีมชาติเม็กซิโก , กลุบอาเมริกา"
+    },
+    {
+      "name_th": "สนามกีฬาแห่งชาติบูกิตจาลิล",
+      "capacity": 87411,
+      "location": "กัวลาลัมเปอร์ มาเลเซีย",
+      "club_or_national_team": "ทีมชาติมาเลเซีย"
+    },
+    {
+      "name_th": "สนามกีฬา บอร์ก เอล อาหรับ",
+      "capacity": 86000,
+      "location": "บอร์ก เอล อาหรับ อียิปต์",
+      "club_or_national_team": "ทีมชาติอียิปต์ , อัลอิทิฮัด"
+    },
+    {
+      "name_th": "สนามกีฬาซอล์ทเลก",
+      "capacity": 85000,
+      "location": "โกลกาตา อินเดีย",
+      "club_or_national_team": "ทีมชาติอินเดีย , อีสต์เบงกอล , โมหันวาคาน"
+    },
+    {
+      "name_th": "สนามกีฬาโมนูเมตัล อู",
+      "capacity": 85000,
+      "location": "ลิมา เปรู",
+      "club_or_national_team": "อูเบร์ซิตาริโอ"
+    },
+    {
+      "name_th": "สนามกีฬาออสเตรเลีย",
+      "capacity": 82500,
+      "location": "ซิดนีย์ ออสเตรเลีย",
+      "club_or_national_team": "ทีมชาติออสเตรเลีย (บางนัด)"
+    },
+    {
+      "name_th": "สนามกีฬาเมตไลฟ์",
+      "capacity": 82500,
+      "location": "อีสท์ รัธเธอร์ฟอร์ด สหรัฐอเมริกา",
+      "club_or_national_team": ""
+    },
+    {
+      "name_th": "โครกพาร์ก",
+      "capacity": 82300,
+      "location": "ดับลิน ไอร์แลนด์",
+      "club_or_national_team": ""
+    },
+    {
+      "name_th": "เว็สท์ฟาเลินชตาดีอ็อน",
+      "capacity": 81365,
+      "location": "ดอร์ทมุนด์ เยอรมนี",
+      "club_or_national_team": "โบรุสซีอาดอร์ทมุนท์ , ทีมชาติเยอรมนี (บางนัด)"
+    },
+    {
+      "name_th": "สนามกีฬาซานเตียโก เบร์นาเบว",
+      "capacity": 81044,
+      "location": "มาดริด สเปน",
+      "club_or_national_team": "เรอัลมาดริด , ทีมชาติสเปน (บางนัด)"
+    },
+    {
+      "name_th": "สนามกีฬาลุจนีกี",
+      "capacity": 81000,
+      "location": "มอสโก รัสเซีย",
+      "club_or_national_team": "ทีมชาติรัสเซีย , ซีเอสเคเอ มอสโก"
+    },
+    {
+      "name_th": "สตาดเดอฟร็องส์",
+      "capacity": 80698,
+      "location": "แซ็ง-เดอนี ฝรั่งเศส",
+      "club_or_national_team": "ทีมชาติฝรั่งเศส"
+    },
+    {
+      "name_th": "สนามกีฬาชะฮ์อาลัม",
+      "capacity": 80372,
+      "location": "ชะฮ์อาลัม มาเลเซีย",
+      "club_or_national_team": "เซอลาโงร์"
+    },
+    {
+      "name_th": "สนามกีฬาโอลิมปิกกวางตุ้ง",
+      "capacity": 80012,
+      "location": "กว่างโจว จีน",
+      "club_or_national_team": ""
+    },
+    {
+      "name_th": "Estadio Monumental \"U\"",
+      "capacity": 80093,
+      "location": "ลิมา, เปรู",
+      "club_or_national_team": "Universitario de Deportes"
+    },
+    {
+      "name_th": "Guangdong Olympic Stadium",
+      "capacity": 80012,
+      "location": "กว่างโจว, จีน",
+      "club_or_national_team": "ทัวร์มาเมนต์ฟุตบอลโอลิมปิกฤดูร้อน 2008"
+    },
+    {
+      "name_th": "Borg El Arab Stadium",
+      "capacity": 80000,
+      "location": "อะเล็กซานเดรีย, อียิปต์",
+      "club_or_national_team": "ฟุตบอลทีมชาติอียิปต์"
+    },
+    {
+      "name_th": "เอสตาจีอูดูโมรุงบี",
+      "capacity": 80000,
+      "location": "เซาเปาลู, บราซิล",
+      "club_or_national_team": "São Paulo Futebol Clube"
+    },
+    {
+      "name_th": "Stade des Martyrs",
+      "capacity": 80000,
+      "location": "กินชาซา, สาธารณรัฐประชาธิปไตยคองโก",
+      "club_or_national_team": "DR Congo"
+    },
+    {
+      "name_th": "สนามเซี่ยงไฮ้",
+      "capacity": 80000,
+      "location": "เซี่ยงไฮ้, จีน",
+      "club_or_national_team": "2008 Olympics football tournament, and some Shanghai United matches"
+    },
+    {
+      "name_th": "สนามกีฬาดิเอโก อาร์มันโด มาราโดนา",
+      "capacity": 78210,
+      "location": "เนเปิลส์, อิตาลี",
+      "club_or_national_team": "Napoli"
+    },
+    {
+      "name_th": "Jawaharlal Nehru Stadium",
+      "capacity": 78000,
+      "location": "New Delhi, India",
+      "club_or_national_team": "Some local National Football League matches"
+    },
+    {
+      "name_th": "ซอกเกอร์ซิตี",
+      "capacity": 78000,
+      "location": "Johannesburg, South Africa",
+      "club_or_national_team": "South Africa"
+    },
+    {
+      "name_th": "โอลด์แทรฟฟอร์ด",
+      "capacity": 76212,
+      "location": "แมนเชสเตอร์, สหราชอาณาจักร",
+      "club_or_national_team": "แมนเชสเตอร์ยูไนเต็ด"
+    },
+    {
+      "name_th": "สนามกีฬาโอลิมปิกอาทาทืร์ค",
+      "capacity": 76092,
+      "location": "อิสตันบูล, ตุรกี",
+      "club_or_national_team": "Turkey, Galatasaray S.K."
+    },
+    {
+      "name_th": "สนามกีฬาเฮอรัซดัน",
+      "capacity": 75000,
+      "location": "Yerevan, Armenia",
+      "club_or_national_team": "FC Kilikia Yerevan"
+    },
+    {
+      "name_th": "มิลเลนเนียมสเตเดียม",
+      "capacity": 74500,
+      "location": "Cardiff, Wales",
+      "club_or_national_team": "Wales"
+    },
+    {
+      "name_th": "โอลึมพีอาชตาดีอ็อน",
+      "capacity": 74228,
+      "location": "Berlin, เยอรมนี",
+      "club_or_national_team": "Hertha BSC Berlin"
+    },
+    {
+      "name_th": "Cairo International Stadium",
+      "capacity": 74100,
+      "location": "Cairo, Egypt",
+      "club_or_national_team": "Egypt, Al-Ahly, El Zamalek"
+    },
+    {
+      "name_th": "สนามกีฬานานาชาติโยโกฮามะ",
+      "capacity": 72327,
+      "location": "Yokohama, ญี่ปุ่น",
+      "club_or_national_team": "Yokohama F. Marinos"
+    },
+    {
+      "name_th": "Estádio Parque do Sabiá",
+      "capacity": 72000,
+      "location": "Uberlândia, บราซิล",
+      "club_or_national_team": "Uberlândia Esporte Clube"
+    },
+    {
+      "name_th": "มีเนย์เรา",
+      "capacity": 71860,
+      "location": "Belo Horizonte, บราซิล",
+      "club_or_national_team": "Clube Atlético Mineiro, Cruzeiro Esporte Clube"
+    },
+    {
+      "name_th": "สนามกีฬาโอลิมปิกเอเธนส์",
+      "capacity": 71030,
+      "location": "Athens, Greece",
+      "club_or_national_team": "AEK Athens, Panathinaikos"
+    },
+    {
+      "name_th": "Yadegar-e-Emam Stadium",
+      "capacity": 71000,
+      "location": "Tabriz, Iran",
+      "club_or_national_team": "some Teraktor Sazi matches"
+    },
+    {
+      "name_th": "สนามคิมอิลซุง",
+      "capacity": 70000,
+      "location": "Pyongyang, North Korea",
+      "club_or_national_team": "Pyongyang City Sports Group"
+    },
+    {
+      "name_th": "อัลลีอันทซ์อาเรนา",
+      "capacity": 69901,
+      "location": "Munich, เยอรมนี",
+      "club_or_national_team": "Bayern Munich, 1860 Munich"
+    },
+    {
+      "name_th": "กัสเตเลา",
+      "capacity": 69000,
+      "location": "Fortaleza, บราซิล",
+      "club_or_national_team": "Ceará, Fortaleza"
+    },
+    {
+      "name_th": "Stadium Puskás Ferenc",
+      "capacity": 68976,
+      "location": "Budapest, Hungary",
+      "club_or_national_team": "Hungary"
+    },
+    {
+      "name_th": "Gillette Stadium",
+      "capacity": 68756,
+      "location": "Foxborough, สหรัฐอเมริกา",
+      "club_or_national_team": "New England Revolution"
+    },
+    {
+      "name_th": "สตาดีโอเดลเลอัลปี",
+      "capacity": 67229,
+      "location": "Turin, อิตาลี",
+      "club_or_national_team": "Juventus F.C., Torino F.C. (part-time)"
+    },
+    {
+      "name_th": "King Fahd II Stadium",
+      "capacity": 67000,
+      "location": "Riyadh, Saudi Arabia",
+      "club_or_national_team": "Al Hilal, Al Shabab"
+    },
+    {
+      "name_th": "Stade Mohamed V",
+      "capacity": 67000,
+      "location": "Casablanca, Morocco",
+      "club_or_national_team": "Raja Casablanca, Wydad Casablanca"
+    },
+    {
+      "name_th": "Qwest Field",
+      "capacity": 67000,
+      "location": "Seattle, สหรัฐอเมริกา",
+      "club_or_national_team": "Seattle Sounders"
+    },
+    {
+      "name_th": "เอสตาดิโอนาซิโอนัล ฆูลิโอ มาร์ติเนซ ปรานาโดส",
+      "capacity": 66650,
+      "location": "Santiago, Chile",
+      "club_or_national_team": "Chile, Universidad de Chile"
+    },
+    {
+      "name_th": "Workers Stadium",
+      "capacity": 66161,
+      "location": "Beijing, จีน",
+      "club_or_national_team": "2008 Olympics football tournament, some Beijing Guoan matches"
+    },
+    {
+      "name_th": "Estádio Fonte Nova",
+      "capacity": 66080,
+      "location": "Salvador, บราซิล",
+      "club_or_national_team": "Esporte Clube Bahia"
+    },
+    {
+      "name_th": "Seoul World Cup Stadium",
+      "capacity": 66080,
+      "location": "Seoul, South Korea",
+      "club_or_national_team": "FC Seoul"
+    },
+    {
+      "name_th": "Stade 5 Juillet 1962",
+      "capacity": 66000,
+      "location": "Algiers, Algeria",
+      "club_or_national_team": "MC Algiers"
+    },
+    {
+      "name_th": "Daegu World Cup Stadium",
+      "capacity": 65754,
+      "location": "Daegu, South Korea",
+      "club_or_national_team": "Daegu FC"
+    },
+    {
+      "name_th": "อิชตาดียูดาลุช",
+      "capacity": 65647,
+      "location": "Lisbon, Portugal",
+      "club_or_national_team": "Benfica"
+    },
+    {
+      "name_th": "El Monumental",
+      "capacity": 65645,
+      "location": "Buenos Aires, อาร์เจนตินา",
+      "club_or_national_team": "Argentina, River Plate"
+    },
+    {
+      "name_th": "Centenario Stadium",
+      "capacity": 65000,
+      "location": "Montevideo, Uruguay",
+      "club_or_national_team": "Uruguay, Penarol"
+    },
+    {
+      "name_th": "June 11 Stadium",
+      "capacity": 65000,
+      "location": "Tripoli, Libya",
+      "club_or_national_team": "Libya, Al-Ahly, Al-Ittihad, Al Madina Tripoli"
+    },
+    {
+      "name_th": "Stade 7 November",
+      "capacity": 65000,
+      "location": "Radès, ตูนิเซีย",
+      "club_or_national_team": "Tunisia"
+    },
+    {
+      "name_th": "สนามไซตามะ",
+      "capacity": 63700,
+      "location": "Saitama, ญี่ปุ่น",
+      "club_or_national_team": "Urawa Reds"
+    },
+    {
+      "name_th": "Estadio Olímpico Universitario",
+      "capacity": 63186,
+      "location": "Mexico City, เม็กซิโก",
+      "club_or_national_team": "Club Universidad Nacional"
+    },
+    {
+      "name_th": "สนามกีฬาทอตนัมฮอตสเปอร์",
+      "capacity": 62062,
+      "location": "ลอนดอน, สหราชอาณาจักร",
+      "club_or_national_team": "Tottenham Hotspur F.C."
+    },
+    {
+      "name_th": "Yizhong Center",
+      "capacity": 62000,
+      "location": "Qingdao, จีน",
+      "club_or_national_team": "Qingdao Zhongneng"
+    },
+    {
+      "name_th": "อาเรนาเอาฟ์ชัลเคอ",
+      "capacity": 61482,
+      "location": "Gelsenkirchen, เยอรมนี",
+      "club_or_national_team": "FC Schalke 04"
+    },
+    {
+      "name_th": "แอนฟีลด์",
+      "capacity": 61276,
+      "location": "ลิเวอร์พูล, สหราชอาณาจักร",
+      "club_or_national_team": "ลิเวอร์พูล"
+    },
+    {
+      "name_th": "Aleppo International Stadium",
+      "capacity": 61000,
+      "location": "Aleppo, Syria",
+      "club_or_national_team": "Al-Ittihad"
+    },
+    {
+      "name_th": "เอมิเรตส์สเตเดียม",
+      "capacity": 60361,
+      "location": "ลอนดอน, สหราชอาณาจักร",
+      "club_or_national_team": "Arsenal F.C."
+    },
+    {
+      "name_th": "เซลติกพาร์ก",
+      "capacity": 60355,
+      "location": "กลาสโกว์, สกอตแลนด์",
+      "club_or_national_team": "Celtic F.C."
+    },
+    {
+      "name_th": "Lia Manoliu Stadium",
+      "capacity": 60120,
+      "location": "Bucharest, Romania",
+      "club_or_national_team": "Romania"
+    },
+    {
+      "name_th": "Estádio do Arruda",
+      "capacity": 60044,
+      "location": "Recife, บราซิล",
+      "club_or_national_team": "Santa Cruz Futebol Clube"
+    },
+    {
+      "name_th": "สตาดเวลอดรอม",
+      "capacity": 60031,
+      "location": "Marseille, France",
+      "club_or_national_team": "Olympique de Marseille"
+    },
+    {
+      "name_th": "Abuja Stadium",
+      "capacity": 60000,
+      "location": "Abuja, Nigeria",
+      "club_or_national_team": "Nigeria"
+    },
+    {
+      "name_th": "Stade Moulay Abdellah",
+      "capacity": 60000,
+      "location": "Rabat, Morocco",
+      "club_or_national_team": "FAR Rabat"
+    },
+    {
+      "name_th": "Albertão",
+      "capacity": 60000,
+      "location": "Teresina, บราซิล",
+      "club_or_national_team": "some Esporte Clube Flamengo matches"
+    },
+    {
+      "name_th": "Jawaharlal Nehru Stadium",
+      "capacity": 60000,
+      "location": "Kochi, India",
+      "club_or_national_team": "FC Kochin, Viva Kerala"
+    },
+    {
+      "name_th": "Kobe Universiade Memorial Stadium",
+      "capacity": 60000,
+      "location": "Kobe, ญี่ปุ่น",
+      "club_or_national_team": "some Vissel Kobe matches"
+    },
+    {
+      "name_th": "Lake Tanganyika Stadium",
+      "capacity": 60000,
+      "location": "Kigoma, Tanzania",
+      "club_or_national_team": "some Reli FC matches"
+    },
+    {
+      "name_th": "Stade Leopold Senghor",
+      "capacity": 60000,
+      "location": "Dakar, Senegal",
+      "club_or_national_team": "Senegal, ASC Jeanne d'Arc"
+    },
+    {
+      "name_th": "Moi International Sports Centre",
+      "capacity": 60000,
+      "location": "Nairobi, Kenya",
+      "club_or_national_team": "Kenya"
+    },
+    {
+      "name_th": "Nanjing Olympic Sports Center",
+      "capacity": 60000,
+      "location": "Nanjing, จีน",
+      "club_or_national_team": "some local football teams matches"
+    },
+    {
+      "name_th": "National Sports Stadium",
+      "capacity": 60000,
+      "location": "Harare, Zimbabwe",
+      "club_or_national_team": "Zimbabwe"
+    },
+    {
+      "name_th": "Odi Stadium",
+      "capacity": 60000,
+      "location": "Mabopane, South Africa",
+      "club_or_national_team": "Garankuwa United"
+    },
+    {
+      "name_th": "Tianhe Stadium",
+      "capacity": 60000,
+      "location": "Guangzhou, จีน",
+      "club_or_national_team": "some Guangzhou Pharmaceutical matches"
+    },
+    {
+      "name_th": "Wuhan Stadium",
+      "capacity": 60000,
+      "location": "Wuhan, จีน",
+      "club_or_national_team": "some Wuhan Huanghelou matches"
+    },
+    {
+      "name_th": "สนามกีฬาเอลลิสปาร์ก",
+      "capacity": 59611,
+      "location": "Johannesburg, South Africa",
+      "club_or_national_team": "Orlando Pirates FC"
+    },
+    {
+      "name_th": "Chongqing Olympic Sports Center",
+      "capacity": 58680,
+      "location": "Chongqing, จีน",
+      "club_or_national_team": "Chongqing Qiche"
+    },
+    {
+      "name_th": "เอสตาจีอูเบย์รา-รีอู",
+      "capacity": 58306,
+      "location": "Porto Alegre, บราซิล",
+      "club_or_national_team": "Sport Club Internacional"
+    },
+    {
+      "name_th": "Stadio San Nicola",
+      "capacity": 58248,
+      "location": "Bari, อิตาลี",
+      "club_or_national_team": "A.S. Bari"
+    },
+    {
+      "name_th": "İzmir Atatürk Stadyumu",
+      "capacity": 58008,
+      "location": "İzmir, ตุรกี",
+      "club_or_national_team": "some Altay S.K. and Göztepe A.Ş. matches"
+    },
+    {
+      "name_th": "Boris Paichadze Stadium",
+      "capacity": 58000,
+      "location": "Tbilisi, Georgia",
+      "club_or_national_team": "FC Dinamo Tbilisi"
+    },
+    {
+      "name_th": "Estadio Metropolitano",
+      "capacity": 58000,
+      "location": "Barranquilla, Colombia",
+      "club_or_national_team": "Colombia, Atlético Junior"
+    },
+    {
+      "name_th": "Olimpico Sevilla",
+      "capacity": 57619,
+      "location": "Seville, สเปน",
+      "club_or_national_team": "some Spain matches"
+    },
+    {
+      "name_th": "Camille Chamoun Sports City Stadium",
+      "capacity": 57600,
+      "location": "Beirut, Lebanon",
+      "club_or_national_team": "Lebanon"
+    },
+    {
+      "name_th": "Estadio Alberto J. Armando",
+      "capacity": 57395,
+      "location": "Buenos Aires, อาร์เจนตินา",
+      "club_or_national_team": "Club Atlético Boca Juniors"
+    },
+    {
+      "name_th": "National Olympic Stadium",
+      "capacity": 57363,
+      "location": "Tokyo, ญี่ปุ่น",
+      "club_or_national_team": "Emperor's Cup and J. League Cup finals"
+    },
+    {
+      "name_th": "ฟ็อลคส์พาร์คชตาดีอ็อน",
+      "capacity": 57274,
+      "location": "Hamburg, เยอรมนี",
+      "club_or_national_team": "Hamburger SV"
+    },
+    {
+      "name_th": "Coca-Cola Stadium",
+      "capacity": 57000,
+      "location": "Xi'an, จีน",
+      "club_or_national_team": "Inter Xian"
+    },
+    {
+      "name_th": "Estadio Jalisco",
+      "capacity": 56713,
+      "location": "Guadalajara, เม็กซิโก",
+      "club_or_national_team": "Club Deportivo Guadalajara, CF Atlas"
+    },
+    {
+      "name_th": "Robert F. Kennedy Memorial Stadium",
+      "capacity": 56692,
+      "location": "Washington, D.C., สหรัฐอเมริกา",
+      "club_or_national_team": "D.C. United"
+    },
+    {
+      "name_th": "Telstra Dome",
+      "capacity": 56347,
+      "location": "Melbourne, ออสเตรเลีย",
+      "club_or_national_team": "Melbourne Victory"
+    },
+    {
+      "name_th": "สนามกีฬาโอลิมปิกยูอิส กุมปัญส์",
+      "capacity": 55926,
+      "location": "Barcelona, สเปน",
+      "club_or_national_team": "RCD Espanyol"
+    },
+    {
+      "name_th": "Mercedes-Benz-Arena",
+      "capacity": 55896,
+      "location": "Stuttgart, เยอรมนี",
+      "club_or_national_team": "VfB Stuttgart"
+    },
+    {
+      "name_th": "Dalian People's Stadium",
+      "capacity": 55843,
+      "location": "Dalian, จีน",
+      "club_or_national_team": "Dalian Shide"
+    },
+    {
+      "name_th": "Estadio La Casa Blanca",
+      "capacity": 55400,
+      "location": "Quito, Ecuador",
+      "club_or_national_team": "Liga Deportiva Universitaria"
+    },
+    {
+      "name_th": "Estadio Deportivo Cali",
+      "capacity": 55125,
+      "location": "Cali, Colombia",
+      "club_or_national_team": "Deportivo Cali."
+    },
+    {
+      "name_th": "สนามกีฬาบีเซนเตกัลเดรอน",
+      "capacity": 55005,
+      "location": "มาดริด, สเปน",
+      "club_or_national_team": "Atlético Madrid"
+    },
+    {
+      "name_th": "Helong Stadium",
+      "capacity": 55000,
+      "location": "Changsha, จีน",
+      "club_or_national_team": "Hunan Xiangjun"
+    },
+    {
+      "name_th": "Pakhtakor Markaziy Stadium",
+      "capacity": 55000,
+      "location": "Tashkent, Uzbekistan",
+      "club_or_national_team": "Uzbekistan, FC Pakhtakor Tashkent"
+    },
+    {
+      "name_th": "Singapore National Stadium",
+      "capacity": 55000,
+      "location": "Kallang, Singapore",
+      "club_or_national_team": "Singapore"
+    },
+    {
+      "name_th": "Stade Mohamed V",
+      "capacity": 55000,
+      "location": "Casablanca, Morocco",
+      "club_or_national_team": "Raja Casablanca, Wydad Casablanca"
+    },
+    {
+      "name_th": "Wulihe Stadium",
+      "capacity": 55000,
+      "location": "Shenyang, จีน",
+      "club_or_national_team": "Shenyang Ginde"
+    },
+    {
+      "name_th": "Mangueirão",
+      "capacity": 54600,
+      "location": "Belém, บราซิล",
+      "club_or_national_team": "some Paysandu Sport Club and Clube do Remo matches"
+    },
+    {
+      "name_th": "Estádio Serra Dourada",
+      "capacity": 54048,
+      "location": "Goiânia, บราซิล",
+      "club_or_national_team": "some Goiás Esporte Clube and Vila Nova Futebol Clube matches"
+    },
+    {
+      "name_th": "Borussia-Park",
+      "capacity": 54019,
+      "location": "Mönchengladbach, เยอรมนี",
+      "club_or_national_team": "Borussia Mönchengladbach"
+    },
+    {
+      "name_th": "Stadion Crvena Zvezda",
+      "capacity": 54000,
+      "location": "Belgrade, Serbia",
+      "club_or_national_team": "Red Star Belgrade"
+    },
+    {
+      "name_th": "Busan Asiad Stadium",
+      "capacity": 53864,
+      "location": "Busan, South Korea",
+      "club_or_national_team": "Busan I'Park"
+    },
+    {
+      "name_th": "สนามกีฬาเอฟเวอร์ตัน",
+      "capacity": 52888,
+      "location": "ลิเวอร์พูล, สหราชอาณาจักร",
+      "club_or_national_team": "เอฟเวอร์ตัน"
+    },
+    {
+      "name_th": "Estadio Atanasio Girardot",
+      "capacity": 52872,
+      "location": "Medellín, Colombia",
+      "club_or_national_team": "Atlético Nacional, Independiente Medellín"
+    },
+    {
+      "name_th": "Estadio Libertadores de América",
+      "capacity": 52823,
+      "location": "Buenos Aires, อาร์เจนตินา",
+      "club_or_national_team": "Club Atlético Independiente"
+    },
+    {
+      "name_th": "สนามกีฬาชือครือ ซาราโจลู",
+      "capacity": 52530,
+      "location": "Istanbul, ตุรกี",
+      "club_or_national_team": "Fenerbahçe S.K."
+    },
+    {
+      "name_th": "Suncorp Stadium",
+      "capacity": 52500,
+      "location": "Brisbane, ออสเตรเลีย",
+      "club_or_national_team": "Queensland Roar FC"
+    },
+    {
+      "name_th": "สนามกีฬาเม็สตัลยา",
+      "capacity": 52469,
+      "location": "Valencia, สเปน",
+      "club_or_national_team": "Valencia CF"
+    },
+    {
+      "name_th": "เซนต์เจมส์พาร์ก",
+      "capacity": 52387,
+      "location": "Newcastle upon Tyne, สหราชอาณาจักร",
+      "club_or_national_team": "Newcastle United F.C."
+    },
+    {
+      "name_th": "Manuel Ruiz de Lopera Stadium",
+      "capacity": 52132,
+      "location": "Seville, สเปน",
+      "club_or_national_team": "Real Betis"
+    },
+    {
+      "name_th": "Hampden Park",
+      "capacity": 52025,
+      "location": "Glasgow, สกอตแลนด์",
+      "club_or_national_team": "Scotland, Queen's Park F.C."
+    },
+    {
+      "name_th": "Kings Park Stadium",
+      "capacity": 52000,
+      "location": "Durban, South Africa",
+      "club_or_national_team": "some Golden Arrows matches"
+    },
+    {
+      "name_th": "ลอฟตัสเวอร์สเฟลด์",
+      "capacity": 51762,
+      "location": "Pretoria, South Africa",
+      "club_or_national_team": "some Supersport United FC matches"
+    },
+    {
+      "name_th": "Amsterdam ArenA",
+      "capacity": 51628,
+      "location": "Amsterdam, Netherlands",
+      "club_or_national_team": "Ajax Amsterdam"
+    },
+    {
+      "name_th": "ราชมังคลากีฬาสถาน",
+      "capacity": 65000,
+      "location": "กรุงเทพฯ, ไทย",
+      "club_or_national_team": "Thailand"
+    },
+    {
+      "name_th": "Kumasi Sports Stadium",
+      "capacity": 51500,
+      "location": "Kumasi, Ghana",
+      "club_or_national_team": "Asante Kotoko, King Faisal Babes"
+    },
+    {
+      "name_th": "LTU Arena",
+      "capacity": 51500,
+      "location": "Düsseldorf, เยอรมนี",
+      "club_or_national_team": "Fortuna Düsseldorf"
+    },
+    {
+      "name_th": "Shizuoka Stadium",
+      "capacity": 51349,
+      "location": "Fukuroi, ญี่ปุ่น",
+      "club_or_national_team": "some Júbilo Iwata and Shimizu S-Pulse matches"
+    },
+    {
+      "name_th": "Huanglong Stadium",
+      "capacity": 51139,
+      "location": "Hangzhou, จีน",
+      "club_or_national_team": "Zhejiang Lvcheng"
+    },
+    {
+      "name_th": "De Kuip",
+      "capacity": 51137,
+      "location": "Rotterdam, Netherlands",
+      "club_or_national_team": "Feyenoord Rotterdam"
+    },
+    {
+      "name_th": "Newlands Stadium",
+      "capacity": 51100,
+      "location": "Cape Town, South Africa",
+      "club_or_national_team": "no current user"
+    },
+    {
+      "name_th": "Ibrox Stadium",
+      "capacity": 51082,
+      "location": "กลาสโกว์, สกอตแลนด์",
+      "club_or_national_team": "Rangers F.C."
+    },
+    {
+      "name_th": "Estádio Olímpico Monumental",
+      "capacity": 51081,
+      "location": "Porto Alegre, บราซิล",
+      "club_or_national_team": "Grêmio"
+    },
+    {
+      "name_th": "Jiaodaruisun Stadium",
+      "capacity": 51000,
+      "location": "Xi'an, จีน",
+      "club_or_national_team": "some Shaanxi Guoli and Xi'an Anxinyuan matches"
+    },
+    {
+      "name_th": "อิชตาดียูดูดราเกา",
+      "capacity": 50476,
+      "location": "Porto, Portugal",
+      "club_or_national_team": "F.C. Porto"
+    },
+    {
+      "name_th": "สนามกีฬาฌูแซ อัลวาลาดึ",
+      "capacity": 50466,
+      "location": "Lisbon, Portugal",
+      "club_or_national_team": "Sporting Clube de Portugal"
+    },
+    {
+      "name_th": "ไรน์เอแนร์กีชตาดีอ็อน",
+      "capacity": 50374,
+      "location": "Cologne, เยอรมนี",
+      "club_or_national_team": "1. FC Köln"
+    },
+    {
+      "name_th": "Commerzbank-Arena",
+      "capacity": 50300,
+      "location": "Frankfurt, เยอรมนี",
+      "club_or_national_team": "Eintracht Frankfurt"
+    },
+    {
+      "name_th": "Incheon Munhak Stadium",
+      "capacity": 50256,
+      "location": "Incheon, South Korea",
+      "club_or_national_team": "Incheon United"
+    },
+    {
+      "name_th": "โตเกียว สเตเดียม",
+      "capacity": 50100,
+      "location": "Tokyo, ญี่ปุ่น",
+      "club_or_national_team": "F.C. Tokyo, Tokyo Verdy 1969"
+    },
+    {
+      "name_th": "คิง โบดวง สเตเดียม",
+      "capacity": 50024,
+      "location": "Brussels, Belgium",
+      "club_or_national_team": "Belgium"
+    },
+    {
+      "name_th": "Charles Mopeli Stadium",
+      "capacity": 50000,
+      "location": "Phuthaditjhaba, South Africa",
+      "club_or_national_team": "some Free State Stars matches"
+    },
+    {
+      "name_th": "Estadio Juan Domingo Perón",
+      "capacity": 50000,
+      "location": "Buenos Aires, อาร์เจนตินา",
+      "club_or_national_team": "Racing Club de Avellaneda"
+    },
+    {
+      "name_th": "Estádio Santa Cruz",
+      "capacity": 50000,
+      "location": "Ribeirão Preto, บราซิล",
+      "club_or_national_team": "Botafogo Futebol Clube (SP)"
+    },
+    {
+      "name_th": "Hiroshima Big Arch",
+      "capacity": 50000,
+      "location": "Hiroshima, ญี่ปุ่น",
+      "club_or_national_team": "Sanfrecce Hiroshima"
+    },
+    {
+      "name_th": "Jilin People's Stadium",
+      "capacity": 50000,
+      "location": "Jilin City, จีน",
+      "club_or_national_team": "some regional teams matches"
+    },
+    {
+      "name_th": "Khalifa International Stadium",
+      "capacity": 50000,
+      "location": "Doha, Qatar",
+      "club_or_national_team": "Qatar"
+    },
+    {
+      "name_th": "Nagai Stadium",
+      "capacity": 50000,
+      "location": "Osaka, ญี่ปุ่น",
+      "club_or_national_team": "Cerezo Osaka"
+    },
+    {
+      "name_th": "Phnom Pehn National Olympic Stadium",
+      "capacity": 50000,
+      "location": "Phnom Pehn, Cambodia",
+      "club_or_national_team": "Khemara"
+    },
+    {
+      "name_th": "Stade 26 mars",
+      "capacity": 50000,
+      "location": "Bamako, Mali",
+      "club_or_national_team": "Stade Malien"
+    },
+    {
+      "name_th": "AWD-Arena",
+      "capacity": 49951,
+      "location": "Hanover, เยอรมนี",
+      "club_or_national_team": "Hannover 96"
+    },
+    {
+      "name_th": "Ernst Happel Stadion",
+      "capacity": 49844,
+      "location": "Vienna, Austria",
+      "club_or_national_team": "Austria, some FK Austria Wien and SK Rapid Wien matches"
+    },
+    {
+      "name_th": "Estadio José Amalfitani",
+      "capacity": 49540,
+      "location": "Buenos Aires, อาร์เจนตินา",
+      "club_or_national_team": "Club Atlético Vélez Sársfield"
+    },
+    {
+      "name_th": "Jeque Zayed Stadium",
+      "capacity": 49500,
+      "location": "Abu Dhabi, UAE",
+      "club_or_national_team": "UAE Cup Finals"
+    },
+    {
+      "name_th": "Miyagi Stadium",
+      "capacity": 49133,
+      "location": "Rifu, ญี่ปุ่น",
+      "club_or_national_team": "some Vegalta Sendai matches"
+    },
+    {
+      "name_th": "สเตเดียมออฟไลต์",
+      "capacity": 49000,
+      "location": "Sunderland, สหราชอาณาจักร",
+      "club_or_national_team": "Sunderland A.F.C."
+    },
+    {
+      "name_th": "Jinnah Sports Stadium",
+      "capacity": 48700,
+      "location": "Islamabad, Pakistan",
+      "club_or_national_team": "some Pakistan matches"
+    },
+    {
+      "name_th": "Estadio Tomás Adolfo Ducó",
+      "capacity": 48314,
+      "location": "Buenos Aires, อาร์เจนตินา",
+      "club_or_national_team": "Club Atlético Huracán"
+    },
+    {
+      "name_th": "สนามกีฬาซิตีออฟแมนเชสเตอร์",
+      "capacity": 47726,
+      "location": "Manchester, สหราชอาณาจักร",
+      "club_or_national_team": "Manchester City F.C."
+    },
+    {
+      "name_th": "ฟรังเค่น สตาดิโอน",
+      "capacity": 47559,
+      "location": "เนิร์นแบร์ก, เยอรมนี",
+      "club_or_national_team": "1. FC Nürnberg"
+    },
+    {
+      "name_th": "Stadio Artemio Franchi",
+      "capacity": 47282,
+      "location": "Florence, อิตาลี",
+      "club_or_national_team": "ACF Fiorentina"
+    },
+    {
+      "name_th": "Silesia Stadium",
+      "capacity": 47246,
+      "location": "Katowice, Poland",
+      "club_or_national_team": "Poland"
+    },
+    {
+      "name_th": "ปาร์กเดแพร็งส์",
+      "capacity": 46480,
+      "location": "Paris, France",
+      "club_or_national_team": "Paris Saint-Germain FC"
+    },
+    {
+      "name_th": "Estadio Olímpico Chateau Carreras",
+      "capacity": 46083,
+      "location": "Córdoba, อาร์เจนตินา",
+      "club_or_national_team": "Talleres de Córdoba, some Belgrano de Córdoba matches"
+    },
+    {
+      "name_th": "Estadio El Campín",
+      "capacity": 46018,
+      "location": "Bogotá, Colombia",
+      "club_or_national_team": "Millonarios, Independiente Santa Fe"
+    },
+    {
+      "name_th": "Estadio Monumental David Arellano",
+      "capacity": 45953,
+      "location": "Santiago, Chile",
+      "club_or_national_team": "Colo-Colo"
+    },
+    {
+      "name_th": "Rice-Eccles Stadium",
+      "capacity": 45634,
+      "location": "Salt Lake City, สหรัฐอเมริกา",
+      "club_or_national_team": "Real Salt Lake"
+    },
+    {
+      "name_th": "Estadio Olimpico Pascual Guerrero",
+      "capacity": 45625,
+      "location": "Santiago de Cali, Colombia",
+      "club_or_national_team": "Deportivo Cali, América de Cali"
+    },
+    {
+      "name_th": "Estadio Nacional de Lima",
+      "capacity": 45574,
+      "location": "Lลิมา, เปรู",
+      "club_or_national_team": "Peru"
+    },
+    {
+      "name_th": "Estádio Ilha do Retiro",
+      "capacity": 45500,
+      "location": "Recife, บราซิล",
+      "club_or_national_team": "Sport Club do Recife"
+    },
+    {
+      "name_th": "Estadio Ramón Sánchez Pizjuán",
+      "capacity": 45500,
+      "location": "เซบิยา, สเปน",
+      "club_or_national_team": "สโมสรฟุตบอลเซบีญ่า"
+    },
+    {
+      "name_th": "Estádio Mané Garrincha",
+      "capacity": 45200,
+      "location": "Brasília, บราซิล",
+      "club_or_national_team": "some Sociedade Esportiva do Gama matches"
+    },
+    {
+      "name_th": "Mangueirão",
+      "capacity": 45007,
+      "location": "Belém, บราซิล",
+      "club_or_national_team": "some Paysandu Sport Club and Clube do Remo matches"
+    },
+    {
+      "name_th": "Abbasiyyin Stadium",
+      "capacity": 45000,
+      "location": "Damascus, Syria",
+      "club_or_national_team": "Al-Jaish, Al-Wahda, Al Majd"
+    },
+    {
+      "name_th": "Estádio da Machava",
+      "capacity": 45000,
+      "location": "Maputo, Mozambique",
+      "club_or_national_team": "Mozambique"
+    },
+    {
+      "name_th": "Estádio do Café",
+      "capacity": 45000,
+      "location": "Londrina, บราซิล",
+      "club_or_national_team": "some Londrina Esporte Clube and Sociedade Esportiva Matsubara matches"
+    },
+    {
+      "name_th": "Fez Stadium",
+      "capacity": 45000,
+      "location": "Fes, Morocco",
+      "club_or_national_team": "Maghreb Fez"
+    },
+    {
+      "name_th": "Naghsh-e-Jahan Stadium",
+      "capacity": 45000,
+      "location": "Isfahan, Iran",
+      "club_or_national_team": "Sepahan"
+    },
+    {
+      "name_th": "Pinheirão",
+      "capacity": 45000,
+      "location": "Curitiba, บราซิล",
+      "club_or_national_team": "some Paraná Clube matches"
+    },
+    {
+      "name_th": "Stade Chahid Hamlaoui",
+      "capacity": 45000,
+      "location": "Constantine, Algeria",
+      "club_or_national_team": "CS Constantine"
+    },
+    {
+      "name_th": "Stade El Menzah",
+      "capacity": 45000,
+      "location": "Tunis, Tunisia",
+      "club_or_national_team": "Club Africain, Espérance"
+    },
+    {
+      "name_th": "Toyota Stadium",
+      "capacity": 45000,
+      "location": "Toyota City, ญี่ปุ่น",
+      "club_or_national_team": "some Nagoya Grampus Eight matches"
+    },
+    {
+      "name_th": "Verdão",
+      "capacity": 45000,
+      "location": "Cuiabá, บราซิล",
+      "club_or_national_team": "Clube Esportivo Dom Bosco, Mixto Esporte Clube"
+    },
+    {
+      "name_th": "Munsu Cup Stadium",
+      "capacity": 44466,
+      "location": "Ulsan, South Korea",
+      "club_or_national_team": "Ulsan Hyundai Horang-i"
+    },
+    {
+      "name_th": "Zentralstadion",
+      "capacity": 44345,
+      "location": "Leipzig, เยอรมนี",
+      "club_or_national_team": "FC Sachsen Leipzig"
+    },
+    {
+      "name_th": "Estadio Cuscatlán",
+      "capacity": 44313,
+      "location": "San Salvador, El Salvador",
+      "club_or_national_team": "Alianza F.C., San Salvador F.C."
+    },
+    {
+      "name_th": "Guus Hiddink Stadium",
+      "capacity": 44118,
+      "location": "Gwangju, South Korea",
+      "club_or_national_team": "Gwangju Sangmu Phoenix"
+    },
+    {
+      "name_th": "Shandong Stadium",
+      "capacity": 43700,
+      "location": "Jinan, จีน",
+      "club_or_national_team": "Shandong Luneng"
+    },
+    {
+      "name_th": "สนามกีฬาแห่งชาติวาซิล เลฟสกี",
+      "capacity": 43632,
+      "location": "Sofia, Bulgaria",
+      "club_or_national_team": "Bulgaria"
+    },
+    {
+      "name_th": "Estadio Pedro Bidegain",
+      "capacity": 43494,
+      "location": "Buenos Aires, อาร์เจนตินา",
+      "club_or_national_team": "Club Atlético San Lorenzo de Almagro"
+    },
+    {
+      "name_th": "จองจู เวิลด์คัพ สเตเดียม",
+      "capacity": 43348,
+      "location": "จองจู, South Korea",
+      "club_or_national_team": "Jeonbuk Hyundai Motors"
+    },
+    {
+      "name_th": "ซูวอน เวิลด์คัพ สเตเดียม",
+      "capacity": 43288,
+      "location": "ซุวอน, South Korea",
+      "club_or_national_team": "Suwon Samsung Bluewings"
+    },
+    {
+      "name_th": "โออิตะ สเตเดียม",
+      "capacity": 43254,
+      "location": "โออิตะ, ญี่ปุ่น",
+      "club_or_national_team": "Oita Trinita"
+    },
+    {
+      "name_th": "Stade Gerland",
+      "capacity": 43051,
+      "location": "Lyon, ฝรั่งเศส",
+      "club_or_national_team": "Olympique Lyonnais"
+    },
+    {
+      "name_th": "Estadio Universidad San Marcos",
+      "capacity": 43000,
+      "location": "Lima, Peru",
+      "club_or_national_team": "Universidad San Marcos"
+    },
+    {
+      "name_th": "Ullevi",
+      "capacity": 43000,
+      "location": "Gothenburg, สวีเดน",
+      "club_or_national_team": "IFK Göteborg, GAIS, and some Örgryte IS and BK Häcken matches"
+    },
+    {
+      "name_th": "Vivaldão",
+      "capacity": 43000,
+      "location": "Manaus, บราซิล",
+      "club_or_national_team": "América, Nacional, Atlético Rio Negro Clube"
+    },
+    {
+      "name_th": "ซัปโปโร่ โดม",
+      "capacity": 42831,
+      "location": "ซัปโปโร, ญี่ปุ่น",
+      "club_or_national_team": "some Consadole Sapporo matches"
+    },
+    {
+      "name_th": "Estadio Cuauhtémoc",
+      "capacity": 42648,
+      "location": "Puebla, เม็กซิโก",
+      "club_or_national_team": "CF Puebla"
+    },
+    {
+      "name_th": "Villa Park",
+      "capacity": 42573,
+      "location": "เบอร์มิงแฮม, สหราชอาณาจักร",
+      "club_or_national_team": "Aston Villa F.C."
+    },
+    {
+      "name_th": "Weserstadion",
+      "capacity": 42358,
+      "location": "เบรเมน, เยอรมนี",
+      "club_or_national_team": "SV Werder Bremen"
+    },
+    {
+      "name_th": "สนามกีฬาพาร์เกิน",
+      "capacity": 42305,
+      "location": "Copenhagen, Denmark",
+      "club_or_national_team": "Denmark, F.C. Copenhagen"
+    },
+    {
+      "name_th": "Niigata Stadium",
+      "capacity": 42300,
+      "location": "Niigata, ญี่ปุ่น",
+      "club_or_national_team": "Albirex Niigata"
+    },
+    {
+      "name_th": "Jeju World Cup Stadium",
+      "capacity": 42256,
+      "location": "Seogwipo, South Korea",
+      "club_or_national_team": "Jeju United FC"
+    },
+    {
+      "name_th": "Estadio Garcilaso de la Vega",
+      "capacity": 42056,
+      "location": "Cusco, Peru",
+      "club_or_national_team": "Cienciano del Cuzco"
+    },
+    {
+      "name_th": "สแตมฟอร์ดบริดจ์",
+      "capacity": 42055,
+      "location": "ลอนดอน, สหราชอาณาจักร",
+      "club_or_national_team": "Chelsea F.C."
+    },
+    {
+      "name_th": "Chengdu Sports Center",
+      "capacity": 42000,
+      "location": "Chengdu, จีน",
+      "club_or_national_team": "Chengdu Blades"
+    },
+    {
+      "name_th": "Estadio Hernando Siles",
+      "capacity": 42000,
+      "location": "La Paz, Bolivia",
+      "club_or_national_team": "La Paz F.C., some Club Bolívar and The Strongest matches"
+    },
+    {
+      "name_th": "Estadio Gigante de Arroyito",
+      "capacity": 41654,
+      "location": "Rosario, อาร์เจนตินา",
+      "club_or_national_team": "Rosario Central"
+    },
+    {
+      "name_th": "Stadio Friuli",
+      "capacity": 41652,
+      "location": "Udine, อิตาลี",
+      "club_or_national_team": "Udinese Calcio"
+    },
+    {
+      "name_th": "Estadio Morelos",
+      "capacity": 41500,
+      "location": "Morelia, เม็กซิโก",
+      "club_or_national_team": "CA Monarcas Morelia"
+    },
+    {
+      "name_th": "Südweststadion",
+      "capacity": 41383,
+      "location": "Ludwigshafen am Rhein, เยอรมนี",
+      "club_or_national_team": "FSV Oggersheim"
+    },
+    {
+      "name_th": "Goyang Stadium",
+      "capacity": 41311,
+      "location": "Goyang, เกาหลีใต้",
+      "club_or_national_team": "Kookmin Bank FC"
+    },
+    {
+      "name_th": "เตจอน เวิลด์คัพ สเตเดียม",
+      "capacity": 41295,
+      "location": "เตจอน, เกาหลีใต้",
+      "club_or_national_team": "Daejeon Citizen"
+    },
+    {
+      "name_th": "สนามกีฬาบอลาร์ต-เดอเลลิส",
+      "capacity": 41233,
+      "location": "Lens, France",
+      "club_or_national_team": "RC Lens"
+    },
+    {
+      "name_th": "ออสซี่ สเตเดียม",
+      "capacity": 41159,
+      "location": "Sydney, ออสเตรเลีย",
+      "club_or_national_team": "Sydney FC"
+    },
+    {
+      "name_th": "Dinamo Stadium",
+      "capacity": 41040,
+      "location": "Minsk, Belarus",
+      "club_or_national_team": "F. C. Dinamo Minsk"
+    },
+    {
+      "name_th": "Estadio Olímpico Atahualpa",
+      "capacity": 41000,
+      "location": "Quito, Ecuador",
+      "club_or_national_team": "Sociedad Deportivo Quito, Club Deportivo El Nacional"
+    },
+    {
+      "name_th": "Ramat Gan Stadium",
+      "capacity": 40920,
+      "location": "Tel Aviv, Israel",
+      "club_or_national_team": "Israel, some Maccabi Tel Aviv FC matches"
+    },
+    {
+      "name_th": "กูร์ดิสัน ปาร์ค",
+      "capacity": 40394,
+      "location": "Liverpool, สหราชอาณาจักร",
+      "club_or_national_team": "Everton F.C."
+    },
+    {
+      "name_th": "Estadio Lanús",
+      "capacity": 40320,
+      "location": "Lanús, อาร์เจนตินา",
+      "club_or_national_team": "Club Atlético Lanús"
+    },
+    {
+      "name_th": "เอลแลนด์โรด",
+      "capacity": 40296,
+      "location": "Leeds, สหราชอาณาจักร",
+      "club_or_national_team": "Leeds United A.F.C."
+    },
+    {
+      "name_th": "UNSA Stadium",
+      "capacity": 40217,
+      "location": "Arequipa, Peru",
+      "club_or_national_team": "Melgar"
+    },
+    {
+      "name_th": "Mandela National Stadium",
+      "capacity": 40202,
+      "location": "Kampala, Uganda",
+      "club_or_national_team": "Express FC"
+    },
+    {
+      "name_th": "Stadio San Filippo",
+      "capacity": 40200,
+      "location": "Messina, อิตาลี",
+      "club_or_national_team": "F.C. Messina Peloro"
+    },
+    {
+      "name_th": "Almeidão",
+      "capacity": 40000,
+      "location": "João Pessoa, บราซิล",
+      "club_or_national_team": "Botafogo Futebol Clube (PB)"
+    },
+    {
+      "name_th": "Amigão",
+      "capacity": 40000,
+      "location": "Campina Grande, บราซิล",
+      "club_or_national_team": "some Treze Futebol Clube matches"
+    },
+    {
+      "name_th": "Chennai Jawaharlal Nehru Stadium",
+      "capacity": 40000,
+      "location": "Chennai, India",
+      "club_or_national_team": "Indian Bank"
+    },
+    {
+      "name_th": "Estadio Ciudad de La Plata",
+      "capacity": 40000,
+      "location": "La Plata, อาร์เจนตินา",
+      "club_or_national_team": "Club de Gimnasia y Esgrima La Plata, Estudiantes de La Plata"
+    },
+    {
+      "name_th": "Estadio Olimpico Metropolitano",
+      "capacity": 40000,
+      "location": "San Pedro Sula, Honduras",
+      "club_or_national_team": "Club Deportivo Marathón"
+    },
+    {
+      "name_th": "สนามกีฬาฮังเจอบัต",
+      "capacity": 40000,
+      "location": "Malacca, มาเลเซีย",
+      "club_or_national_team": "Melaka Telekom"
+    },
+    {
+      "name_th": "เฮลซิงกิ โอลิมปิก สเตเดียม",
+      "capacity": 40000,
+      "location": "เฮลซิงกิ, Finland",
+      "club_or_national_team": "Finland"
+    },
+    {
+      "name_th": "Hongchen Stadium",
+      "capacity": 40000,
+      "location": "Qingdao, จีน",
+      "club_or_national_team": "some local teams matches"
+    },
+    {
+      "name_th": "ฮ่องกง สเตเดียม",
+      "capacity": 40000,
+      "location": "So Kon Po, ฮ่องกง",
+      "club_or_national_team": "Xiangxue Sun Hei, Kitchee FC, Happy Valley AA"
+    },
+    {
+      "name_th": "Jakabaring Stadium",
+      "capacity": 40000,
+      "location": "Palembang, Indonesia",
+      "club_or_national_team": "Sriwijaya FC"
+    },
+    {
+      "name_th": "Jalak Harupat Soreang Stadium",
+      "capacity": 40000,
+      "location": "Bandung, Indonesia",
+      "club_or_national_team": "Persikab"
+    },
+    {
+      "name_th": "Kamazu Stadium",
+      "capacity": 40000,
+      "location": "Blantyre, Malawi",
+      "club_or_national_team": "Malawi"
+    },
+    {
+      "name_th": "March 28 Stadium",
+      "capacity": 40000,
+      "location": "Benghazi, Libya",
+      "club_or_national_team": "Al-Ahly Benghazi, Al-Nasr Benghazi, Al Tahaddy Benghazi, some Libya matches"
+    },
+    {
+      "name_th": "My Dinh National Stadium",
+      "capacity": 40000,
+      "location": "ฮานอย, เวียดนาม",
+      "club_or_national_team": "ฟุตบอลทีมชาติเวียดนาม"
+    },
+    {
+      "name_th": "Negeri Pulau Pinang Stadium",
+      "capacity": 40000,
+      "location": "Batu Kawan, มาเลเซีย",
+      "club_or_national_team": "some Penang FA matches"
+    },
+    {
+      "name_th": "โอลิมปิก สปอร์ต เซ็นเตอร์",
+      "capacity": 40000,
+      "location": "ปักกิ่ง, จีน",
+      "club_or_national_team": "some local teams matches"
+    },
+    {
+      "name_th": "Sarawak Stadium",
+      "capacity": 40000,
+      "location": "กูจิง, มาเลเซีย",
+      "club_or_national_team": "Sarawak FA"
+    },
+    {
+      "name_th": "Stade 19 Mai 1956",
+      "capacity": 40000,
+      "location": "Annaba, Algeria",
+      "club_or_national_team": "USM Annaba"
+    },
+    {
+      "name_th": "Stade Omar Bongo",
+      "capacity": 40000,
+      "location": "Libreville, Gabon",
+      "club_or_national_team": "FC 105 Libreville"
+    },
+    {
+      "name_th": "Stadium Merdeka",
+      "capacity": 40000,
+      "location": "กัวลาลัมเปอร์, มาเลเซีย",
+      "club_or_national_team": "PB Kuala Lumpur"
+    },
+    {
+      "name_th": "Surelere Stadium",
+      "capacity": 40000,
+      "location": "เลกอส, ไนจีเรีย",
+      "club_or_national_team": "some Nigeria matches"
+    },
+    {
+      "name_th": "Tainan County Stadium",
+      "capacity": 40000,
+      "location": "Tainan, ไต้หวัน",
+      "club_or_national_team": "some local teams matches"
+    },
+    {
+      "name_th": "Tuodong Stadium",
+      "capacity": 40000,
+      "location": "คุนหมิง, จีน",
+      "club_or_national_team": "some local teams matches"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อสนามฟุตบอลเรียงตามความจุ",
+    "description": "รายชื่อสนามฟุตบอลทั่วโลกที่จัดเรียงตามความจุที่นั่ง โดยส่วนใหญ่เป็นไปตามข้อกำหนดขั้นต่ำ 40,000 ที่นั่งของฟีฟ่าสำหรับการจัดการแข่งขันระดับฟุตบอลโลก ข้อมูลประกอบด้วยชื่อสนาม ความจุ สถานที่ตั้ง และสโมสรหรือทีมชาติที่ใช้สนามเป็นหลัก",
+    "seo_title": "รายชื่อสนามฟุตบอลเรียงตามความจุ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 155 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 155 สนามฟุตบอลครบถ้วน",
+      "รวม: ชื่อ, ความจุ, สถานที่ตั้ง, สโมสร, ทีมชาติ",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

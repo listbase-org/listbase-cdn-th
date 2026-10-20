@@ -1,0 +1,1887 @@
+{
+  "id": "finance-mai-stocks",
+  "name": "บริษัทจดทะเบียนในตลาด mai",
+  "description": "รายชื่อบริษัทจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ (mai) จำนวน 229 บริษัท พร้อมข้อมูลกลุ่มอุตสาหกรรมและหมวดธุรกิจ",
+  "category": "finance",
+  "source": "ตลาดหลักทรัพย์แห่งประเทศไทย (SET)",
+  "source_url": "https://www.set.or.th",
+  "updated": "2026-02-21",
+  "columns": [
+    {
+      "key": "rank",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "symbol",
+      "label": "สัญลักษณ์",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "ชื่อบริษัท",
+      "type": "string"
+    },
+    {
+      "key": "nameEN",
+      "label": "ชื่อบริษัท (EN)",
+      "type": "string"
+    },
+    {
+      "key": "industry",
+      "label": "กลุ่มอุตสาหกรรม",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "หมวดธุรกิจ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "88TH",
+      "name": "บริษัท 88(ไทยแลนด์) จำกัด (มหาชน)",
+      "nameEN": "88(Thailand) Public Company Limited",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 2,
+      "symbol": "ABM",
+      "name": "บริษัท เอเชีย ไบโอแมส จำกัด (มหาชน)",
+      "nameEN": "ASIA BIOMASS PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 3,
+      "symbol": "ACAP",
+      "name": "บริษัท เอเชีย แคปปิตอล กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "ASIA CAPITAL GROUP PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 4,
+      "symbol": "ADB",
+      "name": "บริษัท แอ็พพลาย ดีบี จำกัด (มหาชน)",
+      "nameEN": "APPLIED DB PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 5,
+      "symbol": "ADD",
+      "name": "บริษัท แอดเทค ฮับ จำกัด (มหาชน)",
+      "nameEN": "ADDTECH HUB PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 6,
+      "symbol": "AF",
+      "name": "บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน)",
+      "nameEN": "AIRA FACTORING PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 7,
+      "symbol": "AIRA",
+      "name": "บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
+      "nameEN": "AIRA CAPITAL PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 8,
+      "symbol": "AKP",
+      "name": "บริษัท อัคคีปราการ จำกัด (มหาชน)",
+      "nameEN": "AKKHIE PRAKARN PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 9,
+      "symbol": "ALPHAX",
+      "name": "บริษัท อัลฟ่า ดิวิชั่นส์ จำกัด (มหาชน)",
+      "nameEN": "ALPHA DIVISIONS PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 10,
+      "symbol": "AMA",
+      "name": "บริษัท อาม่า มารีน จำกัด (มหาชน)",
+      "nameEN": "AMA MARINE PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 11,
+      "symbol": "AMARC",
+      "name": "บริษัท ศูนย์ห้องปฏิบัติการและวิจัยทางการแพทย์และการเกษตรแห่งเอเซีย จำกัด (มหาชน)",
+      "nameEN": "ASIA MEDICAL AND AGRICULTURAL LABORATORY AND RESEARCH CENTER PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 12,
+      "symbol": "APO",
+      "name": "บริษัท เอเชียนน้ำมันปาล์ม จำกัด (มหาชน)",
+      "nameEN": "Asian Palm Oil Public Company Limited",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 13,
+      "symbol": "APP",
+      "name": "บริษัท แอพพลิแคด จำกัด (มหาชน)",
+      "nameEN": "APPLICAD PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 14,
+      "symbol": "ARIN",
+      "name": "บริษัท อรินสิริ แลนด์ จำกัด (มหาชน)",
+      "nameEN": "ARINSIRI LAND PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 15,
+      "symbol": "ARIP",
+      "name": "บริษัท เออาร์ไอพี จำกัด (มหาชน)",
+      "nameEN": "ARIP PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 16,
+      "symbol": "ARROW",
+      "name": "บริษัท แอร์โรว์ ซินดิเคท จำกัด (มหาชน)",
+      "nameEN": "ARROW SYNDICATE PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 17,
+      "symbol": "ASN",
+      "name": "บริษัท เอเอสเอ็น โบรกเกอร์ จำกัด (มหาชน)",
+      "nameEN": "ASN BROKER PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 18,
+      "symbol": "ATP30",
+      "name": "บริษัท เอทีพี 30 จำกัด (มหาชน)",
+      "nameEN": "ATP30 PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 19,
+      "symbol": "AU",
+      "name": "บริษัท อาฟเตอร์ ยู จำกัด (มหาชน)",
+      "nameEN": "AFTER YOU PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 20,
+      "symbol": "AUCT",
+      "name": "บริษัท สหการประมูล จำกัด (มหาชน)",
+      "nameEN": "UNION AUCTION PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 21,
+      "symbol": "BC",
+      "name": "บริษัท บูทิค คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "BOUTIQUE CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 22,
+      "symbol": "BE8",
+      "name": "บริษัท เบริล 8 พลัส จำกัด (มหาชน)",
+      "nameEN": "BERYL 8 PLUS PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 23,
+      "symbol": "BGT",
+      "name": "บริษัท บีจีที คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "BGT CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 24,
+      "symbol": "BIS",
+      "name": "บริษัท ไบโอซายน์ แอนิมัล เฮลธ์ จำกัด (มหาชน)",
+      "nameEN": "Bioscience Animal Health Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 25,
+      "symbol": "BKA",
+      "name": "บริษัท บางกอก แอสเซท อินเตอร์กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "Bangkok Asset Intergroup Public Company Limited",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 26,
+      "symbol": "BLESS",
+      "name": "บริษัท เบล็ส แอสเสท กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "BLESS ASSET GROUP PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 27,
+      "symbol": "BM",
+      "name": "บริษัท บางกอกชีทเม็ททัล จำกัด (มหาชน)",
+      "nameEN": "BANGKOK SHEET METAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 28,
+      "symbol": "BOL",
+      "name": "บริษัท บิซิเนส ออนไลน์ จำกัด (มหาชน)",
+      "nameEN": "BUSINESS ONLINE PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 29,
+      "symbol": "BPS",
+      "name": "บริษัท บีพีเอส เทคโนโลยี จำกัด (มหาชน)",
+      "nameEN": "BPS Technology Public Company Limited",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 30,
+      "symbol": "BSM",
+      "name": "บริษัท บิวเดอสมาร์ท จำกัด (มหาชน)",
+      "nameEN": "BUILDERSMART PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 31,
+      "symbol": "BTC",
+      "name": "บริษัท บรุ๊คเคอร์ กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "THE BROOKER GROUP PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 32,
+      "symbol": "BTW",
+      "name": "บริษัท บีที เวลธ์ อินดัสตรีส์ จำกัด (มหาชน)",
+      "nameEN": "BT WEALTH INDUSTRIES PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 33,
+      "symbol": "BVG",
+      "name": "บริษัท บลูเวนเจอร์ กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "BlueVenture Group Public Company Limited",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 34,
+      "symbol": "CAZ",
+      "name": "บริษัท ซี เอ แซด (ประเทศไทย) จำกัด (มหาชน)",
+      "nameEN": "CAZ (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 35,
+      "symbol": "CEYE",
+      "name": "บริษัท ตาชำนิ จำกัด (มหาชน)",
+      "nameEN": "Chamni's Eye Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 36,
+      "symbol": "CFARM",
+      "name": "บริษัท ชูวิทย์ฟาร์ม (2019) จำกัด (มหาชน)",
+      "nameEN": "CHUWIT FARM (2019) PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 37,
+      "symbol": "CHEWA",
+      "name": "บริษัท ชีวาทัย จำกัด (มหาชน)",
+      "nameEN": "CHEWATHAI PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 38,
+      "symbol": "CHIC",
+      "name": "บริษัท ชิค รีพับบลิค จำกัด (มหาชน)",
+      "nameEN": "CHIC REPUBLIC PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 39,
+      "symbol": "CHO",
+      "name": "บริษัท ช ทวี จำกัด (มหาชน)",
+      "nameEN": "CHO THAVEE PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 40,
+      "symbol": "CHOW",
+      "name": "บริษัท เชาว์ ไบรท์ เวนเจอร์ส โฮลดิ้งส์ จำกัด (มหาชน)",
+      "nameEN": "CHOW BRIGHT VENTURES HOLDINGS PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 41,
+      "symbol": "CIG",
+      "name": "บริษัท ซี.ไอ.กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "C.I.GROUP PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 42,
+      "symbol": "CMO",
+      "name": "บริษัท ซีเอ็มโอ จำกัด (มหาชน)",
+      "nameEN": "CMO PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 43,
+      "symbol": "COLOR",
+      "name": "บริษัท สาลี่ คัลเล่อร์ จำกัด (มหาชน)",
+      "nameEN": "SALEE COLOUR PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 44,
+      "symbol": "COMAN",
+      "name": "บริษัท โคแมนชี่ อินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+      "nameEN": "COMANCHE INTERNATIONAL PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 45,
+      "symbol": "CPANEL",
+      "name": "บริษัท ซีแพนเนล จำกัด (มหาชน)",
+      "nameEN": "CPANEL PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 46,
+      "symbol": "CPR",
+      "name": "บริษัท ซีพีอาร์ โกมุ อินดัสเตรียล จำกัด (มหาชน)",
+      "nameEN": "CPR GOMU INDUSTRIAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 47,
+      "symbol": "CRD",
+      "name": "บริษัท เชียงใหม่ริมดอย จำกัด (มหาชน)",
+      "nameEN": "CHIANGMAI RIMDOI PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 48,
+      "symbol": "D",
+      "name": "บริษัท เดนทัล คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "DENTAL CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 49,
+      "symbol": "DEXON",
+      "name": "บริษัท เด็กซ์ซอน เทคโนโลยี จำกัด (มหาชน)",
+      "nameEN": "DEXON Technology Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 50,
+      "symbol": "DHOUSE",
+      "name": "บริษัท ดีเฮ้าส์พัฒนา จำกัด (มหาชน)",
+      "nameEN": "DHOUSE PATTANA PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 51,
+      "symbol": "DIMET",
+      "name": "บริษัท ไดเมท (สยาม) จำกัด (มหาชน)",
+      "nameEN": "DIMET (SIAM) PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 52,
+      "symbol": "DOD",
+      "name": "บริษัท ดีโอดี ไบโอเทค จำกัด (มหาชน)",
+      "nameEN": "DOD BIOTECH PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 53,
+      "symbol": "DPAINT",
+      "name": "บริษัท สีเดลต้า จำกัด (มหาชน)",
+      "nameEN": "DELTA PAINT PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 54,
+      "symbol": "DV8",
+      "name": "บริษัท ดีวี8 จำกัด (มหาชน)",
+      "nameEN": "DV8 PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 55,
+      "symbol": "ECF",
+      "name": "บริษัท อีสต์โคสท์เฟอร์นิเทค จำกัด (มหาชน)",
+      "nameEN": "EAST COAST FURNITECH PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 56,
+      "symbol": "EFORL",
+      "name": "บริษัท อี ฟอร์ แอล เอม จำกัด (มหาชน)",
+      "nameEN": "E FOR L AIM PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 57,
+      "symbol": "EMPIRE",
+      "name": "บริษัท ออริจิ้น โกลบอล เอมไพร์ จำกัด (มหาชน)",
+      "nameEN": "ORIGIN GLOBAL EMPIRE PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 58,
+      "symbol": "ETE",
+      "name": "บริษัท บูรพา เทคนิคอล เอ็นจิเนียริ่ง จำกัด (มหาชน)",
+      "nameEN": "EASTERN TECHNICAL ENGINEERING PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 59,
+      "symbol": "EURO",
+      "name": "บริษัท ยูโร ครีเอชั่นส์ จำกัด (มหาชน)",
+      "nameEN": "Euro Creations Public Company Limited",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 60,
+      "symbol": "FLOYD",
+      "name": "บริษัท ฟลอยด์ จำกัด (มหาชน)",
+      "nameEN": "FLOYD PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 61,
+      "symbol": "FPI",
+      "name": "บริษัท ฟอร์จูน พาร์ท อินดัสตรี้ จำกัด (มหาชน)",
+      "nameEN": "FORTUNE PARTS INDUSTRY PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 62,
+      "symbol": "FSMART",
+      "name": "บริษัท ฟอร์ท สมาร์ท เซอร์วิส จำกัด (มหาชน)",
+      "nameEN": "FORTH SMART SERVICE PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 63,
+      "symbol": "FVC",
+      "name": "บริษัท ฟิลเตอร์ วิชั่น จำกัด (มหาชน)",
+      "nameEN": "FILTER VISION PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 64,
+      "symbol": "GCAP",
+      "name": "บริษัท จี แคปปิตอล จำกัด (มหาชน)",
+      "nameEN": "G CAPITAL PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 65,
+      "symbol": "GFC",
+      "name": "บริษัท เจเนซีส เฟอร์ทิลีตี เซ็นเตอร์ จำกัด (มหาชน)",
+      "nameEN": "Genesis Fertility Center Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 66,
+      "symbol": "GLORY",
+      "name": "บริษัท รุ่งเรืองตลอดไป จำกัด (มหาชน)",
+      "nameEN": "GLORY FOREVER PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 67,
+      "symbol": "GTB",
+      "name": "บริษัท เจตาแบค จำกัด (มหาชน)",
+      "nameEN": "GETABEC PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 68,
+      "symbol": "GTV",
+      "name": "บริษัท กรีนเทค เวนเจอร์ส จำกัด (มหาชน)",
+      "nameEN": "GREEN TECH VENTURES PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 69,
+      "symbol": "HANN",
+      "name": "บริษัท โรงพยาบาลมุกดาหารอินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+      "nameEN": "MUKDAHAN INTERNATIONAL HOSPITAL PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 70,
+      "symbol": "HARN",
+      "name": "บริษัท หาญ เอ็นจิเนียริ่ง โซลูชั่นส์ จำกัด (มหาชน)",
+      "nameEN": "HARN ENGINEERING SOLUTIONS PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 71,
+      "symbol": "HEALTH",
+      "name": "บริษัท เฮลท์ เอ็มไพร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "HEALTH EMPIRE CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 72,
+      "symbol": "HL",
+      "name": "บริษัท เฮลท์ลีด จำกัด (มหาชน)",
+      "nameEN": "HEALTHLEAD PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 73,
+      "symbol": "HPT",
+      "name": "บริษัท โฮม พอตเทอรี่ จำกัด (มหาชน)",
+      "nameEN": "HOME POTTERY PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 74,
+      "symbol": "HYDRO",
+      "name": "บริษัท ไฮโดรเท็ค จำกัด (มหาชน)",
+      "nameEN": "HYDROTEK PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 75,
+      "symbol": "I2",
+      "name": "บริษัท ไอ ทู เอ็นเตอร์ไพรซ์ จำกัด (มหาชน)",
+      "nameEN": "I2 Enterprise Public Company Limited",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 76,
+      "symbol": "IDG",
+      "name": "บริษัท อินดิจี จำกัด (มหาชน)",
+      "nameEN": "INDIGY PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 77,
+      "symbol": "IIG",
+      "name": "บริษัท ไอแอนด์ไอ กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "I&I GROUP PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 78,
+      "symbol": "IMH",
+      "name": "บริษัท โรงพยาบาลอินเตอร์เมดิคัล แคร์ แอนด์ แล็บ จำกัด (มหาชน)",
+      "nameEN": "INTERMEDICAL CARE AND LAB HOSPITAL PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 79,
+      "symbol": "IND",
+      "name": "บริษัท อินเด็กซ์ อินเตอร์เนชั่นแนล กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "INDEX INTERNATIONAL GROUP PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 80,
+      "symbol": "IRCP",
+      "name": "บริษัท อินเตอร์เนชั่นแนล รีเสริช คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "INTERNATIONAL RESEARCH CORPORATION PUBLIC CO., LTD.",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 81,
+      "symbol": "IROYAL",
+      "name": "บริษัท อินเตอร์รอแยล เอ็นจิเนียริ่ง จำกัด (มหาชน)",
+      "nameEN": "Interroyal Engineering Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 82,
+      "symbol": "ITNS",
+      "name": "บริษัท อินเตอร์เนชั่นแนล เน็ตเวิร์ค ซิสเต็ม จำกัด (มหาชน)",
+      "nameEN": "INTERNATIONAL NETWORK SYSTEM PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 83,
+      "symbol": "ITTHI",
+      "name": "บริษัท อิทธิฤทธิ์ ไนซ์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "ITTHIRIT NICE CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 84,
+      "symbol": "IVF",
+      "name": "บริษัท อินสไปร์ ไอวีเอฟ จำกัด (มหาชน)",
+      "nameEN": "INSPIRE IVF Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 85,
+      "symbol": "JAK",
+      "name": "บริษัท จักรไพศาล เอสเตท จำกัด (มหาชน)",
+      "nameEN": "JAKPAISAN ESTATE PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 86,
+      "symbol": "JPARK",
+      "name": "บริษัท เจนก้องไกล จำกัด (มหาชน)",
+      "nameEN": "JENKONGKLAI PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 87,
+      "symbol": "JSP",
+      "name": "บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน)",
+      "nameEN": "JSP PHARMACEUTICAL MANUFACTURING (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 88,
+      "symbol": "JUBILE",
+      "name": "บริษัท ยูบิลลี่ เอ็นเตอร์ไพรส์ จำกัด (มหาชน)",
+      "nameEN": "JUBILEE ENTERPRISE PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 89,
+      "symbol": "K",
+      "name": "บริษัท คิงส์เมน ซี.เอ็ม.ที.ไอ. จำกัด (มหาชน)",
+      "nameEN": "KINGSMEN C.M.T.I. PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 90,
+      "symbol": "KASET",
+      "name": "บริษัท ไทยฮา จำกัด (มหาชน)",
+      "nameEN": "THAI HA PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 91,
+      "symbol": "KCC",
+      "name": "บริษัท ไนท คลับ แคปปิตอล โฮลดิ้ง จำกัด (มหาชน)",
+      "nameEN": "Knight Club Capital Holding Public Company Limited",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 92,
+      "symbol": "KCM",
+      "name": "บริษัท เค.ซี.เมททอลชีท จำกัด (มหาชน)",
+      "nameEN": "K.C. METALSHEET PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 93,
+      "symbol": "KGEN",
+      "name": "บริษัท คิง เจน จำกัด (มหาชน)",
+      "nameEN": "KING GEN PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 94,
+      "symbol": "KJL",
+      "name": "บริษัท กิจเจริญ เอ็นจิเนียริ่ง อีเลคทริค จำกัด (มหาชน)",
+      "nameEN": "KIJCHAROEN ENGINEERING ELECTRIC PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 95,
+      "symbol": "KK",
+      "name": "บริษัท เคแอนด์เค ซุปเปอร์สโตร์ เซาท์เทิร์น จำกัด (มหาชน)",
+      "nameEN": "K&K SUPERSTORE SOUTHERN PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 96,
+      "symbol": "KOOL",
+      "name": "บริษัท ซีแอล เวนเจอร์ จำกัด (มหาชน)",
+      "nameEN": "CL VENTURE PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 97,
+      "symbol": "KTMS",
+      "name": "บริษัท เคที เมดิคอล เซอร์วิส จำกัด (มหาชน)",
+      "nameEN": "KT Medical Service Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 98,
+      "symbol": "KUMWEL",
+      "name": "บริษัท คัมเวล คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "KUMWELL CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 99,
+      "symbol": "KWM",
+      "name": "บริษัท เค. ดับบลิว. เม็ททัล เวิร์ค จำกัด (มหาชน)",
+      "nameEN": "K. W. METAL WORK PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 100,
+      "symbol": "LDC",
+      "name": "บริษัท แอลดีซี เด็นทัล จำกัด (มหาชน)",
+      "nameEN": "LDC DENTAL PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 101,
+      "symbol": "LEO",
+      "name": "บริษัท ลีโอ โกลบอล โลจิสติกส์ จำกัด (มหาชน)",
+      "nameEN": "LEO GLOBAL LOGISTICS PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 102,
+      "symbol": "LIT",
+      "name": "บริษัท ลีซ อิท จำกัด (มหาชน)",
+      "nameEN": "LEASE IT PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 103,
+      "symbol": "LTMH",
+      "name": "บริษัท แอลทีเอ็มเอช จำกัด (มหาชน)",
+      "nameEN": "LTMH Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 104,
+      "symbol": "LTS",
+      "name": "บริษัท ไลท์อัพ โทเทิล โซลูชั่น จำกัด (มหาชน)",
+      "nameEN": "Light Up Total Solution Public Company Limited",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 105,
+      "symbol": "MAGURO",
+      "name": "บริษัท มากุโระ กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "Maguro Group Public Company Limited",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 106,
+      "symbol": "MBAX",
+      "name": "บริษัท มัลติแบกซ์ จำกัด (มหาชน)",
+      "nameEN": "MULTIBAX PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 107,
+      "symbol": "MCA",
+      "name": "บริษัท มาร์เก็ต คอนเน็กชั่นส์ เอเชีย จำกัด (มหาชน)",
+      "nameEN": "Market Connections Asia Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 108,
+      "symbol": "MEB",
+      "name": "บริษัท เมพ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "MEB Corporation Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 109,
+      "symbol": "META",
+      "name": "บริษัท เมตะ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "META CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 110,
+      "symbol": "MGI",
+      "name": "บริษัท มิสแกรนด์ อินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+      "nameEN": "Miss Grand International Public Company Limited",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 111,
+      "symbol": "MGT",
+      "name": "บริษัท เมกาเคม (ประเทศไทย) จำกัด (มหาชน)",
+      "nameEN": "MEGACHEM (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 112,
+      "symbol": "MITSIB",
+      "name": "บริษัท มิตรสิบ ลิสซิ่ง จำกัด (มหาชน)",
+      "nameEN": "MITSIB LEASING PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 113,
+      "symbol": "MMM",
+      "name": "บริษัท เอ็มเอ็มเอ็ม แคปปิตอล จำกัด (มหาชน)",
+      "nameEN": "MMM Capital Public Company Limited",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 114,
+      "symbol": "MOONG",
+      "name": "บริษัท มุ่งพัฒนา อินเตอร์แนชชั่นแนล จำกัด (มหาชน)",
+      "nameEN": "MOONG PATTANA INTERNATIONAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 115,
+      "symbol": "MORE",
+      "name": "บริษัท มอร์ รีเทิร์น จำกัด (มหาชน)",
+      "nameEN": "MORE RETURN PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 116,
+      "symbol": "MOTHER",
+      "name": "บริษัท มาเธอร์ มาร์เก็ตติ้ง จำกัด (มหาชน)",
+      "nameEN": "Mother Marketing Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 117,
+      "symbol": "MPJ",
+      "name": "บริษัท เอ็ม พี เจ โลจิสติกส์ จำกัด (มหาชน)",
+      "nameEN": "MPJ Logistics Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 118,
+      "symbol": "MTW",
+      "name": "บริษัท เมคทูวิน โฮลดิ้ง จำกัด (มหาชน)",
+      "nameEN": "MAKE TO WIN HOLDING PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 119,
+      "symbol": "MUD",
+      "name": "บริษัท มัด แอนด์ ฮาวด์ จำกัด (มหาชน)",
+      "nameEN": "MUD & HOUND PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 120,
+      "symbol": "MVP",
+      "name": "บริษัท เอ็ม วิชั่น จำกัด (มหาชน)",
+      "nameEN": "M VISION PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 121,
+      "symbol": "NAT",
+      "name": "บริษัท แนท แอบโซลูท เทคโนโลยีส์ จำกัด (มหาชน)",
+      "nameEN": "NAT ABSOLUTE TECHNOLOGIES PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 122,
+      "symbol": "NCL",
+      "name": "บริษัท เอ็นซีแอล อินเตอร์เนชั่นแนล โลจิสติกส์ จำกัด (มหาชน)",
+      "nameEN": "NCL INTERNATIONAL LOGISTICS PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 123,
+      "symbol": "NCP",
+      "name": "บริษัท ไนซ์ คอล จำกัด (มหาชน)",
+      "nameEN": "Nice Call Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 124,
+      "symbol": "NDR",
+      "name": "บริษัท เอ็น.ดี.รับเบอร์ จำกัด (มหาชน)",
+      "nameEN": "N.D. RUBBER PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 125,
+      "symbol": "NETBAY",
+      "name": "บริษัท เน็ตเบย์ จำกัด (มหาชน)",
+      "nameEN": "NETBAY PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 126,
+      "symbol": "NPK",
+      "name": "บริษัท นิวพลัสนิตติ้ง จำกัด (มหาชน)",
+      "nameEN": "NEW PLUS KNITTING PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 127,
+      "symbol": "NTF",
+      "name": "บริษัท เอ็นทีเอฟ อินเตอร์กรุ๊ป (ประเทศไทย) จำกัด (มหาชน)",
+      "nameEN": "NTF INTERGROUP (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 128,
+      "symbol": "NTSC",
+      "name": "บริษัท นิวทรีชั่น เอสซี จำกัด (มหาชน)",
+      "nameEN": "Nutrition SC Public Company Limited",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 129,
+      "symbol": "NUT",
+      "name": "บริษัท นูทริชั่น โปรเฟส จำกัด (มหาชน)",
+      "nameEN": "NUTRITION PROFESS PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 130,
+      "symbol": "PACO",
+      "name": "บริษัท เพรสซิเด้นท์ ออโตโมบิล อินดัสทรีส์ จำกัด (มหาชน)",
+      "nameEN": "PRESIDENT AUTOMOBILE INDUSTRIES PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 131,
+      "symbol": "PANEL",
+      "name": "บริษัท เพเนเล่ส์มาติก โซลูชั่นส์ จำกัด (มหาชน)",
+      "nameEN": "PanelesMatic Solutions Public Company Limited",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 132,
+      "symbol": "PDG",
+      "name": "บริษัท พรอดดิจิ จำกัด (มหาชน)",
+      "nameEN": "PRODIGY PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 133,
+      "symbol": "PEER",
+      "name": "บริษัท เพียร์ ฟอร์ ยู จำกัด (มหาชน)",
+      "nameEN": "PEER FOR YOU PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 134,
+      "symbol": "PHOL",
+      "name": "บริษัท ผลธัญญะ จำกัด (มหาชน)",
+      "nameEN": "PHOL DHANYA PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 135,
+      "symbol": "PICO",
+      "name": "บริษัท ปิโก (ไทยแลนด์) จำกัด (มหาชน)",
+      "nameEN": "PICO (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 136,
+      "symbol": "PIMO",
+      "name": "บริษัท ไพโอเนียร์ มอเตอร์ จำกัด (มหาชน)",
+      "nameEN": "PIONEER MOTOR PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 137,
+      "symbol": "PIS",
+      "name": "บริษัท โปร อินไซด์ จำกัด (มหาชน)",
+      "nameEN": "Pro Inside Public Company Limited",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 138,
+      "symbol": "PLANET",
+      "name": "บริษัท แพลนเน็ต คอมมิวนิเคชั่น เอเชีย จำกัด (มหาชน)",
+      "nameEN": "PLANET COMMUNICATIONS ASIA PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 139,
+      "symbol": "PLT",
+      "name": "บริษัท พีลาทัส มารีน จำกัด (มหาชน)",
+      "nameEN": "Pilatus Marine Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 140,
+      "symbol": "PMC",
+      "name": "บริษัท พีเอ็มซี เลเบิล แมททีเรียลส์ จำกัด (มหาชน)",
+      "nameEN": "PMC Label Materials Public Company Limited",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 141,
+      "symbol": "PPM",
+      "name": "บริษัท พรพรหมเม็ททอล จำกัด (มหาชน)",
+      "nameEN": "PORN PROM METAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 142,
+      "symbol": "PPS",
+      "name": "บริษัท โปรเจค แพลนนิ่ง เซอร์วิส จำกัด (มหาชน)",
+      "nameEN": "PROJECT PLANNING SERVICE PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 143,
+      "symbol": "PRAPAT",
+      "name": "บริษัท พีรพัฒน์ เทคโนโลยี จำกัด (มหาชน)",
+      "nameEN": "PEERAPAT TECHNOLOGY PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 144,
+      "symbol": "PRI",
+      "name": "บริษัท พรีโม เซอร์วิส โซลูชั่น จำกัด (มหาชน)",
+      "nameEN": "Primo Service Solutions Public Company Limited",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 145,
+      "symbol": "PROEN",
+      "name": "บริษัท โปรเอ็น คอร์ป จำกัด (มหาชน)",
+      "nameEN": "PROEN CORP PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 146,
+      "symbol": "PROS",
+      "name": "บริษัท พรอสเพอร์ เอ็นจิเนียริ่ง จำกัด (มหาชน)",
+      "nameEN": "PROSPER ENGINEERING PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 147,
+      "symbol": "PSGC",
+      "name": "บริษัท พีเอสจี คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "PSG CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 148,
+      "symbol": "PSTC",
+      "name": "บริษัท เพาเวอร์ โซลูชั่น เทคโนโลยี จำกัด (มหาชน)",
+      "nameEN": "POWER SOLUTION TECHNOLOGIES PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 149,
+      "symbol": "PTC",
+      "name": "บริษัท พรีเมียร์ แทงค์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "PREMIER TANK CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 150,
+      "symbol": "QDC",
+      "name": "บริษัท ควอนตัม ดี ซี จำกัด (มหาชน)",
+      "nameEN": "QUANTUM D C PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 151,
+      "symbol": "QLT",
+      "name": "บริษัท ควอลลีเทค จำกัด (มหาชน)",
+      "nameEN": "QUALITECH PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 152,
+      "symbol": "QTCG",
+      "name": "บริษัท คิวทีซีจี จำกัด (มหาชน)",
+      "nameEN": "QTCG PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 153,
+      "symbol": "READY",
+      "name": "บริษัท เรดดี้แพลนเน็ต จำกัด (มหาชน)",
+      "nameEN": "READYPLANET PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 154,
+      "symbol": "RP",
+      "name": "บริษัท ท่าเรือราชาเฟอร์รี่ จำกัด (มหาชน)",
+      "nameEN": "RAJA FERRY PORT PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 155,
+      "symbol": "RWI",
+      "name": "บริษัท ระยองไวร์ อินดัสตรีส์ จำกัด (มหาชน)",
+      "nameEN": "RAYONG WIRE INDUSTRIES PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 156,
+      "symbol": "SAAM",
+      "name": "บริษัท เอสเอเอเอ็ม ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "nameEN": "SAAM DEVELOPMENT PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 157,
+      "symbol": "SAF",
+      "name": "บริษัท เอส.เอ.เอฟ. สเปเชียล สตีล จำกัด (มหาชน)",
+      "nameEN": "S.A.F. SPECIAL STEEL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 158,
+      "symbol": "SALEE",
+      "name": "บริษัท สาลี่อุตสาหกรรม จำกัด (มหาชน)",
+      "nameEN": "SALEE INDUSTRY PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 159,
+      "symbol": "SANKO",
+      "name": "บริษัท ซังโกะ ไดคาซติ้ง (ประเทศไทย) จำกัด (มหาชน)",
+      "nameEN": "SANKO DIECASTING (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 160,
+      "symbol": "SCL",
+      "name": "บริษัท เอส.ซี.แอล.มอเตอร์ พาร์ท จำกัด (มหาชน)",
+      "nameEN": "S.C.L. Motor Part Public Company Limited",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 161,
+      "symbol": "SECURE",
+      "name": "บริษัท เอ็นฟอร์ซ ซีเคียว จำกัด (มหาชน)",
+      "nameEN": "NFORCE SECURE PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 162,
+      "symbol": "SEI",
+      "name": "บริษัท เอสอีไอ เมดิคัล จำกัด (มหาชน)",
+      "nameEN": "SEI MEDICAL PUBLIC CO., LTD.",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 163,
+      "symbol": "SENX",
+      "name": "บริษัท เซ็น เอกซ์ จำกัด (มหาชน)",
+      "nameEN": "SEN X PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 164,
+      "symbol": "SFT",
+      "name": "บริษัท ชริ้งเฟล็กซ์ (ประเทศไทย) จำกัด (มหาชน)",
+      "nameEN": "SHRINKFLEX (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 165,
+      "symbol": "SGF",
+      "name": "บริษัท เอสจีเอฟ แคปปิตอล จำกัด (มหาชน)",
+      "nameEN": "SGF CAPITAL PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 166,
+      "symbol": "SICT",
+      "name": "บริษัท ซิลิคอน คราฟท์ เทคโนโลยี จำกัด (มหาชน)",
+      "nameEN": "SILICON CRAFT TECHNOLOGY PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 167,
+      "symbol": "SIMAT",
+      "name": "บริษัท ไซแมท เทคโนโลยี จำกัด (มหาชน)",
+      "nameEN": "SIMAT TECHNOLOGIES PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 168,
+      "symbol": "SK",
+      "name": "บริษัท ศิรกร จำกัด (มหาชน)",
+      "nameEN": "SIRAKORN PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 169,
+      "symbol": "SKIN",
+      "name": "บริษัท สกิน ลาบอราทอรี่ จำกัด (มหาชน)",
+      "nameEN": "SKIN LABORATORY PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 170,
+      "symbol": "SMART",
+      "name": "บริษัท สมาร์ทคอนกรีต จำกัด (มหาชน)",
+      "nameEN": "SMART CONCRETE PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 171,
+      "symbol": "SMD100",
+      "name": "บริษัท เอสเอ็มดี ไรส์ จำกัด (มหาชน)",
+      "nameEN": "SMD RISE PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 172,
+      "symbol": "SONIC",
+      "name": "บริษัท โซนิค อินเตอร์เฟรท จำกัด (มหาชน)",
+      "nameEN": "SONIC INTERFREIGHT PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 173,
+      "symbol": "SPTX",
+      "name": "บริษัท เอสพีที เอกซ์ จำกัด (มหาชน)",
+      "nameEN": "SPT X PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 174,
+      "symbol": "SPVI",
+      "name": "บริษัท เอส พี วี ไอ จำกัด (มหาชน)",
+      "nameEN": "S P V I PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 175,
+      "symbol": "SR",
+      "name": "บริษัท สยามราช จำกัด (มหาชน)",
+      "nameEN": "SIAMRAJ PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 176,
+      "symbol": "SRS",
+      "name": "บริษัท สิริซอฟต์ จำกัด (มหาชน)",
+      "nameEN": "SIRISOFT PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 177,
+      "symbol": "STC",
+      "name": "บริษัท เอสทีซี คอนกรีตโปรดัคท์ จำกัด (มหาชน)",
+      "nameEN": "STC CONCRETE PRODUCT PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 178,
+      "symbol": "STOWER",
+      "name": "บริษัท สกาย ทาวเวอร์ จำกัด (มหาชน)",
+      "nameEN": "SKY TOWER PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 179,
+      "symbol": "STP",
+      "name": "บริษัท สหไทยการพิมพ์และบรรจุภัณฑ์ จำกัด (มหาชน)",
+      "nameEN": "SAHATHAI PRINTING & PACKAGING PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 180,
+      "symbol": "STX",
+      "name": "บริษัท สโตนวัน จำกัด (มหาชน)",
+      "nameEN": "Stone One Public Company Limited",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 181,
+      "symbol": "SVR",
+      "name": "บริษัท สิวารมณ์ เรียลเอสเตท จำกัด (มหาชน)",
+      "nameEN": "SIVAROM REAL ESTATE PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 182,
+      "symbol": "SWC",
+      "name": "บริษัท เชอร์วู้ด คอร์ปอเรชั่น (ประเทศไทย) จำกัด (มหาชน)",
+      "nameEN": "SHERWOOD CORPORATION (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 183,
+      "symbol": "TACC",
+      "name": "บริษัท ที.เอ.ซี. คอนซูเมอร์ จำกัด (มหาชน)",
+      "nameEN": "T.A.C. CONSUMER PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 184,
+      "symbol": "TAKUNI",
+      "name": "บริษัท ทาคูนิ กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "TAKUNI GROUP PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 185,
+      "symbol": "TAPAC",
+      "name": "บริษัท ทาพาโก้ จำกัด (มหาชน)",
+      "nameEN": "TAPACO PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 186,
+      "symbol": "TATG",
+      "name": "บริษัท ไทย ออโต ทูลส์ แอนด์ ดาย จำกัด (มหาชน)",
+      "nameEN": "THAI AUTO TOOLS AND DIE PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 187,
+      "symbol": "TBN",
+      "name": "บริษัท ทีบีเอ็น คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "TBN Corporation Public Company Limited",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 188,
+      "symbol": "TERA",
+      "name": "บริษัท เทอร์ราไบท์ พลัส จำกัด (มหาชน)",
+      "nameEN": "Terabyte Plus Public Company Limited",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 189,
+      "symbol": "THANA",
+      "name": "บริษัท ธนาสิริ กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "THANASIRI GROUP PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 190,
+      "symbol": "THMUI",
+      "name": "บริษัท ไทยมุ้ย คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "THAI MUI CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 191,
+      "symbol": "TIGER",
+      "name": "บริษัท ไทย อิงเกอร์ โฮลดิ้ง จำกัด (มหาชน)",
+      "nameEN": "THAI ENGER HOLDING PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 192,
+      "symbol": "TM",
+      "name": "บริษัท เทคโนเมดิคัล จำกัด (มหาชน)",
+      "nameEN": "TECHNO MEDICAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 193,
+      "symbol": "TMC",
+      "name": "บริษัท ที.เอ็ม.ซี. อุตสาหกรรม จำกัด (มหาชน)",
+      "nameEN": "T.M.C. INDUSTRIAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 194,
+      "symbol": "TMI",
+      "name": "บริษัท ธีระมงคล อุตสาหกรรม จำกัด (มหาชน)",
+      "nameEN": "TEERA-MONGKOL INDUSTRY PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 195,
+      "symbol": "TMILL",
+      "name": "บริษัท ที เอส ฟลาวมิลล์ จำกัด (มหาชน)",
+      "nameEN": "T S FLOUR MILL PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 196,
+      "symbol": "TMW",
+      "name": "บริษัท ไทยมิตซูวา จำกัด (มหาชน)",
+      "nameEN": "THAI MITSUWA PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 197,
+      "symbol": "TNDT",
+      "name": "บริษัท ไทย เอ็น ดี ที จำกัด (มหาชน)",
+      "nameEN": "THAI NONDESTRUCTIVE TESTING PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 198,
+      "symbol": "TNH",
+      "name": "บริษัท โรงพยาบาลไทยนครินทร์ จำกัด (มหาชน)",
+      "nameEN": "THAI NAKARIN HOSPITAL PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 199,
+      "symbol": "TNP",
+      "name": "บริษัท ธนพิริยะ จำกัด (มหาชน)",
+      "nameEN": "THANAPIRIYA PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 200,
+      "symbol": "TPCH",
+      "name": "บริษัท ทีพีซี เพาเวอร์โฮลดิ้ง จำกัด (มหาชน)",
+      "nameEN": "TPC POWER HOLDING PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 201,
+      "symbol": "TPL",
+      "name": "บริษัท ไทยพาร์เซิล จำกัด (มหาชน)",
+      "nameEN": "Thai Parcels Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 202,
+      "symbol": "TPLAS",
+      "name": "บริษัท ไทยอุตสาหกรรมพลาสติก (1994) จำกัด (มหาชน)",
+      "nameEN": "THAI PLASTIC INDUSTRIAL (1994) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 203,
+      "symbol": "TPS",
+      "name": "บริษัท เดอะแพรคทิเคิลโซลูชั่น จำกัด (มหาชน)",
+      "nameEN": "THE PRACTICAL SOLUTION PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 204,
+      "symbol": "TQR",
+      "name": "บริษัท ที คิว อาร์ จำกัด (มหาชน)",
+      "nameEN": "TQR PUBLIC COMPANY LIMITED",
+      "industry": "ธุรกิจการเงิน",
+      "sector": "-"
+    },
+    {
+      "rank": 205,
+      "symbol": "TRP",
+      "name": "บริษัท เอสเตติก คอนเนค จำกัด (มหาชน)",
+      "nameEN": "Aesthetic Connect Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 206,
+      "symbol": "TRT",
+      "name": "บริษัท ถิรไทย จำกัด (มหาชน)",
+      "nameEN": "TIRATHAI PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 207,
+      "symbol": "TRV",
+      "name": "บริษัท ที.อาร์.วี. รับเบอร์ โปรดักส์ จำกัด (มหาชน)",
+      "nameEN": "T.R.V. RUBBER PRODUCTS PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 208,
+      "symbol": "TURTLE",
+      "name": "บริษัท ซุปเปอร์ เทอร์เทิล จำกัด (มหาชน)",
+      "nameEN": "SUPER TURTLE PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 209,
+      "symbol": "TVDH",
+      "name": "บริษัท ทีวีดี โฮลดิ้งส์ จำกัด (มหาชน)",
+      "nameEN": "TVD HOLDINGS PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 210,
+      "symbol": "TVT",
+      "name": "บริษัท ทีวี ธันเดอร์ จำกัด (มหาชน)",
+      "nameEN": "TV THUNDER PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 211,
+      "symbol": "UBA",
+      "name": "บริษัท ยูทิลิตี้ บิสิเนส อัลลายแอนซ์ จำกัด (มหาชน)",
+      "nameEN": "Utility Business Alliance Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 212,
+      "symbol": "UBIS",
+      "name": "บริษัท ยูบิส (เอเชีย) จำกัด (มหาชน)",
+      "nameEN": "UBIS (ASIA) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 213,
+      "symbol": "UEC",
+      "name": "บริษัท ยูนิมิต เอนจิเนียริ่ง จำกัด (มหาชน)",
+      "nameEN": "UNIMIT ENGINEERING PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 214,
+      "symbol": "UKEM",
+      "name": "บริษัท ยูเนี่ยน ปิโตรเคมีคอล จำกัด (มหาชน)",
+      "nameEN": "UNION PETROCHEMICAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 215,
+      "symbol": "UMS",
+      "name": "บริษัท ยูนิค ไมนิ่ง เซอร์วิสเซส จำกัด (มหาชน)",
+      "nameEN": "UNIQUE MINING SERVICES PUBLIC COMPANY LIMITED",
+      "industry": "ทรัพยากร",
+      "sector": "-"
+    },
+    {
+      "rank": 216,
+      "symbol": "UREKA",
+      "name": "บริษัท ยูเรกา ดีไซน์ จำกัด (มหาชน)",
+      "nameEN": "EUREKA DESIGN PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 217,
+      "symbol": "VCOM",
+      "name": "บริษัท วินท์คอม เทคโนโลยี จำกัด (มหาชน)",
+      "nameEN": "VINTCOM TECHNOLOGY PUBLIC COMPANY LIMITED",
+      "industry": "เทคโนโลยี",
+      "sector": "-"
+    },
+    {
+      "rank": 218,
+      "symbol": "VL",
+      "name": "บริษัท วี.แอล.เอ็นเตอร์ไพรส์ จำกัด (มหาชน)",
+      "nameEN": "V.L. ENTERPRISE PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 219,
+      "symbol": "VS",
+      "name": "บริษัท วีเซิร์ฟ เอ็นเตอร์ไพรส์ จำกัด (มหาชน)",
+      "nameEN": "VISERVE ENTERPRISE PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 220,
+      "symbol": "WARRIX",
+      "name": "บริษัท วอริกซ์ สปอร์ต จำกัด (มหาชน)",
+      "nameEN": "Warrix Sport Public Company Limited",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 221,
+      "symbol": "WASH",
+      "name": "บริษัท ลอนดรี้ ยู จำกัด (มหาชน)",
+      "nameEN": "Laundry You Public Company Limited",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 222,
+      "symbol": "WELL",
+      "name": "บริษัท เวล แมเนจเม้นท์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "nameEN": "WELL MANAGEMENT CORPORATION PUBLIC COMPANY LIMITED",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 223,
+      "symbol": "WINMED",
+      "name": "บริษัท วินเนอร์ยี่ เมดิคอล จำกัด (มหาชน)",
+      "nameEN": "WINNERGY MEDICAL PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุปโภคบริโภค",
+      "sector": "-"
+    },
+    {
+      "rank": 224,
+      "symbol": "WINNER",
+      "name": "บริษัท วินเนอร์กรุ๊ป เอ็นเตอร์ไพรซ์ จำกัด (มหาชน)",
+      "nameEN": "WINNER GROUP ENTERPRISE PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 225,
+      "symbol": "XO",
+      "name": "บริษัท เอ็กโซติค ฟู้ด จำกัด (มหาชน)",
+      "nameEN": "EXOTIC FOOD PUBLIC COMPANY LIMITED",
+      "industry": "เกษตรและอุตสาหกรรมอาหาร",
+      "sector": "-"
+    },
+    {
+      "rank": 226,
+      "symbol": "YGG",
+      "name": "บริษัท อิ๊กดราซิล กรุ๊ป จำกัด (มหาชน)",
+      "nameEN": "YGGDRAZIL GROUP PUBLIC COMPANY LIMITED",
+      "industry": "บริการ",
+      "sector": "-"
+    },
+    {
+      "rank": 227,
+      "symbol": "YONG",
+      "name": "บริษัท ยงคอนกรีต จำกัด (มหาชน)",
+      "nameEN": "Yong Concrete Public Company Limited",
+      "industry": "อสังหาริมทรัพย์และก่อสร้าง",
+      "sector": "-"
+    },
+    {
+      "rank": 228,
+      "symbol": "YUASA",
+      "name": "บริษัท ยัวซ่าแบตเตอรี่ ประเทศไทย จำกัด (มหาชน)",
+      "nameEN": "YUASA BATTERY (THAILAND) PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    },
+    {
+      "rank": 229,
+      "symbol": "ZIGA",
+      "name": "บริษัท ซิก้า อินโนเวชั่น จำกัด (มหาชน)",
+      "nameEN": "ZIGA INNOVATION PUBLIC COMPANY LIMITED",
+      "industry": "สินค้าอุตสาหกรรม",
+      "sector": "-"
+    }
+  ],
+  "meta": {
+    "title": "บริษัทจดทะเบียนในตลาด mai",
+    "description": "รายชื่อบริษัทจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ (mai) จำนวน 229 บริษัท พร้อมข้อมูลกลุ่มอุตสาหกรรมและหมวดธุรกิจ",
+    "seo_title": "บริษัทจดทะเบียนในตลาด mai - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดข้อมูล 229 หุ้น ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูลครบ 229 หุ้น",
+      "รวมข้อมูล: ลำดับ, สัญลักษณ์, ชื่อบริษัท",
+      "ดาวน์โหลดได้ในรูปแบบ Excel, CSV หรือ PDF",
+      "ฟรีสำหรับใช้งานส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

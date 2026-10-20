@@ -1,0 +1,493 @@
+{
+  "id": "science-si-units",
+  "name": "ชุดข้อมูลระบบหน่วยวัดระหว่างประเทศ (SI Units)",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "definition",
+      "label": "Definition (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimension",
+      "label": "Dimension",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "เมตร",
+      "symbol": "m",
+      "quantity": "ความยาว",
+      "type": "Base Unit",
+      "definition": "ระยะทางที่แสงเดินทางในเวลา 1/299,792,458 วินาที",
+      "dimension": "L"
+    },
+    {
+      "name": "กิโลกรัม",
+      "symbol": "kg",
+      "quantity": "มวล",
+      "type": "Base Unit",
+      "definition": "กำหนดโดยค่าคงที่ของพลังค์ h = 6.62607015×10⁻³⁴ J·s",
+      "dimension": "M"
+    },
+    {
+      "name": "วินาที",
+      "symbol": "s",
+      "quantity": "เวลา",
+      "type": "Base Unit",
+      "definition": "9,192,631,770 รอบของการแผ่รังสีของซีเซียม-133",
+      "dimension": "T"
+    },
+    {
+      "name": "แอมแปร์",
+      "symbol": "A",
+      "quantity": "กระแสไฟฟ้า",
+      "type": "Base Unit",
+      "definition": "กำหนดโดยประจุไฟฟ้ามูลฐาน e = 1.602176634×10⁻¹⁹ C",
+      "dimension": "I"
+    },
+    {
+      "name": "เคลวิน",
+      "symbol": "K",
+      "quantity": "อุณหพลวัต",
+      "type": "Base Unit",
+      "definition": "กำหนดโดยค่าคงที่ของโบลต์ซมันน์ k = 1.380649×10⁻²³ J/K",
+      "dimension": "Θ"
+    },
+    {
+      "name": "โมล",
+      "symbol": "mol",
+      "quantity": "ปริมาณสาร",
+      "type": "Base Unit",
+      "definition": "มีจำนวนเอนทิตีมูลฐาน 6.02214076×10²³ หน่วยพอดี",
+      "dimension": "N"
+    },
+    {
+      "name": "แคนเดลา",
+      "symbol": "cd",
+      "quantity": "ความเข้มของการส่องสว่าง",
+      "type": "Base Unit",
+      "definition": "ประสิทธิภาพการส่องสว่าง Kcd = 683 lm/W ที่ความถี่ 540 THz",
+      "dimension": "J"
+    },
+    {
+      "name": "เฮิรตซ์",
+      "symbol": "Hz",
+      "quantity": "ความถี่",
+      "type": "Derived Unit",
+      "definition": "s⁻¹",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "นิวตัน",
+      "symbol": "N",
+      "quantity": "แรง",
+      "type": "Derived Unit",
+      "definition": "kg·m·s⁻²",
+      "dimension": "M·L·T⁻²"
+    },
+    {
+      "name": "ปาสคาล",
+      "symbol": "Pa",
+      "quantity": "ความดัน, ความเค้น",
+      "type": "Derived Unit",
+      "definition": "N/m² = kg·m⁻¹·s⁻²",
+      "dimension": "M·L⁻¹·T⁻²"
+    },
+    {
+      "name": "จูล",
+      "symbol": "J",
+      "quantity": "พลังงาน, งาน, ความร้อน",
+      "type": "Derived Unit",
+      "definition": "N·m = kg·m²·s⁻²",
+      "dimension": "M·L²·T⁻²"
+    },
+    {
+      "name": "วัตต์",
+      "symbol": "W",
+      "quantity": "กำลัง, ฟลักซ์การแผ่รังสี",
+      "type": "Derived Unit",
+      "definition": "J/s = kg·m²·s⁻³",
+      "dimension": "M·L²·T⁻³"
+    },
+    {
+      "name": "คูลอมบ์",
+      "symbol": "C",
+      "quantity": "ประจุไฟฟ้า",
+      "type": "Derived Unit",
+      "definition": "A·s",
+      "dimension": "T·I"
+    },
+    {
+      "name": "โวลต์",
+      "symbol": "V",
+      "quantity": "ศักย์ไฟฟ้า",
+      "type": "Derived Unit",
+      "definition": "W/A = kg·m²·s⁻³·A⁻¹",
+      "dimension": "M·L²·T⁻³·I⁻¹"
+    },
+    {
+      "name": "ฟารัด",
+      "symbol": "F",
+      "quantity": "ค่าความจุไฟฟ้า",
+      "type": "Derived Unit",
+      "definition": "C/V = kg⁻¹·m⁻²·s⁴·A²",
+      "dimension": "M⁻¹·L⁻²·T⁴·I²"
+    },
+    {
+      "name": "โอห์ม",
+      "symbol": "Ω",
+      "quantity": "ความต้านทานไฟฟ้า",
+      "type": "Derived Unit",
+      "definition": "V/A = kg·m²·s⁻³·A⁻²",
+      "dimension": "M·L²·T⁻³·I⁻²"
+    },
+    {
+      "name": "ซีเมนส์",
+      "symbol": "S",
+      "quantity": "สภาพนำไฟฟ้า",
+      "type": "Derived Unit",
+      "definition": "A/V = kg⁻¹·m⁻²·s³·A²",
+      "dimension": "M⁻¹·L⁻²·T³·I²"
+    },
+    {
+      "name": "เวเบอร์",
+      "symbol": "Wb",
+      "quantity": "ฟลักซ์แม่เหล็ก",
+      "type": "Derived Unit",
+      "definition": "V·s = kg·m²·s⁻²·A⁻¹",
+      "dimension": "M·L²·T⁻²·I⁻¹"
+    },
+    {
+      "name": "เทสลา",
+      "symbol": "T",
+      "quantity": "ความหนาแน่นฟลักซ์แม่เหล็ก",
+      "type": "Derived Unit",
+      "definition": "Wb/m² = kg·s⁻²·A⁻¹",
+      "dimension": "M·T⁻²·I⁻¹"
+    },
+    {
+      "name": "เฮนรี",
+      "symbol": "H",
+      "quantity": "ความเหนี่ยวนำ",
+      "type": "Derived Unit",
+      "definition": "Wb/A = kg·m²·s⁻²·A⁻²",
+      "dimension": "M·L²·T⁻²·I⁻²"
+    },
+    {
+      "name": "องศาเซลเซียส",
+      "symbol": "°C",
+      "quantity": "อุณหภูมิ",
+      "type": "Derived Unit",
+      "definition": "K - 273.15",
+      "dimension": "Θ"
+    },
+    {
+      "name": "ลูเมน",
+      "symbol": "lm",
+      "quantity": "ฟลักซ์การส่องสว่าง",
+      "type": "Derived Unit",
+      "definition": "cd·sr",
+      "dimension": "J"
+    },
+    {
+      "name": "ลักซ์",
+      "symbol": "lx",
+      "quantity": "ความสว่าง",
+      "type": "Derived Unit",
+      "definition": "lm/m² = cd·sr·m⁻²",
+      "dimension": "J·L⁻²"
+    },
+    {
+      "name": "เบ็กเคอเรล",
+      "symbol": "Bq",
+      "quantity": "กัมมันตภาพรังสี",
+      "type": "Derived Unit",
+      "definition": "s⁻¹ (การสลายตัวต่อวินาที)",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "เกรย์",
+      "symbol": "Gy",
+      "quantity": "ปริมาณรังสีดูดกลืน",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "ซีเวิร์ต",
+      "symbol": "Sv",
+      "quantity": "ปริมาณรังสีสมมูล",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "คาทัล",
+      "symbol": "kat",
+      "quantity": "กิจกรรมเร่งปฏิกิริยา",
+      "type": "Derived Unit",
+      "definition": "mol·s⁻¹",
+      "dimension": "N·T⁻¹"
+    },
+    {
+      "name": "เรเดียน",
+      "symbol": "rad",
+      "quantity": "มุมระนาบ",
+      "type": "Derived Unit",
+      "definition": "m/m = 1 (ไร้มิติ)",
+      "dimension": "1"
+    },
+    {
+      "name": "สเตอเรเดียน",
+      "symbol": "sr",
+      "quantity": "มุมตัน",
+      "type": "Derived Unit",
+      "definition": "m²/m² = 1 (ไร้มิติ)",
+      "dimension": "1"
+    },
+    {
+      "name": "เคตตา",
+      "symbol": "Q",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10³⁰",
+      "dimension": "-"
+    },
+    {
+      "name": "รอนนา",
+      "symbol": "R",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "ยอตตา",
+      "symbol": "Y",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "เซตตา",
+      "symbol": "Z",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "เอกซ์ซา",
+      "symbol": "E",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "เพตา",
+      "symbol": "P",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "เทระ",
+      "symbol": "T",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "จิกะ",
+      "symbol": "G",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "เมกะ",
+      "symbol": "M",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "กิโล",
+      "symbol": "k",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10³",
+      "dimension": "-"
+    },
+    {
+      "name": "เฮกโต",
+      "symbol": "h",
+      "quantity": "คำอุปสรรคหน่วยเอสไอ",
+      "type": "Prefix",
+      "definition": "10²",
+      "dimension": "-"
+    },
+    {
+      "name": "deca",
+      "symbol": "da",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10¹",
+      "dimension": "-"
+    },
+    {
+      "name": "deci",
+      "symbol": "d",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻¹",
+      "dimension": "-"
+    },
+    {
+      "name": "centi",
+      "symbol": "c",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻²",
+      "dimension": "-"
+    },
+    {
+      "name": "milli",
+      "symbol": "m",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻³",
+      "dimension": "-"
+    },
+    {
+      "name": "micro",
+      "symbol": "μ",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "nano",
+      "symbol": "n",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "pico",
+      "symbol": "p",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "femto",
+      "symbol": "f",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "atto",
+      "symbol": "a",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "zepto",
+      "symbol": "z",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "yocto",
+      "symbol": "y",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "ronto",
+      "symbol": "r",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "quecto",
+      "symbol": "q",
+      "quantity": "คำอุปสรรคเอสไอ",
+      "type": "Prefix",
+      "definition": "10⁻³⁰",
+      "dimension": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "หน่วย SI & นิยาม - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 53 หน่วย SI พร้อมนิยาม สัญลักษณ์ และมิติ ฟรี มีให้ในรูปแบบ Excel, CSV และ PDF สำหรับวิทยาศาสตร์ การศึกษา และการพัฒนา",
+    "title": "ชุดข้อมูลระบบหน่วยวัดระหว่างประเทศ (SI Units)",
+    "description": "ชุดข้อมูลที่ครอบคลุมนี้ประกอบด้วยหน่วย SI พื้นฐานและหน่วยอนุพันธ์ 53 หน่วย รวมถึงชื่อ สัญลักษณ์ ปริมาณ ประเภท นิยาม และมิติ เป็นแหล่งข้อมูลที่จำเป็นสำหรับวิทยาศาสตร์ วิศวกรรม และการศึกษา",
+    "key_takeaways": [
+      "เข้าถึง 53 หน่วย SI ที่ครอบคลุม รวมถึงหน่วยพื้นฐานและหน่วยอนุพันธ์",
+      "สำรวจนิยาม สัญลักษณ์ ปริมาณ และมิติที่แม่นยำสำหรับแต่ละหน่วย",
+      "ดาวน์โหลดข้อมูลหน่วยในรูปแบบ Excel, CSV หรือ PDF ที่พิมพ์ได้",
+      "ใช้ข้อมูลหน่วย SI ที่ถูกต้องสำหรับการวิจัยทางวิทยาศาสตร์และสื่อการศึกษา"
+    ],
+    "keywords": [
+      "หน่วย SI Excel",
+      "ระบบหน่วยวัดระหว่างประเทศ CSV",
+      "หน่วยพื้นฐาน อนุพันธ์ นิยาม",
+      "ดาวน์โหลดข้อมูลระบบเมตริก",
+      "ปริมาณทางกายภาพ มิติ",
+      "แหล่งข้อมูลวิทยาศาสตร์"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** เข้าสู่ฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อใช้ในแอปพลิเคชันทางวิทยาศาสตร์หรือเครื่องมือแปลงหน่วย",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Table กรองหน่วยตามประเภท หรือสร้างรายงานที่กำหนดเองสำหรับโครงการวิศวกรรมและการวิจัย",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับอ้างอิงในห้องเรียน โปสเตอร์การศึกษา หรือการปรึกษาแบบออฟไลน์อย่างรวดเร็วระหว่างการทดลองในห้องปฏิบัติการ",
+      "อ้างอิงชุดข้อมูลนี้เพื่อให้แน่ใจถึงความถูกต้องและความสอดคล้องกันในโครงการใดๆ ที่ต้องการหน่วยวัดที่แม่นยำและนิยามพื้นฐานของหน่วยเหล่านั้น"
+    ]
+  },
+  "record_count": 53,
+  "title": "ชุดข้อมูลระบบหน่วยวัดระหว่างประเทศ (SI Units)"
+}

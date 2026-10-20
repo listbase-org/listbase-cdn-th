@@ -1,0 +1,1629 @@
+{
+  "id": "geo-currencies",
+  "name": "ชุดข้อมูลสกุลเงินและรหัสประเทศทั่วโลก",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "currency_code",
+      "label": "Currency Code",
+      "type": "string"
+    },
+    {
+      "key": "currency_name",
+      "label": "Currency Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "currency_symbol",
+      "label": "Symbol",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "อัฟกานิสถาน",
+      "currency_code": "AFN",
+      "currency_name": "อัฟกานีอัฟกานิสถาน",
+      "currency_symbol": "؋"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "แอลเบเนีย",
+      "currency_code": "ALL",
+      "currency_name": "เลกแอลเบเนีย",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "แอลจีเรีย",
+      "currency_code": "DZD",
+      "currency_name": "ดีนาร์แอลจีเรีย",
+      "currency_symbol": "د.ج"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "อันดอร์รา",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "แองโกลา",
+      "currency_code": "AOA",
+      "currency_name": "กวานซาแองโกลา",
+      "currency_symbol": "Kz"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "แอนติกาและบาร์บูดา",
+      "currency_code": "XCD",
+      "currency_name": "ดอลลาร์แคริบเบียนตะวันออก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "อาร์เจนตินา",
+      "currency_code": "ARS",
+      "currency_name": "เปโซอาร์เจนตินา",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "อาร์เมเนีย",
+      "currency_code": "AMD",
+      "currency_name": "ดรัมอาร์เมเนีย",
+      "currency_symbol": "֏"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "ออสเตรเลีย",
+      "currency_code": "AUD",
+      "currency_name": "ดอลลาร์ออสเตรเลีย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "ออสเตรีย",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "อาเซอร์ไบจาน",
+      "currency_code": "AZN",
+      "currency_name": "มานัตอาเซอร์ไบจาน",
+      "currency_symbol": "₼"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "บาฮามาส",
+      "currency_code": "BSD",
+      "currency_name": "ดอลลาร์บาฮามาส",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "บาห์เรน",
+      "currency_code": "BHD",
+      "currency_name": "ดีนาร์บาห์เรน",
+      "currency_symbol": ".د.ب"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "บังกลาเทศ",
+      "currency_code": "BDT",
+      "currency_name": "ตากาบังกลาเทศ",
+      "currency_symbol": "৳"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "บาร์เบโดส",
+      "currency_code": "BBD",
+      "currency_name": "ดอลลาร์บาร์เบโดส",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "เบลารุส",
+      "currency_code": "BYN",
+      "currency_name": "รูเบิลเบลารุส",
+      "currency_symbol": "Br"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "เบลเยียม",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "เบลีซ",
+      "currency_code": "BZD",
+      "currency_name": "ดอลลาร์เบลีซ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "เบนิน",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์ซีเอฟเอแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "ภูฏาน",
+      "currency_code": "BTN",
+      "currency_name": "งุลตรัมภูฏาน",
+      "currency_symbol": "Nu."
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "โบลิเวีย",
+      "currency_code": "BOB",
+      "currency_name": "โบลิเวียโนโบลิเวีย",
+      "currency_symbol": "Bs."
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "บอสเนียและเฮอร์เซโกวีนา",
+      "currency_code": "BAM",
+      "currency_name": "มาร์กแปลงสภาพของบอสเนียและเฮอร์เซโกวีนา",
+      "currency_symbol": "KM"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "บอตสวานา",
+      "currency_code": "BWP",
+      "currency_name": "ปูลาบอตสวานา",
+      "currency_symbol": "P"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "บราซิล",
+      "currency_code": "BRL",
+      "currency_name": "เรียลบราซิล",
+      "currency_symbol": "R$"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "บรูไน",
+      "currency_code": "BND",
+      "currency_name": "ดอลลาร์บรูไน",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "บัลแกเรีย",
+      "currency_code": "BGN",
+      "currency_name": "เลฟบัลแกเรีย",
+      "currency_symbol": "лв"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "บูร์กินาฟาโซ",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "บุรุนดี",
+      "currency_code": "BIF",
+      "currency_name": "ฟรังก์บุรุนดี",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "กัมพูชา",
+      "currency_code": "KHR",
+      "currency_name": "เรียลกัมพูชา",
+      "currency_symbol": "៛"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "แคเมอรูน",
+      "currency_code": "XAF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกากลาง",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "แคนาดา",
+      "currency_code": "CAD",
+      "currency_name": "ดอลลาร์แคนาดา",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "กาบูเวร์ดี",
+      "currency_code": "CVE",
+      "currency_name": "เอสกูโดกาบูเวร์ดี",
+      "currency_symbol": "Esc"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "สาธารณรัฐแอฟริกากลาง",
+      "currency_code": "XAF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกากลาง",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "ชาด",
+      "currency_code": "XAF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกากลาง",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "ชิลี",
+      "currency_code": "CLP",
+      "currency_name": "เปโซชิลี",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "จีน",
+      "currency_code": "CNY",
+      "currency_name": "หยวนจีน",
+      "currency_symbol": "¥"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "โคลอมเบีย",
+      "currency_code": "COP",
+      "currency_name": "เปโซโคลอมเบีย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "คอโมโรส",
+      "currency_code": "KMF",
+      "currency_name": "ฟรังก์คอโมโรส",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "คอสตาริกา",
+      "currency_code": "CRC",
+      "currency_name": "โคลอนคอสตาริกา",
+      "currency_symbol": "₡"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "โครเอเชีย",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "คิวบา",
+      "currency_code": "CUC",
+      "currency_name": "เปโซคิวบาแบบแปลงสภาพ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "ไซปรัส",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "เช็กเกีย",
+      "currency_code": "CZK",
+      "currency_name": "โครูนาเช็ก",
+      "currency_symbol": "Kč"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "เดนมาร์ก",
+      "currency_code": "DKK",
+      "currency_name": "โครนเดนมาร์ก",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "จิบูตี",
+      "currency_code": "DJF",
+      "currency_name": "ฟรังก์จิบูตี",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "ดอมินีกา",
+      "currency_code": "XCD",
+      "currency_name": "ดอลลาร์แคริบเบียนตะวันออก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "สาธารณรัฐโดมินิกัน",
+      "currency_code": "DOP",
+      "currency_name": "เปโซโดมินิกัน",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "ดีอาร์คองโก",
+      "currency_code": "CDF",
+      "currency_name": "ฟรังก์คองโก",
+      "currency_symbol": "FC"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "เอกวาดอร์",
+      "currency_code": "USD",
+      "currency_name": "ดอลลาร์สหรัฐ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "อียิปต์",
+      "currency_code": "EGP",
+      "currency_name": "ปอนด์อียิปต์",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "เอลซัลวาดอร์",
+      "currency_code": "USD",
+      "currency_name": "ดอลลาร์สหรัฐ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "อิเควทอเรียลกินี",
+      "currency_code": "XAF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกากลาง",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "เอริเทรีย",
+      "currency_code": "ERN",
+      "currency_name": "นากฟาเอริเทรีย",
+      "currency_symbol": "Nfk"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "เอสโตเนีย",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "เอสวาตินี",
+      "currency_code": "SZL",
+      "currency_name": "ลิลาเงนีสวาซิ",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "เอธิโอเปีย",
+      "currency_code": "ETB",
+      "currency_name": "เบอร์เอธิโอเปีย",
+      "currency_symbol": "Br"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "ฟิจิ",
+      "currency_code": "FJD",
+      "currency_name": "ดอลลาร์ฟิจิ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "ฟินแลนด์",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "ฝรั่งเศส",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "กาบอง",
+      "currency_code": "XAF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกากลาง",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "แกมเบีย",
+      "currency_code": "GMD",
+      "currency_name": "ดาลาซี",
+      "currency_symbol": "D"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "จอร์เจีย",
+      "currency_code": "GEL",
+      "currency_name": "ลารี",
+      "currency_symbol": "₾"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "เยอรมนี",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "กานา",
+      "currency_code": "GHS",
+      "currency_name": "เซดีกานา",
+      "currency_symbol": "₵"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "กรีซ",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "เกรนาดา",
+      "currency_code": "XCD",
+      "currency_name": "ดอลลาร์แคริบเบียนตะวันออก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "กัวเตมาลา",
+      "currency_code": "GTQ",
+      "currency_name": "เกตซัลกัวเตมาลา",
+      "currency_symbol": "Q"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "กินี",
+      "currency_code": "GNF",
+      "currency_name": "ฟรังก์กินี",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "กินี-บิสเซา",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "กายอานา",
+      "currency_code": "GYD",
+      "currency_name": "ดอลลาร์กายอานา",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "เฮติ",
+      "currency_code": "HTG",
+      "currency_name": "กูร์ดเฮติ",
+      "currency_symbol": "G"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "ฮอนดูรัส",
+      "currency_code": "HNL",
+      "currency_name": "เลมปิราฮอนดูรัส",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "ฮังการี",
+      "currency_code": "HUF",
+      "currency_name": "โฟรินต์ฮังการี",
+      "currency_symbol": "Ft"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "ไอซ์แลนด์",
+      "currency_code": "ISK",
+      "currency_name": "โครนาไอซ์แลนด์",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "อินเดีย",
+      "currency_code": "INR",
+      "currency_name": "รูปีอินเดีย",
+      "currency_symbol": "₹"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "อินโดนีเซีย",
+      "currency_code": "IDR",
+      "currency_name": "รูเปียห์อินโดนีเซีย",
+      "currency_symbol": "Rp"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "อิหร่าน",
+      "currency_code": "IRR",
+      "currency_name": "เรียลอิหร่าน",
+      "currency_symbol": "﷼"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "อิรัก",
+      "currency_code": "IQD",
+      "currency_name": "ดีนาร์อิรัก",
+      "currency_symbol": "ع.د"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "ไอร์แลนด์",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "อิสราเอล",
+      "currency_code": "ILS",
+      "currency_name": "นิวเชเกลอิสราเอล",
+      "currency_symbol": "₪"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "อิตาลี",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "ไอวอรีโคสต์",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "จาเมกา",
+      "currency_code": "JMD",
+      "currency_name": "ดอลลาร์จาเมกา",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "ญี่ปุ่น",
+      "currency_code": "JPY",
+      "currency_name": "เยนญี่ปุ่น",
+      "currency_symbol": "¥"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "จอร์แดน",
+      "currency_code": "JOD",
+      "currency_name": "ดีนาร์จอร์แดน",
+      "currency_symbol": "د.ا"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "คาซัคสถาน",
+      "currency_code": "KZT",
+      "currency_name": "เตงเกคาซัคสถาน",
+      "currency_symbol": "₸"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "เคนยา",
+      "currency_code": "KES",
+      "currency_name": "ชิลลิงเคนยา",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "คิริบาส",
+      "currency_code": "AUD",
+      "currency_name": "ดอลลาร์ออสเตรเลีย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "โคโซโว",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "คูเวต",
+      "currency_code": "KWD",
+      "currency_name": "ดีนาร์คูเวต",
+      "currency_symbol": "د.ك"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "คีร์กีซสถาน",
+      "currency_code": "KGS",
+      "currency_name": "ซอมคีร์กีซสถาน",
+      "currency_symbol": "с"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "ลาว",
+      "currency_code": "LAK",
+      "currency_name": "กีบลาว",
+      "currency_symbol": "₭"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "ลัตเวีย",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "เลบานอน",
+      "currency_code": "LBP",
+      "currency_name": "ปอนด์เลบานอน",
+      "currency_symbol": "ل.ل"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "เลโซโท",
+      "currency_code": "LSL",
+      "currency_name": "โลตีเลโซโท",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "ไลบีเรีย",
+      "currency_code": "LRD",
+      "currency_name": "ดอลลาร์ไลบีเรีย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "ลิเบีย",
+      "currency_code": "LYD",
+      "currency_name": "ดีนาร์ลิเบีย",
+      "currency_symbol": "ل.د"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "ลิกเตนสไตน์",
+      "currency_code": "CHF",
+      "currency_name": "ฟรังก์สวิส",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "ลิทัวเนีย",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "ลักเซมเบิร์ก",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "มาดากัสการ์",
+      "currency_code": "MGA",
+      "currency_name": "อารียารีมาลากาซี",
+      "currency_symbol": "Ar"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "มาลาวี",
+      "currency_code": "MWK",
+      "currency_name": "ควาชามาลาวี",
+      "currency_symbol": "MK"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "มาเลเซีย",
+      "currency_code": "MYR",
+      "currency_name": "ริงกิตมาเลเซีย",
+      "currency_symbol": "RM"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "มัลดีฟส์",
+      "currency_code": "MVR",
+      "currency_name": "รูฟิยามัลดีฟส์",
+      "currency_symbol": ".ރ"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "มาลี",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "มอลตา",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "หมู่เกาะมาร์แชลล์",
+      "currency_code": "USD",
+      "currency_name": "ดอลลาร์สหรัฐ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "มอริเตเนีย",
+      "currency_code": "MRU",
+      "currency_name": "อูกียามอริเตเนีย",
+      "currency_symbol": "UM"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "มอริเชียส",
+      "currency_code": "MUR",
+      "currency_name": "รูปีมอริเชียส",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "เม็กซิโก",
+      "currency_code": "MXN",
+      "currency_name": "เปโซเม็กซิโก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "ไมโครนีเซีย",
+      "currency_code": "USD",
+      "currency_name": "ดอลลาร์สหรัฐ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "มอลโดวา",
+      "currency_code": "MDL",
+      "currency_name": "เลวมอลโดวา",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "โมนาโก",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "มองโกเลีย",
+      "currency_code": "MNT",
+      "currency_name": "ตูกริกมองโกเลีย",
+      "currency_symbol": "₮"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "มอนเตเนโกร",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "โมร็อกโก",
+      "currency_code": "MAD",
+      "currency_name": "ดีร์แฮมโมร็อกโก",
+      "currency_symbol": "د.م."
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "โมซัมบิก",
+      "currency_code": "MZN",
+      "currency_name": "เมติคัลโมซัมบิก",
+      "currency_symbol": "MT"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "เมียนมา",
+      "currency_code": "MMK",
+      "currency_name": "จัตพม่า",
+      "currency_symbol": "Ks"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "นามิเบีย",
+      "currency_code": "NAD",
+      "currency_name": "ดอลลาร์นามิเบีย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "นาอูรู",
+      "currency_code": "AUD",
+      "currency_name": "ดอลลาร์ออสเตรเลีย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "เนปาล",
+      "currency_code": "NPR",
+      "currency_name": "รูปีเนปาล",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "เนเธอร์แลนด์",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "นิวซีแลนด์",
+      "currency_code": "NZD",
+      "currency_name": "ดอลลาร์นิวซีแลนด์",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "นิการากัว",
+      "currency_code": "NIO",
+      "currency_name": "กอร์โดบานิการากัว",
+      "currency_symbol": "C$"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "ไนเจอร์",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "ไนจีเรีย",
+      "currency_code": "NGN",
+      "currency_name": "ไนราไนจีเรีย",
+      "currency_symbol": "₦"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "เกาหลีเหนือ",
+      "currency_code": "KPW",
+      "currency_name": "วอนเกาหลีเหนือ",
+      "currency_symbol": "₩"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "มาซิโดเนียเหนือ",
+      "currency_code": "MKD",
+      "currency_name": "ดีนาร์",
+      "currency_symbol": "den"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "นอร์เวย์",
+      "currency_code": "NOK",
+      "currency_name": "โครนนอร์เวย์",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "โอมาน",
+      "currency_code": "OMR",
+      "currency_name": "เรียลโอมาน",
+      "currency_symbol": "ر.ع."
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "ปากีสถาน",
+      "currency_code": "PKR",
+      "currency_name": "รูปีปากีสถาน",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "ปาเลา",
+      "currency_code": "USD",
+      "currency_name": "ดอลลาร์สหรัฐ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "ปานามา",
+      "currency_code": "PAB",
+      "currency_name": "บัลโบอาปานามา",
+      "currency_symbol": "B/."
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "ปาปัวนิวกินี",
+      "currency_code": "PGK",
+      "currency_name": "คีนาปาปัวนิวกินี",
+      "currency_symbol": "K"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "ปารากวัย",
+      "currency_code": "PYG",
+      "currency_name": "กวารานีปารากวัย",
+      "currency_symbol": "₲"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "เปรู",
+      "currency_code": "PEN",
+      "currency_name": "ซอลเปรู",
+      "currency_symbol": "S/ "
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "ฟิลิปปินส์",
+      "currency_code": "PHP",
+      "currency_name": "เปโซฟิลิปปินส์",
+      "currency_symbol": "₱"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "โปแลนด์",
+      "currency_code": "PLN",
+      "currency_name": "ซวอตีโปแลนด์",
+      "currency_symbol": "zł"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "โปรตุเกส",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "กาตาร์",
+      "currency_code": "QAR",
+      "currency_name": "เรียลกาตาร์",
+      "currency_symbol": "ر.ق"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "สาธารณรัฐคองโก",
+      "currency_code": "XAF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกากลาง",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "โรมาเนีย",
+      "currency_code": "RON",
+      "currency_name": "ลิวโรมาเนีย",
+      "currency_symbol": "lei"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "รัสเซีย",
+      "currency_code": "RUB",
+      "currency_name": "รูเบิลรัสเซีย",
+      "currency_symbol": "₽"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "รวันดา",
+      "currency_code": "RWF",
+      "currency_name": "ฟรังก์รวันดา",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "เซนต์คิตส์และเนวิส",
+      "currency_code": "XCD",
+      "currency_name": "ดอลลาร์แคริบเบียนตะวันออก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "เซนต์ลูเซีย",
+      "currency_code": "XCD",
+      "currency_name": "ดอลลาร์แคริบเบียนตะวันออก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "currency_code": "XCD",
+      "currency_name": "ดอลลาร์แคริบเบียนตะวันออก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "ซามัว",
+      "currency_code": "WST",
+      "currency_name": "ตาลาซามัว",
+      "currency_symbol": "T"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "ซานมารีโน",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "เซาตูเมและปรินซิปี",
+      "currency_code": "STN",
+      "currency_name": "โดบราเซาตูเมและปรินซิปี",
+      "currency_symbol": "Db"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "ซาอุดีอาระเบีย",
+      "currency_code": "SAR",
+      "currency_name": "ริยาลซาอุดีอาระเบีย",
+      "currency_symbol": "ر.س"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "เซเนกัล",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "เซอร์เบีย",
+      "currency_code": "RSD",
+      "currency_name": "ดีนาร์เซอร์เบีย",
+      "currency_symbol": "дин."
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "เซเชลส์",
+      "currency_code": "SCR",
+      "currency_name": "รูปีเซเชลส์",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "เซียร์ราลีโอน",
+      "currency_code": "SLE",
+      "currency_name": "ลีโอน",
+      "currency_symbol": "Le"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "สิงคโปร์",
+      "currency_code": "SGD",
+      "currency_name": "ดอลลาร์สิงคโปร์",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "สโลวาเกีย",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "สโลวีเนีย",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "หมู่เกาะโซโลมอน",
+      "currency_code": "SBD",
+      "currency_name": "ดอลลาร์หมู่เกาะโซโลมอน",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "โซมาเลีย",
+      "currency_code": "SOS",
+      "currency_name": "ชิลลิงโซมาเลีย",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "แอฟริกาใต้",
+      "currency_code": "ZAR",
+      "currency_name": "แรนด์แอฟริกาใต้",
+      "currency_symbol": "R"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "เกาหลีใต้",
+      "currency_code": "KRW",
+      "currency_name": "วอนเกาหลีใต้",
+      "currency_symbol": "₩"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "ซูดานใต้",
+      "currency_code": "SSP",
+      "currency_name": "ปอนด์ซูดานใต้",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "สเปน",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "ศรีลังกา",
+      "currency_code": "LKR",
+      "currency_name": "รูปีศรีลังกา",
+      "currency_symbol": "Rs  රු"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "ซูดาน",
+      "currency_code": "SDG",
+      "currency_name": "ปอนด์ซูดาน",
+      "currency_symbol": "ج.س"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "ซูรินาม",
+      "currency_code": "SRD",
+      "currency_name": "ดอลลาร์ซูรินาม",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "สวีเดน",
+      "currency_code": "SEK",
+      "currency_name": "โครนาสวีเดน",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "สวิตเซอร์แลนด์",
+      "currency_code": "CHF",
+      "currency_name": "ฟรังก์สวิส",
+      "currency_symbol": "Fr."
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "ซีเรีย",
+      "currency_code": "SYP",
+      "currency_name": "ปอนด์ซีเรีย",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "ทาจิกิสถาน",
+      "currency_code": "TJS",
+      "currency_name": "โซโมนิทาจิกิสถาน",
+      "currency_symbol": "ЅМ"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "แทนซาเนีย",
+      "currency_code": "TZS",
+      "currency_name": "ชิลลิงแทนซาเนีย",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "ประเทศไทย",
+      "currency_code": "THB",
+      "currency_name": "บาทไทย",
+      "currency_symbol": "฿"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "ติมอร์-เลสเต",
+      "currency_code": "USD",
+      "currency_name": "ดอลลาร์สหรัฐฯ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "โตโก",
+      "currency_code": "XOF",
+      "currency_name": "ฟรังก์เซฟาแอฟริกาตะวันตก",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "ตองกา",
+      "currency_code": "TOP",
+      "currency_name": "ปาอางาตองกา",
+      "currency_symbol": "T$"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "ตรินิแดดและโตเบโก",
+      "currency_code": "TTD",
+      "currency_name": "ดอลลาร์ตรินิแดดและโตเบโก",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "ตูนิเซีย",
+      "currency_code": "TND",
+      "currency_name": "ดีนาร์ตูนิเซีย",
+      "currency_symbol": "د.ت"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "ตุรกี",
+      "currency_code": "TRY",
+      "currency_name": "ลีราตุรกี",
+      "currency_symbol": "₺"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "เติร์กเมนิสถาน",
+      "currency_code": "TMT",
+      "currency_name": "มานัตเติร์กเมนิสถาน",
+      "currency_symbol": "m"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "ตูวาลู",
+      "currency_code": "AUD",
+      "currency_name": "ดอลลาร์ออสเตรเลีย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "ยูกันดา",
+      "currency_code": "UGX",
+      "currency_name": "ชิลลิงยูกันดา",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "ยูเครน",
+      "currency_code": "UAH",
+      "currency_name": "ฮรีฟเนียยูเครน",
+      "currency_symbol": "₴"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "สหรัฐอาหรับเอมิเรตส์",
+      "currency_code": "AED",
+      "currency_name": "ดีร์แฮมสหรัฐอาหรับเอมิเรตส์",
+      "currency_symbol": "د.إ"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "สหราชอาณาจักร",
+      "currency_code": "GBP",
+      "currency_name": "ปอนด์สเตอร์ลิง",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "สหรัฐอเมริกา",
+      "currency_code": "USD",
+      "currency_name": "ดอลลาร์สหรัฐ",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "อุรุกวัย",
+      "currency_code": "UYU",
+      "currency_name": "เปโซอุรุกวัย",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "อุซเบกิสถาน",
+      "currency_code": "UZS",
+      "currency_name": "ซอมอุซเบกิสถาน",
+      "currency_symbol": "so'm"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "วานูอาตู",
+      "currency_code": "VUV",
+      "currency_name": "วาตูวานูอาตู",
+      "currency_symbol": "Vt"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "นครรัฐวาติกัน",
+      "currency_code": "EUR",
+      "currency_name": "ยูโร",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "เวเนซุเอลา",
+      "currency_code": "VES",
+      "currency_name": "โบลิวาร์โซเบราโนเวเนซุเอลา",
+      "currency_symbol": "Bs.S."
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "เวียดนาม",
+      "currency_code": "VND",
+      "currency_name": "ด่งเวียดนาม",
+      "currency_symbol": "₫"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "เยเมน",
+      "currency_code": "YER",
+      "currency_name": "เรียลเยเมน",
+      "currency_symbol": "﷼"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "แซมเบีย",
+      "currency_code": "ZMW",
+      "currency_name": "ควาชาแซมเบีย",
+      "currency_symbol": "ZK"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "ซิมบับเว",
+      "currency_code": "ZWL",
+      "currency_name": "ดอลลาร์ซิมบับเว",
+      "currency_symbol": "$"
+    }
+  ],
+  "meta": {
+    "seo_title": "รายการสกุลเงินประเทศ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี: รายการสกุลเงิน 195 ประเทศ รหัส ชื่อ และสัญลักษณ์สกุลเงิน มีให้เลือกในรูปแบบ Excel, CSV และ PDF เพื่อการใช้งานง่าย.",
+    "title": "ชุดข้อมูลสกุลเงินและรหัสประเทศทั่วโลก",
+    "description": "ชุดข้อมูลนี้ประกอบด้วยรายการที่ครอบคลุมของ 195 ประเทศอิสระ พร้อมรายละเอียดรหัส ISO Alpha-2/Alpha-3 ชื่อทางการของสกุลเงิน รหัส และสัญลักษณ์ เป็นทรัพยากรที่จำเป็นสำหรับแอปพลิเคชันทางการเงิน อีคอมเมิร์ซ และการวิเคราะห์ข้อมูลระหว่างประเทศ.",
+    "key_takeaways": [
+      "เข้าถึงรายการที่สมบูรณ์ของ 195 ประเทศอิสระพร้อมรายละเอียดสกุลเงิน.",
+      "สำรวจรหัส ISO Alpha-2/Alpha-3 ควบคู่ไปกับชื่อ รหัส และสัญลักษณ์สกุลเงิน.",
+      "ดาวน์โหลดข้อมูลสกุลเงินที่จำเป็นสำหรับการเงิน อีคอมเมิร์ซ หรือการศึกษา.",
+      "รับข้อมูลสกุลเงินที่เป็นปัจจุบันสำหรับการวิเคราะห์ตลาดทั่วโลก."
+    ],
+    "keywords": [
+      "รายการสกุลเงิน excel",
+      "รหัสสกุลเงิน csv",
+      "ข้อมูลสกุลเงินโลก",
+      "สัญลักษณ์สกุลเงิน ISO",
+      "ข้อมูลสกุลเงินทั่วโลก",
+      "ดาวน์โหลดสกุลเงิน pdf"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL ของคุณ หรือใช้ในสคริปต์ Python สำหรับการพัฒนาแอปพลิเคชันทางการเงินหรือระบบชำระเงินระหว่างประเทศอย่างรวดเร็ว.",
+      "ใช้ประโยชน์จากไฟล์ **Excel** สำหรับการวิเคราะห์ทางการเงิน สร้างตาราง Pivot เพื่อเปรียบเทียบสกุลเงิน กรองตามประเทศ หรือ VLOOKUP สำหรับการรวมข้อมูล.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงออฟไลน์อย่างรวดเร็วในสำนักงาน ห้องเรียน หรือสำหรับการนำเสนอเรื่องเศรษฐศาสตร์และการเงินทั่วโลก.",
+      "รวมข้อมูลนี้เข้ากับแพลตฟอร์มอีคอมเมิร์ซหรือซอฟต์แวร์บัญชีเพื่อแสดงข้อมูลสกุลเงินที่ถูกต้องแก่ผู้ใช้หรือสำหรับการประมวลผลธุรกรรม."
+    ]
+  },
+  "record_count": 195,
+  "title": "ชุดข้อมูลสกุลเงินและรหัสประเทศทั่วโลก"
+}

@@ -1,0 +1,349 @@
+{
+  "id": "gov-thailand-prime-ministers",
+  "name": "รายชื่อนายกรัฐมนตรีไทย",
+  "category": "geography",
+  "source": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Thailand",
+  "updated": "2026-02-21",
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อ",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "เริ่มดำรงตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "สิ้นสุด",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "ระยะเวลา",
+      "type": "string"
+    },
+    {
+      "key": "party_th",
+      "label": "พรรค",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name_th": "พระยามโนปกรณ์นิติธาดา",
+      "name_en": "Phraya Manopakorn Nititada",
+      "term_start": "28 มิ.ย. 2475",
+      "term_end": "20 มิ.ย. 2476",
+      "duration": "11 เดือน 27 วัน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 2,
+      "name_th": "พระยาพหลพลพยุหเสนา",
+      "name_en": "Phraya Phahonphonphayuhasena",
+      "term_start": "21 มิ.ย. 2476",
+      "term_end": "16 ธ.ค. 2481",
+      "duration": "5 ปี 5 เดือน",
+      "party_th": "คณะราษฎร"
+    },
+    {
+      "order": 3,
+      "name_th": "จอมพล ป. พิบูลสงคราม",
+      "name_en": "Plaek Phibunsongkhram",
+      "term_start": "16 ธ.ค. 2481",
+      "term_end": "1 ส.ค. 2487",
+      "duration": "5 ปี 7 เดือน",
+      "party_th": "คณะราษฎร"
+    },
+    {
+      "order": 4,
+      "name_th": "พันตรี ควง อภัยวงศ์",
+      "name_en": "Khuang Aphaiwong",
+      "term_start": "1 ส.ค. 2487",
+      "term_end": "31 ส.ค. 2488",
+      "duration": "1 ปี 1 เดือน",
+      "party_th": "พรรคประชาธิปัตย์"
+    },
+    {
+      "order": 5,
+      "name_th": "ทวี บุณยเกตุ",
+      "name_en": "Tawee Bunyaket",
+      "term_start": "31 ส.ค. 2488",
+      "term_end": "17 ก.ย. 2488",
+      "duration": "17 วัน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 6,
+      "name_th": "ม.ร.ว. เสนีย์ ปราโมช",
+      "name_en": "Seni Pramoj",
+      "term_start": "17 ก.ย. 2488",
+      "term_end": "31 ม.ค. 2489",
+      "duration": "4 เดือน 16 วัน",
+      "party_th": "พรรคประชาธิปัตย์"
+    },
+    {
+      "order": 7,
+      "name_th": "ปรีดี พนมยงค์",
+      "name_en": "Pridi Banomyong",
+      "term_start": "24 มี.ค. 2489",
+      "term_end": "23 ส.ค. 2489",
+      "duration": "5 เดือน 2 วัน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 8,
+      "name_th": "พล.ร.ต. ถวัลย์ ธำรงนาวาสวัสดิ์",
+      "name_en": "Thawal Thamrong Nawawasawat",
+      "term_start": "23 ส.ค. 2489",
+      "term_end": "8 พ.ย. 2490",
+      "duration": "1 ปี 2 เดือน",
+      "party_th": "แนวรัฐธรรมนูญ"
+    },
+    {
+      "order": 9,
+      "name_th": "พจน์ สารสิน",
+      "name_en": "Pote Sarasin",
+      "term_start": "21 ก.ย. 2500",
+      "term_end": "1 ม.ค. 2501",
+      "duration": "3 เดือน 12 วัน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 10,
+      "name_th": "จอมพล ถนอม กิตติขจร",
+      "name_en": "Thanom Kittikachorn",
+      "term_start": "1 ม.ค. 2501",
+      "term_end": "20 ต.ค. 2501",
+      "duration": "9 เดือน 22 วัน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 11,
+      "name_th": "จอมพล สฤษดิ์ ธนะรัชต์",
+      "name_en": "Sarit Thanarat",
+      "term_start": "9 ก.พ. 2502",
+      "term_end": "8 ธ.ค. 2506",
+      "duration": "4 ปี 10 เดือน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 12,
+      "name_th": "สัญญา ธรรมศักดิ์",
+      "name_en": "Sanya Dharmasakti",
+      "term_start": "14 ต.ค. 2516",
+      "term_end": "15 ก.พ. 2518",
+      "duration": "1 ปี 4 เดือน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 13,
+      "name_th": "ม.ร.ว. คึกฤทธิ์ ปราโมช",
+      "name_en": "Kukrit Pramoj",
+      "term_start": "14 มี.ค. 2518",
+      "term_end": "20 เม.ย. 2519",
+      "duration": "1 ปี 1 เดือน",
+      "party_th": "พรรคกิจสังคม"
+    },
+    {
+      "order": 14,
+      "name_th": "ธานินทร์ กรัยวิเชียร",
+      "name_en": "Tanin Kraivixien",
+      "term_start": "8 ต.ค. 2519",
+      "term_end": "20 ต.ค. 2520",
+      "duration": "1 ปี 0 เดือน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 15,
+      "name_th": "พล.อ. เกรียงศักดิ์ ชมะนันทน์",
+      "name_en": "Kriangsak Chamanan",
+      "term_start": "11 พ.ย. 2520",
+      "term_end": "3 มี.ค. 2523",
+      "duration": "2 ปี 3 เดือน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 16,
+      "name_th": "พล.อ. เปรม ติณสูลานนท์",
+      "name_en": "Prem Tinsulanonda",
+      "term_start": "3 มี.ค. 2523",
+      "term_end": "4 ส.ค. 2531",
+      "duration": "8 ปี 5 เดือน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 17,
+      "name_th": "พล.อ. ชาติชาย ชุณหะวัณ",
+      "name_en": "Chatichai Choonhavan",
+      "term_start": "4 ส.ค. 2531",
+      "term_end": "23 ก.พ. 2534",
+      "duration": "2 ปี 6 เดือน",
+      "party_th": "พรรคชาติไทย"
+    },
+    {
+      "order": 18,
+      "name_th": "อานันท์ ปันยารชุน",
+      "name_en": "Anand Panyarachun",
+      "term_start": "2 มี.ค. 2534",
+      "term_end": "7 เม.ย. 2535",
+      "duration": "1 ปี 1 เดือน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 19,
+      "name_th": "พล.อ. สุจินดา คราประยูร",
+      "name_en": "Suchinda Kraprayoon",
+      "term_start": "7 เม.ย. 2535",
+      "term_end": "24 พ.ค. 2535",
+      "duration": "1 เดือน 17 วัน",
+      "party_th": "พรรคสามัคคีธรรม"
+    },
+    {
+      "order": 20,
+      "name_th": "ชวน หลีกภัย",
+      "name_en": "Chuan Leekpai",
+      "term_start": "23 ก.ย. 2535",
+      "term_end": "13 ก.ค. 2538",
+      "duration": "2 ปี 9 เดือน",
+      "party_th": "พรรคประชาธิปัตย์"
+    },
+    {
+      "order": 21,
+      "name_th": "บรรหาร ศิลปอาชา",
+      "name_en": "Banharn Silpa-archa",
+      "term_start": "13 ก.ค. 2538",
+      "term_end": "25 พ.ย. 2539",
+      "duration": "1 ปี 4 เดือน",
+      "party_th": "พรรคชาติไทย"
+    },
+    {
+      "order": 22,
+      "name_th": "พล.อ. ชวลิต ยงใจยุทธ",
+      "name_en": "Chavalit Yongchaiyudh",
+      "term_start": "25 พ.ย. 2539",
+      "term_end": "9 พ.ย. 2540",
+      "duration": "11 เดือน 19 วัน",
+      "party_th": "พรรคความหวังใหม่"
+    },
+    {
+      "order": 23,
+      "name_th": "พ.ต.ท. ทักษิณ ชินวัตร",
+      "name_en": "Thaksin Shinawatra",
+      "term_start": "9 ก.พ. 2544",
+      "term_end": "19 ก.ย. 2549",
+      "duration": "5 ปี 7 เดือน",
+      "party_th": "พรรคไทยรักไทย"
+    },
+    {
+      "order": 24,
+      "name_th": "พล.อ. สุรยุทธ์ จุลานนท์",
+      "name_en": "Surayud Chulanont",
+      "term_start": "1 ต.ค. 2549",
+      "term_end": "29 ม.ค. 2551",
+      "duration": "1 ปี 4 เดือน",
+      "party_th": "อิสระ"
+    },
+    {
+      "order": 25,
+      "name_th": "สมัคร สุนทรเวช",
+      "name_en": "Samak Sundaravej",
+      "term_start": "29 ม.ค. 2551",
+      "term_end": "9 ก.ย. 2551",
+      "duration": "7 เดือน 14 วัน",
+      "party_th": "พรรคพลังประชาชน"
+    },
+    {
+      "order": 26,
+      "name_th": "สมชาย วงศ์สวัสดิ์",
+      "name_en": "Somchai Wongsawat",
+      "term_start": "18 ก.ย. 2551",
+      "term_end": "2 ธ.ค. 2551",
+      "duration": "2 เดือน 15 วัน",
+      "party_th": "พรรคพลังประชาชน"
+    },
+    {
+      "order": 27,
+      "name_th": "อภิสิทธิ์ เวชชาชีวะ",
+      "name_en": "Abhisit Vejjajiva",
+      "term_start": "17 ธ.ค. 2551",
+      "term_end": "5 ส.ค. 2554",
+      "duration": "2 ปี 7 เดือน",
+      "party_th": "พรรคประชาธิปัตย์"
+    },
+    {
+      "order": 28,
+      "name_th": "ยิ่งลักษณ์ ชินวัตร",
+      "name_en": "Yingluck Shinawatra",
+      "term_start": "5 ส.ค. 2554",
+      "term_end": "7 พ.ค. 2557",
+      "duration": "2 ปี 9 เดือน",
+      "party_th": "พรรคเพื่อไทย"
+    },
+    {
+      "order": 29,
+      "name_th": "พล.อ. ประยุทธ์ จันทร์โอชา",
+      "name_en": "Prayut Chan-o-cha",
+      "term_start": "25 ส.ค. 2557",
+      "term_end": "22 ส.ค. 2566",
+      "duration": "8 ปี 12 เดือน",
+      "party_th": "พรรคพลังประชารัฐ/รวมไทยสร้างชาติ"
+    },
+    {
+      "order": 30,
+      "name_th": "เศรษฐา ทวีสิน",
+      "name_en": "Srettha Thavisin",
+      "term_start": "22 ส.ค. 2566",
+      "term_end": "14 ส.ค. 2567",
+      "duration": "11 เดือน 28 วัน",
+      "party_th": "พรรคเพื่อไทย"
+    },
+    {
+      "order": 31,
+      "name_th": "แพทองธาร ชินวัตร",
+      "name_en": "Paetongtarn Shinawatra",
+      "term_start": "18 ส.ค. 2567",
+      "term_end": "7 ก.ย. 2568",
+      "duration": "1 ปี 0 เดือน",
+      "party_th": "พรรคเพื่อไทย"
+    },
+    {
+      "order": 32,
+      "name_th": "อนุทิน ชาญวีรกูล",
+      "name_en": "Anutin Charnvirakul",
+      "term_start": "7 ก.ย. 2568",
+      "term_end": "ปัจจุบัน",
+      "duration": "5 เดือน 17 วัน",
+      "party_th": "พรรคภูมิใจไทย"
+    }
+  ],
+  "record_count": 32,
+  "title": "รายชื่อนายกรัฐมนตรีไทย",
+  "description": "รายชื่อนายกรัฐมนตรีไทยทั้งหมด 32 คน ตั้งแต่ พ.ศ. 2475 จนถึงปัจจุบัน พร้อมวันที่ดำรงตำแหน่ง ระยะเวลา และพรรคการเมือง",
+  "meta": {
+    "title": "รายชื่อนายกรัฐมนตรีไทย",
+    "description": "รายชื่อนายกรัฐมนตรีไทยทั้งหมด 32 คน ตั้งแต่ พ.ศ. 2475 จนถึงปัจจุบัน พร้อมวันที่ดำรงตำแหน่ง ระยะเวลา และพรรคการเมือง",
+    "seo_title": "รายชื่อนายกรัฐมนตรีไทย - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download 32 รายชื่อนายกรัฐมนตรีไทย records. Free in Excel, CSV, and PDF formats.",
+    "key_takeaways": [
+      "Access 32 complete records",
+      "Includes: ลำดับ, ชื่อ, Name",
+      "Download in Excel, CSV, or PDF format",
+      "Free for personal and commercial use"
+    ]
+  }
+}

@@ -1,0 +1,769 @@
+{
+  "id": "lang-english-pronouns",
+  "name": "ชุดข้อมูลตารางการจำแนกคำสรรพนามภาษาอังกฤษ",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pronoun",
+      "label": "Pronoun",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "case",
+      "label": "Case (EN)",
+      "type": "string"
+    },
+    {
+      "key": "person",
+      "label": "Person (EN)",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number (EN)",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender (EN)",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pronoun": "I",
+      "type": "บุรุษสรรพนาม",
+      "case": "ประธาน",
+      "person": "บุรุษที่หนึ่ง",
+      "number": "เอกพจน์",
+      "gender": "กลาง",
+      "example": "I am happy.",
+      "function": "ประธานของกริยา"
+    },
+    {
+      "pronoun": "you",
+      "type": "บุรุษสรรพนาม",
+      "case": "ประธาน",
+      "person": "บุรุษที่สอง",
+      "number": "เอกพจน์/พหูพจน์",
+      "gender": "กลาง",
+      "example": "You are kind.",
+      "function": "ประธานของกริยา"
+    },
+    {
+      "pronoun": "he",
+      "type": "บุรุษสรรพนาม",
+      "case": "ประธาน",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศชาย",
+      "example": "He runs fast.",
+      "function": "ประธานของกริยา"
+    },
+    {
+      "pronoun": "she",
+      "type": "บุรุษสรรพนาม",
+      "case": "ประธาน",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศหญิง",
+      "example": "She sings well.",
+      "function": "ประธานของกริยา"
+    },
+    {
+      "pronoun": "it",
+      "type": "บุรุษสรรพนาม",
+      "case": "ประธาน",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "กลาง",
+      "example": "It is raining.",
+      "function": "ประธานของกริยา"
+    },
+    {
+      "pronoun": "we",
+      "type": "บุรุษสรรพนาม",
+      "case": "ประธาน",
+      "person": "บุรุษที่หนึ่ง",
+      "number": "พหูพจน์",
+      "gender": "กลาง",
+      "example": "We are friends.",
+      "function": "ประธานของกริยา"
+    },
+    {
+      "pronoun": "they",
+      "type": "บุรุษสรรพนาม",
+      "case": "ประธาน",
+      "person": "บุรุษที่สาม",
+      "number": "พหูพจน์",
+      "gender": "กลาง",
+      "example": "They work hard.",
+      "function": "ประธานของกริยา"
+    },
+    {
+      "pronoun": "me",
+      "type": "บุรุษสรรพนาม",
+      "case": "กรรม",
+      "person": "บุรุษที่หนึ่ง",
+      "number": "เอกพจน์",
+      "gender": "กลาง",
+      "example": "She called me.",
+      "function": "กรรมของกริยา/คำบุพบท"
+    },
+    {
+      "pronoun": "you",
+      "type": "บุรุษสรรพนาม",
+      "case": "กรรม",
+      "person": "บุรุษที่สอง",
+      "number": "เอกพจน์/พหูพจน์",
+      "gender": "กลาง",
+      "example": "I saw you.",
+      "function": "กรรมของกริยา/คำบุพบท"
+    },
+    {
+      "pronoun": "him",
+      "type": "บุรุษสรรพนาม",
+      "case": "กรรม",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศชาย",
+      "example": "We helped him.",
+      "function": "กรรมของกริยา/คำบุพบท"
+    },
+    {
+      "pronoun": "her",
+      "type": "บุรุษสรรพนาม",
+      "case": "กรรม",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศหญิง",
+      "example": "They met her.",
+      "function": "กรรมของกริยา/คำบุพบท"
+    },
+    {
+      "pronoun": "it",
+      "type": "บุรุษสรรพนาม",
+      "case": "กรรม",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "กลาง",
+      "example": "I found it.",
+      "function": "กรรมของกริยา/คำบุพบท"
+    },
+    {
+      "pronoun": "us",
+      "type": "บุรุษสรรพนาม",
+      "case": "กรรม",
+      "person": "บุรุษที่หนึ่ง",
+      "number": "พหูพจน์",
+      "gender": "กลาง",
+      "example": "She joined us.",
+      "function": "กรรมของกริยา/คำบุพบท"
+    },
+    {
+      "pronoun": "them",
+      "type": "บุรุษสรรพนาม",
+      "case": "กรรม",
+      "person": "บุรุษที่สาม",
+      "number": "พหูพจน์",
+      "gender": "กลาง",
+      "example": "We invited them.",
+      "function": "กรรมของกริยา/คำบุพบท"
+    },
+    {
+      "pronoun": "my",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "คุณศัพท์",
+      "person": "บุรุษที่หนึ่ง",
+      "number": "เอกพจน์",
+      "gender": "กลาง",
+      "example": "This is my book.",
+      "function": "ขยายคำนาม"
+    },
+    {
+      "pronoun": "your",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "คุณศัพท์",
+      "person": "บุรุษที่สอง",
+      "number": "เอกพจน์/พหูพจน์",
+      "gender": "กลาง",
+      "example": "Is this your car?",
+      "function": "ขยายคำนาม"
+    },
+    {
+      "pronoun": "his",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "คุณศัพท์",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศชาย",
+      "example": "That is his phone.",
+      "function": "ขยายคำนาม"
+    },
+    {
+      "pronoun": "her",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "คุณศัพท์",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศหญิง",
+      "example": "I like her dress.",
+      "function": "ขยายคำนาม"
+    },
+    {
+      "pronoun": "its",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "คุณศัพท์",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "กลาง",
+      "example": "The dog wagged its tail.",
+      "function": "ขยายคำนาม"
+    },
+    {
+      "pronoun": "our",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "คุณศัพท์",
+      "person": "บุรุษที่หนึ่ง",
+      "number": "พหูพจน์",
+      "gender": "กลาง",
+      "example": "This is our house.",
+      "function": "ขยายคำนาม"
+    },
+    {
+      "pronoun": "their",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "คุณศัพท์",
+      "person": "ที่สาม",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "They lost their keys.",
+      "function": "ขยายคำนาม"
+    },
+    {
+      "pronoun": "mine",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "อิสระ",
+      "person": "ที่หนึ่ง",
+      "number": "เอกพจน์",
+      "gender": "เป็นกลาง",
+      "example": "This book is mine.",
+      "function": "แทนวลีคำนาม"
+    },
+    {
+      "pronoun": "yours",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "อิสระ",
+      "person": "ที่สอง",
+      "number": "เอกพจน์/พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "Is this car yours?",
+      "function": "แทนวลีคำนาม"
+    },
+    {
+      "pronoun": "his",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "อิสระ",
+      "person": "ที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศชาย",
+      "example": "The phone is his.",
+      "function": "แทนวลีคำนาม"
+    },
+    {
+      "pronoun": "hers",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "อิสระ",
+      "person": "ที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศหญิง",
+      "example": "The dress is hers.",
+      "function": "แทนวลีคำนาม"
+    },
+    {
+      "pronoun": "its",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "อิสระ",
+      "person": "ที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศกลาง",
+      "example": "The responsibility is its.",
+      "function": "แทนวลีคำนาม"
+    },
+    {
+      "pronoun": "ours",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "อิสระ",
+      "person": "ที่หนึ่ง",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "The house is ours.",
+      "function": "แทนวลีคำนาม"
+    },
+    {
+      "pronoun": "theirs",
+      "type": "แสดงความเป็นเจ้าของ",
+      "case": "อิสระ",
+      "person": "ที่สาม",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "The car is theirs.",
+      "function": "แทนวลีคำนาม"
+    },
+    {
+      "pronoun": "myself",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่หนึ่ง",
+      "number": "เอกพจน์",
+      "gender": "เป็นกลาง",
+      "example": "I hurt myself.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "yourself",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่สอง",
+      "number": "เอกพจน์",
+      "gender": "เป็นกลาง",
+      "example": "You should believe in yourself.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "himself",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศชาย",
+      "example": "He taught himself.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "herself",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศหญิง",
+      "example": "She introduced herself.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "itself",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่สาม",
+      "number": "เอกพจน์",
+      "gender": "เพศกลาง",
+      "example": "The cat cleaned itself.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "ourselves",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่หนึ่ง",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "We enjoyed ourselves.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "yourselves",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่สอง",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "Help yourselves.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "themselves",
+      "type": "สะท้อน",
+      "case": "สะท้อน",
+      "person": "ที่สาม",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "They blamed themselves.",
+      "function": "กรรมอ้างถึงประธาน"
+    },
+    {
+      "pronoun": "this",
+      "type": "นิยม",
+      "case": "-",
+      "person": "-",
+      "number": "เอกพจน์",
+      "gender": "เป็นกลาง",
+      "example": "This is delicious.",
+      "function": "ชี้ถึงวัตถุใกล้"
+    },
+    {
+      "pronoun": "that",
+      "type": "นิยม",
+      "case": "-",
+      "person": "-",
+      "number": "เอกพจน์",
+      "gender": "เป็นกลาง",
+      "example": "That is beautiful.",
+      "function": "ชี้ถึงวัตถุไกล"
+    },
+    {
+      "pronoun": "these",
+      "type": "นิยม",
+      "case": "-",
+      "person": "-",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "These are my books.",
+      "function": "ชี้ถึงวัตถุหลายชิ้นที่อยู่ใกล้"
+    },
+    {
+      "pronoun": "those",
+      "type": "นิยม",
+      "case": "-",
+      "person": "-",
+      "number": "พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "Those are expensive.",
+      "function": "ชี้ถึงวัตถุหลายชิ้นที่อยู่ไกล"
+    },
+    {
+      "pronoun": "who",
+      "type": "สรรพนามคำถาม",
+      "case": "ประธาน",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล",
+      "example": "Who called?",
+      "function": "ถามเกี่ยวกับบุคคล (ประธาน)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "สรรพนามคำถาม",
+      "case": "กรรม",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล",
+      "example": "Whom did you call?",
+      "function": "ถามเกี่ยวกับบุคคล (กรรม)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "สรรพนามคำถาม",
+      "case": "แสดงความเป็นเจ้าของ",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล",
+      "example": "Whose is this?",
+      "function": "ถามเกี่ยวกับการเป็นเจ้าของ"
+    },
+    {
+      "pronoun": "what",
+      "type": "สรรพนามคำถาม",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "สิ่งของ",
+      "example": "What happened?",
+      "function": "ถามเกี่ยวกับสิ่งของ/การกระทำ"
+    },
+    {
+      "pronoun": "which",
+      "type": "สรรพนามคำถาม",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล/สิ่งของ",
+      "example": "Which do you prefer?",
+      "function": "ถามเพื่อเลือก"
+    },
+    {
+      "pronoun": "who",
+      "type": "สรรพนามเชื่อม",
+      "case": "ประธาน",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล",
+      "example": "The man who called is here.",
+      "function": "แนะนำอนุประโยคย่อย (ประธาน)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "สรรพนามเชื่อม",
+      "case": "กรรม",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล",
+      "example": "The person whom I met was kind.",
+      "function": "แนะนำอนุประโยคย่อย (กรรม)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "สรรพนามเชื่อม",
+      "case": "แสดงความเป็นเจ้าของ",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล/สิ่งของ",
+      "example": "The author whose book I read.",
+      "function": "แสดงความเป็นเจ้าของในอนุประโยคย่อย"
+    },
+    {
+      "pronoun": "which",
+      "type": "สรรพนามเชื่อม",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "สิ่งของ",
+      "example": "The book which I read was good.",
+      "function": "แนะนำอนุประโยคย่อย (สิ่งของ)"
+    },
+    {
+      "pronoun": "that",
+      "type": "สรรพนามเชื่อม",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "บุคคล/สิ่งของ",
+      "example": "The house that Jack built.",
+      "function": "แนะนำอนุประโยคย่อยจำกัดความ"
+    },
+    {
+      "pronoun": "anyone",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "บุคคล",
+      "example": "Anyone can join.",
+      "function": "อ้างถึงบุคคลใดบุคคลหนึ่ง"
+    },
+    {
+      "pronoun": "everyone",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "บุคคล",
+      "example": "Everyone is welcome.",
+      "function": "อ้างถึงทุกคน"
+    },
+    {
+      "pronoun": "someone",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "บุคคล",
+      "example": "Someone called you.",
+      "function": "อ้างถึงบุคคลที่ไม่ระบุ"
+    },
+    {
+      "pronoun": "no one",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "บุคคล",
+      "example": "No one was there.",
+      "function": "อ้างถึงไม่มีบุคคลใด"
+    },
+    {
+      "pronoun": "anything",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "สิ่งของ",
+      "example": "Is there anything to eat?",
+      "function": "อ้างถึงสิ่งของใดสิ่งของหนึ่ง"
+    },
+    {
+      "pronoun": "everything",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "สิ่งของ",
+      "example": "Everything is ready.",
+      "function": "อ้างถึงทุกสิ่ง"
+    },
+    {
+      "pronoun": "something",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "สิ่งของ",
+      "example": "I heard something.",
+      "function": "อ้างถึงสิ่งของที่ไม่ระบุ"
+    },
+    {
+      "pronoun": "nothing",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "สิ่งของ",
+      "example": "Nothing happened.",
+      "function": "อ้างถึงไม่มีสิ่งของใด"
+    },
+    {
+      "pronoun": "all",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์/พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "All are welcome.",
+      "function": "อ้างถึงปริมาณทั้งหมด"
+    },
+    {
+      "pronoun": "some",
+      "type": "สรรพนามไม่ชี้เฉพาะ",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์/พหูพจน์",
+      "gender": "เป็นกลาง",
+      "example": "Some are missing.",
+      "function": "อ้างถึงบางส่วนของปริมาณ"
+    },
+    {
+      "pronoun": "none",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์/พหูพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "None were found.",
+      "function": "อ้างถึงปริมาณศูนย์"
+    },
+    {
+      "pronoun": "both",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "พหูพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "Both are correct.",
+      "function": "อ้างถึงสองสิ่งพร้อมกัน"
+    },
+    {
+      "pronoun": "each",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "Each has a role.",
+      "function": "อ้างถึงบุคคล"
+    },
+    {
+      "pronoun": "either",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "Either will work.",
+      "function": "อ้างถึงสิ่งหนึ่งจากสองสิ่ง"
+    },
+    {
+      "pronoun": "neither",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "Neither is correct.",
+      "function": "อ้างถึงไม่มีสิ่งใดจากสองสิ่ง"
+    },
+    {
+      "pronoun": "few",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "พหูพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "Few attended.",
+      "function": "อ้างถึงจำนวนน้อย"
+    },
+    {
+      "pronoun": "many",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "พหูพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "Many have tried.",
+      "function": "อ้างถึงจำนวนมาก"
+    },
+    {
+      "pronoun": "several",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "พหูพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "Several are broken.",
+      "function": "อ้างถึงมากกว่าสอง"
+    },
+    {
+      "pronoun": "one",
+      "type": "ไม่เจาะจง",
+      "case": "-",
+      "person": "บุรุษที่สาม",
+      "number": "เอกพจน์",
+      "gender": "ไม่ระบุเพศ",
+      "example": "One must be careful.",
+      "function": "อ้างถึงบุคคลใด ๆ (ทางการ)"
+    }
+  ],
+  "meta": {
+    "seo_title": "ตารางคำสรรพนามภาษาอังกฤษ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดชุดข้อมูลตารางคำสรรพนามภาษาอังกฤษที่ครอบคลุม 69 รายการ ครอบคลุมประเภท กรณี บุคคล เพศ และตัวอย่าง ดาวน์โหลดฟรีใน Excel, CSV, PDF.",
+    "title": "ชุดข้อมูลตารางการจำแนกคำสรรพนามภาษาอังกฤษ",
+    "description": "ชุดข้อมูลนี้ให้การจำแนกคำสรรพนามภาษาอังกฤษ 69 คำอย่างละเอียด รวมถึงประเภท กรณีทางไวยากรณ์ บุคคล พจน์ เพศ ประโยคตัวอย่าง และหน้าที่การใช้งาน เป็นแหล่งข้อมูลสำคัญสำหรับนักภาษาศาสตร์ นักการศึกษา และผู้เรียนภาษา.",
+    "key_takeaways": [
+      "เข้าถึงรายการคำสรรพนามภาษาอังกฤษ 69 คำพร้อมคุณลักษณะทางไวยากรณ์โดยละเอียด",
+      "สำรวจประเภทคำสรรพนาม กรณี บุคคล พจน์ เพศ และหน้าที่การใช้งาน",
+      "ดาวน์โหลดประโยคตัวอย่างเพื่อความเข้าใจการใช้คำสรรพนามในทางปฏิบัติ",
+      "ใช้ประโยชน์จากข้อมูลที่มีโครงสร้างสำหรับการวิเคราะห์ภาษาและการสร้างสื่อการศึกษา"
+    ],
+    "keywords": [
+      "คำสรรพนามภาษาอังกฤษ",
+      "ตารางคำสรรพนาม",
+      "ไวยากรณ์ภาษาอังกฤษ excel",
+      "ประเภทคำสรรพนาม",
+      "ตัวอย่างคำสรรพนาม csv",
+      "ดาวน์โหลดคำสรรพนาม"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อสร้างเครื่องมือวิเคราะห์คำสรรพนามหรือ API.",
+      "ใช้ไฟล์ **Excel** เพื่อกรองคำสรรพนามตามประเภท กรณี หรือเพศ สร้าง Pivot Tables สำหรับการวิเคราะห์ทางสถิติ หรือจัดทำรายงานไวยากรณ์.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับการอ้างอิงในห้องเรียน เอกสารประกอบการเรียนภาษา หรือเป็นคู่มือออฟไลน์ฉบับย่อสำหรับคำสรรพนามภาษาอังกฤษ.",
+      "ผสานรวมชุดข้อมูลที่มีโครงสร้างนี้เข้ากับซอฟต์แวร์การศึกษาหรือแพลตฟอร์มอีเลิร์นนิงเพื่อเพิ่มบทเรียนไวยากรณ์ภาษาอังกฤษ."
+    ]
+  },
+  "record_count": 69,
+  "title": "ชุดข้อมูลตารางการจำแนกคำสรรพนามภาษาอังกฤษ"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "reference-indonesian-presidents",
+  "name": "รายชื่อประธานาธิบดีอินโดนีเซีย",
+  "title": "รายชื่อประธานาธิบดีอินโดนีเซีย",
+  "description": "รายชื่อประธานาธิบดีของประเทศอินโดนีเซีย พร้อมข้อมูลลำดับ ชื่อ วันที่เข้ารับตำแหน่ง วันที่พ้นจากตำแหน่ง และพรรคการเมืองที่สังกัด",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%99%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2",
+  "updated": "2024-07-29",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "order",
+      "label": "#",
+      "type": "number"
+    },
+    {
+      "key": "president_name_th",
+      "label": "ประธานาธิบดี",
+      "type": "string"
+    },
+    {
+      "key": "term_start_date",
+      "label": "รับตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "term_end_date",
+      "label": "พ้นตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "party_th",
+      "label": "พรรค",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "president_name_th": "ซูการ์โน",
+      "term_start_date": "18 สิงหาคม พ.ศ. 2488",
+      "term_end_date": "12 มีนาคม พ.ศ. 2510",
+      "party_th": ""
+    },
+    {
+      "order": 2,
+      "president_name_th": "ซูฮาร์โต",
+      "term_start_date": "12 มีนาคม พ.ศ. 2510",
+      "term_end_date": "21 พฤษภาคม พ.ศ. 2541",
+      "party_th": "โกลการ์"
+    },
+    {
+      "order": 3,
+      "president_name_th": "บาคารุดดิน ยูซุฟ ฮาบีบี",
+      "term_start_date": "21 พฤษภาคม พ.ศ. 2541",
+      "term_end_date": "20 ตุลาคม พ.ศ. 2542",
+      "party_th": "โกลการ์"
+    },
+    {
+      "order": 4,
+      "president_name_th": "อับดูร์ระฮ์มัน วาฮิด",
+      "term_start_date": "20 ตุลาคม พ.ศ. 2542",
+      "term_end_date": "23 กรกฎาคม พ.ศ. 2544",
+      "party_th": "พรรคการตื่นตัวแห่งชาติ"
+    },
+    {
+      "order": 5,
+      "president_name_th": "เมกาวาตี ซูการ์โนปูตรี",
+      "term_start_date": "23 กรกฎาคม พ.ศ. 2544",
+      "term_end_date": "20 ตุลาคม พ.ศ. 2547",
+      "party_th": "พรรคประชาธิปไตยอินโดนีเซีย-การต่อสู้"
+    },
+    {
+      "order": 6,
+      "president_name_th": "ซูซีโล บัมบัง ยูโดโยโน",
+      "term_start_date": "20 ตุลาคม พ.ศ. 2547",
+      "term_end_date": "20 ตุลาคม พ.ศ. 2557",
+      "party_th": "ประชาธิปไตยอินโดนีเซีย"
+    },
+    {
+      "order": 7,
+      "president_name_th": "โจโก วีโดโด",
+      "term_start_date": "20 ตุลาคม พ.ศ. 2557",
+      "term_end_date": "20 ตุลาคม พ.ศ. 2567",
+      "party_th": "พรรคประชาธิปไตยอินโดนีเซีย-การต่อสู้"
+    },
+    {
+      "order": 8,
+      "president_name_th": "ปราโบโว ซูบียันโต",
+      "term_start_date": "20 ตุลาคม พ.ศ. 2567",
+      "term_end_date": "ปัจจุบัน",
+      "party_th": "พรรคขบวนการอินโดนีเซียยิ่งใหญ่"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประธานาธิบดีอินโดนีเซีย",
+    "description": "รายชื่อประธานาธิบดีของประเทศอินโดนีเซีย พร้อมข้อมูลลำดับ ชื่อ วันที่เข้ารับตำแหน่ง วันที่พ้นจากตำแหน่ง และพรรคการเมืองที่สังกัด",
+    "seo_title": "รายชื่อประธานาธิบดีอินโดนีเซีย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 8 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 8 รายการครบถ้วน",
+      "รวม: ลำดับ, ชื่อ, วันที่เข้ารับตำแหน่ง, วันที่พ้นจากตำแหน่ง, พรรค",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

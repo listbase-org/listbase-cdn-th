@@ -1,0 +1,575 @@
+{
+  "id": "tech-port-numbers",
+  "name": "ชุดข้อมูลหมายเลขพอร์ตเครือข่ายและบริการทั่วไป",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "number"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "service",
+      "label": "Service (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": 20,
+      "protocol": "TCP",
+      "service": "ข้อมูล FTP",
+      "category": "การถ่ายโอนไฟล์",
+      "description": "โปรโตคอลการถ่ายโอนไฟล์ - การถ่ายโอนข้อมูล"
+    },
+    {
+      "port": 21,
+      "protocol": "TCP",
+      "service": "การควบคุม FTP",
+      "category": "การถ่ายโอนไฟล์",
+      "description": "โปรโตคอลการถ่ายโอนไฟล์ - คำสั่ง/การควบคุม"
+    },
+    {
+      "port": 22,
+      "protocol": "TCP",
+      "service": "SSH",
+      "category": "การเข้าถึงระยะไกล",
+      "description": "Secure Shell - การเข้าสู่ระบบระยะไกลที่เข้ารหัส"
+    },
+    {
+      "port": 23,
+      "protocol": "TCP",
+      "service": "Telnet",
+      "category": "การเข้าถึงระยะไกล",
+      "description": "Telnet - การเข้าสู่ระบบระยะไกลที่ไม่เข้ารหัส (เก่า)"
+    },
+    {
+      "port": 25,
+      "protocol": "TCP",
+      "service": "SMTP",
+      "category": "อีเมล",
+      "description": "โปรโตคอลการถ่ายโอนเมลอย่างง่าย - การส่งอีเมล"
+    },
+    {
+      "port": 53,
+      "protocol": "TCP/UDP",
+      "service": "DNS",
+      "category": "เครือข่าย",
+      "description": "ระบบชื่อโดเมน - การแปลงชื่อโฮสต์"
+    },
+    {
+      "port": 67,
+      "protocol": "UDP",
+      "service": "เซิร์ฟเวอร์ DHCP",
+      "category": "เครือข่าย",
+      "description": "โปรโตคอลการกำหนดค่าโฮสต์แบบไดนามิก - เซิร์ฟเวอร์"
+    },
+    {
+      "port": 68,
+      "protocol": "UDP",
+      "service": "ไคลเอนต์ DHCP",
+      "category": "เครือข่าย",
+      "description": "โปรโตคอลการกำหนดค่าโฮสต์แบบไดนามิก - ไคลเอนต์"
+    },
+    {
+      "port": 69,
+      "protocol": "UDP",
+      "service": "TFTP",
+      "category": "การถ่ายโอนไฟล์",
+      "description": "โปรโตคอลการถ่ายโอนไฟล์อย่างง่าย"
+    },
+    {
+      "port": 80,
+      "protocol": "TCP",
+      "service": "HTTP",
+      "category": "เว็บ",
+      "description": "โปรโตคอลการถ่ายโอนข้อความหลายมิติ - การจราจรบนเว็บ"
+    },
+    {
+      "port": 110,
+      "protocol": "TCP",
+      "service": "POP3",
+      "category": "อีเมล",
+      "description": "โปรโตคอลไปรษณีย์ v3 - การรับอีเมล"
+    },
+    {
+      "port": 119,
+      "protocol": "TCP",
+      "service": "NNTP",
+      "category": "ข่าว",
+      "description": "โปรโตคอลการถ่ายโอนข่าวเครือข่าย"
+    },
+    {
+      "port": 123,
+      "protocol": "UDP",
+      "service": "NTP",
+      "category": "เครือข่าย",
+      "description": "โปรโตคอลเวลาเครือข่าย - การซิงค์เวลา"
+    },
+    {
+      "port": 135,
+      "protocol": "TCP",
+      "service": "RPC",
+      "category": "วินโดวส์",
+      "description": "ตัวแมปปลายทาง Microsoft RPC"
+    },
+    {
+      "port": 137,
+      "protocol": "UDP",
+      "service": "NetBIOS-NS",
+      "category": "วินโดวส์",
+      "description": "บริการชื่อ NetBIOS"
+    },
+    {
+      "port": 138,
+      "protocol": "UDP",
+      "service": "NetBIOS-DGM",
+      "category": "วินโดวส์",
+      "description": "บริการดาตาแกรม NetBIOS"
+    },
+    {
+      "port": 139,
+      "protocol": "TCP",
+      "service": "NetBIOS-SSN",
+      "category": "วินโดวส์",
+      "description": "บริการเซสชัน NetBIOS"
+    },
+    {
+      "port": 143,
+      "protocol": "TCP",
+      "service": "IMAP",
+      "category": "อีเมล",
+      "description": "โปรโตคอลการเข้าถึงข้อความอินเทอร์เน็ต"
+    },
+    {
+      "port": 161,
+      "protocol": "UDP",
+      "service": "SNMP",
+      "category": "เครือข่าย",
+      "description": "โปรโตคอลการจัดการเครือข่ายอย่างง่าย"
+    },
+    {
+      "port": 162,
+      "protocol": "UDP",
+      "service": "SNMP Trap",
+      "category": "เครือข่าย",
+      "description": "SNMP Trap - การแจ้งเตือน"
+    },
+    {
+      "port": 179,
+      "protocol": "TCP",
+      "service": "BGP",
+      "category": "เครือข่าย",
+      "description": "โปรโตคอล Border Gateway - การกำหนดเส้นทาง"
+    },
+    {
+      "port": 194,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "แชท",
+      "description": "อินเทอร์เน็ต รีเลย์ แชท"
+    },
+    {
+      "port": 389,
+      "protocol": "TCP",
+      "service": "LDAP",
+      "category": "ไดเรกทอรี",
+      "description": "โปรโตคอลการเข้าถึงไดเรกทอรีแบบ Lightweight"
+    },
+    {
+      "port": 443,
+      "protocol": "TCP",
+      "service": "HTTPS",
+      "category": "เว็บ",
+      "description": "HTTP Secure - การรับส่งข้อมูลเว็บที่เข้ารหัส"
+    },
+    {
+      "port": 445,
+      "protocol": "TCP",
+      "service": "SMB",
+      "category": "การแชร์ไฟล์",
+      "description": "Server Message Block - การแชร์ไฟล์ Windows"
+    },
+    {
+      "port": 465,
+      "protocol": "TCP",
+      "service": "SMTPS",
+      "category": "อีเมล",
+      "description": "SMTP ผ่าน SSL (เลิกใช้แล้ว, ใช้พอร์ต 587)"
+    },
+    {
+      "port": 500,
+      "protocol": "UDP",
+      "service": "IKE",
+      "category": "VPN",
+      "description": "Internet Key Exchange - VPN แบบ IPsec"
+    },
+    {
+      "port": 514,
+      "protocol": "UDP",
+      "service": "Syslog",
+      "category": "การบันทึกข้อมูล",
+      "description": "โปรโตคอลการบันทึกระบบ"
+    },
+    {
+      "port": 515,
+      "protocol": "TCP",
+      "service": "LPD",
+      "category": "การพิมพ์",
+      "description": "Line Printer Daemon - การพิมพ์"
+    },
+    {
+      "port": 520,
+      "protocol": "UDP",
+      "service": "RIP",
+      "category": "เครือข่าย",
+      "description": "โปรโตคอลข้อมูลการกำหนดเส้นทาง"
+    },
+    {
+      "port": 546,
+      "protocol": "UDP",
+      "service": "DHCPv6 ไคลเอนต์",
+      "category": "เครือข่าย",
+      "description": "DHCP สำหรับ IPv6 - ไคลเอนต์"
+    },
+    {
+      "port": 547,
+      "protocol": "UDP",
+      "service": "DHCPv6 เซิร์ฟเวอร์",
+      "category": "เครือข่าย",
+      "description": "DHCP สำหรับ IPv6 - เซิร์ฟเวอร์"
+    },
+    {
+      "port": 587,
+      "protocol": "TCP",
+      "service": "การส่งอีเมล SMTP",
+      "category": "อีเมล",
+      "description": "การส่งอีเมล (แนะนำสำหรับการส่ง)"
+    },
+    {
+      "port": 636,
+      "protocol": "TCP",
+      "service": "LDAPS",
+      "category": "ไดเรกทอรี",
+      "description": "LDAP ผ่าน SSL/TLS"
+    },
+    {
+      "port": 993,
+      "protocol": "TCP",
+      "service": "IMAPS",
+      "category": "อีเมล",
+      "description": "IMAP ผ่าน SSL/TLS"
+    },
+    {
+      "port": 995,
+      "protocol": "TCP",
+      "service": "POP3S",
+      "category": "อีเมล",
+      "description": "POP3 ผ่าน SSL/TLS"
+    },
+    {
+      "port": 1080,
+      "protocol": "TCP",
+      "service": "SOCKS",
+      "category": "พร็อกซี",
+      "description": "โปรโตคอลพร็อกซี SOCKS"
+    },
+    {
+      "port": 1194,
+      "protocol": "UDP",
+      "service": "OpenVPN",
+      "category": "VPN",
+      "description": "พอร์ตเริ่มต้นของ OpenVPN"
+    },
+    {
+      "port": 1433,
+      "protocol": "TCP",
+      "service": "MSSQL",
+      "category": "ฐานข้อมูล",
+      "description": "Microsoft SQL Server"
+    },
+    {
+      "port": 1434,
+      "protocol": "UDP",
+      "service": "เบราว์เซอร์ MSSQL",
+      "category": "ฐานข้อมูล",
+      "description": "บริการเบราว์เซอร์ SQL Server"
+    },
+    {
+      "port": 1521,
+      "protocol": "TCP",
+      "service": "Oracle DB",
+      "category": "ฐานข้อมูล",
+      "description": "โปรแกรมฟังคำสั่งฐานข้อมูล Oracle"
+    },
+    {
+      "port": 1723,
+      "protocol": "TCP",
+      "service": "PPTP",
+      "category": "VPN",
+      "description": "โปรโตคอลการสร้างอุโมงค์แบบจุดต่อจุด"
+    },
+    {
+      "port": 1883,
+      "protocol": "TCP",
+      "service": "MQTT",
+      "category": "IoT",
+      "description": "การขนส่งข้อมูลระยะไกลแบบคิวข้อความ"
+    },
+    {
+      "port": 2049,
+      "protocol": "TCP/UDP",
+      "service": "NFS",
+      "category": "การแชร์ไฟล์",
+      "description": "ระบบไฟล์เครือข่าย"
+    },
+    {
+      "port": 2082,
+      "protocol": "TCP",
+      "service": "cPanel",
+      "category": "เว็บโฮสติ้ง",
+      "description": "พอร์ตเริ่มต้นของ cPanel"
+    },
+    {
+      "port": 2083,
+      "protocol": "TCP",
+      "service": "cPanel SSL",
+      "category": "เว็บโฮสติ้ง",
+      "description": "cPanel ผ่าน SSL"
+    },
+    {
+      "port": 2181,
+      "protocol": "TCP",
+      "service": "ZooKeeper",
+      "category": "แบบกระจาย",
+      "description": "Apache ZooKeeper"
+    },
+    {
+      "port": 2375,
+      "protocol": "TCP",
+      "service": "Docker",
+      "category": "คอนเทนเนอร์",
+      "description": "Docker REST API (ไม่ได้เข้ารหัส)"
+    },
+    {
+      "port": 2376,
+      "protocol": "TCP",
+      "service": "Docker TLS",
+      "category": "คอนเทนเนอร์",
+      "description": "Docker REST API (TLS)"
+    },
+    {
+      "port": 3000,
+      "protocol": "TCP",
+      "service": "Dev Server",
+      "category": "การพัฒนา",
+      "description": "เซิร์ฟเวอร์สำหรับนักพัฒนา Node.js/React/Rails"
+    },
+    {
+      "port": 3306,
+      "protocol": "TCP",
+      "service": "MySQL",
+      "category": "ฐานข้อมูล",
+      "description": "ฐานข้อมูล MySQL/MariaDB"
+    },
+    {
+      "port": 3389,
+      "protocol": "TCP",
+      "service": "RDP",
+      "category": "การเข้าถึงระยะไกล",
+      "description": "โปรโตคอลเดสก์ท็อประยะไกล (Windows)"
+    },
+    {
+      "port": 4443,
+      "protocol": "TCP",
+      "service": "Pharos",
+      "category": "เว็บ",
+      "description": "พอร์ต HTTPS ทางเลือก"
+    },
+    {
+      "port": 5000,
+      "protocol": "TCP",
+      "service": "Flask/UPnP",
+      "category": "การพัฒนา",
+      "description": "Python Flask / การค้นหา UPnP"
+    },
+    {
+      "port": 5432,
+      "protocol": "TCP",
+      "service": "PostgreSQL",
+      "category": "ฐานข้อมูล",
+      "description": "ฐานข้อมูล PostgreSQL"
+    },
+    {
+      "port": 5672,
+      "protocol": "TCP",
+      "service": "AMQP",
+      "category": "การส่งข้อความ",
+      "description": "พอร์ตเริ่มต้นของ RabbitMQ"
+    },
+    {
+      "port": 5900,
+      "protocol": "TCP",
+      "service": "VNC",
+      "category": "การเข้าถึงระยะไกล",
+      "description": "การประมวลผลเครือข่ายเสมือน"
+    },
+    {
+      "port": 6379,
+      "protocol": "TCP",
+      "service": "Redis",
+      "category": "ฐานข้อมูล",
+      "description": "ฐานข้อมูลในหน่วยความจำ Redis"
+    },
+    {
+      "port": 6443,
+      "protocol": "TCP",
+      "service": "Kubernetes API",
+      "category": "คอนเทนเนอร์",
+      "description": "เซิร์ฟเวอร์ Kubernetes API"
+    },
+    {
+      "port": 6667,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "แชท",
+      "description": "พอร์ตเริ่มต้นของ IRC"
+    },
+    {
+      "port": 8000,
+      "protocol": "TCP",
+      "service": "HTTP ทางเลือก",
+      "category": "การพัฒนา",
+      "description": "HTTP ทางเลือก / การพัฒนา Django"
+    },
+    {
+      "port": 8080,
+      "protocol": "TCP",
+      "service": "พร็อกซี HTTP",
+      "category": "เว็บ",
+      "description": "พร็อกซี HTTP / HTTP ทางเลือก"
+    },
+    {
+      "port": 8443,
+      "protocol": "TCP",
+      "service": "HTTPS ทางเลือก",
+      "category": "เว็บ",
+      "description": "พอร์ต HTTPS ทางเลือก"
+    },
+    {
+      "port": 8888,
+      "protocol": "TCP",
+      "service": "Jupyter",
+      "category": "การพัฒนา",
+      "description": "ค่าเริ่มต้นของ Jupyter Notebook"
+    },
+    {
+      "port": 9000,
+      "protocol": "TCP",
+      "service": "PHP-FPM",
+      "category": "เว็บ",
+      "description": "ตัวจัดการกระบวนการ PHP FastCGI"
+    },
+    {
+      "port": 9090,
+      "protocol": "TCP",
+      "service": "Prometheus",
+      "category": "การตรวจสอบ",
+      "description": "เซิร์ฟเวอร์เมตริก Prometheus"
+    },
+    {
+      "port": 9092,
+      "protocol": "TCP",
+      "service": "Kafka",
+      "category": "การส่งข้อความ",
+      "description": "โบรกเกอร์ Apache Kafka"
+    },
+    {
+      "port": 9200,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "การค้นหา",
+      "description": "API REST ของ Elasticsearch"
+    },
+    {
+      "port": 9300,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "การค้นหา",
+      "description": "การสื่อสารโหนด Elasticsearch"
+    },
+    {
+      "port": 11211,
+      "protocol": "TCP",
+      "service": "Memcached",
+      "category": "การแคช",
+      "description": "ระบบแคช Memcached"
+    },
+    {
+      "port": 27017,
+      "protocol": "TCP",
+      "service": "MongoDB",
+      "category": "ฐานข้อมูล",
+      "description": "ฐานข้อมูล MongoDB"
+    },
+    {
+      "port": 27018,
+      "protocol": "TCP",
+      "service": "MongoDB ชาร์ด",
+      "category": "ฐานข้อมูล",
+      "description": "เซิร์ฟเวอร์ชาร์ด MongoDB"
+    },
+    {
+      "port": 27019,
+      "protocol": "TCP",
+      "service": "MongoDB คอนฟิก",
+      "category": "ฐานข้อมูล",
+      "description": "เซิร์ฟเวอร์คอนฟิก MongoDB"
+    }
+  ],
+  "meta": {
+    "seo_title": "รายการพอร์ตเครือข่ายทั่วไป - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดชุดข้อมูลฟรี 73 รายการพอร์ตเครือข่ายทั่วไป (TCP/UDP) บริการ และโปรโตคอล มีให้ในรูปแบบ Excel, CSV และ PDF สำหรับผู้ดูแลระบบ นักพัฒนา และนักศึกษา.",
+    "title": "ชุดข้อมูลหมายเลขพอร์ตเครือข่ายและบริการทั่วไป",
+    "description": "ชุดข้อมูลนี้รวบรวมรายการพอร์ตเครือข่ายทั่วไป 73 รายการ รวมถึงโปรโตคอล (TCP/UDP) บริการ ประเภท และคำอธิบาย เหมาะสำหรับผู้เชี่ยวชาญด้านเครือข่าย นักพัฒนา และนักศึกษา",
+    "key_takeaways": [
+      "เข้าถึงรายการพอร์ตเครือข่าย TCP/UDP ที่สำคัญ 73 รายการและบริการที่เกี่ยวข้อง",
+      "สำรวจคำอธิบายและหมวดหมู่โดยละเอียดสำหรับโปรโตคอลเครือข่ายทั่วไป",
+      "ดาวน์โหลดข้อมูลหมายเลขพอร์ตได้ทันทีในรูปแบบ Excel, CSV หรือ PDF",
+      "ใช้ประโยชน์จากข้อมูลนี้สำหรับการตรวจสอบความปลอดภัย การกำหนดค่า และการเรียนรู้เกี่ยวกับเครือข่าย"
+    ],
+    "keywords": [
+      "พอร์ตเครือข่ายทั่วไป",
+      "หมายเลขพอร์ต TCP UDP",
+      "ชุดข้อมูลบริการเครือข่าย",
+      "ดาวน์โหลดพอร์ต excel",
+      "โปรโตคอลเครือข่ายฟรี",
+      "รายการพอร์ตเครือข่าย"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** เข้าสู่ฐานข้อมูล SQL ของคุณ หรือใช้กับสคริปต์ Python สำหรับงานอัตโนมัติและการวิเคราะห์เครือข่าย",
+      "ใช้ไฟล์ **Excel** เพื่อกรอง จัดเรียง และวิเคราะห์ข้อมูลพอร์ต สร้างรายงานหรือเอกสารอ้างอิงสำหรับการดูแลระบบเครือข่าย",
+      "พิมพ์เวอร์ชัน **PDF** เพื่อใช้อ้างอิงแบบออฟไลน์อย่างรวดเร็ว วัสดุการสอนในห้องเรียน หรือเอกสารประกอบเครือข่ายภายใน",
+      "อ้างอิงชุดข้อมูลนี้เพื่อระบุการรับส่งข้อมูลเครือข่ายที่ไม่รู้จัก กำหนดค่าไฟร์วอลล์ หรือแก้ไขปัญหาการเชื่อมต่อได้อย่างรวดเร็ว"
+    ]
+  },
+  "record_count": 73,
+  "title": "ชุดข้อมูลหมายเลขพอร์ตเครือข่ายและบริการทั่วไป"
+}

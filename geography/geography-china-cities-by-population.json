@@ -1,0 +1,402 @@
+{
+  "id": "geography-china-cities-by-population",
+  "name": "รายชื่อนครในประเทศจีนเรียงตามจำนวนประชากร",
+  "title": "รายชื่อนครในประเทศจีนเรียงตามจำนวนประชากร",
+  "description": "รายชื่อนคร 50 อันดับแรกในประเทศจีนแผ่นดินใหญ่ เรียงตามจำนวนประชากรในเขตเมือง ประกอบด้วยข้อมูลอันดับ, ชื่อเมือง, มณฑลที่ตั้ง, ประมาณการประชากรล่าสุด และสำมะโนประชากรปี 2010",
+  "category": "geography",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A3",
+  "updated": "2024-05-15",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "อันดับ",
+      "type": "number"
+    },
+    {
+      "key": "city_th",
+      "label": "นคร",
+      "type": "string"
+    },
+    {
+      "key": "province_th",
+      "label": "มณฑล",
+      "type": "string"
+    },
+    {
+      "key": "population_latest_estimate",
+      "label": "ประมาณการล่าสุด",
+      "type": "number"
+    },
+    {
+      "key": "population_2010_census",
+      "label": "สำมะโนปี 2010",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "city_th": "เซี่ยงไฮ้",
+      "province_th": "",
+      "population_latest_estimate": 26917322,
+      "population_2010_census": 20217748
+    },
+    {
+      "rank": 2,
+      "city_th": "ปักกิ่ง",
+      "province_th": "",
+      "population_latest_estimate": 20381745,
+      "population_2010_census": 16704306
+    },
+    {
+      "rank": 3,
+      "city_th": "ฉงชิ่ง",
+      "province_th": "",
+      "population_latest_estimate": 15773658,
+      "population_2010_census": 6263790
+    },
+    {
+      "rank": 4,
+      "city_th": "เทียนจิน",
+      "province_th": "",
+      "population_latest_estimate": 13552359,
+      "population_2010_census": 9583277
+    },
+    {
+      "rank": 5,
+      "city_th": "กว่างโจว",
+      "province_th": "กวางตุ้ง",
+      "population_latest_estimate": 13238590,
+      "population_2010_census": 10641408
+    },
+    {
+      "rank": 6,
+      "city_th": "เชินเจิ้น",
+      "province_th": "กวางตุ้ง",
+      "population_latest_estimate": 12313714,
+      "population_2010_census": 10358381
+    },
+    {
+      "rank": 7,
+      "city_th": "เฉิงตู",
+      "province_th": "เสฉวน",
+      "population_latest_estimate": 9104865,
+      "population_2010_census": 7791692
+    },
+    {
+      "rank": 8,
+      "city_th": "หนานจิง",
+      "province_th": "เจียงซู",
+      "population_latest_estimate": 8789855,
+      "population_2010_census": 5827888
+    },
+    {
+      "rank": 9,
+      "city_th": "อู่ฮั่น",
+      "province_th": "หูเป่ย์",
+      "population_latest_estimate": 8346205,
+      "population_2010_census": 7541527
+    },
+    {
+      "rank": 10,
+      "city_th": "ซีอาน",
+      "province_th": "ฉ่านซี",
+      "population_latest_estimate": 7948032,
+      "population_2010_census": 5403052
+    },
+    {
+      "rank": 11,
+      "city_th": "หางโจว",
+      "province_th": "เจ้อเจียง",
+      "population_latest_estimate": 7603271,
+      "population_2010_census": 5849537
+    },
+    {
+      "rank": 12,
+      "city_th": "ตงกว่าน",
+      "province_th": "กวางตุ้ง",
+      "population_latest_estimate": 7402305,
+      "population_2010_census": 7271322
+    },
+    {
+      "rank": 13,
+      "city_th": "ฝัวชาน",
+      "province_th": "กวางตุ้ง",
+      "population_latest_estimate": 7313711,
+      "population_2010_census": 6771895
+    },
+    {
+      "rank": 14,
+      "city_th": "เฉิ่นหยาง",
+      "province_th": "เหลียวหนิง",
+      "population_latest_estimate": 7191333,
+      "population_2010_census": 5718232
+    },
+    {
+      "rank": 15,
+      "city_th": "ฮาร์บิน",
+      "province_th": "เฮย์หลงเจียง",
+      "population_latest_estimate": 6360991,
+      "population_2010_census": 4596313
+    },
+    {
+      "rank": 16,
+      "city_th": "ชิงเต่า",
+      "province_th": "ชานตง",
+      "population_latest_estimate": 5597028,
+      "population_2010_census": 4556077
+    },
+    {
+      "rank": 17,
+      "city_th": "ต้าเหลียน",
+      "province_th": "เหลียวหนิง",
+      "population_latest_estimate": 5587814,
+      "population_2010_census": 3902467
+    },
+    {
+      "rank": 18,
+      "city_th": "จี่หนาน",
+      "province_th": "ชานตง",
+      "population_latest_estimate": 5330573,
+      "population_2010_census": 3641562
+    },
+    {
+      "rank": 19,
+      "city_th": "เจิ้งโจว",
+      "province_th": "เหอหนาน",
+      "population_latest_estimate": 5286549,
+      "population_2010_census": 3677032
+    },
+    {
+      "rank": 20,
+      "city_th": "ฉางชา",
+      "province_th": "หูหนาน",
+      "population_latest_estimate": 4555788,
+      "population_2010_census": 3193354
+    },
+    {
+      "rank": 21,
+      "city_th": "คุนหมิง",
+      "province_th": "ยูนนาน",
+      "population_latest_estimate": 4422686,
+      "population_2010_census": 3385363
+    },
+    {
+      "rank": 22,
+      "city_th": "ฉางชุน",
+      "province_th": "จิ๋หลิน",
+      "population_latest_estimate": 4408154,
+      "population_2010_census": 3411209
+    },
+    {
+      "rank": 23,
+      "city_th": "อุรุมชี",
+      "province_th": "ซินเจียง",
+      "population_latest_estimate": 4335017,
+      "population_2010_census": 2853398
+    },
+    {
+      "rank": 24,
+      "city_th": "ซัวเถา",
+      "province_th": "กวางตุ้ง",
+      "population_latest_estimate": 4312192,
+      "population_2010_census": 3644017
+    },
+    {
+      "rank": 25,
+      "city_th": "เหอเฝย์",
+      "province_th": "อานฮุย",
+      "population_latest_estimate": 4216940,
+      "population_2010_census": 3098727
+    },
+    {
+      "rank": 26,
+      "city_th": "ฉือเจียจวง",
+      "province_th": "เหอเป่ย์",
+      "population_latest_estimate": 4098243,
+      "population_2010_census": 3095219
+    },
+    {
+      "rank": 27,
+      "city_th": "หนิงปัว",
+      "province_th": "เจ้อเจียง",
+      "population_latest_estimate": 4087523,
+      "population_2010_census": 2583073
+    },
+    {
+      "rank": 28,
+      "city_th": "ไท่หยวน",
+      "province_th": "ชานซี",
+      "population_latest_estimate": 3875053,
+      "population_2010_census": 3154157
+    },
+    {
+      "rank": 29,
+      "city_th": "หนานหนิง",
+      "province_th": "กวางซี",
+      "population_latest_estimate": 3837978,
+      "population_2010_census": 2660833
+    },
+    {
+      "rank": 30,
+      "city_th": "เซี่ยเหมิน",
+      "province_th": "ฝูเจี้ยน",
+      "population_latest_estimate": 3707090,
+      "population_2010_census": 3119110
+    },
+    {
+      "rank": 31,
+      "city_th": "ฝูโจว",
+      "province_th": "ฝูเจี้ยน",
+      "population_latest_estimate": 3671192,
+      "population_2010_census": 3102421
+    },
+    {
+      "rank": 32,
+      "city_th": "เวินโจว",
+      "province_th": "เจ้อเจียง",
+      "population_latest_estimate": 3604446,
+      "population_2010_census": 2686825
+    },
+    {
+      "rank": 33,
+      "city_th": "ฉางโจว",
+      "province_th": "เจียงซู",
+      "population_latest_estimate": 3601079,
+      "population_2010_census": 2257376
+    },
+    {
+      "rank": 34,
+      "city_th": "หนานชาง",
+      "province_th": "เจียงซี",
+      "population_latest_estimate": 3576547,
+      "population_2010_census": 2614380
+    },
+    {
+      "rank": 35,
+      "city_th": "ถังชาน",
+      "province_th": "เหอเป่ย์",
+      "population_latest_estimate": 3399231,
+      "population_2010_census": 2128191
+    },
+    {
+      "rank": 36,
+      "city_th": "กุ้ยหยาง",
+      "province_th": "กุ้ยโจว",
+      "population_latest_estimate": 3299724,
+      "population_2010_census": 2520061
+    },
+    {
+      "rank": 37,
+      "city_th": "อู๋ซี",
+      "province_th": "เจียงซู",
+      "population_latest_estimate": 3245179,
+      "population_2010_census": 2757736
+    },
+    {
+      "rank": 38,
+      "city_th": "หลานโจว",
+      "province_th": "กานซู่",
+      "population_latest_estimate": 3067141,
+      "population_2010_census": 2438595
+    },
+    {
+      "rank": 39,
+      "city_th": "จงชาน",
+      "province_th": "กวางตุ้ง",
+      "population_latest_estimate": 2909633,
+      "population_2010_census": 2740994
+    },
+    {
+      "rank": 40,
+      "city_th": "หานตาน",
+      "province_th": "เหอเป่ย์",
+      "population_latest_estimate": 2708015,
+      "population_2010_census": 1830000
+    },
+    {
+      "rank": 41,
+      "city_th": "เหวย์ฟาง",
+      "province_th": "ชานตง",
+      "population_latest_estimate": 2636154,
+      "population_2010_census": 2044028
+    },
+    {
+      "rank": 42,
+      "city_th": "หฺวายอาน",
+      "province_th": "เจียงซู",
+      "population_latest_estimate": 2632788,
+      "population_2010_census": 2494013
+    },
+    {
+      "rank": 43,
+      "city_th": "จือปั๋ว",
+      "province_th": "ชานตง",
+      "population_latest_estimate": 2631647,
+      "population_2010_census": 2261717
+    },
+    {
+      "rank": 44,
+      "city_th": "เช่าซิง",
+      "province_th": "เจ้อเจียง",
+      "population_latest_estimate": 2521964,
+      "population_2010_census": 1725726
+    },
+    {
+      "rank": 45,
+      "city_th": "ยานไถ",
+      "province_th": "ชานตง",
+      "population_latest_estimate": 2511053,
+      "population_2010_census": 1797861
+    },
+    {
+      "rank": 46,
+      "city_th": "ฮุ่ยโจว",
+      "province_th": "กวางตุ้ง",
+      "population_latest_estimate": 2509243,
+      "population_2010_census": 1807858
+    },
+    {
+      "rank": 47,
+      "city_th": "ลั่วหยาง",
+      "province_th": "เหอหนาน",
+      "population_latest_estimate": 2372571,
+      "population_2010_census": 1584463
+    },
+    {
+      "rank": 48,
+      "city_th": "หนานทง",
+      "province_th": "เจียงซู",
+      "population_latest_estimate": 2261382,
+      "population_2010_census": 1612385
+    },
+    {
+      "rank": 49,
+      "city_th": "เปาโถว",
+      "province_th": "มองโกเลียใน",
+      "population_latest_estimate": 2181077,
+      "population_2010_census": 1900373
+    },
+    {
+      "rank": 50,
+      "city_th": "หลิ่วโจว",
+      "province_th": "กว่างซี",
+      "population_latest_estimate": 2153419,
+      "population_2010_census": 1624571
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อนครในประเทศจีนเรียงตามจำนวนประชากร",
+    "description": "รายชื่อนคร 50 อันดับแรกในประเทศจีนแผ่นดินใหญ่ เรียงตามจำนวนประชากรในเขตเมือง",
+    "seo_title": "รายชื่อนครในประเทศจีนเรียงตามจำนวนประชากร - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 50 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 50 นครครบถ้วน",
+      "รวม: อันดับ, นคร, มณฑล, ประมาณการล่าสุด, สำมะโนปี 2010",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "id": "tech-social-media-sizes",
+  "name": "ชุดข้อมูลขนาดและสัดส่วนรูปภาพโซเชียลมีเดีย",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string"
+    },
+    {
+      "key": "image_type",
+      "label": "Image Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (px)",
+      "type": "string"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "type": "number"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "type": "number"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "Aspect Ratio",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "platform": "Facebook",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "180 × 180",
+      "width": 180,
+      "height": 180,
+      "aspect_ratio": "1:1",
+      "notes": "แสดงผลที่ 170x170 บนเดสก์ท็อป"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "รูปภาพหน้าปก",
+      "dimensions": "820 × 312",
+      "width": 820,
+      "height": 312,
+      "aspect_ratio": "2.63:1",
+      "notes": "ขนาดที่แสดงผลบนเดสก์ท็อป"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "รูปภาพหน้าปก (มือถือ)",
+      "dimensions": "640 × 360",
+      "width": 640,
+      "height": 360,
+      "aspect_ratio": "16:9",
+      "notes": "แสดงผลบนมือถือ"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "รูปภาพที่แชร์",
+      "dimensions": "1200 × 630",
+      "width": 1200,
+      "height": 630,
+      "aspect_ratio": "1.91:1",
+      "notes": "รูปภาพโพสต์ในฟีด"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "รูปภาพหน้าปกกิจกรรม",
+      "dimensions": "1920 × 1005",
+      "width": 1920,
+      "height": 1005,
+      "aspect_ratio": "1.91:1",
+      "notes": "ส่วนหัวของหน้ากิจกรรม"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "สตอรี่",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "แนวตั้งเต็มหน้าจอ"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "ตัดเป็นวงกลม"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "โพสต์สี่เหลี่ยมจัตุรัส",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "โพสต์ฟีดมาตรฐาน"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "โพสต์แนวตั้ง",
+      "dimensions": "1080 × 1350",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "notes": "โพสต์ฟีดแนวตั้ง"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "โพสต์แนวนอน",
+      "dimensions": "1080 × 566",
+      "width": 1080,
+      "height": 566,
+      "aspect_ratio": "1.91:1",
+      "notes": "โพสต์ฟีดแนวนอน"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "สตอรี่/รีลส์",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "แนวตั้งเต็มหน้าจอ"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "ภาพหมุน",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "โพสต์หลายรูปภาพ"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "แสดงผลที่ 200x200"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "รูปภาพส่วนหัว",
+      "dimensions": "1500 × 500",
+      "width": 1500,
+      "height": 500,
+      "aspect_ratio": "3:1",
+      "notes": "รูปภาพแบนเนอร์"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "รูปภาพในสตรีม",
+      "dimensions": "1200 × 675",
+      "width": 1200,
+      "height": 675,
+      "aspect_ratio": "16:9",
+      "notes": "รูปภาพทวีต"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "รูปภาพการ์ด",
+      "dimensions": "1200 × 628",
+      "width": 1200,
+      "height": 628,
+      "aspect_ratio": "1.91:1",
+      "notes": "ตัวอย่างลิงก์"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "โปรไฟล์ส่วนตัว"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "รูปภาพพื้นหลัง",
+      "dimensions": "1584 × 396",
+      "width": 1584,
+      "height": 396,
+      "aspect_ratio": "4:1",
+      "notes": "แบนเนอร์โปรไฟล์"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "โลโก้บริษัท",
+      "dimensions": "300 × 300",
+      "width": 300,
+      "height": 300,
+      "aspect_ratio": "1:1",
+      "notes": "หน้าบริษัท"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "รูปภาพหน้าปก",
+      "dimensions": "1128 × 191",
+      "width": 1128,
+      "height": 191,
+      "aspect_ratio": "5.9:1",
+      "notes": "แบนเนอร์หน้าบริษัท"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "โพสต์ที่แชร์",
+      "dimensions": "1200 × 627",
+      "width": 1200,
+      "height": 627,
+      "aspect_ratio": "1.91:1",
+      "notes": "โพสต์ในฟีด"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "โปรไฟล์ช่อง",
+      "dimensions": "800 × 800",
+      "width": 800,
+      "height": 800,
+      "aspect_ratio": "1:1",
+      "notes": "ไอคอนช่อง"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "แบนเนอร์ช่อง",
+      "dimensions": "2560 × 1440",
+      "width": 2560,
+      "height": 1440,
+      "aspect_ratio": "16:9",
+      "notes": "แบนเนอร์ขนาดเต็ม"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "ภาพขนาดย่อของวิดีโอ",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "ภาพขนาดย่อที่กำหนดเอง"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "ชอร์ตส์",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "วิดีโอสั้นแนวตั้ง"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "200 × 200",
+      "width": 200,
+      "height": 200,
+      "aspect_ratio": "1:1",
+      "notes": "รูปภาพโปรไฟล์"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "วิดีโอ",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "วิดีโอมาตรฐาน"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "165 × 165",
+      "width": 165,
+      "height": 165,
+      "aspect_ratio": "1:1",
+      "notes": "รูปภาพโปรไฟล์"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "รูปภาพพิน",
+      "dimensions": "1000 × 1500",
+      "width": 1000,
+      "height": 1500,
+      "aspect_ratio": "2:3",
+      "notes": "ขนาดพินที่เหมาะสมที่สุด"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "ภาพปกบอร์ด",
+      "dimensions": "222 × 150",
+      "width": 222,
+      "height": 150,
+      "aspect_ratio": "3:2",
+      "notes": "ภาพขนาดย่อของบอร์ด"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "สแนป/สตอรี่",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "เนื้อหาเต็มหน้าจอ"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "จีโอฟิลเตอร์",
+      "dimensions": "1080 × 2340",
+      "width": 1080,
+      "height": 2340,
+      "aspect_ratio": "9:19.5",
+      "notes": "ฟิลเตอร์ที่กำหนดเอง"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "500 × 500",
+      "width": 500,
+      "height": 500,
+      "aspect_ratio": "1:1",
+      "notes": "รูปภาพโปรไฟล์"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "สถานะ",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "รูปภาพสถานะ"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "ไอคอนเซิร์ฟเวอร์",
+      "dimensions": "512 × 512",
+      "width": 512,
+      "height": 512,
+      "aspect_ratio": "1:1",
+      "notes": "อวตารเซิร์ฟเวอร์"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "แบนเนอร์เซิร์ฟเวอร์",
+      "dimensions": "960 × 540",
+      "width": 960,
+      "height": 540,
+      "aspect_ratio": "16:9",
+      "notes": "แบนเนอร์เซิร์ฟเวอร์"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "อวตารผู้ใช้",
+      "dimensions": "128 × 128",
+      "width": 128,
+      "height": 128,
+      "aspect_ratio": "1:1",
+      "notes": "โปรไฟล์ผู้ใช้"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "รูปโปรไฟล์",
+      "dimensions": "256 × 256",
+      "width": 256,
+      "height": 256,
+      "aspect_ratio": "1:1",
+      "notes": "อวตารช่อง"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "แบนเนอร์โปรไฟล์",
+      "dimensions": "1200 × 480",
+      "width": 1200,
+      "height": 480,
+      "aspect_ratio": "2.5:1",
+      "notes": "แบนเนอร์ช่อง"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "ภาพขนาดย่อของวิดีโอ",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "ภาพขนาดย่อของสตรีม"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "รูปภาพโปรไฟล์",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "เหมือนกับอินสตาแกรม"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "รูปภาพโพสต์",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "โพสต์สี่เหลี่ยมจัตุรัส"
+    }
+  ],
+  "meta": {
+    "seo_title": "ขนาดรูปภาพโซเชียลมีเดีย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี 42 ขนาดรูปภาพและสัดส่วนภาพโซเชียลมีเดียสำหรับแพลตฟอร์มยอดนิยม รับสเปกปัจจุบันสำหรับโพสต์, โปรไฟล์, ปก มีให้ในรูปแบบ Excel, CSV และ PDF.",
+    "title": "ชุดข้อมูลขนาดและสัดส่วนรูปภาพโซเชียลมีเดีย",
+    "description": "ชุดข้อมูลนี้รวบรวมรายการขนาดรูปภาพโซเชียลมีเดีย 42 รายการ พร้อมสัดส่วนและขนาดมิติสำหรับแพลตฟอร์มต่างๆ รับข้อมูลจำเพาะที่เป็นปัจจุบันสำหรับรูปโปรไฟล์, รูปปก และโพสต์ที่แชร์.",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลจำเพาะขนาดรูปภาพปัจจุบันสำหรับแพลตฟอร์มโซเชียลมีเดียหลัก.",
+      "สำรวจขนาดมิติ (ความกว้าง, ความสูง), สัดส่วน และบันทึกสำหรับรูปภาพ 42 ประเภท.",
+      "ดาวน์โหลดข้อมูลพร้อมใช้งานสำหรับการออกแบบภาพโซเชียลมีเดียที่มีประสิทธิภาพ.",
+      "รับคำแนะนำที่จำเป็นสำหรับการปรับแต่งเนื้อหาโซเชียลมีเดียของคุณ."
+    ],
+    "keywords": [
+      "ขนาดรูปภาพโซเชียลมีเดีย excel",
+      "มิติภาพ facebook csv",
+      "ขนาดโพสต์ instagram pdf",
+      "ขนาดแบนเนอร์ youtube",
+      "แนวทางการออกแบบโซเชียลมีเดีย",
+      "รายการสัดส่วนภาพ"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** เข้าสู่สคริปต์ Python หรือ API ของคุณเพื่อตรวจสอบการอัปโหลดรูปภาพตามข้อกำหนดของแพลตฟอร์มแบบไดนามิก.",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Tables เพื่อเปรียบเทียบสัดส่วนภาพในแต่ละแพลตฟอร์ม หรือกรองตามประเภทรูปภาพเพื่อการอ้างอิงอย่างรวดเร็วในโครงการออกแบบ.",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับคู่มืออ้างอิงแบบออฟไลน์อย่างรวดเร็วสำหรับทีมออกแบบของคุณ หรือเป็นเอกสารประกอบการบรรยายในการประชุมเชิงปฏิบัติการการตลาดโซเชียลมีเดีย.",
+      "ใช้ประโยชน์จากข้อมูลนี้เพื่อปรับปรุงเนื้อหาภาพ ทำให้มั่นใจว่ารูปภาพจะดูเป็นมืออาชีพและพอดีกับทุกแพลตฟอร์มโซเชียลมีเดียเสมอ."
+    ]
+  },
+  "record_count": 42,
+  "title": "ชุดข้อมูลขนาดและสัดส่วนรูปภาพโซเชียลมีเดีย"
+}

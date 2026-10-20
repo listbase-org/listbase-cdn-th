@@ -1,0 +1,1620 @@
+{
+  "id": "science-countries-death-rate",
+  "name": "รายชื่อประเทศตามอัตราการเสียชีวิต",
+  "title": "รายชื่อประเทศตามอัตราการเสียชีวิต",
+  "description": "ข้อมูลอัตราการเสียชีวิตของประเทศและเขตปกครองต่างๆ ทั่วโลก อ้างอิงจาก CIA The World Factbook โดยแสดงลำดับประเทศตามรัฐเอกราช ลำดับตามรายชื่อ ชื่อประเทศ อัตราการเสียชีวิต (ต่อ 1,000 คน) และปีข้อมูล",
+  "category": "science",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95",
+  "updated": "2024-05-15",
+  "record_count": 224,
+  "columns": [
+    {
+      "key": "sovereign_state_rank",
+      "label": "ลำดับตามรัฐเอกราช",
+      "type": "string"
+    },
+    {
+      "key": "entity_rank",
+      "label": "ลำดับตามรายชื่อ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "รายชื่อ",
+      "type": "string"
+    },
+    {
+      "key": "death_rate_per_1000",
+      "label": "อัตราการเสียชีวิต (การเสียชีวิต/1,000 คน)",
+      "type": "number"
+    },
+    {
+      "key": "data_year",
+      "label": "ปีข้อมูล (ค.ศ.)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "",
+      "name_th": "ทั่วโลก",
+      "death_rate_per_1000": 8.67,
+      "data_year": null
+    },
+    {
+      "sovereign_state_rank": "1",
+      "entity_rank": "1",
+      "name_th": "เอสวาตินี",
+      "death_rate_per_1000": 29.74,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "2",
+      "entity_rank": "2",
+      "name_th": "บอตสวานา",
+      "death_rate_per_1000": 29.5,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "3",
+      "entity_rank": "3",
+      "name_th": "เลโซโท",
+      "death_rate_per_1000": 28.71,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "4",
+      "entity_rank": "4",
+      "name_th": "แองโกลา",
+      "death_rate_per_1000": 24.2,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "5",
+      "entity_rank": "5",
+      "name_th": "ไลบีเรีย",
+      "death_rate_per_1000": 23.1,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "6",
+      "entity_rank": "6",
+      "name_th": "เซียร์ราลีโอน",
+      "death_rate_per_1000": 23.03,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "7",
+      "entity_rank": "7",
+      "name_th": "แอฟริกาใต้",
+      "death_rate_per_1000": 22,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "8",
+      "entity_rank": "8",
+      "name_th": "ซิมบับเว",
+      "death_rate_per_1000": 21.84,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "9",
+      "entity_rank": "9",
+      "name_th": "โมซัมบิก",
+      "death_rate_per_1000": 21.35,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "10",
+      "entity_rank": "10",
+      "name_th": "ไนเจอร์",
+      "death_rate_per_1000": 20.91,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "11",
+      "entity_rank": "11",
+      "name_th": "อัฟกานิสถาน",
+      "death_rate_per_1000": 20.34,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "12",
+      "entity_rank": "12",
+      "name_th": "แซมเบีย",
+      "death_rate_per_1000": 19.93,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "13",
+      "entity_rank": "13",
+      "name_th": "มาลาวี",
+      "death_rate_per_1000": 19.33,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "14",
+      "entity_rank": "14",
+      "name_th": "จิบูตี",
+      "death_rate_per_1000": 19.31,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "15",
+      "entity_rank": "15",
+      "name_th": "นามิเบีย",
+      "death_rate_per_1000": 18.86,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "16",
+      "entity_rank": "16",
+      "name_th": "สาธารณรัฐแอฟริกากลาง",
+      "death_rate_per_1000": 18.65,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "17",
+      "entity_rank": "17",
+      "name_th": "ไนจีเรีย",
+      "death_rate_per_1000": 16.94,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "18",
+      "entity_rank": "18",
+      "name_th": "มาลี",
+      "death_rate_per_1000": 16.89,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "19",
+      "entity_rank": "19",
+      "name_th": "โซมาเลีย",
+      "death_rate_per_1000": 16.63,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "20",
+      "entity_rank": "20",
+      "name_th": "กินี-บิสเซา",
+      "death_rate_per_1000": 16.53,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "21",
+      "entity_rank": "21",
+      "name_th": "แทนซาเนีย",
+      "death_rate_per_1000": 16.39,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "22",
+      "entity_rank": "22",
+      "name_th": "ชาด",
+      "death_rate_per_1000": 16.38,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "23",
+      "entity_rank": "23",
+      "name_th": "รวันดา",
+      "death_rate_per_1000": 16.09,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "24",
+      "entity_rank": "24",
+      "name_th": "บูร์กินาฟาโซ",
+      "death_rate_per_1000": 15.6,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "25",
+      "entity_rank": "25",
+      "name_th": "กินี",
+      "death_rate_per_1000": 15.48,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "26",
+      "entity_rank": "26",
+      "name_th": "อิเควทอเรียลกินี",
+      "death_rate_per_1000": 15.06,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "27",
+      "entity_rank": "27",
+      "name_th": "เอธิโอเปีย",
+      "death_rate_per_1000": 14.86,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "28",
+      "entity_rank": "28",
+      "name_th": "โกตดิวัวร์",
+      "death_rate_per_1000": 14.84,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "29",
+      "entity_rank": "29",
+      "name_th": "รัสเซีย",
+      "death_rate_per_1000": 14.65,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "30",
+      "entity_rank": "30",
+      "name_th": "ยูเครน",
+      "death_rate_per_1000": 14.39,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "31",
+      "entity_rank": "31",
+      "name_th": "บัลแกเรีย",
+      "death_rate_per_1000": 14.27,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "32",
+      "entity_rank": "32",
+      "name_th": "เบลารุส",
+      "death_rate_per_1000": 14.02,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "33",
+      "entity_rank": "33",
+      "name_th": "เคนยา",
+      "death_rate_per_1000": 14.02,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "34",
+      "entity_rank": "34",
+      "name_th": "ลัตเวีย",
+      "death_rate_per_1000": 13.66,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "35",
+      "entity_rank": "35",
+      "name_th": "แคเมอรูน",
+      "death_rate_per_1000": 13.47,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "36",
+      "entity_rank": "36",
+      "name_th": "บุรุนดี",
+      "death_rate_per_1000": 13.46,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "37",
+      "entity_rank": "37",
+      "name_th": "สาธารณรัฐประชาธิปไตยคองโก",
+      "death_rate_per_1000": 13.27,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "38",
+      "entity_rank": "38",
+      "name_th": "เอสโตเนีย",
+      "death_rate_per_1000": 13.25,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "39",
+      "entity_rank": "39",
+      "name_th": "ฮังการี",
+      "death_rate_per_1000": 13.11,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "40",
+      "entity_rank": "40",
+      "name_th": "สาธารณรัฐคองโก",
+      "death_rate_per_1000": 12.93,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "41",
+      "entity_rank": "41",
+      "name_th": "โมนาโก",
+      "death_rate_per_1000": 12.91,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "42",
+      "entity_rank": "42",
+      "name_th": "ภูฏาน",
+      "death_rate_per_1000": 12.7,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "43",
+      "entity_rank": "43",
+      "name_th": "มอลโดวา",
+      "death_rate_per_1000": 12.64,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "44",
+      "entity_rank": "44",
+      "name_th": "แกมเบีย",
+      "death_rate_per_1000": 12.25,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "45",
+      "entity_rank": "45",
+      "name_th": "กาบอง",
+      "death_rate_per_1000": 12.25,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "46",
+      "entity_rank": "46",
+      "name_th": "ยูกันดา",
+      "death_rate_per_1000": 12.24,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "47",
+      "entity_rank": "47",
+      "name_th": "เบนิน",
+      "death_rate_per_1000": 12.22,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "48",
+      "entity_rank": "48",
+      "name_th": "เฮติ",
+      "death_rate_per_1000": 12.17,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "49",
+      "entity_rank": "49",
+      "name_th": "มอริเตเนีย",
+      "death_rate_per_1000": 12.16,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "50",
+      "entity_rank": "50",
+      "name_th": "โรมาเนีย",
+      "death_rate_per_1000": 11.77,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "51",
+      "entity_rank": "51",
+      "name_th": "ลาว",
+      "death_rate_per_1000": 11.55,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "52",
+      "entity_rank": "52",
+      "name_th": "โครเอเชีย",
+      "death_rate_per_1000": 11.48,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "53",
+      "name_th": "เกิร์นซีย์ (UK)",
+      "death_rate_per_1000": 11.26,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "53",
+      "entity_rank": "54",
+      "name_th": "มาดากัสการ์",
+      "death_rate_per_1000": 11.11,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "54",
+      "entity_rank": "55",
+      "name_th": "ลิทัวเนีย",
+      "death_rate_per_1000": 10.98,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "55",
+      "entity_rank": "56",
+      "name_th": "เยอรมนี",
+      "death_rate_per_1000": 10.62,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "56",
+      "entity_rank": "57",
+      "name_th": "เช็กเกีย",
+      "death_rate_per_1000": 10.59,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "57",
+      "entity_rank": "58",
+      "name_th": "ตรินิแดดและโตเบโก",
+      "death_rate_per_1000": 10.57,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "58",
+      "entity_rank": "59",
+      "name_th": "โปรตุเกส",
+      "death_rate_per_1000": 10.5,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "59",
+      "entity_rank": "60",
+      "name_th": "อิตาลี",
+      "death_rate_per_1000": 10.4,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "60",
+      "entity_rank": "61",
+      "name_th": "เดนมาร์ก",
+      "death_rate_per_1000": 10.36,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "61",
+      "entity_rank": "62",
+      "name_th": "สโลวีเนีย",
+      "death_rate_per_1000": 10.31,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "62",
+      "entity_rank": "63",
+      "name_th": "สวีเดน",
+      "death_rate_per_1000": 10.31,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "63",
+      "entity_rank": "64",
+      "name_th": "เบลเยียม",
+      "death_rate_per_1000": 10.27,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "64",
+      "entity_rank": "65",
+      "name_th": "กรีซ",
+      "death_rate_per_1000": 10.24,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "65",
+      "entity_rank": "66",
+      "name_th": "สหราชอาณาจักร",
+      "death_rate_per_1000": 10.13,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "",
+      "name_th": "สหภาพยุโรป",
+      "death_rate_per_1000": 10.1,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "66",
+      "entity_rank": "67",
+      "name_th": "เกิร์นซีย์",
+      "death_rate_per_1000": 10.01,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "68",
+      "name_th": "โปแลนด์",
+      "death_rate_per_1000": 9.89,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "67",
+      "entity_rank": "69",
+      "name_th": "ฟินแลนด์",
+      "death_rate_per_1000": 9.86,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "68",
+      "entity_rank": "70",
+      "name_th": "เมียนมา",
+      "death_rate_per_1000": 9.83,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "69",
+      "entity_rank": "71",
+      "name_th": "โตโก",
+      "death_rate_per_1000": 9.83,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "70",
+      "entity_rank": "72",
+      "name_th": "ออสเตรีย",
+      "death_rate_per_1000": 9.76,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "71",
+      "entity_rank": "73",
+      "name_th": "อาเซอร์ไบจาน",
+      "death_rate_per_1000": 9.75,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "72",
+      "entity_rank": "74",
+      "name_th": "กานา",
+      "death_rate_per_1000": 9.72,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "73",
+      "entity_rank": "75",
+      "name_th": "สเปน",
+      "death_rate_per_1000": 9.72,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "74",
+      "entity_rank": "76",
+      "name_th": "เอริเทรีย",
+      "death_rate_per_1000": 9.6,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "75",
+      "entity_rank": "77",
+      "name_th": "สโลวาเกีย",
+      "death_rate_per_1000": 9.45,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "76",
+      "entity_rank": "78",
+      "name_th": "คาซัคสถาน",
+      "death_rate_per_1000": 9.42,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "77",
+      "entity_rank": "79",
+      "name_th": "เซเนกัล",
+      "death_rate_per_1000": 9.42,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "78",
+      "entity_rank": "80",
+      "name_th": "นอร์เวย์",
+      "death_rate_per_1000": 9.4,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "79",
+      "entity_rank": "81",
+      "name_th": "ยิบรอลตาร์ (UK)",
+      "death_rate_per_1000": 9.31,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "82",
+      "name_th": "เนปาล",
+      "death_rate_per_1000": 9.31,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "80",
+      "entity_rank": "83",
+      "name_th": "เจอร์ซีย์ (UK)",
+      "death_rate_per_1000": 9.28,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "84",
+      "name_th": "จอร์เจีย",
+      "death_rate_per_1000": 9.23,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "81",
+      "entity_rank": "85",
+      "name_th": "ญี่ปุ่น",
+      "death_rate_per_1000": 9.16,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "82",
+      "entity_rank": "86",
+      "name_th": "ฝรั่งเศส",
+      "death_rate_per_1000": 9.14,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "83",
+      "entity_rank": "87",
+      "name_th": "กัมพูชา",
+      "death_rate_per_1000": 9.06,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "84",
+      "entity_rank": "88",
+      "name_th": "บาฮามาส",
+      "death_rate_per_1000": 9.05,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "85",
+      "entity_rank": "89",
+      "name_th": "อุรุกวัย",
+      "death_rate_per_1000": 9.05,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "86",
+      "entity_rank": "90",
+      "name_th": "ซูดาน",
+      "death_rate_per_1000": 8.97,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "87",
+      "entity_rank": "91",
+      "name_th": "มาซิโดเนียเหนือ",
+      "death_rate_per_1000": 8.77,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "93",
+      "name_th": "หมู่เกาะแฟโร (เดนมาร์ก)",
+      "death_rate_per_1000": 8.7,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "88",
+      "entity_rank": "92",
+      "name_th": "เนเธอร์แลนด์",
+      "death_rate_per_1000": 8.68,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "89",
+      "entity_rank": "94",
+      "name_th": "บาร์เบโดส",
+      "death_rate_per_1000": 8.67,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "90",
+      "entity_rank": "95",
+      "name_th": "เติร์กเมนิสถาน",
+      "death_rate_per_1000": 8.6,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "91",
+      "entity_rank": "96",
+      "name_th": "สวิตเซอร์แลนด์",
+      "death_rate_per_1000": 8.49,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "92",
+      "entity_rank": "97",
+      "name_th": "ลักเซมเบิร์ก",
+      "death_rate_per_1000": 8.41,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "93",
+      "entity_rank": "98",
+      "name_th": "เซนต์คิตส์และเนวิส",
+      "death_rate_per_1000": 8.33,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "94",
+      "entity_rank": "99",
+      "name_th": "เยเมน",
+      "death_rate_per_1000": 8.3,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "95",
+      "entity_rank": "100",
+      "name_th": "กายอานา",
+      "death_rate_per_1000": 8.28,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "96",
+      "entity_rank": "101",
+      "name_th": "บังกลาเทศ",
+      "death_rate_per_1000": 8.27,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "97",
+      "entity_rank": "102",
+      "name_th": "บอสเนียและเฮอร์เซโกวีนา",
+      "death_rate_per_1000": 8.27,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "98",
+      "entity_rank": "103",
+      "name_th": "คิริบาส",
+      "death_rate_per_1000": 8.26,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "99",
+      "entity_rank": "104",
+      "name_th": "สหรัฐอเมริกา",
+      "death_rate_per_1000": 8.26,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "100",
+      "entity_rank": "105",
+      "name_th": "ทาจิกิสถาน",
+      "death_rate_per_1000": 8.25,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "101",
+      "entity_rank": "106",
+      "name_th": "อาร์เมเนีย",
+      "death_rate_per_1000": 8.23,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "102",
+      "entity_rank": "107",
+      "name_th": "ปากีสถาน",
+      "death_rate_per_1000": 8.23,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "103",
+      "entity_rank": "108",
+      "name_th": "คอโมโรส",
+      "death_rate_per_1000": 8.2,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "104",
+      "entity_rank": "109",
+      "name_th": "อินเดีย",
+      "death_rate_per_1000": 8.18,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "105",
+      "entity_rank": "110",
+      "name_th": "ซานมารีโน",
+      "death_rate_per_1000": 8.17,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "106",
+      "entity_rank": "111",
+      "name_th": "มอลตา",
+      "death_rate_per_1000": 8.1,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "107",
+      "entity_rank": "112",
+      "name_th": "อุซเบกิสถาน",
+      "death_rate_per_1000": 7.84,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "108",
+      "entity_rank": "113",
+      "name_th": "ไอร์แลนด์",
+      "death_rate_per_1000": 7.82,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "109",
+      "entity_rank": "114",
+      "name_th": "วานูอาตู",
+      "death_rate_per_1000": 7.82,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "110",
+      "entity_rank": "115",
+      "name_th": "แคนาดา",
+      "death_rate_per_1000": 7.8,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "111",
+      "entity_rank": "116",
+      "name_th": "กรีนแลนด์",
+      "death_rate_per_1000": 7.77,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "117",
+      "name_th": "เบอร์มิวดา",
+      "death_rate_per_1000": 7.74,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "118",
+      "name_th": "มายอต (ฝรั่งเศส)",
+      "death_rate_per_1000": 7.7,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "119",
+      "name_th": "ไซปรัส",
+      "death_rate_per_1000": 7.68,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "120",
+      "name_th": "ปวยร์โตรีโก (US)",
+      "death_rate_per_1000": 7.65,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "112",
+      "entity_rank": "121",
+      "name_th": "อาร์เจนตินา",
+      "death_rate_per_1000": 7.55,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "113",
+      "entity_rank": "122",
+      "name_th": "โบลิเวีย",
+      "death_rate_per_1000": 7.53,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "114",
+      "entity_rank": "123",
+      "name_th": "นิวซีแลนด์",
+      "death_rate_per_1000": 7.53,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "115",
+      "entity_rank": "124",
+      "name_th": "ออสเตรเลีย",
+      "death_rate_per_1000": 7.51,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "116",
+      "entity_rank": "125",
+      "name_th": "ซูรินาม",
+      "death_rate_per_1000": 7.27,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "117",
+      "entity_rank": "126",
+      "name_th": "ปาปัวนิวกินี",
+      "death_rate_per_1000": 7.25,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "118",
+      "entity_rank": "127",
+      "name_th": "คิวบา",
+      "death_rate_per_1000": 7.22,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "119",
+      "entity_rank": "128",
+      "name_th": "ลีชเทินชไตน์",
+      "death_rate_per_1000": 7.18,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "120",
+      "entity_rank": "129",
+      "name_th": "เกาหลีเหนือ",
+      "death_rate_per_1000": 7.13,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "121",
+      "entity_rank": "130",
+      "name_th": "ตูวาลู",
+      "death_rate_per_1000": 7.11,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "122",
+      "entity_rank": "131",
+      "name_th": "มอนต์เซอร์รัต (UK)",
+      "death_rate_per_1000": 7.1,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "132",
+      "name_th": "คีร์กีซสถาน",
+      "death_rate_per_1000": 7.08,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "123",
+      "entity_rank": "133",
+      "name_th": "มัลดีฟส์",
+      "death_rate_per_1000": 7.06,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "124",
+      "entity_rank": "134",
+      "name_th": "ไทย",
+      "death_rate_per_1000": 7.04,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "125",
+      "entity_rank": "135",
+      "name_th": "จีน",
+      "death_rate_per_1000": 6.97,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "126",
+      "entity_rank": "136",
+      "name_th": "มองโกเลีย",
+      "death_rate_per_1000": 6.95,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "127",
+      "entity_rank": "137",
+      "name_th": "เกรเนดา",
+      "death_rate_per_1000": 6.88,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "128",
+      "entity_rank": "138",
+      "name_th": "มอริเชียส",
+      "death_rate_per_1000": 6.86,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "140",
+      "name_th": "แซงปีแยร์และมีเกอลง (ฝรั่งเศส)",
+      "death_rate_per_1000": 6.83,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "129",
+      "entity_rank": "139",
+      "name_th": "ปาเลา",
+      "death_rate_per_1000": 6.8,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "130",
+      "entity_rank": "141",
+      "name_th": "ดอมินีกา",
+      "death_rate_per_1000": 6.73,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "131",
+      "entity_rank": "142",
+      "name_th": "ไอซ์แลนด์",
+      "death_rate_per_1000": 6.72,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "132",
+      "entity_rank": "143",
+      "name_th": "นาอูรู",
+      "death_rate_per_1000": 6.7,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "145",
+      "name_th": "อารูบา (เนเธอร์แลนด์)",
+      "death_rate_per_1000": 6.68,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "133",
+      "entity_rank": "144",
+      "name_th": "ซามัว",
+      "death_rate_per_1000": 6.62,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "134",
+      "entity_rank": "146",
+      "name_th": "กาบูเวร์ดี",
+      "death_rate_per_1000": 6.55,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "148",
+      "name_th": "เซนต์เฮเลนา (UK)",
+      "death_rate_per_1000": 6.53,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "135",
+      "entity_rank": "147",
+      "name_th": "ศรีลังกา",
+      "death_rate_per_1000": 6.52,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "136",
+      "entity_rank": "149",
+      "name_th": "จาเมกา",
+      "death_rate_per_1000": 6.52,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "151",
+      "name_th": "มาร์ตีนิก (ฝรั่งเศส)",
+      "death_rate_per_1000": 6.48,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "137",
+      "entity_rank": "150",
+      "name_th": "ไต้หวัน",
+      "death_rate_per_1000": 6.48,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "138",
+      "entity_rank": "152",
+      "name_th": "เซาตูเมและปรินซิปี",
+      "death_rate_per_1000": 6.47,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "154",
+      "name_th": "เนเธอร์แลนด์แอนทิลลีส (เนเธอร์แลนด์)",
+      "death_rate_per_1000": 6.45,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "155",
+      "name_th": "หมู่เกาะเวอร์จินของสหรัฐ (US)",
+      "death_rate_per_1000": 6.43,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "156",
+      "name_th": "ฮ่องกง (จีน)",
+      "death_rate_per_1000": 6.29,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "139",
+      "entity_rank": "157",
+      "name_th": "เซเชลส์",
+      "death_rate_per_1000": 6.29,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "140",
+      "entity_rank": "158",
+      "name_th": "อันดอร์รา",
+      "death_rate_per_1000": 6.25,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "141",
+      "entity_rank": "159",
+      "name_th": "อินโดนีเซีย",
+      "death_rate_per_1000": 6.25,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "142",
+      "entity_rank": "160",
+      "name_th": "ติมอร์-เลสเต",
+      "death_rate_per_1000": 6.24,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "143",
+      "entity_rank": "161",
+      "name_th": "เปรู",
+      "death_rate_per_1000": 6.23,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "144",
+      "entity_rank": "162",
+      "name_th": "เวียดนาม",
+      "death_rate_per_1000": 6.22,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "145",
+      "entity_rank": "163",
+      "name_th": "เลบานอน",
+      "death_rate_per_1000": 6.21,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "146",
+      "entity_rank": "164",
+      "name_th": "อิสราเอล",
+      "death_rate_per_1000": 6.18,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "147",
+      "entity_rank": "165",
+      "name_th": "บราซิล",
+      "death_rate_per_1000": 6.17,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "166",
+      "name_th": "กัวเดอลูป (ฝรั่งเศส)",
+      "death_rate_per_1000": 6.09,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "148",
+      "entity_rank": "167",
+      "name_th": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "death_rate_per_1000": 5.98,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "149",
+      "entity_rank": "168",
+      "name_th": "ตุรกี",
+      "death_rate_per_1000": 5.97,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "150",
+      "entity_rank": "169",
+      "name_th": "เกาหลีเหนือ",
+      "death_rate_per_1000": 5.85,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "151",
+      "entity_rank": "170",
+      "name_th": "ชิลี",
+      "death_rate_per_1000": 5.81,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "152",
+      "entity_rank": "171",
+      "name_th": "เอลซัลวาดอร์",
+      "death_rate_per_1000": 5.78,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "153",
+      "entity_rank": "172",
+      "name_th": "สาธารณรัฐโดมินิกัน",
+      "death_rate_per_1000": 5.73,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "154",
+      "entity_rank": "173",
+      "name_th": "เบลีซ",
+      "death_rate_per_1000": 5.72,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "174",
+      "name_th": "นิวแคลิโดเนีย (ฝรั่งเศส)",
+      "death_rate_per_1000": 5.69,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "155",
+      "entity_rank": "175",
+      "name_th": "ฟิจิ",
+      "death_rate_per_1000": 5.65,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "156",
+      "entity_rank": "176",
+      "name_th": "โคลอมเบีย",
+      "death_rate_per_1000": 5.58,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "157",
+      "entity_rank": "177",
+      "name_th": "โมร็อกโก",
+      "death_rate_per_1000": 5.58,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "158",
+      "entity_rank": "178",
+      "name_th": "อิหร่าน",
+      "death_rate_per_1000": 5.55,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "179",
+      "name_th": "เรอูว์นียง (ฝรั่งเศส)",
+      "death_rate_per_1000": 5.49,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "159",
+      "entity_rank": "180",
+      "name_th": "ฟิลิปปินส์",
+      "death_rate_per_1000": 5.41,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "160",
+      "entity_rank": "181",
+      "name_th": "แอนติกาและบาร์บูดา",
+      "death_rate_per_1000": 5.37,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "161",
+      "entity_rank": "182",
+      "name_th": "อิรัก",
+      "death_rate_per_1000": 5.37,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "162",
+      "entity_rank": "183",
+      "name_th": "ปานามา",
+      "death_rate_per_1000": 5.36,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "184",
+      "name_th": "แองกวิลลา (UK)",
+      "death_rate_per_1000": 5.34,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "163",
+      "entity_rank": "185",
+      "name_th": "ฮอนดูรัส",
+      "death_rate_per_1000": 5.28,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "164",
+      "entity_rank": "186",
+      "name_th": "ตองกา",
+      "death_rate_per_1000": 5.28,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "165",
+      "entity_rank": "187",
+      "name_th": "อียิปต์",
+      "death_rate_per_1000": 5.23,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "166",
+      "entity_rank": "188",
+      "name_th": "แอลเบเนีย",
+      "death_rate_per_1000": 5.22,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "167",
+      "entity_rank": "189",
+      "name_th": "กัวเตมาลา",
+      "death_rate_per_1000": 5.2,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "168",
+      "entity_rank": "190",
+      "name_th": "ตูนิเซีย",
+      "death_rate_per_1000": 5.13,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "169",
+      "entity_rank": "191",
+      "name_th": "เซนต์ลูเชีย",
+      "death_rate_per_1000": 5.08,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "170",
+      "entity_rank": "192",
+      "name_th": "มาเลเซีย",
+      "death_rate_per_1000": 5.05,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "171",
+      "entity_rank": "193",
+      "name_th": "เวเนซุเอลา",
+      "death_rate_per_1000": 4.92,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "194",
+      "name_th": "หมู่เกาะเคย์แมน (UK)",
+      "death_rate_per_1000": 4.89,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "195",
+      "name_th": "เฟรนช์เกียนา (ฝรั่งเศส)",
+      "death_rate_per_1000": 4.88,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "172",
+      "entity_rank": "196",
+      "name_th": "ซีเรีย",
+      "death_rate_per_1000": 4.81,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "173",
+      "entity_rank": "197",
+      "name_th": "หมู่เกาะมาร์แชลล์",
+      "death_rate_per_1000": 4.78,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "174",
+      "entity_rank": "198",
+      "name_th": "ไมโครนีเซีย",
+      "death_rate_per_1000": 4.75,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "175",
+      "entity_rank": "199",
+      "name_th": "เม็กซิโก",
+      "death_rate_per_1000": 4.74,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "176",
+      "entity_rank": "200",
+      "name_th": "กาตาร์",
+      "death_rate_per_1000": 4.72,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "201",
+      "name_th": "เฟรนช์โปลินีเซีย (ฝรั่งเศส)",
+      "death_rate_per_1000": 4.69,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "177",
+      "entity_rank": "202",
+      "name_th": "แอลจีเรีย",
+      "death_rate_per_1000": 4.61,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "178",
+      "entity_rank": "203",
+      "name_th": "ปารากวัย",
+      "death_rate_per_1000": 4.49,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "204",
+      "name_th": "กวม (US)",
+      "death_rate_per_1000": 4.48,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "205",
+      "name_th": "มาเก๊า (จีน)",
+      "death_rate_per_1000": 4.47,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "179",
+      "entity_rank": "206",
+      "name_th": "นิการากัว",
+      "death_rate_per_1000": 4.45,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "207",
+      "name_th": "หมู่เกาะบริติชเวอร์จิน (UK)",
+      "death_rate_per_1000": 4.42,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "180",
+      "entity_rank": "208",
+      "name_th": "สหรัฐอาหรับเอมิเรตส์",
+      "death_rate_per_1000": 4.4,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "181",
+      "entity_rank": "209",
+      "name_th": "คอสตาริกา",
+      "death_rate_per_1000": 4.36,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "182",
+      "entity_rank": "210",
+      "name_th": "สิงคโปร์",
+      "death_rate_per_1000": 4.28,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "183",
+      "entity_rank": "211",
+      "name_th": "เอกวาดอร์",
+      "death_rate_per_1000": 4.23,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "212",
+      "name_th": "หมู่เกาะเติกส์และเคคอส (UK)",
+      "death_rate_per_1000": 4.21,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "184",
+      "entity_rank": "213",
+      "name_th": "บาห์เรน",
+      "death_rate_per_1000": 4.14,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "185",
+      "entity_rank": "214",
+      "name_th": "หมู่เกาะโซโลมอน",
+      "death_rate_per_1000": 3.92,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "215",
+      "name_th": "เวสต์แบงก์",
+      "death_rate_per_1000": 3.92,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "186",
+      "entity_rank": "216",
+      "name_th": "โอมาน",
+      "death_rate_per_1000": 3.81,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "217",
+      "name_th": "ฉนวนกาซา",
+      "death_rate_per_1000": 3.8,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "187",
+      "entity_rank": "218",
+      "name_th": "ลิเบีย",
+      "death_rate_per_1000": 3.48,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "188",
+      "entity_rank": "219",
+      "name_th": "บรูไน",
+      "death_rate_per_1000": 3.45,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "",
+      "entity_rank": "220",
+      "name_th": "อเมริกันซามัว (US)",
+      "death_rate_per_1000": 3.27,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "189",
+      "entity_rank": "221",
+      "name_th": "จอร์แดน",
+      "death_rate_per_1000": 2.65,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "190",
+      "entity_rank": "222",
+      "name_th": "ซาอุดีอาระเบีย",
+      "death_rate_per_1000": 2.58,
+      "data_year": 2006
+    },
+    {
+      "sovereign_state_rank": "191",
+      "entity_rank": "223",
+      "name_th": "หมู่เกาะมาร์แชลล์",
+      "death_rate_per_1000": 1.11,
+      "data_year": 2006
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประเทศตามอัตราการเสียชีวิต",
+    "description": "ข้อมูลอัตราการเสียชีวิตของประเทศและเขตปกครองต่างๆ ทั่วโลก อ้างอิงจาก CIA The World Factbook โดยแสดงลำดับประเทศตามรัฐเอกราช ลำดับตามรายชื่อ ชื่อประเทศ อัตราการเสียชีวิต (ต่อ 1,000 คน) และปีข้อมูล",
+    "seo_title": "รายชื่อประเทศตามอัตราการเสียชีวิต - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 224 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 224 รายการครบถ้วน",
+      "รวม: ลำดับตามรัฐเอกราช, ลำดับตามรายชื่อ, รายชื่อ, อัตราการเสียชีวิต (การเสียชีวิต/1,000 คน), ปีข้อมูล (ค.ศ.)",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

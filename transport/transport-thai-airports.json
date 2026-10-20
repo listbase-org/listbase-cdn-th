@@ -1,0 +1,368 @@
+{
+  "id": "transport-thai-airports",
+  "name": "รายชื่อท่าอากาศยานในประเทศไทย",
+  "title": "รายชื่อท่าอากาศยานในประเทศไทย",
+  "description": "รายชื่อท่าอากาศยานที่มีการบินเชิงพาณิชย์ทั้งหมดในประเทศไทย ประกอบด้วยท่าอากาศยานที่บริหารโดยบริษัท ท่าอากาศยานไทย จำกัด (มหาชน), กรมท่าอากาศยาน และหน่วยงานอื่น ๆ พร้อมข้อมูลจังหวัด, อำเภอ, รหัส IATA, รหัส ICAO, ชื่อภาษาไทย, ชื่อภาษาอังกฤษ และหน่วยงานผู้ดูแล",
+  "category": "transport",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2",
+  "updated": "2024-07-29",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "province",
+      "label": "จังหวัด",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "อำเภอ",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "IATA",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "ICAO",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อไทย",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่ออังกฤษ",
+      "type": "string"
+    },
+    {
+      "key": "agency",
+      "label": "หน่วยงาน",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "สมุทรปราการ",
+      "district": "บางพลี",
+      "iata": "BKK",
+      "icao": "VTBS",
+      "name_th": "ท่าอากาศยานสุวรรณภูมิ",
+      "name_en": "Suvarnabhumi Airport",
+      "agency": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)"
+    },
+    {
+      "province": "กรุงเทพมหานคร",
+      "district": "ดอนเมือง",
+      "iata": "DMK",
+      "icao": "VTBD",
+      "name_th": "ท่าอากาศยานดอนเมือง",
+      "name_en": "Don Mueang International Airport",
+      "agency": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน) และ กองทัพอากาศ"
+    },
+    {
+      "province": "เชียงใหม่",
+      "district": "เมืองเชียงใหม่",
+      "iata": "CNX",
+      "icao": "VTCC",
+      "name_th": "ท่าอากาศยานเชียงใหม่",
+      "name_en": "Chiang Mai International Airport",
+      "agency": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน) และ กองทัพอากาศ"
+    },
+    {
+      "province": "เชียงราย",
+      "district": "เมืองเชียงราย",
+      "iata": "CEI",
+      "icao": "VTCT",
+      "name_th": "ท่าอากาศยานแม่ฟ้าหลวง เชียงราย",
+      "name_en": "Mae Fah Luang - Chiang Rai International Airport",
+      "agency": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน) และ สำนักงานตำรวจแห่งชาติ (ไทย)"
+    },
+    {
+      "province": "ภูเก็ต",
+      "district": "ถลาง",
+      "iata": "HKT",
+      "icao": "VTSP",
+      "name_th": "ท่าอากาศยานนานาชาติภูเก็ต",
+      "name_en": "Phuket International Airport",
+      "agency": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)"
+    },
+    {
+      "province": "สงขลา",
+      "district": "คลองหอยโข่ง",
+      "iata": "HDY",
+      "icao": "VTSS",
+      "name_th": "ท่าอากาศยานหาดใหญ่",
+      "name_en": "Hat Yai International Airport",
+      "agency": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)"
+    },
+    {
+      "province": "กระบี่",
+      "district": "เหนือคลอง",
+      "iata": "KBV",
+      "icao": "VTSG",
+      "name_th": "ท่าอากาศยานนานาชาติกระบี่",
+      "name_en": "Krabi International Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ขอนแก่น",
+      "district": "เมืองขอนแก่น",
+      "iata": "KKC",
+      "icao": "VTUK",
+      "name_th": "ท่าอากาศยานนานาชาติขอนแก่น",
+      "name_en": "Khon Kaen International Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ชุมพร",
+      "district": "ปะทิว",
+      "iata": "CJM",
+      "icao": "VTSE",
+      "name_th": "ท่าอากาศยานชุมพร",
+      "name_en": "Chumphon Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ตรัง",
+      "district": "เมืองตรัง",
+      "iata": "TST",
+      "icao": "VTST",
+      "name_th": "ท่าอากาศยานตรัง",
+      "name_en": "Trang Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ตาก",
+      "district": "แม่สอด",
+      "iata": "MAQ",
+      "icao": "VTPM",
+      "name_th": "ท่าอากาศยานนานาชาติแม่สอด",
+      "name_en": "Mae Sot International Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "นครพนม",
+      "district": "เมืองนครพนม",
+      "iata": "KOP",
+      "icao": "VTUW",
+      "name_th": "ท่าอากาศยานนครพนม",
+      "name_en": "Nakhon Phanom Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "นครราชสีมา",
+      "district": "เฉลิมพระเกียรติ",
+      "iata": "NAK",
+      "icao": "VTUQ",
+      "name_th": "ท่าอากาศยานนครราชสีมา",
+      "name_en": "Nakhon Ratchasima Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "นครศรีธรรมราช",
+      "district": "เมืองนครศรีธรรมราช",
+      "iata": "NST",
+      "icao": "VTSF",
+      "name_th": "ท่าอากาศยานนานาชาตินครศรีธรรมราช",
+      "name_en": "Nakhon Si Thammarat International Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "นราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "iata": "NAW",
+      "icao": "VTSC",
+      "name_th": "ท่าอากาศยานนราธิวาส",
+      "name_en": "Narathiwat Airport",
+      "agency": "กรมท่าอากาศยาน และกองทัพเรือ"
+    },
+    {
+      "province": "น่าน",
+      "district": "เมืองน่าน",
+      "iata": "NNT",
+      "icao": "VTCN",
+      "name_th": "ท่าอากาศยานน่านนคร",
+      "name_en": "Nan Nakhon Airport",
+      "agency": "กรมท่าอากาศยาน และกองทัพอากาศ"
+    },
+    {
+      "province": "บุรีรัมย์",
+      "district": "สตึก",
+      "iata": "BFV",
+      "icao": "VTUO",
+      "name_th": "ท่าอากาศยานบุรีรัมย์",
+      "name_en": "Buriram Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ประจวบคีรีขันธ์",
+      "district": "หัวหิน",
+      "iata": "HHQ",
+      "icao": "VTPH",
+      "name_th": "ท่าอากาศยานหัวหิน",
+      "name_en": "Hua Hin Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "พิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "iata": "PHS",
+      "icao": "VTPP",
+      "name_th": "ท่าอากาศยานพิษณุโลก",
+      "name_en": "Phitsanulok Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "แพร่",
+      "district": "เมืองแพร่",
+      "iata": "PRH",
+      "icao": "VTCP",
+      "name_th": "ท่าอากาศยานแพร่",
+      "name_en": "Phrae Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "แม่ฮ่องสอน",
+      "district": "เมืองแม่ฮ่องสอน",
+      "iata": "HGN",
+      "icao": "VTCH",
+      "name_th": "ท่าอากาศยานแม่ฮ่องสอน",
+      "name_en": "Mae Hong Son Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ยะลา",
+      "district": "เบตง",
+      "iata": "BTZ",
+      "icao": "VTSY",
+      "name_th": "ท่าอากาศยานนานาชาติเบตง",
+      "name_en": "Betong International Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ร้อยเอ็ด",
+      "district": "ธวัชบุรี",
+      "iata": "ROI",
+      "icao": "VTUV",
+      "name_th": "ท่าอากาศยานร้อยเอ็ด",
+      "name_en": "Roi Et Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ระนอง",
+      "district": "เมืองระนอง",
+      "iata": "UNN",
+      "icao": "VTSR",
+      "name_th": "ท่าอากาศยานระนอง",
+      "name_en": "Ranong Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "เลย",
+      "district": "เมืองเลย",
+      "iata": "LOE",
+      "icao": "VTUL",
+      "name_th": "ท่าอากาศยานเลย",
+      "name_en": "Loei Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ลำปาง",
+      "district": "เมืองลำปาง",
+      "iata": "LPT",
+      "icao": "VTCL",
+      "name_th": "ท่าอากาศยานลำปาง",
+      "name_en": "Lampang Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "สกลนคร",
+      "district": "เมืองสกลนคร",
+      "iata": "SNO",
+      "icao": "VTUI",
+      "name_th": "ท่าอากาศยานสกลนคร",
+      "name_en": "Sakon Nakhon Airport",
+      "agency": "กองทัพบก และกรมท่าอากาศยาน"
+    },
+    {
+      "province": "สุราษฎร์ธานี",
+      "district": "พุนพิน",
+      "iata": "URT",
+      "icao": "VTSB",
+      "name_th": "ท่าอากาศยานนานาชาติสุราษฎร์ธานี",
+      "name_en": "Surat Thani International Airport",
+      "agency": "กรมท่าอากาศยาน และกองทัพอากาศ"
+    },
+    {
+      "province": "อุดรธานี",
+      "district": "เมืองอุดรธานี",
+      "iata": "UTH",
+      "icao": "VTUD",
+      "name_th": "ท่าอากาศยานนานาชาติอุดรธานี",
+      "name_en": "Udon Thani International Airport",
+      "agency": "กรมท่าอากาศยาน และกองทัพอากาศ"
+    },
+    {
+      "province": "อุบลราชธานี",
+      "district": "เมืองอุบลราชธานี",
+      "iata": "UBP",
+      "icao": "VTUU",
+      "name_th": "ท่าอากาศยานนานาชาติอุบลราชธานี",
+      "name_en": "Ubon Ratchathani International Airport",
+      "agency": "กรมท่าอากาศยาน"
+    },
+    {
+      "province": "ตราด",
+      "district": "เขาสมิง",
+      "iata": "TDX",
+      "icao": "VTBO",
+      "name_th": "ท่าอากาศยานตราด",
+      "name_en": "Trat Airport",
+      "agency": "บางกอกแอร์เวย์"
+    },
+    {
+      "province": "ระยอง",
+      "district": "บ้านฉาง",
+      "iata": "UTP",
+      "icao": "VTBU",
+      "name_th": "ท่าอากาศยานนานาชาติอู่ตะเภา (ระยอง–พัทยา)",
+      "name_en": "U-Tapao International Airport",
+      "agency": "กองทัพเรือ"
+    },
+    {
+      "province": "สุราษฎร์ธานี",
+      "district": "เกาะสมุย",
+      "iata": "USM",
+      "icao": "VTSM",
+      "name_th": "ท่าอากาศยานนานาชาติสมุย",
+      "name_en": "Samui International Airport",
+      "agency": "บางกอกแอร์เวย์"
+    },
+    {
+      "province": "สุโขทัย",
+      "district": "สวรรคโลก",
+      "iata": "THS",
+      "icao": "VTPO",
+      "name_th": "ท่าอากาศยานสุโขทัย",
+      "name_en": "Sukhothai Airport",
+      "agency": "บางกอกแอร์เวย์"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อท่าอากาศยานในประเทศไทย",
+    "description": "รายชื่อท่าอากาศยานที่มีการบินเชิงพาณิชย์ทั้งหมดในประเทศไทย ประกอบด้วยท่าอากาศยานที่บริหารโดยบริษัท ท่าอากาศยานไทย จำกัด (มหาชน), กรมท่าอากาศยาน และหน่วยงานอื่น ๆ",
+    "seo_title": "รายชื่อท่าอากาศยานในประเทศไทย - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 34 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 34 รายการครบถ้วน",
+      "รวม: ชื่อ, รหัส IATA, รหัส ICAO, จังหวัด, หน่วยงาน",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

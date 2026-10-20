@@ -1,0 +1,1277 @@
+{
+  "id": "reference-thai-universities",
+  "name": "รายชื่อมหาวิทยาลัยในประเทศไทย",
+  "title": "รายชื่อมหาวิทยาลัยในประเทศไทย",
+  "description": "รายชื่อมหาวิทยาลัยในประเทศไทยทั้งหมด ประกอบด้วยมหาวิทยาลัยรัฐ มหาวิทยาลัยในกำกับของรัฐ มหาวิทยาลัยราชภัฏ มหาวิทยาลัยเทคโนโลยีราชมงคล และมหาวิทยาลัยเอกชน พร้อมข้อมูลชื่อภาษาไทย ชื่อภาษาอังกฤษ ตัวย่อ ปีก่อตั้ง ที่ตั้ง และประเภทสถาบัน",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อสถาบันอุดมศึกษาในประเทศไทย",
+  "updated": "2026-02-22",
+  "record_count": 121,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อภาษาไทย",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อภาษาอังกฤษ",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation_th",
+      "label": "ตัวย่อภาษาไทย",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation_en",
+      "label": "ตัวย่อภาษาอังกฤษ",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "ประเภท",
+      "type": "string"
+    },
+    {
+      "key": "founded_year",
+      "label": "ปีก่อตั้ง (พ.ศ.)",
+      "type": "string"
+    },
+    {
+      "key": "established_year",
+      "label": "ปีสถาปนา (พ.ศ.)",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "ที่ตั้ง",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "มหาวิทยาลัยกาฬสินธุ์",
+      "name_en": "Kalasin University",
+      "abbreviation_th": "มกส.",
+      "abbreviation_en": "KSU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2482",
+      "established_year": "2558",
+      "location": "กาฬสินธุ์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนครพนม",
+      "name_en": "Nakhon Phanom University",
+      "abbreviation_th": "มนพ.",
+      "abbreviation_en": "NPU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2548",
+      "established_year": "2548",
+      "location": "นครพนม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนราธิวาสราชนครินทร์",
+      "name_en": "Princess of Naradhiwas University",
+      "abbreviation_th": "มนร.",
+      "abbreviation_en": "PNU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2546",
+      "established_year": "2548",
+      "location": "นราธิวาส"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนเรศวร",
+      "name_en": "Naresuan University",
+      "abbreviation_th": "มน.",
+      "abbreviation_en": "NU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2510",
+      "established_year": "2533",
+      "location": "พิษณุโลก"
+    },
+    {
+      "name_th": "มหาวิทยาลัยมหาสารคาม",
+      "name_en": "Mahasarakham University",
+      "abbreviation_th": "มมส.",
+      "abbreviation_en": "MSU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2511",
+      "established_year": "2537",
+      "location": "มหาสารคาม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยรามคำแหง",
+      "name_en": "Ramkhamhaeng University",
+      "abbreviation_th": "มร.",
+      "abbreviation_en": "RU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2514",
+      "established_year": "2514",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยสุโขทัยธรรมาธิราช",
+      "name_en": "Sukhothai Thammathirat Open University",
+      "abbreviation_th": "มสธ.",
+      "abbreviation_en": "STOU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2521",
+      "established_year": "2521",
+      "location": "นนทบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยอุบลราชธานี",
+      "name_en": "Ubon Ratchathani University",
+      "abbreviation_th": "มอบ.",
+      "abbreviation_en": "UBU",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2530",
+      "established_year": "2533",
+      "location": "อุบลราชธานี"
+    },
+    {
+      "name_th": "สถาบันเทคโนโลยีปทุมวัน",
+      "name_en": "Pathumwan Institute of Technology",
+      "abbreviation_th": "สทป.",
+      "abbreviation_en": "PIT",
+      "type": "มหาวิทยาลัยของรัฐ",
+      "founded_year": "2475",
+      "established_year": "2541",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "จุฬาลงกรณ์มหาวิทยาลัย",
+      "name_en": "Chulalongkorn University",
+      "abbreviation_th": "จฬ.",
+      "abbreviation_en": "CU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2442",
+      "established_year": "2460",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเกษตรศาสตร์",
+      "name_en": "Kasetsart University",
+      "abbreviation_th": "มก.",
+      "abbreviation_en": "KU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2447",
+      "established_year": "2486",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยขอนแก่น",
+      "name_en": "Khon Kaen University",
+      "abbreviation_th": "มข.",
+      "abbreviation_en": "KKU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2505",
+      "established_year": "2509",
+      "location": "ขอนแก่น"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเชียงใหม่",
+      "name_en": "Chiang Mai University",
+      "abbreviation_th": "มช.",
+      "abbreviation_en": "CMU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2503",
+      "established_year": "2507",
+      "location": "เชียงใหม่"
+    },
+    {
+      "name_th": "มหาวิทยาลัยทักษิณ",
+      "name_en": "Thaksin University",
+      "abbreviation_th": "มทษ.",
+      "abbreviation_en": "TSU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2511",
+      "established_year": "2539",
+      "location": "สงขลา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+      "name_en": "King Mongkut's University of Technology Thonburi",
+      "abbreviation_th": "มจธ.",
+      "abbreviation_en": "KMUTT",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2503",
+      "established_year": "2529",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+      "name_en": "King Mongkut's University of Technology North Bangkok",
+      "abbreviation_th": "มจพ.",
+      "abbreviation_en": "KMUTNB",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2502",
+      "established_year": "2529",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีสุรนารี",
+      "name_en": "Suranaree University of Technology",
+      "abbreviation_th": "มทส.",
+      "abbreviation_en": "SUT",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2533",
+      "established_year": "2533",
+      "location": "นครราชสีมา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยธรรมศาสตร์",
+      "name_en": "Thammasat University",
+      "abbreviation_th": "มธ.",
+      "abbreviation_en": "TU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2440",
+      "established_year": "2477",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนวมินทราธิราช",
+      "name_en": "Navamindradhiraj University",
+      "abbreviation_th": "นมร.",
+      "abbreviation_en": "NMU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2497",
+      "established_year": "2553",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยบูรพา",
+      "name_en": "Burapha University",
+      "abbreviation_th": "มบ.",
+      "abbreviation_en": "BUU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2498",
+      "established_year": "2533",
+      "location": "ชลบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยพะเยา",
+      "name_en": "University of Phayao",
+      "abbreviation_th": "มพ.",
+      "abbreviation_en": "UP",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2538",
+      "established_year": "2553",
+      "location": "พะเยา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย",
+      "name_en": "Mahachulalongkornrajavidyalaya University",
+      "abbreviation_th": "มจร",
+      "abbreviation_en": "MCU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2439",
+      "established_year": "2540",
+      "location": "พระนครศรีอยุธยา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยมหามกุฏราชวิทยาลัย",
+      "name_en": "Mahamakut Buddhist University",
+      "abbreviation_th": "มมร",
+      "abbreviation_en": "MBU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2436",
+      "established_year": "2540",
+      "location": "นครปฐม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยมหิดล",
+      "name_en": "Mahidol University",
+      "abbreviation_th": "มม.",
+      "abbreviation_en": "MU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2432",
+      "established_year": "2486",
+      "location": "นครปฐม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยแม่โจ้",
+      "name_en": "Maejo University",
+      "abbreviation_th": "มจ.",
+      "abbreviation_en": "MJU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2477",
+      "established_year": "2539",
+      "location": "เชียงใหม่"
+    },
+    {
+      "name_th": "มหาวิทยาลัยแม่ฟ้าหลวง",
+      "name_en": "Mae Fah Luang University",
+      "abbreviation_th": "มฟล.",
+      "abbreviation_en": "MFU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2541",
+      "established_year": "2541",
+      "location": "เชียงราย"
+    },
+    {
+      "name_th": "มหาวิทยาลัยวลัยลักษณ์",
+      "name_en": "Walailak University",
+      "abbreviation_th": "มวล.",
+      "abbreviation_en": "WU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2535",
+      "established_year": "2535",
+      "location": "นครศรีธรรมราช"
+    },
+    {
+      "name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "name_en": "Srinakharinwirot University",
+      "abbreviation_th": "มศว",
+      "abbreviation_en": "SWU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2492",
+      "established_year": "2517",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยศิลปากร",
+      "name_en": "Silpakorn University",
+      "abbreviation_th": "มศก.",
+      "abbreviation_en": "SU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2476",
+      "established_year": "2486",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยสงขลานครินทร์",
+      "name_en": "Prince of Songkla University",
+      "abbreviation_th": "ม.อ.",
+      "abbreviation_en": "PSU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2510",
+      "established_year": "2511",
+      "location": "สงขลา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยสวนดุสิต",
+      "name_en": "Suan Dusit University",
+      "abbreviation_th": "มสด.",
+      "abbreviation_en": "SDU",
+      "type": "มหาวิทยาลัยในกำกับของรัฐ",
+      "founded_year": "2477",
+      "established_year": "2558",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏกาญจนบุรี",
+      "name_en": "Kanchanaburi Rajabhat University",
+      "abbreviation_th": "มรกจ.",
+      "abbreviation_en": "KRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2516",
+      "established_year": "2547",
+      "location": "กาญจนบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏกำแพงเพชร",
+      "name_en": "Kamphaeng Phet Rajabhat University",
+      "abbreviation_th": "มรภ.กพ.",
+      "abbreviation_en": "KPRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2516",
+      "established_year": "2547",
+      "location": "กำแพงเพชร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏจันทรเกษม",
+      "name_en": "Chandrakasem Rajabhat University",
+      "abbreviation_th": "มจษ.",
+      "abbreviation_en": "CRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2483",
+      "established_year": "2547",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏชัยภูมิ",
+      "name_en": "Chaiyaphum Rajabhat University",
+      "abbreviation_th": "มชย.",
+      "abbreviation_en": "CPRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2544",
+      "established_year": "2547",
+      "location": "ชัยภูมิ"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏเชียงราย",
+      "name_en": "Chiang Rai Rajabhat University",
+      "abbreviation_th": "มร.ช.",
+      "abbreviation_en": "CRRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2516",
+      "established_year": "2547",
+      "location": "เชียงราย"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏเชียงใหม่",
+      "name_en": "Chiang Mai Rajabhat University",
+      "abbreviation_th": "มร.ชม.",
+      "abbreviation_en": "CMRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2467",
+      "established_year": "2547",
+      "location": "เชียงใหม่"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏเทพสตรี",
+      "name_en": "Thepsatri Rajabhat University",
+      "abbreviation_th": "มรท.",
+      "abbreviation_en": "TRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2463",
+      "established_year": "2547",
+      "location": "ลพบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏธนบุรี",
+      "name_en": "Dhonburi Rajabhat University",
+      "abbreviation_th": "มรธ.",
+      "abbreviation_en": "DRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2491",
+      "established_year": "2547",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏนครปฐม",
+      "name_en": "Nakhon Pathom Rajabhat University",
+      "abbreviation_th": "มรน.",
+      "abbreviation_en": "NPRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2479",
+      "established_year": "2547",
+      "location": "นครปฐม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏนครราชสีมา",
+      "name_en": "Nakhon Ratchasima Rajabhat University",
+      "abbreviation_th": "มร.นม.",
+      "abbreviation_en": "NRRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2466",
+      "established_year": "2547",
+      "location": "นครราชสีมา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏนครศรีธรรมราช",
+      "name_en": "Nakhon Si Thammarat Rajabhat University",
+      "abbreviation_th": "มรนศ.",
+      "abbreviation_en": "NSTRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2500",
+      "established_year": "2547",
+      "location": "นครศรีธรรมราช"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏนครสวรรค์",
+      "name_en": "Nakhon Sawan Rajabhat University",
+      "abbreviation_th": "มรนว.",
+      "abbreviation_en": "NSRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2465",
+      "established_year": "2547",
+      "location": "นครสวรรค์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+      "name_en": "Bansomdejchaopraya Rajabhat University",
+      "abbreviation_th": "มบส.",
+      "abbreviation_en": "BSRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2439",
+      "established_year": "2547",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏบุรีรัมย์",
+      "name_en": "Buriram Rajabhat University",
+      "abbreviation_th": "มรภ.บร.",
+      "abbreviation_en": "BRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2514",
+      "established_year": "2547",
+      "location": "บุรีรัมย์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏพระนคร",
+      "name_en": "Phranakhon Rajabhat University",
+      "abbreviation_th": "มรภ.พน.",
+      "abbreviation_en": "PNRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2435",
+      "established_year": "2547",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏพระนครศรีอยุธยา",
+      "name_en": "Phranakhon Si Ayutthaya Rajabhat University",
+      "abbreviation_th": "มรอย.",
+      "abbreviation_en": "ARU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2448",
+      "established_year": "2547",
+      "location": "พระนครศรีอยุธยา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏพิบูลสงคราม",
+      "name_en": "Pibulsongkram Rajabhat University",
+      "abbreviation_th": "มรพส.",
+      "abbreviation_en": "PSRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2464",
+      "established_year": "2547",
+      "location": "พิษณุโลก"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏเพชรบุรี",
+      "name_en": "Phetchaburi Rajabhat University",
+      "abbreviation_th": "มรภ.พบ.",
+      "abbreviation_en": "PBRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2469",
+      "established_year": "2547",
+      "location": "เพชรบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏเพชรบูรณ์",
+      "name_en": "Phetchabun Rajabhat University",
+      "abbreviation_th": "มรพช.",
+      "abbreviation_en": "PCRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2516",
+      "established_year": "2547",
+      "location": "เพชรบูรณ์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏภูเก็ต",
+      "name_en": "Phuket Rajabhat University",
+      "abbreviation_th": "มรภ.",
+      "abbreviation_en": "PKRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2514",
+      "established_year": "2547",
+      "location": "ภูเก็ต"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏมหาสารคาม",
+      "name_en": "Maha Sarakham Rajabhat University",
+      "abbreviation_th": "มรม.",
+      "abbreviation_en": "RMU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2468",
+      "established_year": "2547",
+      "location": "มหาสารคาม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏยะลา",
+      "name_en": "Yala Rajabhat University",
+      "abbreviation_th": "มรย.",
+      "abbreviation_en": "YRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2477",
+      "established_year": "2547",
+      "location": "ยะลา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏร้อยเอ็ด",
+      "name_en": "Roi Et Rajabhat University",
+      "abbreviation_th": "ม.รอ.",
+      "abbreviation_en": "RERU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2544",
+      "established_year": "2547",
+      "location": "ร้อยเอ็ด"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏราชนครินทร์",
+      "name_en": "Rajanagarindra Rajabhat University",
+      "abbreviation_th": "มรร.",
+      "abbreviation_en": "RRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2483",
+      "established_year": "2547",
+      "location": "ฉะเชิงเทรา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏรำไพพรรณี",
+      "name_en": "Rambhai Barni Rajabhat University",
+      "abbreviation_th": "มรรพ.",
+      "abbreviation_en": "RBRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2515",
+      "established_year": "2547",
+      "location": "จันทบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏลำปาง",
+      "name_en": "Lampang Rajabhat University",
+      "abbreviation_th": "มร.ลป.",
+      "abbreviation_en": "LPRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2514",
+      "established_year": "2547",
+      "location": "ลำปาง"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏเลย",
+      "name_en": "Loei Rajabhat University",
+      "abbreviation_th": "มรล.",
+      "abbreviation_en": "LRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2516",
+      "established_year": "2547",
+      "location": "เลย"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์",
+      "name_en": "Valaya Alongkorn Rajabhat University",
+      "abbreviation_th": "มรว.",
+      "abbreviation_en": "VRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2475",
+      "established_year": "2547",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏศรีสะเกษ",
+      "name_en": "Sisaket Rajabhat University",
+      "abbreviation_th": "มรภ.ศก.",
+      "abbreviation_en": "SSKRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2540",
+      "established_year": "2547",
+      "location": "ศรีสะเกษ"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏสกลนคร",
+      "name_en": "Sakon Nakhon Rajabhat University",
+      "abbreviation_th": "มรสน.",
+      "abbreviation_en": "SNRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2507",
+      "established_year": "2547",
+      "location": "สกลนคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏสงขลา",
+      "name_en": "Songkhla Rajabhat University",
+      "abbreviation_th": "มรภ.สข.",
+      "abbreviation_en": "SKRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2464",
+      "established_year": "2547",
+      "location": "สงขลา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+      "name_en": "Suan Sunandha Rajabhat University",
+      "abbreviation_th": "มรภ.สส.",
+      "abbreviation_en": "SSRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2480",
+      "established_year": "2547",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏสุราษฎร์ธานี",
+      "name_en": "Surat Thani Rajabhat University",
+      "abbreviation_th": "มรส.",
+      "abbreviation_en": "SRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2516",
+      "established_year": "2547",
+      "location": "สุราษฎร์ธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏสุรินทร์",
+      "name_en": "Surindra Rajabhat University",
+      "abbreviation_th": "ม.รภ.สร.",
+      "abbreviation_en": "SRRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2516",
+      "established_year": "2547",
+      "location": "สุรินทร์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏหมู่บ้านจอมบึง",
+      "name_en": "Muban Chombueng Rajabhat University",
+      "abbreviation_th": "มรมจ.",
+      "abbreviation_en": "MCRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2497",
+      "established_year": "2547",
+      "location": "ราชบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏอุดรธานี",
+      "name_en": "Udon Thani Rajabhat University",
+      "abbreviation_th": "มร.อด.",
+      "abbreviation_en": "UDRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2466",
+      "established_year": "2547",
+      "location": "อุดรธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏอุตรดิตถ์",
+      "name_en": "Uttaradit Rajabhat University",
+      "abbreviation_th": "มรอ.",
+      "abbreviation_en": "URU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2479",
+      "established_year": "2547",
+      "location": "อุตรดิตถ์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชภัฏอุบลราชธานี",
+      "name_en": "Ubon Ratchathani Rajabhat University",
+      "abbreviation_th": "มรภ.อบ.",
+      "abbreviation_en": "UBRU",
+      "type": "มหาวิทยาลัยราชภัฏ",
+      "founded_year": "2485",
+      "established_year": "2547",
+      "location": "อุบลราชธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+      "name_en": "Rajamangala University of Technology Krungthep",
+      "abbreviation_th": "มทร.กรุงเทพ",
+      "abbreviation_en": "RMUTK",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2495",
+      "established_year": "2548",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก",
+      "name_en": "Rajamangala University of Technology Tawan-ok",
+      "abbreviation_th": "มทร.ตะวันออก",
+      "abbreviation_en": "RMUTTO",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2501",
+      "established_year": "2548",
+      "location": "ชลบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี",
+      "name_en": "Rajamangala University of Technology Thanyaburi",
+      "abbreviation_th": "มทร.ธัญบุรี",
+      "abbreviation_en": "RMUTT",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2518",
+      "established_year": "2548",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร",
+      "name_en": "Rajamangala University of Technology Phra Nakhon",
+      "abbreviation_th": "มทร.พระนคร",
+      "abbreviation_en": "RMUTP",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2445",
+      "established_year": "2548",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+      "name_en": "Rajamangala University of Technology Rattanakosin",
+      "abbreviation_th": "มทร.รัตนโกสินทร์",
+      "abbreviation_en": "RMUTR",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2456",
+      "established_year": "2548",
+      "location": "นครปฐม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา",
+      "name_en": "Rajamangala University of Technology Lanna",
+      "abbreviation_th": "มทร.ล้านนา",
+      "abbreviation_en": "RMUTL",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2500",
+      "established_year": "2548",
+      "location": "เชียงใหม่"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย",
+      "name_en": "Rajamangala University of Technology Srivijaya",
+      "abbreviation_th": "มทร.ศรีวิชัย",
+      "abbreviation_en": "RUTS",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2497",
+      "established_year": "2548",
+      "location": "สงขลา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ",
+      "name_en": "Rajamangala University of Technology Suvarnabhumi",
+      "abbreviation_th": "มทร.สุวรรณภูมิ",
+      "abbreviation_en": "RUS",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2476",
+      "established_year": "2548",
+      "location": "พระนครศรีอยุธยา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน",
+      "name_en": "Rajamangala University of Technology Isan",
+      "abbreviation_th": "มทร.อีสาน",
+      "abbreviation_en": "RMUTI",
+      "type": "มหาวิทยาลัยเทคโนโลยีราชมงคล",
+      "founded_year": "2499",
+      "established_year": "2548",
+      "location": "นครราชสีมา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยกรุงเทพ",
+      "name_en": "Bangkok University",
+      "abbreviation_th": "มกท.",
+      "abbreviation_en": "BU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2505",
+      "established_year": "2527",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยกรุงเทพธนบุรี",
+      "name_en": "Bangkok Thonburi University",
+      "abbreviation_th": "มกธ.",
+      "abbreviation_en": "BTU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2545",
+      "established_year": "2552",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยกรุงเทพสุวรรณภูมิ",
+      "name_en": "Bangkok Suvarnabhumi University",
+      "abbreviation_th": "มกส.",
+      "abbreviation_en": "BSU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2549",
+      "established_year": "2557",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยการจัดการและเทคโนโลยีอีสเทิร์น",
+      "name_en": "Eastern University of Management and Technology",
+      "abbreviation_th": "มจทอ.",
+      "abbreviation_en": "UMT",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2542",
+      "established_year": "2552",
+      "location": "อุบลราชธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเกริก",
+      "name_en": "Krirk University",
+      "abbreviation_th": "ม.กร.",
+      "abbreviation_en": "KRU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2513",
+      "established_year": "2538",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเกษมบัณฑิต",
+      "name_en": "Kasem Bundit University",
+      "abbreviation_th": "มกบ.",
+      "abbreviation_en": "KBU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2530",
+      "established_year": "2536",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยคริสเตียน",
+      "name_en": "Christian University of Thailand",
+      "abbreviation_th": "ม.ค.ต.",
+      "abbreviation_en": "C.U.T.",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2527",
+      "established_year": "2544",
+      "location": "นครปฐม"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเจ้าพระยา",
+      "name_en": "Chaopraya University",
+      "abbreviation_th": "มจพ.",
+      "abbreviation_en": "CPU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2541",
+      "established_year": "2541",
+      "location": "นครสวรรค์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเฉลิมกาญจนา",
+      "name_en": "Chalermkarnchana University",
+      "abbreviation_th": "มฉน.",
+      "abbreviation_en": "CNU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2547",
+      "established_year": "2557",
+      "location": "ศรีสะเกษ"
+    },
+    {
+      "name_th": "มหาวิทยาลัยชินวัตร",
+      "name_en": "Shinawatra University",
+      "abbreviation_th": "มชว.",
+      "abbreviation_en": "SIU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2542",
+      "established_year": "2542",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเซนต์จอห์น",
+      "name_en": "Saint John's University",
+      "abbreviation_th": "มซจ.",
+      "abbreviation_en": "SJU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2532",
+      "established_year": "2539",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเซาธ์อีสท์บางกอก",
+      "name_en": "Southeast Bangkok University",
+      "abbreviation_th": "ซ.อ.บ.",
+      "abbreviation_en": "SBU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2542",
+      "established_year": "2567",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยตาปี",
+      "name_en": "Tapee University",
+      "abbreviation_th": "มตป.",
+      "abbreviation_en": "TPU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2542",
+      "established_year": "2555",
+      "location": "สุราษฎร์ธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเทคโนโลยีมหานคร",
+      "name_en": "Mahanakorn University of Technology",
+      "abbreviation_th": "มทม.",
+      "abbreviation_en": "MUT",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2533",
+      "established_year": "2537",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยธนบุรี",
+      "name_en": "Thonburi University",
+      "abbreviation_th": "มธร.",
+      "abbreviation_en": "TRU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2541",
+      "established_year": "2550",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยธุรกิจบัณฑิตย์",
+      "name_en": "Dhurakij Pundit University",
+      "abbreviation_th": "มธบ.",
+      "abbreviation_en": "DPU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2511",
+      "established_year": "2527",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนอร์ทกรุงเทพ",
+      "name_en": "North Bangkok University",
+      "abbreviation_th": "มนก.",
+      "abbreviation_en": "NBU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2543",
+      "established_year": "2553",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนอร์ท-เชียงใหม่",
+      "name_en": "North-Chiang Mai University",
+      "abbreviation_th": "มนช.",
+      "abbreviation_en": "NCU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2542",
+      "established_year": "2547",
+      "location": "เชียงใหม่"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนานาชาติเซนต์เทเรซา",
+      "name_en": "Saint Theresa International College",
+      "abbreviation_th": "มนทร.",
+      "abbreviation_en": "TRSU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2544",
+      "established_year": "2567",
+      "location": "นครนายก"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนานาชาติแสตมฟอร์ด",
+      "name_en": "Stamford International University",
+      "abbreviation_th": "มนชส.",
+      "abbreviation_en": "STIU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2538",
+      "established_year": "2546",
+      "location": "เพชรบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยนานาชาติเอเชีย-แปซิฟิก",
+      "name_en": "Asia-Pacific International University",
+      "abbreviation_th": "ม.น.อ.",
+      "abbreviation_en": "AIU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2529",
+      "established_year": "2552",
+      "location": "สระบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเนชั่น",
+      "name_en": "Nation University",
+      "abbreviation_th": "มนช.",
+      "abbreviation_en": "NTU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2531",
+      "established_year": "2549",
+      "location": "ลำปาง"
+    },
+    {
+      "name_th": "มหาวิทยาลัยปทุมธานี",
+      "name_en": "Pathumthani University",
+      "abbreviation_th": "ม.ป.ท.",
+      "abbreviation_en": "PTU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2542",
+      "established_year": "2548",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยพายัพ",
+      "name_en": "Payap University",
+      "abbreviation_th": "มพย.",
+      "abbreviation_en": "PYU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2517",
+      "established_year": "2527",
+      "location": "เชียงใหม่"
+    },
+    {
+      "name_th": "มหาวิทยาลัยพิษณุโลก",
+      "name_en": "Phitsanulok University",
+      "abbreviation_th": "มพล.",
+      "abbreviation_en": "PLU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2545",
+      "established_year": "2554",
+      "location": "พิษณุโลก"
+    },
+    {
+      "name_th": "มหาวิทยาลัยฟาฏอนี",
+      "name_en": "Fatoni University",
+      "abbreviation_th": "มฟน.",
+      "abbreviation_en": "FTU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2541",
+      "established_year": "2550",
+      "location": "ยะลา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยฟาร์อีสเทอร์น",
+      "name_en": "Far Eastern University",
+      "abbreviation_th": "ม.ฟ.อ.",
+      "abbreviation_en": "FEU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2542",
+      "established_year": "2549",
+      "location": "เชียงใหม่"
+    },
+    {
+      "name_th": "มหาวิทยาลัยภาคกลาง",
+      "name_en": "University of Central Thailand",
+      "abbreviation_th": "ม.ภก.",
+      "abbreviation_en": "UCT",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2529",
+      "established_year": "2545",
+      "location": "นครสวรรค์"
+    },
+    {
+      "name_th": "มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ",
+      "name_en": "North Eastern University",
+      "abbreviation_th": "ม.ภ.น.",
+      "abbreviation_en": "NEU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2531",
+      "established_year": "2542",
+      "location": "ขอนแก่น"
+    },
+    {
+      "name_th": "มหาวิทยาลัยรังสิต",
+      "name_en": "Rangsit University",
+      "abbreviation_th": "มรส.",
+      "abbreviation_en": "RSU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2528",
+      "established_year": "2533",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยรัตนบัณฑิต",
+      "name_en": "Rattana Bundit University",
+      "abbreviation_th": "มรบ.",
+      "abbreviation_en": "RBAC",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2540",
+      "established_year": "2546",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชธานี",
+      "name_en": "Ratchathani University",
+      "abbreviation_th": "มรธ.",
+      "abbreviation_en": "RTU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2536",
+      "established_year": "2546",
+      "location": "อุบลราชธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยราชพฤกษ์",
+      "name_en": "Ratchaphruek University",
+      "abbreviation_th": "มรพ.",
+      "abbreviation_en": "RPU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2549",
+      "established_year": "2557",
+      "location": "นนทบุรี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยวงษ์ชวลิตกุล",
+      "name_en": "Vongchavalitkul University",
+      "abbreviation_th": "มว.",
+      "abbreviation_en": "VU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2527",
+      "established_year": "2537",
+      "location": "นครราชสีมา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเวสเทิร์น",
+      "name_en": "Western University",
+      "abbreviation_th": "มท.",
+      "abbreviation_en": "WTU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2540",
+      "established_year": "2540",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยศรีปทุม",
+      "name_en": "Sripatum University",
+      "abbreviation_th": "มศป.",
+      "abbreviation_en": "SPU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2513",
+      "established_year": "2530",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยสยาม",
+      "name_en": "Siam University",
+      "abbreviation_th": "มส.",
+      "abbreviation_en": "SU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2516",
+      "established_year": "2529",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยหอการค้าไทย",
+      "name_en": "University of the Thai Chamber of Commerce",
+      "abbreviation_th": "มกค.",
+      "abbreviation_en": "UTCC",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2483",
+      "established_year": "2527",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ",
+      "name_en": "Huachiew Chalermprakiet University",
+      "abbreviation_th": "ม.ฉ.ก.",
+      "abbreviation_en": "HCU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2524",
+      "established_year": "2535",
+      "location": "สมุทรปราการ"
+    },
+    {
+      "name_th": "มหาวิทยาลัยหาดใหญ่",
+      "name_en": "Hatyai University",
+      "abbreviation_th": "ม.ญ.",
+      "abbreviation_en": "HU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2540",
+      "established_year": "2546",
+      "location": "สงขลา"
+    },
+    {
+      "name_th": "มหาวิทยาลัยอัสสัมชัญ",
+      "name_en": "Assumption University",
+      "abbreviation_th": "มอช.",
+      "abbreviation_en": "AU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2512",
+      "established_year": "2533",
+      "location": "กรุงเทพมหานคร"
+    },
+    {
+      "name_th": "มหาวิทยาลัยอีสเทิร์นเอเชีย",
+      "name_en": "Eastern Asia University",
+      "abbreviation_th": "มวอ.",
+      "abbreviation_en": "EAU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2539",
+      "established_year": "2539",
+      "location": "ปทุมธานี"
+    },
+    {
+      "name_th": "มหาวิทยาลัยเอเชียอาคเนย์",
+      "name_en": "South-East Asia University",
+      "abbreviation_th": "ม.อ.อ.",
+      "abbreviation_en": "SAU",
+      "type": "มหาวิทยาลัยเอกชน",
+      "founded_year": "2516",
+      "established_year": "2535",
+      "location": "กรุงเทพมหานคร"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อมหาวิทยาลัยในประเทศไทย",
+    "description": "รวมรายชื่อมหาวิทยาลัยในประเทศไทยทั้งหมด ทั้งมหาวิทยาลัยรัฐ เอกชน ราชภัฏ และเทคโนโลยีราชมงคล พร้อมข้อมูลสำคัญ",
+    "seo_title": "รายชื่อมหาวิทยาลัยในประเทศไทย - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Download รายชื่อมหาวิทยาลัยในประเทศไทย 121 records. Free in Excel, CSV, and PDF formats.",
+    "key_takeaways": [
+      "รวบรวมข้อมูลมหาวิทยาลัย 121 แห่ง",
+      "ครอบคลุม: ชื่อไทย, ชื่ออังกฤษ, ตัวย่อ, ประเภท, ปีก่อตั้ง, ที่ตั้ง",
+      "แบ่งตามประเภท: มหาวิทยาลัยรัฐ, เอกชน, ราชภัฏ, ราชมงคล",
+      "ดาวน์โหลดได้ฟรีในรูปแบบ Excel, CSV หรือ PDF"
+    ]
+  }
+}

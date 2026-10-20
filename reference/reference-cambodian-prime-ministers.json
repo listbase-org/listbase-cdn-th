@@ -1,0 +1,665 @@
+{
+  "id": "reference-cambodian-prime-ministers",
+  "name": "รายชื่อนายกรัฐมนตรีกัมพูชา",
+  "title": "รายชื่อนายกรัฐมนตรีกัมพูชา",
+  "description": "รายชื่อนายกรัฐมนตรีกัมพูชาตั้งแต่ปี พ.ศ. 2488 จนถึงปัจจุบัน ประกอบด้วยข้อมูลลำดับ ชื่อ ช่วงเวลาดำรงตำแหน่ง พรรคการเมืองที่สังกัด และพระมหากษัตริย์หรือประมุขแห่งรัฐในขณะนั้น",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B8%8A%E0%B8%B2",
+  "updated": "2024-07-29",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "id_number",
+      "label": "ลำดับ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อ",
+      "type": "string"
+    },
+    {
+      "key": "image",
+      "label": "ภาพ",
+      "type": "string"
+    },
+    {
+      "key": "start_date",
+      "label": "เริ่มดำรงตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "สิ้นสุดการดำรงตำแหน่ง",
+      "type": "string"
+    },
+    {
+      "key": "political_party",
+      "label": "พรรคการเมือง",
+      "type": "string"
+    },
+    {
+      "key": "monarch_or_head_of_state",
+      "label": "พระมหากษัตริย์/ประมุขแห่งรัฐ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id_number": "1",
+      "name_th": "พระบาทสมเด็จพระนโรดม สีหนุ",
+      "image": "Sihanouk (1941).jpg",
+      "start_date": "18 มีนาคม 2488",
+      "end_date": "13 สิงหาคม 2488",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "2",
+      "name_th": "เซิง งอกทัญ",
+      "image": "Sơn Ngọc Thành in 1936 (cropped).jpg",
+      "start_date": "14 สิงหาคม 2488",
+      "end_date": "16 ตุลาคม 2488",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "3",
+      "name_th": "สมเด็จกรมพระ สีสุวัตถิ์ มุนีเรศ",
+      "image": "",
+      "start_date": "17 ตุลาคม 2488",
+      "end_date": "15 ธันวาคม 2489",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "4",
+      "name_th": "นักองค์มจะ สีสุวัตถิ์ ยุทธวงศ์",
+      "image": "Prince Sisowath Youtevong (cropped).jpg",
+      "start_date": "15 ธันวาคม 2489",
+      "end_date": "15 กรกฎาคม 2490",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "5",
+      "name_th": "นักองค์มจะ สีสุวัตถิ์ วัฑฒ์ฉายาวงศ์",
+      "image": "Prince Sisowath Watchayavong.jpg",
+      "start_date": "25 กรกฎาคม 2500",
+      "end_date": "20 กุมภาพันธ์ 2491",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "6",
+      "name_th": "เชียน วัม",
+      "image": "Coat of arms of Cambodia (1864–1970).svg",
+      "start_date": "20 กุมภาพันธ์ 2491",
+      "end_date": "14 สิงหาคม 2491",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "7",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "15 สิงหาคม 2491",
+      "end_date": "21 มกราคม 2492",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "8",
+      "name_th": "เยม ซัมบัวร์",
+      "image": "Yemsambaur portrait.jpg",
+      "start_date": "12 กุมภาพันธ์ 2492",
+      "end_date": "20 กันยายน 2492",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "9",
+      "name_th": "เอียว โกเอียส",
+      "image": "Portrait of Ieu Koeus.jpg",
+      "start_date": "20 กันยายน 2492",
+      "end_date": "29 กันยายน 2492",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(8)",
+      "name_th": "เยม ซัมบัวร์",
+      "image": "Yemsambaur portrait.jpg",
+      "start_date": "29 กันยายน 2492",
+      "end_date": "28 เมษายน 2493",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "พระบาทสมเด็จพระนโรดม สีหนุ",
+      "image": "Sihanouk Harcourt 1948.jpg",
+      "start_date": "28 เมษายน 2493",
+      "end_date": "30 พฤษภาคม 2493",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "10",
+      "name_th": "สมเด็จกรมหลวง สีสุวัตถิ์ มุนีพงษ์",
+      "image": "Sisowath Monipong.webp",
+      "start_date": "30 พฤษภาคม 2493",
+      "end_date": "3 มีนาคม 2494",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "11",
+      "name_th": "อวม เชียง ซุน",
+      "image": "",
+      "start_date": "3 มีนาคม 2494",
+      "end_date": "12 ตุลาคม 2494",
+      "political_party": "พรรคประชาธิปไตยแห่งชาติ",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "12",
+      "name_th": "ฮุย กานทวล",
+      "image": "",
+      "start_date": "13 ตุลาคม 2494",
+      "end_date": "16 มิถุนายน 2495",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "พระบาทสมเด็จพระนโรดม สีหนุ",
+      "image": "Norodom Sihanouk (c. 1952) (cropped).jpg",
+      "start_date": "16 มิถุนายน 2495",
+      "end_date": "24 มกราคม 2496",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(7)",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "24 มกราคม 2496",
+      "end_date": "9 พฤศจิกายน 2496",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(7)",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "9 พฤศจิกายน 2496",
+      "end_date": "22 พฤศจิกายน 2496",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "13",
+      "name_th": "จัน นัก",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "23 พฤศจิกายน 2496",
+      "end_date": "7 เมษายน 2497",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "พระบาทสมเด็จพระนโรดม สีหนุ",
+      "image": "Norodom Sihanouk (c. 1952) (cropped).jpg",
+      "start_date": "7 เมษายน 2497",
+      "end_date": "18 เมษายน 2497",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(7)",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "18 เมษายน 2497",
+      "end_date": "26 มกราคม 2498",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "14",
+      "name_th": "หลวง เลง เงต",
+      "image": "LengNgeth ឡេង ង៉ែត inRangoon 19550428.jpg",
+      "start_date": "26 มกราคม 2498",
+      "end_date": "3 ตุลาคม 2498",
+      "political_party": "พรรคประชาธิปไตย",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "สมเด็จพระอุปยุวราช นโรดม สีหนุ",
+      "image": "Norodom Sihanouk (c. 1952) (cropped).jpg",
+      "start_date": "3 ตุลาคม 2498",
+      "end_date": "5 มกราคม 2499",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(11)",
+      "name_th": "อวม เชียง ซุน",
+      "image": "",
+      "start_date": "5 มกราคม 2499",
+      "end_date": "29 กุมภาพันธ์ 2499",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "สมเด็จพระอุปยุวราช นโรดม สีหนุ",
+      "image": "Norodom Sihanouk 1956.jpg",
+      "start_date": "1 มีนาคม 2499",
+      "end_date": "24 มีนาคม 2499",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "15",
+      "name_th": "คิม ทิต",
+      "image": "Khim-Tit, Souverains et notabilités d'Indochine.png",
+      "start_date": "3 เมษายน 2499",
+      "end_date": "29 กรกฎาคม 2499",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "สมเด็จพระอุปยุวราช นโรดม สีหนุ",
+      "image": "Norodom Sihanouk 1956.jpg",
+      "start_date": "15 กันยายน 2499",
+      "end_date": "15 ตุลาคม 2499",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "16",
+      "name_th": "ซัม ยุน",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "25 ตุลาคม 2499",
+      "end_date": "9 เมษายน 2500",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "สมเด็จพระอุปยุวราช นโรดม สีหนุ",
+      "image": "Norodom Sihanouk 1956.jpg",
+      "start_date": "9 เมษายน 2500",
+      "end_date": "7 กรกฎาคม 2500",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "17",
+      "name_th": "ซิม วาร์",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "26 กรกฎาคม 2500",
+      "end_date": "11 มกราคม 2501",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "18",
+      "name_th": "เอก ยิ อึน",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "11 มกราคม 2501",
+      "end_date": "17 มกราคม 2501",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(7)",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "17 มกราคม 2501",
+      "end_date": "24 เมษายน 2501",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(17)",
+      "name_th": "ซิม วาร์",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "24 เมษายน 2501",
+      "end_date": "10 กรกฎาคม 2501",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "สมเด็จพระอุปยุวราช นโรดม สีหนุ",
+      "image": "Norodom Sihanouk 1956.jpg",
+      "start_date": "10 กรกฎาคม 2501",
+      "end_date": "19 เมษายน 2503",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สุรามฤต (รัชกาลที่ 113)"
+    },
+    {
+      "id_number": "19",
+      "name_th": "โพธิ์ เพรือง",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "19 เมษายน 2503",
+      "end_date": "28 มกราคม 2504",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(7)",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "28 มกราคม 2504",
+      "end_date": "17 พฤศจิกายน 2504",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(1)",
+      "name_th": "สมเด็จพระอุปยุวราช นโรดม สีหนุ",
+      "image": "Sihanouk 1959.jpg",
+      "start_date": "17 พฤศจิกายน 2504",
+      "end_date": "13 กุมภาพันธ์ 2505",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "--",
+      "name_th": "สมเด็จจักรีกัญชลาธิบดี เนียก เทียวลอง",
+      "image": "Nhiek Tioulong.jpg",
+      "start_date": "13 กุมภาพันธ์ 2505",
+      "end_date": "6 สิงหาคม 2505",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "--",
+      "name_th": "เจา เซน กอกซัล ชุม",
+      "image": "Chau-Sen-Cocsal, Souverains et notabilités d'Indochine (cropped).jpg",
+      "start_date": "6 สิงหาคม 2505",
+      "end_date": "6 ตุลาคม 2505",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "20",
+      "name_th": "พระ นโรดม กานตล",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "6 ตุลาคม 2505",
+      "end_date": "25 ตุลาคม 2509",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "21",
+      "name_th": "นายพล ลน นล",
+      "image": "LonNol.jpg",
+      "start_date": "25 ตุลาคม 2509",
+      "end_date": "1 พฤษภาคม 2510",
+      "political_party": "พรรคสังคม/กองทัพแห่งชาติกัมพูชา",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "22",
+      "name_th": "ซอน ซาน",
+      "image": "Son-Sann.jpg",
+      "start_date": "1 พฤษภาคม 2510",
+      "end_date": "31 มกราคม 2511",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(7)",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "31 มกราคม 2511",
+      "end_date": "14 สิงหาคม 2512",
+      "political_party": "พรรคสังคม",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "(21)",
+      "name_th": "นายพล ลน นล",
+      "image": "LonNol.jpg",
+      "start_date": "14 สิงหาคม 2512",
+      "end_date": "9 ตุลาคม 2513",
+      "political_party": "พรรคสังคม/กองทัพแห่งชาติเขมร",
+      "monarch_or_head_of_state": "เจง เฮง เกิดการรัฐประหารในประเทศกัมพูชา พ.ศ. 2513"
+    },
+    {
+      "id_number": "(21)",
+      "name_th": "นายพล ลน นล",
+      "image": "LonNol.jpg",
+      "start_date": "9 ตุลาคม 2513",
+      "end_date": "11 มีนาคม 2514",
+      "political_party": "กองทัพแห่งชาติเขมร",
+      "monarch_or_head_of_state": "ประธานาธิบดี ลน นล (1972–1975)"
+    },
+    {
+      "id_number": "23",
+      "name_th": "นักองค์ราชวงศ์ สีสุวัตถิ์ สิริมตะ",
+      "image": "Sisowath Sirik Matak.jpg",
+      "start_date": "11 มีนาคม 2514",
+      "end_date": "18 มีนาคม 2515",
+      "political_party": "ไม่สังกัดพรรค",
+      "monarch_or_head_of_state": "ประธานาธิบดี ลน นล (1972–1975)"
+    },
+    {
+      "id_number": "(2)",
+      "name_th": "เซิง งอกทัญ",
+      "image": "Sơn Ngọc Thành in 1936 (cropped).jpg",
+      "start_date": "18 มีนาคม 2515",
+      "end_date": "15 ตุลาคม 2515",
+      "political_party": "เขมรเสรี",
+      "monarch_or_head_of_state": "ประธานาธิบดี ลน นล (1972–1975)"
+    },
+    {
+      "id_number": "24",
+      "name_th": "ฮาง ทุน ฮัก",
+      "image": "Coat of arms of the Khmer Republic.svg",
+      "start_date": "15 ตุลาคม 2515",
+      "end_date": "6 พฤษภาคม 2516",
+      "political_party": "พรรคสาธารณรัฐสังคมนิยม",
+      "monarch_or_head_of_state": "ประธานาธิบดี ลน นล (1972–1975)"
+    },
+    {
+      "id_number": "25",
+      "name_th": "อิน ตัม",
+      "image": "",
+      "start_date": "6 พฤษภาคม 2516",
+      "end_date": "9 ธันวาคม 2516",
+      "political_party": "พรรคสาธารณรัฐสังคมนิยม",
+      "monarch_or_head_of_state": "ประธานาธิบดี ลน นล (1972–1975)"
+    },
+    {
+      "id_number": "26",
+      "name_th": "ลอง โบเรต",
+      "image": "Coat of arms of the Khmer Republic.svg",
+      "start_date": "26 ธันวาคม 2516",
+      "end_date": "17 เมษายน 2518",
+      "political_party": "พรรคสาธารณรัฐสังคมนิยม",
+      "monarch_or_head_of_state": "ประธานาธิบดี ลน นล (1972–1975)"
+    },
+    {
+      "id_number": "(7)",
+      "name_th": "สมเด็จ แปน โนต",
+      "image": "Samdech Penn Nouth (1947).jpg",
+      "start_date": "17 เมษายน 2518",
+      "end_date": "4 เมษายน 2519",
+      "political_party": "แนวร่วมสหชาติเขมร",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระ นโรดม สีหนุ (รัชกาลที่ 112)"
+    },
+    {
+      "id_number": "--",
+      "name_th": "เขียว สัมพัน",
+      "image": "Khieu Samphan 1978.jpg",
+      "start_date": "4 เมษายน 2519",
+      "end_date": "14 เมษายน 2519",
+      "political_party": "พรรคคอมมิวนิสต์กัมพูชา",
+      "monarch_or_head_of_state": "ประธานาธิบดี พล พต (1972–1975)"
+    },
+    {
+      "id_number": "27",
+      "name_th": "พล พต",
+      "image": "Pol Pot (cropped).jpg",
+      "start_date": "14 เมษายน 2519",
+      "end_date": "27 กันยายน 2519",
+      "political_party": "พรรคคอมมิวนิสต์กัมพูชา",
+      "monarch_or_head_of_state": "ประธานาธิบดี พล พต (1972–1975)"
+    },
+    {
+      "id_number": "--",
+      "name_th": "นวน เจีย",
+      "image": "NuonChea1978.jpg",
+      "start_date": "27 กันยายน 2519",
+      "end_date": "25 ตุลาคม 2519",
+      "political_party": "พรรคคอมมิวนิสต์กัมพูชา",
+      "monarch_or_head_of_state": "ประธานาธิบดี พล พต (1972–1975)"
+    },
+    {
+      "id_number": "(27)",
+      "name_th": "พล พต",
+      "image": "Pol Pot (cropped).jpg",
+      "start_date": "25 ตุลาคม2519",
+      "end_date": "7 มกราคม 2522",
+      "political_party": "พรรคคอมมิวนิสต์กัมพูชา",
+      "monarch_or_head_of_state": "ประธานาธิบดี พล พต (1972–1975)"
+    },
+    {
+      "id_number": "28",
+      "name_th": "แปน โสวัณ",
+      "image": "Emblem of the People's Republic of Kampuchea (1981-1989).svg",
+      "start_date": "27 มิถุนายน 2524",
+      "end_date": "5 ธันวาคม 2524",
+      "political_party": "พรรคปฏิวัติประชาชนกัมพูชา/พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "เฮง สัมริน (1979–1992)"
+    },
+    {
+      "id_number": "29",
+      "name_th": "จัน ซี",
+      "image": "Emblem of the People's Republic of Kampuchea (1981-1989).svg",
+      "start_date": "5 ธันวาคม 2524",
+      "end_date": "26 ธันวาคม 2527",
+      "political_party": "พรรคปฏิวัติประชาชนกัมพูชา/พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "เฮง สัมริน (1979–1992)"
+    },
+    {
+      "id_number": "30",
+      "name_th": "ฮุน เซน",
+      "image": "Hun Sen (2007).jpg",
+      "start_date": "14 มกราคม 2529",
+      "end_date": "1 พฤษภาคม 2532",
+      "political_party": "พรรคปฏิวัติประชาชนกัมพูชา/พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "เจีย ซิม (1992–1993)"
+    },
+    {
+      "id_number": "(30)",
+      "name_th": "ฮุน เซน",
+      "image": "Hun Sen (2007).jpg",
+      "start_date": "1 พฤษภาคม 2532",
+      "end_date": "2 กรกฎาคม 2536",
+      "political_party": "พรรคปฏิวัติประชาชนกัมพูชา/พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สีหนุ (รัชกาลที่ 112) ครองราชย์ครั้งที่ 2 (1993–2004)"
+    },
+    {
+      "id_number": "",
+      "name_th": "สมเด็จอัครมหาเสนาบดีเดโช ฮุน เซน",
+      "image": "Hun Sen (2007).jpg",
+      "start_date": "2 กรกฎาคม 2536",
+      "end_date": "21 กันยายน 2536",
+      "political_party": "พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สีหนุ (รัชกาลที่ 112) ครองราชย์ครั้งที่ 2 (1993–2004)"
+    },
+    {
+      "id_number": "31",
+      "name_th": "สมเด็จกรมพระ นโรดม รณฤทธิ์",
+      "image": "Ranariddh self portrait.jpg",
+      "start_date": "2 กรกฎาคม 2536",
+      "end_date": "21 กันยายน 2536",
+      "political_party": "พรรคฟุนซินเปก",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สีหนุ (รัชกาลที่ 112) ครองราชย์ครั้งที่ 2 (1993–2004)"
+    },
+    {
+      "id_number": "",
+      "name_th": "สมเด็จกรมพระ นโรดม รณฤทธิ์",
+      "image": "Ranariddh self portrait.jpg",
+      "start_date": "21 กันยายน 2536",
+      "end_date": "24 กันยายน 2536",
+      "political_party": "พรรคฟุนซินเปก",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สีหนุ (รัชกาลที่ 112) ครองราชย์ครั้งที่ 2 (1993–2004)"
+    },
+    {
+      "id_number": "(30)",
+      "name_th": "สมเด็จอัครมหาเสนาบดีเดโช ฮุน เซน",
+      "image": "Hun Sen (2007).jpg",
+      "start_date": "21 กันยายน 2536",
+      "end_date": "24 กันยายน 2536",
+      "political_party": "พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สีหนุ (รัชกาลที่ 112) ครองราชย์ครั้งที่ 2 (1993–2004)"
+    },
+    {
+      "id_number": "(31)",
+      "name_th": "สมเด็จกรมพระ นโรดม รณฤทธิ์",
+      "image": "Ranariddh self portrait.jpg",
+      "start_date": "24 กันยายน 2536",
+      "end_date": "6 กรกฎาคม 2540",
+      "political_party": "พรรคฟุนซินเปก",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สีหนุ (รัชกาลที่ 112) ครองราชย์ครั้งที่ 2 (1993–2004)"
+    },
+    {
+      "id_number": "32",
+      "name_th": "อึง ฮวด",
+      "image": "Royal arms of Cambodia.svg",
+      "start_date": "16 กรกฎาคม 2540",
+      "end_date": "30 พฤศจิกายน 2541",
+      "political_party": "พรรคฟุนซินเปก",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระนโรดม สีหนุ (รัชกาลที่ 112) ครองราชย์ครั้งที่ 2 (1993–2004)"
+    },
+    {
+      "id_number": "(30)",
+      "name_th": "สมเด็จอัครมหาเสนาบดีเดโช ฮุน เซน",
+      "image": "Hun Sen July 2019.jpg",
+      "start_date": "24 กันยายน 2536",
+      "end_date": "30 พฤศจิกายน 2541",
+      "political_party": "พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระบรมนาถ นโรดม สีหมุนี (รัชกาลที่ 114)"
+    },
+    {
+      "id_number": "",
+      "name_th": "สมเด็จอัครมหาเสนาบดีเดโช ฮุน เซน",
+      "image": "Hun Sen July 2019.jpg",
+      "start_date": "30 พฤศจิกายน 2541",
+      "end_date": "22 สิงหาคม 2566",
+      "political_party": "พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระบรมนาถ นโรดม สีหมุนี (รัชกาลที่ 114)"
+    },
+    {
+      "id_number": "33",
+      "name_th": "สมเด็จมหาบวรธิบดี ฮุน มาแณต",
+      "image": "Hun Manet on May 30, 2025 (cropped).jpg",
+      "start_date": "22 สิงหาคม 2566",
+      "end_date": "อยู่ในวาระ",
+      "political_party": "พรรคประชาชนกัมพูชา",
+      "monarch_or_head_of_state": "พระมหากษัตริย์ พระบาทสมเด็จพระบรมนาถ นโรดม สีหมุนี (รัชกาลที่ 114)"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อนายกรัฐมนตรีกัมพูชา",
+    "description": "รายชื่อนายกรัฐมนตรีกัมพูชาตั้งแต่ปี พ.ศ. 2488 จนถึงปัจจุบัน ประกอบด้วยข้อมูลลำดับ ชื่อ ช่วงเวลาดำรงตำแหน่ง พรรคการเมืองที่สังกัด และพระมหากษัตริย์หรือประมุขแห่งรัฐในขณะนั้น",
+    "seo_title": "รายชื่อนายกรัฐมนตรีกัมพูชา - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 76 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 76 รายการครบถ้วน",
+      "รวม: ลำดับ, ชื่อ, ภาพ, เริ่มดำรงตำแหน่ง, สิ้นสุดการดำรงตำแหน่ง, พรรคการเมือง, พระมหากษัตริย์/ประมุขแห่งรัฐ",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

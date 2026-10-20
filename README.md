@@ -1,7 +1,7 @@
 # ListBase CDN — ไทย (th)
 
 Open dataset collection for **ไทย** (Thai).
-539 datasets across 19 categories with 207,993 total records.
+726 datasets across 21 categories with 270,890 total records.
 
 > Browse and download at [https://listbase.org/th/](https://listbase.org/th/)
 
@@ -10,24 +10,26 @@ Open dataset collection for **ไทย** (Thai).
 | Category | Datasets |
 |----------|----------|
 | [เกษตรกรรม (Agriculture)](agriculture/) | 3 |
+| [ธุรกิจ (Business)](business/) | 1 |
 | [วัฒนธรรมและศาสนา (Culture & Religion)](culture/) | 2 |
 | [การศึกษา (Education)](education/) | 5 |
 | [สิ่งแวดล้อม (Environment)](environment/) | 1 |
-| [การเงินและการค้า (Finance & Trade)](finance/) | 4 |
+| [การเงินและการค้า (Finance & Trade)](finance/) | 16 |
 | [อาหารและโภชนาการ (Food & Nutrition)](food/) | 3 |
-| [ภูมิศาสตร์ (Geography)](geography/) | 79 |
+| [ภูมิศาสตร์ (Geography)](geography/) | 179 |
 | [สุขภาพ (Health)](health/) | 1 |
 | [ประวัติศาสตร์ (History)](history/) | 2 |
-| [ภาษา (Language)](language/) | 5 |
+| [ภาษา (Language)](language/) | 10 |
 | [กฎหมาย (Law)](law/) | 3 |
-| [ดนตรี (Music)](music/) | 1 |
+| [คณิตศาสตร์ (Mathematics)](math/) | 3 |
+| [ดนตรี (Music)](music/) | 3 |
 | [การเมือง (Politics)](politics/) | 8 |
-| [อ้างอิง (Reference)](reference/) | 409 |
-| [วิทยาศาสตร์ (Science)](science/) | 4 |
-| [เทคโนโลยี (Technology)](tech/) | 2 |
-| [เวลาและปฏิทิน (Time & Calendar)](time/) | 3 |
-| [คมนาคม (Transport)](transport/) | 2 |
-| [หน่วยวัด (Units & Measurements)](units/) | 2 |
+| [อ้างอิง (Reference)](reference/) | 436 |
+| [วิทยาศาสตร์ (Science)](science/) | 17 |
+| [เทคโนโลยี (Technology)](tech/) | 15 |
+| [เวลาและปฏิทิน (Time & Calendar)](time/) | 5 |
+| [คมนาคม (Transport)](transport/) | 7 |
+| [หน่วยวัด (Units & Measurements)](units/) | 6 |
 
 ## Usage
 

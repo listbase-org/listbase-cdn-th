@@ -1,0 +1,1620 @@
+{
+  "id": "geography-countries-by-birth-rate",
+  "name": "รายชื่อประเทศตามอัตราการเกิด",
+  "title": "รายชื่อประเทศตามอัตราการเกิด",
+  "description": "รายชื่อประเทศและดินแดนทั่วโลก จัดอันดับตามอัตราการเกิด (จำนวนการเกิดต่อ 1,000 คน) พร้อมระบุปีข้อมูลที่อ้างอิงจาก CIA The World Factbook",
+  "category": "geography",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+  "updated": "2024-07-29",
+  "record_count": 224,
+  "columns": [
+    {
+      "key": "rank_sovereign_state",
+      "label": "ลำดับตามรัฐเอกราช",
+      "type": "string"
+    },
+    {
+      "key": "rank_overall",
+      "label": "ลำดับตามรายชื่อ",
+      "type": "string"
+    },
+    {
+      "key": "entity_th",
+      "label": "Entity",
+      "type": "string"
+    },
+    {
+      "key": "birth_rate_per_1000",
+      "label": "อัตราการเกิด (การเกิด/1,000 คน)",
+      "type": "number"
+    },
+    {
+      "key": "data_year",
+      "label": "ปีข้อมูล (ค.ศ.)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "",
+      "entity_th": "ทั่วโลก",
+      "birth_rate_per_1000": 20.15,
+      "data_year": null
+    },
+    {
+      "rank_sovereign_state": "1",
+      "rank_overall": "1",
+      "entity_th": "ไนเจอร์",
+      "birth_rate_per_1000": 50.73,
+      "data_year": 2006
+    },
+    {
+      "rank_sovereign_state": "2",
+      "rank_overall": "2",
+      "entity_th": "มาลี",
+      "birth_rate_per_1000": 49.82,
+      "data_year": 2006
+    },
+    {
+      "rank_sovereign_state": "3",
+      "rank_overall": "3",
+      "entity_th": "ยูกันดา",
+      "birth_rate_per_1000": 47.35,
+      "data_year": 2006
+    },
+    {
+      "rank_sovereign_state": "4",
+      "rank_overall": "4",
+      "entity_th": "อัฟกานิสถาน",
+      "birth_rate_per_1000": 46.6,
+      "data_year": 2006
+    },
+    {
+      "rank_sovereign_state": "5",
+      "rank_overall": "5",
+      "entity_th": "ชาด",
+      "birth_rate_per_1000": 46.17,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "6",
+      "rank_overall": "6",
+      "entity_th": "เซียร์ราลีโอน",
+      "birth_rate_per_1000": 46.13,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "7",
+      "rank_overall": "7",
+      "entity_th": "บูร์กินาฟาโซ",
+      "birth_rate_per_1000": 45.96,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "8",
+      "rank_overall": "8",
+      "entity_th": "แองโกลา",
+      "birth_rate_per_1000": 45.63,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "9",
+      "rank_overall": "9",
+      "entity_th": "โซมาเลีย",
+      "birth_rate_per_1000": 45.62,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "10",
+      "rank_overall": "10",
+      "entity_th": "ไลบีเรีย",
+      "birth_rate_per_1000": 45.61,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "11",
+      "rank_overall": "11",
+      "entity_th": "สาธารณรัฐประชาธิปไตยคองโก",
+      "birth_rate_per_1000": 44.07,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "12",
+      "rank_overall": "12",
+      "entity_th": "มาลาวี",
+      "birth_rate_per_1000": 43.49,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "13",
+      "rank_overall": "13",
+      "entity_th": "เยเมน",
+      "birth_rate_per_1000": 43.07,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "14",
+      "rank_overall": "14",
+      "entity_th": "สาธารณรัฐคองโก",
+      "birth_rate_per_1000": 43.01,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "15",
+      "rank_overall": "15",
+      "entity_th": "บุรุนดี",
+      "birth_rate_per_1000": 42.46,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "16",
+      "rank_overall": "16",
+      "entity_th": "กินี",
+      "birth_rate_per_1000": 42.01,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "17",
+      "rank_overall": "17",
+      "entity_th": "มาดากัสการ์",
+      "birth_rate_per_1000": 41.66,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "18",
+      "entity_th": "มายอต (ฝรั่งเศส)",
+      "birth_rate_per_1000": 41.58,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "18",
+      "rank_overall": "19",
+      "entity_th": "มอริเตเนีย",
+      "birth_rate_per_1000": 41.43,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "19",
+      "rank_overall": "20",
+      "entity_th": "แซมเบีย",
+      "birth_rate_per_1000": 41.38,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "20",
+      "rank_overall": "21",
+      "entity_th": "เซาตูเมและปรินซิปี",
+      "birth_rate_per_1000": 40.8,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "21",
+      "rank_overall": "22",
+      "entity_th": "ไนจีเรีย",
+      "birth_rate_per_1000": 40.65,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "22",
+      "rank_overall": "23",
+      "entity_th": "รวันดา",
+      "birth_rate_per_1000": 40.6,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "23",
+      "rank_overall": "24",
+      "entity_th": "เคนยา",
+      "birth_rate_per_1000": 40.13,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "25",
+      "entity_th": "ฉนวนกาซา",
+      "birth_rate_per_1000": 40.03,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "24",
+      "rank_overall": "26",
+      "entity_th": "จิบูตี",
+      "birth_rate_per_1000": 39.98,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "25",
+      "rank_overall": "27",
+      "entity_th": "แกมเบีย",
+      "birth_rate_per_1000": 39.89,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "26",
+      "rank_overall": "28",
+      "entity_th": "เบนิน",
+      "birth_rate_per_1000": 39.58,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "27",
+      "rank_overall": "29",
+      "entity_th": "เอธิโอเปีย",
+      "birth_rate_per_1000": 38.61,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "28",
+      "rank_overall": "30",
+      "entity_th": "แทนซาเนีย",
+      "birth_rate_per_1000": 38.16,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "29",
+      "rank_overall": "31",
+      "entity_th": "กินี-บิสเซา",
+      "birth_rate_per_1000": 37.62,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "30",
+      "rank_overall": "32",
+      "entity_th": "คอโมโรส",
+      "birth_rate_per_1000": 37.52,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "31",
+      "rank_overall": "33",
+      "entity_th": "โตโก",
+      "birth_rate_per_1000": 37.17,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "32",
+      "rank_overall": "34",
+      "entity_th": "โอมาน",
+      "birth_rate_per_1000": 36.73,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "33",
+      "rank_overall": "35",
+      "entity_th": "เฮติ",
+      "birth_rate_per_1000": 36.59,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "34",
+      "rank_overall": "36",
+      "entity_th": "กาบอง",
+      "birth_rate_per_1000": 36.34,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "35",
+      "rank_overall": "37",
+      "entity_th": "อิเควทอเรียลกินี",
+      "birth_rate_per_1000": 36.01,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "36",
+      "rank_overall": "38",
+      "entity_th": "ลาว",
+      "birth_rate_per_1000": 35.99,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "37",
+      "rank_overall": "39",
+      "entity_th": "โมซัมบิก",
+      "birth_rate_per_1000": 35.79,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "38",
+      "rank_overall": "40",
+      "entity_th": "โกตดิวัวร์",
+      "birth_rate_per_1000": 35.51,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "39",
+      "rank_overall": "41",
+      "entity_th": "มัลดีฟส์",
+      "birth_rate_per_1000": 35.43,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "40",
+      "rank_overall": "42",
+      "entity_th": "ซูดาน",
+      "birth_rate_per_1000": 35.17,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "41",
+      "rank_overall": "43",
+      "entity_th": "เอริเทรีย",
+      "birth_rate_per_1000": 34.78,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "42",
+      "rank_overall": "44",
+      "entity_th": "สาธารณรัฐแอฟริกากลาง",
+      "birth_rate_per_1000": 34.32,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "43",
+      "rank_overall": "45",
+      "entity_th": "แคเมอรูน",
+      "birth_rate_per_1000": 34.3,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "44",
+      "rank_overall": "46",
+      "entity_th": "ภูฏาน",
+      "birth_rate_per_1000": 34.03,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "45",
+      "rank_overall": "47",
+      "entity_th": "หมู่เกาะมาร์แชลล์",
+      "birth_rate_per_1000": 33.52,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "46",
+      "rank_overall": "48",
+      "entity_th": "เซเนกัล",
+      "birth_rate_per_1000": 33.42,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "47",
+      "rank_overall": "49",
+      "entity_th": "ทาจิกิสถาน",
+      "birth_rate_per_1000": 32.58,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "48",
+      "rank_overall": "50",
+      "entity_th": "อิรัก",
+      "birth_rate_per_1000": 32.5,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "51",
+      "entity_th": "เวสต์แบงก์",
+      "birth_rate_per_1000": 32.37,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "49",
+      "rank_overall": "52",
+      "entity_th": "เนปาล",
+      "birth_rate_per_1000": 31.45,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "50",
+      "rank_overall": "53",
+      "entity_th": "กานา",
+      "birth_rate_per_1000": 31.12,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "51",
+      "rank_overall": "54",
+      "entity_th": "คิริบาส",
+      "birth_rate_per_1000": 30.86,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "52",
+      "rank_overall": "55",
+      "entity_th": "หมู่เกาะโซโลมอน",
+      "birth_rate_per_1000": 30.74,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "53",
+      "rank_overall": "56",
+      "entity_th": "กัวเตมาลา",
+      "birth_rate_per_1000": 30.56,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "54",
+      "rank_overall": "57",
+      "entity_th": "ปากีสถาน",
+      "birth_rate_per_1000": 30.42,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "55",
+      "rank_overall": "58",
+      "entity_th": "บังกลาเทศ",
+      "birth_rate_per_1000": 30.01,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "56",
+      "rank_overall": "59",
+      "entity_th": "ปาปัวนิวกินี",
+      "birth_rate_per_1000": 29.95,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "57",
+      "rank_overall": "60",
+      "entity_th": "ซาอุดีอาระเบีย",
+      "birth_rate_per_1000": 29.56,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "58",
+      "rank_overall": "61",
+      "entity_th": "ปารากวัย",
+      "birth_rate_per_1000": 29.43,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "59",
+      "rank_overall": "62",
+      "entity_th": "เบลีซ",
+      "birth_rate_per_1000": 29.32,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "60",
+      "rank_overall": "63",
+      "entity_th": "ฮอนดูรัส",
+      "birth_rate_per_1000": 28.87,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "61",
+      "rank_overall": "64",
+      "entity_th": "ซีเรีย",
+      "birth_rate_per_1000": 28.29,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "62",
+      "rank_overall": "65",
+      "entity_th": "ซิมบับเว",
+      "birth_rate_per_1000": 28.22,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "63",
+      "rank_overall": "66",
+      "entity_th": "เอสวาตินี",
+      "birth_rate_per_1000": 27.92,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "64",
+      "rank_overall": "67",
+      "entity_th": "เติร์กเมนิสถาน",
+      "birth_rate_per_1000": 27.68,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "65",
+      "rank_overall": "68",
+      "entity_th": "ติมอร์-เลสเต",
+      "birth_rate_per_1000": 27.19,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "66",
+      "rank_overall": "69",
+      "entity_th": "เอลซัลวาดอร์",
+      "birth_rate_per_1000": 27.04,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "67",
+      "rank_overall": "70",
+      "entity_th": "กัมพูชา",
+      "birth_rate_per_1000": 26.93,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "68",
+      "rank_overall": "71",
+      "entity_th": "ลิเบีย",
+      "birth_rate_per_1000": 26.82,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "69",
+      "rank_overall": "72",
+      "entity_th": "อุซเบกิสถาน",
+      "birth_rate_per_1000": 26.22,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "70",
+      "rank_overall": "73",
+      "entity_th": "กาบูเวร์ดี",
+      "birth_rate_per_1000": 25.33,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "71",
+      "rank_overall": "74",
+      "entity_th": "ฟิลิปปินส์",
+      "birth_rate_per_1000": 25.31,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "72",
+      "rank_overall": "75",
+      "entity_th": "ตองกา",
+      "birth_rate_per_1000": 25.18,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "73",
+      "rank_overall": "76",
+      "entity_th": "นามิเบีย",
+      "birth_rate_per_1000": 25.16,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "74",
+      "rank_overall": "77",
+      "entity_th": "นาอูรู",
+      "birth_rate_per_1000": 25.14,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "75",
+      "rank_overall": "78",
+      "entity_th": "เลโซโท",
+      "birth_rate_per_1000": 25.12,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "76",
+      "rank_overall": "79",
+      "entity_th": "ไมโครนีเซีย",
+      "birth_rate_per_1000": 25.11,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "77",
+      "rank_overall": "80",
+      "entity_th": "นิการากัว",
+      "birth_rate_per_1000": 24.88,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "78",
+      "rank_overall": "81",
+      "entity_th": "โบลิเวีย",
+      "birth_rate_per_1000": 23.76,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "79",
+      "rank_overall": "82",
+      "entity_th": "สาธารณรัฐโดมินิกัน",
+      "birth_rate_per_1000": 23.51,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "80",
+      "rank_overall": "83",
+      "entity_th": "บอตสวานา",
+      "birth_rate_per_1000": 23.33,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "81",
+      "rank_overall": "84",
+      "entity_th": "อียิปต์",
+      "birth_rate_per_1000": 23.32,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "85",
+      "entity_th": "อเมริกันซามัว (US)",
+      "birth_rate_per_1000": 23.13,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "82",
+      "rank_overall": "86",
+      "entity_th": "มาเลเซีย",
+      "birth_rate_per_1000": 23.07,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "83",
+      "rank_overall": "87",
+      "entity_th": "วานูอาตู",
+      "birth_rate_per_1000": 23.06,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "84",
+      "rank_overall": "88",
+      "entity_th": "ฟิจิ",
+      "birth_rate_per_1000": 22.73,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "85",
+      "rank_overall": "89",
+      "entity_th": "เอกวาดอร์",
+      "birth_rate_per_1000": 22.67,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "86",
+      "rank_overall": "90",
+      "entity_th": "คีร์กีซสถาน",
+      "birth_rate_per_1000": 22.48,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "87",
+      "rank_overall": "91",
+      "entity_th": "อินเดีย",
+      "birth_rate_per_1000": 22.32,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "88",
+      "rank_overall": "92",
+      "entity_th": "เกรเนดา",
+      "birth_rate_per_1000": 22.3,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "89",
+      "rank_overall": "93",
+      "entity_th": "โมร็อกโก",
+      "birth_rate_per_1000": 22.29,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "94",
+      "entity_th": "หมู่เกาะเติกส์และเคคอส (UK)",
+      "birth_rate_per_1000": 22.23,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "90",
+      "rank_overall": "95",
+      "entity_th": "ปานามา",
+      "birth_rate_per_1000": 22,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "91",
+      "rank_overall": "96",
+      "entity_th": "ตูวาลู",
+      "birth_rate_per_1000": 21.91,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "92",
+      "rank_overall": "97",
+      "entity_th": "คูเวต",
+      "birth_rate_per_1000": 21.88,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "93",
+      "rank_overall": "98",
+      "entity_th": "จอร์แดน",
+      "birth_rate_per_1000": 21.76,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "94",
+      "rank_overall": "99",
+      "entity_th": "มองโกเลีย",
+      "birth_rate_per_1000": 21.52,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "95",
+      "rank_overall": "100",
+      "entity_th": "จาเมกา",
+      "birth_rate_per_1000": 21.25,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "96",
+      "rank_overall": "101",
+      "entity_th": "เม็กซิโก",
+      "birth_rate_per_1000": 21.01,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "97",
+      "rank_overall": "102",
+      "entity_th": "เปรู",
+      "birth_rate_per_1000": 20.87,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "98",
+      "rank_overall": "103",
+      "entity_th": "โคลอมเบีย",
+      "birth_rate_per_1000": 20.82,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "99",
+      "rank_overall": "104",
+      "entity_th": "อินโดนีเซีย",
+      "birth_rate_per_1000": 20.71,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "105",
+      "entity_th": "เฟรนช์เกียนา (ฝรั่งเศส)",
+      "birth_rate_per_1000": 20.7,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "100",
+      "rank_overall": "106",
+      "entity_th": "อาเซอร์ไบจาน",
+      "birth_rate_per_1000": 20.4,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "101",
+      "rank_overall": "107",
+      "entity_th": "เซนต์ลูเซีย",
+      "birth_rate_per_1000": 20.05,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "109",
+      "entity_th": "เรอูว์นียง (ฝรั่งเศส)",
+      "birth_rate_per_1000": 19.26,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "110",
+      "entity_th": "กวม (US)",
+      "birth_rate_per_1000": 19.03,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "102",
+      "rank_overall": "111",
+      "entity_th": "บรูไน",
+      "birth_rate_per_1000": 19.01,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "103",
+      "rank_overall": "112",
+      "entity_th": "เวเนซุเอลา",
+      "birth_rate_per_1000": 18.91,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "104",
+      "rank_overall": "113",
+      "entity_th": "เลบานอน",
+      "birth_rate_per_1000": 18.88,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "105",
+      "rank_overall": "114",
+      "entity_th": "สหรัฐอาหรับเอมิเรตส์",
+      "birth_rate_per_1000": 18.78,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "106",
+      "rank_overall": "115",
+      "entity_th": "คอสตาริกา",
+      "birth_rate_per_1000": 18.6,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "116",
+      "entity_th": "นิวแคลิโดเนีย (ฝรั่งเศส)",
+      "birth_rate_per_1000": 18.49,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "107",
+      "rank_overall": "117",
+      "entity_th": "แอฟริกาใต้",
+      "birth_rate_per_1000": 18.48,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "108",
+      "rank_overall": "118",
+      "entity_th": "กายอานา",
+      "birth_rate_per_1000": 18.45,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "109",
+      "rank_overall": "119",
+      "entity_th": "ซูรินาม",
+      "birth_rate_per_1000": 18.39,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "110",
+      "rank_overall": "120",
+      "entity_th": "ปาเลา",
+      "birth_rate_per_1000": 18.37,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "111",
+      "rank_overall": "121",
+      "entity_th": "อิสราเอล",
+      "birth_rate_per_1000": 18.21,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "112",
+      "rank_overall": "122",
+      "entity_th": "เมียนมา",
+      "birth_rate_per_1000": 18.12,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "113",
+      "rank_overall": "123",
+      "entity_th": "เซนต์คิตส์และเนวิส",
+      "birth_rate_per_1000": 18.12,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "114",
+      "rank_overall": "124",
+      "entity_th": "บาห์เรน",
+      "birth_rate_per_1000": 18.1,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "115",
+      "rank_overall": "125",
+      "entity_th": "บาฮามาส",
+      "birth_rate_per_1000": 17.87,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "126",
+      "entity_th": "มอนต์เซอร์รัต (UK)",
+      "birth_rate_per_1000": 17.56,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "116",
+      "rank_overall": "127",
+      "entity_th": "แอนติกาและบาร์บูดา",
+      "birth_rate_per_1000": 17.26,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "117",
+      "rank_overall": "128",
+      "entity_th": "แอลจีเรีย",
+      "birth_rate_per_1000": 17.13,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "118",
+      "rank_overall": "129",
+      "entity_th": "เวียดนาม",
+      "birth_rate_per_1000": 17.07,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "130",
+      "entity_th": "เฟรนช์โปลินีเซีย (ฝรั่งเศส)",
+      "birth_rate_per_1000": 16.93,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "119",
+      "rank_overall": "131",
+      "entity_th": "อาร์เจนตินา",
+      "birth_rate_per_1000": 16.9,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "120",
+      "rank_overall": "132",
+      "entity_th": "บราซิล",
+      "birth_rate_per_1000": 16.83,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "121",
+      "rank_overall": "133",
+      "entity_th": "ตุรกี",
+      "birth_rate_per_1000": 16.83,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "122",
+      "rank_overall": "134",
+      "entity_th": "อิหร่าน",
+      "birth_rate_per_1000": 16.83,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "123",
+      "rank_overall": "135",
+      "entity_th": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "birth_rate_per_1000": 16.34,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "124",
+      "rank_overall": "136",
+      "entity_th": "เซเชลส์",
+      "birth_rate_per_1000": 16.22,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "125",
+      "rank_overall": "137",
+      "entity_th": "เกาหลีเหนือ",
+      "birth_rate_per_1000": 16.09,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "126",
+      "rank_overall": "138",
+      "entity_th": "ซามัว",
+      "birth_rate_per_1000": 15.95,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "139",
+      "entity_th": "กรีนแลนด์",
+      "birth_rate_per_1000": 15.93,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "127",
+      "rank_overall": "140",
+      "entity_th": "คาซัคสถาน",
+      "birth_rate_per_1000": 15.78,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "128",
+      "rank_overall": "141",
+      "entity_th": "ดอมินีกา",
+      "birth_rate_per_1000": 15.73,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "129",
+      "rank_overall": "142",
+      "entity_th": "ศรีลังกา",
+      "birth_rate_per_1000": 15.63,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "130",
+      "rank_overall": "143",
+      "entity_th": "มอริเชียส",
+      "birth_rate_per_1000": 15.62,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "131",
+      "rank_overall": "144",
+      "entity_th": "กาตาร์",
+      "birth_rate_per_1000": 15.54,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "132",
+      "rank_overall": "145",
+      "entity_th": "ตูนิเซีย",
+      "birth_rate_per_1000": 15.5,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "133",
+      "rank_overall": "146",
+      "entity_th": "ชิลี",
+      "birth_rate_per_1000": 15.44,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "147",
+      "entity_th": "กัวเดอลูป (ฝรั่งเศส)",
+      "birth_rate_per_1000": 15.42,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "134",
+      "rank_overall": "148",
+      "entity_th": "มอลโดวา",
+      "birth_rate_per_1000": 15.27,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "135",
+      "rank_overall": "149",
+      "entity_th": "แอลเบเนีย",
+      "birth_rate_per_1000": 15.08,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "150",
+      "entity_th": "เนเธอร์แลนด์แอนทิลลีส (เนเธอร์แลนด์)",
+      "birth_rate_per_1000": 15,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "151",
+      "entity_th": "หมู่เกาะบริติชเวอร์จิน (UK)",
+      "birth_rate_per_1000": 14.88,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "136",
+      "rank_overall": "152",
+      "entity_th": "ไอร์แลนด์",
+      "birth_rate_per_1000": 14.47,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "153",
+      "entity_th": "แองกวิลลา (UK)",
+      "birth_rate_per_1000": 14.26,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "154",
+      "entity_th": "หมู่เกาะเวอร์จินของสหรัฐ (US)",
+      "birth_rate_per_1000": 14.2,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "155",
+      "entity_th": "มาร์ตีนิก (ฝรั่งเศส)",
+      "birth_rate_per_1000": 14.14,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "137",
+      "rank_overall": "156",
+      "entity_th": "สหรัฐอเมริกา",
+      "birth_rate_per_1000": 14.14,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "138",
+      "rank_overall": "157",
+      "entity_th": "อุรุกวัย",
+      "birth_rate_per_1000": 14.09,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "139",
+      "rank_overall": "158",
+      "entity_th": "ไทย",
+      "birth_rate_per_1000": 14,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "159",
+      "entity_th": "หมู่เกาะแฟโร (เดนมาร์ก)",
+      "birth_rate_per_1000": 13.97,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "140",
+      "rank_overall": "160",
+      "entity_th": "นิวซีแลนด์",
+      "birth_rate_per_1000": 13.9,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "161",
+      "entity_th": "แซงปีแยร์และมีเกอลง (ฝรั่งเศส)",
+      "birth_rate_per_1000": 13.83,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "141",
+      "rank_overall": "162",
+      "entity_th": "ไอซ์แลนด์",
+      "birth_rate_per_1000": 13.73,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "142",
+      "rank_overall": "163",
+      "entity_th": "จีน",
+      "birth_rate_per_1000": 13.14,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "164",
+      "entity_th": "หมู่เกาะเคย์แมน (UK)",
+      "birth_rate_per_1000": 12.92,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "165",
+      "entity_th": "ปวยร์โตรีโก (US)",
+      "birth_rate_per_1000": 12.88,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "143",
+      "rank_overall": "166",
+      "entity_th": "บาร์เบโดส",
+      "birth_rate_per_1000": 12.81,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "144",
+      "rank_overall": "167",
+      "entity_th": "ตรินิแดดและโตเบโก",
+      "birth_rate_per_1000": 12.72,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "145",
+      "rank_overall": "168",
+      "entity_th": "ไต้หวัน",
+      "birth_rate_per_1000": 12.64,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "146",
+      "rank_overall": "169",
+      "entity_th": "ไซปรัส",
+      "birth_rate_per_1000": 12.57,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "170",
+      "entity_th": "เซนต์เฮเลนา",
+      "birth_rate_per_1000": 12.33,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "147",
+      "rank_overall": "171",
+      "entity_th": "ออสเตรเลีย",
+      "birth_rate_per_1000": 12.26,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "148",
+      "rank_overall": "172",
+      "entity_th": "ฝรั่งเศส",
+      "birth_rate_per_1000": 12.15,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "149",
+      "rank_overall": "173",
+      "entity_th": "ลักเซมเบิร์ก",
+      "birth_rate_per_1000": 12.06,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "150",
+      "rank_overall": "174",
+      "entity_th": "คิวบา",
+      "birth_rate_per_1000": 12.03,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "151",
+      "rank_overall": "175",
+      "entity_th": "มาซิโดเนียเหนือ",
+      "birth_rate_per_1000": 12,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "152",
+      "rank_overall": "176",
+      "entity_th": "อาร์มีเนีย",
+      "birth_rate_per_1000": 11.76,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "153",
+      "rank_overall": "177",
+      "entity_th": "นอร์เวย์",
+      "birth_rate_per_1000": 11.67,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "154",
+      "rank_overall": "178",
+      "entity_th": "เบอร์มิวดา (UK)",
+      "birth_rate_per_1000": 11.6,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "179",
+      "entity_th": "เดนมาร์ก",
+      "birth_rate_per_1000": 11.36,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "155",
+      "rank_overall": "180",
+      "entity_th": "อารูบา (เนเธอร์แลนด์)",
+      "birth_rate_per_1000": 11.26,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "181",
+      "entity_th": "เกาะแมน (UK)",
+      "birth_rate_per_1000": 11.18,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "182",
+      "entity_th": "เนเธอร์แลนด์",
+      "birth_rate_per_1000": 11.14,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "156",
+      "rank_overall": "183",
+      "entity_th": "ยิบรอลตาร์ (UK)",
+      "birth_rate_per_1000": 10.87,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "184",
+      "entity_th": "แคนาดา",
+      "birth_rate_per_1000": 10.84,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "157",
+      "rank_overall": "185",
+      "entity_th": "เบลารุส",
+      "birth_rate_per_1000": 10.83,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "158",
+      "rank_overall": "186",
+      "entity_th": "โปรตุเกส",
+      "birth_rate_per_1000": 10.82,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "159",
+      "rank_overall": "187",
+      "entity_th": "สหราชอาณาจักร",
+      "birth_rate_per_1000": 10.78,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "160",
+      "rank_overall": "188",
+      "entity_th": "โรมาเนีย",
+      "birth_rate_per_1000": 10.7,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "161",
+      "rank_overall": "189",
+      "entity_th": "สโลวาเกีย",
+      "birth_rate_per_1000": 10.62,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "162",
+      "rank_overall": "190",
+      "entity_th": "ฟินแลนด์",
+      "birth_rate_per_1000": 10.5,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "163",
+      "rank_overall": "191",
+      "entity_th": "เบลเยียม",
+      "birth_rate_per_1000": 10.48,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "164",
+      "rank_overall": "192",
+      "entity_th": "ลีชเทินชไตน์",
+      "birth_rate_per_1000": 10.41,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "165",
+      "rank_overall": "193",
+      "entity_th": "สวีเดน",
+      "birth_rate_per_1000": 10.36,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "166",
+      "rank_overall": "194",
+      "entity_th": "จอร์เจีย",
+      "birth_rate_per_1000": 10.25,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "167",
+      "rank_overall": "195",
+      "entity_th": "ซานมารีโน",
+      "birth_rate_per_1000": 10.18,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "168",
+      "rank_overall": "196",
+      "entity_th": "มอลตา",
+      "birth_rate_per_1000": 10.17,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "169",
+      "rank_overall": "197",
+      "entity_th": "สเปน",
+      "birth_rate_per_1000": 10.1,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "170",
+      "rank_overall": "198",
+      "entity_th": "เกาหลีเหนือ",
+      "birth_rate_per_1000": 10.04,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "171",
+      "rank_overall": "199",
+      "entity_th": "สหภาพยุโรป",
+      "birth_rate_per_1000": 10,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "",
+      "entity_th": "เอสโตเนีย",
+      "birth_rate_per_1000": 9.91,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "172",
+      "rank_overall": "200",
+      "entity_th": "รัสเซีย",
+      "birth_rate_per_1000": 9.8,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "173",
+      "rank_overall": "201",
+      "entity_th": "สวิตเซอร์แลนด์",
+      "birth_rate_per_1000": 9.77,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "174",
+      "rank_overall": "202",
+      "entity_th": "ฮังการี",
+      "birth_rate_per_1000": 9.76,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "175",
+      "rank_overall": "203",
+      "entity_th": "กรีซ",
+      "birth_rate_per_1000": 9.72,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "176",
+      "rank_overall": "204",
+      "entity_th": "โปแลนด์",
+      "birth_rate_per_1000": 9.72,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "177",
+      "rank_overall": "205",
+      "entity_th": "อิตาลี",
+      "birth_rate_per_1000": 9.7,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "178",
+      "rank_overall": "206",
+      "entity_th": "บัลแกเรีย",
+      "birth_rate_per_1000": 9.66,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "179",
+      "rank_overall": "207",
+      "entity_th": "เจอร์ซีย์ (UK)",
+      "birth_rate_per_1000": 9.66,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "208",
+      "entity_th": "โครเอเชีย",
+      "birth_rate_per_1000": 9.57,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "180",
+      "rank_overall": "209",
+      "entity_th": "สิงคโปร์",
+      "birth_rate_per_1000": 9.49,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "181",
+      "rank_overall": "210",
+      "entity_th": "ญี่ปุ่น",
+      "birth_rate_per_1000": 9.47,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "182",
+      "rank_overall": "211",
+      "entity_th": "โมนาโก",
+      "birth_rate_per_1000": 9.26,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "183",
+      "rank_overall": "212",
+      "entity_th": "เช็กเกีย",
+      "birth_rate_per_1000": 9.07,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "184",
+      "rank_overall": "213",
+      "entity_th": "ลัตเวีย",
+      "birth_rate_per_1000": 9.04,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "185",
+      "rank_overall": "214",
+      "entity_th": "เกิร์นซีย์ (UK)",
+      "birth_rate_per_1000": 9.01,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "215",
+      "entity_th": "อันดอร์รา",
+      "birth_rate_per_1000": 9,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "186",
+      "rank_overall": "216",
+      "entity_th": "สโลวีเนีย",
+      "birth_rate_per_1000": 8.95,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "187",
+      "rank_overall": "217",
+      "entity_th": "ออสเตรีย",
+      "birth_rate_per_1000": 8.81,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "188",
+      "rank_overall": "218",
+      "entity_th": "บอสเนียและเฮอร์เซโกวีนา",
+      "birth_rate_per_1000": 8.75,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "189",
+      "rank_overall": "219",
+      "entity_th": "ยูเครน",
+      "birth_rate_per_1000": 8.67,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "190",
+      "rank_overall": "220",
+      "entity_th": "ลิทัวเนีย",
+      "birth_rate_per_1000": 8.62,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "191",
+      "rank_overall": "221",
+      "entity_th": "มาเก๊า",
+      "birth_rate_per_1000": 8.47,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "",
+      "rank_overall": "222",
+      "entity_th": "เยอรมนี",
+      "birth_rate_per_1000": 8.33,
+      "data_year": 2005
+    },
+    {
+      "rank_sovereign_state": "192",
+      "rank_overall": "223",
+      "entity_th": "ฮ่องกง",
+      "birth_rate_per_1000": 7.26,
+      "data_year": 2005
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประเทศตามอัตราการเกิด",
+    "description": "รายชื่อประเทศและดินแดนทั่วโลก จัดอันดับตามอัตราการเกิด (จำนวนการเกิดต่อ 1,000 คน) พร้อมระบุปีข้อมูลที่อ้างอิงจาก CIA The World Factbook",
+    "seo_title": "รายชื่อประเทศตามอัตราการเกิด - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 223 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 223 รายการครบถ้วน",
+      "รวม: Entity, อัตราการเกิด (การเกิด/1,000 คน), ปีข้อมูล (ค.ศ.)",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

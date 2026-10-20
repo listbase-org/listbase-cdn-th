@@ -1,0 +1,1396 @@
+{
+  "id": "reference-human-development-index",
+  "name": "รายชื่อประเทศเรียงตามดัชนีการพัฒนามนุษย์",
+  "title": "รายชื่อประเทศเรียงตามดัชนีการพัฒนามนุษย์",
+  "description": "ข้อมูลดัชนีการพัฒนามนุษย์ (HDI) ของประเทศต่างๆ ทั่วโลก ประจำปี พ.ศ. 2564 ซึ่งเผยแพร่โดยสำนักงานโครงการพัฒนาแห่งสหประชาชาติ (UNDP) ประกอบด้วยอันดับ HDI, การเปลี่ยนแปลงอันดับจากปี พ.ศ. 2563, ค่า HDI และการเปลี่ยนแปลงค่า HDI จากปี พ.ศ. 2563",
+  "category": "reference",
+  "source": "วิกิพีเดีย",
+  "source_url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C",
+  "updated": "2024-07-29",
+  "record_count": 192,
+  "columns": [
+    {
+      "key": "rank_2021",
+      "label": "อันดับ (2564)",
+      "type": "string"
+    },
+    {
+      "key": "rank_change_2020",
+      "label": "การเปลี่ยนแปลงอันดับ (เทียบกับ 2563)",
+      "type": "string"
+    },
+    {
+      "key": "country_th",
+      "label": "ประเทศ",
+      "type": "string"
+    },
+    {
+      "key": "hdi_2021",
+      "label": "HDI (2564)",
+      "type": "number"
+    },
+    {
+      "key": "hdi_change_2020",
+      "label": "การเปลี่ยนแปลง HDI (เทียบกับ 2563)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank_2021": 1,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "สวิตเซอร์แลนด์",
+      "hdi_2021": 0.962,
+      "hdi_change_2020": "{{increase}} 0.006"
+    },
+    {
+      "rank_2021": 2,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "นอร์เวย์",
+      "hdi_2021": 0.961,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 3,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "ไอซ์แลนด์",
+      "hdi_2021": 0.959,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 4,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ฮ่องกง",
+      "hdi_2021": 0.952,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 5,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ออสเตรเลีย",
+      "hdi_2021": 0.951,
+      "hdi_change_2020": "{{increase}} 0.004"
+    },
+    {
+      "rank_2021": 6,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "เดนมาร์ก",
+      "hdi_2021": 0.948,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 7,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "สวีเดน",
+      "hdi_2021": 0.947,
+      "hdi_change_2020": "{{increase}} 0.005"
+    },
+    {
+      "rank_2021": 8,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ไอร์แลนด์",
+      "hdi_2021": 0.945,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 9,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "เยอรมนี",
+      "hdi_2021": 0.942,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 10,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "เนเธอร์แลนด์",
+      "hdi_2021": 0.941,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 11,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ฟินแลนด์",
+      "hdi_2021": 0.94,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 12,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "สิงคโปร์",
+      "hdi_2021": 0.939,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 13,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "เบลเยียม",
+      "hdi_2021": 0.937,
+      "hdi_change_2020": "{{increase}} 0.009"
+    },
+    {
+      "rank_2021": 13,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "นิวซีแลนด์",
+      "hdi_2021": 0.937,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 15,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "แคนาดา",
+      "hdi_2021": 0.936,
+      "hdi_change_2020": "{{increase}} 0.005"
+    },
+    {
+      "rank_2021": 16,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "ลีชเทินชไตน์",
+      "hdi_2021": 0.935,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 17,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ลักเซมเบิร์ก",
+      "hdi_2021": 0.93,
+      "hdi_change_2020": "{{increase}} 0.006"
+    },
+    {
+      "rank_2021": 18,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "สหราชอาณาจักร",
+      "hdi_2021": 0.929,
+      "hdi_change_2020": "{{increase}} 0.005"
+    },
+    {
+      "rank_2021": 19,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ญี่ปุ่น",
+      "hdi_2021": 0.925,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 19,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เกาหลีใต้",
+      "hdi_2021": 0.925,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 21,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "สหรัฐอเมริกา",
+      "hdi_2021": 0.921,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 22,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "อิสราเอล",
+      "hdi_2021": 0.919,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 23,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "มอลตา",
+      "hdi_2021": 0.918,
+      "hdi_change_2020": "{{increase}} 0.007"
+    },
+    {
+      "rank_2021": 23,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "สโลวีเนีย",
+      "hdi_2021": 0.918,
+      "hdi_change_2020": "{{increase}} 0.005"
+    },
+    {
+      "rank_2021": 25,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "ออสเตรีย",
+      "hdi_2021": 0.916,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 26,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "สหรัฐอาหรับเอมิเรตส์",
+      "hdi_2021": 0.911,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 27,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "สเปน",
+      "hdi_2021": 0.905,
+      "hdi_change_2020": "{{increase}} 0.006"
+    },
+    {
+      "rank_2021": 28,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ฝรั่งเศส",
+      "hdi_2021": 0.903,
+      "hdi_change_2020": "{{increase}} 0.005"
+    },
+    {
+      "rank_2021": 29,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ไซปรัส",
+      "hdi_2021": 0.896,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 30,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "อิตาลี",
+      "hdi_2021": 0.895,
+      "hdi_change_2020": "{{increase}} 0.006"
+    },
+    {
+      "rank_2021": 31,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "เอสโตเนีย",
+      "hdi_2021": 0.89,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 32,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "สาธารณรัฐเช็ก",
+      "hdi_2021": 0.889,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 33,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "กรีซ",
+      "hdi_2021": 0.887,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 34,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "โปแลนด์",
+      "hdi_2021": 0.876,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 35,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "บาห์เรน",
+      "hdi_2021": 0.875,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 35,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "ลิทัวเนีย",
+      "hdi_2021": 0.875,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 35,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "ซาอุดีอาระเบีย",
+      "hdi_2021": 0.875,
+      "hdi_change_2020": "{{increase}} 0.005"
+    },
+    {
+      "rank_2021": 38,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "โปรตุเกส",
+      "hdi_2021": 0.866,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 39,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "ลัตเวีย",
+      "hdi_2021": 0.863,
+      "hdi_change_2020": "{{decrease}} 0.008"
+    },
+    {
+      "rank_2021": 40,
+      "rank_change_2020": "{{increase}} 5",
+      "country_th": "อันดอร์รา",
+      "hdi_2021": 0.858,
+      "hdi_change_2020": "{{increase}} 0.010"
+    },
+    {
+      "rank_2021": 40,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "โครเอเชีย",
+      "hdi_2021": 0.858,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 42,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ชิลี",
+      "hdi_2021": 0.855,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 42,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "กาตาร์",
+      "hdi_2021": 0.855,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 44,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "ซานมารีโน",
+      "hdi_2021": 0.853,
+      "hdi_change_2020": "{{increase}} 0.008"
+    },
+    {
+      "rank_2021": 45,
+      "rank_change_2020": "{{decrease}} 5",
+      "country_th": "สโลวาเกีย",
+      "hdi_2021": 0.848,
+      "hdi_change_2020": "{{decrease}} 0.009"
+    },
+    {
+      "rank_2021": 46,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "ฮังการี",
+      "hdi_2021": 0.846,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 47,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "อาร์เจนตินา",
+      "hdi_2021": 0.842,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 48,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ตุรกี",
+      "hdi_2021": 0.838,
+      "hdi_change_2020": "{{increase}} 0.005"
+    },
+    {
+      "rank_2021": 49,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "มอนเตเนโกร",
+      "hdi_2021": 0.832,
+      "hdi_change_2020": "{{increase}} 0.006"
+    },
+    {
+      "rank_2021": 50,
+      "rank_change_2020": "{{increase}} 4",
+      "country_th": "คูเวต",
+      "hdi_2021": 0.831,
+      "hdi_change_2020": "{{increase}} 0.009"
+    },
+    {
+      "rank_2021": 51,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "บรูไน",
+      "hdi_2021": 0.829,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 52,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "รัสเซีย",
+      "hdi_2021": 0.822,
+      "hdi_change_2020": "{{decrease}} 0.008"
+    },
+    {
+      "rank_2021": 53,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "โรมาเนีย",
+      "hdi_2021": 0.821,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 54,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "โอมาน",
+      "hdi_2021": 0.816,
+      "hdi_change_2020": "{{decrease}} 0.011"
+    },
+    {
+      "rank_2021": 55,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "บาฮามาส",
+      "hdi_2021": 0.812,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 56,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "คาซัคสถาน",
+      "hdi_2021": 0.811,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 57,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "ตรินิแดดและโตเบโก",
+      "hdi_2021": 0.81,
+      "hdi_change_2020": "{{decrease}} 0.008"
+    },
+    {
+      "rank_2021": 58,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "คอสตาริกา",
+      "hdi_2021": 0.809,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 58,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "อุรุกวัย",
+      "hdi_2021": 0.809,
+      "hdi_change_2020": "{{decrease}} 0.012"
+    },
+    {
+      "rank_2021": 60,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "เบลารุส",
+      "hdi_2021": 0.808,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 61,
+      "rank_change_2020": "{{increase}} 6",
+      "country_th": "ปานามา",
+      "hdi_2021": 0.805,
+      "hdi_change_2020": "{{increase}} 0.004"
+    },
+    {
+      "rank_2021": 62,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "มาเลเซีย",
+      "hdi_2021": 0.803,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 63,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "จอร์เจีย",
+      "hdi_2021": 0.802,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 63,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "มอริเชียส",
+      "hdi_2021": 0.802,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 63,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "เซอร์เบีย",
+      "hdi_2021": 0.802,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 66,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "ไทย",
+      "hdi_2021": 0.8,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 67,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "แอลเบเนีย",
+      "hdi_2021": 0.796,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 68,
+      "rank_change_2020": "{{decrease}} 4",
+      "country_th": "บัลแกเรีย",
+      "hdi_2021": 0.795,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 68,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "กรีเนดา",
+      "hdi_2021": 0.795,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 70,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "บาร์เบโดส",
+      "hdi_2021": 0.79,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 71,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "แอนทีกาและบาร์บิวดา",
+      "hdi_2021": 0.788,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 72,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "เซเชลส์",
+      "hdi_2021": 0.785,
+      "hdi_change_2020": "{{decrease}} 0.008"
+    },
+    {
+      "rank_2021": 73,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "ศรีลังกา",
+      "hdi_2021": 0.782,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 74,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "บอสเนียและเฮอร์เซโกวีนา",
+      "hdi_2021": 0.78,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 75,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เซนต์คิตส์และเนวิส",
+      "hdi_2021": 0.777,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 76,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "อิหร่าน",
+      "hdi_2021": 0.774,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 77,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ยูเครน",
+      "hdi_2021": 0.773,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 78,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "มาซิโดเนียเหนือ",
+      "hdi_2021": 0.77,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 79,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "จีน",
+      "hdi_2021": 0.768,
+      "hdi_change_2020": "{{increase}} 0.004"
+    },
+    {
+      "rank_2021": 80,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "สาธารณรัฐโดมินิกัน",
+      "hdi_2021": 0.767,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 80,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "มอลโดวา",
+      "hdi_2021": 0.767,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 80,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ปาเลา",
+      "hdi_2021": 0.767,
+      "hdi_change_2020": "{{decrease}} 0.006"
+    },
+    {
+      "rank_2021": 83,
+      "rank_change_2020": "{{decrease}} 10",
+      "country_th": "คิวบา",
+      "hdi_2021": 0.764,
+      "hdi_change_2020": "{{decrease}} 0.017"
+    },
+    {
+      "rank_2021": 84,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เปรู",
+      "hdi_2021": 0.762,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 85,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "อาร์เมเนีย",
+      "hdi_2021": 0.759,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 86,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "เม็กซิโก",
+      "hdi_2021": 0.758,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 87,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "บราซิล",
+      "hdi_2021": 0.754,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 88,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "โคลอมเบีย",
+      "hdi_2021": 0.752,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 89,
+      "rank_change_2020": "{{decrease}} 7",
+      "country_th": "เซนต์วินเซนต์และเกรนาดีนส์",
+      "hdi_2021": 0.751,
+      "hdi_change_2020": "{{decrease}} 0.013"
+    },
+    {
+      "rank_2021": 90,
+      "rank_change_2020": "{{increase}} 7",
+      "country_th": "มัลดีฟส์",
+      "hdi_2021": 0.747,
+      "hdi_change_2020": "{{increase}} 0.013"
+    },
+    {
+      "rank_2021": 91,
+      "rank_change_2020": "{{increase}} 5",
+      "country_th": "แอลจีเรีย",
+      "hdi_2021": 0.745,
+      "hdi_change_2020": "{{increase}} 0.009"
+    },
+    {
+      "rank_2021": 91,
+      "rank_change_2020": "{{increase}} 9",
+      "country_th": "อาเซอร์ไบจาน",
+      "hdi_2021": 0.745,
+      "hdi_change_2020": "{{increase}} 0.015"
+    },
+    {
+      "rank_2021": 91,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "ตองกา",
+      "hdi_2021": 0.745,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 91,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "เติร์กเมนิสถาน",
+      "hdi_2021": 0.745,
+      "hdi_change_2020": "{{increase}} 0.004"
+    },
+    {
+      "rank_2021": 95,
+      "rank_change_2020": "{{increase}} 4",
+      "country_th": "เอกวาดอร์",
+      "hdi_2021": 0.74,
+      "hdi_change_2020": "{{increase}} 0.009"
+    },
+    {
+      "rank_2021": 96,
+      "rank_change_2020": "{{decrease}} 6",
+      "country_th": "มองโกเลีย",
+      "hdi_2021": 0.739,
+      "hdi_change_2020": "{{decrease}} 0.006"
+    },
+    {
+      "rank_2021": "",
+      "rank_change_2020": "",
+      "country_th": "โลก",
+      "hdi_2021": 0.732,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 97,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "อียิปต์",
+      "hdi_2021": 0.731,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 97,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "ตูนิเซีย",
+      "hdi_2021": 0.731,
+      "hdi_change_2020": "{{decrease}} 0.006"
+    },
+    {
+      "rank_2021": 99,
+      "rank_change_2020": "{{decrease}} 5",
+      "country_th": "ฟีจี",
+      "hdi_2021": 0.73,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 99,
+      "rank_change_2020": "{{decrease}} 7",
+      "country_th": "ซูรินาม",
+      "hdi_2021": 0.73,
+      "hdi_change_2020": "{{decrease}} 0.013"
+    },
+    {
+      "rank_2021": 101,
+      "rank_change_2020": "{{increase}} 6",
+      "country_th": "อุซเบกิสถาน",
+      "hdi_2021": 0.727,
+      "hdi_change_2020": "{{increase}} 0.006"
+    },
+    {
+      "rank_2021": 102,
+      "rank_change_2020": "{{increase}} 4",
+      "country_th": "ดอมินีกา",
+      "hdi_2021": 0.72,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 102,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "จอร์แดน",
+      "hdi_2021": 0.72,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 104,
+      "rank_change_2020": "{{increase}} 13",
+      "country_th": "ลิเบีย",
+      "hdi_2021": 0.718,
+      "hdi_change_2020": "{{increase}} 0.015"
+    },
+    {
+      "rank_2021": 105,
+      "rank_change_2020": "{{decrease}} 5",
+      "country_th": "ปารากวัย",
+      "hdi_2021": 0.717,
+      "hdi_change_2020": "{{decrease}} 0.013"
+    },
+    {
+      "rank_2021": 106,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "ปาเลสไตน์",
+      "hdi_2021": 0.715,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 106,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "เซนต์ลูเชีย",
+      "hdi_2021": 0.715,
+      "hdi_change_2020": "{{decrease}} 0.008"
+    },
+    {
+      "rank_2021": 108,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "กายอานา",
+      "hdi_2021": 0.714,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 109,
+      "rank_change_2020": "{{increase}} 7",
+      "country_th": "แอฟริกาใต้",
+      "hdi_2021": 0.713,
+      "hdi_change_2020": "{{decrease}} 0.014"
+    },
+    {
+      "rank_2021": 110,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "จาเมกา",
+      "hdi_2021": 0.709,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 111,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ซามัว",
+      "hdi_2021": 0.707,
+      "hdi_change_2020": "{{decrease}} 0.005"
+    },
+    {
+      "rank_2021": 112,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "กาบอง",
+      "hdi_2021": 0.706,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 112,
+      "rank_change_2020": "{{decrease}} 9",
+      "country_th": "เลบานอน",
+      "hdi_2021": 0.706,
+      "hdi_change_2020": "{{decrease}} 0.020"
+    },
+    {
+      "rank_2021": 114,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "อินโดนีเซีย",
+      "hdi_2021": 0.705,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 115,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "เวียดนาม",
+      "hdi_2021": 0.703,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 116,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "ฟิลิปปินส์",
+      "hdi_2021": 0.699,
+      "hdi_change_2020": "{{decrease}} 0.011"
+    },
+    {
+      "rank_2021": 117,
+      "rank_change_2020": "{{decrease}} 7",
+      "country_th": "บอตสวานา",
+      "hdi_2021": 0.693,
+      "hdi_change_2020": "{{decrease}} 0.020"
+    },
+    {
+      "rank_2021": 118,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "โบลิเวีย",
+      "hdi_2021": 0.692,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 118,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "คีร์กีซสถาน",
+      "hdi_2021": 0.692,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 120,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "เวเนซุเอลา",
+      "hdi_2021": 0.691,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 121,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "อิรัก",
+      "hdi_2021": 0.686,
+      "hdi_change_2020": "{{increase}} 0.007"
+    },
+    {
+      "rank_2021": 122,
+      "rank_change_2020": "{{increase}} 4",
+      "country_th": "ทาจิกิสถาน",
+      "hdi_2021": 0.685,
+      "hdi_change_2020": "{{increase}} 0.021"
+    },
+    {
+      "rank_2021": 123,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "เบลีซ",
+      "hdi_2021": 0.683,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 123,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "โมร็อกโก",
+      "hdi_2021": 0.683,
+      "hdi_change_2020": "{{increase}} 0.004"
+    },
+    {
+      "rank_2021": 125,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "เอลซัลวาดอร์",
+      "hdi_2021": 0.675,
+      "hdi_change_2020": "{{increase}} 0.003"
+    },
+    {
+      "rank_2021": 126,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "นิการากัว",
+      "hdi_2021": 0.667,
+      "hdi_change_2020": "{{increase}} 0.013"
+    },
+    {
+      "rank_2021": 127,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "ภูฏาน",
+      "hdi_2021": 0.666,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 128,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "กาบูเวร์ดี",
+      "hdi_2021": 0.662,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 129,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "บังกลาเทศ",
+      "hdi_2021": 0.661,
+      "hdi_change_2020": "{{increase}} 0.006"
+    },
+    {
+      "rank_2021": 130,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ตูวาลู",
+      "hdi_2021": 0.641,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 131,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "หมู่เกาะมาร์แชลล์",
+      "hdi_2021": 0.639,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 132,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "อินเดีย",
+      "hdi_2021": 0.633,
+      "hdi_change_2020": "{{decrease}} 0.009"
+    },
+    {
+      "rank_2021": 133,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "กานา",
+      "hdi_2021": 0.632,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 134,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "ไมโครนีเชีย",
+      "hdi_2021": 0.628,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 135,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "กัวเตมาลา",
+      "hdi_2021": 0.627,
+      "hdi_change_2020": "{{decrease}} 0.008"
+    },
+    {
+      "rank_2021": 136,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "คิริบาส",
+      "hdi_2021": 0.624,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 137,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ฮอนดูรัส",
+      "hdi_2021": 0.621,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 138,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เซาตูแมอีปริงซีป",
+      "hdi_2021": 0.618,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 139,
+      "rank_change_2020": "{{decrease}} 5",
+      "country_th": "นามิเบีย",
+      "hdi_2021": 0.615,
+      "hdi_change_2020": "{{decrease}} 0.018"
+    },
+    {
+      "rank_2021": 140,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "ลาว",
+      "hdi_2021": 0.607,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 140,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ติมอร์-เลสเต",
+      "hdi_2021": 0.607,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 140,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "วานูวาตู",
+      "hdi_2021": 0.607,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 143,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เนปาล",
+      "hdi_2021": 0.602,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 144,
+      "rank_change_2020": "{{decrease}} 3",
+      "country_th": "เอสวาตินี",
+      "hdi_2021": 0.597,
+      "hdi_change_2020": "{{decrease}} 0.013"
+    },
+    {
+      "rank_2021": 145,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "อิเควทอเรียลกินี",
+      "hdi_2021": 0.596,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 146,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "กัมพูชา",
+      "hdi_2021": 0.593,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 146,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "ซิมบับเว",
+      "hdi_2021": 0.593,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 148,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "แองโกลา",
+      "hdi_2021": 0.586,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 149,
+      "rank_change_2020": "{{decrease}} 4",
+      "country_th": "พม่า",
+      "hdi_2021": 0.585,
+      "hdi_change_2020": "{{decrease}} 0.015"
+    },
+    {
+      "rank_2021": 150,
+      "rank_change_2020": "{{increase}} 2",
+      "country_th": "ซีเรีย",
+      "hdi_2021": 0.577,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 151,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "แคเมอรูน",
+      "hdi_2021": 0.576,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 152,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "เคนยา",
+      "hdi_2021": 0.575,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 153,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "สาธารณรัฐคองโก",
+      "hdi_2021": 0.571,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 154,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "แซมเบีย",
+      "hdi_2021": 0.565,
+      "hdi_change_2020": "{{decrease}} 0.005"
+    },
+    {
+      "rank_2021": 155,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "หมู่เกาะโซโลมอน",
+      "hdi_2021": 0.564,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 156,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "คอโมโรส",
+      "hdi_2021": 0.558,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 156,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ปาปัวนิวกินี",
+      "hdi_2021": 0.558,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 158,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "มอริเตเนีย",
+      "hdi_2021": 0.556,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 159,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "โกตดิวัวร์",
+      "hdi_2021": 0.55,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 160,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "แทนซาเนีย",
+      "hdi_2021": 0.549,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 161,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ปากีสถาน",
+      "hdi_2021": 0.544,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 162,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "โตโก",
+      "hdi_2021": 0.539,
+      "hdi_change_2020": "{{increase}} 0.004"
+    },
+    {
+      "rank_2021": 163,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "เฮติ",
+      "hdi_2021": 0.535,
+      "hdi_change_2020": "{{decrease}} 0.005"
+    },
+    {
+      "rank_2021": 163,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ไนจีเรีย",
+      "hdi_2021": 0.535,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 165,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "รวันดา",
+      "hdi_2021": 0.534,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 166,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เบนิน",
+      "hdi_2021": 0.525,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 166,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "ยูกันดา",
+      "hdi_2021": 0.525,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 168,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "เลโซโท",
+      "hdi_2021": 0.514,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 169,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "มาลาวี",
+      "hdi_2021": 0.512,
+      "hdi_change_2020": "{{decrease}} 0.004"
+    },
+    {
+      "rank_2021": 170,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เซเนกัล",
+      "hdi_2021": 0.511,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 171,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "จิบูตี",
+      "hdi_2021": 0.509,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 172,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ซูดาน",
+      "hdi_2021": 0.508,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 173,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "มาดากัสการ์",
+      "hdi_2021": 0.501,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 174,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "แกมเบีย",
+      "hdi_2021": 0.5,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 175,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "เอธิโอเปีย",
+      "hdi_2021": 0.498,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 176,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "เอริเทรีย",
+      "hdi_2021": 0.492,
+      "hdi_change_2020": "{{decrease}} 0.002"
+    },
+    {
+      "rank_2021": 177,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "กินี-บิสเซา",
+      "hdi_2021": 0.483,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 178,
+      "rank_change_2020": "{{decrease}} 2",
+      "country_th": "ไลบีเรีย",
+      "hdi_2021": 0.481,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 179,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "สาธารณรัฐประชาธิปไตยคองโก",
+      "hdi_2021": 0.479,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 180,
+      "rank_change_2020": "{{increase}} 3",
+      "country_th": "อัฟกานิสถาน",
+      "hdi_2021": 0.478,
+      "hdi_change_2020": "{{decrease}} 0.005"
+    },
+    {
+      "rank_2021": 181,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "เซียร์ราลีโอน",
+      "hdi_2021": 0.477,
+      "hdi_change_2020": "{{increase}} 0.002"
+    },
+    {
+      "rank_2021": 182,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "กินี",
+      "hdi_2021": 0.465,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 183,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "เยเมน",
+      "hdi_2021": 0.455,
+      "hdi_change_2020": "{{decrease}} 0.005"
+    },
+    {
+      "rank_2021": 184,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "บูร์กินาฟาโซ",
+      "hdi_2021": 0.449,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 185,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "โมซัมบิก",
+      "hdi_2021": 0.446,
+      "hdi_change_2020": "{{decrease}} 0.007"
+    },
+    {
+      "rank_2021": 186,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "มาลี",
+      "hdi_2021": 0.428,
+      "hdi_change_2020": "{{increase}} 0.001"
+    },
+    {
+      "rank_2021": 187,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "บุรุนดี",
+      "hdi_2021": 0.426,
+      "hdi_change_2020": "{{steady}}"
+    },
+    {
+      "rank_2021": 188,
+      "rank_change_2020": "{{decrease}} 1",
+      "country_th": "สาธารณรัฐแอฟริกากลาง",
+      "hdi_2021": 0.404,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 189,
+      "rank_change_2020": "{{increase}} 1",
+      "country_th": "ไนเจอร์",
+      "hdi_2021": 0.4,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    },
+    {
+      "rank_2021": 190,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ชาด",
+      "hdi_2021": 0.394,
+      "hdi_change_2020": "{{decrease}} 0.003"
+    },
+    {
+      "rank_2021": 191,
+      "rank_change_2020": "{{steady}}",
+      "country_th": "ซูดานใต้",
+      "hdi_2021": 0.385,
+      "hdi_change_2020": "{{decrease}} 0.001"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประเทศเรียงตามดัชนีการพัฒนามนุษย์",
+    "description": "ข้อมูลดัชนีการพัฒนามนุษย์ (HDI) ของประเทศต่างๆ ทั่วโลก พร้อมอันดับและค่า HDI ประจำปี พ.ศ. 2564",
+    "seo_title": "รายชื่อประเทศเรียงตามดัชนีการพัฒนามนุษย์ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลด 191 รายการ ฟรี ในรูปแบบ Excel, CSV และ PDF",
+    "key_takeaways": [
+      "ข้อมูล 191 รายการครบถ้วน",
+      "รวม: อันดับ, ประเทศ, ค่า HDI, การเปลี่ยนแปลง",
+      "ดาวน์โหลดได้ทั้ง Excel, CSV และ PDF",
+      "ใช้ฟรีทั้งส่วนตัวและเชิงพาณิชย์"
+    ]
+  }
+}

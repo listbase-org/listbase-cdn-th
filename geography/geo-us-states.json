@@ -1,0 +1,579 @@
+{
+  "id": "geo-us-states",
+  "name": "ชุดข้อมูลรายละเอียดรัฐสหรัฐฯ",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "State Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital City (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "division",
+      "label": "Division (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_sq_mi",
+      "label": "Area (sq mi)",
+      "type": "number"
+    },
+    {
+      "key": "statehood_year",
+      "label": "Statehood Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "อะแลแบมา",
+      "abbreviation": "AL",
+      "capital": "มอนต์กอเมอรี",
+      "region": "ภาคใต้",
+      "division": "ภาคตะวันออกกลางตอนใต้",
+      "population": 5024279,
+      "area_sq_mi": 52420,
+      "statehood_year": 1819
+    },
+    {
+      "name": "อะแลสกา",
+      "abbreviation": "AK",
+      "capital": "จูโน",
+      "region": "ภาคตะวันตก",
+      "division": "แปซิฟิก",
+      "population": 733391,
+      "area_sq_mi": 665384,
+      "statehood_year": 1959
+    },
+    {
+      "name": "แอริโซนา",
+      "abbreviation": "AZ",
+      "capital": "ฟีนิกซ์",
+      "region": "ภาคตะวันตก",
+      "division": "ภาคเทือกเขา",
+      "population": 7151502,
+      "area_sq_mi": 113990,
+      "statehood_year": 1912
+    },
+    {
+      "name": "อาร์คันซอ",
+      "abbreviation": "AR",
+      "capital": "ลิตเทิลร็อก",
+      "region": "ภาคใต้",
+      "division": "ภาคตะวันตกกลางตอนใต้",
+      "population": 3011524,
+      "area_sq_mi": 53179,
+      "statehood_year": 1836
+    },
+    {
+      "name": "แคลิฟอร์เนีย",
+      "abbreviation": "CA",
+      "capital": "แซคราเมนโต",
+      "region": "ภาคตะวันตก",
+      "division": "แปซิฟิก",
+      "population": 39538223,
+      "area_sq_mi": 163695,
+      "statehood_year": 1850
+    },
+    {
+      "name": "โคโลราโด",
+      "abbreviation": "CO",
+      "capital": "เดนเวอร์",
+      "region": "ภาคตะวันตก",
+      "division": "ภาคเทือกเขา",
+      "population": 5773714,
+      "area_sq_mi": 104094,
+      "statehood_year": 1876
+    },
+    {
+      "name": "คอนเนทิคัต",
+      "abbreviation": "CT",
+      "capital": "ฮาร์ตฟอร์ด",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "division": "นิวอิงแลนด์",
+      "population": 3605944,
+      "area_sq_mi": 5543,
+      "statehood_year": 1788
+    },
+    {
+      "name": "เดลาแวร์",
+      "abbreviation": "DE",
+      "capital": "โดเวอร์",
+      "region": "ภาคใต้",
+      "division": "ภาคแอตแลนติกใต้",
+      "population": 989948,
+      "area_sq_mi": 2489,
+      "statehood_year": 1787
+    },
+    {
+      "name": "ฟลอริดา",
+      "abbreviation": "FL",
+      "capital": "แทลลาแฮสซี",
+      "region": "ภาคใต้",
+      "division": "ภาคแอตแลนติกใต้",
+      "population": 21538187,
+      "area_sq_mi": 65758,
+      "statehood_year": 1845
+    },
+    {
+      "name": "จอร์เจีย",
+      "abbreviation": "GA",
+      "capital": "แอตแลนตา",
+      "region": "ภาคใต้",
+      "division": "ภาคแอตแลนติกใต้",
+      "population": 10711908,
+      "area_sq_mi": 59425,
+      "statehood_year": 1788
+    },
+    {
+      "name": "ฮาวาย",
+      "abbreviation": "HI",
+      "capital": "โฮโนลูลู",
+      "region": "ภาคตะวันตก",
+      "division": "แปซิฟิก",
+      "population": 1455271,
+      "area_sq_mi": 10932,
+      "statehood_year": 1959
+    },
+    {
+      "name": "ไอดาโฮ",
+      "abbreviation": "ID",
+      "capital": "บอยซี",
+      "region": "ภาคตะวันตก",
+      "division": "ภาคเทือกเขา",
+      "population": 1839106,
+      "area_sq_mi": 83569,
+      "statehood_year": 1890
+    },
+    {
+      "name": "อิลลินอยส์",
+      "abbreviation": "IL",
+      "capital": "สปริงฟิลด์",
+      "region": "มิดเวสต์",
+      "division": "ภาคตะวันออกกลางตอนเหนือ",
+      "population": 12812508,
+      "area_sq_mi": 57914,
+      "statehood_year": 1818
+    },
+    {
+      "name": "อินดีแอนา",
+      "abbreviation": "IN",
+      "capital": "อินเดียแนโพลิส",
+      "region": "มิดเวสต์",
+      "division": "ภาคตะวันออกกลางตอนเหนือ",
+      "population": 6785528,
+      "area_sq_mi": 36420,
+      "statehood_year": 1816
+    },
+    {
+      "name": "ไอโอวา",
+      "abbreviation": "IA",
+      "capital": "ดิมอยน์",
+      "region": "มิดเวสต์",
+      "division": "ภาคตะวันตกกลางตอนเหนือ",
+      "population": 3190369,
+      "area_sq_mi": 56273,
+      "statehood_year": 1846
+    },
+    {
+      "name": "แคนซัส",
+      "abbreviation": "KS",
+      "capital": "โทพีกา",
+      "region": "มิดเวสต์",
+      "division": "ภาคตะวันตกกลางตอนเหนือ",
+      "population": 2937880,
+      "area_sq_mi": 82278,
+      "statehood_year": 1861
+    },
+    {
+      "name": "เคนทักกี",
+      "abbreviation": "KY",
+      "capital": "แฟรงก์ฟอร์ต",
+      "region": "ภาคใต้",
+      "division": "ภาคตะวันออกกลางตอนใต้",
+      "population": 4505836,
+      "area_sq_mi": 40408,
+      "statehood_year": 1792
+    },
+    {
+      "name": "ลุยเซียนา",
+      "abbreviation": "LA",
+      "capital": "แบตันรูช",
+      "region": "ภาคใต้",
+      "division": "ภาคตะวันตกกลางตอนใต้",
+      "population": 4657757,
+      "area_sq_mi": 52378,
+      "statehood_year": 1812
+    },
+    {
+      "name": "เมน",
+      "abbreviation": "ME",
+      "capital": "ออกัสตา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "division": "นิวอิงแลนด์",
+      "population": 1362359,
+      "area_sq_mi": 35380,
+      "statehood_year": 1820
+    },
+    {
+      "name": "แมริแลนด์",
+      "abbreviation": "MD",
+      "capital": "แอนแนโพลิส",
+      "region": "ภาคใต้",
+      "division": "ภาคแอตแลนติกใต้",
+      "population": 6177224,
+      "area_sq_mi": 12406,
+      "statehood_year": 1788
+    },
+    {
+      "name": "แมสซาชูเซตส์",
+      "abbreviation": "MA",
+      "capital": "บอสตัน",
+      "region": "ตะวันออกเฉียงเหนือ",
+      "division": "นิวอิงแลนด์",
+      "population": 7029917,
+      "area_sq_mi": 10554,
+      "statehood_year": 1788
+    },
+    {
+      "name": "มิชิแกน",
+      "abbreviation": "MI",
+      "capital": "แลนซิง",
+      "region": "มิดเวสต์",
+      "division": "ภาคกลางตอนเหนือฝั่งตะวันออก",
+      "population": 10077331,
+      "area_sq_mi": 96714,
+      "statehood_year": 1837
+    },
+    {
+      "name": "มินนิโซตา",
+      "abbreviation": "MN",
+      "capital": "เซนต์พอล",
+      "region": "มิดเวสต์",
+      "division": "ภาคกลางตอนเหนือฝั่งตะวันตก",
+      "population": 5706494,
+      "area_sq_mi": 86936,
+      "statehood_year": 1858
+    },
+    {
+      "name": "มิสซิสซิปปี",
+      "abbreviation": "MS",
+      "capital": "แจ็กสัน",
+      "region": "ใต้",
+      "division": "ภาคกลางตอนใต้ฝั่งตะวันออก",
+      "population": 2961279,
+      "area_sq_mi": 48432,
+      "statehood_year": 1817
+    },
+    {
+      "name": "มิสซูรี",
+      "abbreviation": "MO",
+      "capital": "เจฟเฟอร์สันซิตี",
+      "region": "มิดเวสต์",
+      "division": "ภาคกลางตอนเหนือฝั่งตะวันตก",
+      "population": 6154913,
+      "area_sq_mi": 69707,
+      "statehood_year": 1821
+    },
+    {
+      "name": "มอนแทนา",
+      "abbreviation": "MT",
+      "capital": "เฮเลนา",
+      "region": "ตะวันตก",
+      "division": "ภาคภูเขา",
+      "population": 1084225,
+      "area_sq_mi": 147040,
+      "statehood_year": 1889
+    },
+    {
+      "name": "เนแบรสกา",
+      "abbreviation": "NE",
+      "capital": "ลิงคอล์น",
+      "region": "มิดเวสต์",
+      "division": "ภาคกลางตอนเหนือฝั่งตะวันตก",
+      "population": 1961504,
+      "area_sq_mi": 77348,
+      "statehood_year": 1867
+    },
+    {
+      "name": "เนวาดา",
+      "abbreviation": "NV",
+      "capital": "คาร์สันซิตี",
+      "region": "ตะวันตก",
+      "division": "ภาคภูเขา",
+      "population": 3104614,
+      "area_sq_mi": 110572,
+      "statehood_year": 1864
+    },
+    {
+      "name": "นิวแฮมป์เชอร์",
+      "abbreviation": "NH",
+      "capital": "คองคอร์ด",
+      "region": "ตะวันออกเฉียงเหนือ",
+      "division": "นิวอิงแลนด์",
+      "population": 1377529,
+      "area_sq_mi": 9349,
+      "statehood_year": 1788
+    },
+    {
+      "name": "นิวเจอร์ซีย์",
+      "abbreviation": "NJ",
+      "capital": "ทรินตัน",
+      "region": "ตะวันออกเฉียงเหนือ",
+      "division": "แอตแลนติกกลาง",
+      "population": 9288994,
+      "area_sq_mi": 8723,
+      "statehood_year": 1787
+    },
+    {
+      "name": "นิวเม็กซิโก",
+      "abbreviation": "NM",
+      "capital": "ซานตาเฟ",
+      "region": "ตะวันตก",
+      "division": "ภาคภูเขา",
+      "population": 2117522,
+      "area_sq_mi": 121590,
+      "statehood_year": 1912
+    },
+    {
+      "name": "นิวยอร์ก",
+      "abbreviation": "NY",
+      "capital": "ออลบานี",
+      "region": "ตะวันออกเฉียงเหนือ",
+      "division": "แอตแลนติกกลาง",
+      "population": 20201249,
+      "area_sq_mi": 54555,
+      "statehood_year": 1788
+    },
+    {
+      "name": "นอร์ทแคโรไลนา",
+      "abbreviation": "NC",
+      "capital": "ราลี",
+      "region": "ใต้",
+      "division": "แอตแลนติกใต้",
+      "population": 10439388,
+      "area_sq_mi": 53819,
+      "statehood_year": 1789
+    },
+    {
+      "name": "นอร์ทดาโคตา",
+      "abbreviation": "ND",
+      "capital": "บิสมาร์ก",
+      "region": "มิดเวสต์",
+      "division": "ภาคกลางตอนเหนือฝั่งตะวันตก",
+      "population": 779094,
+      "area_sq_mi": 70698,
+      "statehood_year": 1889
+    },
+    {
+      "name": "โอไฮโอ",
+      "abbreviation": "OH",
+      "capital": "โคลัมบัส",
+      "region": "มิดเวสต์",
+      "division": "ภาคกลางตอนเหนือฝั่งตะวันออก",
+      "population": 11799448,
+      "area_sq_mi": 44826,
+      "statehood_year": 1803
+    },
+    {
+      "name": "โอคลาโฮมา",
+      "abbreviation": "OK",
+      "capital": "โอคลาโฮมาซิตี",
+      "region": "ใต้",
+      "division": "ภาคกลางตอนใต้ฝั่งตะวันตก",
+      "population": 3959353,
+      "area_sq_mi": 69899,
+      "statehood_year": 1907
+    },
+    {
+      "name": "ออริกอน",
+      "abbreviation": "OR",
+      "capital": "เซเลม",
+      "region": "ตะวันตก",
+      "division": "แปซิฟิก",
+      "population": 4237256,
+      "area_sq_mi": 98379,
+      "statehood_year": 1859
+    },
+    {
+      "name": "เพนซิลเวเนีย",
+      "abbreviation": "PA",
+      "capital": "แฮร์ริสเบิร์ก",
+      "region": "ตะวันออกเฉียงเหนือ",
+      "division": "แอตแลนติกกลาง",
+      "population": 13002700,
+      "area_sq_mi": 46054,
+      "statehood_year": 1787
+    },
+    {
+      "name": "โรดไอแลนด์",
+      "abbreviation": "RI",
+      "capital": "พรอวิเดนซ์",
+      "region": "ตะวันออกเฉียงเหนือ",
+      "division": "นิวอิงแลนด์",
+      "population": 1097379,
+      "area_sq_mi": 1545,
+      "statehood_year": 1790
+    },
+    {
+      "name": "เซาท์แคโรไลนา",
+      "abbreviation": "SC",
+      "capital": "โคลัมเบีย",
+      "region": "ใต้",
+      "division": "แอตแลนติกใต้",
+      "population": 5118425,
+      "area_sq_mi": 32020,
+      "statehood_year": 1788
+    },
+    {
+      "name": "เซาท์ดาโคตา",
+      "abbreviation": "SD",
+      "capital": "ปิแอร์",
+      "region": "ตะวันตกกลาง",
+      "division": "ตะวันตกตอนกลางเหนือ",
+      "population": 886667,
+      "area_sq_mi": 77116,
+      "statehood_year": 1889
+    },
+    {
+      "name": "เทนเนสซี",
+      "abbreviation": "TN",
+      "capital": "แนชวิลล์",
+      "region": "ใต้",
+      "division": "ตะวันออกตอนกลางใต้",
+      "population": 6910840,
+      "area_sq_mi": 42144,
+      "statehood_year": 1796
+    },
+    {
+      "name": "เท็กซัส",
+      "abbreviation": "TX",
+      "capital": "ออสติน",
+      "region": "ใต้",
+      "division": "ตะวันตกตอนกลางใต้",
+      "population": 29145505,
+      "area_sq_mi": 268596,
+      "statehood_year": 1845
+    },
+    {
+      "name": "ยูทาห์",
+      "abbreviation": "UT",
+      "capital": "ซอลต์เลกซิตี",
+      "region": "ตะวันตก",
+      "division": "ภูเขา",
+      "population": 3271616,
+      "area_sq_mi": 84897,
+      "statehood_year": 1896
+    },
+    {
+      "name": "เวอร์มอนต์",
+      "abbreviation": "VT",
+      "capital": "มอนต์เพเลียร์",
+      "region": "ตะวันออกเฉียงเหนือ",
+      "division": "นิวอิงแลนด์",
+      "population": 643077,
+      "area_sq_mi": 9616,
+      "statehood_year": 1791
+    },
+    {
+      "name": "เวอร์จิเนีย",
+      "abbreviation": "VA",
+      "capital": "ริชมอนด์",
+      "region": "ใต้",
+      "division": "แอตแลนติกใต้",
+      "population": 8631393,
+      "area_sq_mi": 42775,
+      "statehood_year": 1788
+    },
+    {
+      "name": "วอชิงตัน",
+      "abbreviation": "WA",
+      "capital": "โอลิมเปีย",
+      "region": "ตะวันตก",
+      "division": "แปซิฟิก",
+      "population": 7614893,
+      "area_sq_mi": 71298,
+      "statehood_year": 1889
+    },
+    {
+      "name": "เวสต์เวอร์จิเนีย",
+      "abbreviation": "WV",
+      "capital": "ชาร์ลสตัน",
+      "region": "ใต้",
+      "division": "แอตแลนติกใต้",
+      "population": 1793716,
+      "area_sq_mi": 24230,
+      "statehood_year": 1863
+    },
+    {
+      "name": "วิสคอนซิน",
+      "abbreviation": "WI",
+      "capital": "แมดิสัน",
+      "region": "ตะวันตกกลาง",
+      "division": "ตะวันออกตอนกลางเหนือ",
+      "population": 5893718,
+      "area_sq_mi": 65496,
+      "statehood_year": 1848
+    },
+    {
+      "name": "ไวโอมิง",
+      "abbreviation": "WY",
+      "capital": "ชายเอนน์",
+      "region": "ตะวันตก",
+      "division": "ภูเขา",
+      "population": 576851,
+      "area_sq_mi": 97813,
+      "statehood_year": 1890
+    }
+  ],
+  "meta": {
+    "seo_title": "ข้อมูลรัฐสหรัฐฯ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดข้อมูลรัฐสหรัฐฯ 50 รัฐ: ชื่อ, เมืองหลวง, ประชากร, ภูมิภาค และอื่น ๆ ฟรีใน Excel, CSV, PDF สำหรับการวิเคราะห์, การศึกษา และการพัฒนา",
+    "title": "ชุดข้อมูลรายละเอียดรัฐสหรัฐฯ",
+    "description": "ชุดข้อมูลนี้ให้ข้อมูลโดยละเอียดสำหรับ 50 รัฐของสหรัฐอเมริกา รวมถึงชื่อย่อ, เมืองหลวง, ภูมิภาค, แผนก, ประชากร, พื้นที่ และปีที่ก่อตั้งรัฐ เหมาะสำหรับการวิเคราะห์ทางภูมิศาสตร์และประชากรศาสตร์",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลประชากรและภูมิศาสตร์ที่สำคัญสำหรับ 50 รัฐของสหรัฐอเมริกา",
+      "สำรวจชื่อรัฐ, เมืองหลวง, ภูมิภาค, ประชากร และพื้นที่ดิน",
+      "ดาวน์โหลดข้อมูลรัฐสหรัฐฯ ที่ครอบคลุมพร้อมใช้งานในรูปแบบต่างๆ",
+      "ใช้ประโยชน์จากข้อมูลที่ถูกต้องสำหรับโครงการการศึกษา, การวิจัย และการพัฒนา"
+    ],
+    "keywords": [
+      "ข้อมูลรัฐสหรัฐฟรี",
+      "ข้อเท็จจริงสหรัฐอเมริกา excel",
+      "เมืองหลวงรัฐสหรัฐ csv",
+      "ข้อมูลประชากร 50 รัฐ",
+      "ภูมิภาคสหรัฐ pdf",
+      "ดาวน์โหลดข้อมูลรัฐสหรัฐ"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูล SQL หรือสคริปต์ Python ของคุณสำหรับการวิเคราะห์ทางภูมิศาสตร์หรือพัฒนาแอปพลิเคชันที่มีข้อมูลระดับรัฐ",
+      "ใช้ไฟล์ **Excel** เพื่อสร้าง Pivot Table, กรองรัฐตามภูมิภาคหรือประชากร และสร้างรายงานเกี่ยวกับแนวโน้มประชากรและภูมิศาสตร์ของสหรัฐฯ",
+      "พิมพ์เวอร์ชัน **PDF** สำหรับการอ้างอิงในห้องเรียน, การนำเสนอทางการศึกษา หรือการเข้าถึงข้อมูลและตัวเลขของรัฐสหรัฐฯ แบบออฟไลน์อย่างรวดเร็ว",
+      "วิเคราะห์ประวัติการก่อตั้งรัฐ, การเปลี่ยนแปลงประชากร และประชากรศาสตร์ระดับภูมิภาคของสหรัฐฯ สำหรับการวิจัยหรือโครงการทางวิชาการ"
+    ]
+  },
+  "record_count": 50,
+  "title": "ชุดข้อมูลรายละเอียดรัฐสหรัฐฯ"
+}

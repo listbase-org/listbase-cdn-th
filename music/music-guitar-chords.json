@@ -1,0 +1,942 @@
+{
+  "id": "music-guitar-chords",
+  "name": "ชุดข้อมูลคอร์ดกีตาร์ฉบับสมบูรณ์",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "fingering",
+      "label": "Fingering (E-A-D-G-B-e)",
+      "type": "string"
+    },
+    {
+      "key": "fret_position",
+      "label": "Fret Position",
+      "type": "string"
+    },
+    {
+      "key": "fingers",
+      "label": "Finger Placement",
+      "type": "string"
+    },
+    {
+      "key": "difficulty",
+      "label": "Difficulty (EN)",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "C เมเจอร์",
+      "type": "เมเจอร์",
+      "fingering": "x32010",
+      "fret_position": "Open",
+      "fingers": "0-3-2-0-1-0",
+      "difficulty": "มือใหม่",
+      "notes": "C-E-G",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "D",
+      "name": "D เมเจอร์",
+      "type": "เมเจอร์",
+      "fingering": "xx0232",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-2",
+      "difficulty": "มือใหม่",
+      "notes": "D-F#-A",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "E",
+      "name": "E เมเจอร์",
+      "type": "เมเจอร์",
+      "fingering": "022100",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-0-0",
+      "difficulty": "มือใหม่",
+      "notes": "E-G#-B",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "F",
+      "name": "F เมเจอร์",
+      "type": "เมเจอร์",
+      "fingering": "133211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-2-1-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "F-A-C",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "G",
+      "name": "G เมเจอร์",
+      "type": "เมเจอร์",
+      "fingering": "320003",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-3",
+      "difficulty": "มือใหม่",
+      "notes": "G-B-D",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "A",
+      "name": "A เมเจอร์",
+      "type": "เมเจอร์",
+      "fingering": "x02220",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-0",
+      "difficulty": "มือใหม่",
+      "notes": "A-C#-E",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "B",
+      "name": "B เมเจอร์",
+      "type": "เมเจอร์",
+      "fingering": "x24442",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-3-3-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "B-D#-F#",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "Cm",
+      "name": "C ไมเนอร์",
+      "type": "ไมเนอร์",
+      "fingering": "x35543",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "C-Eb-G",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Dm",
+      "name": "D ไมเนอร์",
+      "type": "ไมเนอร์",
+      "fingering": "xx0231",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-1",
+      "difficulty": "มือใหม่",
+      "notes": "D-F-A",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Em",
+      "name": "E ไมเนอร์",
+      "type": "ไมเนอร์",
+      "fingering": "022000",
+      "fret_position": "Open",
+      "fingers": "0-2-2-0-0-0",
+      "difficulty": "มือใหม่",
+      "notes": "E-G-B",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Fm",
+      "name": "F ไมเนอร์",
+      "type": "ไมเนอร์",
+      "fingering": "133111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-1-1-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "F-Ab-C",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Gm",
+      "name": "G ไมเนอร์",
+      "type": "ไมเนอร์",
+      "fingering": "355333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-4-1-1-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "G-Bb-D",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Am",
+      "name": "A ไมเนอร์",
+      "type": "ไมเนอร์",
+      "fingering": "x02210",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-1-0",
+      "difficulty": "มือใหม่",
+      "notes": "A-C-E",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Bm",
+      "name": "B ไมเนอร์",
+      "type": "ไมเนอร์",
+      "fingering": "x24432",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "B-D-F#",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "C7",
+      "name": "C โดมิแนนท์ 7",
+      "type": "โดมิแนนท์ 7",
+      "fingering": "x32310",
+      "fret_position": "Open",
+      "fingers": "x-3-2-3-1-0",
+      "difficulty": "มือใหม่",
+      "notes": "C-E-G-Bb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "D7",
+      "name": "D โดมิแนนท์ 7",
+      "type": "โดมิแนนท์ 7",
+      "fingering": "xx0212",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-2",
+      "difficulty": "มือใหม่",
+      "notes": "D-F#-A-C",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "E7",
+      "name": "E โดมิแนนท์ 7",
+      "type": "โดมิแนนท์ 7",
+      "fingering": "020100",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-0",
+      "difficulty": "มือใหม่",
+      "notes": "E-G#-B-D",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "F7",
+      "name": "F โดมิแนนท์ 7",
+      "type": "โดมิแนนท์ 7",
+      "fingering": "131211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-2-1-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "F-A-C-Eb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "G7",
+      "name": "G โดมิแนนท์ 7",
+      "type": "โดมิแนนท์ 7",
+      "fingering": "320001",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-1",
+      "difficulty": "มือใหม่",
+      "notes": "G-B-D-F",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "A7",
+      "name": "A โดมิแนนท์ 7",
+      "type": "โดมิแนนท์ 7",
+      "fingering": "x02020",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-2-0",
+      "difficulty": "มือใหม่",
+      "notes": "A-C#-E-G",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "B7",
+      "name": "B โดมิแนนต์ เซเว่น",
+      "type": "โดมิแนนต์ เซเว่น",
+      "fingering": "x21202",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-0-2",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "B-D#-F#-A",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "C เมเจอร์ เซเว่น",
+      "type": "เมเจอร์ เซเว่น",
+      "fingering": "x32000",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-0-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "C-E-G-B",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "D เมเจอร์ เซเว่น",
+      "type": "เมเจอร์ เซเว่น",
+      "fingering": "xx0222",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-2-2",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "D-F#-A-C#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E เมเจอร์ เซเว่น",
+      "type": "เมเจอร์ เซเว่น",
+      "fingering": "021100",
+      "fret_position": "Open",
+      "fingers": "0-2-1-1-0-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "E-G#-B-D#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F เมเจอร์ เซเว่น",
+      "type": "เมเจอร์ เซเว่น",
+      "fingering": "1x2210",
+      "fret_position": "Open",
+      "fingers": "1-x-2-2-1-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "F-A-C-E",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G เมเจอร์ เซเว่น",
+      "type": "เมเจอร์ เซเว่น",
+      "fingering": "320002",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-2",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "G-B-D-F#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A เมเจอร์ เซเว่น",
+      "type": "เมเจอร์ เซเว่น",
+      "fingering": "x02120",
+      "fret_position": "Open",
+      "fingers": "x-0-2-1-2-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "A-C#-E-G#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B เมเจอร์ เซเว่น",
+      "type": "เมเจอร์ เซเว่น",
+      "fingering": "x24342",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-2-4-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "B-D#-F#-A#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Cm7",
+      "name": "C ไมเนอร์ เซเว่น",
+      "type": "ไมเนอร์ เซเว่น",
+      "fingering": "x35343",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Dm7",
+      "name": "D ไมเนอร์ เซเว่น",
+      "type": "ไมเนอร์ เซเว่น",
+      "fingering": "xx0211",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-1",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "D-F-A-C",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Em7",
+      "name": "E ไมเนอร์ เซเว่น",
+      "type": "ไมเนอร์ เซเว่น",
+      "fingering": "020000",
+      "fret_position": "Open",
+      "fingers": "0-2-0-0-0-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "E-G-B-D",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F ไมเนอร์ เซเว่น",
+      "type": "ไมเนอร์ เซเว่น",
+      "fingering": "131111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G ไมเนอร์ เซเว่น",
+      "type": "ไมเนอร์ เซเว่น",
+      "fingering": "353333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Am7",
+      "name": "A ไมเนอร์ เซเว่น",
+      "type": "ไมเนอร์ เซเว่น",
+      "fingering": "x02010",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-1-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "A-C-E-G",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B ไมเนอร์ เซเว่น",
+      "type": "ไมเนอร์ เซเว่น",
+      "fingering": "x24232",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "B-D-F#-A",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Csus2",
+      "name": "C ซัสเพนเด็ด สอง",
+      "type": "ซัสเพนเด็ด",
+      "fingering": "x30010",
+      "fret_position": "Open",
+      "fingers": "x-3-0-0-1-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "C-D-G",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Csus4",
+      "name": "C ซัสเพนเด็ด สี่",
+      "type": "ซัสเพนเด็ด",
+      "fingering": "x33011",
+      "fret_position": "Open",
+      "fingers": "x-3-3-0-1-1",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "C-F-G",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D ซัสเพนเด็ด สอง",
+      "type": "ซัสเพนเด็ด",
+      "fingering": "xx0230",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "D-E-A",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D ซัสเพนเด็ด สี่",
+      "type": "ซัสเพนเด็ด",
+      "fingering": "xx0233",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-3",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "D-G-A",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E ซัสเพนเด็ด สี่",
+      "type": "ซัสเพนเด็ด",
+      "fingering": "022200",
+      "fret_position": "Open",
+      "fingers": "0-2-2-2-0-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "E-A-B",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A ซัส2",
+      "type": "ซัสเพนเดด",
+      "fingering": "x02200",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-0-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "A-B-E",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A ซัส4",
+      "type": "ซัสเพนเดด",
+      "fingering": "x02230",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-3-0",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "A-D-E",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Cdim",
+      "name": "C ดิมินิช",
+      "type": "ดิมินิช",
+      "fingering": "x3424x",
+      "fret_position": "3rd Fret",
+      "fingers": "x-2-4-2-4-x",
+      "difficulty": "ระดับกลาง",
+      "notes": "C-Eb-Gb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Ddim",
+      "name": "D ดิมินิช",
+      "type": "ดิมินิช",
+      "fingering": "xx0131",
+      "fret_position": "Open",
+      "fingers": "x-x-0-1-3-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "D-F-Ab",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Edim",
+      "name": "E ดิมินิช",
+      "type": "ดิมินิช",
+      "fingering": "012020",
+      "fret_position": "Open",
+      "fingers": "0-1-2-0-2-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "E-G-Bb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F ดิมินิช",
+      "type": "ดิมินิช",
+      "fingering": "1x0101",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-0-1-0-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "F-Ab-Cb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G ดิมินิช",
+      "type": "ดิมินิช",
+      "fingering": "3x2323",
+      "fret_position": "3rd Fret",
+      "fingers": "2-x-1-2-1-2",
+      "difficulty": "ระดับกลาง",
+      "notes": "G-Bb-Db",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Adim",
+      "name": "A ดิมินิช",
+      "type": "ดิมินิช",
+      "fingering": "x0121x",
+      "fret_position": "Open",
+      "fingers": "x-0-1-2-1-x",
+      "difficulty": "ระดับกลาง",
+      "notes": "A-C-Eb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Bdim",
+      "name": "B ดิมินิช",
+      "type": "ดิมินิช",
+      "fingering": "x2343x",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-2-3-2-x",
+      "difficulty": "ระดับกลาง",
+      "notes": "B-D-F",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Caug",
+      "name": "C ออกเมนต์",
+      "type": "ออกเมนต์",
+      "fingering": "x32110",
+      "fret_position": "Open",
+      "fingers": "x-3-2-1-1-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "C-E-G#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Daug",
+      "name": "D ออกเมนต์",
+      "type": "ออกเมนต์",
+      "fingering": "xx0332",
+      "fret_position": "Open",
+      "fingers": "x-x-0-3-3-2",
+      "difficulty": "ระดับกลาง",
+      "notes": "D-F#-A#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E ออกเมนต์",
+      "type": "ออกเมนต์",
+      "fingering": "032110",
+      "fret_position": "Open",
+      "fingers": "0-3-2-1-1-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "E-G#-B#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Faug",
+      "name": "F ออกเมนต์",
+      "type": "ออกเมนต์",
+      "fingering": "1x322x",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-3-2-2-x",
+      "difficulty": "ระดับกลาง",
+      "notes": "F-A-C#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G ออกเมนต์",
+      "type": "ออกเมนต์",
+      "fingering": "321003",
+      "fret_position": "Open",
+      "fingers": "3-2-1-0-0-3",
+      "difficulty": "ระดับกลาง",
+      "notes": "G-B-D#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A ออกเมนต์",
+      "type": "ออกเมนต์",
+      "fingering": "x03221",
+      "fret_position": "Open",
+      "fingers": "x-0-3-2-2-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "A-C#-E#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Baug",
+      "name": "B ออกเมนต์",
+      "type": "ออกเมนต์",
+      "fingering": "x21003",
+      "fret_position": "Open",
+      "fingers": "x-2-1-0-0-3",
+      "difficulty": "ระดับกลาง",
+      "notes": "B-D#-Fx",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "C5",
+      "name": "C พาวเวอร์คอร์ด",
+      "type": "พาวเวอร์คอร์ด",
+      "fingering": "x355xx",
+      "fret_position": "3rd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "C-G",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "D5",
+      "name": "D พาวเวอร์คอร์ด",
+      "type": "พาวเวอร์คอร์ด",
+      "fingering": "x577xx",
+      "fret_position": "5th Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "D-A",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "E5",
+      "name": "E พาวเวอร์คอร์ด",
+      "type": "พาวเวอร์คอร์ด",
+      "fingering": "022xxx",
+      "fret_position": "Open",
+      "fingers": "0-2-2-x-x-x",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "E-B",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "F5",
+      "name": "F พาวเวอร์คอร์ด",
+      "type": "พาวเวอร์คอร์ด",
+      "fingering": "133xxx",
+      "fret_position": "1st Fret",
+      "fingers": "1-3-3-x-x-x",
+      "difficulty": "ระดับเริ่มต้น",
+      "notes": "F-C",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "G5",
+      "name": "G เพาเวอร์คอร์ด",
+      "type": "เพาเวอร์คอร์ด",
+      "fingering": "355xxx",
+      "fret_position": "3rd Fret",
+      "fingers": "1-3-4-x-x-x",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "G-D",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "A5",
+      "name": "A เพาเวอร์คอร์ด",
+      "type": "เพาเวอร์คอร์ด",
+      "fingering": "x022xx",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-x-x",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "A-E",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "B5",
+      "name": "B เพาเวอร์คอร์ด",
+      "type": "เพาเวอร์คอร์ด",
+      "fingering": "x244xx",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "B-F#",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "C แอด 9",
+      "type": "แอด 9",
+      "fingering": "x32030",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-3-0",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "C-E-G-D",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Dadd9",
+      "name": "D แอด 9",
+      "type": "แอด 9",
+      "fingering": "x54030",
+      "fret_position": "4th Fret",
+      "fingers": "x-4-3-0-2-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "D-F#-A-E",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Eadd9",
+      "name": "E แอด 9",
+      "type": "แอด 9",
+      "fingering": "024100",
+      "fret_position": "Open",
+      "fingers": "0-2-4-1-0-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "E-G#-B-F#",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Gadd9",
+      "name": "G แอด 9",
+      "type": "แอด 9",
+      "fingering": "320203",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-3",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "G-B-D-A",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Aadd9",
+      "name": "A แอด 9",
+      "type": "แอด 9",
+      "fingering": "x02420",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "A-C#-E-B",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "C6",
+      "name": "C เมเจอร์ 6",
+      "type": "เมเจอร์ 6",
+      "fingering": "x32210",
+      "fret_position": "Open",
+      "fingers": "x-3-2-2-1-0",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "C-E-G-A",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "D6",
+      "name": "D เมเจอร์ 6",
+      "type": "เมเจอร์ 6",
+      "fingering": "xx0202",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-0-2",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "D-F#-A-B",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "E6",
+      "name": "E เมเจอร์ 6",
+      "type": "เมเจอร์ 6",
+      "fingering": "022120",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-2-0",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "E-G#-B-C#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "G6",
+      "name": "G เมเจอร์ 6",
+      "type": "เมเจอร์ 6",
+      "fingering": "320000",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-0",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "G-B-D-E",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "A6",
+      "name": "A เมเจอร์ 6",
+      "type": "เมเจอร์ 6",
+      "fingering": "x02222",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-2",
+      "difficulty": "ผู้เริ่มต้น",
+      "notes": "A-C#-E-F#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "C9",
+      "name": "C โดมิแนนต์ 9",
+      "type": "โดมิแนนต์ 9",
+      "fingering": "x32330",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-3-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "C-E-G-Bb-D",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "D9",
+      "name": "D โดมิแนนต์ 9",
+      "type": "โดมิแนนต์ 9",
+      "fingering": "x54530",
+      "fret_position": "4th Fret",
+      "fingers": "x-2-1-2-1-0",
+      "difficulty": "ระดับกลาง",
+      "notes": "D-F#-A-C-E",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "E9",
+      "name": "E โดมิแนนต์ 9",
+      "type": "โดมิแนนต์ 9",
+      "fingering": "020102",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-2",
+      "difficulty": "ระดับกลาง",
+      "notes": "E-G#-B-D-F#",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "G9",
+      "name": "G โดมิแนนต์ 9",
+      "type": "โดมิแนนต์ 9",
+      "fingering": "320201",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-1",
+      "difficulty": "ระดับกลาง",
+      "notes": "G-B-D-F-A",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "A9",
+      "name": "A โดมิแนนต์ 9",
+      "type": "โดมิแนนต์ 9",
+      "fingering": "x02423",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-3",
+      "difficulty": "ระดับกลาง",
+      "notes": "A-C#-E-G-B",
+      "intervals": "1-3-5-b7-9"
+    }
+  ],
+  "meta": {
+    "seo_title": "ข้อมูลคอร์ดกีตาร์ - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรี 78 คอร์ดกีตาร์! พร้อมฟิงเกอร์ริ่ง, โน้ต และระดับความยาก มีใน Excel, CSV, PDF สำหรับนักเรียนและนักพัฒนา.",
+    "title": "ชุดข้อมูลคอร์ดกีตาร์ฉบับสมบูรณ์",
+    "description": "ชุดข้อมูลนี้รวบรวมคอร์ดกีตาร์ทั่วไป 78 คอร์ด พร้อมสัญลักษณ์, ชื่อเต็ม, รูปแบบการวางนิ้ว, ตำแหน่งเฟรต, ระดับความยาก, รวมถึงโน้ตและช่วงเสียงที่ประกอบกัน เหมาะสำหรับนักกีตาร์, ครูสอนดนตรี และนักพัฒนาแอปพลิเคชันดนตรี",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลคอร์ดกีตาร์ที่จำเป็น 78 รายการสำหรับการเล่นหลากหลายสไตล์",
+      "สำรวจรายละเอียดการวางนิ้ว, ตำแหน่งเฟรต และโน้ตสำหรับแต่ละคอร์ด",
+      "ดาวน์โหลดแหล่งข้อมูลอเนกประสงค์เพื่อพัฒนาการเรียนรู้กีตาร์หรือการพัฒนาแอปของคุณ",
+      "ใช้ประโยชน์จากการจัดระดับความยากของคอร์ดเพื่อสร้างเส้นทางการเรียนรู้ที่ก้าวหน้า"
+    ],
+    "keywords": [
+      "คอร์ดกีตาร์ excel",
+      "คอร์ดกีตาร์ฟรี csv",
+      "ข้อมูลคอร์ดกีตาร์",
+      "ตารางคอร์ดกีตาร์ pdf",
+      "คอร์ดกีตาร์เบื้องต้น",
+      "การเรียนรู้กีตาร์"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ไปยังฐานข้อมูล SQL หรือสคริปต์ Python ของคุณเพื่อสร้างแอปพลิเคชันค้นหาคอร์ดกีตาร์หรือ API.",
+      "ใช้ไฟล์ **Excel** เพื่อกรองคอร์ดตามความยาก สร้างแผ่นฝึกซ้อมที่กำหนดเอง หรือวิเคราะห์ความสัมพันธ์ของคอร์ด.",
+      "พิมพ์เวอร์ชัน **PDF** เพื่อใช้เป็นคู่มืออ้างอิงแบบออฟไลน์ในพื้นที่ฝึกซ้อมของคุณหรือสำหรับการสอนในชั้นเรียน.",
+      "รวมข้อมูลนี้เข้ากับซอฟต์แวร์การศึกษาหรือเว็บไซต์แบบอินเทอร์แอกทีฟเพื่อช่วยผู้ใช้เรียนรู้คอร์ดกีตาร์ได้อย่างมีประสิทธิภาพ."
+    ]
+  },
+  "record_count": 78,
+  "title": "ชุดข้อมูลคอร์ดกีตาร์ฉบับสมบูรณ์"
+}

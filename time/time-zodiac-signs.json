@@ -1,0 +1,284 @@
+{
+  "id": "time-zodiac-signs",
+  "name": "ชุดข้อมูลราศีตะวันตกฉบับสมบูรณ์",
+  "category": "time",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    },
+    {
+      "key": "element",
+      "label": "Element (EN)",
+      "type": "string"
+    },
+    {
+      "key": "modality",
+      "label": "Modality",
+      "type": "string"
+    },
+    {
+      "key": "ruling_planet",
+      "label": "Ruling Planet",
+      "type": "string"
+    },
+    {
+      "key": "date_range",
+      "label": "Date Range",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "traits",
+      "label": "Personality Traits (EN)",
+      "type": "string"
+    },
+    {
+      "key": "compatible_signs",
+      "label": "Compatible Signs",
+      "type": "string"
+    },
+    {
+      "key": "lucky_numbers",
+      "label": "Lucky Numbers",
+      "type": "string"
+    },
+    {
+      "key": "lucky_colors",
+      "label": "Lucky Colors",
+      "type": "string"
+    },
+    {
+      "key": "body_part",
+      "label": "Body Part (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ราศีเมษ",
+      "symbol": "♈",
+      "unicode": "U+2648",
+      "element": "ไฟ",
+      "modality": "Cardinal",
+      "ruling_planet": "Mars",
+      "date_range": "Mar 21 - Apr 19",
+      "order": 1,
+      "traits": "กล้าหาญ, มุ่งมั่น, มั่นใจ, กระตือรือร้น",
+      "compatible_signs": "Leo, Sagittarius, Gemini, Aquarius",
+      "lucky_numbers": "1, 8, 17",
+      "lucky_colors": "Red",
+      "body_part": "ศีรษะ"
+    },
+    {
+      "name": "ราศีพฤษภ",
+      "symbol": "♉",
+      "unicode": "U+2649",
+      "element": "ดิน",
+      "modality": "Fixed",
+      "ruling_planet": "Venus",
+      "date_range": "Apr 20 - May 20",
+      "order": 2,
+      "traits": "น่าเชื่อถือ, อดทน, ปฏิบัติได้จริง, ทุ่มเท",
+      "compatible_signs": "Virgo, Capricorn, Cancer, Pisces",
+      "lucky_numbers": "2, 6, 9, 12, 24",
+      "lucky_colors": "Green, Pink",
+      "body_part": "ลำคอ, คอ"
+    },
+    {
+      "name": "ราศีเมถุน",
+      "symbol": "♊",
+      "unicode": "U+264A",
+      "element": "ลม",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "May 21 - Jun 20",
+      "order": 3,
+      "traits": "อ่อนโยน, อ่อนหวาน, อยากรู้อยากเห็น, ปรับตัวได้",
+      "compatible_signs": "Libra, Aquarius, Aries, Leo",
+      "lucky_numbers": "5, 7, 14, 23",
+      "lucky_colors": "Yellow",
+      "body_part": "แขน, มือ, ปอด"
+    },
+    {
+      "name": "ราศีกรกฎ",
+      "symbol": "♋",
+      "unicode": "U+264B",
+      "element": "น้ำ",
+      "modality": "Cardinal",
+      "ruling_planet": "Moon",
+      "date_range": "Jun 21 - Jul 22",
+      "order": 4,
+      "traits": "ยึดมั่น, มีจินตนาการสูง, ซื่อสัตย์, อารมณ์อ่อนไหว",
+      "compatible_signs": "Scorpio, Pisces, Taurus, Virgo",
+      "lucky_numbers": "2, 3, 15, 20",
+      "lucky_colors": "White, Silver",
+      "body_part": "หน้าอก, กระเพาะอาหาร"
+    },
+    {
+      "name": "ราศีสิงห์",
+      "symbol": "♌",
+      "unicode": "U+264C",
+      "element": "ไฟ",
+      "modality": "Fixed",
+      "ruling_planet": "Sun",
+      "date_range": "Jul 23 - Aug 22",
+      "order": 5,
+      "traits": "สร้างสรรค์, หลงใหล, ใจกว้าง, มีน้ำใจ",
+      "compatible_signs": "Aries, Sagittarius, Gemini, Libra",
+      "lucky_numbers": "1, 3, 10, 19",
+      "lucky_colors": "Gold, Orange",
+      "body_part": "หัวใจ, กระดูกสันหลัง"
+    },
+    {
+      "name": "ราศีกันย์",
+      "symbol": "♍",
+      "unicode": "U+264D",
+      "element": "ดิน",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "Aug 23 - Sep 22",
+      "order": 6,
+      "traits": "ซื่อสัตย์, วิเคราะห์เก่ง, มีเมตตา, ขยัน",
+      "compatible_signs": "Taurus, Capricorn, Cancer, Scorpio",
+      "lucky_numbers": "5, 14, 15, 23, 32",
+      "lucky_colors": "Grey, Beige, Pale Yellow",
+      "body_part": "ระบบย่อยอาหาร"
+    },
+    {
+      "name": "ราศีตุลย์",
+      "symbol": "♎",
+      "unicode": "U+264E",
+      "element": "ลม",
+      "modality": "Cardinal",
+      "ruling_planet": "Venus",
+      "date_range": "Sep 23 - Oct 22",
+      "order": 7,
+      "traits": "ชอบร่วมมือ, มีไหวพริบ, สง่างาม, มีใจเป็นธรรม",
+      "compatible_signs": "Gemini, Aquarius, Leo, Sagittarius",
+      "lucky_numbers": "4, 6, 13, 15, 24",
+      "lucky_colors": "Pink, Blue",
+      "body_part": "ไต, หลังส่วนล่าง"
+    },
+    {
+      "name": "ราศีพิจิก",
+      "symbol": "♏",
+      "unicode": "U+264F",
+      "element": "น้ำ",
+      "modality": "Fixed",
+      "ruling_planet": "Pluto, Mars",
+      "date_range": "Oct 23 - Nov 21",
+      "order": 8,
+      "traits": "มีไหวพริบ, กล้าหาญ, หลงใหล, ดื้อรั้น",
+      "compatible_signs": "Cancer, Pisces, Virgo, Capricorn",
+      "lucky_numbers": "8, 11, 18, 22",
+      "lucky_colors": "Scarlet, Red, Rust",
+      "body_part": "ระบบสืบพันธุ์"
+    },
+    {
+      "name": "ราศีธนู",
+      "symbol": "♐",
+      "unicode": "U+2650",
+      "element": "ไฟ",
+      "modality": "Mutable",
+      "ruling_planet": "Jupiter",
+      "date_range": "Nov 22 - Dec 21",
+      "order": 9,
+      "traits": "ใจกว้าง, มีอุดมคติ, มีอารมณ์ขันดี",
+      "compatible_signs": "Aries, Leo, Libra, Aquarius",
+      "lucky_numbers": "3, 7, 9, 12, 21",
+      "lucky_colors": "Blue, Purple",
+      "body_part": "สะโพก, ต้นขา"
+    },
+    {
+      "name": "ราศีมังกร",
+      "symbol": "♑",
+      "unicode": "U+2651",
+      "element": "ดิน",
+      "modality": "Cardinal",
+      "ruling_planet": "Saturn",
+      "date_range": "Dec 22 - Jan 19",
+      "order": 10,
+      "traits": "รับผิดชอบ, มีระเบียบวินัย, ควบคุมตนเองได้",
+      "compatible_signs": "Taurus, Virgo, Scorpio, Pisces",
+      "lucky_numbers": "4, 8, 13, 22",
+      "lucky_colors": "Brown, Black, Dark Green",
+      "body_part": "หัวเข่า, กระดูก, ผิวหนัง"
+    },
+    {
+      "name": "ราศีกุมภ์",
+      "symbol": "♒",
+      "unicode": "U+2652",
+      "element": "ลม",
+      "modality": "Fixed",
+      "ruling_planet": "Uranus, Saturn",
+      "date_range": "Jan 20 - Feb 18",
+      "order": 11,
+      "traits": "ก้าวหน้า, มีเอกลักษณ์, เป็นอิสระ, มีมนุษยธรรม",
+      "compatible_signs": "Gemini, Libra, Aries, Sagittarius",
+      "lucky_numbers": "4, 7, 11, 22, 29",
+      "lucky_colors": "Blue, Silver",
+      "body_part": "ข้อเท้า, ระบบไหลเวียนโลหิต"
+    },
+    {
+      "name": "ราศีมีน",
+      "symbol": "♓",
+      "unicode": "U+2653",
+      "element": "น้ำ",
+      "modality": "Mutable",
+      "ruling_planet": "Neptune, Jupiter",
+      "date_range": "Feb 19 - Mar 20",
+      "order": 12,
+      "traits": "เห็นอกเห็นใจ, มีศิลปะ, มีสัญชาตญาณ, อ่อนโยน",
+      "compatible_signs": "Cancer, Scorpio, Taurus, Capricorn",
+      "lucky_numbers": "3, 9, 12, 15, 18, 24",
+      "lucky_colors": "Purple, Violet, Sea Green",
+      "body_part": "เท้า, ระบบน้ำเหลือง"
+    }
+  ],
+  "meta": {
+    "seo_title": "ข้อมูลราศีตะวันตก - ดาวน์โหลดฟรี (Excel/CSV/PDF)",
+    "seo_description": "ดาวน์โหลดฟรีชุดข้อมูลราศีตะวันตก 12 ราศี รวมถึงลักษณะนิสัย ธาตุ ดาวประจำตัว มีให้เลือกในรูปแบบ Excel, CSV และ PDF.",
+    "title": "ชุดข้อมูลราศีตะวันตกฉบับสมบูรณ์",
+    "description": "ชุดข้อมูลนี้ให้รายละเอียดที่ครอบคลุมของราศีตะวันตกทั้ง 12 ราศี รวมถึงชื่อ สัญลักษณ์ ธาตุ กุณฑลี ดาวประจำตัว และลักษณะนิสัยหลัก เป็นแหล่งข้อมูลล้ำค่าสำหรับผู้สนใจโหราศาสตร์ นักพัฒนา และนักวิเคราะห์ข้อมูล.",
+    "key_takeaways": [
+      "เข้าถึงข้อมูลรายละเอียดสำหรับราศีตะวันตกทั้ง 12 ราศีได้ทันที.",
+      "สำรวจธาตุ กุณฑลี ดาวประจำตัว และราศีที่เข้ากันได้ของแต่ละราศี.",
+      "ดาวน์โหลดลักษณะนิสัย เลขนำโชค และสีนำโชคที่ครอบคลุมสำหรับทุกราศี.",
+      "ใช้สัญลักษณ์ Unicode ของราศีในแอปพลิเคชันดิจิทัล."
+    ],
+    "keywords": [
+      "ข้อมูลราศีตะวันตก",
+      "ชุดข้อมูลโหราศาสตร์",
+      "ลักษณะนิสัยราศี excel",
+      "ดาวน์โหลดข้อมูลราศีฟรี",
+      "รายการราศี csv",
+      "ราศี pdf"
+    ],
+    "use_cases": [
+      "นำเข้าไฟล์ **CSV** ลงในฐานข้อมูลของคุณ หรือใช้กับสคริปต์ Python เพื่อสร้างแอปพลิเคชันหรือเว็บไซต์ที่เกี่ยวกับโหราศาสตร์.",
+      "วิเคราะห์แนวโน้มราศีและสร้างรายงานที่กำหนดเองโดยใช้คุณสมบัติการกรองและ Pivot Table ของ **Excel** สำหรับการศึกษาโหราศาสตร์.",
+      "พิมพ์เวอร์ชัน **PDF** เพื่อใช้เป็นคู่มืออ้างอิงฉบับย่อในการตั้งค่าการศึกษา การนำเสนอ หรือการศึกษาโหราศาสตร์ส่วนบุคคล.",
+      "รวมข้อมูลที่มีโครงสร้างนี้เข้ากับสื่อการศึกษา แอปบนมือถือ หรือโครงการวิจัยโหราศาสตร์เพื่อข้อมูลเชิงลึกที่ลึกซึ้งยิ่งขึ้น."
+    ]
+  },
+  "record_count": 12,
+  "title": "ชุดข้อมูลราศีตะวันตกฉบับสมบูรณ์"
+}
