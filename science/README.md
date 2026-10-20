@@ -6,12 +6,12 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [ตารางธาตุ](periodic-table.json) | 118 | 39 KB | [View](https://listbase.org/th/science/periodic-table/) |
-| [กรดอะมิโนมาตรฐาน](amino-acids.json) | 20 | 10 KB | [View](https://listbase.org/th/science/amino-acids/) |
-| [กรุ๊ปเลือด ABO และ Rh](blood-types.json) | 8 | 6 KB | [View](https://listbase.org/th/science/blood-types/) |
-| [ดาวเคราะห์ 8 ดวง](planets.json) | 8 | 7 KB | [View](https://listbase.org/th/science/planets/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [ตารางธาตุ](periodic-table.json) | 118 | 39 KB | [CSV](periodic-table_TH.csv) | [Excel](periodic-table_TH.xlsx) | [View](https://listbase.org/th/science/periodic-table/) |
+| [กรดอะมิโนมาตรฐาน](amino-acids.json) | 20 | 10 KB | [CSV](amino-acids_TH.csv) | [Excel](amino-acids_TH.xlsx) | [View](https://listbase.org/th/science/amino-acids/) |
+| [กรุ๊ปเลือด ABO และ Rh](blood-types.json) | 8 | 6 KB | [CSV](blood-types_TH.csv) | [Excel](blood-types_TH.xlsx) | [View](https://listbase.org/th/science/blood-types/) |
+| [ดาวเคราะห์ 8 ดวง](planets.json) | 8 | 7 KB | [CSV](planets_TH.csv) | [Excel](planets_TH.xlsx) | [View](https://listbase.org/th/science/planets/) |
 
 ## Quick Start
 

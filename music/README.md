@@ -6,9 +6,9 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [โน้ตดนตรี ความถี่ และช่วงโน้ต](music-notes.json) | 38 | 14 KB | [View](https://listbase.org/th/music/music-notes/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [โน้ตดนตรี ความถี่ และช่วงโน้ต](music-notes.json) | 38 | 14 KB | [CSV](music-notes_TH.csv) | [Excel](music-notes_TH.xlsx) | [View](https://listbase.org/th/music/music-notes/) |
 
 ## Quick Start
 

@@ -6,11 +6,11 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [ร้านอาหารมิชลินไกด์ในประเทศไทย](th-ran-ahan-michelin.json) | 485 | 477 KB | [View](https://listbase.org/th/food/th-ran-ahan-michelin/) |
-| [อาหารไทย พร้อมแฟลกแพ้อาหาร แคลอรี่ และส่วนผสม (33 เมนู)](th-ahan-thai-flags.json) | 33 | 15 KB | [View](https://listbase.org/th/food/th-ahan-thai-flags/) |
-| [ประเภทเครื่องแกงและพริกแกงไทย](thai-curry-pastes.json) | 9 | 10 KB | [View](https://listbase.org/th/food/thai-curry-pastes/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [ร้านอาหารมิชลินไกด์ในประเทศไทย](th-ran-ahan-michelin.json) | 485 | 477 KB | [CSV](th-ran-ahan-michelin_TH.csv) | [Excel](th-ran-ahan-michelin_TH.xlsx) | [View](https://listbase.org/th/food/th-ran-ahan-michelin/) |
+| [อาหารไทย พร้อมแฟลกแพ้อาหาร แคลอรี่ และส่วนผสม (33 เมนู)](th-ahan-thai-flags.json) | 33 | 15 KB | [CSV](th-ahan-thai-flags_TH.csv) | [Excel](th-ahan-thai-flags_TH.xlsx) | [View](https://listbase.org/th/food/th-ahan-thai-flags/) |
+| [ประเภทเครื่องแกงและพริกแกงไทย](thai-curry-pastes.json) | 9 | 10 KB | [CSV](thai-curry-pastes_TH.csv) | [Excel](thai-curry-pastes_TH.xlsx) | [View](https://listbase.org/th/food/thai-curry-pastes/) |
 
 ## Quick Start
 

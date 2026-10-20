@@ -6,10 +6,10 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [พอร์ตเครือข่ายทั่วไป](common-ports.json) | 60 | 14 KB | [View](https://listbase.org/th/tech/common-ports/) |
-| [รหัสสถานะ HTTP](http-status-codes.json) | 14 | 6 KB | [View](https://listbase.org/th/tech/http-status-codes/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [พอร์ตเครือข่ายทั่วไป](common-ports.json) | 60 | 14 KB | [CSV](common-ports_TH.csv) | [Excel](common-ports_TH.xlsx) | [View](https://listbase.org/th/tech/common-ports/) |
+| [รหัสสถานะ HTTP](http-status-codes.json) | 14 | 6 KB | [CSV](http-status-codes_TH.csv) | [Excel](http-status-codes_TH.xlsx) | [View](https://listbase.org/th/tech/http-status-codes/) |
 
 ## Quick Start
 

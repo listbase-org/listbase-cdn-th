@@ -39,8 +39,12 @@ Visit [listbase.org/th/](https://listbase.org/th/) to search, preview, and downl
 # Dataset index (metadata only)
 curl https://cdn.th.listbase.org/index.json
 
-# Full dataset
+# Full dataset (JSON)
 curl https://cdn.th.listbase.org/geography/th-central-provinces.json
+
+# Download as Excel or CSV
+curl -O https://cdn.th.listbase.org/geography/th-central-provinces_TH.xlsx
+curl -O https://cdn.th.listbase.org/geography/th-central-provinces_TH.csv
 
 # Build dump (metadata + sample rows, gzipped)
 curl https://cdn.th.listbase.org/dump.json.gz | gunzip
@@ -57,11 +61,13 @@ console.log(data.rows);    // [{ ... }, ...]
 ## File Structure
 
 ```
-├── index.json          # Dataset index (metadata for all datasets)
-├── dump.json.gz        # Build dump (metadata + 20 sample rows per dataset)
+├── index.json              # Dataset index (metadata + file info)
+├── dump.json.gz            # Build dump (metadata + 20 sample rows per dataset)
 ├── {category}/
-│   ├── README.md       # Category overview
-│   └── {dataset}.json  # Full dataset with rows
+│   ├── README.md           # Category overview
+│   ├── {dataset}.json      # Full dataset with rows
+│   ├── {dataset}_TH.csv   # CSV download
+│   └── {dataset}_TH.xlsx  # Excel download
 ```
 
 ## Dataset JSON Format

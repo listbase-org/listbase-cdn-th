@@ -6,9 +6,9 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [วิตามินและแร่ธาตุจำเป็น](vitamins.json) | 18 | 14 KB | [View](https://listbase.org/th/health/vitamins/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [วิตามินและแร่ธาตุจำเป็น](vitamins.json) | 18 | 14 KB | [CSV](vitamins_TH.csv) | [Excel](vitamins_TH.xlsx) | [View](https://listbase.org/th/health/vitamins/) |
 
 ## Quick Start
 

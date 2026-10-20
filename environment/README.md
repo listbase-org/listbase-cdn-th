@@ -6,9 +6,9 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [โรงไฟฟ้าในประเทศไทย](th-rong-fai-fa.json) | 196 | 82 KB | [View](https://listbase.org/th/environment/th-rong-fai-fa/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [โรงไฟฟ้าในประเทศไทย](th-rong-fai-fa.json) | 196 | 82 KB | [CSV](th-rong-fai-fa_TH.csv) | [Excel](th-rong-fai-fa_TH.xlsx) | [View](https://listbase.org/th/environment/th-rong-fai-fa/) |
 
 ## Quick Start
 

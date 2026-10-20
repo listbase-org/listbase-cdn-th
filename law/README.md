@@ -6,11 +6,11 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [รัฐธรรมนูญแห่งราชอาณาจักรไทย](thai-constitutions.json) | 20 | 12 KB | [View](https://listbase.org/th/law/thai-constitutions/) |
-| [วันหยุดราชการไทย](legal-holidays.json) | 17 | 8 KB | [View](https://listbase.org/th/law/legal-holidays/) |
-| [ค่าปรับจราจร](traffic-fines.json) | 10 | 5 KB | [View](https://listbase.org/th/law/traffic-fines/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [รัฐธรรมนูญแห่งราชอาณาจักรไทย](thai-constitutions.json) | 20 | 12 KB | [CSV](thai-constitutions_TH.csv) | [Excel](thai-constitutions_TH.xlsx) | [View](https://listbase.org/th/law/thai-constitutions/) |
+| [วันหยุดราชการไทย](legal-holidays.json) | 17 | 8 KB | [CSV](legal-holidays_TH.csv) | [Excel](legal-holidays_TH.xlsx) | [View](https://listbase.org/th/law/legal-holidays/) |
+| [ค่าปรับจราจร](traffic-fines.json) | 10 | 5 KB | [CSV](traffic-fines_TH.csv) | [Excel](traffic-fines_TH.xlsx) | [View](https://listbase.org/th/law/traffic-fines/) |
 
 ## Quick Start
 

@@ -6,10 +6,10 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [รหัสสถานที่ UN/LOCODE — ประเทศไทย (ท่าเรือ สนามบิน เทอร์มินัล)](th-unlocode.json) | 203 | 134 KB | [View](https://listbase.org/th/transport/th-unlocode/) |
-| [ท่าอากาศยานในประเทศไทย](th-airports.json) | 44 | 23 KB | [View](https://listbase.org/th/transport/th-airports/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [รหัสสถานที่ UN/LOCODE — ประเทศไทย (ท่าเรือ สนามบิน เทอร์มินัล)](th-unlocode.json) | 203 | 134 KB | [CSV](th-unlocode_TH.csv) | [Excel](th-unlocode_TH.xlsx) | [View](https://listbase.org/th/transport/th-unlocode/) |
+| [ท่าอากาศยานในประเทศไทย](th-airports.json) | 44 | 23 KB | [CSV](th-airports_TH.csv) | [Excel](th-airports_TH.xlsx) | [View](https://listbase.org/th/transport/th-airports/) |
 
 ## Quick Start
 

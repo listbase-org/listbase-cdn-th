@@ -6,13 +6,13 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [ประเทศไทย — มหาวิทยาลัยและสถาบันอุดมศึกษา](th-mahawitthayalai.json) | 67 | 23 KB | [View](https://listbase.org/th/education/th-mahawitthayalai/) |
-| [มหาวิทยาลัยราชภัฏ](rajabhat-universities.json) | 38 | 14 KB | [View](https://listbase.org/th/education/rajabhat-universities/) |
-| [มหาวิทยาลัยรัฐในประเทศไทย](public-universities.json) | 32 | 15 KB | [View](https://listbase.org/th/education/public-universities/) |
-| [Military and Police Educational Institutions in Thailand](military-academies.json) | 15 | 10 KB | [View](https://listbase.org/th/education/military-academies/) |
-| [มหาวิทยาลัยเทคโนโลยีราชมงคล](rajamangala-universities.json) | 9 | 7 KB | [View](https://listbase.org/th/education/rajamangala-universities/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [ประเทศไทย — มหาวิทยาลัยและสถาบันอุดมศึกษา](th-mahawitthayalai.json) | 67 | 23 KB | [CSV](th-mahawitthayalai_TH.csv) | [Excel](th-mahawitthayalai_TH.xlsx) | [View](https://listbase.org/th/education/th-mahawitthayalai/) |
+| [มหาวิทยาลัยราชภัฏ](rajabhat-universities.json) | 38 | 14 KB | [CSV](rajabhat-universities_TH.csv) | [Excel](rajabhat-universities_TH.xlsx) | [View](https://listbase.org/th/education/rajabhat-universities/) |
+| [มหาวิทยาลัยรัฐในประเทศไทย](public-universities.json) | 32 | 15 KB | [CSV](public-universities_TH.csv) | [Excel](public-universities_TH.xlsx) | [View](https://listbase.org/th/education/public-universities/) |
+| [Military and Police Educational Institutions in Thailand](military-academies.json) | 15 | 10 KB | [CSV](military-academies_TH.csv) | [Excel](military-academies_TH.xlsx) | [View](https://listbase.org/th/education/military-academies/) |
+| [มหาวิทยาลัยเทคโนโลยีราชมงคล](rajamangala-universities.json) | 9 | 7 KB | [CSV](rajamangala-universities_TH.csv) | [Excel](rajamangala-universities_TH.xlsx) | [View](https://listbase.org/th/education/rajamangala-universities/) |
 
 ## Quick Start
 

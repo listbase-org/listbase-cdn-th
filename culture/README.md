@@ -6,10 +6,10 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [พิพิธภัณฑ์ในประเทศไทย (Museums in Thailand)](th-phiphithaphan.json) | 135 | 35 KB | [View](https://listbase.org/th/culture/th-phiphithaphan/) |
-| [แหล่งมรดกโลกในประเทศไทย](th-maradok-lok-unesco.json) | 5 | 7 KB | [View](https://listbase.org/th/culture/th-maradok-lok-unesco/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [พิพิธภัณฑ์ในประเทศไทย (Museums in Thailand)](th-phiphithaphan.json) | 135 | 35 KB | [CSV](th-phiphithaphan_TH.csv) | [Excel](th-phiphithaphan_TH.xlsx) | [View](https://listbase.org/th/culture/th-phiphithaphan/) |
+| [แหล่งมรดกโลกในประเทศไทย](th-maradok-lok-unesco.json) | 5 | 7 KB | [CSV](th-maradok-lok-unesco_TH.csv) | [Excel](th-maradok-lok-unesco_TH.xlsx) | [View](https://listbase.org/th/culture/th-maradok-lok-unesco/) |
 
 ## Quick Start
 

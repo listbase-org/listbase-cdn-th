@@ -6,11 +6,11 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [ตารางผลไม้ไทยตามฤดูกาล](thai-fruits-seasons.json) | 12 | 9 KB | [View](https://listbase.org/th/agriculture/thai-fruits-seasons/) |
-| [พืชเศรษฐกิจที่สำคัญของไทย](economic-crops.json) | 10 | 9 KB | [View](https://listbase.org/th/agriculture/economic-crops/) |
-| [ข้อมูลและภูมิศาสตร์ 6 สายพันธุ์ข้าวไทยระดับโลก (Thai Rice Varieties)](thai-rice-varieties.json) | 6 | 13 KB | [View](https://listbase.org/th/agriculture/thai-rice-varieties/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [ตารางผลไม้ไทยตามฤดูกาล](thai-fruits-seasons.json) | 12 | 9 KB | [CSV](thai-fruits-seasons_TH.csv) | [Excel](thai-fruits-seasons_TH.xlsx) | [View](https://listbase.org/th/agriculture/thai-fruits-seasons/) |
+| [พืชเศรษฐกิจที่สำคัญของไทย](economic-crops.json) | 10 | 9 KB | [CSV](economic-crops_TH.csv) | [Excel](economic-crops_TH.xlsx) | [View](https://listbase.org/th/agriculture/economic-crops/) |
+| [ข้อมูลและภูมิศาสตร์ 6 สายพันธุ์ข้าวไทยระดับโลก (Thai Rice Varieties)](thai-rice-varieties.json) | 6 | 13 KB | [CSV](thai-rice-varieties_TH.csv) | [Excel](thai-rice-varieties_TH.xlsx) | [View](https://listbase.org/th/agriculture/thai-rice-varieties/) |
 
 ## Quick Start
 

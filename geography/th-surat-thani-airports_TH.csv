@@ -1,0 +1,3 @@
+﻿"Icao","Iata","Name En","Name Slug","City En","City Slug","Province En","Province Slug","Country","Country En","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"VTSM","USM","Koh Samui Airport","koh-samui-airport","Ko Samui","ko-samui","Surat Thani","surat-thani","TH","Thailand","64","9.5488263","100.0631993","Asia/Bangkok","true"
+"VTSB","URT","Surat Thani Airport","surat-thani-airport","Phunphin","phunphin","Surat Thani","surat-thani","TH","Thailand","20","9.1358574","99.1434239","Asia/Bangkok","true"

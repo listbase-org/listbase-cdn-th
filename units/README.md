@@ -6,10 +6,10 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [หน่วย SI](si-units.json) | 52 | 23 KB | [View](https://listbase.org/th/units/si-units/) |
-| [หน่วยวัดไทยดั้งเดิม](thai-traditional-units.json) | 13 | 7 KB | [View](https://listbase.org/th/units/thai-traditional-units/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [หน่วย SI](si-units.json) | 52 | 23 KB | [CSV](si-units_TH.csv) | [Excel](si-units_TH.xlsx) | [View](https://listbase.org/th/units/si-units/) |
+| [หน่วยวัดไทยดั้งเดิม](thai-traditional-units.json) | 13 | 7 KB | [CSV](thai-traditional-units_TH.csv) | [Excel](thai-traditional-units_TH.xlsx) | [View](https://listbase.org/th/units/thai-traditional-units/) |
 
 ## Quick Start
 

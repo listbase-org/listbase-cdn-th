@@ -6,10 +6,10 @@
 
 ## Datasets
 
-| Name | Records | Size | Preview |
-|------|---------|------|---------|
-| [พระมหากษัตริย์ในราชวงศ์จักรี](thai-kings.json) | 10 | 7 KB | [View](https://listbase.org/th/history/thai-kings/) |
-| [ยุคต่างๆ ทางประวัติศาสตร์ไทย](thai-eras.json) | 8 | 7 KB | [View](https://listbase.org/th/history/thai-eras/) |
+| Name | Records | Size | CSV | Excel | Preview |
+|------|---------|------|-----|-------|---------|
+| [พระมหากษัตริย์ในราชวงศ์จักรี](thai-kings.json) | 10 | 7 KB | [CSV](thai-kings_TH.csv) | [Excel](thai-kings_TH.xlsx) | [View](https://listbase.org/th/history/thai-kings/) |
+| [ยุคต่างๆ ทางประวัติศาสตร์ไทย](thai-eras.json) | 8 | 7 KB | [CSV](thai-eras_TH.csv) | [Excel](thai-eras_TH.xlsx) | [View](https://listbase.org/th/history/thai-eras/) |
 
 ## Quick Start
 
