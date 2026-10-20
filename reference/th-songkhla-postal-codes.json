@@ -1,0 +1,240 @@
+{
+  "id": "th-songkhla-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสงขลา (Songkhla Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสงขลา (Songkhla Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสงขลา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Songkhla province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 90000,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9001: เมืองสงขลา: Muaeng Songkhla",
+      "subdistricts": "900101: บ่อยาง: Bo Yang: 9001, 900102: เขารูปช้าง: Khao Rupchang: 9001, 900103: เกาะแต้ว: Ko Taeo: 9001, 900105: ทุ่งหวัง: Thung Wang: 9001"
+    },
+    {
+      "postal_code": 90100,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9001: เมืองสงขลา: Muaeng Songkhla",
+      "subdistricts": "900104: พะวง: Pha Wong: 9001, 900106: เกาะยอ: Ko Yo: 9001"
+    },
+    {
+      "postal_code": 90110,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9011: หาดใหญ่: Hat Yai, 9014: บางกล่ำ: Bang Klam",
+      "subdistricts": "901101: หาดใหญ่: Hat Yai: 9011, 901102: ควนลัง: Khuan Lang: 9011, 901103: คูเต่า: Khu Tao: 9011, 901104: คอหงส์: Kho Hong: 9011, 901105: คลองแห: Khlong Hae: 9011, 901107: คลองอู่ตะเภา: Khlong U Ta Phao: 9011, 901108: ฉลุง: Chalung: 9011, 901111: ทุ่งใหญ่: Thung Yai: 9011, 901112: ทุ่งตำเสา: Thung Tam Sao: 9011, 901113: ท่าข้าม: Tha Kham: 9011, 901114: น้ำน้อย: Nam Noi: 9011, 901401: บางกล่ำ: Bang Klam: 9014, 901402: ท่าช้าง: Tha Chang: 9014, 901403: แม่ทอม: Mae Thom: 9014, 901404: บ้านหาร: Ban Han: 9014"
+    },
+    {
+      "postal_code": 90115,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9016: คลองหอยโข่ง: Khlong Hoi Khong",
+      "subdistricts": "901604: คลองหลา: Khlong La: 9016"
+    },
+    {
+      "postal_code": 90120,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9010: สะเดา: Sadao",
+      "subdistricts": "901001: สะเดา: Sadao: 9010, 901002: ปริก: Prik: 9010, 901004: สำนักแต้ว: Samnak Taeo: 9010"
+    },
+    {
+      "postal_code": 90130,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9003: จะนะ: Chana",
+      "subdistricts": "900301: บ้านนา: Ban Na: 9003, 900302: ป่าชิง: Pa Ching: 9003, 900303: สะพานไม้แก่น: Saphan Mai Kaen: 9003, 900304: สะกอม: Sa Kom: 9003, 900305: นาหว้า: Na Wa: 9003, 900306: นาทับ: Na Thap: 9003, 900307: น้ำขาว: Nam Khao: 9003, 900308: ขุนตัดหวาย: Khun Tat Wai: 9003, 900309: ท่าหมอไทร: Tha Mo Sai: 9003, 900310: จะโหนง: Cha Nong: 9003, 900311: คู: Khu: 9003, 900312: แค: Khae: 9003, 900313: คลองเปียะ: Khlong Pia: 9003, 900314: ตลิ่งชัน: Taling Chan: 9003"
+    },
+    {
+      "postal_code": 90140,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9007: ระโนด: Ranot",
+      "subdistricts": "900701: ระโนด: Ra Not: 9007, 900702: คลองแดน: Khlong Daen: 9007, 900703: ตะเครียะ: Takhria: 9007, 900704: ท่าบอน: Tha Bon: 9007, 900705: บ้านใหม่: Ban Mai: 9007, 900706: บ่อตรุ: Botru: 9007, 900707: ปากแตระ: Pak Trae: 9007, 900708: พังยาง: Phang Yang: 9007, 900709: ระวะ: Ra Wa: 9007, 900710: วัดสน: Wat Son: 9007, 900711: บ้านขาว: Ban Khao: 9007, 900712: แดนสงวน: Daen Sa Nguan: 9007"
+    },
+    {
+      "postal_code": 90150,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9005: เทพา: Thepha",
+      "subdistricts": "900501: เทพา: Thepha: 9005, 900502: ปากบาง: Pak Bang: 9005, 900503: เกาะสะบ้า: Ko Saba: 9005, 900507: สะกอม: Sa Kom: 9005"
+    },
+    {
+      "postal_code": 90160,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9004: นาทวี: Na Thawi",
+      "subdistricts": "900401: นาทวี: Na Thawi: 9004, 900402: ฉาง: Chang: 9004, 900403: นาหมอศรี: Na Mosri: 9004, 900404: คลองทราย: Khlong Sai: 9004, 900405: ปลักหนู: Plak Nu: 9004, 900406: ท่าประดู่: Tha Pradu: 9004, 900407: สะท้อน: Sathon: 9004, 900408: ทับช้าง: Thap Chang: 9004, 900409: ประกอบ: Prakop: 9004, 900410: คลองกวาง: Khlong Kwang: 9004"
+    },
+    {
+      "postal_code": 90170,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9010: สะเดา: Sadao",
+      "subdistricts": "901003: พังลา: Phang La: 9010, 901006: ท่าโพธิ์: Tha Pho: 9010, 901009: เขามีเกียรติ: Khao Mikiat: 9010"
+    },
+    {
+      "postal_code": 90180,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9009: รัตภูมิ: Rattaphum",
+      "subdistricts": "900901: กำแพงเพชร: Kamphaeng Phet: 9009, 900902: ท่าชะมวง: Tha Cha Muang: 9009, 900903: คูหาใต้: Khu Ha Tai: 9009, 900904: ควนรู: Khuan Ru: 9009, 900909: เขาพระ: Khao Phra: 9009"
+    },
+    {
+      "postal_code": 90190,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9002: สทิงพระ: Sathing Phra",
+      "subdistricts": "900201: จะทิ้งพระ: Cha Thing Phra: 9002, 900202: กระดังงา: Kradang Nga: 9002, 900203: สนามชัย: Sanam Chai: 9002, 900204: ดีหลวง: Di Luang: 9002, 900205: ชุมพล: Chum Phon: 9002, 900206: คลองรี: Khlong Re: 9002, 900207: คูขุด: Khu Khut: 9002, 900208: ท่าหิน: Tha Hin: 9002, 900209: วัดจันทร์: Wat Chan: 9002, 900210: บ่อแดง: Bodaeng: 9002, 900211: บ่อดาน: Bodan: 9002"
+    },
+    {
+      "postal_code": 90210,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9006: สะบ้าย้อย: Saba Yoi",
+      "subdistricts": "900601: สะบ้าย้อย: Sa Ba Yoi: 9006, 900602: ทุ่งพอ: Thung Pho: 9006, 900603: เปียน: Pian: 9006, 900604: บ้านโหนด: Ban Not: 9006, 900605: จะแหน: Cha Nae: 9006, 900606: คูหา: Khu Ha: 9006, 900607: เขาแดง: Khao Daeng: 9006, 900608: บาโหย: Ba Hoi: 9006, 900609: ธารคีรี: Than Khiri: 9006"
+    },
+    {
+      "postal_code": 90220,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9013: ควนเนียง: Khuan Niang",
+      "subdistricts": "901301: รัตภูมิ: Ratta Phum: 9013, 901302: ควนโส: Khuan So: 9013, 901303: ห้วยลึก: Huai Luek: 9013, 901304: บางเหรียง: Bang Riang: 9013"
+    },
+    {
+      "postal_code": 90230,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9011: หาดใหญ่: Hat Yai, 9016: คลองหอยโข่ง: Khlong Hoi Khong",
+      "subdistricts": "901118: พะตง: Pha Tong: 9011, 901601: คลองหอยโข่ง: Khlong Hoi Khong: 9016, 901602: ทุ่งลาน: Thung Lan: 9016, 901603: โคกม่วง: Khok Muang: 9016"
+    },
+    {
+      "postal_code": 90240,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9010: สะเดา: Sadao",
+      "subdistricts": "901005: ทุ่งหมอ: Thung Mo: 9010, 901007: ปาดังเบซาร์: Pa Dangbesa: 9010"
+    },
+    {
+      "postal_code": 90250,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9011: หาดใหญ่: Hat Yai",
+      "subdistricts": "901116: บ้านพรุ: Ban Phru: 9011"
+    },
+    {
+      "postal_code": 90260,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9005: เทพา: Thepha",
+      "subdistricts": "900504: ลำไพล: Lam Phli: 9005, 900505: ท่าม่วง: Tha Muang: 9005, 900506: วังใหญ่: Wang Yai: 9005"
+    },
+    {
+      "postal_code": 90270,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9008: กระแสสินธุ์: Krasae Sin",
+      "subdistricts": "900801: เกาะใหญ่: Koyai: 9008, 900802: โรง: Rong: 9008, 900803: เชิงแส: Choeng Sae: 9008, 900804: กระแสสินธุ์: Krasae Sin: 9008"
+    },
+    {
+      "postal_code": 90280,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9015: สิงหนคร: Singhanakhon",
+      "subdistricts": "901501: ชิงโค: Ching Kho: 9015, 901502: สทิงหม้อ: Sathing Mo: 9015, 901503: ทำนบ: Tham Nop: 9015, 901509: หัวเขา: Hua Khao: 9015"
+    },
+    {
+      "postal_code": 90310,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9012: นาหม่อม: Na Mom",
+      "subdistricts": "901201: นาหม่อม: Na Mom: 9012, 901202: พิจิตร: Phichit: 9012, 901203: ทุ่งขมิ้น: Thung Khamin: 9012, 901204: คลองหรัง: Khlong Rang: 9012"
+    },
+    {
+      "postal_code": 90320,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9010: สะเดา: Sadao",
+      "subdistricts": "901008: สำนักขาม: Samnak Kham: 9010"
+    },
+    {
+      "postal_code": 90330,
+      "province_code": 90,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "districts": "9015: สิงหนคร: Singhanakhon",
+      "subdistricts": "901504: รำแดง: Ram Daeng: 9015, 901505: วัดขนุน: Wat Khanun: 9015, 901506: ชะแล้: Chalae: 9015, 901507: ปากรอ: Pak Ro: 9015, 901508: ป่าขาด: Pa Khat: 9015, 901510: บางเขียด: Bang Khiat: 9015, 901511: ม่วงงาม: Muang Ngam: 9015"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสงขลา (Songkhla Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสงขลา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Songkhla province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 23 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสงขลา (Songkhla Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสงขลา (Songkhla Postal Codes) — 23 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 23 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

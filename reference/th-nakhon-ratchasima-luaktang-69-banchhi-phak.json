@@ -1,0 +1,7344 @@
+{
+  "id": "th-nakhon-ratchasima-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครราชสีมา (Nakhon Ratchasima party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครราชสีมา (Nakhon Ratchasima party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครราชสีมา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 911,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 101
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 514
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 213
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 73
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 296
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2660
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 249
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 244
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 16325
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 513
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4856
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 411
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 329
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 101
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3063
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 82
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1393
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 65
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 151
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 71
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 16001
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 127
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 42
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 149
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 203
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 270
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 33049
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 468
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 410
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 3
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 7
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 173
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1336
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 214
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 110
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 388
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2313
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 491
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 2444
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 16583
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 468
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4375
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 523
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 629
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 189
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 77
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 31
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2838
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 149
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 879
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 95
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 176
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 156
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 14891
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 187
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 65
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 133
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 202
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 3306
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 41053
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 232
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 507
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 413
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 244
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1650
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2991
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 216
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 947
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2512
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 158
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 350
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 17187
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 464
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4453
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 383
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 665
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 156
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 198
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 135
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 84
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3341
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 134
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 867
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 116
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 208
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 106
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 127
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 14485
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 233
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 170
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 218
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 617
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 110
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 38269
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 454
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 349
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 52
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "1",
+      "party": "Unknown Party",
+      "votes": 0
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 420
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1853
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 1085
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 2642
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 1924
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1981
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 134
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 388
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 17928
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 541
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 4237
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 391
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 656
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 225
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 101
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 52
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 2809
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 115
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 458
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 149
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 152
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 142
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 286
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 244
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 233
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 181
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 13513
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 264
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 152
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 234
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 2054
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 101
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 27663
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 365
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 239
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 297
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3264
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 2075
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 341
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 617
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1517
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1949
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 524
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 18807
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 448
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4183
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 356
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 464
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 219
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2005
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 117
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 438
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 322
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 214
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 115
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 155
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 278
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 22285
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 284
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 49
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 115
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 455
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22017
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 156
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 297
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 178
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2291
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1514
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 274
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1134
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 594
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2762
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 210
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 594
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 21489
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 309
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3600
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 342
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 461
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 258
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 114
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 73
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1910
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 117
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 398
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 289
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 231
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 150
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 148
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 219
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 188
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 245
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 14801
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 344
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 47
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1314
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 476
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 859
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19790
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 548
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 146
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 6
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 333
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4430
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1047
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 506
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1441
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 94
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 337
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 23996
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 264
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3955
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 286
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 428
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 228
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 121
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 130
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 32
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 57
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1290
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 95
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 303
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 340
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 117
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 158
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 130
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 490
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 12957
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 442
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 66
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 119
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19324
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 415
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 184
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 21
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3292
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1992
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 291
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 674
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 846
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1546
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 70
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 432
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 25325
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 379
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4098
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 268
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 528
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 34
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2744
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 91
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 515
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 356
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 80
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 124
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 107
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13529
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 488
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 77
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 98
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 148
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 342
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20201
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 104
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 298
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 153
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 1
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 34
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 418
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1484
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2622
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 453
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1124
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3334
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 156
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 526
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12957
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 328
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4094
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 422
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 651
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 256
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 144
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 112
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2105
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 131
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 415
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 157
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 237
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 299
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 183
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 184
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 286
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 303
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 26202
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 312
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 71
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 115
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3030
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 168
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 112
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20305
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 356
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 194
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 53
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 94
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 360
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4669
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 589
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 405
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1174
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1803
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "7",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1963
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "8",
+      "party": "เพื่อไทย",
+      "votes": 17715
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "9",
+      "party": "ทางเลือกใหม่",
+      "votes": 541
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "10",
+      "party": "เศรษฐกิจ",
+      "votes": 6436
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "11",
+      "party": "เสรีรวมไทย",
+      "votes": 572
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "12",
+      "party": "รวมพลังประชาชน",
+      "votes": 623
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "13",
+      "party": "ท้องที่ไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "14",
+      "party": "อนาคตไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "15",
+      "party": "พลังเพื่อไทย",
+      "votes": 305
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "16",
+      "party": "ไทยชนะ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "17",
+      "party": "หลังสังคมใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "18",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "19",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "20",
+      "party": "ไทรวมพลัง",
+      "votes": 104
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "21",
+      "party": "ก้าวอิสระ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "22",
+      "party": "ปวงชนไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "23",
+      "party": "วิชชันใหม่",
+      "votes": 65
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "24",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "25",
+      "party": "คลองไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "26",
+      "party": "ประชาธิปัตย์",
+      "votes": 2849
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "27",
+      "party": "ไทยก้าวหน้า",
+      "votes": 135
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "28",
+      "party": "ไทยภักดี",
+      "votes": 492
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "29",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 148
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "30",
+      "party": "ประชากรไทย",
+      "votes": 298
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "31",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 244
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "32",
+      "party": "ประชาชาติ",
+      "votes": 145
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "33",
+      "party": "สร้างอนาคตไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "34",
+      "party": "รักชาติ",
+      "votes": 192
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "35",
+      "party": "ไทยพร้อม",
+      "votes": 316
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "36",
+      "party": "ภูมิใจไทย",
+      "votes": 28421
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "37",
+      "party": "พลังธรรมใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "38",
+      "party": "กรีน",
+      "votes": 63
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "39",
+      "party": "ไทยธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "40",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "41",
+      "party": "กล้าธรรม",
+      "votes": 170
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "42",
+      "party": "พลังประชารัฐ",
+      "votes": 197
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "43",
+      "party": "โอกาสใหม่",
+      "votes": 1239
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "44",
+      "party": "เป็นธรรม",
+      "votes": 73
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "45",
+      "party": "ประชาชน",
+      "votes": 26222
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "46",
+      "party": "ประชาไทย",
+      "votes": 239
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "47",
+      "party": "ไทยสร้างไทย",
+      "votes": 305
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "48",
+      "party": "ไทยก้าวใหม่",
+      "votes": 193
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "49",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "50",
+      "party": "พร้อม",
+      "votes": 71
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "51",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "52",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "53",
+      "party": "ความหวังใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "54",
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "55",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "number": "56",
+      "party": "พลังไทยรักชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 4060
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 428
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 2099
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 648
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 952
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1417
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 170
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 449
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 27538
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 498
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 6096
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 498
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 597
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 311
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2134
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 111
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 328
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 258
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 160
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 117
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11494
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 422
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 81
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 80
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 239
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 143
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 74
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 106
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20978
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 138
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 369
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 170
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 105
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 363
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1907
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2817
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 668
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1753
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 897
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 458
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 17486
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 480
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4900
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 388
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 593
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 225
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 228
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 177
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 79
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 46
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 84
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 112
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2491
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 124
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 546
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 129
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 190
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 223
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 166
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 116
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 212
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15416
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 277
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 77
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 89
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 206
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 195
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 5018
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 92
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24403
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 394
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 214
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "0",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 511
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "1",
+      "party": "รวมใจไทย",
+      "votes": 2235
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1275
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "3",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 2241
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "4",
+      "party": "เพื่อไทย",
+      "votes": 341
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "5",
+      "party": "ทางเลือกใหม่",
+      "votes": 468
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "6",
+      "party": "เศรษฐกิจ",
+      "votes": 16963
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "7",
+      "party": "ใหม่",
+      "votes": 267
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "8",
+      "party": "มิติใหม่",
+      "votes": 296
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "9",
+      "party": "เสรีรวมไทย",
+      "votes": 383
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "10",
+      "party": "รวมพลังประชาชน",
+      "votes": 4030
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "11",
+      "party": "ท้องที่ไทย",
+      "votes": 296
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "12",
+      "party": "อนาคตไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "13",
+      "party": "พลังเพื่อไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "14",
+      "party": "ไทยชนะ",
+      "votes": 97
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "15",
+      "party": "พลังสังคมใหม่",
+      "votes": 260
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "16",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 177
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "17",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "18",
+      "party": "ไทรวมพลัง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "19",
+      "party": "ก้าวอิสระ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "20",
+      "party": "ปวงชนไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "21",
+      "party": "วิชชั่นใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "22",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "23",
+      "party": "คลองไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "24",
+      "party": "ประชาธิปัตย์",
+      "votes": 119
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "25",
+      "party": "ไทยก้าวหน้า",
+      "votes": 2403
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "26",
+      "party": "ไทยภักดี",
+      "votes": 127
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "27",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 431
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "28",
+      "party": "ประชากรไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "29",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 147
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "30",
+      "party": "ประชาชาติ",
+      "votes": 99
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "31",
+      "party": "สร้างอนาคตไทย",
+      "votes": 128
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "32",
+      "party": "รักชาติ",
+      "votes": 254
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "33",
+      "party": "ไทยพร้อม",
+      "votes": 157
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "34",
+      "party": "ภูมิใจไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "35",
+      "party": "พลังธรรมใหม่",
+      "votes": 9415
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "36",
+      "party": "พลังธรรมใหม่",
+      "votes": 264
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "37",
+      "party": "กริน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "38",
+      "party": "ไทยธรรม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "39",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "40",
+      "party": "กสิกรธรรม",
+      "votes": 124
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "41",
+      "party": "พลังประชารัฐ",
+      "votes": 205
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "42",
+      "party": "โอกาสใหม่",
+      "votes": 192
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "43",
+      "party": "เป็นธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "44",
+      "party": "ประชาชน",
+      "votes": 23462
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "45",
+      "party": "ประชาไทย",
+      "votes": 149
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "46",
+      "party": "ไทยสร้างไทย",
+      "votes": 339
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "47",
+      "party": "ไทยก้าวใหม่",
+      "votes": 208
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "48",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "49",
+      "party": "พร้อม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "50",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "51",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "52",
+      "party": "ความหวังใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "53",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "54",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "number": "55",
+      "party": "พลังไทยรักชาติ",
+      "votes": 53
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 767
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 540
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1363
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 624
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "6",
+      "party": "พลวัต",
+      "votes": 106
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "7",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 394
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "8",
+      "party": "เพื่อไทย",
+      "votes": 12276
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "9",
+      "party": "เพื่อชาติไทย",
+      "votes": 1377
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "9",
+      "party": "ทางเลือกใหม่",
+      "votes": 422
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "10",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2173
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3700
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 341
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 576
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 216
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 22
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 51
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 31
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2935
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 140
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 651
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 139
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 99
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 83
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 106
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 117
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13130
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 131
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 97
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 155
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 1718
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 67
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 29452
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 378
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 223
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "1",
+      "party": "ชาติพัฒนา",
+      "votes": 0
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1837
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 4281
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 466
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 500
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 3653
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1234
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 146
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 470
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 23134
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 546
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 4239
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 548
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 680
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 292
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 56
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 69
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 186
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2391
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 153
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 328
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 224
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 323
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 174
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 299
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 225
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13578
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 388
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 118
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 107
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3424
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 242
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 1473
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 109
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24078
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 161
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 321
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 255
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 33
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 326
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4759
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2645
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 236
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 947
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1380
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 96
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 613
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 18961
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 407
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4191
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 341
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 592
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 116
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 29
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 25
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1670
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 127
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 368
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 132
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 394
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 272
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 168
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 142
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 17651
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 391
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 68
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 115
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 201
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 405
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 1882
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 105
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20331
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 371
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 161
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 59
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครราชสีมา (Nakhon Ratchasima party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครราชสีมา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 911 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครราชสีมา (Nakhon Ratchasima party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครราชสีมา (Nakhon Ratchasima party-list ballots) — 911 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 911 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

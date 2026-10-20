@@ -1,0 +1,128 @@
+{
+  "id": "th-uthai-thani-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดอุทัยธานี (Uthai Thani Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดอุทัยธานี (Uthai Thani Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดอุทัยธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Uthai Thani province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 61000,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6101: เมืองอุทัยธานี: Mueang Uthai Thani",
+      "subdistricts": "610101: อุทัยใหม่: Uthai Mai: 6101, 610102: น้ำซึม: Nam Suem: 6101, 610103: สะแกกรัง: Sakae Krang: 6101, 610104: ดอนขวาง: Don Khwang: 6101, 610105: หาดทนง: Hat Thanong: 6101, 610106: เกาะเทโพ: Ko Thepho: 6101, 610107: ท่าซุง: Tha Sung: 6101, 610108: หนองแก: Nong Kae: 6101, 610109: โนนเหล็ก: Non Lek: 6101, 610110: หนองเต่า: Nong Tao: 6101, 610111: หนองไผ่แบน: Nong Phai Baen: 6101, 610112: หนองพังค่า: Nong Phang Kha: 6101, 610113: ทุ่งใหญ่: Thung Yai: 6101, 610114: เนินแจง: Noen Chaeng: 6101"
+    },
+    {
+      "postal_code": 61110,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6104: หนองฉาง: Nong Chang",
+      "subdistricts": "610401: หนองฉาง: Nong Chang: 6104, 610402: หนองยาง: Nong Yang: 6104, 610403: หนองนางนวล: Nong Nang Nuan: 6104, 610404: หนองสรวง: Nong Suang: 6104, 610405: บ้านเก่า: Ban Kao: 6104, 610406: อุทัยเก่า: Uthai Kao: 6104, 610407: ทุ่งโพ: Thung Pho: 6104, 610408: ทุ่งพง: Thung Phong: 6104, 610410: เขากวางทอง: Khao Kwang Thong: 6104"
+    },
+    {
+      "postal_code": 61120,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6102: ทัพทัน: Thap Than",
+      "subdistricts": "610201: ทัพทัน: Thapthan: 6102, 610202: ทุ่งนาไทย: Thung Na Thai: 6102, 610203: เขาขี้ฝอย: Khao Khi Foi: 6102, 610204: หนองหญ้าปล้อง: Nong Ya Plong: 6102, 610205: โคกหม้อ: Khok Mo: 6102, 610206: หนองยายดา: Nong Yai Da: 6102, 610207: หนองกลางดง: Nong Klang Dong: 6102, 610208: หนองกระทุ่ม: Nong Krathum: 6102, 610209: หนองสระ: Nong Sa: 6102, 610210: ตลุกดู่: Taluk Duk: 6102"
+    },
+    {
+      "postal_code": 61130,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6105: หนองขาหย่าง: Nong Khayang",
+      "subdistricts": "610501: หนองขาหย่าง: Nong Kha Yang: 6105, 610502: หนองไผ่: Nong Phai: 6105, 610503: ดอนกลอย: Don Kloi: 6105, 610504: ห้วยรอบ: Huai Rop: 6105, 610505: ทุ่งพึ่ง: Thung Phueng: 6105, 610506: ท่าโพ: Tha Pho: 6105, 610507: หมกแถว: Mok Thaeo: 6105, 610508: หลุมเข้า: Lum Khao: 6105, 610509: ดงขวาง: Dong Khwang: 6105"
+    },
+    {
+      "postal_code": 61140,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6106: บ้านไร่: Ban Rai",
+      "subdistricts": "610601: บ้านไร่: Ban Rai: 6106, 610602: ทัพหลวง: Thap Luang: 6106, 610603: ห้วยแห้ง: Huai Haeng: 6106, 610604: คอกควาย: Khok Khwai: 6106, 610607: แก่นมะกรูด: Kaen Makrut: 6106, 610611: บ้านบึง: Ban Bueng: 6106, 610614: เจ้าวัด: Chao Wat: 6106"
+    },
+    {
+      "postal_code": 61150,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6103: สว่างอารมณ์: Sawang Arom",
+      "subdistricts": "610301: สว่างอารมณ์: Sawang Arom: 6103, 610302: หนองหลวง: Nong Luang: 6103, 610303: พลวงสองนาง: Phluang Song Nang: 6103, 610304: ไผ่เขียว: Phai Khiao: 6103, 610305: บ่อยาง: Bo Yang: 6103"
+    },
+    {
+      "postal_code": 61160,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6107: ลานสัก: Lan Sak",
+      "subdistricts": "610701: ลานสัก: Lan Sak: 6107, 610702: ประดู่ยืน: Pradu Yuen: 6107, 610703: ป่าอ้อ: Pa O: 6107, 610704: ระบำ: Rabam: 6107, 610705: น้ำรอบ: Nam Rop: 6107, 610706: ทุ่งนางาม: Thung Na Ngam: 6107"
+    },
+    {
+      "postal_code": 61170,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6104: หนองฉาง: Nong Chang, 6108: ห้วยคต: Huai Khot",
+      "subdistricts": "610409: เขาบางแกรก: Khao Bang Kraek: 6104, 610801: สุขฤทัย: Suk Ruethai: 6108, 610802: ทองหลาง: Thong Lang: 6108, 610803: ห้วยคต: Huai Khot: 6108"
+    },
+    {
+      "postal_code": 61180,
+      "province_code": 61,
+      "province_name_th": "อุทัยธานี",
+      "province_name_en": "Uthai Thani",
+      "districts": "6106: บ้านไร่: Ban Rai",
+      "subdistricts": "610605: วังหิน: Wang Hin: 6106, 610606: เมืองการุ้ง: Mueang Karung: 6106, 610609: หนองจอก: Nong Chok: 6106, 610610: หูช้าง: Hu Chang: 6106, 610612: บ้านใหม่คลองเคียน: Ban Mai Khlong Khian: 6106, 610613: หนองบ่มกล้วย: Nong Bom Kluai: 6106"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดอุทัยธานี (Uthai Thani Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดอุทัยธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Uthai Thani province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดอุทัยธานี (Uthai Thani Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดอุทัยธานี (Uthai Thani Postal Codes) — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "th-yala-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดยะลา (Yala Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดยะลา (Yala Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดยะลา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Yala province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 95000,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9501: เมืองยะลา: Mueang Yala, 9508: กรงปินัง: Krong Pinang",
+      "subdistricts": "950101: สะเตง: Sateng: 9501, 950102: บุดี: Bu Di: 9501, 950103: ยุโป: Yopo: 9501, 950106: ยะลา: Yala: 9501, 950108: ท่าสาป: Tha Sap: 9501, 950110: หน้าถ้ำ: Na Tham: 9501, 950112: เปาะเส้ง: Po Seng: 9501, 950115: บันนังสาเรง: Bannang Sareng: 9501, 950116: สะเตงนอก: Sateng Nok: 9501, 950118: ตาเซะ: Tase: 9501, 950801: กรงปินัง: Krong Pinang: 9508, 950802: สะเอะ: Sa-Ae: 9508, 950803: ห้วยกระทิง: Huai Krathing: 9508, 950804: ปุโรง: Pu Rong: 9508"
+    },
+    {
+      "postal_code": 95110,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9502: เบตง: Betong",
+      "subdistricts": "950201: เบตง: Betong: 9502, 950202: ยะรม: Yarom: 9502, 950203: ตาเนาะแมเราะ: Tano Maero: 9502, 950204: อัยเยอร์เวง: Aiyoe Weng: 9502, 950205: ธารน้ำทิพย์: Than Nam Thip: 9502"
+    },
+    {
+      "postal_code": 95120,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9505: ยะหา: Yaha, 9507: กาบัง: Kabang",
+      "subdistricts": "950501: ยะหา: Yaha: 9505, 950502: ละแอ: La-Ae: 9505, 950503: ปะแต: Patae: 9505, 950504: บาโร๊ะ: Baro: 9505, 950506: ตาชี: Ta Chi: 9505, 950507: บาโงยซิแน: Ba-Ngoi Sinae: 9505, 950508: กาตอง: Katong: 9505, 950701: กาบัง: Kabang: 9507, 950702: บาละ: Bala: 9507"
+    },
+    {
+      "postal_code": 95130,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9503: บันนังสตา: Bannang Sata",
+      "subdistricts": "950301: บันนังสตา: Bannang Sata: 9503, 950302: บาเจาะ: Bacho: 9503, 950303: ตาเนาะปูเต๊ะ: Tano Pute: 9503, 950304: ถ้ำทะลุ: Tham Thalu: 9503, 950305: ตลิ่งชัน: Taling Chan: 9503, 950306: เขื่อนบางลาง: Khuean Bang Lang: 9503"
+    },
+    {
+      "postal_code": 95140,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9506: รามัน: Raman",
+      "subdistricts": "950601: กายูบอเกาะ: Kayu Boko: 9506, 950602: กาลูปัง: Kalupang: 9506, 950603: กาลอ: Kalo: 9506, 950604: กอตอตือร๊ะ: Koto Tuera: 9506, 950605: โกตาบารู: Kota Baru: 9506, 950606: เกะรอ: Ke Ro: 9506, 950607: จะกว๊ะ: Cha Kwua: 9506, 950608: ท่าธง: Tha Thong: 9506, 950609: เนินงาม: Noen Ngam: 9506, 950610: บาลอ: Balo: 9506, 950611: บาโงย: Ba-Ngoi: 9506, 950612: บือมัง: Buemang: 9506, 950613: ยะต๊ะ: Yata: 9506, 950614: วังพญา: Wang Phaya: 9506, 950615: อาซ่อง: A Song: 9506, 950616: ตะโล๊ะหะลอ: Talo Halo: 9506"
+    },
+    {
+      "postal_code": 95150,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9504: ธารโต: Than To",
+      "subdistricts": "950401: ธารโต: Than To: 9504, 950402: บ้านแหร: Ban Rae: 9504, 950404: คีรีเขต: Khiri Khet: 9504"
+    },
+    {
+      "postal_code": 95160,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9501: เมืองยะลา: Mueang Yala",
+      "subdistricts": "950104: ลิดล: Li Don: 9501, 950109: ลำใหม่: Lam Mai: 9501, 950111: ลำพะยา: Lam Phaya: 9501, 950114: พร่อน: Phron: 9501"
+    },
+    {
+      "postal_code": 95170,
+      "province_code": 95,
+      "province_name_th": "ยะลา",
+      "province_name_en": "Yala",
+      "districts": "9504: ธารโต: Than To",
+      "subdistricts": "950403: แม่หวาด: Mae Wat: 9504"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดยะลา (Yala Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดยะลา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Yala province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 8 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดยะลา (Yala Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดยะลา (Yala Postal Codes) — 8 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 8 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

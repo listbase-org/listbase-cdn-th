@@ -1,0 +1,176 @@
+{
+  "id": "th-loei-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดเลย (Loei Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดเลย (Loei Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดเลย แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Loei province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 42000,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4201: เมืองเลย: Mueang Loei",
+      "subdistricts": "420101: กุดป่อง: Kut Pong: 4201, 420102: เมือง: Mueang: 4201, 420104: กกดู่: Kok Du: 4201, 420105: น้ำหมาน: Nam Man: 4201, 420106: เสี้ยว: Siao: 4201, 420107: นาอาน: Na An: 4201, 420108: นาโป่ง: Na Pong: 4201, 420109: นาดินดำ: Na Din Dam: 4201, 420110: น้ำสวย: Nam Suai: 4201, 420111: ชัยพฤกษ์: Chaiyaphruek: 4201, 420112: นาแขม: Na Khaem: 4201, 420114: กกทอง: Kok Thong: 4201"
+    },
+    {
+      "postal_code": 42100,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4201: เมืองเลย: Mueang Loei",
+      "subdistricts": "420103: นาอ้อ: Na O: 4201, 420113: ศรีสองรัก: Si Song Rak: 4201"
+    },
+    {
+      "postal_code": 42110,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4203: เชียงคาน: Chiang Khan",
+      "subdistricts": "420301: เชียงคาน: Chiang Khan: 4203, 420302: ธาตุ: That: 4203, 420303: นาซ่าว: Na Sao: 4203, 420304: เขาแก้ว: Khao Kaeo: 4203, 420305: ปากตม: Pak Tom: 4203, 420306: บุฮม: Bu Hom: 4203, 420307: จอมศรี: Chom Si: 4203, 420308: หาดทรายขาว: Hat Sai Khao: 4203"
+    },
+    {
+      "postal_code": 42120,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4205: ด่านซ้าย: Dan Sai",
+      "subdistricts": "420501: ด่านซ้าย: Dan Sai: 4205, 420502: ปากหมัน: Pak Man: 4205, 420503: นาดี: Na Di: 4205, 420504: โคกงาม: Khok Ngam: 4205, 420505: โพนสูง: Phon Sung: 4205, 420506: อิปุ่ม: I Pum: 4205, 420507: กกสะทอน: Kok Sathon: 4205, 420508: โป่ง: Pong: 4205, 420509: วังยาว: Wang Yao: 4205, 420510: นาหอ: Na Ho: 4205"
+    },
+    {
+      "postal_code": 42130,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4209: วังสะพุง: Wang Saphung",
+      "subdistricts": "420901: วังสะพุง: Wang Saphung: 4209, 420902: ทรายขาว: Sai Khao: 4209, 420903: หนองหญ้าปล้อง: Nong Ya Plong: 4209, 420904: หนองงิ้ว: Nong Ngio: 4209, 420905: ปากปวน: Pak Puan: 4209, 420906: ผาน้อย: Pha Noi: 4209, 420910: ผาบิ้ง: Pha Bing: 4209, 420911: เขาหลวง: Khao Luang: 4209, 420912: โคกขมิ้น: Khok Khamin: 4209, 420913: ศรีสงคราม: Si Songkhram: 4209"
+    },
+    {
+      "postal_code": 42140,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4208: ท่าลี่: Tha Li",
+      "subdistricts": "420801: ท่าลี่: Tha Li: 4208, 420802: หนองผือ: Nong Phue: 4208, 420803: อาฮี: A Hi: 4208, 420804: น้ำแคม: Nam Khaem: 4208, 420805: โคกใหญ่: Khok Yai: 4208, 420806: น้ำทูน: Nam Thun: 4208"
+    },
+    {
+      "postal_code": 42150,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4204: ปากชม: Pak Chom",
+      "subdistricts": "420401: ปากชม: Pak Chom: 4204, 420402: เชียงกลม: Chiang Klom: 4204, 420403: หาดคัมภีร์: Hat Khamphi: 4204, 420404: ห้วยบ่อซืน: Huai Bo Suen: 4204, 420405: ห้วยพิชัย: Huai Phichai: 4204, 420406: ชมเจริญ: Chom Charoen: 4204"
+    },
+    {
+      "postal_code": 42160,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4207: ภูเรือ: Phu Ruea",
+      "subdistricts": "420701: หนองบัว: Nong Bua: 4207, 420702: ท่าศาลา: Tha Sala: 4207, 420703: ร่องจิก: Rong Chik: 4207, 420704: ปลาบ่า: Pla Ba: 4207, 420705: ลาดค่าง: Lat Khang: 4207, 420706: สานตม: Santom: 4207"
+    },
+    {
+      "postal_code": 42170,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4206: นาแห้ว: Na Haeo",
+      "subdistricts": "420601: นาแห้ว: Na Haeo: 4206, 420602: แสงภา: Saeng Pha: 4206, 420603: นาพึง: Na Phueng: 4206, 420604: นามาลา: Na Mala: 4206, 420605: เหล่ากอหก: Lao Ko Hok: 4206"
+    },
+    {
+      "postal_code": 42180,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4210: ภูกระดึง: Phu Kradueng",
+      "subdistricts": "421001: ศรีฐาน: Si Than: 4210, 421005: ผานกเค้า: Pha Nok Khao: 4210, 421007: ภูกระดึง: Phu Kradueng: 4210, 421010: ห้วยส้ม: Huai Som: 4210"
+    },
+    {
+      "postal_code": 42190,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4214: หนองหิน: Nong Hin",
+      "subdistricts": "421401: หนองหิน: Nong Hin: 4214, 421402: ตาดข่า: Tat Kha: 4214, 421403: ปวนพุ: Puan Phu: 4214"
+    },
+    {
+      "postal_code": 42210,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4202: นาด้วง: Na Duang",
+      "subdistricts": "420201: นาด้วง: Na Duang: 4202, 420202: นาดอกคำ: Na Dok Kham: 4202, 420203: ท่าสะอาด: Tha Sa-At: 4202, 420204: ท่าสวรรค์: Tha Sawan: 4202"
+    },
+    {
+      "postal_code": 42220,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4213: เอราวัณ: Erawan",
+      "subdistricts": "421301: เอราวัณ: Erawan: 4213, 421302: ผาอินทร์แปลง: Pha In Plaeng: 4213, 421303: ผาสามยอด: Pha Sam Yot: 4213, 421304: ทรัพย์ไพวัลย์: Sap Phaiwan: 4213"
+    },
+    {
+      "postal_code": 42230,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4211: ภูหลวง: Phu Luang",
+      "subdistricts": "421101: ภูหอ: Phu Ho: 4211, 421102: หนองคัน: Nong Khan: 4211, 421104: ห้วยสีเสียด: Huai Si Siat: 4211, 421105: เลยวังไสย์: Loei Wang Sai: 4211, 421106: แก่งศรีภูมิ: Kaeng Si Phum: 4211"
+    },
+    {
+      "postal_code": 42240,
+      "province_code": 42,
+      "province_name_th": "เลย",
+      "province_name_en": "Loei",
+      "districts": "4212: ผาขาว: Pha Khao",
+      "subdistricts": "421201: ผาขาว: Pha Khao: 4212, 421202: ท่าช้างคล้อง: Tha Chang Khlong: 4212, 421203: โนนปอแดง: Non Po Daeng: 4212, 421204: โนนป่าซาง: Non Pa Sang: 4212, 421205: บ้านเพิ่ม: Ban Phoem: 4212"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดเลย (Loei Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดเลย แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Loei province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 15 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดเลย (Loei Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดเลย (Loei Postal Codes) — 15 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 15 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

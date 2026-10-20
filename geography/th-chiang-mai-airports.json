@@ -1,0 +1,135 @@
+{
+  "id": "th-chiang-mai-airports",
+  "name": "ท่าอากาศยาน — Chiang Mai",
+  "title": "ท่าอากาศยาน — Chiang Mai",
+  "description": "ท่าอากาศยานในจังหวัด Chiang Mai ประเทศไทย (Airports in Chiang Mai Province, Thailand — 2 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VTCC",
+      "iata": "CNX",
+      "name_en": "Chiang Mai International Airport",
+      "name_slug": "chiang-mai-international-airport",
+      "city_en": "Chiang Mai",
+      "city_slug": "chiang-mai",
+      "province_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 971,
+      "lat": 18.7668427,
+      "lon": 98.9648781,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    },
+    {
+      "icao": "VTCI",
+      "iata": "PYY",
+      "name_en": "Pai Airport",
+      "name_slug": "pai-airport",
+      "city_en": "Pai",
+      "city_slug": "pai",
+      "province_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 1745,
+      "lat": 19.372147,
+      "lon": 98.4358962,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "ท่าอากาศยาน — Chiang Mai - ดาวน์โหลดฟรี",
+    "description": "ท่าอากาศยานในจังหวัด Chiang Mai ประเทศไทย (Airports in Chiang Mai Province, Thailand — 2 record(s).) มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ท่าอากาศยาน — Chiang Mai | ListBase",
+    "seo_description": "ดาวน์โหลด ท่าอากาศยาน — Chiang Mai — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 15 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

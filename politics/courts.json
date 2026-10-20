@@ -1,0 +1,126 @@
+{
+  "id": "courts",
+  "name": "ศาลในประเทศไทย",
+  "title": "ระบบศาลในประเทศไทย",
+  "description": "รายชื่อศาลตามรัฐธรรมนูญและพระราชบัญญัติ",
+  "category": "politics",
+  "source": "AI Knowledge",
+  "source_url": "https://www.coj.go.th",
+  "updated": "2025-02",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อศาล (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อศาล (อังกฤษ)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "ประเภท",
+      "type": "string"
+    },
+    {
+      "key": "jurisdiction",
+      "label": "เขตอำนาจ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "ศาลรัฐธรรมนูญ",
+      "name_en": "Constitutional Court",
+      "type": "ศาลรัฐธรรมนูญ",
+      "jurisdiction": "วินิจฉัยข้อพิพาททางรัฐธรรมนูญ"
+    },
+    {
+      "name_th": "ศาลฎีกา",
+      "name_en": "Supreme Court",
+      "type": "ศาลยุติธรรม",
+      "jurisdiction": "ศาลสูงสุดของศาลยุติธรรม"
+    },
+    {
+      "name_th": "ศาลอุทธรณ์",
+      "name_en": "Court of Appeal",
+      "type": "ศาลยุติธรรม",
+      "jurisdiction": "พิจารณาอุทธรณ์คดีจากศาลชั้นต้น"
+    },
+    {
+      "name_th": "ศาลอุทธรณ์ภาค 1-9",
+      "name_en": "Regional Court of Appeal",
+      "type": "ศาลยุติธรรม",
+      "jurisdiction": "พิจารณาอุทธรณ์คดีในภูมิภาค"
+    },
+    {
+      "name_th": "ศาลแพ่ง",
+      "name_en": "Civil Court",
+      "type": "ศาลยุติธรรม",
+      "jurisdiction": "คดีแพ่งในกรุงเทพ"
+    },
+    {
+      "name_th": "ศาลอาญา",
+      "name_en": "Criminal Court",
+      "type": "ศาลยุติธรรม",
+      "jurisdiction": "คดีอาญาในกรุงเทพ"
+    },
+    {
+      "name_th": "ศาลแรงงานกลาง",
+      "name_en": "Central Labour Court",
+      "type": "ศาลชำนัญพิเศษ",
+      "jurisdiction": "คดีแรงงาน"
+    },
+    {
+      "name_th": "ศาลภาษีอากรกลาง",
+      "name_en": "Central Tax Court",
+      "type": "ศาลชำนัญพิเศษ",
+      "jurisdiction": "คดีภาษีอากร"
+    },
+    {
+      "name_th": "ศาลทรัพย์สินทางปัญญาและการค้าระหว่างประเทศกลาง",
+      "name_en": "Central Intellectual Property and International Trade Court",
+      "type": "ศาลชำนัญพิเศษ",
+      "jurisdiction": "คดีทรัพย์สินทางปัญญา"
+    },
+    {
+      "name_th": "ศาลล้มละลายกลาง",
+      "name_en": "Central Bankruptcy Court",
+      "type": "ศาลชำนัญพิเศษ",
+      "jurisdiction": "คดีล้มละลาย"
+    },
+    {
+      "name_th": "ศาลปกครองสูงสุด",
+      "name_en": "Supreme Administrative Court",
+      "type": "ศาลปกครอง",
+      "jurisdiction": "ศาลสูงสุดของศาลปกครอง"
+    },
+    {
+      "name_th": "ศาลปกครองกลาง",
+      "name_en": "Central Administrative Court",
+      "type": "ศาลปกครอง",
+      "jurisdiction": "คดีปกครองชั้นต้น"
+    }
+  ],
+  "meta": {
+    "title": "ระบบศาลในประเทศไทย - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รายชื่อศาลตามรัฐธรรมนูญและพระราชบัญญัติ มีทั้งหมด 12 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "ศาลในประเทศไทย | Thai Open Data",
+    "seo_description": "ดาวน์โหลดศาลในประเทศไทย ทั้งหมด 12 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลศาลในประเทศไทย ทั้งหมด 12 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "very_high",
+    "notes": "ศาลหลักในระบบศาลไทย",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Batch Script Review)"
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "th-pattani-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดปัตตานี (Pattani Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดปัตตานี (Pattani Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดปัตตานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Pattani province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 94000,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9401: เมืองปัตตานี: Mueang Pattani",
+      "subdistricts": "940101: สะบารัง: Sabarang: 9401, 940102: อาเนาะรู: A Noru: 9401, 940103: จะบังติกอ: Chabang Tiko: 9401, 940104: บานา: Bana: 9401, 940105: ตันหยงลุโละ: Tanyong Lulo: 9401, 940106: คลองมานิง: Khlong Maning: 9401, 940107: กะมิยอ: Kami Yo: 9401, 940108: บาราโหม: Bara Hom: 9401, 940109: ปะกาฮะรัง: Paka Harang: 9401, 940110: รูสะมิแล: Ru Samilae: 9401, 940111: ตะลุโบะ: Talu Bo: 9401, 940112: บาราเฮาะ: Bara Ho: 9401, 940113: ปุยุด: Pu Yut: 9401"
+    },
+    {
+      "postal_code": 94110,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9407: สายบุรี: Sai Buri",
+      "subdistricts": "940701: ตะลุบัน: Talu Ban: 9407, 940702: ตะบิ้ง: Tabing: 9407, 940703: ปะเสยะวอ: Pase Yawo: 9407, 940704: บางเก่า: Bang Kao: 9407, 940705: บือเระ: Buere: 9407, 940706: เตราะบอน: Tro Bon: 9407, 940707: กะดุนง: Kadunong: 9407, 940708: ละหาร: Lahan: 9407, 940709: มะนังดาลำ: Manang Dalam: 9407, 940710: แป้น: Paen: 9407"
+    },
+    {
+      "postal_code": 94120,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9402: โคกโพธิ์: Khok Pho",
+      "subdistricts": "940201: โคกโพธิ์: Khok Pho: 9402, 940202: มะกรูด: Makrut: 9402, 940203: บางโกระ: Bang Kro: 9402, 940204: ป่าบอน: Pa Bon: 9402, 940205: ทรายขาว: Sai Khao: 9402, 940211: ท่าเรือ: Tha Ruea: 9402, 940213: นาเกตุ: Na Ket: 9402, 940215: ช้างให้ตก: Chang Hai Tok: 9402"
+    },
+    {
+      "postal_code": 94130,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9404: ปะนาเระ: Panare",
+      "subdistricts": "940401: ปะนาเระ: Panare: 9404, 940402: ท่าข้าม: Tha Kham: 9404, 940403: บ้านนอก: Ban Nok: 9404, 940404: ดอน: Don: 9404, 940406: ท่าน้ำ: Tha Nam: 9404, 940407: คอกกระบือ: Khok Krabue: 9404, 940408: พ่อมิ่ง: Pho Ming: 9404, 940409: บ้านกลาง: Ban Klang: 9404, 940410: บ้านน้ำบ่อ: Ban Nam Bo: 9404"
+    },
+    {
+      "postal_code": 94140,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9405: มายอ: Mayo, 9406: ทุ่งยางแดง: Thung Yang Daeng",
+      "subdistricts": "940501: มายอ: Mayo: 9405, 940502: ถนน: Thanon: 9405, 940503: ตรัง: Trang: 9405, 940504: กระหวะ: Krawa: 9405, 940505: ลุโบะยิไร: Lubo Yiri: 9405, 940507: กระเสาะ: Kraso: 9405, 940508: เกาะจัน: Ko Chan: 9405, 940509: ปะโด: Podo: 9405, 940510: สาคอบน: Sakho Bon: 9405, 940511: สาคอใต้: Sakho Tai: 9405, 940512: สะกำ: Sakam: 9405, 940513: ปานัน: Pa Nan: 9405, 940601: ตะโละแมะนา: Talo Maena: 9406, 940602: พิเทน: Phithen: 9406, 940603: น้ำดำ: Nam Dam: 9406, 940604: ปากู: Pa Ku: 9406"
+    },
+    {
+      "postal_code": 94150,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9409: ยะหริ่ง: Yaring",
+      "subdistricts": "940901: ตะโละ: Talo: 9409, 940902: ตะโละกาโปร์: Talo Kapo: 9409, 940903: ตันหยงดาลอ: Tanyong Dalo: 9409, 940905: ตอหลัง: To Lang: 9409, 940906: ตาแกะ: Ta Kae: 9409, 940907: ตาลีอายร์: Tali-Ai: 9409, 940908: ยามู: Ya Mu: 9409, 940909: บางปู: Bang Pu: 9409, 940910: หนองแรต: Nong Raet: 9409, 940911: ปิยามุมัง: Piya Mumang: 9409, 940912: ปุลากง: Pulakong: 9409, 940914: สาบัน: Saban: 9409, 940915: มะนังยง: Manang Yong: 9409, 940916: ราตาปันยัง: Rata Panyang: 9409, 940917: จะรัง: Charang: 9409, 940918: แหลมโพธิ์: Laem Pho: 9409"
+    },
+    {
+      "postal_code": 94160,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9410: ยะรัง: Yarang",
+      "subdistricts": "941001: ยะรัง: Yarang: 9410, 941002: สะดาวา: Sadawa: 9410, 941003: ประจัน: Prachan: 9410, 941004: สะนอ: Sano: 9410, 941005: ระแว้ง: Rawaeng: 9410, 941006: ปิตูมุดี: Pitu Mudi: 9410, 941007: วัด: Wat: 9410, 941008: กระโด: Krado: 9410, 941009: คลองใหม่: Khlong Mai: 9410, 941010: เมาะมาวี: Mo Mawi: 9410, 941011: กอลำ: Ko Lam: 9410, 941012: เขาตูม: Khao Tum: 9410"
+    },
+    {
+      "postal_code": 94170,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9403: หนองจิก: Nong Chik",
+      "subdistricts": "940301: เกาะเปาะ: Ko Po: 9403, 940302: คอลอตันหยง: Kholo Tanyong: 9403, 940303: ดอนรัก: Don Rak: 9403, 940304: ดาโต๊ะ: Dato: 9403, 940305: ตุยง: Tuyong: 9403, 940306: ท่ากำชำ: Tha Kamcham: 9403, 940307: บ่อทอง: Bo Thong: 9403, 940308: บางเขา: Bang Khao: 9403, 940309: บางตาวา: Bang Tawa: 9403, 940310: ปุโละปุโย: Pulo Puyo: 9403, 940311: ยาบี: Ya Bi: 9403, 940312: ลิปะสะโง: Lipa Sa-Ngo: 9403"
+    },
+    {
+      "postal_code": 94180,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9402: โคกโพธิ์: Khok Pho, 9412: แม่ลาน: Mae Lan",
+      "subdistricts": "940206: นาประดู่: Na Pradu: 9402, 940207: ปากล่อ: Pak Lo: 9402, 940208: ทุ่งพลา: Thung Phla: 9402, 940214: ควนโนรี: Khuan Nori: 9402, 941201: แม่ลาน: Mae Lan: 9412, 941202: ม่วงเตี้ย: Muang Tia: 9412, 941203: ป่าไร่: Pa Rai: 9412"
+    },
+    {
+      "postal_code": 94190,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9404: ปะนาเระ: Panare, 9405: มายอ: Mayo, 9407: สายบุรี: Sai Buri, 9409: ยะหริ่ง: Yaring",
+      "subdistricts": "940405: ควน: Khuan: 9404, 940506: ลางา: La-Nga: 9405, 940711: ทุ่งคล้า: Thung Khla: 9407, 940904: ตันหยงจึงงา: Tanyong Chueng Nga: 9409, 940913: บาโลย: Baloi: 9409"
+    },
+    {
+      "postal_code": 94220,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9408: ไม้แก่น: Mai Kaen",
+      "subdistricts": "940801: ไทรทอง: Sai Thong: 9408, 940802: ไม้แก่น: Mai Kaen: 9408, 940803: ตะโละไกรทอง: Talo Krai Thong: 9408, 940804: ดอนทราย: Don Sai: 9408"
+    },
+    {
+      "postal_code": 94230,
+      "province_code": 94,
+      "province_name_th": "ปัตตานี",
+      "province_name_en": "Pattani",
+      "districts": "9411: กะพ้อ: Kapho",
+      "subdistricts": "941101: กะรุบี: Karubi: 9411, 941102: ตะโละดือรามัน: Talo Due Raman: 9411, 941103: ปล่องหอย: Plong Hoi: 9411"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดปัตตานี (Pattani Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดปัตตานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Pattani province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 12 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดปัตตานี (Pattani Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดปัตตานี (Pattani Postal Codes) — 12 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 12 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

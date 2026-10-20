@@ -1,0 +1,152 @@
+{
+  "id": "th-nakhon-pathom-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดนครปฐม (Nakhon Pathom Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดนครปฐม (Nakhon Pathom Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดนครปฐม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Pathom province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 73000,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7301: เมืองนครปฐม: Mueang Nakhon Pathom",
+      "subdistricts": "730101: พระปฐมเจดีย์: Phra Pathom Chedi: 7301, 730102: บางแขม: Bang Khaem: 7301, 730103: พระประโทน: Phra Prathon: 7301, 730104: ธรรมศาลา: Thammasala: 7301, 730105: ตาก้อง: Ta Kong: 7301, 730106: มาบแค: Map Khae: 7301, 730107: สนามจันทร์: Sanam Chan: 7301, 730108: ดอนยายหอม: Don Yai Hom: 7301, 730109: ถนนขาด: Thanon Khat: 7301, 730110: บ่อพลับ: Bo Phlap: 7301, 730111: นครปฐม: Nakhon Pathom: 7301, 730112: วังตะกู: Wang Taku: 7301, 730113: หนองปากโลง: Nong Pak Long: 7301, 730114: สามควายเผือก: Sam Khwai Phueak: 7301, 730115: ทุ่งน้อย: Thung Noi: 7301, 730116: หนองดินแดง: Nong Din Daeng: 7301, 730117: วังเย็น: Wang Yen: 7301, 730118: โพรงมะเดื่อ: Phrong Maduea: 7301, 730119: ลำพยา: Lam Phaya: 7301, 730120: สระกะเทียม: Sa Kathiam: 7301, 730121: สวนป่าน: Suan Pan: 7301, 730122: ห้วยจรเข้: Huai Chorakhe: 7301, 730123: ทัพหลวง: Thap Luang: 7301, 730124: หนองงูเหลือม: Nong Ngu Lueam: 7301, 730125: บ้านยาง: Ban Yang: 7301"
+    },
+    {
+      "postal_code": 73110,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7306: สามพราน: Sam Phran",
+      "subdistricts": "730601: ท่าข้าม: Tha Kham: 7306, 730603: หอมเกร็ด: Hom Kret: 7306, 730606: สามพราน: Sam Phran: 7306, 730607: บางช้าง: Bang Chang: 7306, 730609: ท่าตลาด: Tha Talat: 7306, 730611: คลองใหม่: Khlong Mai: 7306, 730612: ตลาดจินดา: Talat Chinda: 7306, 730613: คลองจินดา: Khlong Chinda: 7306, 730614: ยายชา: Yai Cha: 7306, 730615: บ้านใหม่: Ban Mai: 7306"
+    },
+    {
+      "postal_code": 73120,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7303: นครชัยศรี: Nakhon Chai Si",
+      "subdistricts": "730301: นครชัยศรี: Nakhon Chai Si: 7303, 730302: บางกระเบา: Bang Krabao: 7303, 730303: วัดแค: Wat Khae: 7303, 730304: ท่าตำหนัก: Tha Tamnak: 7303, 730305: บางแก้ว: Bang Kaeo: 7303, 730306: ท่ากระชับ: Tha Krachap: 7303, 730307: ขุนแก้ว: Khun Kaeo: 7303, 730308: ท่าพระยา: Tha Phraya: 7303, 730309: พะเนียด: Phaniat: 7303, 730310: บางระกำ: Bang Rakam: 7303, 730311: โคกพระเจดีย์: Khok Phra Chedi: 7303, 730312: ศรีษะทอง: Sisa Thong: 7303, 730313: แหลมบัว: Laem Bua: 7303, 730314: ศรีมหาโพธิ์: Si Mahapho: 7303, 730315: สัมปทวน: Sampathuan: 7303, 730316: วัดสำโรง: Wat Samrong: 7303, 730317: ดอนแฝก: Don Faek: 7303, 730318: ห้วยพลู: Huai Phlu: 7303, 730319: วัดละมุด: Wat Lamut: 7303, 730320: บางพระ: Bang Phra: 7303, 730321: บางแก้วฟ้า: Bang Kaeo Fa: 7303, 730322: ลานตากฟ้า: Lan Tak Fa: 7303, 730323: งิ้วราย: Ngio Rai: 7303, 730324: ไทยาวาส: Thaiyawat: 7303"
+    },
+    {
+      "postal_code": 73130,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7305: บางเลน: Bang Len",
+      "subdistricts": "730501: บางเลน: Bang Len: 7305, 730502: บางปลา: Bang Pla: 7305, 730504: บางภาษี: Bang Phasi: 7305, 730505: บางระกำ: Bang Rakam: 7305, 730506: บางไทรป่า: Bang Sai Pa: 7305, 730508: ไทรงาม: Sai Ngam: 7305, 730509: ดอนตูม: Don Tum: 7305, 730510: นิลเพชร: Nin Phet: 7305, 730511: บัวปากท่า: Bua Pak Tha: 7305, 730512: คลองนกกระทุง: Khlong Nok Krathung: 7305, 730513: นราภิรมย์: Nara Phirom: 7305, 730514: ลำพญา: Lam Phaya: 7305, 730515: ไผ่หูช้าง: Phai Hu Chang: 7305"
+    },
+    {
+      "postal_code": 73140,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7302: กำแพงแสน: Kamphaeng Saen",
+      "subdistricts": "730201: ทุ่งกระพังโหม: Thung Kraphang Hom: 7302, 730203: ทุ่งลูกนก: Thung Luk Nok: 7302, 730204: ห้วยขวาง: Huai Khwang: 7302, 730205: ทุ่งขวาง: Thung Khwang: 7302, 730206: สระสี่มุม: Sa Si Mum: 7302, 730207: ทุ่งบัว: Thung Bua: 7302, 730208: ดอนข่อย: Don Khoi: 7302, 730210: ห้วยหมอนทอง: Huai Mon Thong: 7302, 730212: กำแพงแสน: Kamphaeng Saen: 7302, 730213: รางพิกุล: Rang Phikun: 7302, 730214: หนองกระทุ่ม: Nong Krathum: 7302, 730215: วังน้ำเขียว: Wang Nam Khiao: 7302"
+    },
+    {
+      "postal_code": 73150,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7304: ดอนตูม: Don Tum",
+      "subdistricts": "730401: สามง่าม: Sam Ngam: 7304, 730402: ห้วยพระ: Huai Phra: 7304, 730403: ลำเหย: Lam Hoei: 7304, 730404: ดอนพุทรา: Don Phutsa: 7304, 730405: บ้านหลวง: Ban Luang: 7304, 730406: ดอนรวก: Don Ruak: 7304, 730407: ห้วยด้วน: Huai Duan: 7304, 730408: ลำลูกบัว: Lam Luk Bua: 7304"
+    },
+    {
+      "postal_code": 73160,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7306: สามพราน: Sam Phran",
+      "subdistricts": "730616: อ้อมใหญ่: Om Yai: 7306"
+    },
+    {
+      "postal_code": 73170,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7307: พุทธมณฑล: Phutthamonthon",
+      "subdistricts": "730701: ศาลายา: Sala Ya: 7307, 730702: คลองโยง: Khlong Yong: 7307, 730703: มหาสวัสดิ์: Mahasawat: 7307"
+    },
+    {
+      "postal_code": 73180,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7302: กำแพงแสน: Kamphaeng Saen",
+      "subdistricts": "730202: กระตีบ: Kratip: 7302, 730209: สระพัฒนา: Sa Phatthana: 7302, 730211: ห้วยม่วง: Huai Muang: 7302"
+    },
+    {
+      "postal_code": 73190,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7305: บางเลน: Bang Len",
+      "subdistricts": "730503: บางหลวง: Bang Luang: 7305, 730507: หินมูล: Hin Mun: 7305"
+    },
+    {
+      "postal_code": 73210,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7306: สามพราน: Sam Phran",
+      "subdistricts": "730602: ทรงคนอง: Song Khanong: 7306, 730604: บางกระทึก: Bang Krathuek: 7306, 730605: บางเตย: Bang Toei: 7306, 730608: ไร่ขิง: Rai Khing: 7306"
+    },
+    {
+      "postal_code": 73220,
+      "province_code": 73,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "districts": "7306: สามพราน: Sam Phran",
+      "subdistricts": "730610: กระทุ่มล้ม: Krathum Lom: 7306"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดนครปฐม (Nakhon Pathom Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดนครปฐม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Pathom province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 12 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดนครปฐม (Nakhon Pathom Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดนครปฐม (Nakhon Pathom Postal Codes) — 12 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 12 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

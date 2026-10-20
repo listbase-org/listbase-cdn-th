@@ -1,0 +1,2336 @@
+{
+  "id": "th-phra-nakhon-si-ayutthaya-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพระนครศรีอยุธยา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 495
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1015
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 727
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 158
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 681
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4898
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 204
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 537
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8930
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 504
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3154
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 572
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 707
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 265
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 48
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5160
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 132
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1029
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 91
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 104
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 83
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 206
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 216
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 250
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 25327
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 98
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 209
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 230
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 71
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 39154
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 170
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 450
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 312
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 151
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 20
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 278
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1238
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 709
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 168
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 816
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2673
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 2402
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 564
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 11633
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 575
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3706
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 499
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 810
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 279
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 144
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4231
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 176
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 581
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 106
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 163
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 107
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 182
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 306
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 25406
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 141
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 171
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 225
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 157
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 31722
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 249
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 358
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 337
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 33
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 276
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1211
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 572
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 560
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4603
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1957
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 118
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 496
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10692
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 525
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4025
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 625
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 766
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 85
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 218
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 128
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 22
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 47
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3795
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 171
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 581
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 119
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 98
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 257
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 200
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 157
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 24058
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 63
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 113
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 162
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 97
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 98
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 40508
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 207
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 301
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 279
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 69
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 340
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1572
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1291
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2612
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 959
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2114
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 149
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 491
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10342
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 653
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3898
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 471
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 712
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 166
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 44
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 61
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3649
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 174
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 575
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 141
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 115
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 238
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 243
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 106
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 296
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 29154
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 118
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 69
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 137
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 213
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 1233
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 65
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 42043
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 222
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 384
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 318
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 86
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 51
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 24
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 57
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 278
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1531
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 315
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 431
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 864
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3644
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1778
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 535
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 16684
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 569
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2963
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 538
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 700
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 384
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 303
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 137
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชั่น",
+      "votes": 34
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 74
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3487
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 148
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 510
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 161
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 105
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 172
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 143
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 198
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 321
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 27098
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 194
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 57
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 121
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 177
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 80
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 30671
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 234
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 428
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 185
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 96
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 25
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 79
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพระนครศรีอยุธยา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 285 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya party-list ballots) — 285 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 285 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

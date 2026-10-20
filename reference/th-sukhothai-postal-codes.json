@@ -1,0 +1,160 @@
+{
+  "id": "th-sukhothai-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสุโขทัย (Sukhothai Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสุโขทัย (Sukhothai Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสุโขทัย แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Sukhothai province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 64000,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6401: เมืองสุโขทัย: Mueang Sukhothai",
+      "subdistricts": "640101: ธานี: Thani: 6401, 640104: ปากแคว: Pak Khwae: 6401, 640105: ยางซ้าย: Yang Sai: 6401, 640106: บ้านกล้วย: Ban Kluai: 6401, 640107: บ้านหลุม: Ban Lum: 6401, 640109: ปากพระ: Pak Phra: 6401"
+    },
+    {
+      "postal_code": 64110,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6407: สวรรคโลก: Sawankhalok",
+      "subdistricts": "640701: เมืองสวรรคโลก: Mueang Sawankhalok: 6407, 640702: ในเมือง: Nai Mueang: 6407, 640703: คลองกระจง: Khlong Krachong: 6407, 640704: วังพิณพาทย์: Wang Phin Phat: 6407, 640705: วังไม้ขอน: Wang Mai Khon: 6407, 640706: ย่านยาว: Yan Yao: 6407, 640707: นาทุ่ง: Na Thung: 6407, 640708: คลองยาง: Khlong Yang: 6407, 640709: เมืองบางยม: Mueang Bang Yom: 6407, 640710: ท่าทอง: Tha Thong: 6407, 640711: ปากน้ำ: Pak Nam: 6407, 640712: ป่ากุมเกาะ: Pa Kum Ko: 6407, 640713: เมืองบางขลัง: Mueang Bang Khlang: 6407, 640714: หนองกลับ: Nong Klap: 6407"
+    },
+    {
+      "postal_code": 64120,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6406: ศรีสำโรง: Si Samrong",
+      "subdistricts": "640601: คลองตาล: Khlong Tan: 6406, 640602: วังลึก: Wang Luek: 6406, 640603: สามเรือน: Sam Ruean: 6406, 640604: บ้านนา: Ban Na: 6406, 640605: วังทอง: Wang Thong: 6406, 640606: นาขุนไกร: Na Khun Krai: 6406, 640607: เกาะตาเลี้ยง: Ko Ta Liang: 6406, 640608: วัดเกาะ: Wat Ko: 6406, 640609: บ้านไร่: Ban Rai: 6406, 640610: ทับผึ้ง: Thap Phueng: 6406, 640611: บ้านซ่าน: Ban San: 6406, 640612: วังใหญ่: Wang Yai: 6406, 640613: ราวต้นจันทร์: Rao Ton Chan: 6406"
+    },
+    {
+      "postal_code": 64130,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6405: ศรีสัชนาลัย: Si Satchanalai",
+      "subdistricts": "640501: หาดเสี้ยว: Hat Siao: 6405, 640502: ป่างิ้ว: Pa Ngio: 6405, 640503: แม่สำ: Mae Sam: 6405, 640504: แม่สิน: Mae Sin: 6405, 640505: บ้านตึก: Ban Tuek: 6405, 640506: หนองอ้อ: Nong O: 6405, 640509: ดงคู่: Dong Khu: 6405, 640510: บ้านแก่ง: Ban Kaeng: 6405, 640511: สารจิตร: Sarachit: 6405"
+    },
+    {
+      "postal_code": 64140,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6402: บ้านด่านลานหอย: Ban Dan Lan Hoi",
+      "subdistricts": "640201: ลานหอย: Lan Hoi: 6402, 640202: บ้านด่าน: Ban Dan: 6402, 640203: วังตะคร้อ: Wang Takhro: 6402, 640204: วังน้ำขาว: Wang Nam Khao: 6402, 640205: ตลิ่งชัน: Taling Chan: 6402, 640206: หนองหญ้าปล้อง: Nong Ya Plong: 6402, 640207: วังลึก: Wang Luek: 6402"
+    },
+    {
+      "postal_code": 64150,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6409: ทุ่งเสลี่ยม: Thung Saliam",
+      "subdistricts": "640902: ไทยชนะศึก: Thai Chana Suek: 6409, 640903: ทุ่งเสลี่ยม: Thung Saliam: 6409, 640904: กลางดง: Klang Dong: 6409"
+    },
+    {
+      "postal_code": 64160,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6403: คีรีมาศ: Khiri Mat",
+      "subdistricts": "640301: โตนด: Tanot: 6403, 640302: ทุ่งหลวง: Thung Luang: 6403, 640303: บ้านป้อม: Ban Pom: 6403, 640304: สามพวง: Sam Phuang: 6403, 640305: ศรีคีรีมาศ: Si Khiri Mat: 6403, 640306: หนองจิก: Nong Chik: 6403, 640307: นาเชิงคีรี: Na Choeng Khiri: 6403, 640308: หนองกระดิ่ง: Nong Krading: 6403, 640309: บ้านน้ำพุ: Ban Namphu: 6403, 640310: ทุ่งยางเมือง: Thung Yang Mueang: 6403"
+    },
+    {
+      "postal_code": 64170,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6404: กงไกรลาศ: Kong Krailat",
+      "subdistricts": "640401: กง: Kong: 6404, 640402: บ้านกร่าง: Ban Krang: 6404, 640403: ไกรนอก: Krai Nok: 6404, 640404: ไกรกลาง: Krai Klang: 6404, 640405: ไกรใน: Krai Nai: 6404, 640406: ดงเดือย: Dong Dueai: 6404, 640407: ป่าแฝก: Pa Faek: 6404, 640408: กกแรต: Kok Raet: 6404, 640409: ท่าฉนวน: Tha Chanuan: 6404, 640410: หนองตูม: Nong Tum: 6404, 640411: บ้านใหม่สุขเกษม: Ban Mai Suk Kasem: 6404"
+    },
+    {
+      "postal_code": 64180,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6408: ศรีนคร: Si Nakhon",
+      "subdistricts": "640801: ศรีนคร: Si Nakhon: 6408, 640802: นครเดิฐ: Nakhon Doet: 6408, 640803: น้ำขุม: Nam Khum: 6408, 640804: คลองมะพลับ: Khlong Maphlap: 6408, 640805: หนองบัว: Nong Bua: 6408"
+    },
+    {
+      "postal_code": 64190,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6405: ศรีสัชนาลัย: Si Satchanalai",
+      "subdistricts": "640507: ท่าชัย: Tha Chai: 6405, 640508: ศรีสัชนาลัย: Si Satchanalai: 6405"
+    },
+    {
+      "postal_code": 64210,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6401: เมืองสุโขทัย: Mueang Sukhothai",
+      "subdistricts": "640103: เมืองเก่า: Mueang Kao: 6401, 640110: วังทองแดง: Wang Thong Daeng: 6401"
+    },
+    {
+      "postal_code": 64220,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6401: เมืองสุโขทัย: Mueang Sukhothai",
+      "subdistricts": "640102: บ้านสวน: Ban Suan: 6401, 640108: ตาลเตี้ย: Tan Tia: 6401"
+    },
+    {
+      "postal_code": 64230,
+      "province_code": 64,
+      "province_name_th": "สุโขทัย",
+      "province_name_en": "Sukhothai",
+      "districts": "6409: ทุ่งเสลี่ยม: Thung Saliam",
+      "subdistricts": "640901: บ้านใหม่ไชยมงคล: Ban Mai Chai Mongkhon: 6409, 640905: เขาแก้วศรีสมบูรณ์: Khao Kaeo Si Sombun: 6409"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสุโขทัย (Sukhothai Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสุโขทัย แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Sukhothai province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 13 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสุโขทัย (Sukhothai Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสุโขทัย (Sukhothai Postal Codes) — 13 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 13 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

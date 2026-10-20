@@ -1,0 +1,208 @@
+{
+  "id": "th-phra-nakhon-si-ayutthaya-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดพระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดพระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดพระนครศรีอยุธยา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phra Nakhon Si Ayutthaya province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 13000,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1401: พระนครศรีอยุธยา: Phra Nakhon Si Ayutthaya",
+      "subdistricts": "140101: ประตูชัย: Pratu Chai: 1401, 140102: กะมัง: Kamang: 1401, 140103: หอรัตนไชย: Ho Rattana Chai: 1401, 140104: หัวรอ: Hua Ro: 1401, 140105: ท่าวาสุกรี: Tha Wasukri: 1401, 140106: ไผ่ลิง: Phai Ling: 1401, 140107: ปากกราน: Pak Kran: 1401, 140108: ภูเขาทอง: Phu Khao Thong: 1401, 140109: สำเภาล่ม: Samphao Lom: 1401, 140110: สวนพริก: Suan Phrik: 1401, 140111: คลองตะเคียน: Khlong Takhian: 1401, 140112: วัดตูม: Wat Tum: 1401, 140113: หันตรา: Han Tra: 1401, 140114: ลุมพลี: Lumphli: 1401, 140115: บ้านใหม่: Ban Mai: 1401, 140116: บ้านเกาะ: Ban Ko: 1401, 140117: คลองสวนพลู: Khlong Suan Phu: 1401, 140118: คลองสระบัว: Khlong Sa Bua: 1401, 140119: เกาะเรียน: Ko Rian: 1401, 140120: บ้านป้อม: Ban Pom: 1401, 140121: บ้านรุน: Ban Run: 1401"
+    },
+    {
+      "postal_code": 13110,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1412: เสนา: Sena",
+      "subdistricts": "141201: เสนา: Sena: 1412, 141202: บ้านแพน: Ban Phaen: 1412, 141203: เจ้าเจ็ด: Chao Chet: 1412, 141204: สามกอ: Sam Ko: 1412, 141205: บางนมโค: Bang Nom Kho: 1412, 141206: หัวเวียง: Hua Wiang: 1412, 141207: มารวิชัย: Man Wichai: 1412, 141208: บ้านโพธิ์: Ban Pho: 1412, 141209: รางจรเข้: Rang Chorakhe: 1412, 141210: บ้านกระทุ่ม: Ban Krathum: 1412, 141211: บ้านแถว: Ban Thaeo: 1412, 141212: ชายนา: Chai Na: 1412, 141213: สามตุ่ม: Sam Tum: 1412, 141214: ลาดงา: Lat Nga: 1412, 141215: ดอนทอง: Don Thong: 1412, 141216: บ้านหลวง: Ban Luang: 1412, 141217: เจ้าเสด็จ: Chao Sadet: 1412"
+    },
+    {
+      "postal_code": 13120,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1408: ผักไห่: Phak Hai",
+      "subdistricts": "140801: ผักไห่: Phak Hai: 1408, 140802: อมฤต: Ammarit: 1408, 140803: บ้านแค: Ban Khae: 1408, 140804: ลาดน้ำเค็ม: Lat Nam Khem: 1408, 140805: ตาลาน: Ta Lan: 1408, 140806: ท่าดินแดง: Tha Din Daeng: 1408, 140809: กุฎี: Ku Di: 1408, 140811: โคกช้าง: Khok Chang: 1408, 140814: ลาดชิด: Lat Chit: 1408, 140815: หน้าโคก: Na Khok: 1408, 140816: บ้านใหญ่: Ban Yai: 1408"
+    },
+    {
+      "postal_code": 13130,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1402: ท่าเรือ: Tha Ruea",
+      "subdistricts": "140201: ท่าเรือ: Tha Ruea: 1402, 140202: จำปา: Champa: 1402, 140203: ท่าหลวง: Tha Luang: 1402, 140204: บ้านร่อม: Ban Rom: 1402, 140205: ศาลาลอย: Sala Loi: 1402, 140206: วังแดง: Wang Daeng: 1402, 140207: โพธิ์เอน: Pho En: 1402, 140208: ปากท่า: Pak Tha: 1402, 140209: หนองขนาก: Nong Khanak: 1402, 140210: ท่าเจ้าสนุก: Tha Chao Sanuk: 1402"
+    },
+    {
+      "postal_code": 13140,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1409: ภาชี: Phachi",
+      "subdistricts": "140901: ภาชี: Phachi: 1409, 140902: โคกม่วง: Khok Muang: 1409, 140903: ระโสม: Rasom: 1409, 140904: หนองน้ำใส: Nong Nam Sai: 1409, 140905: ดอนหญ้านาง: Don Ya Nang: 1409, 140906: ไผ่ล้อม: Phai Lom: 1409, 140907: กระจิว: Krachio: 1409, 140908: พระแก้ว: Phra Kaeo: 1409"
+    },
+    {
+      "postal_code": 13150,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1415: มหาราช: Maha Rat",
+      "subdistricts": "141501: หัวไผ่: Hua Phai: 1415, 141502: กะทุ่ม: Kathum: 1415, 141503: มหาราช: Maharat: 1415, 141504: น้ำเต้า: Namtao: 1415, 141505: บางนา: Bang Na: 1415, 141506: โรงช้าง: Rong Chang: 1415, 141507: เจ้าปลุก: Chao Pluk: 1415, 141508: พิตเพียน: Phit Phian: 1415, 141509: บ้านนา: Ban Na: 1415, 141510: บ้านขวาง: Ban Khwang: 1415, 141511: ท่าตอ: Tha To: 1415, 141512: บ้านใหม่: Ban Mai: 1415"
+    },
+    {
+      "postal_code": 13160,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1406: บางปะอิน: Bang Pa-In",
+      "subdistricts": "140601: บ้านเลน: Ban Len: 1406, 140603: บ้านโพ: Ban Pho: 1406, 140604: บ้านกรด: Ban Krot: 1406, 140605: บางกระสั้น: Bang Krasan: 1406, 140606: คลองจิก: Khlong Chik: 1406, 140607: บ้านหว้า: Ban Wa: 1406, 140608: วัดยม: Wat Yom: 1406, 140609: บางประแดง: Bang Pradaeng: 1406, 140610: สามเรือน: Sam Ruean: 1406, 140611: เกาะเกิด: Ko Koet: 1406, 140612: บ้านพลับ: Ban Phlap: 1406, 140613: บ้านแป้ง: Ban Paeng: 1406, 140614: คุ้งลาน: Khung Lan: 1406, 140615: ตลิ่งชัน: Taling Chan: 1406, 140617: ตลาดเกรียบ: Talat Kriap: 1406, 140618: ขนอนหลวง: Khanon Luang: 1406"
+    },
+    {
+      "postal_code": 13170,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1406: บางปะอิน: Bang Pa-In, 1411: วังน้อย: Wang Noi",
+      "subdistricts": "140616: บ้านสร้าง: Ban Sang: 1406, 141101: ลำตาเสา: Lam Ta Sao: 1411, 141102: บ่อตาโล่: Bo Ta Lo: 1411, 141103: วังน้อย: Wang Noi: 1411, 141104: ลำไทร: Lam Sai: 1411, 141105: สนับทึบ: Sanap Thuep: 1411, 141106: พยอม: Phayom: 1411, 141107: หันตะเภา: Han Taphao: 1411, 141108: วังจุฬา: Wang Chula: 1411, 141109: ข้าวงาม: Khao Ngam: 1411, 141110: ชะแมบ: Chamaep: 1411"
+    },
+    {
+      "postal_code": 13180,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1406: บางปะอิน: Bang Pa-In",
+      "subdistricts": "140602: เชียงรากน้อย: Chiang Rak Noi: 1406"
+    },
+    {
+      "postal_code": 13190,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1404: บางไทร: Bang Sai",
+      "subdistricts": "140401: บางไทร: Bang Sai: 1404, 140402: บางพลี: Bang Phli: 1404, 140403: สนามชัย: Sanam Chai: 1404, 140404: บ้านแป้ง: Ban Paeng: 1404, 140405: หน้าไม้: Na Mai: 1404, 140406: บางยี่โท: Bang Yitho: 1404, 140407: แคออก: Khae Ok: 1404, 140408: แคตก: Khae Tok: 1404, 140409: ช่างเหล็ก: Chang Lek: 1404, 140410: กระแชง: Krachaeng: 1404, 140411: บ้านกลึง: Ban Klueng: 1404, 140412: ช้างน้อย: Chang Noi: 1404, 140413: ห่อหมก: Ho Mok: 1404, 140414: ไผ่พระ: Phai Phra: 1404, 140415: กกแก้วบูรพา: Kok Kaeo Burapha: 1404, 140416: ไม้ตรา: Mai Tra: 1404, 140417: บ้านม้า: Ban Ma: 1404, 140418: บ้านเกาะ: Ban Ko: 1404, 140423: โคกช้าง: Khok Chang: 1404"
+    },
+    {
+      "postal_code": 13210,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1414: อุทัย: Uthai",
+      "subdistricts": "141401: คานหาม: Khan Ham: 1414, 141402: บ้านช้าง: Ban Chang: 1414, 141403: สามบัณฑิต: Sam Bandit: 1414, 141404: บ้านหีบ: Ban Hip: 1414, 141405: หนองไม้ซุง: Nong Mai Sung: 1414, 141406: อุทัย: Uthai: 1414, 141407: เสนา: Sena: 1414, 141408: หนองน้ำส้ม: Nong Nam Som: 1414, 141409: โพสาวหาญ: Pho Sao Han: 1414, 141410: ธนู: Thanu: 1414, 141411: ข้าวเม่า: Khao Mao: 1414"
+    },
+    {
+      "postal_code": 13220,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1407: บางปะหัน: Bang Pahan",
+      "subdistricts": "140701: บางปะหัน: Bang Pahan: 1407, 140702: ขยาย: Khayai: 1407, 140703: บางเดื่อ: Bang Duea: 1407, 140704: เสาธง: Sao Thong: 1407, 140705: ทางกลาง: Thang Klang: 1407, 140706: บางเพลิง: Bang Phloeng: 1407, 140707: หันสัง: Han Sang: 1407, 140708: บางนางร้า: Bang Nang Ra: 1407, 140709: ตานิม: Tanim: 1407, 140710: ทับน้ำ: Thap Nam: 1407, 140711: บ้านม้า: Ban Ma: 1407, 140712: ขวัญเมือง: Khwan Mueang: 1407, 140713: บ้านลี่: Ban Li: 1407, 140714: โพธิ์สามต้น: Pho Sam Ton: 1407, 140715: พุทเลา: Phut Lao: 1407, 140716: ตาลเอน: Tan En: 1407, 140717: บ้านขล้อ: Ban Khlo: 1407"
+    },
+    {
+      "postal_code": 13230,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1410: ลาดบัวหลวง: Lat Bua Luang",
+      "subdistricts": "141001: ลาดบัวหลวง: Lat Bua Luang: 1410, 141002: หลักชัย: Lak Chai: 1410, 141003: สามเมือง: Sam Mueang: 1410, 141004: พระยาบันลือ: Phraya Banlue: 1410, 141005: สิงหนาท: Singhanat: 1410, 141006: คู้สลอด: Khu Salot: 1410, 141007: คลองพระยาบันลือ: Khlong Phraya Banlue: 1410"
+    },
+    {
+      "postal_code": 13240,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1416: บ้านแพรก: Ban Phraek",
+      "subdistricts": "141601: บ้านแพรก: Ban Phraek: 1416, 141602: บ้านใหม่: Ban Mai: 1416, 141603: สำพะเนียง: Sam Phaniang: 1416, 141604: คลองน้อย: Khlong Noi: 1416, 141605: สองห้อง: Song Hong: 1416"
+    },
+    {
+      "postal_code": 13250,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1405: บางบาล: Bang Ban",
+      "subdistricts": "140501: บางบาล: Bang Ban: 1405, 140502: วัดยม: Wat Yom: 1405, 140503: ไทรน้อย: Sai Noi: 1405, 140504: สะพานไทย: Saphan Thai: 1405, 140505: มหาพราหมณ์: Mahaphram: 1405, 140506: กบเจา: Kop Chao: 1405, 140507: บ้านคลัง: Ban Khlang: 1405, 140508: พระขาว: Phra Khao: 1405, 140509: น้ำเต้า: Namtao: 1405, 140510: ทางช้าง: Thang Chang: 1405, 140511: วัดตะกู: Wat Taku: 1405, 140512: บางหลวง: Bang Luang: 1405, 140513: บางหลวงโดด: Bang Luang Dot: 1405, 140514: บางหัก: Bang Hak: 1405, 140515: บางชะนี: Bang Chani: 1405, 140516: บ้านกุ่ม: Ban Kum: 1405"
+    },
+    {
+      "postal_code": 13260,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1403: นครหลวง: Nakhon Luang",
+      "subdistricts": "140301: นครหลวง: Nakhon Luang: 1403, 140302: ท่าช้าง: Tha Chang: 1403, 140303: บ่อโพง: Bo Phong: 1403, 140304: บ้านชุ้ง: Ban Chung: 1403, 140305: ปากจั่น: Pak Chan: 1403, 140306: บางระกำ: Bang Rakam: 1403, 140307: บางพระครู: Bang Phrakhru: 1403, 140308: แม่ลา: Mae La: 1403, 140309: หนองปลิง: Nong Pling: 1403, 140310: คลองสะแก: Khlong Sakae: 1403, 140311: สามไถ: Sam Thai: 1403, 140312: พระนอน: Phra Non: 1403"
+    },
+    {
+      "postal_code": 13270,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1413: บางซ้าย: Bang Sai",
+      "subdistricts": "141301: บางซ้าย: Bang Sai: 1413, 141302: แก้วฟ้า: Kaeo Fa: 1413, 141303: เต่าเล่า: Tao Lao: 1413, 141304: ปลายกลัด: Plai Klat: 1413, 141305: เทพมงคล: Thep Mongkhon: 1413, 141306: วังพัฒนา: Wang Phatthana: 1413"
+    },
+    {
+      "postal_code": 13280,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1408: ผักไห่: Phak Hai",
+      "subdistricts": "140807: ดอนลาน: Don Lan: 1408, 140808: นาคู: Na Khu: 1408, 140810: ลำตะเคียน: Lam Takhian: 1408, 140812: จักราช: Chakkarat: 1408, 140813: หนองน้ำใหญ่: Nong Nam Yai: 1408"
+    },
+    {
+      "postal_code": 13290,
+      "province_code": 14,
+      "province_name_th": "พระนครศรีอยุธยา",
+      "province_name_en": "Phra Nakhon Si Ayutthaya",
+      "districts": "1404: บางไทร: Bang Sai",
+      "subdistricts": "140419: ราชคราม: Ratchakhram: 1404, 140420: ช้างใหญ่: Chang Yai: 1404, 140421: โพแตง: Po Tang: 1404, 140422: เชียงรากน้อย: Chiang Rak Noi: 1404"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดพระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดพระนครศรีอยุธยา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phra Nakhon Si Ayutthaya province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 19 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดพระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดพระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya Postal Codes) — 19 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 19 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

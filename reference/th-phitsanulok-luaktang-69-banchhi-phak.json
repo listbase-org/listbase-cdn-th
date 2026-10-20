@@ -1,0 +1,2336 @@
+{
+  "id": "th-phitsanulok-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิษณุโลก (Phitsanulok party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิษณุโลก (Phitsanulok party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพิษณุโลก. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 147
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1140
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 264
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1378
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 666
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2642
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 90
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 356
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12911
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 605
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3052
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 733
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 483
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 419
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5381
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 88
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 3267
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 56
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 83
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 149
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 150
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 233
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15962
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 109
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 120
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 211
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 132
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 62
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 38220
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 94
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 310
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 263
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 5
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 61
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1683
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1757
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1020
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 327
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 505
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2091
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 110
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 625
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 17098
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 595
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3698
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 706
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 807
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 523
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 214
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 164
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 52
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 108
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6787
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 134
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1359
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 285
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 192
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 145
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 144
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 145
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 150
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 12852
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 289
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 67
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 352
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 343
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 89
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 33505
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 298
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 221
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 116
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 86
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 685
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1394
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 450
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1808
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 951
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4902
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 159
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 789
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 13506
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 470
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3807
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 515
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 581
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 334
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 224
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 34
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 62
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 37
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 87
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 153
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6272
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 132
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 689
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 312
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 227
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 140
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 281
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 165
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 389
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 378
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 19308
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 315
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 91
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 243
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 226
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 134
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24037
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 247
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 271
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 126
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 16
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 80
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 82
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 88
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1959
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1755
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2277
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 459
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 724
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1725
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 152
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 536
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 15971
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 435
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2783
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 440
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 133
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 621
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 212
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชั่น",
+      "votes": 25
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 33
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 94
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 66
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3684
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 110
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 629
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 265
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 236
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 239
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 194
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 149
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 191
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 23285
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 271
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 70
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 195
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 150
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 118
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24967
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 161
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 196
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 151
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 47
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 914
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1878
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2883
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 331
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4482
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1549
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 131
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 809
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12746
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 486
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3498
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 390
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 681
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 155
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 177
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 255
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 297
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 73
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 40
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 104
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 76
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6962
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 153
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 528
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 246
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 343
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 372
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 212
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 378
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 263
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 213
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 18403
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 296
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 81
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 115
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 166
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 262
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 129
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23261
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 172
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 268
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 152
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 23
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 78
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 102
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิษณุโลก (Phitsanulok party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพิษณุโลก. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 285 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิษณุโลก (Phitsanulok party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิษณุโลก (Phitsanulok party-list ballots) — 285 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 285 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

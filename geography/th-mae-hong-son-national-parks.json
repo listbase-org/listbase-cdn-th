@@ -1,0 +1,151 @@
+{
+  "id": "th-mae-hong-son-national-parks",
+  "name": "แม่ฮ่องสอน — อุทยานแห่งชาติในจังหวัดแม่ฮ่องสอน (National Parks in Mae Hong Son Province)",
+  "title": "แม่ฮ่องสอน — อุทยานแห่งชาติในจังหวัดแม่ฮ่องสอน (National Parks in Mae Hong Son Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดแม่ฮ่องสอน (Mae Hong Son). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Mae Hong Son appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-mae-hong-son-...' joins to th-mae-hong-son-postal-codes / th-provinces (province_code 58).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 14,
+      "name_th": "อุทยานแห่งชาติห้วยน้ำดัง",
+      "name_en": "Huai Nam Dang National Park",
+      "name_th_short": "ห้วยน้ำดัง",
+      "name_en_short": "Huai Nam Dang",
+      "lat": 19.62,
+      "lon": 99.02,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50, Mae Hong Son: แม่ฮ่องสอน: Mae Hong Son: mae-hong-son: 58",
+      "province_count": 2
+    },
+    {
+      "park_id": 15,
+      "name_th": "อุทยานแห่งชาติน้ำตกแม่สุรินทร์",
+      "name_en": "Namtok Mae Surin National Park",
+      "name_th_short": "น้ำตกแม่สุรินทร์",
+      "name_en_short": "Namtok Mae Surin",
+      "lat": 19.14,
+      "lon": 98.03,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Mae Hong Son: แม่ฮ่องสอน: Mae Hong Son: mae-hong-son: 58",
+      "province_count": 1
+    },
+    {
+      "park_id": 16,
+      "name_th": "อุทยานแห่งชาติสาละวิน",
+      "name_en": "Salawin National Park",
+      "name_th_short": "สาละวิน",
+      "name_en_short": "Salawin",
+      "lat": 18.09,
+      "lon": 97.75,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Mae Hong Son: แม่ฮ่องสอน: Mae Hong Son: mae-hong-son: 58",
+      "province_count": 1
+    },
+    {
+      "park_id": 17,
+      "name_th": "อุทยานแห่งชาติถ้ำปลา–น้ำตกผาเสื่อ",
+      "name_en": "Tham Pla–Namtok Pha Suea National Park",
+      "name_th_short": "ถ้ำปลา–น้ำตกผาเสื่อ",
+      "name_en_short": "Tham Pla–Namtok Pha Suea",
+      "lat": 19.5,
+      "lon": 98,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Mae Hong Son: แม่ฮ่องสอน: Mae Hong Son: mae-hong-son: 58",
+      "province_count": 1
+    }
+  ],
+  "meta": {
+    "title": "แม่ฮ่องสอน — อุทยานแห่งชาติในจังหวัดแม่ฮ่องสอน (National Parks in Mae Hong Son Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดแม่ฮ่องสอน (Mae Hong Son). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Mae Hong Son appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-mae-hong-son-...' joins to th-mae-hong-son-postal-codes / th-provinces (province_code 58). มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "แม่ฮ่องสอน — อุทยานแห่งชาติในจังหวัดแม่ฮ่องสอน (National Parks in Mae Hong Son Province) | ListBase",
+    "seo_description": "ดาวน์โหลด แม่ฮ่องสอน — อุทยานแห่งชาติในจังหวัดแม่ฮ่องสอน (National Parks in Mae Hong Son Province) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

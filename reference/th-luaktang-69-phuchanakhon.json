@@ -1,0 +1,4036 @@
+{
+  "id": "th-luaktang-69-phuchanakhon",
+  "name": "ผลเลือกตั้ง 2569 — ผู้ชนะรายเขต (397 เขต)",
+  "title": "ผลเลือกตั้ง 2569 — ผู้ชนะรายเขต (397 เขต)",
+  "description": "สรุปผู้ชนะเลือกตั้งแบ่งเขต ปี 2569 — ชื่อผู้ชนะ พรรค คะแนน จำนวนผู้มีสิทธิ และผู้มาใช้สิทธิ",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 397,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    },
+    {
+      "key": "good_votes",
+      "label": "Good Votes",
+      "type": "number"
+    },
+    {
+      "key": "eligible",
+      "label": "Eligible",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "1",
+      "winner": "นายปารเมศ วิทยารักษ์สรรค์",
+      "party": "ประชาชน",
+      "votes": 34167,
+      "good_votes": 77075,
+      "eligible": 130445
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "2",
+      "winner": "นายเสกสิทธิ์ แย้มสงวนศักดิ์",
+      "party": "ประชาชน",
+      "votes": 39499,
+      "good_votes": 83874,
+      "eligible": 136434
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "3",
+      "winner": "นายจรยุทธ จตุรพรประสิทธิ์",
+      "party": "ประชาชน",
+      "votes": 34653,
+      "good_votes": 76775,
+      "eligible": 122576
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "4",
+      "winner": "นายภัณฑิล น่วมเจิม",
+      "party": "ประชาชน",
+      "votes": 34405,
+      "good_votes": 77982,
+      "eligible": 129503
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "5",
+      "winner": "นายปิติกรณ์ บรรณเภสัช",
+      "party": "ประชาชน",
+      "votes": 45269,
+      "good_votes": 90792,
+      "eligible": 133983
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "6",
+      "winner": "นายกัณตภณ ดวงอัมพร",
+      "party": "ประชาชน",
+      "votes": 43239,
+      "good_votes": 94391,
+      "eligible": 143091
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "7",
+      "winner": "นางสาวภัสริน รามวงศ์",
+      "party": "ประชาชน",
+      "votes": 40962,
+      "good_votes": 85181,
+      "eligible": 142711
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "8",
+      "winner": "นายชยพล สท้อนดี",
+      "party": "ประชาชน",
+      "votes": 45092,
+      "good_votes": 96755,
+      "eligible": 144013
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "9",
+      "winner": "นายศุภณัฐ มีนชัยนันท์",
+      "party": "ประชาชน",
+      "votes": 49366,
+      "good_votes": 95111,
+      "eligible": 144197
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "10",
+      "winner": "นายเอกราช อุดมอำนวย",
+      "party": "ประชาชน",
+      "votes": 41804,
+      "good_votes": 91913,
+      "eligible": 137980
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "11",
+      "winner": "นางสาวศศินันท์ ธรรมนิฐินันท์",
+      "party": "ประชาชน",
+      "votes": 38779,
+      "good_votes": 94993,
+      "eligible": 137319
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "12",
+      "winner": "นายภูริวรรธก์ ใจสำราญ",
+      "party": "ประชาชน",
+      "votes": 49925,
+      "good_votes": 103439,
+      "eligible": 143108
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "13",
+      "winner": "เรืออากาศโท ธนเดช เพ็งสุข",
+      "party": "ประชาชน",
+      "votes": 44511,
+      "good_votes": 90508,
+      "eligible": 131666
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "14",
+      "winner": "นายก่อเกียรติ ก่อสูงศักดิ์",
+      "party": "ประชาชน",
+      "votes": 41528,
+      "good_votes": 93467,
+      "eligible": 140238
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "16",
+      "winner": "นางสาวพิมพ์กาญจน์ กีรติวิราปกรณ์",
+      "party": "ประชาชน",
+      "votes": 46021,
+      "good_votes": 94218,
+      "eligible": 137721
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "17",
+      "winner": "นายวีรวุธ รักเที่ยง",
+      "party": "ประชาชน",
+      "votes": 28587,
+      "good_votes": 71720,
+      "eligible": 120676
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "18",
+      "winner": "นายธีรัจชัย พันธุมาศ",
+      "party": "ประชาชน",
+      "votes": 34738,
+      "good_votes": 80204,
+      "eligible": 122821
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "19",
+      "winner": "นายกันต์พงษ์ ประยูรศักดิ์",
+      "party": "ประชาชน",
+      "votes": 42820,
+      "good_votes": 92191,
+      "eligible": 135568
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "20",
+      "winner": "นายชุมพล หลักคำ",
+      "party": "ประชาชน",
+      "votes": 34941,
+      "good_votes": 81935,
+      "eligible": 126470
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "21",
+      "winner": "นายณัฐพงศ์ เปรมพูลสวัสดิ์",
+      "party": "ประชาชน",
+      "votes": 45951,
+      "good_votes": 91346,
+      "eligible": 136579
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "22",
+      "winner": "นายสุภกร ตันติไพบูลย์ธนะ",
+      "party": "ประชาชน",
+      "votes": 42264,
+      "good_votes": 85558,
+      "eligible": 133612
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "23",
+      "winner": "นายชลธาร ทรัพย์ไพบูลย์เลิศ",
+      "party": "ประชาชน",
+      "votes": 46782,
+      "good_votes": 94233,
+      "eligible": 144083
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "24",
+      "winner": "นายณพัฏน์ จิตตภินันท์กัณตา",
+      "party": "ประชาชน",
+      "votes": 46415,
+      "good_votes": 89356,
+      "eligible": 142148
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "25",
+      "winner": "นางสาวแอนศิริ วลัยกนก",
+      "party": "ประชาชน",
+      "votes": 37035,
+      "good_votes": 84112,
+      "eligible": 126830
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "26",
+      "winner": "นาย พงษ์สรณัฐ ทองลี",
+      "party": "ประชาชน",
+      "votes": 44271,
+      "good_votes": 90037,
+      "eligible": 139434
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "27",
+      "winner": "นายนฤพล เลิศปัญญาโรจน์",
+      "party": "ประชาชน",
+      "votes": 43046,
+      "good_votes": 90381,
+      "eligible": 134453
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "28",
+      "winner": "นางสาวชลณัฏฐ์ โกยกุล",
+      "party": "ประชาชน",
+      "votes": 47692,
+      "good_votes": 91560,
+      "eligible": 139454
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "29",
+      "winner": "นางสาวทิสรัตน์ เลาหพล",
+      "party": "ประชาชน",
+      "votes": 46402,
+      "good_votes": 96248,
+      "eligible": 144424
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "30",
+      "winner": "นายธัญธร ธนินวัฒนาธร",
+      "party": "ประชาชน",
+      "votes": 45992,
+      "good_votes": 92533,
+      "eligible": 143753
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "31",
+      "winner": "นายอนุสรณ์ ธรรมใจ",
+      "party": "ประชาชน",
+      "votes": 44722,
+      "good_votes": 98491,
+      "eligible": 143750
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "32",
+      "winner": "นางสาวปวิตรา จิตตกิจ",
+      "party": "ประชาชน",
+      "votes": 39327,
+      "good_votes": 85631,
+      "eligible": 142608
+    },
+    {
+      "changwat_code": "10",
+      "changwat": "กรุงเทพมหานคร",
+      "khet": "33",
+      "winner": "นายเท่าพิภพ ลิ้มจิตรกร",
+      "party": "ประชาชน",
+      "votes": 44860,
+      "good_votes": 94416,
+      "eligible": 148164
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "1",
+      "winner": "นางสาวพนิดา มงคลสวัสดิ์",
+      "party": "ประชาชน",
+      "votes": 43463,
+      "good_votes": 87879,
+      "eligible": 130785
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "2",
+      "winner": "นางสาวรัชนก สุขประเสริฐ",
+      "party": "ประชาชน",
+      "votes": 40979,
+      "good_votes": 89135,
+      "eligible": 129095
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "3",
+      "winner": "นายพิชัย แจ้งจรรยาวงศ์",
+      "party": "ประชาชน",
+      "votes": 45335,
+      "good_votes": 88488,
+      "eligible": 141094
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "4",
+      "winner": "นายชนสิษฎ์ ยอดฉิม",
+      "party": "ประชาชน",
+      "votes": 48876,
+      "good_votes": 92620,
+      "eligible": 135983
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "5",
+      "winner": "นางสาวนิตยา มีศรี",
+      "party": "ประชาชน",
+      "votes": 57198,
+      "good_votes": 100245,
+      "eligible": 158312
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "6",
+      "winner": "นายฐาปกรณ์ กุลเจริญ",
+      "party": "ภูมิใจไทย",
+      "votes": 35571,
+      "good_votes": 84514,
+      "eligible": 129990
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "7",
+      "winner": "นายบุญเลิศ แสงพันธุ์",
+      "party": "ประชาชน",
+      "votes": 46394,
+      "good_votes": 97691,
+      "eligible": 149502
+    },
+    {
+      "changwat_code": "11",
+      "changwat": "สมุทรปราการ",
+      "khet": "8",
+      "winner": "นายเทพฤทธิ์ ภาษี",
+      "party": "ประชาชน",
+      "votes": 40230,
+      "good_votes": 103041,
+      "eligible": 150398
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "1",
+      "winner": "นายวุฒากร นุตยกุล",
+      "party": "ประชาชน",
+      "votes": 42123,
+      "good_votes": 93883,
+      "eligible": 135257
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "2",
+      "winner": "นางปัญญารัตน์ นันทภูษิตานนท์",
+      "party": "ประชาชน",
+      "votes": 38013,
+      "good_votes": 81123,
+      "eligible": 124496
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "3",
+      "winner": "นายอนุสรณ์ แก้ววิเชียร",
+      "party": "ประชาชน",
+      "votes": 47505,
+      "good_votes": 96521,
+      "eligible": 140970
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "4",
+      "winner": "นายกรณ์ มีดี",
+      "party": "ประชาชน",
+      "votes": 33461,
+      "good_votes": 85203,
+      "eligible": 127371
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "5",
+      "winner": "นายปรีติ เจริญศิลป์",
+      "party": "ประชาชน",
+      "votes": 41888,
+      "good_votes": 96107,
+      "eligible": 137863
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "6",
+      "winner": "นายสุทัศน์ มีศิริ",
+      "party": "ประชาชน",
+      "votes": 44405,
+      "good_votes": 99026,
+      "eligible": 144044
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "7",
+      "winner": "นายเกียรติคุณ ต้นยาง",
+      "party": "ประชาชน",
+      "votes": 41267,
+      "good_votes": 93993,
+      "eligible": 142327
+    },
+    {
+      "changwat_code": "12",
+      "changwat": "นนทบุรี",
+      "khet": "8",
+      "winner": "นายนนท์ ไพศาลลิ้มเจริญกิจ",
+      "party": "ประชาชน",
+      "votes": 36631,
+      "good_votes": 88860,
+      "eligible": 121283
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "1",
+      "winner": "นายเจษฎา ดนตรีเสนาะ",
+      "party": "ประชาชน",
+      "votes": 32835,
+      "good_votes": 95201,
+      "eligible": 130705
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "2",
+      "winner": "นายศุภชัย นพขำ",
+      "party": "เพื่อไทย",
+      "votes": 36340,
+      "good_votes": 97032,
+      "eligible": 128907
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "3",
+      "winner": "นายเอกศักดิ์ หอมชื่น",
+      "party": "ประชาชน",
+      "votes": 42004,
+      "good_votes": 84153,
+      "eligible": 131718
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "4",
+      "winner": "นายสกล สุนทรวาณิชย์กิจ",
+      "party": "ประชาชน",
+      "votes": 41039,
+      "good_votes": 90836,
+      "eligible": 132041
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "5",
+      "winner": "นายเชตวัน เตือประโคน",
+      "party": "ประชาชน",
+      "votes": 35383,
+      "good_votes": 82519,
+      "eligible": 122733
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "6",
+      "winner": "นายธนภัทร ตระกูลภูชัย",
+      "party": "ประชาชน",
+      "votes": 42684,
+      "good_votes": 84382,
+      "eligible": 122395
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "7",
+      "winner": "นายพิษณุ พลธี",
+      "party": "ภูมิใจไทย",
+      "votes": 46202,
+      "good_votes": 86075,
+      "eligible": 121843
+    },
+    {
+      "changwat_code": "13",
+      "changwat": "ปทุมธานี",
+      "khet": "8",
+      "winner": "นางสาวพรพิมล ธรรมสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 42730,
+      "good_votes": 85346,
+      "eligible": 122404
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "1",
+      "winner": "นายทรงพล สุขสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 46696,
+      "good_votes": 97550,
+      "eligible": 140191
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "2",
+      "winner": "นายนพ ชีวานันท์",
+      "party": "ภูมิใจไทย",
+      "votes": 53474,
+      "good_votes": 94398,
+      "eligible": 128589
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "3",
+      "winner": "นางสาวพิมพฤดา ตันจรารักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 58072,
+      "good_votes": 100331,
+      "eligible": 136428
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "4",
+      "winner": "นายคงกฤช รามศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 51469,
+      "good_votes": 106913,
+      "eligible": 139523
+    },
+    {
+      "changwat_code": "14",
+      "changwat": "พระนครศรีอยุธยา",
+      "khet": "5",
+      "winner": "นายปะดิธ สังขจาย",
+      "party": "ภูมิใจไทย",
+      "votes": 46623,
+      "good_votes": 98383,
+      "eligible": 133055
+    },
+    {
+      "changwat_code": "15",
+      "changwat": "อ่างทอง",
+      "khet": "1",
+      "winner": "นายภราดร ปริศนานันทกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 56130,
+      "good_votes": 79775,
+      "eligible": 111666
+    },
+    {
+      "changwat_code": "15",
+      "changwat": "อ่างทอง",
+      "khet": "2",
+      "winner": "นายกรวีร์ ปริศนานันทกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 60611,
+      "good_votes": 79838,
+      "eligible": 112384
+    },
+    {
+      "changwat_code": "16",
+      "changwat": "ลพบุรี",
+      "khet": "1",
+      "winner": "นายนรินทร์ คลังผา",
+      "party": "ภูมิใจไทย",
+      "votes": 38126,
+      "good_votes": 100109,
+      "eligible": 151712
+    },
+    {
+      "changwat_code": "16",
+      "changwat": "ลพบุรี",
+      "khet": "2",
+      "winner": "นางสาวมัลลิกา จิระพันธุ์วานิช",
+      "party": "ภูมิใจไทย",
+      "votes": 58141,
+      "good_votes": 110045,
+      "eligible": 149672
+    },
+    {
+      "changwat_code": "16",
+      "changwat": "ลพบุรี",
+      "khet": "3",
+      "winner": "นางสาวกาญจนาพร จิระพันธุ์วาณิช",
+      "party": "ภูมิใจไทย",
+      "votes": 49264,
+      "good_votes": 99225,
+      "eligible": 145648
+    },
+    {
+      "changwat_code": "16",
+      "changwat": "ลพบุรี",
+      "khet": "4",
+      "winner": "นายวรวงศ์ วรปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 50031,
+      "good_votes": 108277,
+      "eligible": 149394
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "winner": "นายโชติวุฒิ ธนาคมานุสรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 65555,
+      "good_votes": 114708,
+      "eligible": 167134
+    },
+    {
+      "changwat_code": "18",
+      "changwat": "ชัยนาท",
+      "khet": "1",
+      "winner": "นายอนุชา นาคาศัย",
+      "party": "เพื่อไทย",
+      "votes": 36058,
+      "good_votes": 80770,
+      "eligible": 132320
+    },
+    {
+      "changwat_code": "18",
+      "changwat": "ชัยนาท",
+      "khet": "2",
+      "winner": "นายมณเฑียร สงฆ์ประชา",
+      "party": "ภูมิใจไทย",
+      "votes": 54585,
+      "good_votes": 84484,
+      "eligible": 130196
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "winner": "นายขุนทอง แสนวิเศษ",
+      "party": "ภูมิใจไทย",
+      "votes": 31958,
+      "good_votes": 88053,
+      "eligible": 128124
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "winner": "นายอรรถพล วงษ์ประยูร",
+      "party": "ภูมิใจไทย",
+      "votes": 37225,
+      "good_votes": 99146,
+      "eligible": 136691
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "winner": "นายวัชรพงศ์ คูวิจิตรสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 53967,
+      "good_votes": 91451,
+      "eligible": 125851
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "winner": "นายองอาจ วงษ์ประยูร",
+      "party": "กล้าธรรม",
+      "votes": 48159,
+      "good_votes": 90067,
+      "eligible": 128318
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "winner": "นายสุชาติ ชมกลิ่น",
+      "party": "ภูมิใจไทย",
+      "votes": 46253,
+      "good_votes": 97585,
+      "eligible": 137328
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "winner": "นางสาววรรณิดา นพสิทธิ์",
+      "party": "ประชาชน",
+      "votes": 30061,
+      "good_votes": 78825,
+      "eligible": 113941
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "winner": "ร้อยตำรวจเอก สิทธิพัฒน์ ภาวสุทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 42501,
+      "good_votes": 90301,
+      "eligible": 127143
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "winner": "นายจิรวุฒิ สิงห์โตทอง",
+      "party": "ภูมิใจไทย",
+      "votes": 45751,
+      "good_votes": 80770,
+      "eligible": 120267
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "winner": "นายอนันต์ ปรีดาสุทธิจิตต์",
+      "party": "ภูมิใจไทย",
+      "votes": 52767,
+      "good_votes": 95514,
+      "eligible": 134987
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "winner": "นางนฤมาศ เปี่ยมบัณฑิต",
+      "party": "ประชาชน",
+      "votes": 41248,
+      "good_votes": 89423,
+      "eligible": 138584
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "winner": "นายสหัสวัต คุมคง",
+      "party": "ประชาชน",
+      "votes": 39986,
+      "good_votes": 82754,
+      "eligible": 127875
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "winner": "นายเชาวลิตร แสงอุทัย",
+      "party": "ภูมิใจไทย",
+      "votes": 37623,
+      "good_votes": 86994,
+      "eligible": 140456
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "winner": "นายยอดชาย พึ่งพร",
+      "party": "ประชาชน",
+      "votes": 27602,
+      "good_votes": 62409,
+      "eligible": 122755
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "winner": "นายธนาธาร ประมูลพงษ์",
+      "party": "ประชาชน",
+      "votes": 27129,
+      "good_votes": 82457,
+      "eligible": 134698
+    },
+    {
+      "changwat_code": "21",
+      "changwat": "ระยอง",
+      "khet": "1",
+      "winner": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+      "party": "ประชาชน",
+      "votes": 36934,
+      "good_votes": 85091,
+      "eligible": 121750
+    },
+    {
+      "changwat_code": "21",
+      "changwat": "ระยอง",
+      "khet": "2",
+      "winner": "นายกฤช ศิลปชัย",
+      "party": "ประชาชน",
+      "votes": 33687,
+      "good_votes": 68551,
+      "eligible": 116650
+    },
+    {
+      "changwat_code": "21",
+      "changwat": "ระยอง",
+      "khet": "3",
+      "winner": "นายพศิน ปิตุเตชะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 26873,
+      "good_votes": 76463,
+      "eligible": 124375
+    },
+    {
+      "changwat_code": "21",
+      "changwat": "ระยอง",
+      "khet": "4",
+      "winner": "นายฉัตรชัย ปิตุเตชะ",
+      "party": "ภูมิใจไทย",
+      "votes": 46134,
+      "good_votes": 87526,
+      "eligible": 129478
+    },
+    {
+      "changwat_code": "21",
+      "changwat": "ระยอง",
+      "khet": "5",
+      "winner": "นายวัชรพงษ์ ศิริรักษ์",
+      "party": "ประชาชน",
+      "votes": 37569,
+      "good_votes": 81289,
+      "eligible": 129572
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "winner": "พลตำรวจโท สุรพล วิรัตน์โยสินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 32984,
+      "good_votes": 100866,
+      "eligible": 148036
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "winner": "นายคัมภีร์ ชื่นบาน",
+      "party": "ภูมิใจไทย",
+      "votes": 39979,
+      "good_votes": 91807,
+      "eligible": 142477
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "winner": "นายชรัตน์ เนรัญชร",
+      "party": "ภูมิใจไทย",
+      "votes": 31798,
+      "good_votes": 91176,
+      "eligible": 142294
+    },
+    {
+      "changwat_code": "23",
+      "changwat": "ตราด",
+      "khet": "1",
+      "winner": "นายพิชานนท์ อิงประสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 66399,
+      "good_votes": 115576,
+      "eligible": 176946
+    },
+    {
+      "changwat_code": "24",
+      "changwat": "ฉะเชิงเทรา",
+      "khet": "1",
+      "winner": "นางฐิติมา ฉายแสง",
+      "party": "เพื่อไทย",
+      "votes": 38717,
+      "good_votes": 96004,
+      "eligible": 146676
+    },
+    {
+      "changwat_code": "24",
+      "changwat": "ฉะเชิงเทรา",
+      "khet": "2",
+      "winner": "นายอรรถกร ศิริลัทธยากร",
+      "party": "กล้าธรรม",
+      "votes": 50833,
+      "good_votes": 109828,
+      "eligible": 142226
+    },
+    {
+      "changwat_code": "24",
+      "changwat": "ฉะเชิงเทรา",
+      "khet": "3",
+      "winner": "นายชัยวัฒน์ เป้าเปี่ยมทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 52758,
+      "good_votes": 93753,
+      "eligible": 145910
+    },
+    {
+      "changwat_code": "24",
+      "changwat": "ฉะเชิงเทรา",
+      "khet": "4",
+      "winner": "จ่าเอก ยศสิงห์ เหลี่ยมเลิศ",
+      "party": "กล้าธรรม",
+      "votes": 47969,
+      "good_votes": 112107,
+      "eligible": 154572
+    },
+    {
+      "changwat_code": "25",
+      "changwat": "ปราจีนบุรี",
+      "khet": "1",
+      "winner": "นายอำนาจ วิลาวัลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 42309,
+      "good_votes": 82923,
+      "eligible": 129363
+    },
+    {
+      "changwat_code": "25",
+      "changwat": "ปราจีนบุรี",
+      "khet": "3",
+      "winner": "นายสฤษดิ์ บุตรเนียร",
+      "party": "ภูมิใจไทย",
+      "votes": 45193,
+      "good_votes": 84347,
+      "eligible": 132022
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "winner": "นายปิยวัฒน์ กิตติธเนศวร",
+      "party": "กล้าธรรม",
+      "votes": 33707,
+      "good_votes": 76781,
+      "eligible": 104054
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "winner": "นายเกรียงไกร กิตติธเนศวร",
+      "party": "ภูมิใจไทย",
+      "votes": 34897,
+      "good_votes": 80797,
+      "eligible": 108945
+    },
+    {
+      "changwat_code": "27",
+      "changwat": "สระแก้ว",
+      "khet": "1",
+      "winner": "นายบดี เทียนทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 56083,
+      "good_votes": 89613,
+      "eligible": 147502
+    },
+    {
+      "changwat_code": "27",
+      "changwat": "สระแก้ว",
+      "khet": "2",
+      "winner": "นางสาวตรีนุช เทียนทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 60370,
+      "good_votes": 89351,
+      "eligible": 145146
+    },
+    {
+      "changwat_code": "27",
+      "changwat": "สระแก้ว",
+      "khet": "3",
+      "winner": "นายสุรศักดิ์ ชิงนวรรณ์",
+      "party": "กล้าธรรม",
+      "votes": 38812,
+      "good_votes": 92868,
+      "eligible": 151072
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "1",
+      "winner": "นายฉัตร สุภัทรวณิชย์",
+      "party": "ประชาชน",
+      "votes": 32534,
+      "good_votes": 80985,
+      "eligible": 128270
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "2",
+      "winner": "นายวัชรพล โตมรศักดิ์",
+      "party": "เพื่อไทย",
+      "votes": 39980,
+      "good_votes": 96710,
+      "eligible": 141226
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "3",
+      "winner": "นายศุทธสิทธิ์ พจน์ฐศักดิ์",
+      "party": "ประชาชน",
+      "votes": 37699,
+      "good_votes": 92622,
+      "eligible": 136554
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "4",
+      "winner": "นางสาวณัฐจิรา อิ่มวิเศษ",
+      "party": "เพื่อไทย",
+      "votes": 34719,
+      "good_votes": 84302,
+      "eligible": 131759
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "5",
+      "winner": "นายสมเกียรติ ตันดิลกตระกูล",
+      "party": "เพื่อไทย",
+      "votes": 38845,
+      "good_votes": 87644,
+      "eligible": 133508
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "6",
+      "winner": "นางพัชราวรรณ ภิญโญ",
+      "party": "เพื่อไทย",
+      "votes": 27973,
+      "good_votes": 81811,
+      "eligible": 133507
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "7",
+      "winner": "นางสาวปิยะนุช ยินดีสุข",
+      "party": "เพื่อไทย",
+      "votes": 40228,
+      "good_votes": 76958,
+      "eligible": 136725
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "8",
+      "winner": "นายนิกร โสมกลาง",
+      "party": "เพื่อไทย",
+      "votes": 51840,
+      "good_votes": 79521,
+      "eligible": 133816
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "9",
+      "winner": "นายพลพีร์ สุวรรณฉวี",
+      "party": "ภูมิใจไทย",
+      "votes": 41235,
+      "good_votes": 87655,
+      "eligible": 135762
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "10",
+      "winner": "นายบุญจง วงศ์ไตรรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 43185,
+      "good_votes": 104308,
+      "eligible": 138131
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "11",
+      "winner": "นายอาทิตย์ หวังศุภกิจโกศล",
+      "party": "เพื่อไทย",
+      "votes": 53069,
+      "good_votes": 85016,
+      "eligible": 132159
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "12",
+      "winner": "นายนรเสฏฐ์ ศิริโรจนกุล",
+      "party": "เพื่อไทย",
+      "votes": 47794,
+      "good_votes": 86006,
+      "eligible": 132388
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "13",
+      "winner": "นายพชร จันทรรวงทอง",
+      "party": "เพื่อไทย",
+      "votes": 28157,
+      "good_votes": 66505,
+      "eligible": 130106
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "14",
+      "winner": "นายหนึ่ง ขัติยะนนท์",
+      "party": "ประชาชน",
+      "votes": 29003,
+      "good_votes": 73189,
+      "eligible": 130744
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "15",
+      "winner": "นายรชตะ ด่านกุล",
+      "party": "เพื่อไทย",
+      "votes": 37242,
+      "good_votes": 95199,
+      "eligible": 138615
+    },
+    {
+      "changwat_code": "30",
+      "changwat": "นครราชสีมา",
+      "khet": "16",
+      "winner": "นายตติรัฐ รัตนเศรษฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 32139,
+      "good_votes": 83999,
+      "eligible": 136002
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "winner": "นายสนอง เทพอักษรณรงค์",
+      "party": "ภูมิใจไทย",
+      "votes": 57074,
+      "good_votes": 78889,
+      "eligible": 125326
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "winner": "นางสาวณัฐธิดา เล็กอุดากร",
+      "party": "ภูมิใจไทย",
+      "votes": 56479,
+      "good_votes": 75055,
+      "eligible": 127640
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "winner": "นายอดิพงษ์ ฐิติพิทยา",
+      "party": "ภูมิใจไทย",
+      "votes": 56210,
+      "good_votes": 72175,
+      "eligible": 125637
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "winner": "นายชนกันต์ ทิมาตฤกะ",
+      "party": "ภูมิใจไทย",
+      "votes": 51536,
+      "good_votes": 69445,
+      "eligible": 121519
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "winner": "นายโสภณ ซารัมย์",
+      "party": "ภูมิใจไทย",
+      "votes": 53732,
+      "good_votes": 76650,
+      "eligible": 131438
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "winner": "นายศักดิ์ ซารัมย์",
+      "party": "ภูมิใจไทย",
+      "votes": 51523,
+      "good_votes": 73608,
+      "eligible": 130776
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "winner": "นายพรชัย ศรีสุริยันโยธิน",
+      "party": "ภูมิใจไทย",
+      "votes": 45919,
+      "good_votes": 74537,
+      "eligible": 122067
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "winner": "นายไตรเทพ งามกมล",
+      "party": "ภูมิใจไทย",
+      "votes": 53217,
+      "good_votes": 78428,
+      "eligible": 126957
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "winner": "นายรุ่งโรจน์ ทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 57197,
+      "good_votes": 73695,
+      "eligible": 127988
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "winner": "นายจักรกฤษณ์ ทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 52091,
+      "good_votes": 69176,
+      "eligible": 121304
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "1",
+      "winner": "นางสาวเบญญา มุ่งเจริญพร",
+      "party": "ภูมิใจไทย",
+      "votes": 46167,
+      "good_votes": 85981,
+      "eligible": 136098
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "2",
+      "winner": "นายณัฏฐพล จรัสรพีพงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 53228,
+      "good_votes": 89433,
+      "eligible": 140119
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "3",
+      "winner": "นางสาวผกามาศ เจริญพันธ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50333,
+      "good_votes": 79639,
+      "eligible": 137349
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "4",
+      "winner": "นางสาวสุรีย์ ธัมมาตร",
+      "party": "ภูมิใจไทย",
+      "votes": 44913,
+      "good_votes": 80530,
+      "eligible": 139651
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "5",
+      "winner": "นายภุชงค์ สุภัควรางกูร",
+      "party": "ภูมิใจไทย",
+      "votes": 41671,
+      "good_votes": 79444,
+      "eligible": 135454
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "6",
+      "winner": "นายล้ำเลิศ พัวพัฒนโชติ",
+      "party": "ภูมิใจไทย",
+      "votes": 52005,
+      "good_votes": 76550,
+      "eligible": 133978
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "7",
+      "winner": "นายเรืองวิทย์ คูณวัฒนาพงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 43239,
+      "good_votes": 84840,
+      "eligible": 136450
+    },
+    {
+      "changwat_code": "32",
+      "changwat": "สุรินทร์",
+      "khet": "8",
+      "winner": "นางปทิดา ตันติรัตนานนท์",
+      "party": "ภูมิใจไทย",
+      "votes": 52673,
+      "good_votes": 78919,
+      "eligible": 136843
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "winner": "นายสิริพงศ์ อังคสกุลเกียรติ",
+      "party": "ภูมิใจไทย",
+      "votes": 53220,
+      "good_votes": 94666,
+      "eligible": 132927
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "winner": "นายศุภกิจ สีหาภาค",
+      "party": "ภูมิใจไทย",
+      "votes": 35712,
+      "good_votes": 80721,
+      "eligible": 128729
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "winner": "นายธนา กิจไพบูลย์ชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 51942,
+      "good_votes": 76586,
+      "eligible": 128022
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "winner": "นายชิตพล ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 43534,
+      "good_votes": 77864,
+      "eligible": 122479
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "winner": "นางสาวจินณ์ตวรรณ ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 39108,
+      "good_votes": 79671,
+      "eligible": 127679
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "winner": "นายวีระพล จิตสัมฤทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 31345,
+      "good_votes": 79063,
+      "eligible": 128551
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "winner": "นางสาววิลดา อินฉัตร",
+      "party": "เพื่อไทย",
+      "votes": 36190,
+      "good_votes": 78631,
+      "eligible": 126857
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "winner": "นายอาสพลธ์ สรรณ์ไตรภพ",
+      "party": "ภูมิใจไทย",
+      "votes": 59873,
+      "good_votes": 84175,
+      "eligible": 133124
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "winner": "นายวิทวัส ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 39667,
+      "good_votes": 88566,
+      "eligible": 139255
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "winner": "นายวรสิทธิ์ กัลป์ตินันท์",
+      "party": "เพื่อไทย",
+      "votes": 32328,
+      "good_votes": 87991,
+      "eligible": 132480
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "winner": "นายณรงค์ชัย วีระกุล",
+      "party": "ไทรวมพลัง",
+      "votes": 36198,
+      "good_votes": 91206,
+      "eligible": 136569
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "winner": "นางพิมพกาญจน์ พลสมัคร",
+      "party": "ไทรวมพลัง",
+      "votes": 43632,
+      "good_votes": 86097,
+      "eligible": 139753
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "winner": "นางสาวกิตติ์ธัญญา วาจาดี",
+      "party": "เพื่อไทย",
+      "votes": 37794,
+      "good_votes": 100779,
+      "eligible": 150321
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "winner": "นายสุทธิชัย จรูญเนตร",
+      "party": "ภูมิใจไทย",
+      "votes": 52151,
+      "good_votes": 80991,
+      "eligible": 131064
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "winner": "นางสาวธัญธารีย์ สันตพันธุ์",
+      "party": "เพื่อไทย",
+      "votes": 33345,
+      "good_votes": 78144,
+      "eligible": 132010
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "winner": "นางสาวสุดารัตน์ พิทักษ์พรพัลลภ",
+      "party": "ภูมิใจไทย",
+      "votes": 45003,
+      "good_votes": 87014,
+      "eligible": 131259
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "winner": "นางสาวแนน บุณย์ธิดา สมชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 36651,
+      "good_votes": 87156,
+      "eligible": 137335
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "winner": "นางจิตรวรรณ หวังศุภกิจโกศล",
+      "party": "ไทรวมพลัง",
+      "votes": 42832,
+      "good_votes": 78470,
+      "eligible": 130179
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "winner": "นายสมศักดิ์ บุญประชม",
+      "party": "ไทรวมพลัง",
+      "votes": 66909,
+      "good_votes": 85556,
+      "eligible": 141083
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "winner": "นางสาวตวงทิพย์ จินตะเวช",
+      "party": "ภูมิใจไทย",
+      "votes": 58379,
+      "good_votes": 80032,
+      "eligible": 135277
+    },
+    {
+      "changwat_code": "35",
+      "changwat": "ยโสธร",
+      "khet": "1",
+      "winner": "นางสุภาพร สลับศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 49334,
+      "good_votes": 100743,
+      "eligible": 144704
+    },
+    {
+      "changwat_code": "35",
+      "changwat": "ยโสธร",
+      "khet": "2",
+      "winner": "นายวรายุทธ จงอักษร",
+      "party": "ภูมิใจไทย",
+      "votes": 51233,
+      "good_votes": 90902,
+      "eligible": 141191
+    },
+    {
+      "changwat_code": "35",
+      "changwat": "ยโสธร",
+      "khet": "3",
+      "winner": "นายธนพัฒน์ ศรีชนะ",
+      "party": "ภูมิใจไทย",
+      "votes": 44970,
+      "good_votes": 93914,
+      "eligible": 146753
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "winner": "นายโอซิษฐ์ เกียรติก้องชูชัย",
+      "party": "เพื่อไทย",
+      "votes": 40748,
+      "good_votes": 81673,
+      "eligible": 129541
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "winner": "นายเชิงชาย ชาลีรินทร์",
+      "party": "เพื่อไทย",
+      "votes": 54996,
+      "good_votes": 79326,
+      "eligible": 133561
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "winner": "นายสัมฤทธิ์ แทนทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 48116,
+      "good_votes": 75289,
+      "eligible": 127154
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "winner": "นางสาวสุชาดา ซาง แทนทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 36907,
+      "good_votes": 72809,
+      "eligible": 121184
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "winner": "นายศิวะ พงศ์ธีระดุลย์",
+      "party": "เพื่อไทย",
+      "votes": 29851,
+      "good_votes": 85450,
+      "eligible": 132089
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "winner": "นายเชวงศักดิ์ เร่งไพบูลย์วงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50655,
+      "good_votes": 83346,
+      "eligible": 134526
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "winner": "นายอัครแสนคีรี โล่ห์วีระ",
+      "party": "กล้าธรรม",
+      "votes": 40833,
+      "good_votes": 81542,
+      "eligible": 126889
+    },
+    {
+      "changwat_code": "37",
+      "changwat": "อำนาจเจริญ",
+      "khet": "1",
+      "winner": "นางสุขสมรวย วันทนียกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 44199,
+      "good_votes": 91024,
+      "eligible": 145524
+    },
+    {
+      "changwat_code": "37",
+      "changwat": "อำนาจเจริญ",
+      "khet": "2",
+      "winner": "นางญาญีนาถ เข็มนาค",
+      "party": "ภูมิใจไทย",
+      "votes": 43016,
+      "good_votes": 93862,
+      "eligible": 157168
+    },
+    {
+      "changwat_code": "38",
+      "changwat": "บึงกาฬ",
+      "khet": "1",
+      "winner": "นายสยาม เพ็งทอง",
+      "party": "ภูมิใจไทย",
+      "votes": 37182,
+      "good_votes": 69624,
+      "eligible": 104720
+    },
+    {
+      "changwat_code": "38",
+      "changwat": "บึงกาฬ",
+      "khet": "2",
+      "winner": "นายสุริยา แป้นสุขา",
+      "party": "ภูมิใจไทย",
+      "votes": 26482,
+      "good_votes": 72072,
+      "eligible": 109327
+    },
+    {
+      "changwat_code": "38",
+      "changwat": "บึงกาฬ",
+      "khet": "3",
+      "winner": "นายวิโรจน์ สาระวงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34041,
+      "good_votes": 70033,
+      "eligible": 118401
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "winner": "นายชยานันท์ เกตุเมฆ",
+      "party": "กล้าธรรม",
+      "votes": 31594,
+      "good_votes": 86812,
+      "eligible": 139258
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "winner": "นายรุ่งเพชร ศรีกาญจนา",
+      "party": "เพื่อไทย",
+      "votes": 36663,
+      "good_votes": 79482,
+      "eligible": 135971
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "winner": "นายพรณรงค์ นิลนะมะ",
+      "party": "กล้าธรรม",
+      "votes": 26322,
+      "good_votes": 77865,
+      "eligible": 133308
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "1",
+      "winner": "นายวีรนันท์ ฮวดศรี",
+      "party": "ประชาชน",
+      "votes": 35303,
+      "good_votes": 83007,
+      "eligible": 128250
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "2",
+      "winner": "นายอิทธิพล ชลธราศิริ",
+      "party": "ประชาชน",
+      "votes": 41012,
+      "good_votes": 96299,
+      "eligible": 138811
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "3",
+      "winner": "นายเอกชัย สืบสารคาม",
+      "party": "กล้าธรรม",
+      "votes": 30645,
+      "good_votes": 84748,
+      "eligible": 132197
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "4",
+      "winner": "นายรุ่งโรจน์ เย็นสบาย",
+      "party": "เพื่อไทย",
+      "votes": 40255,
+      "good_votes": 90702,
+      "eligible": 130877
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "5",
+      "winner": "นายปราชญา หงอกชัย",
+      "party": "กล้าธรรม",
+      "votes": 36120,
+      "good_votes": 81109,
+      "eligible": 131801
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "6",
+      "winner": "นายวิศรุต ปู่เพิ่ง",
+      "party": "ภูมิใจไทย",
+      "votes": 43246,
+      "good_votes": 79916,
+      "eligible": 129906
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "7",
+      "winner": "นายสุรพจน์ เตาะเจริญสุข",
+      "party": "เพื่อไทย",
+      "votes": 32796,
+      "good_votes": 83207,
+      "eligible": 132364
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "8",
+      "winner": "นายธนิก มาสีพิทักษ์",
+      "party": "กล้าธรรม",
+      "votes": 33926,
+      "good_votes": 89683,
+      "eligible": 139634
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "9",
+      "winner": "นายณัฐพล กลุ่มเหรียญทอง",
+      "party": "เพื่อไทย",
+      "votes": 42803,
+      "good_votes": 81101,
+      "eligible": 127326
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "10",
+      "winner": "นายพชรกร อรรณนพพร",
+      "party": "ภูมิใจไทย",
+      "votes": 39396,
+      "good_votes": 83757,
+      "eligible": 135110
+    },
+    {
+      "changwat_code": "40",
+      "changwat": "ขอนแก่น",
+      "khet": "11",
+      "winner": "นายองอาจ ฉัตรชัยพลรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 48810,
+      "good_votes": 76313,
+      "eligible": 131498
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "winner": "นายอานันท์ อมรินทร์",
+      "party": "ประชาชน",
+      "votes": 30558,
+      "good_votes": 76456,
+      "eligible": 127011
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "winner": "นางหทัยรัตน์ เพชรพนมพร",
+      "party": "เพื่อไทย",
+      "votes": 29377,
+      "good_votes": 82554,
+      "eligible": 130457
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "winner": "นายหรั่ง ธุระพล",
+      "party": "ภูมิใจไทย",
+      "votes": 33013,
+      "good_votes": 75808,
+      "eligible": 125833
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "winner": "นายไตรภพ คำเพชร",
+      "party": "เพื่อไทย",
+      "votes": 29757,
+      "good_votes": 70876,
+      "eligible": 126481
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "winner": "นางบัวเงิน รอดขันเมือง",
+      "party": "ภูมิใจไทย",
+      "votes": 28475,
+      "good_votes": 69548,
+      "eligible": 123472
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "6",
+      "winner": "นายอดิศักดิ์ แก้วมุงคุณทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 36722,
+      "good_votes": 77505,
+      "eligible": 126378
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "winner": "นายสุริยา วงศ์อารีย์",
+      "party": "ประชาชน",
+      "votes": 28786,
+      "good_votes": 71025,
+      "eligible": 128249
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "winner": "นายสุภีรภัทร ภูมิภักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 38137,
+      "good_votes": 71066,
+      "eligible": 122656
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "winner": "นายวัชระพล ขาวขำ",
+      "party": "เพื่อไทย",
+      "votes": 29522,
+      "good_votes": 73427,
+      "eligible": 124798
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "winner": "นางเทียบจุฑา ขาวขำ",
+      "party": "เพื่อไทย",
+      "votes": 31589,
+      "good_votes": 72317,
+      "eligible": 122907
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "winner": "นายเลิศศักดิ์ พัฒนชัยกุล",
+      "party": "เพื่อไทย",
+      "votes": 42730,
+      "good_votes": 85064,
+      "eligible": 125704
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "winner": "นายศรัณย์ ทิมสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 27956,
+      "good_votes": 72730,
+      "eligible": 132976
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "winner": "นายธนยศ ทิมสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 51525,
+      "good_votes": 83065,
+      "eligible": 126135
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "winner": "นายสมเจตน์ แสงเจริญรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 30145,
+      "good_votes": 74118,
+      "eligible": 123919
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "winner": "นายกระแสร์ ตระกูลพรพงศ์",
+      "party": "พลังประชารัฐ",
+      "votes": 30866,
+      "good_votes": 88967,
+      "eligible": 139496
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "winner": "นายยุทธนา ศรีตะบุตร",
+      "party": "พลังประชารัฐ",
+      "votes": 30322,
+      "good_votes": 81218,
+      "eligible": 136455
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "winner": "นายศักดิ์ดา จันทรสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 36917,
+      "good_votes": 78176,
+      "eligible": 137314
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "winner": "นายฤทธิรงค์ ภูมิสวัสดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 32493,
+      "good_votes": 84916,
+      "eligible": 129888
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "winner": "นายประวัติ ทองสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 32203,
+      "good_votes": 78715,
+      "eligible": 128380
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "winner": "นายลัทธชัย โชคชัยวัฒนากร",
+      "party": "ภูมิใจไทย",
+      "votes": 39612,
+      "good_votes": 84786,
+      "eligible": 130076
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "winner": "นายวิเชียร จงชูวณิชย์",
+      "party": "ภูมิใจไทย",
+      "votes": 30843,
+      "good_votes": 80681,
+      "eligible": 125931
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "winner": "นายจิรวัฒน์ ศิริพานิชย์",
+      "party": "เพื่อไทย",
+      "votes": 36149,
+      "good_votes": 77618,
+      "eligible": 132454
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "winner": "นางคมคาย อุดรพิมพ์",
+      "party": "ภูมิใจไทย",
+      "votes": 38939,
+      "good_votes": 87058,
+      "eligible": 128307
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "1",
+      "winner": "นายอนุรักษ์ จุรีมาศ",
+      "party": "ภูมิใจไทย",
+      "votes": 50238,
+      "good_votes": 89385,
+      "eligible": 126135
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "2",
+      "winner": "นายเอกรัฐ พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 43764,
+      "good_votes": 86974,
+      "eligible": 136681
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "3",
+      "winner": "นางรัชนี พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 35999,
+      "good_votes": 81733,
+      "eligible": 132880
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "4",
+      "winner": "นายศุภศิษย์ กอเจริญยศ",
+      "party": "เพื่อไทย",
+      "votes": 22302,
+      "good_votes": 80404,
+      "eligible": 129528
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "5",
+      "winner": "นางสาวจิราพร สินธุไพร",
+      "party": "เพื่อไทย",
+      "votes": 43787,
+      "good_votes": 72043,
+      "eligible": 133199
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "6",
+      "winner": "นายทองลี มีหินกอง",
+      "party": "เพื่อไทย",
+      "votes": 33696,
+      "good_votes": 76554,
+      "eligible": 130130
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "7",
+      "winner": "นายชัชวาล แพทยาไทย",
+      "party": "ไทยสร้างไทย",
+      "votes": 44414,
+      "good_votes": 81314,
+      "eligible": 134383
+    },
+    {
+      "changwat_code": "45",
+      "changwat": "ร้อยเอ็ด",
+      "khet": "8",
+      "winner": "นางสาวชญาภา สินธุไพร",
+      "party": "เพื่อไทย",
+      "votes": 26860,
+      "good_votes": 85433,
+      "eligible": 131264
+    },
+    {
+      "changwat_code": "46",
+      "changwat": "กาฬสินธุ์",
+      "khet": "1",
+      "winner": "นายวิรัช พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35888,
+      "good_votes": 83744,
+      "eligible": 131445
+    },
+    {
+      "changwat_code": "46",
+      "changwat": "กาฬสินธุ์",
+      "khet": "2",
+      "winner": "นายพลากร พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 43696,
+      "good_votes": 76321,
+      "eligible": 126190
+    },
+    {
+      "changwat_code": "46",
+      "changwat": "กาฬสินธุ์",
+      "khet": "3",
+      "winner": "นายจำลอง ภูนวนทา",
+      "party": "กล้าธรรม",
+      "votes": 27385,
+      "good_votes": 78033,
+      "eligible": 124253
+    },
+    {
+      "changwat_code": "46",
+      "changwat": "กาฬสินธุ์",
+      "khet": "4",
+      "winner": "นายณัฐวัชต์ พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35782,
+      "good_votes": 85649,
+      "eligible": 136385
+    },
+    {
+      "changwat_code": "46",
+      "changwat": "กาฬสินธุ์",
+      "khet": "5",
+      "winner": "นางสาวบุญญาภา นาชัยเวียง ปุณณนิฏฐา",
+      "party": "ภูมิใจไทย",
+      "votes": 48271,
+      "good_votes": 89758,
+      "eligible": 137299
+    },
+    {
+      "changwat_code": "46",
+      "changwat": "กาฬสินธุ์",
+      "khet": "6",
+      "winner": "นายชนะวุธ อุทโท",
+      "party": "เพื่อไทย",
+      "votes": 59665,
+      "good_votes": 91466,
+      "eligible": 135642
+    },
+    {
+      "changwat_code": "47",
+      "changwat": "สกลนคร",
+      "khet": "1",
+      "winner": "นายสิรภพ สมผล",
+      "party": "กล้าธรรม",
+      "votes": 27337,
+      "good_votes": 90090,
+      "eligible": 133562
+    },
+    {
+      "changwat_code": "47",
+      "changwat": "Sakon Nakhon",
+      "khet": "2",
+      "winner": "นายชาตรี หล้าพรหม",
+      "party": "กล้าธรรม",
+      "votes": 25737,
+      "good_votes": 83880,
+      "eligible": 131918
+    },
+    {
+      "changwat_code": "47",
+      "changwat": "สกลนคร",
+      "khet": "3",
+      "winner": "นางสาวจิรัชยา สัพโส",
+      "party": "เพื่อไทย",
+      "votes": 48088,
+      "good_votes": 78470,
+      "eligible": 133998
+    },
+    {
+      "changwat_code": "47",
+      "changwat": "สกลนคร",
+      "khet": "4",
+      "winner": "นายพัฒนา สัพโส",
+      "party": "เพื่อไทย",
+      "votes": 29887,
+      "good_votes": 75903,
+      "eligible": 132760
+    },
+    {
+      "changwat_code": "47",
+      "changwat": "สกลนคร",
+      "khet": "5",
+      "winner": "นางสาววงศ์อะเกื้อ บุญศล",
+      "party": "กล้าธรรม",
+      "votes": 27906,
+      "good_votes": 79654,
+      "eligible": 129748
+    },
+    {
+      "changwat_code": "47",
+      "changwat": "สกลนคร",
+      "khet": "6",
+      "winner": "นายบรม เอ่งฉ้วน",
+      "party": "ภูมิใจไทย",
+      "votes": 34892,
+      "good_votes": 75062,
+      "eligible": 130058
+    },
+    {
+      "changwat_code": "47",
+      "changwat": "สกลนคร",
+      "khet": "7",
+      "winner": "นายอิสรพงษ์ อุประ",
+      "party": "เพื่อไทย",
+      "votes": 23571,
+      "good_votes": 71830,
+      "eligible": 131938
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "winner": "นางสาวศุภพานี โพธิ์สุ",
+      "party": "ภูมิใจไทย",
+      "votes": 61803,
+      "good_votes": 94537,
+      "eligible": 143576
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "winner": "นางมนพร เจริญศรี",
+      "party": "เพื่อไทย",
+      "votes": 51176,
+      "good_votes": 85967,
+      "eligible": 143097
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "winner": "นายอลงกต มณีกาศ",
+      "party": "ภูมิใจไทย",
+      "votes": 37134,
+      "good_votes": 88863,
+      "eligible": 142454
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "winner": "นายชาญชัย คำจำปา",
+      "party": "เพื่อไทย",
+      "votes": 41312,
+      "good_votes": 92181,
+      "eligible": 144802
+    },
+    {
+      "changwat_code": "49",
+      "changwat": "มุกดาหาร",
+      "khet": "1",
+      "winner": "นายวิริยะ ทองผา",
+      "party": "ภูมิใจไทย",
+      "votes": 31342,
+      "good_votes": 98985,
+      "eligible": 141889
+    },
+    {
+      "changwat_code": "49",
+      "changwat": "มุกดาหาร",
+      "khet": "2",
+      "winner": "นายเลขาดำไตรสรณคมน์ หนองเรือง",
+      "party": "กล้าธรรม",
+      "votes": 42393,
+      "good_votes": 94225,
+      "eligible": 138474
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "winner": "นางสาวเพชรรัตน์ ใหม่ชมภู",
+      "party": "ประชาชน",
+      "votes": 47840,
+      "good_votes": 93695,
+      "eligible": 137824
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "winner": "นางสาวการณิก จันทดา",
+      "party": "ประชาชน",
+      "votes": 51532,
+      "good_votes": 101324,
+      "eligible": 143760
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "winner": "นายณัฐพล โตวิจักษณ์ชัยกุล",
+      "party": "ประชาชน",
+      "votes": 49235,
+      "good_votes": 99756,
+      "eligible": 139221
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "winner": "นางสาวพุธิตา ชัยอนันต์",
+      "party": "ประชาชน",
+      "votes": 49641,
+      "good_votes": 105843,
+      "eligible": 144891
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "winner": "นายสมชิด กันธะยา",
+      "party": "ประชาชน",
+      "votes": 39120,
+      "good_votes": 91933,
+      "eligible": 133210
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "winner": "นางสาวสุภานันท์ ปัญญาทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 33043,
+      "good_votes": 81574,
+      "eligible": 127678
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "winner": "นายการุณย์ คูเจริญชัยกุล",
+      "party": "กล้าธรรม",
+      "votes": 33492,
+      "good_votes": 90578,
+      "eligible": 133190
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "winner": "นายภัทรพงษ์ ลีลาภัทร์",
+      "party": "ประชาชน",
+      "votes": 57851,
+      "good_votes": 106179,
+      "eligible": 141156
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "winner": "นายนเรศ ธำรงค์ทิพยคุณ",
+      "party": "กล้าธรรม",
+      "votes": 43388,
+      "good_votes": 96198,
+      "eligible": 126132
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "winner": "นายนรพล ตันติมนตรี",
+      "party": "กล้าธรรม",
+      "votes": 34102,
+      "good_votes": 80699,
+      "eligible": 121655
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "winner": "นายวิทวิสิทธิ์ ปันสวนปลูก",
+      "party": "ประชาชน",
+      "votes": 66093,
+      "good_votes": 125326,
+      "eligible": 170916
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "winner": "นายชัชพีร์ วรรณาพิรัชย์",
+      "party": "ประชาชน",
+      "votes": 49316,
+      "good_votes": 116879,
+      "eligible": 162313
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "winner": "นางทิพา ปวีณาเสถียร",
+      "party": "ประชาชน",
+      "votes": 47614,
+      "good_votes": 98457,
+      "eligible": 146327
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "winner": "นายดาชัย เอกปฐพี",
+      "party": "กล้าธรรม",
+      "votes": 35828,
+      "good_votes": 98377,
+      "eligible": 150942
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "winner": "นายชลธานี เชื้อน้อย",
+      "party": "ประชาชน",
+      "votes": 41016,
+      "good_votes": 100661,
+      "eligible": 147051
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "winner": "นางสาวเพ็ญภัค รัตนคำฟู",
+      "party": "กล้าธรรม",
+      "votes": 38171,
+      "good_votes": 104442,
+      "eligible": 157730
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "winner": "นายพิชญุตม์ พอจิต",
+      "party": "ภูมิใจไทย",
+      "votes": 37418,
+      "good_votes": 80546,
+      "eligible": 118176
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "winner": "นางสาวรสรินทร์ ศรัณย์เกตุ",
+      "party": "โอกาสใหม่",
+      "votes": 31560,
+      "good_votes": 74992,
+      "eligible": 125051
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "winner": "นายรวี เล็กอุทัย",
+      "party": "เพื่อไทย",
+      "votes": 40926,
+      "good_votes": 74882,
+      "eligible": 123483
+    },
+    {
+      "changwat_code": "54",
+      "changwat": "แพร่",
+      "khet": "1",
+      "winner": "นางสาวชนกนันท์ ศุภศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 40738,
+      "good_votes": 92581,
+      "eligible": 122115
+    },
+    {
+      "changwat_code": "54",
+      "changwat": "แพร่",
+      "khet": "2",
+      "winner": "นายชนาธิป ศุภศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 54734,
+      "good_votes": 83283,
+      "eligible": 116303
+    },
+    {
+      "changwat_code": "54",
+      "changwat": "แพร่",
+      "khet": "3",
+      "winner": "นางสาวลักษณารีย์ ดวงตาดำ",
+      "party": "ประชาชน",
+      "votes": 23987,
+      "good_votes": 73590,
+      "eligible": 121732
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "winner": "นายประสิทธิ์ โนทะ",
+      "party": "กล้าธรรม",
+      "votes": 38228,
+      "good_votes": 90486,
+      "eligible": 129540
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "winner": "นายเจริญ อภิภัทรโกศล",
+      "party": "ประชาชน",
+      "votes": 26189,
+      "good_votes": 79242,
+      "eligible": 119751
+    },
+    {
+      "changwat_code": "56",
+      "changwat": "พะเยา",
+      "khet": "1",
+      "winner": "นายอัครา พรหมเผ่า",
+      "party": "กล้าธรรม",
+      "votes": 66739,
+      "good_votes": 91616,
+      "eligible": 124913
+    },
+    {
+      "changwat_code": "56",
+      "changwat": "พะเยา",
+      "khet": "2",
+      "winner": "นายอนุรัตน์ ตันบรรจง",
+      "party": "กล้าธรรม",
+      "votes": 55400,
+      "good_votes": 88518,
+      "eligible": 127935
+    },
+    {
+      "changwat_code": "56",
+      "changwat": "พะเยา",
+      "khet": "3",
+      "winner": "นายจีรเดช ศรีวิราช",
+      "party": "กล้าธรรม",
+      "votes": 59470,
+      "good_votes": 89651,
+      "eligible": 130337
+    },
+    {
+      "changwat_code": "57",
+      "changwat": "เชียงราย",
+      "khet": "1",
+      "winner": "นายธนรัช จงสุทธานามณี",
+      "party": "เพื่อไทย",
+      "votes": 44084,
+      "good_votes": 98917,
+      "eligible": 141608
+    },
+    {
+      "changwat_code": "57",
+      "changwat": "เชียงราย",
+      "khet": "2",
+      "winner": "นางสาวปิยะรัฐชย์ ติยะไพรัช",
+      "party": "เพื่อไทย",
+      "votes": 34901,
+      "good_votes": 88811,
+      "eligible": 132614
+    },
+    {
+      "changwat_code": "57",
+      "changwat": "เชียงราย",
+      "khet": "3",
+      "winner": "นายพิทักษ์ แสงคำ",
+      "party": "กล้าธรรม",
+      "votes": 34046,
+      "good_votes": 91475,
+      "eligible": 139953
+    },
+    {
+      "changwat_code": "57",
+      "changwat": "เชียงราย",
+      "khet": "4",
+      "winner": "นายสุรสิทธิ์ เจียมวิจักษณ์",
+      "party": "กล้าธรรม",
+      "votes": 34210,
+      "good_votes": 95195,
+      "eligible": 141565
+    },
+    {
+      "changwat_code": "57",
+      "changwat": "เชียงราย",
+      "khet": "5",
+      "winner": "นายรังสรรค์ วันไชยธนวงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 53198,
+      "good_votes": 91365,
+      "eligible": 132028
+    },
+    {
+      "changwat_code": "57",
+      "changwat": "เชียงราย",
+      "khet": "6",
+      "winner": "นางมลธิชา ไชยบาล",
+      "party": "กล้าธรรม",
+      "votes": 28526,
+      "good_votes": 76481,
+      "eligible": 126682
+    },
+    {
+      "changwat_code": "57",
+      "changwat": "เชียงราย",
+      "khet": "7",
+      "winner": "นายสุธีระพงษ์ วันไชยธนวงศ์",
+      "party": "กล้าธรรม",
+      "votes": 33398,
+      "good_votes": 89036,
+      "eligible": 134194
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "winner": "นายปกรณ์ จีนาคำ",
+      "party": "กล้าธรรม",
+      "votes": 35870,
+      "good_votes": 61134,
+      "eligible": 95247
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "winner": "นายสมบัติ ยะสินธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 24897,
+      "good_votes": 67196,
+      "eligible": 96023
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "winner": "นางสาวภัทราวดี นิโรจน์",
+      "party": "ภูมิใจไทย",
+      "votes": 48861,
+      "good_votes": 90110,
+      "eligible": 138722
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "winner": "นายชานนท์ ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 47296,
+      "good_votes": 96984,
+      "eligible": 137003
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "winner": "นายสัญญา นิลสุพรรณ",
+      "party": "กล้าธรรม",
+      "votes": 53454,
+      "good_votes": 90997,
+      "eligible": 146592
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "winner": "นายมารุต ศรีผึ้ง",
+      "party": "ภูมิใจไทย",
+      "votes": 55825,
+      "good_votes": 83748,
+      "eligible": 139645
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "winner": "นายพีระเดช ศิริวันสาณฑ์",
+      "party": "ภูมิใจไทย",
+      "votes": 61430,
+      "good_votes": 87228,
+      "eligible": 139526
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "winner": "นายประสาท ตันประเสริฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 36543,
+      "good_votes": 85258,
+      "eligible": 136823
+    },
+    {
+      "changwat_code": "61",
+      "changwat": "อุทัยธานี",
+      "khet": "1",
+      "winner": "นายเจเศรษฐ์ ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 56483,
+      "good_votes": 76524,
+      "eligible": 127311
+    },
+    {
+      "changwat_code": "61",
+      "changwat": "อุทัยธานี",
+      "khet": "2",
+      "winner": "นายชาดา ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 54284,
+      "good_votes": 77470,
+      "eligible": 134528
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "winner": "นายไผ่ ลิกค์",
+      "party": "กล้าธรรม",
+      "votes": 45347,
+      "good_votes": 90911,
+      "eligible": 144685
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "winner": "นายเพชรภูมิ อาภรณ์รัตน์",
+      "party": "กล้าธรรม",
+      "votes": 42302,
+      "good_votes": 97504,
+      "eligible": 147930
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "winner": "นายนพพล ผลอำนวย",
+      "party": "เพื่อไทย",
+      "votes": 33653,
+      "good_votes": 83994,
+      "eligible": 137857
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "winner": "นายสุรสิทธิ์ วงศ์วิทยานันท์",
+      "party": "เพื่อไทย",
+      "votes": 38450,
+      "good_votes": 86283,
+      "eligible": 138876
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "winner": "นายธนัสถ์ ทวีเกื้อกูลกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 37819,
+      "good_votes": 96390,
+      "eligible": 150581
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "winner": "นายชิงชัย ก่อประภากิจ",
+      "party": "กล้าธรรม",
+      "votes": 25259,
+      "good_votes": 61640,
+      "eligible": 136061
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "winner": "นายภาคภูมิ บูลย์ประมุข",
+      "party": "กล้าธรรม",
+      "votes": 30644,
+      "good_votes": 85954,
+      "eligible": 134495
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "winner": "นางสาวณัคนางค์ กุลนาถศิริ",
+      "party": "เพื่อไทย",
+      "votes": 30925,
+      "good_votes": 74658,
+      "eligible": 118249
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "winner": "นายชูศักดิ์ คีรีมาศทอง",
+      "party": "เพื่อไทย",
+      "votes": 32650,
+      "good_votes": 71207,
+      "eligible": 118270
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "winner": "นางสาวประภาพร ทองปากน้ำ",
+      "party": "เพื่อไทย",
+      "votes": 47516,
+      "good_votes": 73310,
+      "eligible": 120495
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "winner": "นายสมเจตน์ ลิมปะพันธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 48293,
+      "good_votes": 82780,
+      "eligible": 120229
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "1",
+      "winner": "นายณฐชนน ชนะบูรณาศักดิ์",
+      "party": "ประชาชน",
+      "votes": 34692,
+      "good_votes": 89782,
+      "eligible": 139505
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "2",
+      "winner": "นายนพพล เหลืองทองนารา",
+      "party": "เพื่อไทย",
+      "votes": 40429,
+      "good_votes": 88246,
+      "eligible": 147554
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "3",
+      "winner": "นายพงษ์มนู ทองหนัก",
+      "party": "ภูมิใจไทย",
+      "votes": 42353,
+      "good_votes": 87798,
+      "eligible": 142882
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "4",
+      "winner": "นายนิยม ช่างพินิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 42805,
+      "good_votes": 88736,
+      "eligible": 128190
+    },
+    {
+      "changwat_code": "65",
+      "changwat": "พิษณุโลก",
+      "khet": "5",
+      "winner": "นายจุติ ไกรฤกษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34149,
+      "good_votes": 87172,
+      "eligible": 132621
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "winner": "นายภัทรพงศ์ ภัทรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 53293,
+      "good_votes": 91069,
+      "eligible": 145512
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "winner": "นายวินัย ภัทรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 46639,
+      "good_votes": 83178,
+      "eligible": 140325
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "winner": "นายศิริวัฒน์ ขจรประศาสน์",
+      "party": "ภูมิใจไทย",
+      "votes": 39021,
+      "good_votes": 94660,
+      "eligible": 141664
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "winner": "นางสาวพิมพ์พร พรพฤฒิพันธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50631,
+      "good_votes": 80633,
+      "eligible": 131143
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "winner": "นายยุพราช บัวอินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 41515,
+      "good_votes": 95529,
+      "eligible": 131081
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "winner": "นายบุญชัย กิตติธราทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 39652,
+      "good_votes": 85510,
+      "eligible": 126659
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "winner": "นายวรโชติ สุคนธ์ขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 48590,
+      "good_votes": 72394,
+      "eligible": 126049
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "winner": "นางวันเพ็ญ พร้อมพัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 45747,
+      "good_votes": 73475,
+      "eligible": 132078
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "winner": "นายอัคร ทองใจสด",
+      "party": "ภูมิใจไทย",
+      "votes": 59008,
+      "good_votes": 81129,
+      "eligible": 137973
+    },
+    {
+      "changwat_code": "70",
+      "changwat": "ราชบุรี",
+      "khet": "1",
+      "winner": "นางสาวกุลวลี นพอมรบดี",
+      "party": "ภูมิใจไทย",
+      "votes": 56407,
+      "good_votes": 97874,
+      "eligible": 140141
+    },
+    {
+      "changwat_code": "70",
+      "changwat": "ราชบุรี",
+      "khet": "2",
+      "winner": "นางบุญยิ่ง นิติกาญจนา",
+      "party": "กล้าธรรม",
+      "votes": 43510,
+      "good_votes": 89818,
+      "eligible": 139159
+    },
+    {
+      "changwat_code": "70",
+      "changwat": "ราชบุรี",
+      "khet": "3",
+      "winner": "นายจตุพร กมลพันธ์ทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 51702,
+      "good_votes": 96267,
+      "eligible": 143882
+    },
+    {
+      "changwat_code": "70",
+      "changwat": "ราชบุรี",
+      "khet": "4",
+      "winner": "นายอัครเดช วงษ์พิทักษ์โรจน์",
+      "party": "ภูมิใจไทย",
+      "votes": 55778,
+      "good_votes": 107579,
+      "eligible": 140230
+    },
+    {
+      "changwat_code": "70",
+      "changwat": "ราชบุรี",
+      "khet": "5",
+      "winner": "นายบุญลือ ประเสริฐโสภา",
+      "party": "ภูมิใจไทย",
+      "votes": 45150,
+      "good_votes": 108560,
+      "eligible": 133773
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "winner": "นายอัครนันท์ กัณณ์กิตตินันท์",
+      "party": "เพื่อไทย",
+      "votes": 38572,
+      "good_votes": 85850,
+      "eligible": 133198
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "winner": "นายชูเกียรติ จีนาภักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 39327,
+      "good_votes": 97680,
+      "eligible": 131663
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "winner": "นายยศวัฒน์ มาไพศาลสิน",
+      "party": "ภูมิใจไทย",
+      "votes": 50759,
+      "good_votes": 107950,
+      "eligible": 136011
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "winner": "นางสาววิสุดา วิเชียรศิลป์",
+      "party": "ภูมิใจไทย",
+      "votes": 52505,
+      "good_votes": 82897,
+      "eligible": 133796
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "winner": "นายพนม โพธิ์แก้ว",
+      "party": "เพื่อไทย",
+      "votes": 39023,
+      "good_votes": 82962,
+      "eligible": 122645
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "winner": "นายสรชัด สุจิตต์",
+      "party": "ภูมิใจไทย",
+      "votes": 63205,
+      "good_votes": 94634,
+      "eligible": 135381
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "winner": "นายณัฐวุฒิ ประเสริฐสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 45546,
+      "good_votes": 84520,
+      "eligible": 129576
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "winner": "นายณัฐชาติ วงศ์ประเสริฐ",
+      "party": "กล้าธรรม",
+      "votes": 47179,
+      "good_votes": 101452,
+      "eligible": 130523
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "winner": "นายเสมอกัน เที่ยงธรรม",
+      "party": "ภูมิใจไทย",
+      "votes": 58049,
+      "good_votes": 90996,
+      "eligible": 137556
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "winner": "นายประภัตร โพธสุธน",
+      "party": "ภูมิใจไทย",
+      "votes": 60036,
+      "good_votes": 98539,
+      "eligible": 144799
+    },
+    {
+      "changwat_code": "73",
+      "changwat": "นครปฐม",
+      "khet": "1",
+      "winner": "นายศุภโชค ศรีสุขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 57347,
+      "good_votes": 95931,
+      "eligible": 129731
+    },
+    {
+      "changwat_code": "73",
+      "changwat": "นครปฐม",
+      "khet": "2",
+      "winner": "พันโท สินธพ แก้วพิจิตร",
+      "party": "กล้าธรรม",
+      "votes": 44487,
+      "good_votes": 88517,
+      "eligible": 120935
+    },
+    {
+      "changwat_code": "73",
+      "changwat": "นครปฐม",
+      "khet": "3",
+      "winner": "นายพาณุวัฒณ์ สะสมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 48099,
+      "good_votes": 83624,
+      "eligible": 119354
+    },
+    {
+      "changwat_code": "73",
+      "changwat": "นครปฐม",
+      "khet": "4",
+      "winner": "พันเอก สุขชาต สะสมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 50336,
+      "good_votes": 97930,
+      "eligible": 128771
+    },
+    {
+      "changwat_code": "73",
+      "changwat": "นครปฐม",
+      "khet": "5",
+      "winner": "นายอนุชา สะสมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 40896,
+      "good_votes": 99742,
+      "eligible": 131064
+    },
+    {
+      "changwat_code": "73",
+      "changwat": "นครปฐม",
+      "khet": "6",
+      "winner": "นายชลพฤกษ วงศ์อรุณนิยม",
+      "party": "ประชาชน",
+      "votes": 38535,
+      "good_votes": 89774,
+      "eligible": 126887
+    },
+    {
+      "changwat_code": "74",
+      "changwat": "สมุทรสาคร",
+      "khet": "1",
+      "winner": "นายณัฐพงษ์ สุมโนธรรม",
+      "party": "ประชาชน",
+      "votes": 32553,
+      "good_votes": 80970,
+      "eligible": 119400
+    },
+    {
+      "changwat_code": "74",
+      "changwat": "สมุทรสาคร",
+      "khet": "2",
+      "winner": "นายอนุสรณ์ ไกรวัตนุสสรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34749,
+      "good_votes": 78050,
+      "eligible": 119053
+    },
+    {
+      "changwat_code": "74",
+      "changwat": "สมุทรสาคร",
+      "khet": "3",
+      "winner": "นายศิริโรจน์ ธนิกกุล",
+      "party": "ประชาชน",
+      "votes": 30787,
+      "good_votes": 74704,
+      "eligible": 111970
+    },
+    {
+      "changwat_code": "74",
+      "changwat": "สมุทรสาคร",
+      "khet": "4",
+      "winner": "นายปัญญา ซวนบุญ",
+      "party": "ภูมิใจไทย",
+      "votes": 42758,
+      "good_votes": 78327,
+      "eligible": 112307
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "winner": "นายอานุภาพ ลิขิตอำนวยชัย",
+      "party": "ประชาชน",
+      "votes": 39592,
+      "good_votes": 101938,
+      "eligible": 156144
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "winner": "นางธิวัลรัตน์ อังกินันทน์",
+      "party": "ภูมิใจไทย",
+      "votes": 61734,
+      "good_votes": 89618,
+      "eligible": 125465
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "winner": "นายฤกษ์ อยู่ดี",
+      "party": "ภูมิใจไทย",
+      "votes": 67251,
+      "good_votes": 95907,
+      "eligible": 139314
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "winner": "จ่าอากาศเอก อภิชาติ แก้วโกศล",
+      "party": "ภูมิใจไทย",
+      "votes": 71153,
+      "good_votes": 95005,
+      "eligible": 131561
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "winner": "นายสังคม แดงโชติ",
+      "party": "ภูมิใจไทย",
+      "votes": 51582,
+      "good_votes": 112249,
+      "eligible": 152841
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "winner": "นายจักพันธ์ ปิยพรไพบูลย์",
+      "party": "กล้าธรรม",
+      "votes": 43420,
+      "good_votes": 96454,
+      "eligible": 146320
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "winner": "นายพงษ์พันธ์ เผ่าประทาน",
+      "party": "ภูมิใจไทย",
+      "votes": 33978,
+      "good_votes": 98409,
+      "eligible": 138338
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "winner": "นายทรงศักดิ์ มุสิกอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 39225,
+      "good_votes": 91623,
+      "eligible": 132977
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "2",
+      "winner": "นางสาวนันทวัน วิเชียร",
+      "party": "ภูมิใจไทย",
+      "votes": 45334,
+      "good_votes": 91714,
+      "eligible": 141832
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "winner": "นายพิทักษ์เดช เดชเดโช",
+      "party": "ประชาธิปัตย์",
+      "votes": 47554,
+      "good_votes": 93045,
+      "eligible": 133600
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "winner": "นางกนกพร เดชเดโช",
+      "party": "ประชาธิปัตย์",
+      "votes": 44890,
+      "good_votes": 97047,
+      "eligible": 135858
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "winner": "นายสมศักดิ์ แสงอารยะกุล",
+      "party": "กล้าธรรม",
+      "votes": 36801,
+      "good_votes": 100294,
+      "eligible": 140274
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "winner": "นายจอมไกร สวัสดิวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 43293,
+      "good_votes": 100028,
+      "eligible": 134535
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "winner": "นายอภินันท์ สโมสร",
+      "party": "ภูมิใจไทย",
+      "votes": 38684,
+      "good_votes": 82744,
+      "eligible": 136273
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "winner": "นางอวยพรศรี เชาวลิต",
+      "party": "ภูมิใจไทย",
+      "votes": 54040,
+      "good_votes": 92847,
+      "eligible": 136225
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "winner": "นางสาวพิมพ์ภัทรา วิชัยกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 46473,
+      "good_votes": 96071,
+      "eligible": 139759
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "winner": "นายกิตติ กิตติธรกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 50493,
+      "good_votes": 90061,
+      "eligible": 128645
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "winner": "นายถิรเดช ตั้งมั่นก่อกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 42714,
+      "good_votes": 78999,
+      "eligible": 117641
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "winner": "นายกิตติชัย เอ่งฉ้วน",
+      "party": "ภูมิใจไทย",
+      "votes": 47416,
+      "good_votes": 87853,
+      "eligible": 124286
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "winner": "นายอรรถพล ไตรศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 36274,
+      "good_votes": 66345,
+      "eligible": 100343
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "winner": "นายฉกาจ พัฒนกิจวิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 26513,
+      "good_votes": 75502,
+      "eligible": 110773
+    },
+    {
+      "changwat_code": "83",
+      "changwat": "ภูเก็ต",
+      "khet": "1",
+      "winner": "ว่าที่ร้อยตรีสมชาติ เตชถาวรเจริญ",
+      "party": "ประชาชน",
+      "votes": 19558,
+      "good_votes": 66360,
+      "eligible": 103958
+    },
+    {
+      "changwat_code": "83",
+      "changwat": "ภูเก็ต",
+      "khet": "2",
+      "winner": "นายเฉลิมพงศ์ แสงดี",
+      "party": "ประชาชน",
+      "votes": 24877,
+      "good_votes": 63459,
+      "eligible": 107981
+    },
+    {
+      "changwat_code": "83",
+      "changwat": "ภูเก็ต",
+      "khet": "3",
+      "winner": "นางสาวอรทัย เกิดทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 30360,
+      "good_votes": 75128,
+      "eligible": 117627
+    },
+    {
+      "changwat_code": "84",
+      "changwat": "สุราษฎร์ธานี",
+      "khet": "1",
+      "winner": "นางสาวกานสินี โอภาสรังสรรค์",
+      "party": "ภูมิใจไทย",
+      "votes": 27647,
+      "good_votes": 76258,
+      "eligible": 117091
+    },
+    {
+      "changwat_code": "84",
+      "changwat": "สุราษฎร์ธานี",
+      "khet": "2",
+      "winner": "นายพิพิธ รัตนรักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 27071,
+      "good_votes": 81419,
+      "eligible": 118867
+    },
+    {
+      "changwat_code": "84",
+      "changwat": "สุราษฎร์ธานี",
+      "khet": "3",
+      "winner": "นางสาววชิราภรณ์ กาญจนะ",
+      "party": "ไทรวมพลัง",
+      "votes": 39958,
+      "good_votes": 88689,
+      "eligible": 120055
+    },
+    {
+      "changwat_code": "84",
+      "changwat": "สุราษฎร์ธานี",
+      "khet": "4",
+      "winner": "นายสมชาติ ประดิษฐพร",
+      "party": "ประชาธิปัตย์",
+      "votes": 43384,
+      "good_votes": 94443,
+      "eligible": 123380
+    },
+    {
+      "changwat_code": "84",
+      "changwat": "สุราษฎร์ธานี",
+      "khet": "5",
+      "winner": "นายปรเมษฐ์ จินา",
+      "party": "กล้าธรรม",
+      "votes": 30967,
+      "good_votes": 88782,
+      "eligible": 121937
+    },
+    {
+      "changwat_code": "84",
+      "changwat": "สุราษฎร์ธานี",
+      "khet": "6",
+      "winner": "นายพิชัย ชมภูพล",
+      "party": "ภูมิใจไทย",
+      "votes": 31707,
+      "good_votes": 98147,
+      "eligible": 125056
+    },
+    {
+      "changwat_code": "84",
+      "changwat": "สุราษฎร์ธานี",
+      "khet": "7",
+      "winner": "นายพงษ์ศักดิ์ จ่าแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 40358,
+      "good_votes": 92005,
+      "eligible": 120275
+    },
+    {
+      "changwat_code": "85",
+      "changwat": "ระนอง",
+      "khet": "1",
+      "winner": "นายคงกฤษ ฉัตรมาลีรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 59363,
+      "good_votes": 83719,
+      "eligible": 143308
+    },
+    {
+      "changwat_code": "86",
+      "changwat": "ชุมพร",
+      "khet": "1",
+      "winner": "นายวิชัย สุดสวาสดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 45966,
+      "good_votes": 96247,
+      "eligible": 137061
+    },
+    {
+      "changwat_code": "86",
+      "changwat": "ชุมพร",
+      "khet": "2",
+      "winner": "นายกิตติศักดิ์ พรหมรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 35467,
+      "good_votes": 101248,
+      "eligible": 136820
+    },
+    {
+      "changwat_code": "86",
+      "changwat": "ชุมพร",
+      "khet": "3",
+      "winner": "นายสุพล จุลใส",
+      "party": "ภูมิใจไทย",
+      "votes": 42913,
+      "good_votes": 94965,
+      "eligible": 135755
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "winner": "นายสรรเพชญ บุญญามณี",
+      "party": "ภูมิใจไทย",
+      "votes": 44252,
+      "good_votes": 86955,
+      "eligible": 128135
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "winner": "นายจูรี นุ่มแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 32205,
+      "good_votes": 78663,
+      "eligible": 108624
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "winner": "นายสมยศ พลายด้วง",
+      "party": "ภูมิใจไทย",
+      "votes": 36656,
+      "good_votes": 93176,
+      "eligible": 133682
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "winner": "นายชนนพัฒฐ์ นาคสั้ว",
+      "party": "กล้าธรรม",
+      "votes": 45863,
+      "good_votes": 95854,
+      "eligible": 126618
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "winner": "นายวงศ์วชร ขาวทอง",
+      "party": "กล้าธรรม",
+      "votes": 51130,
+      "good_votes": 93808,
+      "eligible": 129703
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "winner": "นายอนุกูล พฤกษานุศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 48391,
+      "good_votes": 88960,
+      "eligible": 115747
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "winner": "นายณัฏฐ์ชนน ศรีก่อเกื้อ",
+      "party": "ภูมิใจไทย",
+      "votes": 36128,
+      "good_votes": 93120,
+      "eligible": 126580
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "winner": "พล.ต.ต.สุรินทร์ ปาลาเร่",
+      "party": "กล้าธรรม",
+      "votes": 43540,
+      "good_votes": 94569,
+      "eligible": 120456
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "winner": "นายศักดิ์สิทธิ์ ขาวทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 49475,
+      "good_votes": 100486,
+      "eligible": 135934
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "winner": "นายพีรพัฒน์ รัชกิจประการ",
+      "party": "ภูมิใจไทย",
+      "votes": 38100,
+      "good_votes": 81311,
+      "eligible": 116489
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "winner": "นายวรศิษฎ์ เลียงประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 56595,
+      "good_votes": 90555,
+      "eligible": 129527
+    },
+    {
+      "changwat_code": "92",
+      "changwat": "ตรัง",
+      "khet": "1",
+      "winner": "นายเอกพล ณ พัทลุง",
+      "party": "ภูมิใจไทย",
+      "votes": 35584,
+      "good_votes": 90521,
+      "eligible": 124216
+    },
+    {
+      "changwat_code": "92",
+      "changwat": "ตรัง",
+      "khet": "2",
+      "winner": "นายทวี สุระบาล",
+      "party": "ภูมิใจไทย",
+      "votes": 42668,
+      "good_votes": 95121,
+      "eligible": 131993
+    },
+    {
+      "changwat_code": "92",
+      "changwat": "ตรัง",
+      "khet": "3",
+      "winner": "นายกฤตย์อิชย์ ภาคย์อิชณน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 46916,
+      "good_votes": 88101,
+      "eligible": 125344
+    },
+    {
+      "changwat_code": "92",
+      "changwat": "ตรัง",
+      "khet": "4",
+      "winner": "นายกาญจน์ ตั้งปอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 50809,
+      "good_votes": 93671,
+      "eligible": 128358
+    },
+    {
+      "changwat_code": "93",
+      "changwat": "พัทลุง",
+      "khet": "1",
+      "winner": "นาวาอากาศเอกอธิคุณ คงมี",
+      "party": "ภูมิใจไทย",
+      "votes": 42209,
+      "good_votes": 108788,
+      "eligible": 134471
+    },
+    {
+      "changwat_code": "93",
+      "changwat": "พัทลุง",
+      "khet": "2",
+      "winner": "นายวรท เทอดวีระพงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 58926,
+      "good_votes": 117079,
+      "eligible": 144343
+    },
+    {
+      "changwat_code": "93",
+      "changwat": "พัทลุง",
+      "khet": "3",
+      "winner": "นายจรัญ จันทร์แก้ว",
+      "party": "กล้าธรรม",
+      "votes": 47653,
+      "good_votes": 108849,
+      "eligible": 143511
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "winner": "นายบาฮารุดดีน ยูโซะ",
+      "party": "ภูมิใจไทย",
+      "votes": 24377,
+      "good_votes": 69214,
+      "eligible": 95574
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "winner": "นายคอซีย์ มามุ",
+      "party": "ภูมิใจไทย",
+      "votes": 38541,
+      "good_votes": 75926,
+      "eligible": 110666
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "winner": "นายบูรฮันธ์ สาเม๊าะ",
+      "party": "ภูมิใจไทย",
+      "votes": 30337,
+      "good_votes": 65804,
+      "eligible": 99188
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "winner": "นายยูนัยดี วาบา",
+      "party": "กล้าธรรม",
+      "votes": 30170,
+      "good_votes": 80409,
+      "eligible": 110256
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "winner": "นายสาเหะมูหามัด อัลอิดรุส",
+      "party": "ภูมิใจไทย",
+      "votes": 34313,
+      "good_votes": 73268,
+      "eligible": 109944
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "winner": "นายสุไลมาน บือแนปีแน",
+      "party": "ประชาชาติ",
+      "votes": 31446,
+      "good_votes": 90522,
+      "eligible": 130009
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "winner": "นายซูการ์โน มะทา",
+      "party": "ประชาชาติ",
+      "votes": 46972,
+      "good_votes": 87642,
+      "eligible": 134281
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "winner": "นายอับดุลอายี สาแม็ง",
+      "party": "ประชาชาติ",
+      "votes": 34910,
+      "good_votes": 86878,
+      "eligible": 131474
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "winner": "นายลุตฟี หะยีอีแต",
+      "party": "กล้าธรรม",
+      "votes": 40637,
+      "good_votes": 93825,
+      "eligible": 129176
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "winner": "นายอามินทร์ มะยูโต๊ะ",
+      "party": "กล้าธรรม",
+      "votes": 43544,
+      "good_votes": 70635,
+      "eligible": 113207
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "winner": "นายสัมพันธ์ มะยูโซะ",
+      "party": "กล้าธรรม",
+      "votes": 36480,
+      "good_votes": 79299,
+      "eligible": 112278
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "winner": "นายซาการียา สะอิ",
+      "party": "ภูมิใจไทย",
+      "votes": 42262,
+      "good_votes": 83440,
+      "eligible": 116934
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "winner": "นายกมลศักดิ์ ลีวาเมาะ",
+      "party": "ประชาชาติ",
+      "votes": 47012,
+      "good_votes": 88775,
+      "eligible": 125332
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 — ผู้ชนะรายเขต (397 เขต) - ดาวน์โหลดฟรี",
+    "description": "สรุปผู้ชนะเลือกตั้งแบ่งเขต ปี 2569 — ชื่อผู้ชนะ พรรค คะแนน จำนวนผู้มีสิทธิ และผู้มาใช้สิทธิ มีทั้งหมด 397 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 — ผู้ชนะรายเขต (397 เขต) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 — ผู้ชนะรายเขต (397 เขต) — 397 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 397 รายการ / 8 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

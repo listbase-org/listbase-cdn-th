@@ -1,0 +1,160 @@
+{
+  "id": "th-surin-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดสุรินทร์ 2562 (Surin 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดสุรินทร์ 2562 (Surin 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสุรินทร์ ในการเลือกตั้งทั่วไป 2562 จำนวน 7 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Surin province during the Thailand 24-March-2019 general election. 7 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 280,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "province_slug": "surin",
+      "zone_number": 1,
+      "area_count": 3,
+      "amphoes": "ปราสาท, ลำดวน, เมืองสุรินทร์",
+      "areas_detail": "ปราสาท: ประทัดบุ,บ้านไทร,ไพล,สมุด,เชื้อเพลิง,ทมอ,ทุ่งมน,โคกยาง: : , ลำดวน: : ตรำดม: , เมืองสุรินทร์: คอโค,สวาย,เทนมีย์,สำโรง,ตาอ็อง,นาบัว,ตระแสง,เฉนียง,นอกเมือง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 281,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "province_slug": "surin",
+      "zone_number": 2,
+      "area_count": 3,
+      "amphoes": "ศีขรภูมิ, เขวาสินรินทร์, เมืองสุรินทร์",
+      "areas_detail": "ศีขรภูมิ: ช่างปี่,จารพัต: : , เขวาสินรินทร์: : : , เมืองสุรินทร์: : คอโค,สวาย,เทนมีย์,สำโรง,ตระแสง,นาบัว,ตาอ็อง,เฉนียง,นอกเมือง: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 282,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "province_slug": "surin",
+      "zone_number": 3,
+      "area_count": 5,
+      "amphoes": "จอมพระ, ท่าตูม, รัตนบุรี, สนม, โนนนารายณ์",
+      "areas_detail": "จอมพระ: : : , ท่าตูม: บะ,กระโพ,บัวโคก,เมืองแก,หนองเมธี: : , รัตนบุรี: ยางสว่าง,เบิด,หนองบัวบาน: : , สนม: สนม,นานวน,หนองอียอ,หนองระฆัง,แคน: : , โนนนารายณ์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 283,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "province_slug": "surin",
+      "zone_number": 4,
+      "area_count": 4,
+      "amphoes": "ชุมพลบุรี, ท่าตูม, รัตนบุรี, สนม",
+      "areas_detail": "ชุมพลบุรี: : : , ท่าตูม: : บะ,กระโพ,บัวโคก,เมืองแก,หนองเมธี: , รัตนบุรี: : ยางสว่าง,เบิด,หนองบัวบาน: , สนม: โพนโก: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 284,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "province_slug": "surin",
+      "zone_number": 5,
+      "area_count": 5,
+      "amphoes": "ลำดวน, ศรีณรงค์, ศีขรภูมิ, สนม, สำโรงทาบ",
+      "areas_detail": "ลำดวน: ตรำดม: : , ศรีณรงค์: ตรวจ,แจนแวน: : , ศีขรภูมิ: : ช่างปี่,จารพัต: , สนม: หัวงัว: : , สำโรงทาบ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 285,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "province_slug": "surin",
+      "zone_number": 6,
+      "area_count": 3,
+      "amphoes": "บัวเชด, ศรีณรงค์, สังขะ",
+      "areas_detail": "บัวเชด: : : , ศรีณรงค์: : ตรวจ,แจนแวน: , สังขะ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 286,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "province_slug": "surin",
+      "zone_number": 7,
+      "area_count": 3,
+      "amphoes": "กาบเชิง, ปราสาท, พนมดงรัก",
+      "areas_detail": "กาบเชิง: : : , ปราสาท: : ประทัดบุ,บ้านไทร,ไพล,ทุ่งมน,สมุด,เชื้อเพลิง,ทมอ,โคกยาง: , พนมดงรัก: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดสุรินทร์ 2562 (Surin 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสุรินทร์ ในการเลือกตั้งทั่วไป 2562 จำนวน 7 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Surin province during the Thailand 24-March-2019 general election. 7 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 7 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดสุรินทร์ 2562 (Surin 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดสุรินทร์ 2562 (Surin 2019 Election Constituencies) — 7 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 7 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

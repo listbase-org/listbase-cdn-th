@@ -1,0 +1,4616 @@
+{
+  "id": "th-buri-ram-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — บุรีรัมย์ (Buri Ram party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — บุรีรัมย์ (Buri Ram party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดบุรีรัมย์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 570,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 137
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 534
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 349
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 91
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1967
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 632
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 88
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 646
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 4980
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 202
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1607
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 164
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 234
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1114
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 49
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 397
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 188
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 99
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 68
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 237
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 300
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 192
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 47958
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 168
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 43
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 68
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 88
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16650
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 124
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 168
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 125
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 173
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 576
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 321
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 110
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2300
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 595
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 105
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 655
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 4714
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 187
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1609
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 281
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 37
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 280
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1006
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 51
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 269
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 244
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 123
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 88
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 356
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 319
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 45437
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 178
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 66
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 13822
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 167
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 92
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 10
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 28
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1984
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 538
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 177
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 373
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 650
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 100
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 602
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 4805
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 158
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 1276
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 237
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 167
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 13
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 858
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 76
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 163
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 314
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 305
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 112
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 127
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 213
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 44617
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 200
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 85
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 41
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 13202
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 156
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 78
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 55
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 268
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1156
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2680
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 173
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 728
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 720
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 156
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 515
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 7364
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 194
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1881
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 198
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 382
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 128
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1405
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 68
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 183
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 104
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 265
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 279
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 225
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 35215
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 218
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 47
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 104
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 13215
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 204
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 66
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 3
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 66
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 47
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 663
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 728
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 203
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 285
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 427
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2334
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 130
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 649
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8952
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 173
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1786
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 272
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 166
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 20
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1480
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 77
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 185
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 163
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 193
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 117
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 253
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 708
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 40093
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 252
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 86
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 14597
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 366
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 107
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 37
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 53
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 636
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1026
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 223
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1538
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 463
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 626
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 97
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 639
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6726
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 240
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2001
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 297
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1191
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 56
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 219
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 249
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 137
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 236
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 313
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 91
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 208
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 41500
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 243
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 113
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 51
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 13468
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 164
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 299
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 98
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 35
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 66
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 331
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 687
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 934
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 115
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 2574
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 695
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 107
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 575
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 10612
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 204
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2518
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 292
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 138
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 128
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 882
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 76
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 162
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 285
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 156
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 94
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 274
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 274
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 208
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 36407
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 292
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 53
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 75
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 13949
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 200
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 76
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 82
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 465
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 740
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 202
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 151
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3011
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 844
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 328
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 661
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 7277
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 279
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2896
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 236
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 354
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 143
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 25
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1451
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 76
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 266
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 263
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 126
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 264
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 334
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 225
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 39318
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 199
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 97
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16425
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 123
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 184
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 107
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 220
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 534
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 292
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 111
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2406
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 930
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 88
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 672
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6089
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 270
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3448
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 172
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 272
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 133
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 101
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 45
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1139
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 67
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 230
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 245
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 112
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 66
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 192
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 276
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 214
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 41216
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 187
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 320
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 40
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 12065
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 155
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 29
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "9",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 386
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 2758
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 237
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 85
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 289
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 598
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 169
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 625
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 4641
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 192
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2087
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 211
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 190
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 51
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 112
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "24",
+      "party": "วิชซั่นใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1743
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 53
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 216
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 127
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 340
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 211
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 84
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 392
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 40255
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 170
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 42
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 48
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 12025
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 131
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 67
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "31",
+      "changwat": "บุรีรัมย์",
+      "khet": "10",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 50
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — บุรีรัมย์ (Buri Ram party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดบุรีรัมย์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 570 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — บุรีรัมย์ (Buri Ram party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — บุรีรัมย์ (Buri Ram party-list ballots) — 570 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 570 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

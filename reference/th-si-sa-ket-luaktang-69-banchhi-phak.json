@@ -1,0 +1,4160 @@
+{
+  "id": "th-si-sa-ket-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ศรีสะเกษ (Si Sa Ket party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ศรีสะเกษ (Si Sa Ket party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดศรีสะเกษ. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 513,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 264
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 998
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1115
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 106
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2222
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1011
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 94
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 539
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 25832
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2141
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 460
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 353
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 209
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 98
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 150
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 157
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1518
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 79
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 405
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 175
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 195
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 216
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 152
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 29342
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 540
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 74
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 81
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 103
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22305
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 353
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 212
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 6
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 25
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "1",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 347
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 4912
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 495
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 2107
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 634
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 792
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 94
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 431
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 25212
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 285
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2991
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 478
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 592
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 263
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 14
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 237
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 1038
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 91
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 196
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 428
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 177
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 287
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 239
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 177
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 17903
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 481
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 61
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 192
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 72
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 16099
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 135
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 579
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 188
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "2",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 393
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1591
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 457
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2958
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1490
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 816
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 344
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 510
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 17697
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 329
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4044
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 391
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 481
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 89
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 255
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 168
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 1475
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 73
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1522
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 89
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 236
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 272
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 161
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 362
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 230
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 359
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20441
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 403
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 64
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 96
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 148
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 331
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 15195
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 388
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 111
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 25
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 534
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2552
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 350
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2403
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 646
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1040
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 149
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 557
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10492
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 286
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 5863
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 322
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 333
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 144
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 3126
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 129
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1246
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 83
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 284
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 114
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 320
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 217
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 264
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 266
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 130
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 184
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 26965
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 260
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 129
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1630
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 113
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 13876
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 300
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 107
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 27
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 295
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1382
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 292
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2192
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2485
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1123
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 163
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 584
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19832
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 317
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3407
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 259
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 377
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 209
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 169
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 38
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 860
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1132
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 85
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 241
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 254
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 153
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 268
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 303
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 173
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 168
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 23418
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 389
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 59
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 65
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 134
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16048
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 228
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 112
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 23
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 67
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 538
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3310
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 279
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2213
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 434
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 898
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 126
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 703
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 23357
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 258
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2209
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 227
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 363
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 184
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 136
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 125
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1053
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 70
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 185
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 128
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 392
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 234
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 255
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 181
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 21166
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 474
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 73
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 40
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 158
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16674
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 149
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 25
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 48
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "1",
+      "party": "พรรคที่ 1",
+      "votes": 0
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2387
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1153
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 224
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 127
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2595
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 122
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 419
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 31498
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 286
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1725
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 219
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 295
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 212
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 27
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 132
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 784
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 68
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 150
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 283
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 208
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 104
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 270
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 165
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 17847
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 638
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 60
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 15171
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 198
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 108
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 4
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 6
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 18
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 369
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3054
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 260
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 570
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 367
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 677
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 88
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 548
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19414
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 225
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1961
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 306
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 406
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 12
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 87
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 27
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 989
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 77
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 240
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 110
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 375
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 185
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 159
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 163
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 351
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 30867
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 443
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 67
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 101
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 86
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19149
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 158
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 350
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 166
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 24
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 535
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 4094
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 268
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 114
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 466
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 732
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 66
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 375
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 33299
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 2208
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2050
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 329
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 405
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 138
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 309
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 112
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 22
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 107
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 1033
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 89
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 203
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 144
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 414
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 184
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 140
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 17999
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 678
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 239
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 62
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 1106
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 173
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 17898
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 123
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 374
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 147
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 13
+    },
+    {
+      "changwat_code": "33",
+      "changwat": "ศรีสะเกษ",
+      "khet": "9",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 50
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ศรีสะเกษ (Si Sa Ket party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดศรีสะเกษ. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 513 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ศรีสะเกษ (Si Sa Ket party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ศรีสะเกษ (Si Sa Ket party-list ballots) — 513 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 513 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

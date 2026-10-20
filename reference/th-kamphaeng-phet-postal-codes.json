@@ -1,0 +1,144 @@
+{
+  "id": "th-kamphaeng-phet-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดกำแพงเพชร (Kamphaeng Phet Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดกำแพงเพชร (Kamphaeng Phet Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดกำแพงเพชร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Kamphaeng Phet province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 62000,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6201: เมืองกำแพงเพชร: Mueang Kamphaeng Phet, 6211: โกสัมพีนคร: Kosamphi Nakhon",
+      "subdistricts": "620101: ในเมือง: Nai Mueang: 6201, 620103: อ่างทอง: Ang Thong: 6201, 620104: นาบ่อคำ: Na Bo Kham: 6201, 620105: นครชุม: Nakhon Chum: 6201, 620106: ทรงธรรม: Songtham: 6201, 620107: ลานดอกไม้: Lan Dokmai: 6201, 620110: หนองปลิง: Nong Pling: 6201, 620111: คณฑี: Kon Ti: 6201, 620112: นิคมทุ่งโพธิ์ทะเล: Nikhom Thung Pho Thale: 6201, 620113: เทพนคร: Thep Nakhon: 6201, 620114: วังทอง: Wang Thong: 6201, 620115: ท่าขุนราม: Tha Khun Ram: 6201, 620117: คลองแม่ลาย: Khlong Mae Lai: 6201, 620119: สระแก้ว: Sa Kaeo: 6201, 621101: โกสัมพี: Kosamphi: 6211, 621102: เพชรชมภู: Phet Chomphu: 6211, 621103: ลานดอกไม้ตก: Lan Dokmai Tok: 6211"
+    },
+    {
+      "postal_code": 62110,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6206: พรานกระต่าย: Phran Kratai",
+      "subdistricts": "620601: พรานกระต่าย: Phran Kratai: 6206, 620602: หนองหัววัว: Nong Hua Wua: 6206, 620603: ท่าไม้: Tha Mai: 6206, 620604: วังควง: Wang Khuang: 6206, 620605: วังตะแบก: Wang Tabaek: 6206, 620606: เขาคีริส: Khao Khirit: 6206, 620607: คุยบ้านโอง: Khui Ban Ong: 6206, 620608: คลองพิไกร: Khlong Phikrai: 6206, 620609: ถ้ำกระต่ายทอง: Tham Kratai Thong: 6206, 620610: ห้วยยั้ง: Huai Yang: 6206"
+    },
+    {
+      "postal_code": 62120,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6205: คลองขลุง: Khlong Khlung, 6209: ปางศิลาทอง: Pang Sila Thong",
+      "subdistricts": "620501: คลองขลุง: Khlong Khlung: 6205, 620502: ท่ามะเขือ: Tha Makhuea: 6205, 620504: ท่าพุทรา: Tha Phutsa: 6205, 620505: แม่ลาด: Mae Lat: 6205, 620506: วังยาง: Wang Yang: 6205, 620507: วังแขม: Wang Khaem: 6205, 620508: หัวถนน: Hua Thanon: 6205, 620509: วังไทร: Wang Sai: 6205, 620513: วังบัว: Wang Bua: 6205, 620516: คลองสมบูรณ์: Khlong Sombun: 6205, 620901: โพธิ์ทอง: Pho Thong: 6209, 620902: หินดาต: Hin Dat: 6209, 620903: ปางตาไว: Pang Ta Wai: 6209"
+    },
+    {
+      "postal_code": 62130,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6204: ขาณุวรลักษบุรี: Khanu Woralaksaburi",
+      "subdistricts": "620403: ยางสูง: Yang Sung: 6204, 620404: ป่าพุทรา: Pa Phutsa: 6204, 620405: แสนตอ: Saen To: 6204, 620413: เกาะตาล: Ko Tan: 6204"
+    },
+    {
+      "postal_code": 62140,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6204: ขาณุวรลักษบุรี: Khanu Woralaksaburi",
+      "subdistricts": "620406: สลกบาตร: Salok Bat: 6204, 620407: บ่อถ้ำ: Bo Tham: 6204, 620408: ดอนแตง: Don Taeng: 6204, 620409: วังชะพลู: Wang Chaphlu: 6204, 620410: โค้งไผ่: Khong Phai: 6204, 620411: ปางมะค่า: Pang Makha: 6204, 620412: วังหามแห: Wang Ham Hae: 6204"
+    },
+    {
+      "postal_code": 62150,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6202: ไทรงาม: Sai Ngam",
+      "subdistricts": "620201: ไทรงาม: Sai Ngam: 6202, 620202: หนองคล้า: Nong Khla: 6202, 620203: หนองทอง: Nong Thong: 6202, 620204: หนองไม้กอง: Nong Mai Kong: 6202, 620205: มหาชัย: Mahachai: 6202, 620206: พานทอง: Phan Thong: 6202, 620207: หนองแม่แตง: Nong Mae Taeng: 6202"
+    },
+    {
+      "postal_code": 62160,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6201: เมืองกำแพงเพชร: Mueang Kamphaeng Phet",
+      "subdistricts": "620102: ไตรตรึงษ์: Trai Trueng: 6201, 620118: ธำมรงค์: Thammarong: 6201"
+    },
+    {
+      "postal_code": 62170,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6207: ลานกระบือ: Lan Krabue",
+      "subdistricts": "620701: ลานกระบือ: Lan Krabue: 6207, 620702: ช่องลม: Chong Lom: 6207, 620703: หนองหลวง: Nong Luang: 6207, 620704: โนนพลวง: Non Phluang: 6207, 620705: ประชาสุขสันต์: Pracha Suksan: 6207, 620706: บึงทับแรต: Bueng Thap Raet: 6207, 620707: จันทิมา: Chanthima: 6207"
+    },
+    {
+      "postal_code": 62180,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6203: คลองลาน: Khlong Lan",
+      "subdistricts": "620301: คลองน้ำไหล: Khlong Nam Lai: 6203, 620302: โป่งน้ำร้อน: Pong Nam Ron: 6203, 620303: คลองลานพัฒนา: Khlong Lan Phatthana: 6203, 620304: สักงาม: Sak Ngam: 6203"
+    },
+    {
+      "postal_code": 62190,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6208: ทรายทองวัฒนา: Sai Thong Watthana",
+      "subdistricts": "620801: ทุ่งทราย: Thung Sai: 6208, 620802: ทุ่งทอง: Thung Thong: 6208, 620803: ถาวรวัฒนา: Thawon Watthana: 6208"
+    },
+    {
+      "postal_code": 62210,
+      "province_code": 62,
+      "province_name_th": "กำแพงเพชร",
+      "province_name_en": "Kamphaeng Phet",
+      "districts": "6210: บึงสามัคคี: Bueng Samakkhi",
+      "subdistricts": "621001: บึงสามัคคี: Bueng Samakkhi: 6210, 621002: วังชะโอน: Wang Cha-On: 6210, 621003: ระหาน: Rahan: 6210, 621004: เทพนิมิต: Thep Nimit: 6210"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดกำแพงเพชร (Kamphaeng Phet Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดกำแพงเพชร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Kamphaeng Phet province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 11 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดกำแพงเพชร (Kamphaeng Phet Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดกำแพงเพชร (Kamphaeng Phet Postal Codes) — 11 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 11 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

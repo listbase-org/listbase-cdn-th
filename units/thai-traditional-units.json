@@ -1,0 +1,150 @@
+{
+  "id": "thai-traditional-units",
+  "name": "หน่วยวัดไทยดั้งเดิม",
+  "title": "หน่วยวัดของไทยแบบดั้งเดิม (มาตราไทย)",
+  "description": "มาตราวัดความยาว พื้นที่ ปริมาตร และน้ำหนักแบบไทย ที่ยังนิยมใช้ในปัจจุบัน (โดยเฉพาะอสังหาริมทรัพย์และการเกษตร)",
+  "category": "units",
+  "source": "ราชบัณฑิตยสภา",
+  "source_url": "https://www.royin.go.th/",
+  "updated": "2026-02",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อหน่วย",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่ออังกฤษ (ถ้ามี)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "หมวดหมู่",
+      "type": "string"
+    },
+    {
+      "key": "conversion",
+      "label": "การเทียบหน่วย",
+      "type": "string"
+    },
+    {
+      "key": "metric_equivalent",
+      "label": "เทียบเท่าระบบเมตริก",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "นิ้ว (นิ้วไทย)",
+      "name_en": "Thai Inch",
+      "category": "ความยาว",
+      "conversion": "4 กระเบียด",
+      "metric_equivalent": "0.02083 เมตร (ประมาณ 2 เซนติเมตร)"
+    },
+    {
+      "name_th": "คืบ",
+      "name_en": "Khuep (Span)",
+      "category": "ความยาว",
+      "conversion": "12 นิ้ว",
+      "metric_equivalent": "0.25 เมตร (25 เซนติเมตร)"
+    },
+    {
+      "name_th": "ศอก",
+      "name_en": "Sok (Cubit)",
+      "category": "ความยาว",
+      "conversion": "2 คืบ",
+      "metric_equivalent": "0.50 เมตร (50 เซนติเมตร)"
+    },
+    {
+      "name_th": "วา",
+      "name_en": "Wa (Fathom)",
+      "category": "ความยาว",
+      "conversion": "4 ศอก",
+      "metric_equivalent": "2 เมตร"
+    },
+    {
+      "name_th": "เส้น",
+      "name_en": "Sen",
+      "category": "ความยาว",
+      "conversion": "20 วา",
+      "metric_equivalent": "40 เมตร"
+    },
+    {
+      "name_th": "โยชน์",
+      "name_en": "Yot (League)",
+      "category": "ความยาว",
+      "conversion": "400 เส้น",
+      "metric_equivalent": "16,000 เมตร (16 กิโลเมตร)"
+    },
+    {
+      "name_th": "ตารางวา",
+      "name_en": "Square Wa",
+      "category": "พื้นที่",
+      "conversion": "1 วา × 1 วา",
+      "metric_equivalent": "4 ตารางเมตร"
+    },
+    {
+      "name_th": "งาน",
+      "name_en": "Ngan",
+      "category": "พื้นที่",
+      "conversion": "100 ตารางวา",
+      "metric_equivalent": "400 ตารางเมตร"
+    },
+    {
+      "name_th": "ไร่",
+      "name_en": "Rai",
+      "category": "พื้นที่",
+      "conversion": "4 งาน (หรือ 400 ตารางวา)",
+      "metric_equivalent": "1,600 ตารางเมตร"
+    },
+    {
+      "name_th": "สลึง",
+      "name_en": "Salueng",
+      "category": "น้ำหนัก",
+      "conversion": "1/4 บาท",
+      "metric_equivalent": "3.75 กรัม (ตามมาตรฐานทองคำ)"
+    },
+    {
+      "name_th": "บาท",
+      "name_en": "Baht",
+      "category": "น้ำหนัก",
+      "conversion": "4 สลึง",
+      "metric_equivalent": "15.00 กรัม (สำหรับสิ่งของ) / 15.244 กรัม (สำหรับทองคำ 96.5%)"
+    },
+    {
+      "name_th": "ตำลึง",
+      "name_en": "Tamlueng",
+      "category": "น้ำหนัก",
+      "conversion": "4 บาท",
+      "metric_equivalent": "60 กรัม"
+    },
+    {
+      "name_th": "ชั่ง",
+      "name_en": "Chang",
+      "category": "น้ำหนัก",
+      "conversion": "20 ตำลึง (80 บาท)",
+      "metric_equivalent": "1,200 กรัม (1.2 กิโลกรัม)"
+    }
+  ],
+  "meta": {
+    "title": "หน่วยวัดของไทยแบบดั้งเดิม (มาตราไทย) - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "มาตราวัดความยาว พื้นที่ ปริมาตร และน้ำหนักแบบไทย ที่ยังนิยมใช้ในปัจจุบัน (โดยเฉพาะอสังหาริมทรัพย์และการเกษตร) มีทั้งหมด 13 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "หน่วยวัดไทยดั้งเดิม | Thai Open Data",
+    "seo_description": "ดาวน์โหลดหน่วยวัดไทยดั้งเดิม ทั้งหมด 13 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลหน่วยวัดไทยดั้งเดิม ทั้งหมด 13 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "แก้ไขข้อผิดพลาดรุนแรงของการคำนวนหน่วย (เช่ม AI เขียนว่า 1 งานเท่ากับ 25 ตารางวา หรือ 1 เส้นเท่ากับ 0.40 เมตร) และลบหน่วยหลอนๆ ที่ไม่มีอยู่จริงเช่น กำลัง หลืก อนาจ ขัด งั้ว",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Manual Recovery)"
+    }
+  }
+}

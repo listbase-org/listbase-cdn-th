@@ -1,0 +1,1880 @@
+{
+  "id": "th-saraburi-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สระบุรี (Saraburi party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สระบุรี (Saraburi party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสระบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 228,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 226
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 956
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 303
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 261
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3734
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2181
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 425
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 456
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12778
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 504
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4263
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 444
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 541
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 161
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 112
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 51
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4438
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 180
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 930
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 69
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 154
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 96
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 18236
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 196
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 70
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 185
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 237
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 57
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 34618
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 278
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 483
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 496
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 433
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1885
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 431
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 574
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4710
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2640
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 237
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 2669
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 15188
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 632
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4258
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 645
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 743
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 370
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 51
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 54
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 71
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 57
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4094
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 251
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 587
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 150
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 119
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 257
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 196
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 150
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 17661
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 206
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 77
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 220
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 196
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 74
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 34912
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 194
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 414
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 601
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 16
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 67
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 37
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 241
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1896
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 390
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 214
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4914
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2074
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 106
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 784
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 9536
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 541
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3977
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 421
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 733
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 129
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 38
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 71
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 55
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4543
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 177
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 595
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 195
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 117
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 269
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 183
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 116
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20026
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 132
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 65
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 162
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 34702
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 153
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 373
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 266
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 396
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1580
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1076
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 372
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 5400
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2422
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 198
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 532
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10301
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 643
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4362
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 577
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 969
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 147
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 271
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 163
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 42
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 76
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 88
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5280
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 221
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 711
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 147
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 172
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 128
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 159
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 288
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 257
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 150
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 12817
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 177
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 56
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 91
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2238
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 285
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 77
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 252
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 34034
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 174
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 479
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 358
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 17
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 110
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 48
+    },
+    {
+      "changwat_code": "19",
+      "changwat": "สระบุรี",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 120
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สระบุรี (Saraburi party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสระบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 228 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สระบุรี (Saraburi party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สระบุรี (Saraburi party-list ballots) — 228 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 228 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

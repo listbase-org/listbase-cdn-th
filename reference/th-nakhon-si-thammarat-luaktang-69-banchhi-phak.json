@@ -1,0 +1,4168 @@
+{
+  "id": "th-nakhon-si-thammarat-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครศรีธรรมราช (Nakhon Si Thammarat party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครศรีธรรมราช (Nakhon Si Thammarat party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครศรีธรรมราช. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 514,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 80
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1167
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 113
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 93
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1156
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1893
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 94
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 887
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1758
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 305
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1278
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 288
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 174
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 74
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 23
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 54
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 41064
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 74
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1651
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 409
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 212
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 17572
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 124
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 148
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 130
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 113
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21574
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 230
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 5
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 5
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 7
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 130
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1480
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 473
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 373
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 216
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 264
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2000
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 101
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 963
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1360
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 315
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1447
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 277
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 227
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 152
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 8
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 54939
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 113
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 817
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 56
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 171
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10668
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 309
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 15699
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 105
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 142
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 2
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 321
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "Nakhon Si Thammarat",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 45
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1152
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 263
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 165
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "6",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1868
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1211
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "7",
+      "party": "เพื่อไทย",
+      "votes": 985
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 83
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "8",
+      "party": "ทางเลือกใหม่",
+      "votes": 219
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "9",
+      "party": "เศรษฐกิจ",
+      "votes": 1284
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "10",
+      "party": "เสรีรวมไทย",
+      "votes": 195
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "11",
+      "party": "รวมพลังประชาชน",
+      "votes": 145
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "12",
+      "party": "ท้องที่ไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "13",
+      "party": "อนาคตไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "14",
+      "party": "พลังเพื่อไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "15",
+      "party": "ไทยชนะ",
+      "votes": 161
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "17",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "18",
+      "party": "ฟิวชัน",
+      "votes": 13
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "19",
+      "party": "ไทรวมพลัง",
+      "votes": 65
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "20",
+      "party": "ก้าวอิสระ",
+      "votes": 32
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "21",
+      "party": "ปวงชนไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "22",
+      "party": "วิชชั่นใหม่",
+      "votes": 63
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "23",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "24",
+      "party": "คลองไทย",
+      "votes": 237
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "25",
+      "party": "ประชาธิปัตย์",
+      "votes": 60936
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "26",
+      "party": "ไทยก้าวหน้า",
+      "votes": 197
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "27",
+      "party": "ไทยภักดี",
+      "votes": 655
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "28",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "29",
+      "party": "ประชากรไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "30",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชาชาติ",
+      "votes": 143
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "32",
+      "party": "สร้างอนาคตไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "33",
+      "party": "รักชาติ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "34",
+      "party": "ไทยพร้อม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "35",
+      "party": "ภูมิใจไทย",
+      "votes": 9525
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "36",
+      "party": "พลังธรรมใหม่",
+      "votes": 94
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "37",
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "38",
+      "party": "ไทยธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "39",
+      "party": "แผ่นดินธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "40",
+      "party": "กล้าธรรม",
+      "votes": 298
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "41",
+      "party": "พลังประชารัฐ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "42",
+      "party": "โอกาสใหม่",
+      "votes": 98
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "43",
+      "party": "เป็นธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "44",
+      "party": "ประชาชน",
+      "votes": 11737
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "45",
+      "party": "ประชาไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "46",
+      "party": "ไทยสร้างไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "47",
+      "party": "ไทยก้าวใหม่",
+      "votes": 90
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "48",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "49",
+      "party": "พร้อม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "50",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "51",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 3
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "52",
+      "party": "ความหวังใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยรวมไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "54",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 390
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "3",
+      "number": "55",
+      "party": "พลังไทยรักชาติ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 165
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1371
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 150
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 203
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 982
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 989
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 113
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 875
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 1406
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 307
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 1435
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 232
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 217
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 207
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 18
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 65
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 136
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 146
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 213
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 62772
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 110
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 526
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 54
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 57
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 5874
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 3285
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 121
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 153
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 14232
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 149
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 122
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 6
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 310
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "4",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 44
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 177
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1525
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 172
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 392
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1324
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1334
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 128
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1377
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1943
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 361
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1536
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 340
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 257
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 529
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 226
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 128
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 68
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 174
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 54686
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 137
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 864
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 60
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 114
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11198
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "41",
+      "party": "Unknown Party 41",
+      "votes": 0
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 1414
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 147
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 51
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 18520
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 128
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 221
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 3
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 6
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "5",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 210
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 112
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1041
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 961
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 88
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1071
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 886
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 184
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1201
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1396
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 266
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1034
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 217
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 230
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 188
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 20
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 58
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 44
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 147
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 90
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 73
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 212
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 64430
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 90
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 544
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 31
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 98
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 139
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 60
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8549
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1814
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 144
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 13378
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 155
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 160
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 255
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 649
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 353
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 162
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 126
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 247
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1290
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 907
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 927
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 2209
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 394
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1521
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 254
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 191
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 152
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 18
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 42
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 155
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 50315
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 270
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 716
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 132
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 100
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13528
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 652
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 140
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 40
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 14059
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 166
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 74
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 126
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 145
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 6
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 230
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 141
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1305
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 576
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 286
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1595
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 124
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1059
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1877
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 365
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1428
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 250
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 232
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 171
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 15
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 63
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 56
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 300
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 49757
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 104
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 659
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 104
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 57
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 452
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 82
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 14213
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 49
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 158
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 110
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16857
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 145
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 307
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 97
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 366
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 562
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 60
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 158
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1003
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 659
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1096
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 2160
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 310
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1299
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 228
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 199
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 166
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 15
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 56510
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 80
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 538
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 40
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 64
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 145
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 52
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 98
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 14376
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "39",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 42
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 112
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 15191
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 126
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 9
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 10
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 259
+    },
+    {
+      "changwat_code": "80",
+      "changwat": "นครศรีธรรมราช",
+      "khet": "9",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 36
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครศรีธรรมราช (Nakhon Si Thammarat party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครศรีธรรมราช. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 514 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครศรีธรรมราช (Nakhon Si Thammarat party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครศรีธรรมราช (Nakhon Si Thammarat party-list ballots) — 514 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 514 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

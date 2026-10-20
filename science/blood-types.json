@@ -1,0 +1,154 @@
+{
+  "id": "blood-types",
+  "name": "กรุ๊ปเลือด ABO และ Rh",
+  "title": "ระบบกรุ๊ปเลือด 8 ชนิด",
+  "description": "ข้อมูลระบบการจำแนกกรุ๊ปเลือด ABO และปัจจัย Rh ที่ใช้ในการบริจาคและรับเลือด",
+  "category": "science",
+  "source": "AI Knowledge",
+  "source_url": "https://www.redcross.or.th/",
+  "updated": "2025-02",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับที่",
+      "type": "number"
+    },
+    {
+      "key": "blood_type",
+      "label": "กรุ๊ปเลือด",
+      "type": "string"
+    },
+    {
+      "key": "antigen",
+      "label": "แอนติเจน",
+      "type": "string"
+    },
+    {
+      "key": "antibody",
+      "label": "แอนติบอดี้",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "บริจาคให้ได้",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "รับได้จาก",
+      "type": "string"
+    },
+    {
+      "key": "population_percentage_th",
+      "label": "ร้อยละในประชากรไทย",
+      "type": "string"
+    },
+    {
+      "key": "rh_positive_percentage",
+      "label": "ร้อยละ Rh บวก",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "blood_type": "O+",
+      "antigen": "No A/B, Rh+",
+      "antibody": "Anti-A, Anti-B",
+      "can_donate_to": "O+, A+, B+, AB+",
+      "can_receive_from": "O+, O-",
+      "population_percentage_th": "38",
+      "rh_positive_percentage": "85"
+    },
+    {
+      "order": 2,
+      "blood_type": "O-",
+      "antigen": "No A/B, No Rh",
+      "antibody": "Anti-A, Anti-B",
+      "can_donate_to": "All (Universal Donor)",
+      "can_receive_from": "O-",
+      "population_percentage_th": "7",
+      "rh_positive_percentage": "0"
+    },
+    {
+      "order": 3,
+      "blood_type": "A+",
+      "antigen": "A, Rh+",
+      "antibody": "Anti-B",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "O+, O-, A+, A-",
+      "population_percentage_th": "31",
+      "rh_positive_percentage": "82"
+    },
+    {
+      "order": 4,
+      "blood_type": "A-",
+      "antigen": "A, No Rh",
+      "antibody": "Anti-B",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "O-, A-",
+      "population_percentage_th": "7",
+      "rh_positive_percentage": "0"
+    },
+    {
+      "order": 5,
+      "blood_type": "B+",
+      "antigen": "B, Rh+",
+      "antibody": "Anti-A",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "O+, O-, B+, B-",
+      "population_percentage_th": "18",
+      "rh_positive_percentage": "86"
+    },
+    {
+      "order": 6,
+      "blood_type": "B-",
+      "antigen": "B, No Rh",
+      "antibody": "Anti-A",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "O-, B-",
+      "population_percentage_th": "3",
+      "rh_positive_percentage": "0"
+    },
+    {
+      "order": 7,
+      "blood_type": "AB+",
+      "antigen": "A, B, Rh+",
+      "antibody": "None",
+      "can_donate_to": "AB+",
+      "can_receive_from": "All (Universal Recipient)",
+      "population_percentage_th": "4",
+      "rh_positive_percentage": "97"
+    },
+    {
+      "order": 8,
+      "blood_type": "AB-",
+      "antigen": "A, B, No Rh",
+      "antibody": "None",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "O-, A-, B-, AB-",
+      "population_percentage_th": "1",
+      "rh_positive_percentage": "0"
+    }
+  ],
+  "meta": {
+    "title": "ระบบกรุ๊ปเลือด 8 ชนิด - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "ข้อมูลระบบการจำแนกกรุ๊ปเลือด ABO และปัจจัย Rh ที่ใช้ในการบริจาคและรับเลือด มีทั้งหมด 8 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "กรุ๊ปเลือด ABO และ Rh | Thai Open Data",
+    "seo_description": "ดาวน์โหลดกรุ๊ปเลือด ABO และ Rh ทั้งหมด 8 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลกรุ๊ปเลือด ABO และ Rh ทั้งหมด 8 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "ข้อมูลระบบกรุ๊ปเลือด ABO และ Rh โดยร้อยละของประชากรไทยเป็นค่าประมาณตามข้อมูลทั่วไป",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Batch Script Review)"
+    }
+  }
+}

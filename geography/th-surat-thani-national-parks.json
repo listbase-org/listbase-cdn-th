@@ -1,0 +1,196 @@
+{
+  "id": "th-surat-thani-national-parks",
+  "name": "สุราษฎร์ธานี — อุทยานแห่งชาติในจังหวัดสุราษฎร์ธานี (National Parks in Surat Thani Province)",
+  "title": "สุราษฎร์ธานี — อุทยานแห่งชาติในจังหวัดสุราษฎร์ธานี (National Parks in Surat Thani Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดสุราษฎร์ธานี (Surat Thani). 7 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Surat Thani appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-surat-thani-...' joins to th-surat-thani-postal-codes / th-provinces (province_code 84).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 24,
+      "name_th": "อุทยานแห่งชาติน้ำตกสี่ขีด",
+      "name_en": "Namtok Si Khit National Park",
+      "name_th_short": "น้ำตกสี่ขีด",
+      "name_en_short": "Namtok Si Khit",
+      "lat": 9.01,
+      "lon": 99.77,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Nakhon Si Thammarat: นครศรีธรรมราช: Nakhon Si Thammarat: nakhon-si-thammarat: 80, Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 2
+    },
+    {
+      "park_id": 31,
+      "name_th": "อุทยานแห่งชาติแก่งกรุง",
+      "name_en": "Kaeng Krung National Park",
+      "name_th_short": "แก่งกรุง",
+      "name_en_short": "Kaeng Krung",
+      "lat": 9.3,
+      "lon": 98.86,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 1
+    },
+    {
+      "park_id": 32,
+      "name_th": "อุทยานแห่งชาติใต้ร่มเย็น",
+      "name_en": "Tai Romyen National Park",
+      "name_th_short": "ใต้ร่มเย็น",
+      "name_en_short": "Tai Romyen",
+      "lat": 8.86,
+      "lon": 99.45,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 1
+    },
+    {
+      "park_id": 33,
+      "name_th": "อุทยานแห่งชาติหมู่เกาะอ่างทอง",
+      "name_en": "Mu Ko Ang Thong National Park",
+      "name_th_short": "หมู่เกาะอ่างทอง",
+      "name_en_short": "Mu Ko Ang Thong",
+      "lat": 9.62,
+      "lon": 99.67,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 1
+    },
+    {
+      "park_id": 34,
+      "name_th": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน",
+      "name_en": "Than Sadet–Ko Pha-Ngan National Park",
+      "name_th_short": "ธารเสด็จ-เกาะพะงัน",
+      "name_en_short": "Than Sadet–Ko Pha-Ngan",
+      "lat": 9.73,
+      "lon": 100.02,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 1
+    },
+    {
+      "park_id": 53,
+      "name_th": "อุทยานแห่งชาติเขาสก",
+      "name_en": "Khao Sok National Park",
+      "name_th_short": "เขาสก",
+      "name_en_short": "Khao Sok",
+      "lat": 8.93,
+      "lon": 98.53,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 1
+    },
+    {
+      "park_id": 54,
+      "name_th": "อุทยานแห่งชาติคลองพนม",
+      "name_en": "Khlong Phanom National Park",
+      "name_th_short": "คลองพนม",
+      "name_en_short": "Khlong Phanom",
+      "lat": 8.86,
+      "lon": 98.7,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 1
+    }
+  ],
+  "meta": {
+    "title": "สุราษฎร์ธานี — อุทยานแห่งชาติในจังหวัดสุราษฎร์ธานี (National Parks in Surat Thani Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดสุราษฎร์ธานี (Surat Thani). 7 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Surat Thani appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-surat-thani-...' joins to th-surat-thani-postal-codes / th-provinces (province_code 84). มีทั้งหมด 7 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สุราษฎร์ธานี — อุทยานแห่งชาติในจังหวัดสุราษฎร์ธานี (National Parks in Surat Thani Province) | ListBase",
+    "seo_description": "ดาวน์โหลด สุราษฎร์ธานี — อุทยานแห่งชาติในจังหวัดสุราษฎร์ธานี (National Parks in Surat Thani Province) — 7 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 7 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

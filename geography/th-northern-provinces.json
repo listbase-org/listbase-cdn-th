@@ -1,0 +1,128 @@
+{
+  "id": "th-northern-provinces",
+  "name": "ภาคเหนือ — จังหวัดในภาคเหนือ (Northern Provinces of Thailand)",
+  "title": "ภาคเหนือ — จังหวัดในภาคเหนือ (Northern Provinces of Thailand)",
+  "description": "Provinces (จังหวัด) located in Northern Thailand (ภาคเหนือ). Includes Chiang Mai, Chiang Rai, and other northern provinces.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "province_id",
+      "label": "Province Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_th",
+      "label": "Region Th",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province_id": 38,
+      "name_th": "เชียงใหม่",
+      "name_en": "Chiang Mai",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 39,
+      "name_th": "ลำพูน",
+      "name_en": "Lamphun",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 40,
+      "name_th": "ลำปาง",
+      "name_en": "Lampang",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 41,
+      "name_th": "อุตรดิตถ์",
+      "name_en": "Uttaradit",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 42,
+      "name_th": "แพร่",
+      "name_en": "Phrae",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 43,
+      "name_th": "น่าน",
+      "name_en": "Nan",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 44,
+      "name_th": "พะเยา",
+      "name_en": "Phayao",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 45,
+      "name_th": "เชียงราย",
+      "name_en": "Chiang Rai",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    },
+    {
+      "province_id": 46,
+      "name_th": "แม่ฮ่องสอน",
+      "name_en": "Mae Hong Son",
+      "region_id": 1,
+      "region_th": "ภาคเหนือ",
+      "region_en": "Northern"
+    }
+  ],
+  "meta": {
+    "title": "ภาคเหนือ — จังหวัดในภาคเหนือ (Northern Provinces of Thailand) - ดาวน์โหลดฟรี",
+    "description": "Provinces (จังหวัด) located in Northern Thailand (ภาคเหนือ). Includes Chiang Mai, Chiang Rai, and other northern provinces. มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาคเหนือ — จังหวัดในภาคเหนือ (Northern Provinces of Thailand) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาคเหนือ — จังหวัดในภาคเหนือ (Northern Provinces of Thailand) — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

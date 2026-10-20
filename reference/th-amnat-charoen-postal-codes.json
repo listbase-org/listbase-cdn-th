@@ -1,0 +1,104 @@
+{
+  "id": "th-amnat-charoen-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดอำนาจเจริญ (Amnat Charoen Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดอำนาจเจริญ (Amnat Charoen Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดอำนาจเจริญ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Amnat Charoen province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 37000,
+      "province_code": 37,
+      "province_name_th": "อำนาจเจริญ",
+      "province_name_en": "Amnat Charoen",
+      "districts": "3701: เมืองอำนาจเจริญ: Mueang Amnat Charoen, 3707: ลืออำนาจ: Lue Amnat",
+      "subdistricts": "370101: บุ่ง: Bung: 3701, 370102: ไก่คำ: Kai Kham: 3701, 370103: นาจิก: Na Chik: 3701, 370104: ปลาค้าว: Pla Khao: 3701, 370105: เหล่าพรวน: Lao Phruan: 3701, 370106: สร้างนกทา: Sang Nok Tha: 3701, 370107: คึมใหญ่: Khuem Yai: 3701, 370108: นาผือ: Na Phue: 3701, 370109: น้ำปลีก: Nam Plik: 3701, 370110: นาวัง: Na Wang: 3701, 370111: นาหมอม้า: Na Mo Ma: 3701, 370112: โนนโพธิ์: Non Pho: 3701, 370113: โนนหนามแท่ง: Non Nam Thaeng: 3701, 370114: ห้วยไร่: Huai Rai: 3701, 370115: หนองมะแซว: Nong Masaeo: 3701, 370116: กุดปลาดุก: Kut Pla Duk: 3701, 370117: ดอนเมย: Don Moei: 3701, 370118: นายม: Na Yom: 3701, 370119: นาแต้: Na Tae: 3701, 370701: อำนาจ: Amnat: 3707, 370702: ดงมะยาง: Dong Mayang: 3707, 370703: เปือย: Pueai: 3707, 370704: ดงบัง: Dong Bang: 3707, 370705: ไร่ขี: Rai Khi: 3707, 370706: แมด: Maet: 3707, 370707: โคกกลาง: Khok Klang: 3707"
+    },
+    {
+      "postal_code": 37110,
+      "province_code": 37,
+      "province_name_th": "อำนาจเจริญ",
+      "province_name_en": "Amnat Charoen",
+      "districts": "3703: ปทุมราชวงศา: Pathum Ratchawongsa",
+      "subdistricts": "370301: หนองข่า: Nong Kha: 3703, 370302: คำโพน: Kham Phon: 3703, 370303: นาหว้า: Na Wa: 3703, 370304: ลือ: Lue: 3703, 370305: ห้วย: Huai: 3703, 370306: โนนงาม: Non Ngam: 3703, 370307: นาป่าแซง: Na Pa Saeng: 3703"
+    },
+    {
+      "postal_code": 37180,
+      "province_code": 37,
+      "province_name_th": "อำนาจเจริญ",
+      "province_name_en": "Amnat Charoen",
+      "districts": "3704: พนา: Phana",
+      "subdistricts": "370401: พนา: Phana: 3704, 370402: จานลาน: Chan Lan: 3704, 370403: ไม้กลอน: Mai Klon: 3704, 370404: พระเหลา: Phra Lao: 3704"
+    },
+    {
+      "postal_code": 37210,
+      "province_code": 37,
+      "province_name_th": "อำนาจเจริญ",
+      "province_name_en": "Amnat Charoen",
+      "districts": "3702: ชานุมาน: Chanuman",
+      "subdistricts": "370201: ชานุมาน: Chanuman: 3702, 370202: โคกสาร: Khok San: 3702, 370203: คำเขื่อนแก้ว: Kham Khuean Kaeo: 3702, 370204: โคกก่ง: Khok Kong: 3702, 370205: ป่าก่อ: Pa Ko: 3702"
+    },
+    {
+      "postal_code": 37240,
+      "province_code": 37,
+      "province_name_th": "อำนาจเจริญ",
+      "province_name_en": "Amnat Charoen",
+      "districts": "3706: หัวตะพาน: Hua Taphan",
+      "subdistricts": "370601: หัวตะพาน: Hua Taphan: 3706, 370602: คำพระ: Kham Phra: 3706, 370603: เค็งใหญ่: Kheng Yai: 3706, 370604: หนองแก้ว: Nong Kaeo: 3706, 370605: โพนเมืองน้อย: Phon Mueang Noi: 3706, 370606: สร้างถ่อน้อย: Sang Tho Noi: 3706, 370607: จิกดู่: Chik Du: 3706, 370608: รัตนวารี: Rattana Wari: 3706"
+    },
+    {
+      "postal_code": 37290,
+      "province_code": 37,
+      "province_name_th": "อำนาจเจริญ",
+      "province_name_en": "Amnat Charoen",
+      "districts": "3705: เสนางคนิคม: Senangkhanikhom",
+      "subdistricts": "370501: เสนางคนิคม: Senangkha Nikhom: 3705, 370502: โพนทอง: Phon Thong: 3705, 370503: ไร่สีสุก: Rai Si Suk: 3705, 370504: นาเวียง: Na Wiang: 3705, 370505: หนองไฮ: Nong Hai: 3705, 370506: หนองสามสี: Nong Sam Si: 3705"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดอำนาจเจริญ (Amnat Charoen Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดอำนาจเจริญ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Amnat Charoen province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดอำนาจเจริญ (Amnat Charoen Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดอำนาจเจริญ (Amnat Charoen Postal Codes) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

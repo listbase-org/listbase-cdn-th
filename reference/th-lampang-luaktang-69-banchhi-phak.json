@@ -1,0 +1,1880 @@
+{
+  "id": "th-lampang-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำปาง (Lampang party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำปาง (Lampang party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดลำปาง. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 228,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 456
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1616
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 500
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1362
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 515
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2072
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 257
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1257
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 22242
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 468
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2919
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 417
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 773
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 303
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 193
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 85
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 105
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4880
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 181
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 706
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 135
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 144
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 108
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 178
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 103
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 135
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11393
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 359
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 706
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 167
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 271
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 80
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 44941
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 155
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 657
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 540
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 15
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 799
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3379
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 616
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 438
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3154
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2611
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 484
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 466
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 23818
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 476
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2420
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 374
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 1118
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 436
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 283
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 80
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 406
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 212
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4004
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 196
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 282
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 243
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 310
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 176
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 172
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 328
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 307
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 203
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6431
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 454
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 126
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 84
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 8256
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 521
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 204
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 228
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 35003
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 207
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 385
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 207
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 84
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2257
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1891
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 470
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1099
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 960
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1745
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1097
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 470
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 20420
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 505
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2806
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 416
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 964
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 331
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 206
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 43
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 42
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 206
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 119
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3577
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 205
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 475
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 298
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 231
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 128
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 176
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 180
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 133
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 237
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10600
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 259
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3815
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 257
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 145
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 118
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 42856
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 223
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 441
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 289
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 427
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2329
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2635
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 307
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1761
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1357
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 675
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 343
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 22534
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 345
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2629
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 377
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 970
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 305
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 204
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 31
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 55
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 496
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2558
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 175
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 373
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 162
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 271
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 374
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 149
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 278
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 152
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 199
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6800
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 382
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 239
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 105
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 15318
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 1254
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 65
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 141
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 36535
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 364
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 570
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 249
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "52",
+      "changwat": "ลำปาง",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 74
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำปาง (Lampang party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดลำปาง. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 228 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำปาง (Lampang party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำปาง (Lampang party-list ballots) — 228 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 228 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

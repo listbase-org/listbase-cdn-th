@@ -1,0 +1,2336 @@
+{
+  "id": "th-pattani-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ปัตตานี (Pattani party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ปัตตานี (Pattani party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดปัตตานี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 231
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1121
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 502
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 288
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1630
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1387
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 474
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 502
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1197
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 221
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 627
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 105
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 364
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 16
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 12
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 99
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 9241
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 73
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 329
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 133
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 16814
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 136
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 7234
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1330
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 191
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 111
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22902
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 146
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 118
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 149
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 5
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "1",
+      "party": "รวมใจไทย",
+      "votes": 323
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 910
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 2935
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 1253
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 503
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 735
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 374
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 613
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1003
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 728
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 475
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 18
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 53
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 174
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 121
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 119
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 15597
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 110
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 226
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 154
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 250
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 353
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 17901
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 166
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 149
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8360
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 51
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 792
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 245
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19150
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 130
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวหน้า",
+      "votes": 97
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 83
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังรักชาติ",
+      "votes": 40
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "1",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 311
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 696
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 570
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 2112
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1478
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 324
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 334
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 910
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 145
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 353
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "13",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 494
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 136
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 21
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 47
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 234
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 128
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 4842
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 58
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 56
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 250
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 25894
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 383
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 137
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 237
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 4213
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 780
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 186
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 90
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17990
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 118
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 89
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 63
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 327
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1421
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 520
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 547
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2089
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 499
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 2178
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 480
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1084
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 194
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 454
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 116
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 562
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 165
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 57
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 216
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 382
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 7164
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 77
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 115
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 107
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 340
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 26673
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 229
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 229
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6466
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 70
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2441
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 197
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 102
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 141
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21364
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 195
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 81
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 50
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 40
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 312
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 651
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1665
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2303
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 415
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 561
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 429
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 371
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 767
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 194
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 345
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 487
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 134
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 23
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 200
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 460
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4048
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 58
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 65
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 231
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 313
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 30529
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 251
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 171
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 5061
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 486
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 194
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 80
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 75
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20567
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 98
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "94",
+      "changwat": "ปัตตานี",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 28
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ปัตตานี (Pattani party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดปัตตานี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 285 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ปัตตานี (Pattani party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ปัตตานี (Pattani party-list ballots) — 285 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 285 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

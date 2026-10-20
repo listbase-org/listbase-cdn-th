@@ -1,0 +1,121 @@
+{
+  "id": "th-songkhla-national-parks",
+  "name": "สงขลา — อุทยานแห่งชาติในจังหวัดสงขลา (National Parks in Songkhla Province)",
+  "title": "สงขลา — อุทยานแห่งชาติในจังหวัดสงขลา (National Parks in Songkhla Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดสงขลา (Songkhla). 2 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Songkhla appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-songkhla-...' joins to th-songkhla-postal-codes / th-provinces (province_code 90).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 27,
+      "name_th": "อุทยานแห่งชาติน้ำตกทรายขาว",
+      "name_en": "Namtok Sai Khao National Park",
+      "name_th_short": "น้ำตกทรายขาว",
+      "name_en_short": "Namtok Sai Khao",
+      "lat": 6.65,
+      "lon": 101.09,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Pattani: ปัตตานี: Pattani: pattani: 94, Yala: ยะลา: Yala: yala: 95, Songkhla: สงขลา: Songkhla: songkhla: 90",
+      "province_count": 3
+    },
+    {
+      "park_id": 30,
+      "name_th": "อุทยานแห่งชาติเขาน้ำค้าง",
+      "name_en": "Khao Nam Khang National Park",
+      "name_th_short": "เขาน้ำค้าง",
+      "name_en_short": "Khao Nam Khang",
+      "lat": 6.55,
+      "lon": 100.59,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Songkhla: สงขลา: Songkhla: songkhla: 90",
+      "province_count": 1
+    }
+  ],
+  "meta": {
+    "title": "สงขลา — อุทยานแห่งชาติในจังหวัดสงขลา (National Parks in Songkhla Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดสงขลา (Songkhla). 2 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Songkhla appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-songkhla-...' joins to th-songkhla-postal-codes / th-provinces (province_code 90). มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สงขลา — อุทยานแห่งชาติในจังหวัดสงขลา (National Parks in Songkhla Province) | ListBase",
+    "seo_description": "ดาวน์โหลด สงขลา — อุทยานแห่งชาติในจังหวัดสงขลา (National Parks in Songkhla Province) — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

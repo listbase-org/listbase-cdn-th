@@ -1,0 +1,118 @@
+{
+  "id": "th-prachuap-khiri-khan-airports",
+  "name": "ท่าอากาศยาน — Prachuap Khiri Khan",
+  "title": "ท่าอากาศยาน — Prachuap Khiri Khan",
+  "description": "ท่าอากาศยานในจังหวัด Prachuap Khiri Khan ประเทศไทย (Airports in Prachuap Khiri Khan Province, Thailand — 1 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VTPH",
+      "iata": "HHQ",
+      "name_en": "Hua Hin Airport",
+      "name_slug": "hua-hin-airport",
+      "city_en": "Hua Hin",
+      "city_slug": "hua-hin",
+      "province_en": "Prachuap Khiri Khan",
+      "province_slug": "prachuap-khiri-khan",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 26,
+      "lat": 12.6368253,
+      "lon": 99.9510245,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "ท่าอากาศยาน — Prachuap Khiri Khan - ดาวน์โหลดฟรี",
+    "description": "ท่าอากาศยานในจังหวัด Prachuap Khiri Khan ประเทศไทย (Airports in Prachuap Khiri Khan Province, Thailand — 1 record(s).) มีทั้งหมด 1 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ท่าอากาศยาน — Prachuap Khiri Khan | ListBase",
+    "seo_description": "ดาวน์โหลด ท่าอากาศยาน — Prachuap Khiri Khan — 1 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 1 รายการ / 15 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

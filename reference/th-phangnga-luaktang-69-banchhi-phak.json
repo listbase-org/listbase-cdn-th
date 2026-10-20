@@ -1,0 +1,968 @@
+{
+  "id": "th-phangnga-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พังงา (Phangnga party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พังงา (Phangnga party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพังงา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 168
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 446
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 180
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 267
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1373
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1043
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 96
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1019
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1756
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 295
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 999
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 267
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 197
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 10
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 34
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 80
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 32224
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 108
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 475
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 71
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 275
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 164
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 94
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13045
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 56
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 27
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 194
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 12988
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 96
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 6
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 134
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 228
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1209
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1970
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 401
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 414
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1275
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 99
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1071
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 3009
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1754
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 373
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 278
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 74
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 133
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 129
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 33539
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 99
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 514
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 130
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 204
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 151
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10307
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 78
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 29
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1640
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 121
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 15893
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 121
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 120
+    },
+    {
+      "changwat_code": "82",
+      "changwat": "พังงา",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 44
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พังงา (Phangnga party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพังงา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 114 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พังงา (Phangnga party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พังงา (Phangnga party-list ballots) — 114 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 114 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

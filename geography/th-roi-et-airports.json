@@ -1,0 +1,118 @@
+{
+  "id": "th-roi-et-airports",
+  "name": "ท่าอากาศยาน — Roi Et",
+  "title": "ท่าอากาศยาน — Roi Et",
+  "description": "ท่าอากาศยานในจังหวัด Roi Et ประเทศไทย (Airports in Roi Et Province, Thailand — 1 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VTUV",
+      "iata": "ROI",
+      "name_en": "Roi Et Airport",
+      "name_slug": "roi-et-airport",
+      "city_en": "Chiang Khwan",
+      "city_slug": "chiang-khwan",
+      "province_en": "Roi Et",
+      "province_slug": "roi-et",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 429,
+      "lat": 16.1150394,
+      "lon": 103.7748535,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "ท่าอากาศยาน — Roi Et - ดาวน์โหลดฟรี",
+    "description": "ท่าอากาศยานในจังหวัด Roi Et ประเทศไทย (Airports in Roi Et Province, Thailand — 1 record(s).) มีทั้งหมด 1 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ท่าอากาศยาน — Roi Et | ListBase",
+    "seo_description": "ดาวน์โหลด ท่าอากาศยาน — Roi Et — 1 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 1 รายการ / 15 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

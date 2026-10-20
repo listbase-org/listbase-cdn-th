@@ -1,0 +1,168 @@
+{
+  "id": "th-chumphon-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดชุมพร (Chumphon Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดชุมพร (Chumphon Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดชุมพร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chumphon province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 86000,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8601: เมืองชุมพร: Mueang Chumphon",
+      "subdistricts": "860101: ท่าตะเภา: Tha Taphao: 8601, 860103: ท่ายาง: Tha Yang: 8601, 860104: บางหมาก: Bang Mak: 8601, 860105: นาทุ่ง: Na Thung: 8601, 860106: นาชะอัง: Na Cha-Ang: 8601, 860107: ตากแดด: Tak Daet: 8601, 860108: บางลึก: Bang Luek: 8601, 860109: หาดพันไกร: Hat Phan Krai: 8601, 860110: วังไผ่: Wang Phai: 8601, 860113: ขุนกระทิง: Khun Krathing: 8601"
+    },
+    {
+      "postal_code": 86100,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8601: เมืองชุมพร: Mueang Chumphon",
+      "subdistricts": "860114: ทุ่งคา: Thung Kha: 8601, 860115: วิสัยเหนือ: Wisai Nuea: 8601, 860117: ถ้ำสิงห์: Tham Sing: 8601"
+    },
+    {
+      "postal_code": 86110,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8604: หลังสวน: Lang Suan",
+      "subdistricts": "860401: หลังสวน: Lang Suan: 8604, 860402: ขันเงิน: Khan Ngoen: 8604, 860403: ท่ามะพลา: Tha Maphla: 8604, 860404: นาขา: Nakha: 8604, 860405: นาพญา: Na Phaya: 8604, 860406: บ้านควน: Ban Khuan: 8604, 860407: บางมะพร้าว: Bang Maphrao: 8604, 860410: พ้อแดง: Pho Daeng: 8604, 860411: แหลมทราย: Laem Sai: 8604, 860412: วังตะกอ: Wang Tako: 8604, 860413: หาดยาย: Hat Yai: 8604"
+    },
+    {
+      "postal_code": 86120,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8601: เมืองชุมพร: Mueang Chumphon",
+      "subdistricts": "860102: ปากน้ำ: Pak Nam: 8601, 860116: หาดทรายรี: Hat Sai Ri: 8601"
+    },
+    {
+      "postal_code": 86130,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8607: สวี: Sawi",
+      "subdistricts": "860701: นาโพธิ์: Na Pho: 8607, 860702: สวี: Sawi: 8607, 860703: ทุ่งระยะ: Thung Raya: 8607, 860704: ท่าหิน: Tha Hin: 8607, 860705: ปากแพรก: Pak Phraek: 8607, 860706: ด่านสวี: Dan Sawi: 8607, 860707: ครน: Khron: 8607, 860708: วิสัยใต้: Wisai Tai: 8607, 860709: นาสัก: Na Sak: 8607, 860710: เขาทะลุ: Khao Thalu: 8607, 860711: เขาค่าย: Khao Khai: 8607"
+    },
+    {
+      "postal_code": 86140,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8602: ท่าแซะ: Tha Sae",
+      "subdistricts": "860201: ท่าแซะ: Tha Sae: 8602, 860202: คุริง: Khu Ring: 8602, 860203: สลุย: Salui: 8602, 860204: นากระตาม: Na Kratam: 8602, 860206: ท่าข้าม: Tha Kham: 8602, 860207: หงษ์เจริญ: Hong Charoen: 8602, 860209: ทรัพย์อนันต์: Sap Anan: 8602, 860210: สองพี่น้อง: Song Phi Nong: 8602"
+    },
+    {
+      "postal_code": 86150,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8604: หลังสวน: Lang Suan",
+      "subdistricts": "860408: บางน้ำจืด: Bang Nam Chuet: 8604, 860409: ปากน้ำ: Pak Nam: 8604"
+    },
+    {
+      "postal_code": 86160,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8603: ปะทิว: Pathio",
+      "subdistricts": "860301: บางสน: Bang Son: 8603, 860302: ทะเลทรัพย์: Thale Sap: 8603, 860304: ชุมโค: Chum Kho: 8603"
+    },
+    {
+      "postal_code": 86170,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8605: ละแม: Lamae",
+      "subdistricts": "860501: ละแม: Lamae: 8605, 860502: ทุ่งหลวง: Thung Luang: 8605, 860503: สวนแตง: Suan Taeng: 8605, 860504: ทุ่งคาวัด: Thung Kha Wat: 8605"
+    },
+    {
+      "postal_code": 86180,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8606: พะโต๊ะ: Phato",
+      "subdistricts": "860601: พะโต๊ะ: Phato: 8606, 860602: ปากทรง: Pak Song: 8606, 860603: ปังหวาน: Pang Wan: 8606, 860604: พระรักษ์: Phrarak: 8606"
+    },
+    {
+      "postal_code": 86190,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8601: เมืองชุมพร: Mueang Chumphon, 8602: ท่าแซะ: Tha Sae",
+      "subdistricts": "860111: วังใหม่: Wang Mai: 8601, 860112: บ้านนา: Ban Na: 8601, 860205: รับร่อ: Rap Ro: 8602, 860208: หินแก้ว: Hin Kaeo: 8602"
+    },
+    {
+      "postal_code": 86210,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8603: ปะทิว: Pathio",
+      "subdistricts": "860305: ดอนยาง: Don Yang: 8603, 860306: ปากคลอง: Pak Khlong: 8603, 860307: เขาไชยราช: Khao Chaiyarat: 8603"
+    },
+    {
+      "postal_code": 86220,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8608: ทุ่งตะโก: Thung Tako",
+      "subdistricts": "860801: ปากตะโก: Pak Tako: 8608, 860802: ทุ่งตะไคร: Thung Takhrai: 8608, 860803: ตะโก: Tako: 8608, 860804: ช่องไม้แก้ว: Chong Mai Kaeo: 8608"
+    },
+    {
+      "postal_code": 86230,
+      "province_code": 86,
+      "province_name_th": "ชุมพร",
+      "province_name_en": "Chumphon",
+      "districts": "8603: ปะทิว: Pathio",
+      "subdistricts": "860303: สะพลี: Saphli: 8603"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดชุมพร (Chumphon Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดชุมพร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chumphon province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 14 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดชุมพร (Chumphon Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดชุมพร (Chumphon Postal Codes) — 14 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 14 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

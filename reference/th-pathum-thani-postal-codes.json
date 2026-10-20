@@ -1,0 +1,120 @@
+{
+  "id": "th-pathum-thani-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดปทุมธานี (Pathum Thani Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดปทุมธานี (Pathum Thani Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดปทุมธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Pathum Thani province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 12000,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1301: เมืองปทุมธานี: Mueang Pathum Thani",
+      "subdistricts": "130101: บางปรอก: Bang Prok: 1301, 130102: บ้านใหม่: Ban Mai: 1301, 130103: บ้านกลาง: Ban Klang: 1301, 130104: บ้านฉาง: Ban Chang: 1301, 130105: บ้านกระแชง: Ban Krachaeng: 1301, 130106: บางขะแยง: Bang Khayaeng: 1301, 130107: บางคูวัด: Bang Khu Wat: 1301, 130108: บางหลวง: Bang Luang: 1301, 130109: บางเดื่อ: Bang Duea: 1301, 130110: บางพูด: Bang Phut: 1301, 130111: บางพูน: Bang Phun: 1301, 130112: บางกะดี: Bang Kadi: 1301, 130113: สวนพริกไทย: Suan Phrik Thai: 1301, 130114: หลักหก: Lak Hok: 1301"
+    },
+    {
+      "postal_code": 12110,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1303: ธัญบุรี: Thanyaburi",
+      "subdistricts": "130303: รังสิต: Rangsit: 1303, 130304: ลำผักกูด: Lam Phak Kut: 1303, 130305: บึงสนั่น: Bueng Sanan: 1303, 130306: บึงน้ำรักษ์: Bueng Nam Rak: 1303"
+    },
+    {
+      "postal_code": 12120,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1302: คลองหลวง: Khlong Luang",
+      "subdistricts": "130201: คลองหนึ่ง: Khlong Nueng: 1302, 130202: คลองสอง: Khlong Song: 1302, 130203: คลองสาม: Khlong Sam: 1302, 130204: คลองสี่: Khlong Si: 1302, 130205: คลองห้า: Khlong Ha: 1302, 130206: คลองหก: Khlong Hok: 1302, 130207: คลองเจ็ด: Khlong Chet: 1302"
+    },
+    {
+      "postal_code": 12130,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1303: ธัญบุรี: Thanyaburi, 1306: ลำลูกกา: Lam Luk Ka",
+      "subdistricts": "130301: ประชาธิปัตย์: Pracha Thipat: 1303, 130302: บึงยี่โถ: Bueng Yitho: 1303, 130601: คูคต: Khu Khot: 1306"
+    },
+    {
+      "postal_code": 12140,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1305: ลาดหลุมแก้ว: Lat Lum Kaeo",
+      "subdistricts": "130501: ระแหง: Rahaeng: 1305, 130502: ลาดหลุมแก้ว: Lat Lum Kaeo: 1305, 130503: คูบางหลวง: Khu Bang Luang: 1305, 130504: คูขวาง: Khu Khwang: 1305, 130505: คลองพระอุดม: Khlong Phra Udom: 1305, 130506: บ่อเงิน: Bo Ngoen: 1305, 130507: หน้าไม้: Na Mai: 1305"
+    },
+    {
+      "postal_code": 12150,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1306: ลำลูกกา: Lam Luk Ka",
+      "subdistricts": "130602: ลาดสวาย: Lat Sawai: 1306, 130603: บึงคำพร้อย: Bueng Kham Phoi: 1306, 130604: ลำลูกกา: Lam Luk Ka: 1306, 130605: บึงทองหลาง: Bueng Thong Lang: 1306, 130606: ลำไทร: Lam Sai: 1306, 130607: บึงคอไห: Bueng Kho Hai: 1306, 130608: พืชอุดม: Phuet Udom: 1306"
+    },
+    {
+      "postal_code": 12160,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1307: สามโคก: Sam Khok",
+      "subdistricts": "130701: บางเตย: Bang Toei: 1307, 130702: คลองควาย: Khlong Khwai: 1307, 130703: สามโคก: Sam Khok: 1307, 130704: กระแชง: Krachaeng: 1307, 130705: บางโพธิ์เหนือ: Bang Pho Nuea: 1307, 130706: เชียงรากใหญ่: Chiang Rak Yai: 1307, 130707: บ้านปทุม: Ban Pathum: 1307, 130708: บ้านงิ้ว: Ban Ngio: 1307, 130709: เชียงรากน้อย: Chiang Rak Noi: 1307, 130710: บางกระบือ: Bang Krabue: 1307, 130711: ท้ายเกาะ: Thai Ko: 1307"
+    },
+    {
+      "postal_code": 12170,
+      "province_code": 13,
+      "province_name_th": "ปทุมธานี",
+      "province_name_en": "Pathum Thani",
+      "districts": "1304: หนองเสือ: Nong Suea",
+      "subdistricts": "130401: บึงบา: Bueng Ba: 1304, 130402: บึงบอน: Bueng Bon: 1304, 130403: บึงกาสาม: Bueng Ka Sam: 1304, 130404: บึงชำอ้อ: Bueng Cham O: 1304, 130405: หนองสามวัง: Nong Sam Wang: 1304, 130406: ศาลาครุ: Sala Khru: 1304, 130407: นพรัตน์: Noppharat: 1304"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดปทุมธานี (Pathum Thani Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดปทุมธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Pathum Thani province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 8 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดปทุมธานี (Pathum Thani Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดปทุมธานี (Pathum Thani Postal Codes) — 8 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 8 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

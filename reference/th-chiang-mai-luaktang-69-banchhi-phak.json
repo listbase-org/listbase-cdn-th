@@ -1,0 +1,4616 @@
+{
+  "id": "th-chiang-mai-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เชียงใหม่ (Chiang Mai party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เชียงใหม่ (Chiang Mai party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเชียงใหม่. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 570,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 81
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 597
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 109
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 181
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 222
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2408
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 147
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 315
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19782
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 352
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1737
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 512
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 323
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 65
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 20
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 33
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 133
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5345
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 69
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1205
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 183
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10169
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 102
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 44
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 504
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 322
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 49534
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 569
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 306
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 5
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 12
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 25
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1394
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 834
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 258
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 90
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 256
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1651
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 203
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 614
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 25772
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 406
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2124
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 564
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 507
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 151
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 21
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 180
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 52
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4116
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 105
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 686
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 106
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 82
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 192
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9273
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 176
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 358
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 387
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 485
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 441
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 50775
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 707
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 288
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 3
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 29
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 427
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 699
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 252
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 253
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 780
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1232
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 153
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1434
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 28772
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 422
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2121
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 632
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 494
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 85
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 204
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 99
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 34
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 28
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 87
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 3250
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 82
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 514
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 59
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 88
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 77
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 8119
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 277
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 443
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 1299
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 156
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 47748
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 387
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 202
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 61
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 179
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 662
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 157
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 841
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 245
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2152
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 108
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1154
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 23737
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 443
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2218
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 476
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 486
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 44
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 31
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 661
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 156
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 10
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4281
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 131
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 848
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 41
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 130
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10061
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 179
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 41
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3069
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 153
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 137
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 52240
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 124
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 484
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 367
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 53
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 28
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "1",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3713
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1360
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 340
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 286
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 520
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1629
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 199
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 391
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 25761
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 453
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2191
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 395
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 590
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 249
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 260
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 104
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 53
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 112
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 114
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 64
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 189
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 3513
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 159
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 439
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 375
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 170
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 116
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 178
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 7743
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 434
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 65
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 354
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 150
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 285
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 107
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 37956
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 296
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 305
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 547
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "5",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 74
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3411
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2010
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 345
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 463
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1001
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 214
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 2033
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 20086
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 394
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรฐกิจ",
+      "votes": 2030
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 319
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 567
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 237
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 236
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชั่น",
+      "votes": 52
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 73
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 72
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 219
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4213
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 210
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยพรรคดี",
+      "votes": 235
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 391
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 181
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 109
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 112
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 104
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 114
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 176
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6013
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 306
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 128
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 92
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "42",
+      "party": "กลาธรรม",
+      "votes": 4398
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 165
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 142
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 138
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 30052
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 177
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 302
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 191
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 93
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 705
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1281
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 277
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 236
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2359
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2043
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1246
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 358
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 21961
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 411
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2497
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 353
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 643
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 205
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 250
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 249
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 64
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 66
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 61
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 135
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 78
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 130
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3325
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 168
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 351
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 174
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 168
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 118
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 123
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 258
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 201
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 235
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6510
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 365
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 86
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 6759
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 1094
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 338
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 161
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 31572
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 285
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 167
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 16
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 231
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 941
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1475
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 776
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 283
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1406
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 285
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 312
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 30638
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 396
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2322
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 359
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 592
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 192
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 123
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 20
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 57
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 80
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2862
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 90
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 572
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 66
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 142
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 85
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 7743
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 329
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 80
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 443
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 244
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 232
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 94
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 51630
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 418
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 3
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 47
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 875
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2989
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1053
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 353
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3828
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1281
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 254
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 490
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 22241
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 513
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2096
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 373
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 757
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 166
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 144
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 358
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 389
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 70
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 98
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 245
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 124
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 244
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6170
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 209
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 290
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 169
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 233
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 170
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 145
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 315
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 174
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 208
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6175
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 324
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 59
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2803
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 397
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 691
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 193
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 37499
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 217
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 273
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 223
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 67
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 83
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "9",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 94
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 4963
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1794
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 714
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 4430
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 746
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1380
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 393
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 591
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 20817
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 511
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1642
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 342
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 587
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 371
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 166
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 538
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 649
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 105
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 147
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 191
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 154
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 397
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 187
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 532
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2771
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 236
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 295
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 578
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 229
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 204
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 435
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 161
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 257
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 2530
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 485
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 91
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 107
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 127
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3292
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 225
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 182
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 195
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27489
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 193
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 200
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 242
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 51
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 99
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 112
+    },
+    {
+      "changwat_code": "50",
+      "changwat": "เชียงใหม่",
+      "khet": "10",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 170
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เชียงใหม่ (Chiang Mai party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเชียงใหม่. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 570 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เชียงใหม่ (Chiang Mai party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เชียงใหม่ (Chiang Mai party-list ballots) — 570 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 570 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

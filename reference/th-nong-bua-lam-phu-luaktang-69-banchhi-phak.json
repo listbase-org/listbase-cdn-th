@@ -1,0 +1,1424 @@
+{
+  "id": "th-nong-bua-lam-phu-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองบัวลำภู (Nong Bua Lam Phu party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองบัวลำภู (Nong Bua Lam Phu party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดหนองบัวลำภู. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1697
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1277
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 376
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 395
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 620
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1087
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 114
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1253
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 22798
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 385
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3622
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 690
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 661
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 112
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 313
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 128
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 29
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 51
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 307
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1603
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 183
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 321
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 290
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 152
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 149
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 119
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11987
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 466
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 61
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 5523
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 396
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 75
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 102
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24813
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 175
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 1017
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 349
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 79
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 44
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 852
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1453
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2380
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 500
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 533
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 887
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1178
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 425
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 27355
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 330
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2958
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 460
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 576
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 306
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 121
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 29
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 293
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1272
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 132
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 209
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 204
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 166
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 266
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 86
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 193
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6525
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 462
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 70
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 73
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 4722
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 256
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 62
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20678
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 148
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 613
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 216
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 15
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 204
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 22
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2312
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4120
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 620
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 981
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 766
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 952
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 104
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 353
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19930
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 283
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3628
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 543
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 568
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 118
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 190
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 98
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 298
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1233
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 137
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 208
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 240
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 288
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 155
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 135
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 132
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9211
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 393
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 98
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 4409
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 190
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 149
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20104
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 2286
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 190
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 51
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "39",
+      "changwat": "หนองบัวลำภู",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 49
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองบัวลำภู (Nong Bua Lam Phu party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดหนองบัวลำภู. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองบัวลำภู (Nong Bua Lam Phu party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองบัวลำภู (Nong Bua Lam Phu party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "th-chaiyaphum-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดชัยภูมิ (Chaiyaphum Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดชัยภูมิ (Chaiyaphum Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดชัยภูมิ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chaiyaphum province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 36000,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3601: เมืองชัยภูมิ: Mueang Chaiyaphum",
+      "subdistricts": "360101: ในเมือง: Nai Mueang: 3601, 360102: รอบเมือง: Rop Mueang: 3601, 360103: โพนทอง: Phon Thong: 3601, 360104: นาฝาย: Na Fai: 3601, 360106: กุดตุ้ม: Kut Tum: 3601, 360107: ชีลอง: Chilong: 3601, 360108: บ้านเล่า: Ban Lao: 3601, 360109: นาเสียว: Na Siao: 3601, 360110: หนองนาแซง: Nong Na Saeng: 3601, 360111: ลาดใหญ่: Lat Yai: 3601, 360113: ท่าหินโงม: Tha Hin Ngom: 3601, 360114: ห้วยต้อน: Huai Ton: 3601, 360115: ห้วยบง: Huai Bong: 3601, 360117: โคกสูง: Khok Sung: 3601, 360118: บุ่งคล้า: Bung Khla: 3601, 360119: ซับสีทอง: Sap Si Thong: 3601"
+    },
+    {
+      "postal_code": 36110,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3610: ภูเขียว: Phu Khiao",
+      "subdistricts": "361001: ผักปัง: Phak Pang: 3610, 361002: กวางโจน: Kwang Chon: 3610, 361003: หนองคอนไทย: Nong Khon Thai: 3610, 361004: บ้านแก้ง: Ban Kaeng: 3610, 361005: กุดยม: Kut Yom: 3610, 361006: บ้านเพชร: Ban Phet: 3610, 361007: โคกสะอาด: Khok Sa-At: 3610, 361008: หนองตูม: Nong Tum: 3610, 361009: โอโล: O Lo: 3610, 361010: ธาตุทอง: That Thong: 3610, 361011: บ้านดอน: Ban Don: 3610"
+    },
+    {
+      "postal_code": 36120,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3604: เกษตรสมบูรณ์: Kaset Sombun",
+      "subdistricts": "360401: บ้านยาง: Ban Yang: 3604, 360402: บ้านหัน: Ban Han: 3604, 360403: บ้านเดื่อ: Ban Duea: 3604, 360404: บ้านเป้า: Ban Pao: 3604, 360405: กุดเลาะ: Kut Lo: 3604, 360406: โนนกอก: Non Kok: 3604, 360407: สระโพนทอง: Sa Phon Thong: 3604, 360408: หนองข่า: Nong Kha: 3604, 360409: หนองโพนงาม: Nong Phon Ngam: 3604, 360410: บ้านบัว: Ban Bua: 3604, 360412: โนนทอง: Non Thong: 3604"
+    },
+    {
+      "postal_code": 36130,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3606: จัตุรัส: Chatturat, 3615: เนินสง่า: Noen Sa-Nga, 3616: ซับใหญ่: Sap Yai",
+      "subdistricts": "360601: บ้านกอก: Ban Kok: 3606, 360602: หนองบัวบาน: Nong Bua Ban: 3606, 360603: บ้านขาม: Ban Kham: 3606, 360605: กุดน้ำใส: Kut Nam Sai: 3606, 360606: หนองโดน: Nong Don: 3606, 360607: ละหาน: Lahan: 3606, 360610: หนองบัวใหญ่: Nong Bua Yai: 3606, 360613: ส้มป่อย: Som Poi: 3606, 361501: หนองฉิม: Nong Chim: 3615, 361502: ตาเนิน: Ta Noen: 3615, 361503: กะฮาด: Kahat: 3615, 361504: รังงาม: Rang Ngam: 3615, 361601: ซับใหญ่: Sap Yai: 3616, 361602: ท่ากูบ: Tha Kup: 3616, 361603: ตะโกทอง: Tako Thong: 3616"
+    },
+    {
+      "postal_code": 36140,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3603: คอนสวรรค์: Khon Sawan",
+      "subdistricts": "360301: คอนสวรรค์: Khon Sawan: 3603, 360302: ยางหวาย: Yang Wai: 3603, 360303: ช่องสามหมอ: Chong Sam Mo: 3603, 360304: โนนสะอาด: Non Sa-At: 3603, 360305: ห้วยไร่: Huai Rai: 3603, 360306: บ้านโสก: Ban Sok: 3603, 360307: โคกมั่งงอย: Khok Mang Ngoi: 3603, 360308: หนองขาม: Nong Kham: 3603, 360309: ศรีสำราญ: Si Samran: 3603"
+    },
+    {
+      "postal_code": 36150,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3612: แก้งคร้อ: Kaeng Khro",
+      "subdistricts": "361201: ช่องสามหมอ: Chong Sam Mo: 3612, 361202: หนองขาม: Nong Kham: 3612, 361203: นาหนองทุ่ม: Na Nong Thum: 3612, 361204: บ้านแก้ง: Ban Kaeng: 3612, 361205: หนองสังข์: Nong Sang: 3612, 361206: หลุบคา: Lup Kha: 3612, 361207: โคกกุง: Khok Kung: 3612, 361208: เก่าย่าดี: Kao Ya Di: 3612, 361209: ท่ามะไฟหวาน: Tha Mafai Wan: 3612, 361210: หนองไผ่: Nong Phai: 3612"
+    },
+    {
+      "postal_code": 36160,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3607: บำเหน็จณรงค์: Bamnet Narong",
+      "subdistricts": "360701: บ้านชวน: Ban Chuan: 3607, 360702: บ้านเพชร: Ban Phet: 3607, 360705: โคกเริงรมย์: Khok Roeng Rom: 3607, 360706: เกาะมะนาว: Ko Manao: 3607, 360707: โคกเพชรพัฒนา: Khok Phet Phatthana: 3607"
+    },
+    {
+      "postal_code": 36170,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3602: บ้านเขว้า: Ban Khwao",
+      "subdistricts": "360201: บ้านเขว้า: Ban Khwao: 3602, 360202: ตลาดแร้ง: Talat Raeng: 3602, 360203: ลุ่มลำชี: Lum Lam Chi: 3602, 360204: ชีบน: Chi Bon: 3602, 360205: ภูแลนคา: Phu Laen Kha: 3602, 360206: โนนแดง: Non Daeng: 3602"
+    },
+    {
+      "postal_code": 36180,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3613: คอนสาร: Khon San",
+      "subdistricts": "361301: คอนสาร: Khon San: 3613, 361302: ทุ่งพระ: Thung Phra: 3613, 361303: โนนคูณ: Non Khun: 3613, 361304: ห้วยยาง: Huai Yang: 3613, 361305: ทุ่งลุยลาย: Thung Lui Lai: 3613, 361306: ดงบัง: Dong Bang: 3613, 361307: ทุ่งนาเลา: Thung Na Lao: 3613, 361308: ดงกลาง: Dong Klang: 3613"
+    },
+    {
+      "postal_code": 36190,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3611: บ้านแท่น: Ban Thaen",
+      "subdistricts": "361101: บ้านแท่น: Ban Thaen: 3611, 361102: สามสวน: Sam Suan: 3611, 361103: สระพัง: Sa Phang: 3611, 361104: บ้านเต่า: Ban Tao: 3611, 361105: หนองคู: Nong Khu: 3611"
+    },
+    {
+      "postal_code": 36210,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3605: หนองบัวแดง: Nong Bua Daeng",
+      "subdistricts": "360501: หนองบัวแดง: Nong Bua Daeng: 3605, 360502: กุดชุมแสง: Kut Chum Saeng: 3605, 360503: ถ้ำวัวแดง: Tham Wua Daeng: 3605, 360504: นางแดด: Nang Daet: 3605, 360507: หนองแวง: Nong Waeng: 3605, 360508: คูเมือง: Khu Mueang: 3605, 360509: ท่าใหญ่: Tha Yai: 3605, 360511: วังชมภู: Wang Chomphu: 3605"
+    },
+    {
+      "postal_code": 36220,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3606: จัตุรัส: Chatturat, 3607: บำเหน็จณรงค์: Bamnet Narong",
+      "subdistricts": "360611: หนองบัวโคก: Nong Bua Khok: 3606, 360703: บ้านตาล: Ban Tan: 3607, 360704: หัวทะเล: Hua Thale: 3607"
+    },
+    {
+      "postal_code": 36230,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3609: เทพสถิต: Thep Sathit",
+      "subdistricts": "360901: วะตะแบก: Wa Tabaek: 3609, 360902: ห้วยยายจิ๋ว: Huai Yai Chio: 3609, 360903: นายางกลัก: Na Yang Klak: 3609, 360904: บ้านไร่: Ban Rai: 3609, 360905: โป่งนก: Pong Nok: 3609"
+    },
+    {
+      "postal_code": 36240,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3601: เมืองชัยภูมิ: Mueang Chaiyaphum",
+      "subdistricts": "360105: บ้านค่าย: Ban Khai: 3601, 360112: หนองไผ่: Nong Phai: 3601, 360116: โนนสำราญ: Non Samran: 3601"
+    },
+    {
+      "postal_code": 36250,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3608: หนองบัวระเหว: Nong Bua Rawe",
+      "subdistricts": "360801: หนองบัวระเหว: Nong Bua Rawe: 3608, 360802: วังตะเฆ่: Wang Takhe: 3608, 360803: ห้วยแย้: Huai Yae: 3608, 360804: โคกสะอาด: Khok Sa-At: 3608, 360805: โสกปลาดุก: Sok Pla Duk: 3608"
+    },
+    {
+      "postal_code": 36260,
+      "province_code": 36,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "districts": "3614: ภักดีชุมพล: Phakdi Chumphon",
+      "subdistricts": "361401: บ้านเจียง: Ban Chiang: 3614, 361402: เจาทอง: Chao Thong: 3614, 361403: วังทอง: Wang Thong: 3614, 361404: แหลมทอง: Laem Thong: 3614"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดชัยภูมิ (Chaiyaphum Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดชัยภูมิ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chaiyaphum province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 16 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดชัยภูมิ (Chaiyaphum Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดชัยภูมิ (Chaiyaphum Postal Codes) — 16 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 16 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

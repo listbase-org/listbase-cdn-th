@@ -1,0 +1,1424 @@
+{
+  "id": "th-krabi-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กระบี่ (Krabi party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กระบี่ (Krabi party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดกระบี่. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 266
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3417
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 466
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 352
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 374
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1270
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 76
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1364
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 2540
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 328
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรฐกิจ",
+      "votes": 1549
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 190
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 362
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 6
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 111
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 34327
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 72
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 673
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 69
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 170
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 147
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 3609
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 99
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 102
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15064
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 67
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 239
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 151
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 113
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22325
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 151
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 168
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 3
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 122
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 194
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2137
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 152
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 369
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 277
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 782
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 112
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1101
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1596
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 261
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1094
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 183
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 198
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 22
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 37
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 32
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 158
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 47619
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 86
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 332
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 94
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 525
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 57
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 159
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 8218
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 188
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 151
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 86
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 13386
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 119
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 168
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 5
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 241
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "2",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 488
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 673
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 209
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 450
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2159
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 798
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 100
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1258
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 2057
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 289
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1224
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 200
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 300
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 82
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 85
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 171
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 46386
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 87
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 369
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 76
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 91
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 1324
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 73
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13112
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 487
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 15095
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 114
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 9
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 232
+    },
+    {
+      "changwat_code": "81",
+      "changwat": "กระบี่",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 48
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กระบี่ (Krabi party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดกระบี่. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กระบี่ (Krabi party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กระบี่ (Krabi party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

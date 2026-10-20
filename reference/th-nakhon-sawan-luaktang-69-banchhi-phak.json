@@ -1,0 +1,2800 @@
+{
+  "id": "th-nakhon-sawan-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครสวรรค์ (Nakhon Sawan party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครสวรรค์ (Nakhon Sawan party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครสวรรค์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 343,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 156
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 750
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2104
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 411
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 662
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2704
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 98
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 490
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6401
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 529
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2758
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 393
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 382
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 237
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 23
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 7173
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 95
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1165
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 89
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 145
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 157
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 141
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 27799
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 87
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 189
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 155
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 438
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 33966
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 148
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 272
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 242
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 3
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 28
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 322
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1375
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2346
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 202
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2644
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2170
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 161
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 713
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12742
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 449
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3087
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 417
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 487
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 343
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 196
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 210
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 43
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชันใหม่",
+      "votes": 62
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 74
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 129
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 7262
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 135
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 621
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 172
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 216
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 262
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 240
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 229
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 177
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 28543
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 264
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 65
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 136
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 178
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 655
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 80
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 26024
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 221
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 269
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 162
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 84
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 981
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1732
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1206
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 437
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 5674
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2202
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 203
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 682
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10490
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 566
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4063
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 491
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 823
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 1041
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 289
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 288
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 72
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 68
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 219
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 87
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 158
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 8566
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 230
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 497
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างไทย",
+      "votes": 250
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 250
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 202
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 203
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 426
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 250
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 228
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 12777
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 229
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 64
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 112
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3782
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 371
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 180
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27442
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 211
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 380
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 203
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 84
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 242
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 103
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 596
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 6443
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 870
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 351
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1208
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1750
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 122
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 605
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10320
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 396
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3303
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 430
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 574
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 5452
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 267
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 193
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 47
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 97
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3619
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 157
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 399
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 210
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 665
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 233
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 168
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 195
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 196
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 210
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20176
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 236
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 100
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 301
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 245
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 117
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21276
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 171
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 294
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 126
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 124
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 564
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1153
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 475
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2541
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1300
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1843
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 120
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 787
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8363
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 427
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3321
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 405
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 565
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 3858
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 94
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 249
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 231
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 64
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 33
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 89
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5210
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 126
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 570
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 169
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 242
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 170
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 334
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "34",
+      "party": "สรางอนาคตไทย",
+      "votes": 373
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 210
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 218
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 25322
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 183
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 62
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 65
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 134
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 23122
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 386
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 255
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 316
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 308
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 164
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือขายชาวนาแหงประเทศไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 62
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 72
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "1",
+      "party": "Unknown Party",
+      "votes": 0
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 697
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 4539
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 686
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 319
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 3935
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1420
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 114
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 710
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 8528
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 431
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 3321
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 392
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 676
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 581
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 263
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 250
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 49
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "22",
+      "party": "ไทยรวมพลัง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 89
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "25",
+      "party": "วินัยไทย",
+      "votes": 206
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 78
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 6465
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 139
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 369
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 188
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 454
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 187
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 190
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 360
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 190
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 17400
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 211
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 64
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 125
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 62
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 3322
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 251
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "45",
+      "party": "โอกาสไทย",
+      "votes": 1015
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 132
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 21582
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 203
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 350
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 142
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 69
+    },
+    {
+      "changwat_code": "60",
+      "changwat": "นครสวรรค์",
+      "khet": "6",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 72
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครสวรรค์ (Nakhon Sawan party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครสวรรค์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 343 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครสวรรค์ (Nakhon Sawan party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครสวรรค์ (Nakhon Sawan party-list ballots) — 343 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 343 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

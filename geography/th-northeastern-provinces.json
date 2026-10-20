@@ -1,0 +1,216 @@
+{
+  "id": "th-northeastern-provinces",
+  "name": "ภาคตะวันออกเฉียงเหนือ — จังหวัดในภาคอีสาน (Northeastern Provinces of Thailand / Isan)",
+  "title": "ภาคตะวันออกเฉียงเหนือ — จังหวัดในภาคอีสาน (Northeastern Provinces of Thailand / Isan)",
+  "description": "Provinces (จังหวัด) located in Northeastern Thailand (ภาคตะวันออกเฉียงเหนือ / อีสาน). Largest region by area and population. Includes Khon Kaen, Nakhon Ratchasima.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "province_id",
+      "label": "Province Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_th",
+      "label": "Region Th",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province_id": 19,
+      "name_th": "นครราชสีมา",
+      "name_en": "Nakhon Ratchasima",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 20,
+      "name_th": "บุรีรัมย์",
+      "name_en": "Buri Ram",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 21,
+      "name_th": "สุรินทร์",
+      "name_en": "Surin",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 22,
+      "name_th": "ศรีสะเกษ",
+      "name_en": "Si Sa Ket",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 23,
+      "name_th": "อุบลราชธานี",
+      "name_en": "Ubon Ratchathani",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 24,
+      "name_th": "ยโสธร",
+      "name_en": "Yasothon",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 25,
+      "name_th": "ชัยภูมิ",
+      "name_en": "Chaiyaphum",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 26,
+      "name_th": "อำนาจเจริญ",
+      "name_en": "Amnat Charoen",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 27,
+      "name_th": "หนองบัวลำภู",
+      "name_en": "Nong Bua Lam Phu",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 28,
+      "name_th": "ขอนแก่น",
+      "name_en": "Khon Kaen",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 29,
+      "name_th": "อุดรธานี",
+      "name_en": "Udon Thani",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 30,
+      "name_th": "เลย",
+      "name_en": "Loei",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 31,
+      "name_th": "หนองคาย",
+      "name_en": "Nong Khai",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 32,
+      "name_th": "มหาสารคาม",
+      "name_en": "Maha Sarakham",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 33,
+      "name_th": "ร้อยเอ็ด",
+      "name_en": "Roi Et",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 34,
+      "name_th": "กาฬสินธุ์",
+      "name_en": "Kalasin",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 35,
+      "name_th": "สกลนคร",
+      "name_en": "Sakon Nakhon",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 36,
+      "name_th": "นครพนม",
+      "name_en": "Nakhon Phanom",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 37,
+      "name_th": "มุกดาหาร",
+      "name_en": "Mukdahan",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    },
+    {
+      "province_id": 77,
+      "name_th": "บึงกาฬ",
+      "name_en": "Bueng Kan",
+      "region_id": 3,
+      "region_th": "ภาคตะวันออกเฉียงเหนือ",
+      "region_en": "Northeastern"
+    }
+  ],
+  "meta": {
+    "title": "ภาคตะวันออกเฉียงเหนือ — จังหวัดในภาคอีสาน (Northeastern Provinces of Thailand / Isan) - ดาวน์โหลดฟรี",
+    "description": "Provinces (จังหวัด) located in Northeastern Thailand (ภาคตะวันออกเฉียงเหนือ / อีสาน). Largest region by area and population. Includes Khon Kaen, Nakhon Ratchasima. มีทั้งหมด 20 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาคตะวันออกเฉียงเหนือ — จังหวัดในภาคอีสาน (Northeastern Provinces of Thailand / Isan) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาคตะวันออกเฉียงเหนือ — จังหวัดในภาคอีสาน (Northeastern Provinces of Thailand / Isan) — 20 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 20 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

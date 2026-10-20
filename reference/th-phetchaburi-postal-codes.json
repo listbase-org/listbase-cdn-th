@@ -1,0 +1,128 @@
+{
+  "id": "th-phetchaburi-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดเพชรบุรี (Phetchaburi Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดเพชรบุรี (Phetchaburi Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดเพชรบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phetchaburi province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 76000,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7601: เมืองเพชรบุรี: Mueang Phetchaburi",
+      "subdistricts": "760101: ท่าราบ: Tha Rap: 7601, 760102: คลองกระแชง: Khlong Krachaeng: 7601, 760103: บางจาน: Bang Chan: 7601, 760104: นาพันสาม: Na Phan Sam: 7601, 760105: ธงชัย: Thong Chai: 7601, 760106: บ้านกุ่ม: Ban Kum: 7601, 760107: หนองโสน: Nong Sano: 7601, 760108: ไร่ส้ม: Rai Som: 7601, 760109: เวียงคอย: Wiang Khoi: 7601, 760110: บางจาก: Bang Chak: 7601, 760111: บ้านหม้อ: Ban Mo: 7601, 760112: ต้นมะม่วง: Ton Mamuang: 7601, 760113: ช่องสะแก: Chong Sakae: 7601, 760114: นาวุ้ง: Na Wung: 7601, 760115: สำมะโรง: Sam Marong: 7601, 760116: โพพระ: Pho Phra: 7601, 760118: หัวสะพาน: Hua Saphan: 7601, 760119: ต้นมะพร้าว: Ton Maphrao: 7601, 760120: วังตะโก: Wang Tako: 7601, 760121: โพไร่หวาน: Pho Rai Wan: 7601, 760122: ดอนยาง: Don Yang: 7601, 760123: หนองขนาน: Nong Khanan: 7601, 760124: หนองพลับ: Nong Phlap: 7601"
+    },
+    {
+      "postal_code": 76100,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7601: เมืองเพชรบุรี: Mueang Phetchaburi, 7607: บ้านแหลม: Ban Laem",
+      "subdistricts": "760117: หาดเจ้าสำราญ: Hat Chao Samran: 7601, 760705: แหลมผักเบี้ย: Laem Phak Bia: 7607"
+    },
+    {
+      "postal_code": 76110,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7607: บ้านแหลม: Ban Laem",
+      "subdistricts": "760701: บ้านแหลม: Ban Laem: 7607, 760702: บางขุนไทร: Bang Khun Sai: 7607, 760703: ปากทะเล: Pak Thale: 7607, 760704: บางแก้ว: Bang Kaeo: 7607, 760706: บางตะบูน: Bang Tabun: 7607, 760707: บางตะบูนออก: Bang Tabun Ok: 7607, 760708: บางครก: Bang Khrok: 7607, 760709: ท่าแร้ง: Tha Raeng: 7607, 760710: ท่าแร้งออก: Tha Raeng Ok: 7607"
+    },
+    {
+      "postal_code": 76120,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7604: ชะอำ: Cha-Am",
+      "subdistricts": "760401: ชะอำ: Cha-Am: 7604, 760402: บางเก่า: Bang Kao: 7604, 760403: นายาง: Na Yang: 7604, 760404: เขาใหญ่: Khao Yai: 7604, 760405: หนองศาลา: Nong Sala: 7604, 760406: ห้วยทรายเหนือ: Huai Sai Nuea: 7604, 760407: ไร่ใหม่พัฒนา: Rai Mai Phatthana: 7604, 760408: สามพระยา: Sam Phraya: 7604, 760409: ดอนขุนห้วย: Don Khun Huai: 7604"
+    },
+    {
+      "postal_code": 76130,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7605: ท่ายาง: Tha Yang",
+      "subdistricts": "760501: ท่ายาง: Tha Yang: 7605, 760502: ท่าคอย: Tha Khoi: 7605, 760503: ยางหย่อง: Yang Yong: 7605, 760504: หนองจอก: Nong Chok: 7605, 760505: มาบปลาเค้า: Map Pla Khao: 7605, 760506: ท่าไม้รวก: Tha Mai Ruak: 7605, 760507: วังไคร้: Wang Khrai: 7605, 760511: กลัดหลวง: Klat Luang: 7605, 760512: ปึกเตียน: Puek Tian: 7605, 760513: เขากระปุก: Khao Krapuk: 7605, 760514: ท่าแลง: Tha Laeng: 7605, 760515: บ้านในดง: Ban Nai Dong: 7605"
+    },
+    {
+      "postal_code": 76140,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7602: เขาย้อย: Khao Yoi",
+      "subdistricts": "760201: เขาย้อย: Khao Yoi: 7602, 760202: สระพัง: Sa Phang: 7602, 760203: บางเค็ม: Bang Khem: 7602, 760204: ทับคาง: Thap Khang: 7602, 760205: หนองปลาไหล: Nong Pla Lai: 7602, 760206: หนองปรง: Nong Prong: 7602, 760207: หนองชุมพล: Nong Chumphon: 7602, 760208: ห้วยโรง: Huai Rong: 7602, 760209: ห้วยท่าช้าง: Huai Tha Chang: 7602, 760210: หนองชุมพลเหนือ: Nong Chumphon Nuea: 7602"
+    },
+    {
+      "postal_code": 76150,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7606: บ้านลาด: Ban Lat",
+      "subdistricts": "760601: บ้านลาด: Ban Lat: 7606, 760602: บ้านหาด: Ban Hat: 7606, 760603: บ้านทาน: Ban Than: 7606, 760604: ตำหรุ: Tamru: 7606, 760605: สมอพลือ: Samo Phlue: 7606, 760606: ไร่มะขาม: Rai Makham: 7606, 760607: ท่าเสน: Tha Sen: 7606, 760608: หนองกระเจ็ด: Nong Krachet: 7606, 760609: หนองกะปุ: Nong Kapu: 7606, 760610: ลาดโพธิ์: Lat Pho: 7606, 760611: สะพานไกร: Saphan Krai: 7606, 760612: ไร่โคก: Rai Khok: 7606, 760613: โรงเข้: Rong Khe: 7606, 760614: ไร่สะท้อน: Rai Sathon: 7606, 760615: ห้วยข้อง: Huai Khong: 7606, 760616: ท่าช้าง: Tha Chang: 7606, 760617: ถ้ำรงค์: Tham Rong: 7606, 760618: ห้วยลึก: Huai Luek: 7606"
+    },
+    {
+      "postal_code": 76160,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7603: หนองหญ้าปล้อง: Nong Ya Plong",
+      "subdistricts": "760301: หนองหญ้าปล้อง: Nong Ya Plong: 7603, 760302: ยางน้ำกลัดเหนือ: Yang Nam Klat Nuea: 7603, 760303: ยางน้ำกลัดใต้: Yang Nam Klat Tai: 7603, 760304: ท่าตะคร้อ: Tha Takhro: 7603"
+    },
+    {
+      "postal_code": 76170,
+      "province_code": 76,
+      "province_name_th": "เพชรบุรี",
+      "province_name_en": "Phetchaburi",
+      "districts": "7608: แก่งกระจาน: Kaeng Krachan",
+      "subdistricts": "760801: แก่งกระจาน: Kaeng Krachan: 7608, 760802: สองพี่น้อง: Song Phi Nong: 7608, 760803: วังจันทร์: Wang Chan: 7608, 760804: ป่าเด็ง: Pa Deng: 7608, 760805: พุสวรรค์: Phu Sawan: 7608, 760806: ห้วยแม่เพรียง: Huai Mae Phriang: 7608"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดเพชรบุรี (Phetchaburi Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดเพชรบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phetchaburi province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดเพชรบุรี (Phetchaburi Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดเพชรบุรี (Phetchaburi Postal Codes) — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

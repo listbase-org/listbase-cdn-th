@@ -1,0 +1,2336 @@
+{
+  "id": "th-suphan-buri-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุพรรณบุรี (Suphan Buri party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุพรรณบุรี (Suphan Buri party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสุพรรณบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1532
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 975
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 190
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 63
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 451
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1766
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 261
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 583
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6073
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 386
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2090
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 512
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 365
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 20
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 72
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2771
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 91
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 739
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 170
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 231
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 135
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 143
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 213
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 39992
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 136
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 54
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 140
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 98
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 31712
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 330
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 393
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 195
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 5
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 522
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1120
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 451
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2078
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 129
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1387
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 613
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 527
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6833
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 412
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2164
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 462
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 473
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 136
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 25
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2600
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 88
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 383
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 103
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 110
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 191
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 350
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 229
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 33279
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 143
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 362
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27020
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 212
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 291
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 186
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 313
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1519
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 387
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1933
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 813
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4904
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 247
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 643
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 7973
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 521
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2712
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 530
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 599
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 162
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 47
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 97
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3151
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 163
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 473
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 181
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 145
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 285
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 324
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 321
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 336
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 34037
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 210
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 67
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 53
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2787
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 172
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 106
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 29244
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 265
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 291
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 208
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 47
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 461
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1684
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 669
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 269
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3655
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1420
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 254
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 810
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8499
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 414
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2872
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 524
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 555
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 89
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 251
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 53
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 32
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2258
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 122
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 395
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 187
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 255
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 265
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 160
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 355
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 472
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 293
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 32516
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 284
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 101
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 296
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 249
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 163
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 114
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27319
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 246
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 291
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 159
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 17
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 48
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 271
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1596
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 831
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 470
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3358
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1777
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 207
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 659
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 11746
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 459
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2782
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 536
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 676
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 183
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 31
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 31
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2339
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 135
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 568
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 213
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 250
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 174
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 378
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 330
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 238
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 33826
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 270
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 81
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 173
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 136
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 98
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 31538
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 271
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 435
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 233
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "72",
+      "changwat": "สุพรรณบุรี",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 93
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุพรรณบุรี (Suphan Buri party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสุพรรณบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 285 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุพรรณบุรี (Suphan Buri party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุพรรณบุรี (Suphan Buri party-list ballots) — 285 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 285 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

@@ -1,0 +1,1880 @@
+{
+  "id": "th-loei-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เลย (Loei party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เลย (Loei party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเลย. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 228,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 511
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1360
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 312
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 198
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1578
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1737
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 2155
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 450
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 28641
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 383
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3145
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 762
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 473
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 332
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 83
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 154
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3457
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 113
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 503
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 103
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 85
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "34",
+      "party": "สรางอนาคตไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 104
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 232
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9287
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 374
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 29
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1678
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 188
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 1393
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 78
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24473
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 131
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 363
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 256
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 51
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 937
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4639
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1247
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 345
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1687
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1353
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 203
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 392
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 20153
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 338
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3944
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 667
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 751
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 138
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 308
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 52
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 52
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 131
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2228
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 163
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 377
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 224
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 372
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 209
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 123
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 366
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 123
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 149
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6485
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 407
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 44
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 85
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 505
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 2631
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 158
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 135
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21297
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 555
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 327
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 15
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 85
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 48
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 86
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 478
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1991
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2125
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 579
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 810
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1156
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 201
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 670
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12196
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 368
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2962
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 519
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 613
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องถิ่นไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 230
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 251
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 27
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 40
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 82
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "26",
+      "party": "ลองไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5478
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 136
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 326
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 173
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 314
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 315
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 223
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 157
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 161
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 206
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 24802
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 308
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 148
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 696
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22107
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 233
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 519
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 190
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 70
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 760
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2100
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1138
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1743
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 944
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1454
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 252
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 575
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 23551
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 393
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3679
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 737
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 746
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 141
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 326
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 44
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 101
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3762
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 151
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 259
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 137
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 193
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 181
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 248
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 171
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 154
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 7307
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 495
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 387
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 630
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 1149
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 135
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19786
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 939
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 393
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 192
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 53
+    },
+    {
+      "changwat_code": "42",
+      "changwat": "เลย",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 78
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เลย (Loei party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเลย. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 228 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เลย (Loei party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เลย (Loei party-list ballots) — 228 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 228 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

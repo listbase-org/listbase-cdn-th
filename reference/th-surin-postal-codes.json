@@ -1,0 +1,160 @@
+{
+  "id": "th-surin-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสุรินทร์ (Surin Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสุรินทร์ (Surin Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสุรินทร์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Surin province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 32000,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3201: เมืองสุรินทร์: Mueang Surin, 3216: เขวาสินรินทร์: Khwao Sinarin",
+      "subdistricts": "320101: ในเมือง: Nai Mueang: 3201, 320102: ตั้งใจ: Tang Chai: 3201, 320103: เพี้ยราม: Phia Ram: 3201, 320104: นาดี: Na Di: 3201, 320105: ท่าสว่าง: Tha Sawang: 3201, 320106: สลักได: Salak Dai: 3201, 320107: ตาอ็อง: Ta-Ong: 3201, 320109: สำโรง: Samrong: 3201, 320110: แกใหญ่: Kae Yai: 3201, 320111: นอกเมือง: Nok Mueang: 3201, 320112: คอโค: Kho Kho: 3201, 320113: สวาย: Sawat: 3201, 320114: เฉนียง: Chaniang: 3201, 320116: เทนมีย์: Then Mi: 3201, 320118: นาบัว: Na Bua: 3201, 320119: เมืองที: Mueang Thi: 3201, 320120: ราม: Ram: 3201, 320121: บุฤาษี: Bu Ruesi: 3201, 320122: ตระแสง: Trasaeng: 3201, 320125: แสลงพันธ์: Salaeng Phan: 3201, 320126: กาเกาะ: Ka Ko: 3201, 321601: เขวาสินรินทร์: Khewa Sinarin: 3216, 321602: บึง: Bueng: 3216, 321603: ตากูก: Ta Kuk: 3216, 321604: ปราสาททอง: Prasat Thong: 3216, 321605: บ้านแร่: Ban Rae: 3216"
+    },
+    {
+      "postal_code": 32110,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3209: ศีขรภูมิ: Sikhoraphum",
+      "subdistricts": "320901: ระแงง: Ra-Ngaeng: 3209, 320902: ตรึม: Truem: 3209, 320903: จารพัต: Charaphat: 3209, 320904: ยาง: Yang: 3209, 320905: แตล: Tlae: 3209, 320906: หนองบัว: Nong Bua: 3209, 320907: คาละแมะ: Khalamae: 3209, 320908: หนองเหล็ก: Nong Lek: 3209, 320909: หนองขวาว: Nong Khwao: 3209, 320910: ช่างปี่: Chang Pi: 3209, 320911: กุดหวาย: Kut Wai: 3209, 320912: ขวาวใหญ่: Khwao Yai: 3209, 320913: นารุ่ง: Na Rung: 3209, 320914: ตรมไพร: Trom Phrai: 3209, 320915: ผักไหม: Phak Mai: 3209"
+    },
+    {
+      "postal_code": 32120,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3203: ท่าตูม: Tha Tum",
+      "subdistricts": "320301: ท่าตูม: Tha Tum: 3203, 320302: กระโพ: Krapho: 3203, 320303: พรมเทพ: Phrom Thep: 3203, 320304: โพนครก: Phon Khrok: 3203, 320305: เมืองแก: Mueang Kae: 3203, 320306: บะ: Ba: 3203, 320307: หนองบัว: Nong Bua: 3203, 320308: บัวโคก: Bua Khok: 3203, 320309: หนองเมธี: Nong Methi: 3203, 320310: ทุ่งกุลา: Thung Kula: 3203"
+    },
+    {
+      "postal_code": 32130,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3207: รัตนบุรี: Rattanaburi, 3217: โนนนารายณ์: Non Narai",
+      "subdistricts": "320701: รัตนบุรี: Rattana Buri: 3207, 320702: ธาตุ: That: 3207, 320703: แก: Kae: 3207, 320704: ดอนแรด: Don Raet: 3207, 320705: หนองบัวทอง: Nong Bua Thong: 3207, 320706: หนองบัวบาน: Nong Bua Ban: 3207, 320709: ไผ่: Phai: 3207, 320711: เบิด: Boet: 3207, 320713: น้ำเขียว: Nam Khiao: 3207, 320714: กุดขาคีม: Kut Kha Khim: 3207, 320715: ยางสว่าง: Yang Sawang: 3207, 320716: ทับใหญ่: Thap Yai: 3207, 321701: หนองหลวง: Nong Luang: 3217, 321702: คำผง: Kham Phong: 3217, 321703: โนน: Non: 3217, 321704: ระเวียง: Rawiang: 3217, 321705: หนองเทพ: Nong Thep: 3217"
+    },
+    {
+      "postal_code": 32140,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3205: ปราสาท: Prasat, 3214: พนมดงรัก: Phanom Dong Rak",
+      "subdistricts": "320501: กังแอน: Kang Aen: 3205, 320502: ทมอ: Thamo: 3205, 320503: ไพล: Phrai: 3205, 320504: ปรือ: Prue: 3205, 320505: ทุ่งมน: Thung Mon: 3205, 320506: ตาเบา: Ta Bao: 3205, 320507: หนองใหญ่: Nong Yai: 3205, 320508: โคกยาง: Khok Yang: 3205, 320509: โคกสะอาด: Khok Sa-At: 3205, 320510: บ้านไทร: Ban Sai: 3205, 320511: โชคนาสาม: Chok Na Sam: 3205, 320512: เชื้อเพลิง: Chue Phloeng: 3205, 320513: ปราสาททนง: Prasat Thanong: 3205, 320514: ตานี: Tani: 3205, 320515: บ้านพลวง: Ban Phluang: 3205, 320516: กันตวจระมวล: Kanta Wacharamuan: 3205, 320517: สมุด: Samut: 3205, 320518: ประทัดบุ: Prathat Bu: 3205, 321401: บักได: Bak Dai: 3214, 321402: โคกกลาง: Khok Klang: 3214, 321403: จีกแดก: Chik Daek: 3214, 321404: ตาเมียง: Ta Miang: 3214"
+    },
+    {
+      "postal_code": 32150,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3210: สังขะ: Sangkha, 3215: ศรีณรงค์: Si Narong",
+      "subdistricts": "321001: สังขะ: Sangkha: 3210, 321002: ขอนแตก: Khon Taek: 3210, 321006: ดม: Dom: 3210, 321007: พระแก้ว: Phra Kaeo: 3210, 321008: บ้านจารย์: Ban Chan: 3210, 321009: กระเทียม: Krathiam: 3210, 321010: สะกาด: Sakat: 3210, 321011: ตาตุม: Tatum: 3210, 321012: ทับทัน: Thapthan: 3210, 321013: ตาคง: Ta Khong: 3210, 321015: บ้านชบ: Ban Chop: 3210, 321017: เทพรักษา: Thep Raksa: 3210, 321501: ณรงค์: Narong: 3215, 321502: แจนแวน: Chaen Waen: 3215, 321503: ตรวจ: Truat: 3215, 321504: หนองแวง: Nong Waeng: 3215, 321505: ศรีสุข: Si Suk: 3215"
+    },
+    {
+      "postal_code": 32160,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3208: สนม: Sanom",
+      "subdistricts": "320801: สนม: Sanom: 3208, 320802: โพนโก: Phon Ko: 3208, 320803: หนองระฆัง: Nong Rakhang: 3208, 320804: นานวน: Na Nuan: 3208, 320805: แคน: Khaen: 3208, 320806: หัวงัว: Hua Ngua: 3208, 320807: หนองอียอ: Nong I Yo: 3208"
+    },
+    {
+      "postal_code": 32170,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3212: สำโรงทาบ: Samrong Thap",
+      "subdistricts": "321201: สำโรงทาบ: Samrong Thap: 3212, 321202: หนองไผ่ล้อม: Nong Phai Lom: 3212, 321203: กระออม: Kra-Om: 3212, 321204: หนองฮะ: Nong Ha: 3212, 321205: ศรีสุข: Si Suk: 3212, 321206: เกาะแก้ว: Ko Kaeo: 3212, 321207: หมื่นศรี: Muen Si: 3212, 321208: เสม็จ: Samet: 3212, 321209: สะโน: Sano: 3212, 321210: ประดู่: Pradu: 3212"
+    },
+    {
+      "postal_code": 32180,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3204: จอมพระ: Chom Phra",
+      "subdistricts": "320401: จอมพระ: Chom Phra: 3204, 320402: เมืองลีง: Mueang Lueng: 3204, 320403: กระหาด: Krahat: 3204, 320404: บุแกรง: Bu Kraeng: 3204, 320405: หนองสนิท: Nong Sanit: 3204, 320406: บ้านผือ: Ban Phue: 3204, 320407: ลุ่มระวี: Lum Rawi: 3204, 320408: ชุมแสง: Chum Saeng: 3204, 320409: เป็นสุข: Pen Suk: 3204"
+    },
+    {
+      "postal_code": 32190,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3202: ชุมพลบุรี: Chumphon Buri",
+      "subdistricts": "320201: ชุมพลบุรี: Chumphon Buri: 3202, 320202: นาหนองไผ่: Na Nong Phai: 3202, 320203: ไพรขลา: Phrai Khla: 3202, 320204: ศรีณรงค์: Si Narong: 3202, 320205: ยะวึก: Yawuek: 3202, 320206: เมืองบัว: Mueang Bua: 3202, 320207: สระขุด: Sa Khut: 3202, 320208: กระเบื้อง: Krabueang: 3202, 320209: หนองเรือ: Nong Ruea: 3202"
+    },
+    {
+      "postal_code": 32210,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3206: กาบเชิง: Kap Choeng",
+      "subdistricts": "320601: กาบเชิง: Kap Choeng: 3206, 320604: คูตัน: Khu Tan: 3206, 320605: ด่าน: Dan: 3206, 320606: แนงมุด: Naeng Mut: 3206, 320607: โคกตะเคียน: Khok Takhian: 3206, 320610: ตะเคียน: Takhian: 3206"
+    },
+    {
+      "postal_code": 32220,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3211: ลำดวน: Lamduan",
+      "subdistricts": "321101: ลำดวน: Lamduan: 3211, 321102: โชคเหนือ: Chok Nuea: 3211, 321103: อู่โลก: U Lok: 3211, 321104: ตรำดม: Tramdom: 3211, 321105: ตระเปียงเตีย: Trapiang Tia: 3211"
+    },
+    {
+      "postal_code": 32230,
+      "province_code": 32,
+      "province_name_th": "สุรินทร์",
+      "province_name_en": "Surin",
+      "districts": "3213: บัวเชด: Buachet",
+      "subdistricts": "321301: บัวเชด: Bua Chet: 3213, 321302: สะเดา: Sadao: 3213, 321303: จรัส: Charat: 3213, 321304: ตาวัง: Ta Wang: 3213, 321305: อาโพน: A Phon: 3213, 321306: สำเภาลูน: Samphao Lun: 3213"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสุรินทร์ (Surin Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสุรินทร์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Surin province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 13 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสุรินทร์ (Surin Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสุรินทร์ (Surin Postal Codes) — 13 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 13 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

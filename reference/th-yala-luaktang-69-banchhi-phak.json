@@ -1,0 +1,1440 @@
+{
+  "id": "th-yala-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ยะลา (Yala party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ยะลา (Yala party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดยะลา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 173,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 776
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 704
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1416
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1239
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 271
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1348
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัติ",
+      "votes": 327
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 630
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1454
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 362
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1001
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 213
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 404
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 42
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 164
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 16426
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 97
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 546
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 103
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 189
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 24130
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 147
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 161
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8698
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2001
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 231
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 502
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 26129
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 135
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 305
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 8
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "1",
+      "party": "ไม่ระบุ",
+      "votes": 0
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 461
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "3",
+      "party": "ไม่ระบุ",
+      "votes": 0
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "4",
+      "party": "เพื่อชาติไทย",
+      "votes": 757
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "5",
+      "party": "ใหม่",
+      "votes": 1856
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "6",
+      "party": "มิติใหม่",
+      "votes": 826
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมใจไทย",
+      "votes": 363
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "8",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 510
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "9",
+      "party": "พลวัติ",
+      "votes": 1772
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "10",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 473
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "11",
+      "party": "เพื่อไทย",
+      "votes": 968
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "12",
+      "party": "ทางเลือกใหม่",
+      "votes": 179
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "13",
+      "party": "เศรษฐกิจ",
+      "votes": 375
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "14",
+      "party": "เสรีรวมไทย",
+      "votes": 129
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "15",
+      "party": "รวมพลังประชาชน",
+      "votes": 454
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "16",
+      "party": "ท้องที่ไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "17",
+      "party": "อนาคตไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังเพื่อไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "19",
+      "party": "ไทยชนะ",
+      "votes": 137
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "20",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "21",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "22",
+      "party": "ฟิวชัน",
+      "votes": 30
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "23",
+      "party": "ไทรวมพลัง",
+      "votes": 35
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "24",
+      "party": "ก้าวอิสระ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "25",
+      "party": "ปวงชนไทย",
+      "votes": 317
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "26",
+      "party": "วิชชั่นใหม่",
+      "votes": 85
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "27",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "28",
+      "party": "คลองไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "29",
+      "party": "ประชาธิปัตย์",
+      "votes": 5687
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยก้าวหน้า",
+      "votes": 92
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "31",
+      "party": "ไทยภักดี",
+      "votes": 91
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "32",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 145
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชากรไทย",
+      "votes": 173
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "34",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 353
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "35",
+      "party": "ประชาชาติ",
+      "votes": 45252
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "36",
+      "party": "สร้างอนาคตไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "37",
+      "party": "รักชาติ",
+      "votes": 112
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "38",
+      "party": "ไทยพร้อม",
+      "votes": 321
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "39",
+      "party": "ภูมิใจไทย",
+      "votes": 5346
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "40",
+      "party": "พลังธรรมใหม่",
+      "votes": 89
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "41",
+      "party": "กรีน",
+      "votes": 54
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "42",
+      "party": "ไทยธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "43",
+      "party": "แผ่นดินธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "44",
+      "party": "กล้าธรรม",
+      "votes": 274
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "45",
+      "party": "พลังประชารัฐ",
+      "votes": 170
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "46",
+      "party": "โอกาสใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "47",
+      "party": "เป็นธรรม",
+      "votes": 72
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "48",
+      "party": "ประชาชน",
+      "votes": 19577
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "49",
+      "party": "ประชาไทย",
+      "votes": 163
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "50",
+      "party": "ไทยสร้างไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "51",
+      "party": "ไทยก้าวใหม่",
+      "votes": 149
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "52",
+      "party": "ประชาอาสาชาติ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "53",
+      "party": "พร้อม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "54",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "56",
+      "party": "ความหวังใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "57",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "58",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "2",
+      "number": "59",
+      "party": "พลังไทยรักชาติ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 342
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2666
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2163
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 759
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 289
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 829
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัติ",
+      "votes": 306
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 533
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1521
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 250
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1023
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 135
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 458
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 22
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 177
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 134
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 119
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 12127
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 120
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 262
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 179
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 342
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 31838
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 159
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 117
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 4138
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 78
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2693
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 213
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 94
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22087
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 153
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 409
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 48
+    },
+    {
+      "changwat_code": "95",
+      "changwat": "ยะลา",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 42
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ยะลา (Yala party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดยะลา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 173 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ยะลา (Yala party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ยะลา (Yala party-list ballots) — 173 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 173 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

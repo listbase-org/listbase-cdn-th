@@ -1,0 +1,288 @@
+{
+  "id": "th-chiang-mai-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดเชียงใหม่ (Chiang Mai Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดเชียงใหม่ (Chiang Mai Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดเชียงใหม่ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chiang Mai province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 50000,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5001: เมืองเชียงใหม่: Mueang Chiang Mai",
+      "subdistricts": "500106: วัดเกต: Wat Ket: 5001, 500111: หนองหอย: Nong Hoi: 5001, 500112: ท่าศาลา: Tha Sala: 5001, 500113: หนองป่าครั่ง: Nong Pa Khrang: 5001, 500114: ฟ้าฮ่าม: Fa Ham: 5001"
+    },
+    {
+      "postal_code": 50100,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5001: เมืองเชียงใหม่: Mueang Chiang Mai",
+      "subdistricts": "500103: หายยา: Hai Ya: 5001, 500105: ช้างคลาน: Chang Khlan: 5001, 500109: แม่เหียะ: Mae Hia: 5001, 500110: ป่าแดด: Pa Daet: 5001"
+    },
+    {
+      "postal_code": 50110,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5009: ฝาง: Fang",
+      "subdistricts": "500901: เวียง: Wiang: 5009, 500903: ม่อนปิ่น: Mon Pin: 5009, 500905: แม่สูน: Mae Soon: 5009, 500906: สันทราย: San Sai: 5009, 500910: แม่คะ: Mae Kha: 5009, 500912: โป่งน้ำร้อน: Pong Nam Ron: 5009"
+    },
+    {
+      "postal_code": 50120,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5012: สันป่าตอง: San Pa Tong",
+      "subdistricts": "501201: ยุหว่า: Yu Wa: 5012, 501202: สันกลาง: San Klang: 5012, 501203: ท่าวังพร้าว: Tha Wang Phrao: 5012, 501204: มะขามหลวง: Makham Luang: 5012, 501205: แม่ก๊า: Mae Ka: 5012, 501206: บ้านแม: Ban Mae: 5012, 501207: บ้านกลาง: Ban Klang: 5012, 501208: ทุ่งสะโตก: Thung Satok: 5012, 501210: ทุ่งต้อม: Thung Tom: 5012, 501214: น้ำบ่อหลวง: Nam Bo Luang: 5012, 501215: มะขุนหวาน: Makhun Wan: 5012"
+    },
+    {
+      "postal_code": 50130,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5013: สันกำแพง: San Kamphaeng, 5023: แม่ออน: Mae On",
+      "subdistricts": "501301: สันกำแพง: San Kamphaeng: 5013, 501302: ทรายมูล: Sai Mun: 5013, 501303: ร้องวัวแดง: Rong Wua Daeng: 5013, 501304: บวกค้าง: Buak Khang: 5013, 501305: แช่ช้าง: Chae Chang: 5013, 501306: ออนใต้: On Tai: 5013, 501310: แม่ปูคา: Mae Pu Kha: 5013, 501311: ห้วยทราย: Huai Sai: 5013, 501312: ต้นเปา: Ton Pao: 5013, 501313: สันกลาง: San Klang: 5013, 502301: ออนเหนือ: On Nuea: 5023, 502302: ออนกลาง: On Klang: 5023, 502303: บ้านสหกรณ์: Ban Sahakon: 5023, 502304: ห้วยแก้ว: Huai Kaeo: 5023, 502305: แม่ทา: Mae Tha: 5023, 502306: ทาเหนือ: Tha Nuea: 5023"
+    },
+    {
+      "postal_code": 50140,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5019: สารภี: Saraphi",
+      "subdistricts": "501901: ยางเนิ้ง: Yang Noeng: 5019, 501902: สารภี: Saraphi: 5019, 501903: ชมภู: Chomphu: 5019, 501904: ไชยสถาน: Chaiya Sathan: 5019, 501905: ขัวมุง: Khua Mung: 5019, 501906: หนองแฝก: Nong Faek: 5019, 501907: หนองผึ้ง: Nong Phueng: 5019, 501908: ท่ากว้าง: Tha Kwang: 5019, 501909: ดอนแก้ว: Don Kaeo: 5019, 501910: ท่าวังตาล: Tha Wang Tan: 5019, 501911: สันทราย: San Sai: 5019, 501912: ป่าบง: Pa Bong: 5019"
+    },
+    {
+      "postal_code": 50150,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5006: แม่แตง: Mae Taeng",
+      "subdistricts": "500601: สันมหาพน: San Mahaphon: 5006, 500602: แม่แตง: Mae Taeng: 5006, 500603: ขี้เหล็ก: Khi Lek: 5006, 500604: ช่อแล: Cho Lae: 5006, 500605: แม่หอพระ: Mae Ho Phra: 5006, 500606: สบเปิง: Sop Poeng: 5006, 500607: บ้านเป้า: Ban Pao: 5006, 500609: ป่าแป๋: Pa Pae: 5006, 500610: เมืองก๋าย: Mueang Kai: 5006, 500611: บ้านช้าง: Ban Chang: 5006, 500612: กื้ดช้าง: Kuet Chang: 5006, 500613: อินทขิล: Inthakhin: 5006"
+    },
+    {
+      "postal_code": 50160,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5002: จอมทอง: Chom Thong, 5024: ดอยหล่อ: Doi Lo",
+      "subdistricts": "500203: บ้านหลวง: Ban Luang: 5002, 500204: ข่วงเปา: Khuang Pao: 5002, 500205: สบเตี๊ยะ: Sop Tia: 5002, 500207: ดอยแก้ว: Doi Kaeo: 5002, 502401: ดอยหล่อ: Doi Lo: 5024, 502402: สองแคว: Song Khwae: 5024, 502403: ยางคราม: Yang Khram: 5024, 502404: สันติสุข: Santi Suk: 5024"
+    },
+    {
+      "postal_code": 50170,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5004: เชียงดาว: Chiang Dao",
+      "subdistricts": "500401: เชียงดาว: Chiang Dao: 5004, 500402: เมืองนะ: Mueang Na: 5004, 500403: เมืองงาย: Mueang Ngai: 5004, 500404: แม่นะ: Mae Na: 5004, 500405: เมืองคอง: Mueang Khong: 5004, 500406: ปิงโค้ง: Ping Khong: 5004, 500407: ทุ่งข้าวพวง: Thung Khao Phuang: 5004"
+    },
+    {
+      "postal_code": 50180,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5007: แม่ริม: Mae Rim",
+      "subdistricts": "500701: ริมใต้: Rim Tai: 5007, 500702: ริมเหนือ: Rim Nuea: 5007, 500703: สันโป่ง: San Pong: 5007, 500704: ขี้เหล็ก: Khi Lek: 5007, 500706: ห้วยทราย: Huai Sai: 5007, 500707: แม่แรม: Mae Raem: 5007, 500708: โป่งแยง: Pong Yaeng: 5007, 500709: แม่สา: Mae Sa: 5007, 500710: ดอนแก้ว: Don Kaeo: 5007, 500711: เหมืองแก้ว: Mueang Kaeo: 5007"
+    },
+    {
+      "postal_code": 50190,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5011: พร้าว: Phrao",
+      "subdistricts": "501101: เวียง: Wiang: 5011, 501102: ทุ่งหลวง: Thung Luang: 5011, 501103: ป่าตุ้ม: Pa Tum: 5011, 501104: ป่าไหน่: Pa Nai: 5011, 501105: สันทราย: San Sai: 5011, 501106: บ้านโป่ง: Ban Pong: 5011, 501107: น้ำแพร่: Nam Phrae: 5011, 501108: เขื่อนผาก: Khuean Phak: 5011, 501109: แม่แวน: Mae Waen: 5011, 501110: แม่ปั๋ง: Mae Pang: 5011, 501111: โหล่งขอด: Long Khot: 5011"
+    },
+    {
+      "postal_code": 50200,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5001: เมืองเชียงใหม่: Mueang Chiang Mai",
+      "subdistricts": "500101: ศรีภูมิ: Si Phum: 5001, 500102: พระสิงห์: Phra Sing: 5001, 500108: สุเทพ: Su Thep: 5001"
+    },
+    {
+      "postal_code": 50210,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5014: สันทราย: San Sai",
+      "subdistricts": "501401: สันทรายหลวง: San Sai Luang: 5014, 501402: สันทรายน้อย: San Sai Noi: 5014, 501403: สันพระเนตร: San Phranet: 5014, 501404: สันนาเม็ง: San Na Meng: 5014, 501405: สันป่าเปา: San Pa Pao: 5014, 501406: หนองแหย่ง: Nong Yaeng: 5014, 501407: หนองจ๊อม: Nong Chom: 5014, 501411: เมืองเล็น: Mueang Len: 5014, 501412: ป่าไผ่: Pa Phai: 5014"
+    },
+    {
+      "postal_code": 50220,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5005: ดอยสะเก็ด: Doi Saket",
+      "subdistricts": "500501: เชิงดอย: Choeng Doi: 5005, 500502: สันปูเลย: San Pu Loei: 5005, 500503: ลวงเหนือ: Luang Nuea: 5005, 500504: ป่าป้อง: Pa Pong: 5005, 500505: สง่าบ้าน: Sa-Nga Ban: 5005, 500506: ป่าลาน: Pa Lan: 5005, 500507: ตลาดขวัญ: Talat Khwan: 5005, 500508: สำราญราษฎร์: Samran Rat: 5005, 500509: แม่คือ: Mae Khue: 5005, 500510: ตลาดใหญ่: Talat Yai: 5005, 500511: แม่ฮ้อยเงิน: Mae Hoi Ngoen: 5005, 500512: แม่โป่ง: Mae Pong: 5005, 500513: ป่าเมี่ยง: Pa Miang: 5005, 500514: เทพเสด็จ: Thep Sadet: 5005"
+    },
+    {
+      "postal_code": 50230,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5015: หางดง: Hang Dong",
+      "subdistricts": "501501: หางดง: Hang Dong: 5015, 501502: หนองแก๋ว: Nong Kaeo: 5015, 501503: หารแก้ว: Han Kaeo: 5015, 501505: ขุนคง: Khun Khong: 5015, 501506: สบแม่ข่า: Sop Mae Kha: 5015, 501507: บ้านแหวน: Ban Waen: 5015, 501508: สันผักหวาน: San Phak Wan: 5015, 501509: หนองควาย: Nong Khwai: 5015, 501510: บ้านปง: Ban Pong: 5015, 501511: น้ำแพร่: Nam Phrae: 5015"
+    },
+    {
+      "postal_code": 50240,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5002: จอมทอง: Chom Thong, 5016: ฮอด: Hot",
+      "subdistricts": "500206: บ้านแปะ: Ban Pae: 5002, 500209: แม่สอย: Mae Soi: 5002, 501601: หางดง: Hang Dong: 5016, 501602: ฮอด: Hot: 5016, 501603: บ้านตาล: Ban Tan: 5016, 501604: บ่อหลวง: Bo Luang: 5016, 501605: บ่อสลี: Bo Sali: 5016, 501606: นาคอเรือ: Na Kho Ruea: 5016"
+    },
+    {
+      "postal_code": 50250,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5008: สะเมิง: Samoeng",
+      "subdistricts": "500801: สะเมิงใต้: Samoeng Tai: 5008, 500802: สะเมิงเหนือ: Samoeng Nuea: 5008, 500803: แม่สาบ: Mae Sap: 5008, 500804: บ่อแก้ว: Bo Kaeo: 5008, 500805: ยั้งเมิน: Yung Moen: 5008"
+    },
+    {
+      "postal_code": 50260,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5017: ดอยเต่า: Doi Tao",
+      "subdistricts": "501701: ดอยเต่า: Doi Tao: 5017, 501702: ท่าเดื่อ: Tha Duea: 5017, 501703: มืดกา: Muet Ka: 5017, 501704: บ้านแอ่น: Ban Aen: 5017, 501705: บงตัน: Bong Tan: 5017, 501706: โปงทุ่ง: Pong Thung: 5017"
+    },
+    {
+      "postal_code": 50270,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5003: แม่แจ่ม: Mae Chaem",
+      "subdistricts": "500301: ช่างเคิ่ง: Chang Khoeng: 5003, 500302: ท่าผา: Tha Pha: 5003, 500303: บ้านทับ: Ban Thap: 5003, 500304: แม่ศึก: Mae Suek: 5003, 500305: แม่นาจร: Mae Na Chon: 5003, 500307: ปางหินฝน: Pang Hin Fon: 5003, 500308: กองแขก: Kong Khaek: 5003"
+    },
+    {
+      "postal_code": 50280,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5010: แม่อาย: Mae Ai",
+      "subdistricts": "501001: แม่อาย: Mae Ai: 5010, 501002: แม่สาว: Mae Sao: 5010, 501003: สันต้นหมื้อ: San Ton Mue: 5010, 501004: แม่นาวาง: Mae Na Wang: 5010, 501005: ท่าตอน: Tha Ton: 5010, 501006: บ้านหลวง: Ban Luang: 5010, 501007: มะลิกา: Malika: 5010"
+    },
+    {
+      "postal_code": 50290,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5014: สันทราย: San Sai",
+      "subdistricts": "501408: หนองหาร: Nong Han: 5014, 501409: แม่แฝก: Mae Faek: 5014, 501410: แม่แฝกใหม่: Mae Faek Mai: 5014"
+    },
+    {
+      "postal_code": 50300,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5001: เมืองเชียงใหม่: Mueang Chiang Mai",
+      "subdistricts": "500104: ช้างม่อย: Chang Moi: 5001, 500107: ช้างเผือก: Chang Phueak: 5001, 500115: ป่าตัน: Pa Tan: 5001, 500116: สันผีเสื้อ: San Phisuea: 5001"
+    },
+    {
+      "postal_code": 50310,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5018: อมก๋อย: Omkoi",
+      "subdistricts": "501801: อมก๋อย: Omkoi: 5018, 501802: ยางเปียง: Yang Piang: 5018, 501803: แม่ตื่น: Mae Tuen: 5018, 501804: ม่อนจอง: Mon Chong: 5018, 501805: แม่หลอง: Sop Khong: 5018, 501806: นาเกียน: Na Kian: 5018"
+    },
+    {
+      "postal_code": 50320,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5009: ฝาง: Fang, 5021: ไชยปราการ: Chai Prakan",
+      "subdistricts": "500904: แม่งอน: Mae Ngon: 5009, 500911: แม่ข่า: Mae Kha: 5009, 502101: ปงตำ: Pong Tam: 5021, 502102: ศรีดงเย็น: Si Dong Yen: 5021, 502103: แม่ทะลบ: Mae Thalop: 5021, 502104: หนองบัว: Nong Bua: 5021"
+    },
+    {
+      "postal_code": 50330,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5006: แม่แตง: Mae Taeng, 5007: แม่ริม: Mae Rim",
+      "subdistricts": "500608: สันป่ายาง: San Pa Yang: 5006, 500705: สะลวง: Saluang: 5007"
+    },
+    {
+      "postal_code": 50340,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5015: หางดง: Hang Dong",
+      "subdistricts": "501504: หนองตอง: Nong Tong: 5015"
+    },
+    {
+      "postal_code": 50350,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5020: เวียงแหง: Wiang Haeng",
+      "subdistricts": "502001: เมืองแหง: Mueang Haeng: 5020, 502002: เปียงหลวง: Piang Luang: 5020, 502003: แสนไห: Saen Hai: 5020"
+    },
+    {
+      "postal_code": 50360,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5022: แม่วาง: Mae Wang",
+      "subdistricts": "502201: บ้านกาด: Ban Kat: 5022, 502202: ทุ่งปี๊: Thung Pi: 5022, 502203: ทุ่งรวงทอง: Thung Ruang Thong: 5022, 502204: แม่วิน: Mae Win: 5022, 502205: ดอนเปา: Don Pao: 5022"
+    },
+    {
+      "postal_code": 58130,
+      "province_code": 50,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "districts": "5025: กัลยาณิวัฒนา: Kanlayaniwatthana",
+      "subdistricts": "502501: บ้านจันทร์: Ban Chan: 5025, 502502: แม่แดด: Mae Dad: 5025, 502503: แจ่มหลวง: Jam Luang: 5025"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดเชียงใหม่ (Chiang Mai Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดเชียงใหม่ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chiang Mai province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 29 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดเชียงใหม่ (Chiang Mai Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดเชียงใหม่ (Chiang Mai Postal Codes) — 29 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 29 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

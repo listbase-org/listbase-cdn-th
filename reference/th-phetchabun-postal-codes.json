@@ -1,0 +1,200 @@
+{
+  "id": "th-phetchabun-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดเพชรบูรณ์ (Phetchabun Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดเพชรบูรณ์ (Phetchabun Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดเพชรบูรณ์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phetchabun province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 67000,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6701: เมืองเพชรบูรณ์: Mueang Phetchabun",
+      "subdistricts": "670101: ในเมือง: Nai Mueang: 6701, 670102: ตะเบาะ: Tabo: 6701, 670103: บ้านโตก: Ban Tok: 6701, 670104: สะเดียง: Sadiang: 6701, 670105: ป่าเลา: Pa Lao: 6701, 670106: นางั่ว: Na Ngua: 6701, 670108: ดงมูลเหล็ก: Dong Mun Lek: 6701, 670109: บ้านโคก: Ban Khok: 6701, 670110: ชอนไพร: Chon Phrai: 6701, 670111: นาป่า: Na Pa: 6701, 670114: น้ำร้อน: Nam Ron: 6701, 670116: ห้วยใหญ่: Huai Yai: 6701"
+    },
+    {
+      "postal_code": 67110,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6703: หล่มสัก: Lom Sak",
+      "subdistricts": "670301: หล่มสัก: Lom Sak: 6703, 670302: วัดป่า: Wat Pa: 6703, 670303: ตาลเดี่ยว: Tan Diao: 6703, 670304: ฝายนาแซง: Fai Na Saeng: 6703, 670305: หนองสว่าง: Nong Sawang: 6703, 670306: น้ำเฮี้ย: Nam Hia: 6703, 670307: สักหลง: Sak Long: 6703, 670308: ท่าอิบุญ: Tha I Bun: 6703, 670309: บ้านโสก: Ban Sok: 6703, 670310: บ้านติ้ว: Ban Tio: 6703, 670311: ห้วยไร่: Huai Rai: 6703, 670312: น้ำก้อ: Nam Ko: 6703, 670313: ปากช่อง: Pak Chong: 6703, 670314: น้ำชุน: Nam Chun: 6703, 670315: หนองไขว่: Nong Khwai: 6703, 670316: ลานบ่า: Lan Ba: 6703, 670317: บุ่งคล้า: Bung Khla: 6703, 670318: บุ่งน้ำเต้า: Bung Namtao: 6703, 670319: บ้านกลาง: Ban Klang: 6703, 670320: ช้างตะลูด: Chang Talut: 6703, 670321: บ้านไร่: Ban Rai: 6703, 670322: ปากดุก: Pak Duk: 6703, 670323: บ้านหวาย: Ban Wai: 6703"
+    },
+    {
+      "postal_code": 67120,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6704: หล่มเก่า: Lom Kao",
+      "subdistricts": "670401: หล่มเก่า: Lom Kao: 6704, 670402: นาซำ: Na Sam: 6704, 670403: หินฮาว: Hin Hao: 6704, 670404: บ้านเนิน: Ban Noen: 6704, 670405: ศิลา: Sila: 6704, 670406: นาแซง: Na Saeng: 6704, 670407: วังบาล: Wang Ban: 6704, 670408: นาเกาะ: Na Ko: 6704, 670409: ตาดกลอย: Tat Kloi: 6704"
+    },
+    {
+      "postal_code": 67130,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6705: วิเชียรบุรี: Wichian Buri",
+      "subdistricts": "670501: ท่าโรง: Tha Rong: 6705, 670502: สระประดู่: Sa Pradu: 6705, 670503: สามแยก: Sam Yaek: 6705, 670504: โคกปรง: Khok Prong: 6705, 670505: น้ำร้อน: Nam Ron: 6705, 670506: บ่อรัง: Bo Rang: 6705, 670511: บึงกระจับ: Bueng Krachap: 6705, 670513: ยางสาว: Yang Sao: 6705"
+    },
+    {
+      "postal_code": 67140,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6707: หนองไผ่: Nong Phai",
+      "subdistricts": "670701: กองทูล: Kong Thun: 6707, 670703: บ้านโภชน์: Ban Phot: 6707, 670704: ท่าแดง: Tha Daeng: 6707, 670705: เพชรละคร: Phet Lakhon: 6707, 670706: บ่อไทย: Bo Thai: 6707, 670708: วังท่าดี: Wang Tha Di: 6707, 670709: บัววัฒนา: Bua Watthana: 6707, 670710: หนองไผ่: Nong Phai: 6707, 670711: วังโบสถ์: Wang Bot: 6707, 670713: ท่าด้วง: Tha Duang: 6707"
+    },
+    {
+      "postal_code": 67150,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6702: ชนแดน: Chon Daen",
+      "subdistricts": "670201: ชนแดน: Chon Daen: 6702, 670203: ท่าข้าม: Tha Kham: 6702, 670204: พุทธบาท: Phutthabat: 6702, 670205: ลาดแค: Lat Khae: 6702, 670208: ซับพุทรา: Sap Phutsa: 6702, 670210: ศาลาลาย: Sala Lai: 6702"
+    },
+    {
+      "postal_code": 67160,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6708: บึงสามพัน: Bueng Sam Phan",
+      "subdistricts": "670801: ซับสมอทอด: Sap Samo Thot: 6708, 670802: ซับไม้แดง: Sap Mai Daeng: 6708, 670803: หนองแจง: Nong Chaeng: 6708, 670804: กันจุ: Kan Chu: 6708, 670806: พญาวัง: Phaya Wang: 6708, 670807: ศรีมงคล: Si Mongkhon: 6708, 670808: สระแก้ว: Sa Kaeo: 6708, 670809: บึงสามพัน: Bueng Sam Phan: 6708"
+    },
+    {
+      "postal_code": 67170,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6706: ศรีเทพ: Si Thep",
+      "subdistricts": "670601: ศรีเทพ: Si Thep: 6706, 670602: สระกรวด: Sa Kruat: 6706, 670603: คลองกระจัง: Khlong Krachang: 6706, 670604: นาสนุ่น: Na Sanun: 6706, 670605: โคกสะอาด: Khok Sa-At: 6706, 670606: หนองย่างทอย: Nong Yang Thoi: 6706, 670607: ประดู่งาม: Pradu Ngam: 6706"
+    },
+    {
+      "postal_code": 67180,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6705: วิเชียรบุรี: Wichian Buri",
+      "subdistricts": "670507: พุเตย: Phu Toei: 6705, 670508: พุขาม: Phu Kham: 6705, 670509: ภูน้ำหยด: Phu Nam Yot: 6705, 670510: ซับสมบูรณ์: Sap Sombun: 6705, 670512: วังใหญ่: Wang Yai: 6705, 670514: ซับน้อย: Sap Noi: 6705"
+    },
+    {
+      "postal_code": 67190,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6702: ชนแดน: Chon Daen",
+      "subdistricts": "670202: ดงขุย: Dong Khu: 6702, 670206: บ้านกล้วย: Ban Kluai: 6702, 670209: ตะกุดไร: Takut Lai: 6702"
+    },
+    {
+      "postal_code": 67210,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6701: เมืองเพชรบูรณ์: Mueang Phetchabun",
+      "subdistricts": "670112: นายม: Na Yom: 6701, 670113: วังชมภู: Wang Chomphu: 6701, 670115: ห้วยสะแก: Huai Sakae: 6701, 670117: ระวิง: Rawing: 6701"
+    },
+    {
+      "postal_code": 67220,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6707: หนองไผ่: Nong Phai",
+      "subdistricts": "670702: นาเฉลียง: Na Chaliang: 6707, 670707: ห้วยโป่ง: Huai Pong: 6707, 670712: ยางงาม: Yang Ngam: 6707"
+    },
+    {
+      "postal_code": 67230,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6708: บึงสามพัน: Bueng Sam Phan",
+      "subdistricts": "670805: วังพิกุล: Wang Phikun: 6708"
+    },
+    {
+      "postal_code": 67240,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6710: วังโป่ง: Wang Pong",
+      "subdistricts": "671001: วังโป่ง: Wang Pong: 6710, 671002: ท้ายดง: Thai Dong: 6710, 671003: ซับเปิบ: Sap Poep: 6710, 671004: วังหิน: Wang Hin: 6710, 671005: วังศาล: Wang San: 6710"
+    },
+    {
+      "postal_code": 67250,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6701: เมืองเพชรบูรณ์: Mueang Phetchabun",
+      "subdistricts": "670107: ท่าพล: Tha Phon: 6701"
+    },
+    {
+      "postal_code": 67260,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6709: น้ำหนาว: Nam Nao",
+      "subdistricts": "670901: น้ำหนาว: Nam Nao: 6709, 670902: หลักด่าน: Lak Dan: 6709, 670903: วังกวาง: Wang Kwang: 6709, 670904: โคกมน: Khok Mon: 6709"
+    },
+    {
+      "postal_code": 67270,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6711: เขาค้อ: Khao Kho",
+      "subdistricts": "671101: ทุ่งสมอ: Thung Samo: 6711, 671103: เขาค้อ: Khao Kho: 6711, 671104: ริมสีม่วง: Rim Si Muang: 6711, 671105: สะเดาะพง: Sadao Phong: 6711, 671106: หนองแม่นา: Nong Mae Na: 6711"
+    },
+    {
+      "postal_code": 67280,
+      "province_code": 67,
+      "province_name_th": "เพชรบูรณ์",
+      "province_name_en": "Phetchabun",
+      "districts": "6711: เขาค้อ: Khao Kho",
+      "subdistricts": "671102: แคมป์สน: Khaem Son: 6711, 671107: เข็กน้อย: Khek Noi: 6711"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดเพชรบูรณ์ (Phetchabun Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดเพชรบูรณ์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phetchabun province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 18 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดเพชรบูรณ์ (Phetchabun Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดเพชรบูรณ์ (Phetchabun Postal Codes) — 18 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 18 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

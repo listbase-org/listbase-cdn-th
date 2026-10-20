@@ -1,0 +1,4160 @@
+{
+  "id": "th-udon-thani-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุดรธานี (Udon Thani party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุดรธานี (Udon Thani party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดอุดรธานี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 513,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 111
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3113
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 168
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 126
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 442
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1941
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 118
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 198
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 17892
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 331
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2326
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 854
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 322
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 12
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 16
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2924
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 78
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1140
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 66
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11483
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 88
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 99
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 151
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 33047
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 674
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 260
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 8
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 34
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2600
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "4",
+      "party": "เพื่อชาติไทย",
+      "votes": 1390
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "5",
+      "party": "ใหม่",
+      "votes": 251
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "6",
+      "party": "มิติใหม่",
+      "votes": 85
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมใจไทย",
+      "votes": 425
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "8",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1398
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "9",
+      "party": "พลวัต",
+      "votes": 1195
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "10",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 277
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "11",
+      "party": "เพื่อไทย",
+      "votes": 27781
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "12",
+      "party": "ทางเลือกใหม่",
+      "votes": 351
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "13",
+      "party": "เศรษฐกิจ",
+      "votes": 3064
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "14",
+      "party": "เสรีรวมไทย",
+      "votes": 781
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "15",
+      "party": "รวมพลังประชาชน",
+      "votes": 389
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "16",
+      "party": "ท้องที่ไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "17",
+      "party": "อนาคตไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังเพื่อไทย",
+      "votes": 174
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "19",
+      "party": "ไทยชนะ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "20",
+      "party": "พลังสังคมใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "21",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "22",
+      "party": "ฟิวชัน",
+      "votes": 16
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "23",
+      "party": "ไทรวมพลัง",
+      "votes": 37
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "24",
+      "party": "ก้าวอิสระ",
+      "votes": 27
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "25",
+      "party": "ปวงชนไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "26",
+      "party": "วิชชั่นใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "27",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "28",
+      "party": "คลองไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "29",
+      "party": "ประชาธิปัตย์",
+      "votes": 1544
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยก้าวหน้า",
+      "votes": 120
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "31",
+      "party": "ไทยภักดี",
+      "votes": 466
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "32",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชากรไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "34",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 64
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "35",
+      "party": "ประชาชาติ",
+      "votes": 66
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "36",
+      "party": "สร้างอนาคตไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "37",
+      "party": "รักชาติ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "38",
+      "party": "ไทยพร้อม",
+      "votes": 130
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "39",
+      "party": "ภูมิใจไทย",
+      "votes": 11367
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "40",
+      "party": "พลังธรรมใหม่",
+      "votes": 295
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "41",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "42",
+      "party": "ไทยธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "43",
+      "party": "แผ่นดินธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "44",
+      "party": "กล้าธรรม",
+      "votes": 138
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "45",
+      "party": "พลังประชารัฐ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "46",
+      "party": "โอกาสใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "47",
+      "party": "เป็นธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "48",
+      "party": "ประชาชน",
+      "votes": 26520
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "49",
+      "party": "ประชาไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "50",
+      "party": "ไทยสร้างไทย",
+      "votes": 514
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "51",
+      "party": "ไทยก้าวใหม่",
+      "votes": 197
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "52",
+      "party": "ประชาอาสาชาติ",
+      "votes": 2
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "53",
+      "party": "พร้อม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "54",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 3
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "56",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "57",
+      "party": "ไทยรวมไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "58",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 31
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "2",
+      "number": "59",
+      "party": "พลังไทยรักชาติ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 571
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2416
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 4844
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 114
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 480
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 710
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 67
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 271
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 28705
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 284
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2526
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 400
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 371
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 204
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 28
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 19
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 64
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 904
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 150
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 222
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 238
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 339
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 98
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 125
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10068
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 422
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 44
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 18145
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 82
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 567
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 179
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 21
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 260
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1829
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2205
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 120
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 492
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 820
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1234
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 314
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 26237
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 243
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2833
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 521
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 464
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 284
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 14
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1161
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 107
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 148
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 141
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 249
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 157
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8343
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 351
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 139
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 18677
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 708
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 164
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 115
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 325
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 3108
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 2199
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 495
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 537
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 844
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 105
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 287
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 24444
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 218
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2641
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 407
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 412
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 20
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 16
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 57
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 853
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 99
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 231
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 221
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 178
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 80
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9797
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 311
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 174
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 104
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 114
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 18583
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 578
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 184
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 40
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 313
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1139
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 469
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 137
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 397
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2933
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1128
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 392
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 23469
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 399
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3284
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 488
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 692
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 82
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 339
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 136
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชั่น",
+      "votes": 26
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 37
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 82
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1192
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 170
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 260
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 123
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 189
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 171
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 5286
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 290
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 152
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 165
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 62
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23171
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 230
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 3274
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 257
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 349
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1132
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 645
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 171
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 774
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3616
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 174
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1474
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 20167
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 333
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3857
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 604
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 526
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 271
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 76
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1437
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 147
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 225
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 170
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 153
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 245
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 176
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10977
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 333
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 47
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 62
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 149
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 197
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19200
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 612
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 31
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 41
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 518
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4481
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 463
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 228
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1163
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3645
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 110
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 424
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 24963
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 307
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3165
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 665
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 650
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 359
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 35
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 160
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1315
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 165
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 230
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 246
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 95
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 118
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 224
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 105
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 5178
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 359
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 62
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2041
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 188
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 129
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21162
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 604
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 205
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "9",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 48
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 487
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2225
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1834
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 289
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3341
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 889
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 152
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 336
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 24659
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 338
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3666
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 632
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 604
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 246
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 114
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 80
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1922
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 124
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 218
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 113
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 180
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 243
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 235
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 138
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8452
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 317
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 168
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 105
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19053
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 129
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 467
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 153
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "41",
+      "changwat": "อุดรธานี",
+      "khet": "10",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 47
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุดรธานี (Udon Thani party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดอุดรธานี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 513 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุดรธานี (Udon Thani party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุดรธานี (Udon Thani party-list ballots) — 513 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 513 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "th-narathiwat-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดนราธิวาส 2562 (Narathiwat 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดนราธิวาส 2562 (Narathiwat 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนราธิวาส ในการเลือกตั้งทั่วไป 2562 จำนวน 4 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Narathiwat province during the Thailand 24-March-2019 general election. 4 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 134,
+      "province_name_th": "นราธิวาส",
+      "province_name_en": "Narathiwat",
+      "province_slug": "narathiwat",
+      "zone_number": 1,
+      "area_count": 2,
+      "amphoes": "ตากใบ, เมืองนราธิวาส",
+      "areas_detail": "ตากใบ: : : , เมืองนราธิวาส: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 135,
+      "province_name_th": "นราธิวาส",
+      "province_name_en": "Narathiwat",
+      "province_slug": "narathiwat",
+      "zone_number": 2,
+      "area_count": 3,
+      "amphoes": "สุไหงปาดี, สุไหงโกลก, แว้ง",
+      "areas_detail": "สุไหงปาดี: : : , สุไหงโกลก: : : , แว้ง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 136,
+      "province_name_th": "นราธิวาส",
+      "province_name_en": "Narathiwat",
+      "province_slug": "narathiwat",
+      "zone_number": 3,
+      "area_count": 4,
+      "amphoes": "จะแนะ, ระแงะ, สุคิริน, เจาะไอร้อง",
+      "areas_detail": "จะแนะ: : : , ระแงะ: : : , สุคิริน: : : , เจาะไอร้อง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 137,
+      "province_name_th": "นราธิวาส",
+      "province_name_en": "Narathiwat",
+      "province_slug": "narathiwat",
+      "zone_number": 4,
+      "area_count": 4,
+      "amphoes": "บาเจาะ, ยี่งอ, รือเสาะ, ศรีสาคร",
+      "areas_detail": "บาเจาะ: : : , ยี่งอ: : : , รือเสาะ: : : , ศรีสาคร: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดนราธิวาส 2562 (Narathiwat 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนราธิวาส ในการเลือกตั้งทั่วไป 2562 จำนวน 4 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Narathiwat province during the Thailand 24-March-2019 general election. 4 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดนราธิวาส 2562 (Narathiwat 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดนราธิวาส 2562 (Narathiwat 2019 Election Constituencies) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

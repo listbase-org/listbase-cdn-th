@@ -1,0 +1,112 @@
+{
+  "id": "th-samut-sakhon-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดสมุทรสาคร 2562 (Samut Sakhon 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดสมุทรสาคร 2562 (Samut Sakhon 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสมุทรสาคร ในการเลือกตั้งทั่วไป 2562 จำนวน 3 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Samut Sakhon province during the Thailand 24-March-2019 general election. 3 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 260,
+      "province_name_th": "สมุทรสาคร",
+      "province_name_en": "Samut Sakhon",
+      "province_slug": "samut-sakhon",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองสมุทรสาคร",
+      "areas_detail": "เมืองสมุทรสาคร: มหาชัย,คอกกระบือ,พันท้ายนรสิงห์,โคกขาม,โกรกกราก,ท่าฉลอม,บางหญ้าแพรก,บางน้ำจืด,ท่าทราย: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 261,
+      "province_name_th": "สมุทรสาคร",
+      "province_name_en": "Samut Sakhon",
+      "province_slug": "samut-sakhon",
+      "zone_number": 2,
+      "area_count": 2,
+      "amphoes": "กระทุ่มแบน, เมืองสมุทรสาคร",
+      "areas_detail": "กระทุ่มแบน: ดอนไก่ดี,อ้อมน้อย,ตลาดกระทุ่มแบน,แคราย,สวนหลวง,ท่าไม้,คลองมะเดื่อ: : , เมืองสมุทรสาคร: นาดี: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 262,
+      "province_name_th": "สมุทรสาคร",
+      "province_name_en": "Samut Sakhon",
+      "province_slug": "samut-sakhon",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "กระทุ่มแบน, บ้านแพ้ว, เมืองสมุทรสาคร",
+      "areas_detail": "กระทุ่มแบน: : ดอนไก่ดี,คลองมะเดื่อ,ตลาดกระทุ่มแบน,แคราย,สวนหลวง,ท่าไม้,อ้อมน้อย: , บ้านแพ้ว: : : , เมืองสมุทรสาคร: บางโทรัด,บางกระเจ้า,นาโคก,บ้านเกาะ,บ้านบ่อ,ท่าจีน,ชัยมงคล,กาหลง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดสมุทรสาคร 2562 (Samut Sakhon 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสมุทรสาคร ในการเลือกตั้งทั่วไป 2562 จำนวน 3 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Samut Sakhon province during the Thailand 24-March-2019 general election. 3 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 3 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดสมุทรสาคร 2562 (Samut Sakhon 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดสมุทรสาคร 2562 (Samut Sakhon 2019 Election Constituencies) — 3 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 3 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

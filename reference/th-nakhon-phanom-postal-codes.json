@@ -1,0 +1,136 @@
+{
+  "id": "th-nakhon-phanom-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดนครพนม (Nakhon Phanom Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดนครพนม (Nakhon Phanom Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดนครพนม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Phanom province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 48000,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4801: เมืองนครพนม: Mueang Nakhon Phanom",
+      "subdistricts": "480101: ในเมือง: Nai Mueang: 4801, 480102: หนองแสง: Nong Saeng: 4801, 480103: นาทราย: Na Sai: 4801, 480104: นาราชควาย: Na Ratchakhwai: 4801, 480105: กุรุคุ: Kurukhu: 4801, 480106: บ้านผึ้ง: Ban Phueng: 4801, 480107: อาจสามารถ: At Samat: 4801, 480108: ขามเฒ่า: Kham Thao: 4801, 480109: บ้านกลาง: Ban Klang: 4801, 480110: ท่าค้อ: Tha Kho: 4801, 480111: คำเตย: Kham Toei: 4801, 480112: หนองญาติ: Nong Yat: 4801, 480113: ดงขวาง: Dong Khwang: 4801, 480114: วังตามัว: Wang Ta Mua: 4801, 480115: โพธิ์ตาก: Pho Tak: 4801"
+    },
+    {
+      "postal_code": 48110,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4805: ธาตุพนม: That Phanom",
+      "subdistricts": "480501: ธาตุพนม: That Phanom: 4805, 480502: ฝั่งแดง: Fang Daeng: 4805, 480503: โพนแพง: Phon Phaeng: 4805, 480504: พระกลางทุ่ง: Phra Klang Thung: 4805, 480505: นาถ่อน: Na Thon: 4805, 480506: แสนพัน: Saen Phan: 4805, 480507: ดอนนางหงส์: Don Nang Hong: 4805, 480508: น้ำก่ำ: Nam Kam: 4805, 480509: อุ่มเหม้า: Um Mao: 4805, 480510: นาหนาด: Na Nat: 4805, 480511: กุดฉิม: Kut Chim: 4805, 480512: ธาตุพนมเหนือ: That Phanom Nuea: 4805"
+    },
+    {
+      "postal_code": 48120,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4803: ท่าอุเทน: Tha Uthen",
+      "subdistricts": "480301: ท่าอุเทน: Tha Uthen: 4803, 480302: โนนตาล: Non Tan: 4803, 480303: ท่าจำปา: Tha Champa: 4803, 480304: ไชยบุรี: Chai Buri: 4803, 480305: พนอม: Phanom: 4803, 480306: พะทาย: Phathai: 4803, 480311: เวินพระบาท: Woen Phrabat: 4803, 480312: รามราช: Rammarat: 4803, 480314: หนองเทา: Nong Thao: 4803"
+    },
+    {
+      "postal_code": 48130,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4807: นาแก: Na Kae, 4812: วังยาง: Wang Yang",
+      "subdistricts": "480701: นาแก: Na Kae: 4807, 480702: พระซอง: Phra Song: 4807, 480703: หนองสังข์: Nong Sang: 4807, 480704: นาคู่: Na Khu: 4807, 480705: พิมาน: Phiman: 4807, 480706: พุ่มแก: Phum Kae: 4807, 480707: ก้านเหลือง: Kan Lueang: 4807, 480708: หนองบ่อ: Nong Bo: 4807, 480709: นาเลียง: Na Liang: 4807, 480712: บ้านแก้ง: Ban Kaeng: 4807, 480713: คำพี้: Kham Phi: 4807, 480715: สีชมพู: Si Chomphu: 4807, 481201: วังยาง: Wang Yang: 4812, 481202: โคกสี: Khok Si: 4812, 481203: ยอดชาด: Yot Chat: 4812, 481204: หนองโพธิ์: Nong Pho: 4812"
+    },
+    {
+      "postal_code": 48140,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4804: บ้านแพง: Ban Phaeng, 4811: นาทม: Na Thom",
+      "subdistricts": "480401: บ้านแพง: Ban Phaeng: 4804, 480402: ไผ่ล้อม: Phai Lom: 4804, 480403: โพนทอง: Phon Thong: 4804, 480404: หนองแวง: Nong Waeng: 4804, 480408: นางัว: Na Ngua: 4804, 480409: นาเข: Na Khe: 4804, 481101: นาทม: Na Thom: 4811, 481102: หนองซน: Nong Son: 4811, 481103: ดอนเตย: Don Toei: 4811"
+    },
+    {
+      "postal_code": 48150,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4808: ศรีสงคราม: Si Songkhram",
+      "subdistricts": "480801: ศรีสงคราม: Si Songkhram: 4808, 480802: นาเดื่อ: Na Duea: 4808, 480803: บ้านเอื้อง: Ban Ueang: 4808, 480804: สามผง: Sam Phong: 4808, 480805: ท่าบ่อสงคราม: Tha Bo Songkhram: 4808, 480806: บ้านข่า: Ban Kha: 4808, 480807: นาคำ: Na Kham: 4808, 480808: โพนสว่าง: Phon Sawang: 4808, 480809: หาดแพง: Hat Phaeng: 4808"
+    },
+    {
+      "postal_code": 48160,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4802: ปลาปาก: Pla Pak",
+      "subdistricts": "480201: ปลาปาก: Pla Pak: 4802, 480202: หนองฮี: Nong Hi: 4802, 480203: กุตาไก้: Kut Takai: 4802, 480204: โคกสว่าง: Khok Sawang: 4802, 480205: โคกสูง: Khok Sung: 4802, 480206: มหาชัย: Mahachai: 4802, 480207: นามะเขือ: Na Makhuea: 4802, 480208: หนองเทาใหญ่: Nong Thao Yai: 4802"
+    },
+    {
+      "postal_code": 48170,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4806: เรณูนคร: Renu Nakhon",
+      "subdistricts": "480601: เรณู: Renu: 4806, 480602: โพนทอง: Phon Thong: 4806, 480603: ท่าลาด: Tha Lat: 4806, 480604: นางาม: Na Ngam: 4806, 480605: โคกหินแฮ่: Khok Hin Hae: 4806, 480607: หนองย่างชิ้น: Nong Yang Chin: 4806, 480608: เรณูใต้: Renu Tai: 4806, 480609: นาขาม: Nakham: 4806"
+    },
+    {
+      "postal_code": 48180,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4809: นาหว้า: Na Wa",
+      "subdistricts": "480901: นาหว้า: Na Wa: 4809, 480902: นางัว: Na Ngua: 4809, 480903: บ้านเสียว: Ban Siao: 4809, 480904: นาคูณใหญ่: Na Khun Yai: 4809, 480905: เหล่าพัฒนา: Lao Phathana: 4809, 480906: ท่าเรือ: Tha Ruea: 4809"
+    },
+    {
+      "postal_code": 48190,
+      "province_code": 48,
+      "province_name_th": "นครพนม",
+      "province_name_en": "Nakhon Phanom",
+      "districts": "4810: โพนสวรรค์: Phon Sawan",
+      "subdistricts": "481001: โพนสวรรค์: Phon Sawan: 4810, 481002: นาหัวบ่อ: Na Hua Bo: 4810, 481003: นาขมิ้น: Na Khamin: 4810, 481004: โพนบก: Phon Bok: 4810, 481005: บ้านค้อ: Ban Kho: 4810, 481006: โพนจาน: Phon Chan: 4810, 481007: นาใน: Na Nai: 4810"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดนครพนม (Nakhon Phanom Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดนครพนม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Phanom province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 10 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดนครพนม (Nakhon Phanom Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดนครพนม (Nakhon Phanom Postal Codes) — 10 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 10 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

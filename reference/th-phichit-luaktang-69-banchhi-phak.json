@@ -1,0 +1,1424 @@
+{
+  "id": "th-phichit-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิจิตร (Phichit party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิจิตร (Phichit party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพิจิตร. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 492
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1346
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 451
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1152
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 789
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 6210
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 509
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 718
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8668
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 451
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3119
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 444
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 577
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 690
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 215
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 217
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 54
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 31
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 102
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5380
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 113
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 774
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 155
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 191
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 179
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 149
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 416
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 491
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 26589
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 232
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 69
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 78
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 530
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 191
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 75
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27519
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 180
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 271
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 172
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 144
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 66
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 98
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 985
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4993
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 382
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 333
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 683
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2846
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 138
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 609
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10487
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 381
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3000
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 362
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 505
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 196
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 199
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 44
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 82
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 66
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4223
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 102
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 576
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 235
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 508
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 266
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 147
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 222
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 226
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 21421
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 230
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 62
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 179
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 73
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 25652
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 116
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 328
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 129
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 84
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2532
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4211
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 816
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 211
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 838
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2213
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 493
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 846
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8929
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 416
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3563
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 340
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 618
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 233
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 237
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 67
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 155
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "23",
+      "party": "บ่วงชนไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 173
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 7512
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 163
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 531
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 388
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 410
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 237
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 181
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 152
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 184
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 218
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 24258
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 228
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 86
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3095
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 197
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 94
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 85
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24722
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 343
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 247
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 176
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 121
+    },
+    {
+      "changwat_code": "66",
+      "changwat": "พิจิตร",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 119
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิจิตร (Phichit party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดพิจิตร. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิจิตร (Phichit party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — พิจิตร (Phichit party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

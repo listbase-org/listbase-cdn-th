@@ -1,0 +1,2336 @@
+{
+  "id": "th-kanchanaburi-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กาญจนบุรี (Kanchanaburi party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กาญจนบุรี (Kanchanaburi party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดกาญจนบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 568
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1459
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 283
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 267
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 3076
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3710
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 190
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 723
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 13217
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 699
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 3961
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 667
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 647
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 275
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 189
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 389
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 6404
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 144
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 851
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 124
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 90
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 211
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 158
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 111
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 14347
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 119
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 66
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 214
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 205
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 31045
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 104
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 356
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 306
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 79
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 52
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "1",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 369
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4455
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 435
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1632
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1130
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3406
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 189
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 688
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 13525
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 657
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3985
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 507
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 742
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 64
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 41
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 207
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6842
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 156
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 632
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 142
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 312
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 157
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 245
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 219
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 155
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 307
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 19447
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 191
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 65
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 627
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 271
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 75
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 30319
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 327
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 318
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 52
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 294
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1768
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 343
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1487
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2842
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2303
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 196
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 608
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19129
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 642
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3754
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 485
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 653
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 233
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 116
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 48
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5430
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 133
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 620
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 105
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 109
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 216
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 243
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 207
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 178
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 26169
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 398
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 70
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 158
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 184
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 337
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 32756
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 175
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 396
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 327
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 65
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 4950
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3573
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 534
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 678
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 953
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "6",
+      "party": "ไทยสร้างชาติ",
+      "votes": 1646
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 251
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 616
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10779
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 640
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2906
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 367
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 676
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตใหม่",
+      "votes": 98
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 208
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 212
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 51
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 55
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 53
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 99
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5480
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 196
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 287
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 618
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 404
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "32",
+      "party": "รูไทยเพื่อประชาชน",
+      "votes": 137
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 159
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตใหม่",
+      "votes": 179
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 196
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 232
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 17963
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 214
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 67
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 148
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 162
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 151
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 188
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23873
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 289
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 286
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 215
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 73
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 170
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 679
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4957
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2841
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 219
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 656
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1597
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 232
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 561
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 15572
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 362
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3114
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 479
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 636
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 85
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 84
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 211
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 191
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 70
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 51
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4823
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 104
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 375
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 348
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 288
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 150
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 196
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 164
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 16461
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 209
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 79
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 116
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 387
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23372
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 138
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 214
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 445
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "71",
+      "changwat": "กาญจนบุรี",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 50
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กาญจนบุรี (Kanchanaburi party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดกาญจนบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 285 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กาญจนบุรี (Kanchanaburi party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กาญจนบุรี (Kanchanaburi party-list ballots) — 285 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 285 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

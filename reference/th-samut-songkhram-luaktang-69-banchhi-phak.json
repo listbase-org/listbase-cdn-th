@@ -1,0 +1,512 @@
+{
+  "id": "th-samut-songkhram-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สมุทรสงคราม (Samut Songkhram party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สมุทรสงคราม (Samut Songkhram party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสมุทรสงคราม. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2383
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1035
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 508
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 276
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1135
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3462
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 135
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 820
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 7791
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 723
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3366
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 667
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 648
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 89
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 192
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 172
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 31
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 95
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 19804
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 252
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 925
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 204
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 77
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 110
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 119
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 218
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 92
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15602
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 145
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 62
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1741
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 191
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 136
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 37729
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 197
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 562
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 390
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 128
+    },
+    {
+      "changwat_code": "75",
+      "changwat": "สมุทรสงคราม",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 64
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สมุทรสงคราม (Samut Songkhram party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสมุทรสงคราม. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 57 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สมุทรสงคราม (Samut Songkhram party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สมุทรสงคราม (Samut Songkhram party-list ballots) — 57 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 57 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

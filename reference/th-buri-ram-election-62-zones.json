@@ -1,0 +1,172 @@
+{
+  "id": "th-buri-ram-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดบุรีรัมย์ 2562 (Buri Ram 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดบุรีรัมย์ 2562 (Buri Ram 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดบุรีรัมย์ ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Buri Ram province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 143,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองบุรีรัมย์",
+      "areas_detail": "เมืองบุรีรัมย์: : บัวทอง,กลันทา,ถลุงเหล็ก: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 144,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 2,
+      "area_count": 4,
+      "amphoes": "บ้านด่าน, สตึก, เมืองบุรีรัมย์, แคนดง",
+      "areas_detail": "บ้านด่าน: : : , สตึก: : : , เมืองบุรีรัมย์: บัวทอง,กลันทา,ถลุงเหล็ก: : , แคนดง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 145,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 3,
+      "area_count": 5,
+      "amphoes": "คูเมือง, นาโพธิ์, บ้านใหม่ไชยพจน์, พุทไธสง, ลำปลายมาศ",
+      "areas_detail": "คูเมือง: : : , นาโพธิ์: : : , บ้านใหม่ไชยพจน์: : : , พุทไธสง: : : , ลำปลายมาศ: เมืองแฝก,โคกสะอาด: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 146,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 4,
+      "area_count": 3,
+      "amphoes": "ชำนิ, ลำปลายมาศ, หนองหงส์",
+      "areas_detail": "ชำนิ: : : , ลำปลายมาศ: : เมืองแฝก,โคกสะอาด: , หนองหงส์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 147,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 5,
+      "area_count": 4,
+      "amphoes": "กระสัง, ประโคนชัย, พลับพลาชัย, ห้วยราช",
+      "areas_detail": "กระสัง: : : , ประโคนชัย: ไพศาล: : , พลับพลาชัย: : : , ห้วยราช: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 148,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 6,
+      "area_count": 3,
+      "amphoes": "นางรอง, หนองกี่, โนนสุวรรณ",
+      "areas_detail": "นางรอง: : ทรัพย์พระยา,ชุมแสง: , หนองกี่: : : , โนนสุวรรณ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 149,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 7,
+      "area_count": 2,
+      "amphoes": "บ้านกรวด, ประโคนชัย",
+      "areas_detail": "บ้านกรวด: : : , ประโคนชัย: : ไพศาล: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 150,
+      "province_name_th": "บุรีรัมย์",
+      "province_name_en": "Buri Ram",
+      "province_slug": "buri-ram",
+      "zone_number": 8,
+      "area_count": 5,
+      "amphoes": "นางรอง, ปะคำ, ละหานทราย, เฉลิมพระเกียรติ, โนนดินแดง",
+      "areas_detail": "นางรอง: ทรัพย์พระยา,ชุมแสง: : , ปะคำ: : : , ละหานทราย: : : , เฉลิมพระเกียรติ: : : , โนนดินแดง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดบุรีรัมย์ 2562 (Buri Ram 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดบุรีรัมย์ ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Buri Ram province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 8 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดบุรีรัมย์ 2562 (Buri Ram 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดบุรีรัมย์ 2562 (Buri Ram 2019 Election Constituencies) — 8 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 8 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

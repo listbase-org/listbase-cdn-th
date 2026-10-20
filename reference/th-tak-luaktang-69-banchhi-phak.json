@@ -1,0 +1,1424 @@
+{
+  "id": "th-tak-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ตาก (Tak party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ตาก (Tak party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดตาก. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3208
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1457
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1692
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 179
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1358
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2129
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 300
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1291
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12979
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 507
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3753
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 298
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 523
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 215
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 71
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "26",
+      "party": "ลองไทย",
+      "votes": 141
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 12123
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 175
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 560
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 334
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 192
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 143
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 152
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 164
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 348
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 17181
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 271
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 72
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 65
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 128
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 341
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 194
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 338
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 29783
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 314
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 221
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 143
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 97
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 572
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4155
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2272
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 388
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1155
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1178
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 293
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 679
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 7658
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 415
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2458
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 309
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 434
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 214
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 455
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 104
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 78
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 80
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 85
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 190
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 122
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 297
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 14103
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 225
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 449
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 168
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 340
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 226
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 173
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 118
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6193
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 124
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 59
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 106
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1639
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 151
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 68
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 100
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 28986
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 245
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 258
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 205
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 17
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 173
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 132
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 788
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4255
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 703
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 434
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3348
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 6051
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1048
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 864
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10263
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 465
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3215
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 566
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 607
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 453
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 421
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 568
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 117
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 136
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 156
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 169
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 196
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 480
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 190
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 404
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 9190
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 302
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 358
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 183
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 386
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 179
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 161
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 272
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 441
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 206
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8559
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 238
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 69
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 101
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 88
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3723
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 180
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 139
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 125
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24975
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 341
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 181
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 27
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 53
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 145
+    },
+    {
+      "changwat_code": "63",
+      "changwat": "ตาก",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 117
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ตาก (Tak party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดตาก. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ตาก (Tak party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ตาก (Tak party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

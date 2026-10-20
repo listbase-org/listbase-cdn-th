@@ -1,0 +1,968 @@
+{
+  "id": "th-lamphun-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำพูน (Lamphun party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำพูน (Lamphun party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดลำพูน. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1411
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1343
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 499
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 471
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 519
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1949
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 208
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1772
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 30632
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 482
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 3200
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 644
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 927
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 414
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 47
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 100
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 165
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 5275
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 198
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 484
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 157
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 193
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 97
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 133
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 144
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 10472
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 286
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 584
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 172
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 1069
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 130
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 61013
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 208
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 719
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 346
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 19
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 65
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "1",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 49
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1654
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1758
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2037
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 696
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 726
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4151
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 634
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 982
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 28211
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 603
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4135
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 420
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 959
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 269
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 146
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 394
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 424
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 79
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 110
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 95
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 167
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 88
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 230
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6787
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 248
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 372
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 280
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 275
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 272
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 185
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 193
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 306
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 359
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9141
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 396
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 67
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 84
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 536
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 375
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 720
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 137
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 46716
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 232
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 341
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 234
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 98
+    },
+    {
+      "changwat_code": "51",
+      "changwat": "ลำพูน",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 142
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำพูน (Lamphun party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดลำพูน. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 114 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำพูน (Lamphun party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ลำพูน (Lamphun party-list ballots) — 114 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 114 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

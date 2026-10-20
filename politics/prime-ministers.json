@@ -1,0 +1,204 @@
+{
+  "id": "prime-ministers",
+  "name": "นายกรัฐมนตรีของไทย",
+  "title": "รายนามนายกรัฐมนตรีของประเทศไทย",
+  "description": "รายชื่อบุคคลที่ดำรงตำแหน่งนายกรัฐมนตรีของไทยตามลำดับ นับตั้งแต่การเปลี่ยนแปลงการปกครอง พ.ศ. 2475",
+  "category": "politics",
+  "source": "ทำเนียบรัฐบาล",
+  "source_url": "https://www.thaigov.go.th/",
+  "updated": "2026-02",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "order",
+      "label": "คนที่",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อ-สกุล (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อ-สกุล (อังกฤษ)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name_th": "พระยามโนปกรณ์นิติธาดา",
+      "name_en": "Phraya Manopakorn Nititada"
+    },
+    {
+      "order": 2,
+      "name_th": "พระยาพหลพลพยุหเสนา",
+      "name_en": "Phraya Phahon Phonphayuhasena"
+    },
+    {
+      "order": 3,
+      "name_th": "จอมพล ป. พิบูลสงคราม",
+      "name_en": "Plaek Phibunsongkhram"
+    },
+    {
+      "order": 4,
+      "name_th": "พันตรี ควง อภัยวงศ์",
+      "name_en": "Khuang Aphaiwong"
+    },
+    {
+      "order": 5,
+      "name_th": "ทวี บุณยเกตุ",
+      "name_en": "Tawee Boonyaket"
+    },
+    {
+      "order": 6,
+      "name_th": "หม่อมราชวงศ์เสนีย์ ปราโมช",
+      "name_en": "Seni Pramoj"
+    },
+    {
+      "order": 7,
+      "name_th": "ปรีดี พนมยงค์",
+      "name_en": "Pridi Banomyong"
+    },
+    {
+      "order": 8,
+      "name_th": "พลเรือตรี ถวัลย์ ธำรงนาวาสวัสดิ์",
+      "name_en": "Thawan Thamrongnawasawat"
+    },
+    {
+      "order": 9,
+      "name_th": "พจน์ สารสิน",
+      "name_en": "Pote Sarasin"
+    },
+    {
+      "order": 10,
+      "name_th": "จอมพล ถนอม กิตติขจร",
+      "name_en": "Thanom Kittikachorn"
+    },
+    {
+      "order": 11,
+      "name_th": "จอมพล สฤษดิ์ ธนะรัชต์",
+      "name_en": "Sarit Thanarat"
+    },
+    {
+      "order": 12,
+      "name_th": "สัญญา ธรรมศักดิ์",
+      "name_en": "Sanya Dharmasakti"
+    },
+    {
+      "order": 13,
+      "name_th": "หม่อมราชวงศ์คึกฤทธิ์ ปราโมช",
+      "name_en": "Kukrit Pramoj"
+    },
+    {
+      "order": 14,
+      "name_th": "ธานินทร์ กรัยวิเชียร",
+      "name_en": "Thanin Kraivichien"
+    },
+    {
+      "order": 15,
+      "name_th": "พลเอก เกรียงศักดิ์ ชมะนันทน์",
+      "name_en": "Kriangsak Chamanan"
+    },
+    {
+      "order": 16,
+      "name_th": "พลเอก เปรม ติณสูลานนท์",
+      "name_en": "Prem Tinsulanonda"
+    },
+    {
+      "order": 17,
+      "name_th": "พลเอก ชาติชาย ชุณหะวัณ",
+      "name_en": "Chatichai Choonhavan"
+    },
+    {
+      "order": 18,
+      "name_th": "อานันท์ ปันยารชุน",
+      "name_en": "Anand Panyarachun"
+    },
+    {
+      "order": 19,
+      "name_th": "พลเอก สุจินดา คราประยูร",
+      "name_en": "Suchinda Kraprayoon"
+    },
+    {
+      "order": 20,
+      "name_th": "ชวน หลีกภัย",
+      "name_en": "Chuan Leekpai"
+    },
+    {
+      "order": 21,
+      "name_th": "บรรหาร ศิลปอาชา",
+      "name_en": "Banharn Silpa-archa"
+    },
+    {
+      "order": 22,
+      "name_th": "พลเอก ชวลิต ยงใจยุทธ",
+      "name_en": "Chavalit Yongchaiyudh"
+    },
+    {
+      "order": 23,
+      "name_th": "ทักษิณ ชินวัตร",
+      "name_en": "Thaksin Shinawatra"
+    },
+    {
+      "order": 24,
+      "name_th": "พลเอก สุรยุทธ์ จุลานนท์",
+      "name_en": "Surayud Chulanont"
+    },
+    {
+      "order": 25,
+      "name_th": "สมัคร สุนทรเวช",
+      "name_en": "Samak Sundaravej"
+    },
+    {
+      "order": 26,
+      "name_th": "สมชาย วงศ์สวัสดิ์",
+      "name_en": "Somchai Wongsawat"
+    },
+    {
+      "order": 27,
+      "name_th": "อภิสิทธิ์ เวชชาชีวะ",
+      "name_en": "Abhisit Vejjajiva"
+    },
+    {
+      "order": 28,
+      "name_th": "ยิ่งลักษณ์ ชินวัตร",
+      "name_en": "Yingluck Shinawatra"
+    },
+    {
+      "order": 29,
+      "name_th": "พลเอก ประยุทธ์ จันทร์โอชา",
+      "name_en": "Prayut Chan-o-cha"
+    },
+    {
+      "order": 30,
+      "name_th": "เศรษฐา ทวีสิน",
+      "name_en": "Srettha Thavisin"
+    },
+    {
+      "order": 31,
+      "name_th": "แพทองธาร ชินวัตร",
+      "name_en": "Paetongtarn Shinawatra"
+    }
+  ],
+  "meta": {
+    "title": "รายนามนายกรัฐมนตรีของประเทศไทย - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รายชื่อบุคคลที่ดำรงตำแหน่งนายกรัฐมนตรีของไทยตามลำดับ นับตั้งแต่การเปลี่ยนแปลงการปกครอง พ.ศ. 2475 มีทั้งหมด 31 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "นายกรัฐมนตรีของไทย | Thai Open Data",
+    "seo_description": "ดาวน์โหลดนายกรัฐมนตรีของไทย ทั้งหมด 31 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลนายกรัฐมนตรีของไทย ทั้งหมด 31 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "แก้ไขข้อผิดพลาดร้ายแรงของ AI ที่ข้าม 'พจน์ สารสิน' (นายกฯ คนที่ 9) ทำให้อันดับนายกฯ ตั้งแต่คนที่ 10 ถึง 31 เลื่อนและผิดทั้งหมด พร้อมเคลียร์ข้อมูลให้สะอาดขึ้นโดยแสดงเฉพาะคนที่ / ชื่อ-สกุล",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Manual Recovery)"
+    }
+  }
+}

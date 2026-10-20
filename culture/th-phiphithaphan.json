@@ -1,0 +1,1276 @@
+{
+  "id": "th-phiphithaphan",
+  "name": "พิพิธภัณฑ์ในประเทศไทย (Museums in Thailand)",
+  "title": "พิพิธภัณฑ์ในประเทศไทย (Museums in Thailand)",
+  "description": "รายชื่อพิพิธภัณฑ์ 135 แห่งในประเทศไทยจาก OpenStreetMap พร้อมชื่อ เมือง พิกัด และเว็บไซต์.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ancient tamarind tree",
+      "name_en": "",
+      "city": "Amphawa",
+      "country": "Thailand",
+      "latitude": 13.428145,
+      "longitude": 99.958211,
+      "website": ""
+    },
+    {
+      "name": "Art in Paradise (Esplanade Mall)",
+      "name_en": "",
+      "city": "Huai Khwang",
+      "country": "Thailand",
+      "latitude": 13.766182,
+      "longitude": 100.569377,
+      "website": ""
+    },
+    {
+      "name": "Baan Sao Nak",
+      "name_en": "",
+      "city": "Lampang",
+      "country": "Thailand",
+      "latitude": 18.294362,
+      "longitude": 99.508161,
+      "website": ""
+    },
+    {
+      "name": "Ban Silapin Artist House",
+      "name_en": "",
+      "city": "Bangkok Yai",
+      "country": "Thailand",
+      "latitude": 13.731271,
+      "longitude": 100.463278,
+      "website": ""
+    },
+    {
+      "name": "Bangkok Seashell Museum",
+      "name_en": "",
+      "city": "Samphanthawong",
+      "country": "Thailand",
+      "latitude": 13.722587,
+      "longitude": 100.518163,
+      "website": ""
+    },
+    {
+      "name": "Bank of Thailand Museum",
+      "name_en": "",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.768432,
+      "longitude": 100.499249,
+      "website": ""
+    },
+    {
+      "name": "Bottle Art Museum",
+      "name_en": "",
+      "city": "Phatthaya",
+      "country": "Thailand",
+      "latitude": 12.955288,
+      "longitude": 100.907208,
+      "website": "http://www.bottlemuseum.net/"
+    },
+    {
+      "name": "Chiang Mai Historical Centre",
+      "name_en": "",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.790239,
+      "longitude": 98.986466,
+      "website": ""
+    },
+    {
+      "name": "Chiang Mai House of Photography",
+      "name_en": "",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.789724,
+      "longitude": 98.98864,
+      "website": ""
+    },
+    {
+      "name": "Coconut Museum",
+      "name_en": "",
+      "city": "Ko Samui",
+      "country": "Thailand",
+      "latitude": 9.52578,
+      "longitude": 99.946287,
+      "website": ""
+    },
+    {
+      "name": "Corrections Museum",
+      "name_en": "",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.748778,
+      "longitude": 100.503544,
+      "website": ""
+    },
+    {
+      "name": "Cultural museum",
+      "name_en": "",
+      "city": "Mae Sai",
+      "country": "Thailand",
+      "latitude": 21.287537,
+      "longitude": 99.597041,
+      "website": ""
+    },
+    {
+      "name": "Cycle Museum",
+      "name_en": "",
+      "city": "Chiang Khong",
+      "country": "Thailand",
+      "latitude": 20.267431,
+      "longitude": 100.40445,
+      "website": ""
+    },
+    {
+      "name": "Death Railway Museum",
+      "name_en": "",
+      "city": "Kanchanaburi",
+      "country": "Thailand",
+      "latitude": 14.03218,
+      "longitude": 99.524867,
+      "website": ""
+    },
+    {
+      "name": "Dragon Descendants Museum",
+      "name_en": "",
+      "city": "Suphan Buri",
+      "country": "Thailand",
+      "latitude": 14.478694,
+      "longitude": 100.111463,
+      "website": "http://www.dragonmuseum.com"
+    },
+    {
+      "name": "eco global museum",
+      "name_en": "",
+      "city": "Kantharalak",
+      "country": "Thailand",
+      "latitude": 14.28247,
+      "longitude": 104.71559,
+      "website": ""
+    },
+    {
+      "name": "eco museum",
+      "name_en": "",
+      "city": "Kantharalak",
+      "country": "Thailand",
+      "latitude": 14.285534,
+      "longitude": 104.712728,
+      "website": ""
+    },
+    {
+      "name": "Elephant Poopoopaper Park",
+      "name_en": "",
+      "city": "San Sai",
+      "country": "Thailand",
+      "latitude": 18.925562,
+      "longitude": 98.93167,
+      "website": ""
+    },
+    {
+      "name": "First Royal Factory",
+      "name_en": "",
+      "city": "Chai Prakan",
+      "country": "Thailand",
+      "latitude": 19.802196,
+      "longitude": 99.093608,
+      "website": "www.firstroyalfactory.org"
+    },
+    {
+      "name": "Hellfire Pass Museum",
+      "name_en": "",
+      "city": "Si Sawat",
+      "country": "Thailand",
+      "latitude": 14.35259,
+      "longitude": 98.95482,
+      "website": ""
+    },
+    {
+      "name": "Hor Sophonsilp Museum",
+      "name_en": "",
+      "city": "Lop Buri",
+      "country": "Thailand",
+      "latitude": 14.798588,
+      "longitude": 100.608471,
+      "website": ""
+    },
+    {
+      "name": "House of Opium",
+      "name_en": "",
+      "city": "Chiang Saen",
+      "country": "Thailand",
+      "latitude": 20.351326,
+      "longitude": 100.081617,
+      "website": ""
+    },
+    {
+      "name": "Japanese Village",
+      "name_en": "",
+      "city": "Phra Nakhon Si Ayutthaya",
+      "country": "Thailand",
+      "latitude": 14.332902,
+      "longitude": 100.577448,
+      "website": ""
+    },
+    {
+      "name": "Kathmandu Photo Gallery",
+      "name_en": "",
+      "city": "Bang Rak",
+      "country": "Thailand",
+      "latitude": 13.72393,
+      "longitude": 100.523295,
+      "website": ""
+    },
+    {
+      "name": "Ko Chang Naval Memorial",
+      "name_en": "",
+      "city": "Laem Ngop",
+      "country": "Thailand",
+      "latitude": 12.17876,
+      "longitude": 102.389019,
+      "website": ""
+    },
+    {
+      "name": "Lanna Museum",
+      "name_en": "",
+      "city": "Lampang",
+      "country": "Thailand",
+      "latitude": 18.300204,
+      "longitude": 99.508984,
+      "website": ""
+    },
+    {
+      "name": "Lanna Traditional House Museum",
+      "name_en": "",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.791643,
+      "longitude": 98.961687,
+      "website": ""
+    },
+    {
+      "name": "learning House",
+      "name_en": "",
+      "city": "Chanthaburi",
+      "country": "Thailand",
+      "latitude": 12.608709,
+      "longitude": 102.115967,
+      "website": ""
+    },
+    {
+      "name": "lee",
+      "name_en": "",
+      "city": "Samut Prakan",
+      "country": "Thailand",
+      "latitude": 13.579147,
+      "longitude": 100.607944,
+      "website": ""
+    },
+    {
+      "name": "Madame Tussaud's Bangkok",
+      "name_en": "",
+      "city": "Ratchathewi",
+      "country": "Thailand",
+      "latitude": 13.746499,
+      "longitude": 100.531725,
+      "website": ""
+    },
+    {
+      "name": "Mae Sariang museum",
+      "name_en": "",
+      "city": "Ban Huai I Huak",
+      "country": "Thailand",
+      "latitude": 18.160998,
+      "longitude": 97.941633,
+      "website": ""
+    },
+    {
+      "name": "Maekampong Museum",
+      "name_en": "",
+      "city": "Mae On",
+      "country": "Thailand",
+      "latitude": 18.865689,
+      "longitude": 99.349049,
+      "website": ""
+    },
+    {
+      "name": "Maha Viravong National Museum",
+      "name_en": "",
+      "city": "Nakhon Ratchasima",
+      "country": "Thailand",
+      "latitude": 14.972035,
+      "longitude": 102.097611,
+      "website": ""
+    },
+    {
+      "name": "Museum of Counterfeit Goods",
+      "name_en": "",
+      "city": "Yan Nawa",
+      "country": "Thailand",
+      "latitude": 13.683076,
+      "longitude": 100.547296,
+      "website": "http://www.tilleke.com/firm/community/museum"
+    },
+    {
+      "name": "Museum of CPM History",
+      "name_en": "",
+      "city": "Betong",
+      "country": "Thailand",
+      "latitude": 5.8562,
+      "longitude": 101.235649,
+      "website": ""
+    },
+    {
+      "name": "Museum of Political Prisoners at AAPP",
+      "name_en": "",
+      "city": "Mae Sot",
+      "country": "Thailand",
+      "latitude": 16.711238,
+      "longitude": 98.561491,
+      "website": ""
+    },
+    {
+      "name": "Museum of World Insects and Natural Wonders",
+      "name_en": "",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.796125,
+      "longitude": 98.970606,
+      "website": "http://www.thailandinsect.com"
+    },
+    {
+      "name": "Nan Noble House",
+      "name_en": "",
+      "city": "Nan",
+      "country": "Thailand",
+      "latitude": 18.789603,
+      "longitude": 100.785674,
+      "website": ""
+    },
+    {
+      "name": "Old Lighthouse",
+      "name_en": "",
+      "city": "Nai Harn",
+      "country": "Thailand",
+      "latitude": 7.761915,
+      "longitude": 98.305581,
+      "website": ""
+    },
+    {
+      "name": "Parody Art Museum",
+      "name_en": "",
+      "city": "Phatthaya",
+      "country": "Thailand",
+      "latitude": 12.951785,
+      "longitude": 100.895429,
+      "website": ""
+    },
+    {
+      "name": "Phi Ta Khon Museum",
+      "name_en": "",
+      "city": "Dan Sai",
+      "country": "Thailand",
+      "latitude": 17.274338,
+      "longitude": 101.149422,
+      "website": ""
+    },
+    {
+      "name": "Phuket Mining Museum",
+      "name_en": "",
+      "city": "Kathu",
+      "country": "Thailand",
+      "latitude": 7.933411,
+      "longitude": 98.349395,
+      "website": "https://www.facebook.com/phuketminingmuseum.tin?fref=ts"
+    },
+    {
+      "name": "Phuket Trickeye Museum",
+      "name_en": "",
+      "city": "Ban Talat Nua",
+      "country": "Thailand",
+      "latitude": 7.883384,
+      "longitude": 98.392607,
+      "website": ""
+    },
+    {
+      "name": "Ripley's Believe it or not",
+      "name_en": "",
+      "city": "Phatthaya",
+      "country": "Thailand",
+      "latitude": 12.928729,
+      "longitude": 100.878618,
+      "website": "http://www.ripleysthailand.com/index.php?p=believe"
+    },
+    {
+      "name": "Royal Thai Air Force Museum",
+      "name_en": "",
+      "city": "Sai Mai",
+      "country": "Thailand",
+      "latitude": 13.919647,
+      "longitude": 100.62213,
+      "website": ""
+    },
+    {
+      "name": "Rungkaew Museum",
+      "name_en": "",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.791041,
+      "longitude": 98.990069,
+      "website": ""
+    },
+    {
+      "name": "Samphanthawong Museum",
+      "name_en": "",
+      "city": "Samphanthawong",
+      "country": "Thailand",
+      "latitude": 13.736716,
+      "longitude": 100.511098,
+      "website": ""
+    },
+    {
+      "name": "Sawanwaranayok  National Museum",
+      "name_en": "",
+      "city": "Sawankhalok",
+      "country": "Thailand",
+      "latitude": 17.31933,
+      "longitude": 99.826777,
+      "website": ""
+    },
+    {
+      "name": "Seashell museum",
+      "name_en": "",
+      "city": "Rawai",
+      "country": "Thailand",
+      "latitude": 7.782892,
+      "longitude": 98.328718,
+      "website": ""
+    },
+    {
+      "name": "Seri Thai Museum",
+      "name_en": "",
+      "city": "Phrae",
+      "country": "Thailand",
+      "latitude": 18.147479,
+      "longitude": 100.149409,
+      "website": ""
+    },
+    {
+      "name": "Siam Fighting Fish Gallery",
+      "name_en": "",
+      "city": "Khlong Toei",
+      "country": "Thailand",
+      "latitude": 13.699891,
+      "longitude": 100.56285,
+      "website": ""
+    },
+    {
+      "name": "Silp Bhirasri Museum",
+      "name_en": "",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.752715,
+      "longitude": 100.490926,
+      "website": ""
+    },
+    {
+      "name": "Surasak Gallery",
+      "name_en": "",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.78584,
+      "longitude": 98.984859,
+      "website": ""
+    },
+    {
+      "name": "Teddy Bear Museum",
+      "name_en": "",
+      "city": "Phatthaya",
+      "country": "Thailand",
+      "latitude": 12.946648,
+      "longitude": 100.885038,
+      "website": "http://teddybearmuseumpattaya.com/"
+    },
+    {
+      "name": "Thai Boat Museum",
+      "name_en": "",
+      "city": "Phra Nakhon Si Ayutthaya",
+      "country": "Thailand",
+      "latitude": 14.356816,
+      "longitude": 100.571969,
+      "website": ""
+    },
+    {
+      "name": "Thai-Japan Friendship Memorial Hall",
+      "name_en": "",
+      "city": "Khun Yuam",
+      "country": "Thailand",
+      "latitude": 18.830611,
+      "longitude": 97.932565,
+      "website": ""
+    },
+    {
+      "name": "Thailand Creative and Design Centre",
+      "name_en": "",
+      "city": "Khlong Toei",
+      "country": "Thailand",
+      "latitude": 13.729589,
+      "longitude": 100.568884,
+      "website": ""
+    },
+    {
+      "name": "Tourist Information Center",
+      "name_en": "",
+      "city": "Ban Talat Nua",
+      "country": "Thailand",
+      "latitude": 7.884932,
+      "longitude": 98.388909,
+      "website": ""
+    },
+    {
+      "name": "Tribal Park",
+      "name_en": "",
+      "city": "Nong Khai",
+      "country": "Thailand",
+      "latitude": 17.882377,
+      "longitude": 102.704435,
+      "website": ""
+    },
+    {
+      "name": "Tsunami Museum",
+      "name_en": "",
+      "city": "Ban Khao Lak",
+      "country": "Thailand",
+      "latitude": 8.667566,
+      "longitude": 98.253436,
+      "website": ""
+    },
+    {
+      "name": "Ubonratchathani National Museum",
+      "name_en": "Ubon Ratchathani National Museum",
+      "city": "Ubon Ratchathani",
+      "country": "Thailand",
+      "latitude": 15.227783,
+      "longitude": 104.857711,
+      "website": ""
+    },
+    {
+      "name": "Wat",
+      "name_en": "",
+      "city": "Nakhon Sawan",
+      "country": "Thailand",
+      "latitude": 15.711945,
+      "longitude": 100.127036,
+      "website": ""
+    },
+    {
+      "name": "Wat Ban Don Shadow Play Museum",
+      "name_en": "",
+      "city": "Rayong",
+      "country": "Thailand",
+      "latitude": 12.696095,
+      "longitude": 101.299819,
+      "website": ""
+    },
+    {
+      "name": "Wat Lee Museum",
+      "name_en": "",
+      "city": "Phayao",
+      "country": "Thailand",
+      "latitude": 19.16649,
+      "longitude": 99.916079,
+      "website": ""
+    },
+    {
+      "name": "World War II & Jeath Museum",
+      "name_en": "",
+      "city": "Kanchanaburi",
+      "country": "Thailand",
+      "latitude": 14.041365,
+      "longitude": 99.504885,
+      "website": ""
+    },
+    {
+      "name": "WTF Gallery",
+      "name_en": "",
+      "city": "Watthana",
+      "country": "Thailand",
+      "latitude": 13.726618,
+      "longitude": 100.576186,
+      "website": ""
+    },
+    {
+      "name": "Гуан Ю",
+      "name_en": "Nothing remove this",
+      "city": "Ko Samui",
+      "country": "Thailand",
+      "latitude": 9.445699,
+      "longitude": 100.024182,
+      "website": ""
+    },
+    {
+      "name": "คุ้มพญาเม็งราย",
+      "name_en": "",
+      "city": "Phaya Mengrai",
+      "country": "Thailand",
+      "latitude": 19.817735,
+      "longitude": 100.152171,
+      "website": ""
+    },
+    {
+      "name": "คุ้มเจ้าหลวง",
+      "name_en": "Khum Chao Luang",
+      "city": "Phrae",
+      "country": "Thailand",
+      "latitude": 18.14422,
+      "longitude": 100.138732,
+      "website": ""
+    },
+    {
+      "name": "นิทรรศน์รัตนโกสินทร์",
+      "name_en": "Rattanakosin Exhibition Hall",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.755888,
+      "longitude": 100.503839,
+      "website": ""
+    },
+    {
+      "name": "บ้านคำอูน",
+      "name_en": "Chateau Kum-Une Art Museum",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.919306,
+      "longitude": 98.915081,
+      "website": ""
+    },
+    {
+      "name": "บ้านจ๊างนัก",
+      "name_en": "Baan Jang Nak",
+      "city": "San Kamphaeng",
+      "country": "Thailand",
+      "latitude": 18.722571,
+      "longitude": 99.116352,
+      "website": "http://www.baanjangnak.com/"
+    },
+    {
+      "name": "บ้านพิพิธภัณฑ์",
+      "name_en": "House of Museums",
+      "city": "Bang Yai",
+      "country": "Thailand",
+      "latitude": 13.796878,
+      "longitude": 100.391677,
+      "website": ""
+    },
+    {
+      "name": "พิพิทภัณฑ์ ม.สารคาม",
+      "name_en": "Phi Phit Phan Mo Sarakham",
+      "city": "Maha Sarakham",
+      "country": "Thailand",
+      "latitude": 16.242304,
+      "longitude": 103.251622,
+      "website": ""
+    },
+    {
+      "name": "พิพิธพัณฑ์ขนมไทย",
+      "name_en": "",
+      "city": "Amphawa",
+      "country": "Thailand",
+      "latitude": 13.423969,
+      "longitude": 99.955788,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑสถานชุมชนบ้านโป่งมะนาว",
+      "name_en": "",
+      "city": "Wang Muang",
+      "country": "Thailand",
+      "latitude": 14.916612,
+      "longitude": 101.247778,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑสถานธรรมชาติวิทยาฯ",
+      "name_en": "Museum of Natural History",
+      "city": "Pathum Wan",
+      "country": "Thailand",
+      "latitude": 13.737478,
+      "longitude": 100.530085,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+      "name_en": "Khon Kaen National Museum",
+      "city": "Khon Kaen",
+      "country": "Thailand",
+      "latitude": 16.446143,
+      "longitude": 102.838659,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑสถานแห่งชาติ ถลาง",
+      "name_en": "Thalang National Museum",
+      "city": "Ban Ko Kaeo",
+      "country": "Thailand",
+      "latitude": 7.980927,
+      "longitude": 98.36694,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑสถานแห่งชาติ นครศรีธรรมราช",
+      "name_en": "National Museum",
+      "city": "Nakhon Si Thammarat",
+      "country": "Thailand",
+      "latitude": 8.40043,
+      "longitude": 99.969559,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑสถานแห่งชาติ สงขลา",
+      "name_en": "Songkhla National Museum",
+      "city": "Songkhla",
+      "country": "Thailand",
+      "latitude": 7.202397,
+      "longitude": 100.588944,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑสถานแห่งชาติพระปฐมเจดีย์",
+      "name_en": "Phrapathomchedi National Museum",
+      "city": "Nakhon Pathom",
+      "country": "Thailand",
+      "latitude": 13.818432,
+      "longitude": 100.061014,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ แบทแคท มิวเซียม แอนด์ ทอยส์",
+      "name_en": "Batcat Museum and Toys",
+      "city": "Bang Kapi",
+      "country": "Thailand",
+      "latitude": 13.763881,
+      "longitude": 100.645411,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์การแพทย์ศิริราช",
+      "name_en": "Songkran Niyosane Forensic Medicine Museum & Parasite Museum",
+      "city": "Bangkok Noi",
+      "country": "Thailand",
+      "latitude": 13.758063,
+      "longitude": 100.485838,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ขนมไทย",
+      "name_en": "Amphawa Thai Dessert Museum",
+      "city": "Amphawa",
+      "country": "Thailand",
+      "latitude": 13.426886,
+      "longitude": 99.952886,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์จังหวัดนนทบุรี",
+      "name_en": "Museum of Nonthaburi",
+      "city": "Mueang Nonthaburi",
+      "country": "Thailand",
+      "latitude": 13.841527,
+      "longitude": 100.491843,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ชาวเขา",
+      "name_en": "Hilltribe Museum",
+      "city": "Chiang Rai",
+      "country": "Thailand",
+      "latitude": 19.90921,
+      "longitude": 99.835779,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ช้างเอราวัณ",
+      "name_en": "Erawan Elephant Museum",
+      "city": "Samut Prakan",
+      "country": "Thailand",
+      "latitude": 13.628619,
+      "longitude": 100.58879,
+      "website": "http://www.ancientcitygroup.net"
+    },
+    {
+      "name": "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
+      "name_en": "Chiang Mai Philatelic Museum",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.78919,
+      "longitude": 99.002038,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ตั้งเซียมฮะ",
+      "name_en": "",
+      "city": "Bang Khon Thi",
+      "country": "Thailand",
+      "latitude": 13.460612,
+      "longitude": 99.945203,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ท้องถิ่น",
+      "name_en": "Sgt Major Thawee Folk Museum",
+      "city": "Phitsanulok",
+      "country": "Thailand",
+      "latitude": 16.805661,
+      "longitude": 100.267364,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ธนาคารไทย",
+      "name_en": "Thai Bank Museum",
+      "city": "Chatuchak",
+      "country": "Thailand",
+      "latitude": 13.82713,
+      "longitude": 100.564737,
+      "website": "www.thaibankmuseum.or.th/"
+    },
+    {
+      "name": "พิพิธภัณฑ์บ้านวงศ์บุรี",
+      "name_en": "Ban Wongburi",
+      "city": "Phrae",
+      "country": "Thailand",
+      "latitude": 18.143686,
+      "longitude": 100.136072,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์ร่างกายมนุษย์",
+      "name_en": "Human Body Museum",
+      "city": "Pathum Wan",
+      "country": "Thailand",
+      "latitude": 13.743541,
+      "longitude": 100.534422,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์สถาน อำเภอแวงน้อย",
+      "name_en": "Waeng Noi District Museum",
+      "city": "Waeng Noi",
+      "country": "Thailand",
+      "latitude": 15.804528,
+      "longitude": 102.4177,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์สังคโลก",
+      "name_en": "Sangkhalok Museum",
+      "city": "Sukhothai",
+      "country": "Thailand",
+      "latitude": 17.012497,
+      "longitude": 99.835335,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์สัตว์น้ำ",
+      "name_en": "",
+      "city": "Chatuchak",
+      "country": "Thailand",
+      "latitude": 13.855025,
+      "longitude": 100.56767,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์สัตว์น้ำ",
+      "name_en": "",
+      "city": "Roi Et",
+      "country": "Thailand",
+      "latitude": 16.05589,
+      "longitude": 103.650158,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์สานฝันบรรพชน",
+      "name_en": "San Fan Bap Chon Museum",
+      "city": "Mae Taeng",
+      "country": "Thailand",
+      "latitude": 19.081478,
+      "longitude": 99.174401,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์สิรินธร",
+      "name_en": "Sirindhorn Museum",
+      "city": "Sahatsakhan",
+      "country": "Thailand",
+      "latitude": 16.692893,
+      "longitude": 103.524164,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์สุนทราภรณ์ บ้านครูเอื้อ",
+      "name_en": "",
+      "city": "Amphawa",
+      "country": "Thailand",
+      "latitude": 13.426721,
+      "longitude": 99.955922,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์หนังตะลุง สุชาติ ทรัพย์สิน",
+      "name_en": "Suchart Subsin's Shadow Puppet Museum",
+      "city": "Nakhon Si Thammarat",
+      "country": "Thailand",
+      "latitude": 8.414435,
+      "longitude": 99.968755,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์หมู่บ้านชาวเขา",
+      "name_en": "Hill Tribes Village Museum",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.816389,
+      "longitude": 98.884319,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์หอยหิน 150 ล้านปี",
+      "name_en": "",
+      "city": "Nong Bua Lamphu",
+      "country": "Thailand",
+      "latitude": 17.244023,
+      "longitude": 102.513612,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์หุ่นขี้ผึ้งไทย",
+      "name_en": "Thai Human Imagery Museum",
+      "city": "Nakhon Chai Si",
+      "country": "Thailand",
+      "latitude": 13.772804,
+      "longitude": 100.207538,
+      "website": "http://www.rosenini.com/thaihumanimagery/"
+    },
+    {
+      "name": "พิพิธภัณฑ์อัฐบริขาร หลวงปู่ขาว อนาลโย",
+      "name_en": "Luang Poo Khao Analayo's Articles Museum",
+      "city": "Nong Bua Lamphu",
+      "country": "Thailand",
+      "latitude": 17.227747,
+      "longitude": 102.516488,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์เทคโนโลยีทางภาพ",
+      "name_en": "Museum of Imaging Technology",
+      "city": "Pathum Wan",
+      "country": "Thailand",
+      "latitude": 13.737124,
+      "longitude": 100.529853,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์เมืองอุดรธานี",
+      "name_en": "Udon Thani Provincial Museum",
+      "city": "Udon Thani",
+      "country": "Thailand",
+      "latitude": 17.41234,
+      "longitude": 102.781984,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์เรือหลวงแม่กลอง",
+      "name_en": "",
+      "city": "Samut Prakan",
+      "country": "Thailand",
+      "latitude": 13.538735,
+      "longitude": 100.584346,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
+      "name_en": "Museum of Insects and Natural Wonders",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.788152,
+      "longitude": 98.986636,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณฑ์แรงงานไทย",
+      "name_en": "Thai Labour Museum",
+      "city": "Din Daeng",
+      "country": "Thailand",
+      "latitude": 13.753037,
+      "longitude": 100.549757,
+      "website": ""
+    },
+    {
+      "name": "พิพิธภัณท์ท้องถิ่นบ้านขุนสมุทรจีน",
+      "name_en": "",
+      "city": "Phra Samut Chedi",
+      "country": "Thailand",
+      "latitude": 13.516067,
+      "longitude": 100.533721,
+      "website": ""
+    },
+    {
+      "name": "ล้านของเล่น",
+      "name_en": "Million Toy Museum",
+      "city": "Phra Nakhon Si Ayutthaya",
+      "country": "Thailand",
+      "latitude": 14.359988,
+      "longitude": 100.552888,
+      "website": ""
+    },
+    {
+      "name": "วัดคีรีวงศ์",
+      "name_en": "Wat Khiriwong",
+      "city": "Nakhon Sawan",
+      "country": "Thailand",
+      "latitude": 15.71872,
+      "longitude": 100.124718,
+      "website": ""
+    },
+    {
+      "name": "วัดป่าเทพมงคล",
+      "name_en": "Thepphamongkhon Temple",
+      "city": "Phu Kradueng",
+      "country": "Thailand",
+      "latitude": 16.980611,
+      "longitude": 101.907284,
+      "website": ""
+    },
+    {
+      "name": "ศาลจังหวัดปทุมธานี",
+      "name_en": "",
+      "city": "Pathum Thani",
+      "country": "Thailand",
+      "latitude": 14.020155,
+      "longitude": 100.5251,
+      "website": ""
+    },
+    {
+      "name": "ศาลหลักเมืองจังหวัดปทุมธานี",
+      "name_en": "",
+      "city": "Pathum Thani",
+      "country": "Thailand",
+      "latitude": 14.020863,
+      "longitude": 100.525121,
+      "website": ""
+    },
+    {
+      "name": "ศาลากลางจังหวัดปทุมธานี(หลังเก่า)",
+      "name_en": "",
+      "city": "Pathum Thani",
+      "country": "Thailand",
+      "latitude": 14.019656,
+      "longitude": 100.53422,
+      "website": ""
+    },
+    {
+      "name": "ศูนย์วัฒนธรรมพื้นบ้านชะอำ",
+      "name_en": "Cha-Am Local Cultural Center",
+      "city": "Cha-am",
+      "country": "Thailand",
+      "latitude": 12.798236,
+      "longitude": 99.970211,
+      "website": ""
+    },
+    {
+      "name": "ศูนย์ศึกษาประวัติศาสตร์อยุธยา",
+      "name_en": "Ayutthaya Historical Study Center",
+      "city": "Phra Nakhon Si Ayutthaya",
+      "country": "Thailand",
+      "latitude": 14.349352,
+      "longitude": 100.56557,
+      "website": ""
+    },
+    {
+      "name": "สถานแสดงพันธุ์สัตว์น้ำจืด เกษตรกลาง",
+      "name_en": "",
+      "city": "Chatuchak",
+      "country": "Thailand",
+      "latitude": 13.842545,
+      "longitude": 100.575602,
+      "website": ""
+    },
+    {
+      "name": "สถาบันวิจัยศิลปะและวัฒนธรรมอีสาน มหาวิทยาลัยมหาสารคาม",
+      "name_en": "The Research Institute of Northeastern Art and Culture Mahasarakham University",
+      "city": "Maha Sarakham",
+      "country": "Thailand",
+      "latitude": 16.198499,
+      "longitude": 103.283639,
+      "website": ""
+    },
+    {
+      "name": "สวัสดีอัมพวา พิพิธภัณฑ์เมื่อวันก่อน",
+      "name_en": "",
+      "city": "Amphawa",
+      "country": "Thailand",
+      "latitude": 13.426599,
+      "longitude": 99.955643,
+      "website": ""
+    },
+    {
+      "name": "สำนักพิพิธภัณฑ์และวัฒนธรรมการเกษตร",
+      "name_en": "Office of Agricultural Museum and Culture",
+      "city": "Chatuchak",
+      "country": "Thailand",
+      "latitude": 13.847712,
+      "longitude": 100.563752,
+      "website": ""
+    },
+    {
+      "name": "หอธรรม และพิพิธภัณฑ์วัดเจดีย์หลวง",
+      "name_en": "Buddhist Manuscript Library and Museum",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.78759,
+      "longitude": 98.986837,
+      "website": ""
+    },
+    {
+      "name": "หอประวัติจุฬาลงกรณ์มหาวิทยาลัย",
+      "name_en": "Memorial Hall of Chulalongkorn University",
+      "city": "Pathum Wan",
+      "country": "Thailand",
+      "latitude": 13.737033,
+      "longitude": 100.531863,
+      "website": ""
+    },
+    {
+      "name": "หอประวัติฯ",
+      "name_en": "",
+      "city": "Chatuchak",
+      "country": "Thailand",
+      "latitude": 13.845773,
+      "longitude": 100.566389,
+      "website": ""
+    },
+    {
+      "name": "หอฝิ่น",
+      "name_en": "Hall of Opium",
+      "city": "Chiang Saen",
+      "country": "Thailand",
+      "latitude": 20.363677,
+      "longitude": 100.073688,
+      "website": ""
+    },
+    {
+      "name": "หอศิลปวัฒนธรรมมหาวิทยาลัยขอนแก่น",
+      "name_en": "Art and Culture University Museum",
+      "city": "Khon Kaen",
+      "country": "Thailand",
+      "latitude": 16.445115,
+      "longitude": 102.814523,
+      "website": ""
+    },
+    {
+      "name": "หอศิลปวัฒนธรรมเมืองเชียงใหม่",
+      "name_en": "Chiang Mai City Art & Cultural Center",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.790192,
+      "longitude": 98.986916,
+      "website": ""
+    },
+    {
+      "name": "หอเกียรติภูมินายกรัฐมนตรีไทย",
+      "name_en": "Thailand Prime Ministers Museum",
+      "city": "Pom Prap Sattru Phai",
+      "country": "Thailand",
+      "latitude": 13.75579,
+      "longitude": 100.5193,
+      "website": ""
+    },
+    {
+      "name": "อนุสรณ์สถานแห่งชาติ",
+      "name_en": "",
+      "city": "Sai Mai",
+      "country": "Thailand",
+      "latitude": 13.95207,
+      "longitude": 100.621189,
+      "website": ""
+    },
+    {
+      "name": "โฮงมูนมังเมืองขอนแกน",
+      "name_en": "Hong Mun Mang Khon Kaen City Museum",
+      "city": "Khon Kaen",
+      "country": "Thailand",
+      "latitude": 16.419611,
+      "longitude": 102.839061,
+      "website": ""
+    },
+    {
+      "name": "乌坎",
+      "name_en": "",
+      "city": "Chiang Rai",
+      "country": "Thailand",
+      "latitude": 19.904331,
+      "longitude": 99.814285,
+      "website": ""
+    },
+    {
+      "name": "清盛古城",
+      "name_en": "Chiang Saen National Museum",
+      "city": "Chiang Saen",
+      "country": "Thailand",
+      "latitude": 20.273579,
+      "longitude": 100.079087,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "พิพิธภัณฑ์ในประเทศไทย (Museums in Thailand) - ดาวน์โหลดฟรี",
+    "description": "รายชื่อพิพิธภัณฑ์ 135 แห่งในประเทศไทยจาก OpenStreetMap พร้อมชื่อ เมือง พิกัด และเว็บไซต์. มีทั้งหมด 135 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "พิพิธภัณฑ์ในประเทศไทย (Museums in Thailand) | ListBase",
+    "seo_description": "ดาวน์โหลด พิพิธภัณฑ์ในประเทศไทย (Museums in Thailand) — 135 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 135 รายการ / 7 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

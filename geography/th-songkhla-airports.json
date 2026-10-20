@@ -1,0 +1,135 @@
+{
+  "id": "th-songkhla-airports",
+  "name": "ท่าอากาศยาน — Songkhla",
+  "title": "ท่าอากาศยาน — Songkhla",
+  "description": "ท่าอากาศยานในจังหวัด Songkhla ประเทศไทย (Airports in Songkhla Province, Thailand — 2 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VTSS",
+      "iata": "HDY",
+      "name_en": "Hat Yai International Airport",
+      "name_slug": "hat-yai-international-airport",
+      "city_en": "Khlong Hoi Khong",
+      "city_slug": "khlong-hoi-khong",
+      "province_en": "Songkhla",
+      "province_slug": "songkhla",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 104,
+      "lat": 6.9353952,
+      "lon": 100.3937098,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    },
+    {
+      "icao": "VTSH",
+      "iata": "SGZ",
+      "name_en": "Songkhla",
+      "name_slug": "songkhla",
+      "city_en": "Songkhla",
+      "city_slug": "songkhla",
+      "province_en": "Songkhla",
+      "province_slug": "songkhla",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 26,
+      "lat": 7.1863833,
+      "lon": 100.6068419,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "ท่าอากาศยาน — Songkhla - ดาวน์โหลดฟรี",
+    "description": "ท่าอากาศยานในจังหวัด Songkhla ประเทศไทย (Airports in Songkhla Province, Thailand — 2 record(s).) มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ท่าอากาศยาน — Songkhla | ListBase",
+    "seo_description": "ดาวน์โหลด ท่าอากาศยาน — Songkhla — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 15 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

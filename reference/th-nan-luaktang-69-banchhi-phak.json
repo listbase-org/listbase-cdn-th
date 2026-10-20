@@ -1,0 +1,1424 @@
+{
+  "id": "th-nan-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — น่าน (Nan party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — น่าน (Nan party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดน่าน. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1289
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1170
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1152
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 353
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 488
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1412
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 933
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1643
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 18728
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 530
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2380
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 279
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 794
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องทีไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 292
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 251
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 1124
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 61
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 287
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 130
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4083
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 212
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 321
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 225
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 175
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 214
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 274
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10406
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 333
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 57
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 234
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 5764
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 460
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาลใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 515
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 38359
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 273
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 329
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 618
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 68
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1269
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1267
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2713
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 327
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1279
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1233
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 145
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 454
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19622
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 338
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2371
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 268
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 833
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 179
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 265
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 223
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 242
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 43
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 62
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 116
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชันใหม่",
+      "votes": 487
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 205
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4796
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 191
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 250
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 193
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 189
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 306
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 232
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 113
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 202
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 4906
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 347
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 96
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 163
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 11937
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 656
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 148
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 395
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 30149
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 263
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 289
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 285
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 104
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "1",
+      "party": "Unknown",
+      "votes": 0
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2239
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 2670
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 1254
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 627
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 575
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1096
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 869
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 454
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 18897
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 516
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 1778
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 243
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 770
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 338
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 303
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 336
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 279
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 80
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 85
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 229
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 89
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 200
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 2722
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 282
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 577
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 432
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 365
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 274
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 281
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 113
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 174
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 6096
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 518
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 92
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 2424
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 600
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 619
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 295
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 28958
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 444
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "50",
+      "party": "ไทยสร้างไทย",
+      "votes": 688
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 16
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 53
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "55",
+      "changwat": "น่าน",
+      "khet": "3",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 108
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — น่าน (Nan party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดน่าน. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — น่าน (Nan party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — น่าน (Nan party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

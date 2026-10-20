@@ -1,0 +1,82 @@
+{
+  "id": "th-chiangmai-swift-code",
+  "name": "รหัส SWIFT/BIC — Chiangmai",
+  "title": "รหัส SWIFT/BIC — Chiangmai",
+  "description": "รหัส SWIFT/BIC ของธนาคารและสถาบันการเงินในประเทศไทย แต่ละรายการระบุชื่อสถาบัน เมือง สาขา (ถ้ามี) และรหัส SWIFT/BIC แหล่งข้อมูล: PeterNotenboom/SwiftCodes (สัญญาอนุญาต MIT) ชุดย่อยนี้มี 6 สถาบันที่แหล่งข้อมูลระบุเมืองเป็น \"CHIANGMAI\"",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+      "city": "CHIANGMAI",
+      "branch": "",
+      "swift_code": "BKKBTHB10BC"
+    },
+    {
+      "bank": "CHIANGMAI LENDING OFFICE",
+      "city": "CHIANGMAI",
+      "branch": "",
+      "swift_code": "LENDTHB10BC"
+    },
+    {
+      "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
+      "city": "CHIANGMAI",
+      "branch": "(CHIANGMAI CENTRE)",
+      "swift_code": "KASITHBKCHM"
+    },
+    {
+      "bank": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
+      "city": "CHIANGMAI",
+      "branch": "",
+      "swift_code": "KRTHTHB10BC"
+    },
+    {
+      "bank": "OFFICE FOR SECURITIES BROKERAGE SERVICES",
+      "city": "CHIANGMAI",
+      "branch": "",
+      "swift_code": "OFSBTHB1"
+    },
+    {
+      "bank": "TMB BANK PUBLIC COMPANY LIMITED",
+      "city": "CHIANGMAI",
+      "branch": "",
+      "swift_code": "TMBKTHB10BC"
+    }
+  ],
+  "meta": {
+    "title": "รหัส SWIFT/BIC — Chiangmai - ดาวน์โหลดฟรี",
+    "description": "รหัส SWIFT/BIC ของธนาคารและสถาบันการเงินในประเทศไทย แต่ละรายการระบุชื่อสถาบัน เมือง สาขา (ถ้ามี) และรหัส SWIFT/BIC แหล่งข้อมูล: PeterNotenboom/SwiftCodes (สัญญาอนุญาต MIT) ชุดย่อยนี้มี 6 สถาบันที่แหล่งข้อมูลระบุเมืองเป็น \"CHIANGMAI\" มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัส SWIFT/BIC — Chiangmai | ListBase",
+    "seo_description": "ดาวน์โหลด รหัส SWIFT/BIC — Chiangmai — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

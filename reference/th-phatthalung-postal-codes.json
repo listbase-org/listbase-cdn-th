@@ -1,0 +1,136 @@
+{
+  "id": "th-phatthalung-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดพัทลุง (Phatthalung Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดพัทลุง (Phatthalung Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดพัทลุง แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phatthalung province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 93000,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9301: เมืองพัทลุง: Mueang Phatthalung, 9302: กงหรา: Kong Ra, 9311: ศรีนครินทร์: Srinagarindra",
+      "subdistricts": "930101: คูหาสวรรค์: Khu Ha Sa Wan: 9301, 930103: เขาเจียก: Khao Chiak: 9301, 930104: ท่ามิหรำ: Tha Mi Ram: 9301, 930105: โคกชะงาย: Khok Cha Ngai: 9301, 930106: นาท่อม: Na Thom: 9301, 930107: ปรางหมู่: Prang Mu: 9301, 930108: ท่าแค: Tha Khae: 9301, 930109: ลำปำ: Lam Pam: 9301, 930110: ตำนาน: Tamnan: 9301, 930111: ควนมะพร้าว: Khuan Ma Phrao: 9301, 930112: ร่มเมือง: Rom Mueang: 9301, 930113: ชัยบุรี: Chai Buri: 9301, 930114: นาโหนด: Na Not: 9301, 930115: พญาขัน: Phaya Khan: 9301, 930202: ชะรัด: Charat: 9302, 930205: สมหวัง: Som Wang: 9302, 931101: ชุมพล: Chum Phon: 9311, 931102: บ้านนา: Ban Na: 9311, 931103: อ่างทอง: Ang Thong: 9311, 931104: ลำสินธุ์: Lam Sin: 9311"
+    },
+    {
+      "postal_code": 93110,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9305: ควนขนุน: Khuan Khanun, 9310: ป่าพะยอม: Pa Phayom",
+      "subdistricts": "930501: ควนขนุน: Khuan Kha Nun: 9305, 930504: นาขยาด: Nakhayat: 9305, 930505: พนมวังก์: Phanom Wang: 9305, 930506: แหลมโตนด: Laem Tanot: 9305, 930508: ปันแต: Pantae: 9305, 930509: โตนดด้วน: Tanot Duan: 9305, 930510: ดอนทราย: Don Sai: 9305, 930513: ชะมวง: Chamuang: 9305, 930516: แพรกหา: Phraek Ha: 9305, 931001: ป่าพะยอม: Pa Phayom: 9310, 931002: ลานข่อย: Lan Khoi: 9310, 931003: เกาะเต่า: Ko Tao: 9310, 931004: บ้านพร้าว: Ban Phrao: 9310"
+    },
+    {
+      "postal_code": 93120,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9306: ปากพะยูน: Pak Phayun",
+      "subdistricts": "930601: ปากพะยูน: Pak Pha Yun: 9306, 930602: ดอนประดู่: Don Pradu: 9306, 930603: เกาะนางคำ: Ko Nangkham: 9306, 930604: เกาะหมาก: Ko Mak: 9306, 930605: ฝาละมี: Fa La Mi: 9306, 930606: หารเทา: Han Thao: 9306, 930607: ดอนทราย: Don Sai: 9306"
+    },
+    {
+      "postal_code": 93130,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9303: เขาชัยสน: Khao Chaison",
+      "subdistricts": "930301: เขาชัยสน: Khao Chaison: 9303, 930302: ควนขนุน: Khuan Kha Nun: 9303, 930305: จองถนน: Chong Tha Non: 9303, 930306: หานโพธิ์: Han Pho: 9303, 930307: โคกม่วง: Khok Muang: 9303"
+    },
+    {
+      "postal_code": 93140,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9309: บางแก้ว: Bang Kaeo",
+      "subdistricts": "930901: ท่ามะเดื่อ: Tha Maduea: 9309, 930902: นาปะขอ: Na Pakho: 9309, 930903: โคกสัก: Khok Sak: 9309"
+    },
+    {
+      "postal_code": 93150,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9305: ควนขนุน: Khuan Khanun",
+      "subdistricts": "930502: ทะเลน้อย: Thale Noi: 9305, 930511: มะกอกเหนือ: Makok Nuea: 9305, 930512: พนางตุง: Phanang Tung: 9305"
+    },
+    {
+      "postal_code": 93160,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9304: ตะโหมด: Tamot",
+      "subdistricts": "930401: แม่ขรี: Mae Khri: 9304, 930402: ตะโหมด: Tanot: 9304, 930403: คลองใหญ่: Khlong Yai: 9304"
+    },
+    {
+      "postal_code": 93170,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9308: ป่าบอน: Pa Bon",
+      "subdistricts": "930801: ป่าบอน: Pa Bon: 9308, 930802: โคกทราย: Khok Sai: 9308, 930803: หนองธง: Nong Thong: 9308, 930804: ทุ่งนารี: Thung Nari: 9308, 930806: วังใหม่: Wang Mai: 9308"
+    },
+    {
+      "postal_code": 93180,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9302: กงหรา: Kong Ra",
+      "subdistricts": "930201: กงหรา: Kong Ra: 9302, 930203: คลองเฉลิม: Khlong Cha Loem: 9302, 930204: คลองทรายขาว: Khlong Sai Khao: 9302"
+    },
+    {
+      "postal_code": 93190,
+      "province_code": 93,
+      "province_name_th": "พัทลุง",
+      "province_name_en": "Phatthalung",
+      "districts": "9307: ศรีบรรพต: Si Banphot",
+      "subdistricts": "930701: เขาย่า: Khao Ya: 9307, 930702: เขาปู่: Khao Pu: 9307, 930703: ตะแพน: Tapaen: 9307"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดพัทลุง (Phatthalung Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดพัทลุง แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phatthalung province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 10 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดพัทลุง (Phatthalung Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดพัทลุง (Phatthalung Postal Codes) — 10 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 10 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

@@ -1,0 +1,968 @@
+{
+  "id": "th-mae-hong-son-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — แม่ฮ่องสอน (Mae Hong Son party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — แม่ฮ่องสอน (Mae Hong Son party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดแม่ฮ่องสอน. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 562
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3906
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 781
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 346
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 939
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1051
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 141
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 337
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 5824
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 326
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1851
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 280
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 579
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 516
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 246
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 336
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 196
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 220
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4942
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 169
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 246
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 160
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 411
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 191
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 111
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 4324
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 111
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 109
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 4365
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 211
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 99
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 163
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 26697
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 221
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 139
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 798
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4207
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 806
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 965
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3880
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1036
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 400
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 538
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 5071
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 400
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1690
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 348
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 560
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 298
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 185
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 362
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 615
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 97
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 104
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 135
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 232
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "24",
+      "party": "วินัยไทย",
+      "votes": 399
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 275
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 446
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5036
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 284
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 192
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 199
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 500
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 218
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 225
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 395
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 178
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 238
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 7668
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 139
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 66
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 110
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2445
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 283
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 192
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24494
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 253
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 171
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 88
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 152
+    },
+    {
+      "changwat_code": "58",
+      "changwat": "แม่ฮ่องสอน",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 106
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — แม่ฮ่องสอน (Mae Hong Son party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดแม่ฮ่องสอน. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 114 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — แม่ฮ่องสอน (Mae Hong Son party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — แม่ฮ่องสอน (Mae Hong Son party-list ballots) — 114 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 114 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

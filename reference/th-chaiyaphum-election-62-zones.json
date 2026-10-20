@@ -1,0 +1,148 @@
+{
+  "id": "th-chaiyaphum-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดชัยภูมิ 2562 (Chaiyaphum 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดชัยภูมิ 2562 (Chaiyaphum 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดชัยภูมิ ในการเลือกตั้งทั่วไป 2562 จำนวน 6 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Chaiyaphum province during the Thailand 24-March-2019 general election. 6 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 74,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "province_slug": "chaiyaphum",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองชัยภูมิ",
+      "areas_detail": "เมืองชัยภูมิ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 75,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "province_slug": "chaiyaphum",
+      "zone_number": 2,
+      "area_count": 4,
+      "amphoes": "จัตุรัส, บ้านเขว้า, หนองบัวระเหว, เนินสง่า",
+      "areas_detail": "จัตุรัส: : : , บ้านเขว้า: : : , หนองบัวระเหว: : : , เนินสง่า: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 76,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "province_slug": "chaiyaphum",
+      "zone_number": 3,
+      "area_count": 4,
+      "amphoes": "ซับใหญ่, บำเหน็จณรงค์, ภักดีชุมพล, เทพสถิต",
+      "areas_detail": "ซับใหญ่: : : , บำเหน็จณรงค์: : : , ภักดีชุมพล: : : , เทพสถิต: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 77,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "province_slug": "chaiyaphum",
+      "zone_number": 4,
+      "area_count": 2,
+      "amphoes": "หนองบัวแดง, เกษตรสมบูรณ์",
+      "areas_detail": "หนองบัวแดง: : : , เกษตรสมบูรณ์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 78,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "province_slug": "chaiyaphum",
+      "zone_number": 5,
+      "area_count": 2,
+      "amphoes": "คอนสาร, ภูเขียว",
+      "areas_detail": "คอนสาร: : : , ภูเขียว: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 79,
+      "province_name_th": "ชัยภูมิ",
+      "province_name_en": "Chaiyaphum",
+      "province_slug": "chaiyaphum",
+      "zone_number": 6,
+      "area_count": 3,
+      "amphoes": "คอนสวรรค์, บ้านแท่น, แก้งคร้อ",
+      "areas_detail": "คอนสวรรค์: : : , บ้านแท่น: : : , แก้งคร้อ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดชัยภูมิ 2562 (Chaiyaphum 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดชัยภูมิ ในการเลือกตั้งทั่วไป 2562 จำนวน 6 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Chaiyaphum province during the Thailand 24-March-2019 general election. 6 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดชัยภูมิ 2562 (Chaiyaphum 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดชัยภูมิ 2562 (Chaiyaphum 2019 Election Constituencies) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

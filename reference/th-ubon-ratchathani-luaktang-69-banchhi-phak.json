@@ -1,0 +1,5072 @@
+{
+  "id": "th-ubon-ratchathani-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุบลราชธานี (Ubon Ratchathani party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุบลราชธานี (Ubon Ratchathani party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดอุบลราชธานี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 627,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 299
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3027
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 208
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 290
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 569
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1860
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 447
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 687
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 20879
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 423
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3396
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 510
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 400
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 149
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 69
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 2230
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 37
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 91
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5058
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 126
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 778
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 129
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 90
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 104
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 86
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 77
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 12515
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 160
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 188
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 33820
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 2056
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 340
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1914
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1081
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 375
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 314
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3070
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1269
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 93
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 588
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 12233
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 330
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3038
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 485
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 597
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 223
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 264
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 16800
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 169
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 471
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 113
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4470
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 158
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 306
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 158
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 107
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 209
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 79
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8421
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 161
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 31
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 123
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 124
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 8639
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 217
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 154
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 84
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21060
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 105
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 517
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 197
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 183
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 68
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2768
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3637
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 776
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 196
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 998
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1400
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 120
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 581
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 18627
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 361
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3323
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 534
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 628
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 269
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 72
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 13121
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 145
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 51
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5741
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 182
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 300
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 320
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 320
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 145
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 112
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9569
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 281
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 79
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 549
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 65
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 18496
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 131
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 417
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 149
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 172
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 117
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2643
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2084
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 781
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 222
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 734
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4128
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 163
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 451
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 27545
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 561
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4536
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 754
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 666
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 335
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 94
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 2489
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 45
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 90
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 84
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2595
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 169
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 617
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 251
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 170
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 143
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 112
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 216
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 145
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11840
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 339
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 60
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 72
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1922
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 289
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 91
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 33818
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 174
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 886
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 287
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 795
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4555
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 475
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 631
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 896
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1070
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 114
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 529
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 14862
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 387
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3176
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 463
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 557
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 248
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 151
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 2029
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 52
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 130
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 105
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3361
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 149
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 222
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 207
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 506
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 289
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 203
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 189
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 132
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 207
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20418
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 311
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 92
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 781
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 326
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 60
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19738
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 164
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 508
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 235
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 61
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 82
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 585
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4270
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2529
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 227
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1070
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1187
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 76
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 423
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19393
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 366
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2870
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 462
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 548
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 243
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 110
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 162
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 12160
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 157
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 78
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 84
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2504
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 113
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 264
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 160
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 375
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 318
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 97
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 102
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8016
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 390
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 153
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 78
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 15567
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 570
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 148
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 171
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 40
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 53
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 268
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2617
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1860
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 279
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2409
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 945
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 129
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 568
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 27922
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 352
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3020
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 306
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 428
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 235
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 859
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 60
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3220
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 92
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 213
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 252
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 250
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 116
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 136
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 159
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20649
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 431
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 80
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 292
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 142
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 14484
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 364
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 133
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 19
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 50
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 52
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 505
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3809
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2231
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 327
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1098
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1348
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 132
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 619
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10349
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 286
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3968
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 563
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 532
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 173
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 130
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 108
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 14007
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 184
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 89
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4612
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 131
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 243
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 407
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 298
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 170
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 130
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 173
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 18739
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 195
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 97
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 136
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 176
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 97
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17380
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 358
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 123
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 181
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1438
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1675
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 3166
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1412
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 929
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1087
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 112
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 346
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 13847
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 390
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3874
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 491
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 459
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 249
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 105
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 151
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 20412
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 103
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 159
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 220
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 86
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1994
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 121
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 201
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 247
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 296
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 289
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 190
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 118
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6396
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 244
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 44
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 115
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 85
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1460
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 71
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 12981
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 384
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 116
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 278
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "9",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 67
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 616
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4389
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 743
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 189
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 680
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 759
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 75
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 229
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 9462
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 267
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2896
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 616
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 328
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 173
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 82
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 195
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 43161
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 321
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 74
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "24",
+      "party": "วิชชั่นไทย",
+      "votes": 135
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1146
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 106
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 172
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 133
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 477
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 148
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 85
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 72
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 75
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 5520
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 224
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 51
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 11557
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 226
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 89
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 557
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "56",
+      "party": "เพื่อบ้านใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "10",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 462
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1552
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 3089
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 505
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 981
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1680
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 294
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 558
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 13111
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 394
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4913
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 569
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 506
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 85
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 272
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 185
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 63
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 6554
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 317
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 57
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2921
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 171
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 307
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 134
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 284
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 255
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 202
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 151
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 142
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 204
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 16830
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 300
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 110
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 157
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 178
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17866
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 1146
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 143
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "34",
+      "changwat": "อุบลราชธานี",
+      "khet": "11",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 71
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุบลราชธานี (Ubon Ratchathani party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดอุบลราชธานี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 627 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุบลราชธานี (Ubon Ratchathani party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุบลราชธานี (Ubon Ratchathani party-list ballots) — 627 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 627 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

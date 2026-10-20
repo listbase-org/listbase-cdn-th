@@ -1,0 +1,160 @@
+{
+  "id": "th-uttaradit-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดอุตรดิตถ์ (Uttaradit Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดอุตรดิตถ์ (Uttaradit Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดอุตรดิตถ์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Uttaradit province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 53000,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5301: เมืองอุตรดิตถ์: Mueang Uttaradit",
+      "subdistricts": "530101: ท่าอิฐ: Tha It: 5301, 530102: ท่าเสา: Tha Sao: 5301, 530103: บ้านเกาะ: Ban Ko: 5301, 530104: ป่าเซ่า: Pa Sao: 5301, 530105: คุ้งตะเภา: Khung Taphao: 5301, 530107: หาดกรวด: Hat Kruat: 5301, 530108: น้ำริด: Nam Rit: 5301, 530109: งิ้วงาม: Ngio Ngam: 5301, 530110: บ้านด่านนาขาม: Ban Dan Na Kham: 5301, 530111: บ้านด่าน: Ban Dan: 5301, 530112: ผาจุก: Pha Chuk: 5301, 530113: วังดิน: Wang Din: 5301, 530114: แสนตอ: Saen To: 5301, 530115: หาดงิ้ว: Hat Ngio: 5301, 530116: ขุนฝาง: Khun Fang: 5301, 530117: ถ้ำฉลอง: Tham Chalong: 5301"
+    },
+    {
+      "postal_code": 53110,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5304: น้ำปาด: Nam Pat",
+      "subdistricts": "530401: แสนตอ: Saen To: 5304, 530402: บ้านฝาย: Ban Fai: 5304, 530403: เด่นเหล็ก: Den Lek: 5304, 530404: น้ำไคร้: Nam Khrai: 5304, 530405: น้ำไผ่: Nam Phai: 5304, 530406: ห้วยมุ่น: Huai Mun: 5304, 530407: ท่าแฝก: Tha Faek: 5304"
+    },
+    {
+      "postal_code": 53120,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5307: พิชัย: Phichai",
+      "subdistricts": "530701: ในเมือง: Nai Mueang: 5307, 530703: ไร่อ้อย: Rai Oi: 5307, 530705: คอรุม: Kho Rum: 5307, 530706: บ้านหม้อ: Ban Mo: 5307, 530707: ท่ามะเฟือง: Tha Mafueang: 5307, 530708: บ้านโคน: Ban Khon: 5307, 530709: พญาแมน: Phaya Maen: 5307, 530710: นาอิน: Na In: 5307, 530711: นายาง: Na Yang: 5307"
+    },
+    {
+      "postal_code": 53130,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5308: ลับแล: Laplae",
+      "subdistricts": "530801: ศรีพนมมาศ: Si Phanom Mat: 5308, 530802: แม่พูล: Mae Phun: 5308, 530803: นานกกก: Na Nok Kok: 5308, 530804: ฝายหลวง: Fai Luang: 5308, 530805: ชัยจุมพล: Chai Chumphon: 5308"
+    },
+    {
+      "postal_code": 53140,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5302: ตรอน: Tron",
+      "subdistricts": "530201: วังแดง: Wang Daeng: 5302, 530202: บ้านแก่ง: Ban Kaeng: 5302, 530203: หาดสองแคว: Hat Song Khwae: 5302, 530204: น้ำอ่าง: Nam Ang: 5302, 530205: ข่อยสูง: Khoi Sung: 5302"
+    },
+    {
+      "postal_code": 53150,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5303: ท่าปลา: Tha Pla",
+      "subdistricts": "530301: ท่าปลา: Tha Pla: 5303, 530302: หาดล้า: Hat La: 5303, 530304: จริม: Charim: 5303, 530305: น้ำหมัน: Nam Man: 5303, 530307: นางพญา: Nang Phaya: 5303"
+    },
+    {
+      "postal_code": 53160,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5305: ฟากท่า: Fak Tha",
+      "subdistricts": "530501: ฟากท่า: Fak Tha: 5305, 530502: สองคอน: Song Khon: 5305, 530503: บ้านเสี้ยว: Ban Siao: 5305, 530504: สองห้อง: Song Hong: 5305"
+    },
+    {
+      "postal_code": 53170,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5301: เมืองอุตรดิตถ์: Mueang Uttaradit",
+      "subdistricts": "530106: วังกะพี้: Wang Kaphi: 5301"
+    },
+    {
+      "postal_code": 53180,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5306: บ้านโคก: Ban Khok",
+      "subdistricts": "530601: ม่วงเจ็ดต้น: Muang Chet Ton: 5306, 530602: บ้านโคก: Ban Khok: 5306, 530603: นาขุม: Na Khum: 5306, 530604: บ่อเบี้ย: Bo Bia: 5306"
+    },
+    {
+      "postal_code": 53190,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5303: ท่าปลา: Tha Pla",
+      "subdistricts": "530303: ผาเลือด: Pha Lueat: 5303, 530308: ร่วมจิต: Ruam Chit: 5303"
+    },
+    {
+      "postal_code": 53210,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5308: ลับแล: Laplae",
+      "subdistricts": "530806: ไผ่ล้อม: Phai Lom: 5308, 530807: ทุ่งยั้ง: Thung Yang: 5308, 530808: ด่านแม่คำมัน: Dan Mae Kham Man: 5308"
+    },
+    {
+      "postal_code": 53220,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5307: พิชัย: Phichai",
+      "subdistricts": "530702: บ้านดารา: Ban Dara: 5307, 530704: ท่าสัก: Tha Sak: 5307"
+    },
+    {
+      "postal_code": 53230,
+      "province_code": 53,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "districts": "5309: ทองแสนขัน: Thong Saen Khan",
+      "subdistricts": "530901: ผักขวง: Phak Khuang: 5309, 530902: บ่อทอง: Bo Thong: 5309, 530903: ป่าคาย: Pa Khai: 5309, 530904: น้ำพี้: Namphi: 5309"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดอุตรดิตถ์ (Uttaradit Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดอุตรดิตถ์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Uttaradit province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 13 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดอุตรดิตถ์ (Uttaradit Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดอุตรดิตถ์ (Uttaradit Postal Codes) — 13 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 13 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

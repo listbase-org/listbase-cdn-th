@@ -1,0 +1,138 @@
+{
+  "id": "http-status-codes",
+  "name": "รหัสสถานะ HTTP",
+  "title": "HTTP Status Codes พบบ่อย",
+  "description": "รหัสสถานะการตอบกลับของเซิร์ฟเวอร์ (HTTP Status Codes) ที่นักพัฒนาแพลตฟอร์มพบเจอบ่อยที่สุด",
+  "category": "tech",
+  "source": "IANA",
+  "source_url": "https://www.iana.org/assignments/http-status-codes/",
+  "updated": "2026-02",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "รหัส",
+      "type": "number"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อ (English)",
+      "type": "string"
+    },
+    {
+      "key": "description_th",
+      "label": "ความหมาย (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "category_name",
+      "label": "หมวดหมู่",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 200,
+      "name_en": "OK",
+      "description_th": "คำขอสำเร็จ เซิร์ฟเวอร์ส่งข้อมูลกลับมาเรียบร้อย",
+      "category_name": "Success"
+    },
+    {
+      "code": 201,
+      "name_en": "Created",
+      "description_th": "สร้างทรัพยากร (Resource) ใหม่สำเร็จ (พบบ่อยใน POST)",
+      "category_name": "Success"
+    },
+    {
+      "code": 204,
+      "name_en": "No Content",
+      "description_th": "คำขอสำเร็จแต่ไม่มีเนื้อหาที่จะส่งกลับ (พบบ่อยใน DELETE)",
+      "category_name": "Success"
+    },
+    {
+      "code": 301,
+      "name_en": "Moved Permanently",
+      "description_th": "URL นี้ถูกย้ายที่อยู่อย่างถาวร",
+      "category_name": "Redirection"
+    },
+    {
+      "code": 302,
+      "name_en": "Found / Temporary Redirect",
+      "description_th": "เปลี่ยนเส้นทางชั่วคราวไป URL อื่น",
+      "category_name": "Redirection"
+    },
+    {
+      "code": 304,
+      "name_en": "Not Modified",
+      "description_th": "ข้อมูลไม่มีการเปลี่ยนแปลง ใช้ Cache เดิมได้เลย",
+      "category_name": "Redirection"
+    },
+    {
+      "code": 400,
+      "name_en": "Bad Request",
+      "description_th": "คำขอไม่ถูกต้อง เช่น ส่ง Parameter ผิดรูปแบบ",
+      "category_name": "Client Error"
+    },
+    {
+      "code": 401,
+      "name_en": "Unauthorized",
+      "description_th": "ไม่ได้รับอนุญาต (ยังไม่ได้ Login หรือ Token หมดอายุ)",
+      "category_name": "Client Error"
+    },
+    {
+      "code": 403,
+      "name_en": "Forbidden",
+      "description_th": "เซิร์ฟเวอร์เข้าใจคำขอแต่ปฏิเสธสิทธิ์ (Login แล้วแต่ไม่มีสิทธิ์เข้าถึง)",
+      "category_name": "Client Error"
+    },
+    {
+      "code": 404,
+      "name_en": "Not Found",
+      "description_th": "ไม่พบหน้าหรือทรัพยากรที่ร้องขอ",
+      "category_name": "Client Error"
+    },
+    {
+      "code": 429,
+      "name_en": "Too Many Requests",
+      "description_th": "ส่งคำขอมากเกินไปในเวลาที่กำหนด (Rate Limit)",
+      "category_name": "Client Error"
+    },
+    {
+      "code": 500,
+      "name_en": "Internal Server Error",
+      "description_th": "เกิดข้อผิดพลาดขึ้นฝั่งเซิร์ฟเวอร์ (บั๊กหรือพัง)",
+      "category_name": "Server Error"
+    },
+    {
+      "code": 502,
+      "name_en": "Bad Gateway",
+      "description_th": "เซิร์ฟเวอร์เกตเวย์หรือ Proxy ได้รับการตอบกลับที่ไม่ถูกต้อง",
+      "category_name": "Server Error"
+    },
+    {
+      "code": 503,
+      "name_en": "Service Unavailable",
+      "description_th": "บริการไม่พร้อมใช้งานชั่วคราว (เซิร์ฟเวอร์ล่มหรือซ่อมบำรุง)",
+      "category_name": "Server Error"
+    }
+  ],
+  "meta": {
+    "title": "HTTP Status Codes พบบ่อย - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รหัสสถานะการตอบกลับของเซิร์ฟเวอร์ (HTTP Status Codes) ที่นักพัฒนาแพลตฟอร์มพบเจอบ่อยที่สุด มีทั้งหมด 14 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "รหัสสถานะ HTTP | Thai Open Data",
+    "seo_description": "ดาวน์โหลดรหัสสถานะ HTTP ทั้งหมด 14 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลรหัสสถานะ HTTP ทั้งหมด 14 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "คัดเฉพาะ 14 HTTP Status Codes ยอดนิยมและอธิบายเป็นภาษาไทยให้นักพัฒนาเข้าใจง่าย ไม่แข็งทื่อเหมือนเครื่องจักรแปล",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Manual Recovery)"
+    }
+  }
+}

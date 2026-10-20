@@ -1,0 +1,168 @@
+{
+  "id": "th-phitsanulok-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดพิษณุโลก (Phitsanulok Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดพิษณุโลก (Phitsanulok Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดพิษณุโลก แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phitsanulok province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 65000,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6501: เมืองพิษณุโลก: Mueang Phitsanulok",
+      "subdistricts": "650101: ในเมือง: Nai Mueang: 6501, 650103: วัดจันทร์: Wat Chan: 6501, 650105: ท่าทอง: Tha Thong: 6501, 650106: ท่าโพธิ์: Tha Pho: 6501, 650107: สมอแข: Samo Khae: 6501, 650108: ดอนทอง: Don Thong: 6501, 650109: บ้านป่า: Ban Pa: 6501, 650110: ปากโทก: Pak Thok: 6501, 650111: หัวรอ: Hua Ro: 6501, 650112: จอมทอง: Chom Thong: 6501, 650113: บ้านกร่าง: Ban Krang: 6501, 650114: บ้านคลอง: Ban Khlong: 6501, 650115: พลายชุมพล: Phlai Chumphon: 6501, 650116: มะขามสูง: Makham Sung: 6501, 650117: อรัญญิก: Aranyik: 6501, 650118: บึงพระ: Bueng Phra: 6501, 650119: ไผ่ขอดอน: Phai Kho Don: 6501"
+    },
+    {
+      "postal_code": 65110,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6505: บางกระทุ่ม: Bang Krathum",
+      "subdistricts": "650501: บางกระทุ่ม: Bang Krathum: 6505, 650502: บ้านไร่: Ban Rai: 6505, 650503: โคกสลุด: Khok Salut: 6505, 650504: สนามคลี: Sanam Khli: 6505, 650505: ท่าตาล: Tha Tan: 6505, 650506: ไผ่ล้อม: Phai Lom: 6505, 650507: นครป่าหมาก: Nakhon Pa Mak: 6505"
+    },
+    {
+      "postal_code": 65120,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6502: นครไทย: Nakhon Thai",
+      "subdistricts": "650201: นครไทย: Nakhon Thai: 6502, 650202: หนองกะท้าว: Nong Kathao: 6502, 650203: บ้านแยง: Ban Yaeng: 6502, 650204: เนินเพิ่ม: Noen Phoem: 6502, 650205: นาบัว: Na Bua: 6502, 650206: นครชุม: Nakhon Chum: 6502, 650207: น้ำกุ่ม: Nam Kum: 6502, 650208: ยางโกลน: Yang Klon: 6502, 650209: บ่อโพธิ์: Bo Pho: 6502, 650210: บ้านพร้าว: Ban Phrao: 6502, 650211: ห้วยเฮี้ย: Huai Hia: 6502"
+    },
+    {
+      "postal_code": 65130,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6508: วังทอง: Wang Thong",
+      "subdistricts": "650801: วังทอง: Wang Thong: 6508, 650802: พันชาลี: Phan Chali: 6508, 650803: แม่ระกา: Mae Raka: 6508, 650805: วังพิกุล: Wang Phikun: 6508, 650807: ท่าหมื่นราม: Tha Muen Ram: 6508, 650808: วังนกแอ่น: Wang Nok Aen: 6508, 650809: หนองพระ: Nong Phra: 6508, 650810: ชัยนาม: Chai Nam: 6508, 650811: ดินทอง: Din Thong: 6508"
+    },
+    {
+      "postal_code": 65140,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6504: บางระกำ: Bang Rakam",
+      "subdistricts": "650401: บางระกำ: Bang Rakam: 6504, 650402: ปลักแรด: Plak Raet: 6504, 650403: พันเสา: Phan Sao: 6504, 650404: วังอิทก: Wang I Thok: 6504, 650405: บึงกอก: Bueng Kok: 6504, 650406: หนองกุลา: Nong Kula: 6504, 650408: นิคมพัฒนา: Nikhom Phatthana: 6504, 650409: บ่อทอง: Bo Thong: 6504, 650410: ท่านางงาม: Tha Nang Ngam: 6504"
+    },
+    {
+      "postal_code": 65150,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6506: พรหมพิราม: Phrom Phiram",
+      "subdistricts": "650601: พรหมพิราม: Phrom Phiram: 6506, 650602: ท่าช้าง: Tha Chang: 6506, 650604: มะตูม: Matum: 6506, 650605: หอกลอง: Ho Klong: 6506, 650608: วังวน: Wang Won: 6506, 650609: หนองแขม: Nong Khaem: 6506, 650611: ทับยายเชียง: Thap Yai Chiang: 6506"
+    },
+    {
+      "postal_code": 65160,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6507: วัดโบสถ์: Wat Bot",
+      "subdistricts": "650701: วัดโบสถ์: Wat Bot: 6507, 650702: ท่างาม: Tha Ngam: 6507, 650703: ท้อแท้: Tho Thae: 6507, 650704: บ้านยาง: Ban Yang: 6507, 650705: หินลาด: Hin Lat: 6507, 650706: คันโช้ง: Khan Chong: 6507"
+    },
+    {
+      "postal_code": 65170,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6503: ชาติตระการ: Chat Trakan",
+      "subdistricts": "650301: ป่าแดง: Pa Daeng: 6503, 650302: ชาติตระการ: Chat Trakan: 6503, 650303: สวนเมี่ยง: Suan Miang: 6503, 650304: บ้านดง: Ban Dong: 6503, 650305: บ่อภาค: Bo Phak: 6503, 650306: ท่าสะแก: Tha Sakae: 6503"
+    },
+    {
+      "postal_code": 65180,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6506: พรหมพิราม: Phrom Phiram",
+      "subdistricts": "650603: วงฆ้อง: Wong Khong: 6506, 650606: ศรีภิรมย์: Si Phirom: 6506, 650607: ตลุกเทียม: Taluk Thiam: 6506, 650610: มะต้อง: Matong: 6506, 650612: ดงประคำ: Dong Prakham: 6506"
+    },
+    {
+      "postal_code": 65190,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6509: เนินมะปราง: Noen Maprang",
+      "subdistricts": "650901: ชมพู: Chomphu: 6509, 650902: บ้านมุง: Ban Mung: 6509, 650903: ไทรย้อย: Sai Yoi: 6509, 650904: วังโพรง: Wang Phrong: 6509, 650905: บ้านน้อยซุ้มขี้เหล็ก: Ban Noi Sum Khi Lek: 6509, 650906: เนินมะปราง: Noen Maprang: 6509, 650907: วังยาง: Wang Yang: 6509"
+    },
+    {
+      "postal_code": 65210,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6505: บางกระทุ่ม: Bang Krathum",
+      "subdistricts": "650508: เนินกุ่ม: Noen Kum: 6505, 650509: วัดตายม: Wat Ta Yom: 6505"
+    },
+    {
+      "postal_code": 65220,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6508: วังทอง: Wang Thong",
+      "subdistricts": "650804: บ้านกลาง: Ban Klang: 6508, 650806: แก่งโสภา: Kaeng Sopha: 6508"
+    },
+    {
+      "postal_code": 65230,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6501: เมืองพิษณุโลก: Mueang Phitsanulok",
+      "subdistricts": "650102: วังน้ำคู้: Wang Nam Khu: 6501, 650104: วัดพริก: Wat Phrik: 6501, 650120: งิ้วงาม: Ngio Ngam: 6501"
+    },
+    {
+      "postal_code": 65240,
+      "province_code": 65,
+      "province_name_th": "พิษณุโลก",
+      "province_name_en": "Phitsanulok",
+      "districts": "6504: บางระกำ: Bang Rakam",
+      "subdistricts": "650407: ชุมแสงสงคราม: Chum Saeng Songkhram: 6504, 650411: คุยม่วง: Khui Muang: 6504"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดพิษณุโลก (Phitsanulok Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดพิษณุโลก แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phitsanulok province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 14 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดพิษณุโลก (Phitsanulok Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดพิษณุโลก (Phitsanulok Postal Codes) — 14 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 14 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

@@ -1,0 +1,3248 @@
+{
+  "id": "th-chaiyaphum-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชัยภูมิ (Chaiyaphum party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชัยภูมิ (Chaiyaphum party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดชัยภูมิ. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 399,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "1",
+      "party": "รวมใจไทย",
+      "votes": 554
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 953
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 5706
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 411
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 469
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1651
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 82
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 546
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 21476
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 391
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3240
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 906
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "13",
+      "party": "ท้องที่ไทย",
+      "votes": 635
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "14",
+      "party": "อนาคตไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "15",
+      "party": "ไทยชนะ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังสังคมใหม่",
+      "votes": 251
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "17",
+      "party": "(พันตำรวจเอก เสกสรร บุญยรัชนิกร)",
+      "votes": 105
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "19",
+      "party": "(นางสราลี)",
+      "votes": 58
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 65
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 117
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 92
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 85
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2434
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 167
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 557
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 174
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 350
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 277
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 104
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "36",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 99
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 10042
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 325
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 543
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 167
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 26286
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 528
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 329
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 26
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 65
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 592
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3046
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 3813
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 371
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 883
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1659
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 150
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 646
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 25099
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 455
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4338
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 613
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 752
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 335
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 78
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 57
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 82
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 104
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3597
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 179
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 339
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 145
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 268
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 364
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 157
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 140
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 135
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 134
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 7952
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 404
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 230
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 228
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 63
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 129
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20039
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 189
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 456
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 203
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 34
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 76
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 4510
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2523
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 786
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 249
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2508
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1388
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 103
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 589
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 15890
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 428
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3773
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 536
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 683
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 99
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 266
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 133
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 27
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 66
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 109
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 129
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3035
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 152
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 335
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 454
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 285
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 203
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 204
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 163
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13685
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 220
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 56
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 119
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 244
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 202
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17273
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 328
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 189
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 46
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1506
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2017
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 441
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 282
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3319
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2224
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 135
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 474
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 17094
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 315
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3314
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 557
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 727
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 326
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 160
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 53
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "24",
+      "party": "วินัยไทย",
+      "votes": 286
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1250
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 144
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 235
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 227
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 265
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 255
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 302
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 213
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 177
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11885
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 375
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 59
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 92
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3147
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 222
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 106
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16714
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 490
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 151
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "51",
+      "party": "พลัง",
+      "votes": 42
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 25
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 576
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4720
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 578
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1733
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3231
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1451
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 171
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 508
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 22074
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 538
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3906
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 611
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 771
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 141
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 112
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 374
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 142
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 73
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 284
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 118
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2066
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 165
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 247
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 221
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 423
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 205
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 234
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 296
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 152
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 178
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11306
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 371
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 66
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 98
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3173
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 306
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 407
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 18890
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 310
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 443
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 169
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 29
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 447
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 464
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1891
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 235
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4143
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1889
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 157
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 564
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 21029
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 461
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3086
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 646
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 580
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 318
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 161
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 54
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 76
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1601
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 126
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 297
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 184
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 255
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 472
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 310
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 274
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 250
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 19069
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 519
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 73
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 142
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 154
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 105
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19853
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 254
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 409
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 209
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 54
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 754
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1676
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 376
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2153
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 649
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2655
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 126
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 346
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 27810
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 350
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3173
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 569
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 611
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 350
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 105
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 31
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 36
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 314
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1496
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 151
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 300
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 169
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 331
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 204
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 201
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 102
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 5878
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 402
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 59
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 4838
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 374
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 180
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19770
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 651
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 346
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 53
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 9
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 14
+    },
+    {
+      "changwat_code": "36",
+      "changwat": "ชัยภูมิ",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 52
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชัยภูมิ (Chaiyaphum party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดชัยภูมิ. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 399 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชัยภูมิ (Chaiyaphum party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชัยภูมิ (Chaiyaphum party-list ballots) — 399 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 399 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

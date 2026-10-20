@@ -1,0 +1,148 @@
+{
+  "id": "th-surat-thani-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดสุราษฎร์ธานี 2562 (Surat Thani 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดสุราษฎร์ธานี 2562 (Surat Thani 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสุราษฎร์ธานี ในการเลือกตั้งทั่วไป 2562 จำนวน 6 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Surat Thani province during the Thailand 24-March-2019 general election. 6 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 274,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองสุราษฎร์ธานี",
+      "areas_detail": "เมืองสุราษฎร์ธานี: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 275,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "zone_number": 2,
+      "area_count": 4,
+      "amphoes": "กาญจนดิษฐ์, ดอนสัก, เกาะพะงัน, เกาะสมุย",
+      "areas_detail": "กาญจนดิษฐ์: : ช้างขวา,ช้างซ้าย,ป่าร่อน,ทุ่งรัง,คลองสระ: , ดอนสัก: : : , เกาะพะงัน: : : , เกาะสมุย: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 276,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "กาญจนดิษฐ์, บ้านนาสาร, เวียงสระ",
+      "areas_detail": "กาญจนดิษฐ์: ช้างขวา,ช้างซ้าย,ป่าร่อน,ทุ่งรัง,คลองสระ: : , บ้านนาสาร: : : , เวียงสระ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 277,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "zone_number": 4,
+      "area_count": 4,
+      "amphoes": "คีรีรัฐนิคม, บ้านนาเดิม, พุนพิน, เคียนซา",
+      "areas_detail": "คีรีรัฐนิคม: : บ้านยาง,ท่าขนอน,น้ำหัก: , บ้านนาเดิม: : : , พุนพิน: : : , เคียนซา: : บ้านเสด็จ: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 278,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "zone_number": 5,
+      "area_count": 5,
+      "amphoes": "ชัยบุรี, บ้านตาขุน, พนม, พระแสง, เคียนซา",
+      "areas_detail": "ชัยบุรี: : : , บ้านตาขุน: : : , พนม: : : , พระแสง: : : , เคียนซา: บ้านเสด็จ: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 279,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "zone_number": 6,
+      "area_count": 5,
+      "amphoes": "คีรีรัฐนิคม, ท่าฉาง, ท่าชนะ, วิภาวดี, ไชยา",
+      "areas_detail": "คีรีรัฐนิคม: บ้านยาง,ท่าขนอน,น้ำหัก: : , ท่าฉาง: : : , ท่าชนะ: : : , วิภาวดี: : : , ไชยา: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดสุราษฎร์ธานี 2562 (Surat Thani 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสุราษฎร์ธานี ในการเลือกตั้งทั่วไป 2562 จำนวน 6 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Surat Thani province during the Thailand 24-March-2019 general election. 6 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดสุราษฎร์ธานี 2562 (Surat Thani 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดสุราษฎร์ธานี 2562 (Surat Thani 2019 Election Constituencies) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

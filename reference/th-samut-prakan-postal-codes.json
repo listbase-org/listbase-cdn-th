@@ -1,0 +1,120 @@
+{
+  "id": "th-samut-prakan-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสมุทรปราการ (Samut Prakan Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสมุทรปราการ (Samut Prakan Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสมุทรปราการ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Samut Prakan province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 10130,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1104: พระประแดง: Phra Pradaeng",
+      "subdistricts": "110401: ตลาด: Talat: 1104, 110402: บางพึ่ง: Bang Phueng: 1104, 110403: บางจาก: Bang Chak: 1104, 110404: บางครุ: Bang Khru: 1104, 110405: บางหญ้าแพรก: Bang Ya Phraek: 1104, 110406: บางหัวเสือ: Bang Hua Suea: 1104, 110407: สำโรงใต้: Samrong Tai: 1104, 110408: บางยอ: Bang Yo: 1104, 110409: บางกะเจ้า: Bang Kachao: 1104, 110410: บางน้ำผึ้ง: Bang Nam Phueng: 1104, 110411: บางกระสอบ: Bang Krasop: 1104, 110412: บางกอบัว: Bang Ko Bua: 1104, 110413: ทรงคนอง: Song Khanong: 1104, 110414: สำโรง: Samrong: 1104, 110415: สำโรงกลาง: Samrong Klang: 1104"
+    },
+    {
+      "postal_code": 10270,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1101: เมืองสมุทรปราการ: Mueang Samut Prakan",
+      "subdistricts": "110101: ปากน้ำ: Pak Nam: 1101, 110102: สำโรงเหนือ: Samrong Nuea: 1101, 110103: บางเมือง: Bang Mueang: 1101, 110111: บางโปรง: Bang Prong: 1101, 110112: บางปู: Bang Pu: 1101, 110113: บางด้วน: Bang Duan: 1101, 110114: บางเมืองใหม่: Bang Mueang Mai: 1101, 110115: เทพารักษ์: Thepharak: 1101"
+    },
+    {
+      "postal_code": 10280,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1101: เมืองสมุทรปราการ: Mueang Samut Prakan",
+      "subdistricts": "110104: ท้ายบ้าน: Thai Ban: 1101, 110108: บางปูใหม่: Bang Pu Mai: 1101, 110110: แพรกษา: Phraek Sa: 1101, 110116: ท้ายบ้านใหม่: Thai Ban Mai: 1101, 110117: แพรกษาใหม่: Phraek Sa Mai: 1101"
+    },
+    {
+      "postal_code": 10290,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1105: พระสมุทรเจดีย์: Phra Samut Chedi",
+      "subdistricts": "110501: นาเกลือ: Na Kluea: 1105, 110502: บ้านคลองสวน: Ban Khlong Suan: 1105, 110503: แหลมฟ้าผ่า: Laem Fa Pha: 1105, 110504: ปากคลองบางปลากด: Pak Khlong Bang Pla Kot: 1105, 110505: ในคลองบางปลากด: Nai Khlong Bang Pla Kot: 1105"
+    },
+    {
+      "postal_code": 10540,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1103: บางพลี: Bang Phli",
+      "subdistricts": "110301: บางพลีใหญ่: Bang Phli Yai: 1103, 110302: บางแก้ว: Bang Kaeo: 1103, 110303: บางปลา: Bang Pla: 1103, 110304: บางโฉลง: Bang Chalong: 1103, 110308: ราชาเทวะ: Racha Thewa: 1103, 110309: หนองปรือ: Nong Prue: 1103"
+    },
+    {
+      "postal_code": 10550,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1102: บางบ่อ: Bang Bo",
+      "subdistricts": "110205: คลองด่าน: Khlong Dan: 1102"
+    },
+    {
+      "postal_code": 10560,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1102: บางบ่อ: Bang Bo",
+      "subdistricts": "110201: บางบ่อ: Bang Bo: 1102, 110202: บ้านระกาศ: Ban Rakat: 1102, 110203: บางพลีน้อย: Bang Phli Noi: 1102, 110204: บางเพรียง: Bang Phriang: 1102, 110206: คลองสวน: Khlong Suan: 1102, 110207: เปร็ง: Preng: 1102, 110208: คลองนิยมยาตรา: Khlong Niyom Yattra: 1102"
+    },
+    {
+      "postal_code": 10570,
+      "province_code": 11,
+      "province_name_th": "สมุทรปราการ",
+      "province_name_en": "Samut Prakan",
+      "districts": "1106: บางเสาธง: Bang Sao Thong",
+      "subdistricts": "110601: บางเสาธง: Bang Sao Thong: 1106, 110602: ศีรษะจรเข้น้อย: Sisa Chorakhe Noi: 1106, 110603: ศีรษะจรเข้ใหญ่: Sisa Chorakhe Yai: 1106"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสมุทรปราการ (Samut Prakan Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสมุทรปราการ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Samut Prakan province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 8 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสมุทรปราการ (Samut Prakan Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสมุทรปราการ (Samut Prakan Postal Codes) — 8 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 8 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

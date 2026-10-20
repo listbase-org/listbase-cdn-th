@@ -1,0 +1,1424 @@
+{
+  "id": "th-uttaradit-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุตรดิตถ์ (Uttaradit party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุตรดิตถ์ (Uttaradit party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดอุตรดิตถ์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 306
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2772
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1342
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 127
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 420
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1754
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 81
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 359
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 18574
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 330
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2222
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 483
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 300
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 185
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 130
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยฯ",
+      "votes": 106
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 14
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 19
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3350
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 65
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 626
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 171
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 169
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 107
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 18288
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 213
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 113
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 26296
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 205
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 215
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 201
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาฯ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 17
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 756
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1335
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 526
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 2979
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 1776
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1356
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 129
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 366
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 15685
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 554
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 3088
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 402
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 578
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 274
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 250
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 256
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 184
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "20",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 57
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 47
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 164
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 3671
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 110
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 309
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 142
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 157
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 150
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 283
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 251
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 116
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 120
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 7442
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 89
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 280
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 174
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 7524
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 93
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 21232
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 294
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 192
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 69
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "2",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2393
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2075
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 405
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 156
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 731
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1677
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 98
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 364
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 22120
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 465
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2829
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 487
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 525
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 234
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 132
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 25
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 96
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3567
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 85
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 407
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 322
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 164
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 102
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 92
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8701
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 336
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 40
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 367
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 59
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 25905
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 300
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 186
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "53",
+      "changwat": "อุตรดิตถ์",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 49
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุตรดิตถ์ (Uttaradit party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดอุตรดิตถ์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุตรดิตถ์ (Uttaradit party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — อุตรดิตถ์ (Uttaradit party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

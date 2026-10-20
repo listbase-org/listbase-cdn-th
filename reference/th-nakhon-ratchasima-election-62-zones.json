@@ -1,0 +1,244 @@
+{
+  "id": "th-nakhon-ratchasima-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดนครราชสีมา 2562 (Nakhon Ratchasima 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดนครราชสีมา 2562 (Nakhon Ratchasima 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนครราชสีมา ในการเลือกตั้งทั่วไป 2562 จำนวน 14 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Nakhon Ratchasima province during the Thailand 24-March-2019 general election. 14 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 100,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองนครราชสีมา",
+      "areas_detail": "เมืองนครราชสีมา: โพธิ์กลาง,หนองไผ่ล้อม,หนองจะบก,ในเมือง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 101,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 2,
+      "area_count": 1,
+      "amphoes": "เมืองนครราชสีมา",
+      "areas_detail": "เมืองนครราชสีมา: ปรุใหญ่,หมื่นไวย,มะเริง,บ้านโพธิ์,หนองกระทุ่ม,จอหอ,หนองไข่น้ำ,โคกสูง,พลกรัง,สุรนารี,โคกกรวด,บ้านเกาะ,ตลาด,บ้านใหม่,สีมุม,พุดซา: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 102,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "ขามทะเลสอ, สีคิ้ว, สูงเนิน",
+      "areas_detail": "ขามทะเลสอ: : : , สีคิ้ว: สีคิ้ว,ลาดบัวขาว,คลองไผ่,หนองน้ำใส,หนองหญ้าขาว,มิตรภาพ: : , สูงเนิน: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 103,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 4,
+      "area_count": 3,
+      "amphoes": "พิมาย, โนนสูง, โนนไทย",
+      "areas_detail": "พิมาย: ท่าหลวง,กระเบื้องใหญ่,ชีวาน,สัมฤทธิ์: : , โนนสูง: : : , โนนไทย: สำโรง,กำปัง,ด่านจาก,มะค่า,ถนนโพธิ์: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 104,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 5,
+      "area_count": 5,
+      "amphoes": "บัวลาย, บัวใหญ่, บ้านเหลื่อม, สีดา, แก้งสนามนาง",
+      "areas_detail": "บัวลาย: : : , บัวใหญ่: : : , บ้านเหลื่อม: : : , สีดา: : : , แก้งสนามนาง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 105,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 6,
+      "area_count": 5,
+      "amphoes": "คง, ประทาย, ลำทะเมนชัย, เมืองยาง, โนนแดง",
+      "areas_detail": "คง: ตาจั่น,ขามสมบูรณ์,เทพาลัย: : , ประทาย: : : , ลำทะเมนชัย: : : , เมืองยาง: : : , โนนแดง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 106,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 7,
+      "area_count": 2,
+      "amphoes": "ชุมพวง, พิมาย",
+      "areas_detail": "ชุมพวง: : : , พิมาย: : ท่าหลวง,กระเบื้องใหญ่,ชีวาน,สัมฤทธิ์: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 107,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 8,
+      "area_count": 3,
+      "amphoes": "จักราช, ห้วยแถลง, เฉลิมพระเกียรติ",
+      "areas_detail": "จักราช: : : , ห้วยแถลง: : : , เฉลิมพระเกียรติ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 108,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 9,
+      "area_count": 3,
+      "amphoes": "หนองบุญมาก, เมืองนครราชสีมา, โชคชัย",
+      "areas_detail": "หนองบุญมาก: : : , เมืองนครราชสีมา: หัวทะเล,หนองระเวียง,พะเนา: : , โชคชัย: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 109,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 10,
+      "area_count": 3,
+      "amphoes": "ครบุรี, วังน้ำเขียว, เสิงสาง",
+      "areas_detail": "ครบุรี: : : , วังน้ำเขียว: ไทยสามัคคี,วังน้ำเขียว: : , เสิงสาง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 110,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 11,
+      "area_count": 4,
+      "amphoes": "ปักธงชัย, ปากช่อง, วังน้ำเขียว, เมืองนครราชสีมา",
+      "areas_detail": "ปักธงชัย: : : , ปากช่อง: วังกะทะ: : , วังน้ำเขียว: : ไทยสามัคคี,วังน้ำเขียว: , เมืองนครราชสีมา: หนองบัวศาลา,ไชยมงคล: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 111,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 12,
+      "area_count": 1,
+      "amphoes": "ปากช่อง",
+      "areas_detail": "ปากช่อง: : วังกะทะ: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 112,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 13,
+      "area_count": 3,
+      "amphoes": "ด่านขุนทด, สีคิ้ว, เทพารักษ์",
+      "areas_detail": "ด่านขุนทด: : : , สีคิ้ว: : สีคิ้ว,ลาดบัวขาว,คลองไผ่,หนองน้ำใส,หนองหญ้าขาว,มิตรภาพ: , เทพารักษ์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 113,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "province_slug": "nakhon-ratchasima",
+      "zone_number": 14,
+      "area_count": 4,
+      "amphoes": "ขามสะแกแสง, คง, พระทองคำ, โนนไทย",
+      "areas_detail": "ขามสะแกแสง: : : , คง: : ตาจั่น,ขามสมบูรณ์,เทพาลัย: , พระทองคำ: : : , โนนไทย: : สำโรง,กำปัง,ด่านจาก,มะค่า,ถนนโพธิ์: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดนครราชสีมา 2562 (Nakhon Ratchasima 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนครราชสีมา ในการเลือกตั้งทั่วไป 2562 จำนวน 14 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Nakhon Ratchasima province during the Thailand 24-March-2019 general election. 14 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 14 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดนครราชสีมา 2562 (Nakhon Ratchasima 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดนครราชสีมา 2562 (Nakhon Ratchasima 2019 Election Constituencies) — 14 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 14 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

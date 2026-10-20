@@ -1,0 +1,148 @@
+{
+  "id": "th-nakhon-sawan-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดนครสวรรค์ 2562 (Nakhon Sawan 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดนครสวรรค์ 2562 (Nakhon Sawan 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนครสวรรค์ ในการเลือกตั้งทั่วไป 2562 จำนวน 6 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Nakhon Sawan province during the Thailand 24-March-2019 general election. 6 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 122,
+      "province_name_th": "นครสวรรค์",
+      "province_name_en": "Nakhon Sawan",
+      "province_slug": "nakhon-sawan",
+      "zone_number": 1,
+      "area_count": 3,
+      "amphoes": "ลาดยาว, เก้าเลี้ยว, เมืองนครสวรรค์",
+      "areas_detail": "ลาดยาว: หนองยาว: : , เก้าเลี้ยว: มหาโพธิ: : , เมืองนครสวรรค์: หนองกระโดน,นครสวรรค์ตก,บ้านมะเกลือ,วัดไทร,แควใหญ่,บางม่วง,หนองกรด,ปากน้ำโพ,บึงเสนาท,บ้านแก่ง,นครสวรรค์ออก: : เทศบาลนครนครสวรรค์",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 123,
+      "province_name_th": "นครสวรรค์",
+      "province_name_en": "Nakhon Sawan",
+      "province_slug": "nakhon-sawan",
+      "zone_number": 2,
+      "area_count": 4,
+      "amphoes": "ชุมแสง, พยุหะคีรี, เมืองนครสวรรค์, โกรกพระ",
+      "areas_detail": "ชุมแสง: ทับกฤชใต้: : , พยุหะคีรี: : : , เมืองนครสวรรค์: : หนองกระโดน,นครสวรรค์ตก,บ้านมะเกลือ,วัดไทร,แควใหญ่,บางม่วง,หนองกรด,บึงเสนาท,ปากน้ำโพ,บ้านแก่ง,นครสวรรค์ออก: เทศบาลนครนครสวรรค์, โกรกพระ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 124,
+      "province_name_th": "นครสวรรค์",
+      "province_name_en": "Nakhon Sawan",
+      "province_slug": "nakhon-sawan",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "ชุมแสง, บรรพตพิสัย, เก้าเลี้ยว",
+      "areas_detail": "ชุมแสง: : ทับกฤชใต้: , บรรพตพิสัย: : : , เก้าเลี้ยว: : มหาโพธิ: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 125,
+      "province_name_th": "นครสวรรค์",
+      "province_name_en": "Nakhon Sawan",
+      "province_slug": "nakhon-sawan",
+      "zone_number": 4,
+      "area_count": 3,
+      "amphoes": "ท่าตะโก, หนองบัว, ไพศาลี",
+      "areas_detail": "ท่าตะโก: : : , หนองบัว: : : , ไพศาลี: : ตะคร้อ,โพธิ์ประสาท,สำโรงชัย: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 126,
+      "province_name_th": "นครสวรรค์",
+      "province_name_en": "Nakhon Sawan",
+      "province_slug": "nakhon-sawan",
+      "zone_number": 5,
+      "area_count": 3,
+      "amphoes": "ตากฟ้า, ตาคลี, ไพศาลี",
+      "areas_detail": "ตากฟ้า: : : , ตาคลี: : : , ไพศาลี: ตะคร้อ,โพธิ์ประสาท,สำโรงชัย: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 127,
+      "province_name_th": "นครสวรรค์",
+      "province_name_en": "Nakhon Sawan",
+      "province_slug": "nakhon-sawan",
+      "zone_number": 6,
+      "area_count": 4,
+      "amphoes": "ชุมตาบง, ลาดยาว, แม่วงก์, แม่เปิน",
+      "areas_detail": "ชุมตาบง: : : , ลาดยาว: : หนองยาว: , แม่วงก์: : : , แม่เปิน: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดนครสวรรค์ 2562 (Nakhon Sawan 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนครสวรรค์ ในการเลือกตั้งทั่วไป 2562 จำนวน 6 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Nakhon Sawan province during the Thailand 24-March-2019 general election. 6 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดนครสวรรค์ 2562 (Nakhon Sawan 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดนครสวรรค์ 2562 (Nakhon Sawan 2019 Election Constituencies) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

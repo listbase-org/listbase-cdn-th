@@ -1,0 +1,232 @@
+{
+  "id": "th-central-provinces",
+  "name": "ภาคกลาง — จังหวัดในภาคกลาง (Central Provinces of Thailand)",
+  "title": "ภาคกลาง — จังหวัดในภาคกลาง (Central Provinces of Thailand)",
+  "description": "Provinces (จังหวัด) located in Central Thailand (ภาคกลาง). Includes Bangkok and surrounding provinces in the central plains.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "province_id",
+      "label": "Province Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_th",
+      "label": "Region Th",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province_id": 1,
+      "name_th": "กรุงเทพมหานคร",
+      "name_en": "Bangkok",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 2,
+      "name_th": "สมุทรปราการ",
+      "name_en": "Samut Prakan",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 3,
+      "name_th": "นนทบุรี",
+      "name_en": "Nonthaburi",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 4,
+      "name_th": "ปทุมธานี",
+      "name_en": "Pathum Thani",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 5,
+      "name_th": "พระนครศรีอยุธยา",
+      "name_en": "Phra Nakhon Si Ayutthaya",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 6,
+      "name_th": "อ่างทอง",
+      "name_en": "Ang Thong",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 7,
+      "name_th": "ลพบุรี",
+      "name_en": "Lopburi",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 8,
+      "name_th": "สิงห์บุรี",
+      "name_en": "Sing Buri",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 9,
+      "name_th": "ชัยนาท",
+      "name_en": "Chai Nat",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 10,
+      "name_th": "สระบุรี",
+      "name_en": "Saraburi",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 17,
+      "name_th": "นครนายก",
+      "name_en": "Nakhon Nayok",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 47,
+      "name_th": "นครสวรรค์",
+      "name_en": "Nakhon Sawan",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 48,
+      "name_th": "อุทัยธานี",
+      "name_en": "Uthai Thani",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 49,
+      "name_th": "กำแพงเพชร",
+      "name_en": "Kamphaeng Phet",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 51,
+      "name_th": "สุโขทัย",
+      "name_en": "Sukhothai",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 52,
+      "name_th": "พิษณุโลก",
+      "name_en": "Phitsanulok",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 53,
+      "name_th": "พิจิตร",
+      "name_en": "Phichit",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 54,
+      "name_th": "เพชรบูรณ์",
+      "name_en": "Phetchabun",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 57,
+      "name_th": "สุพรรณบุรี",
+      "name_en": "Suphan Buri",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 58,
+      "name_th": "นครปฐม",
+      "name_en": "Nakhon Pathom",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 59,
+      "name_th": "สมุทรสาคร",
+      "name_en": "Samut Sakhon",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    },
+    {
+      "province_id": 60,
+      "name_th": "สมุทรสงคราม",
+      "name_en": "Samut Songkhram",
+      "region_id": 2,
+      "region_th": "ภาคกลาง",
+      "region_en": "Central"
+    }
+  ],
+  "meta": {
+    "title": "ภาคกลาง — จังหวัดในภาคกลาง (Central Provinces of Thailand) - ดาวน์โหลดฟรี",
+    "description": "Provinces (จังหวัด) located in Central Thailand (ภาคกลาง). Includes Bangkok and surrounding provinces in the central plains. มีทั้งหมด 22 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาคกลาง — จังหวัดในภาคกลาง (Central Provinces of Thailand) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาคกลาง — จังหวัดในภาคกลาง (Central Provinces of Thailand) — 22 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 22 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

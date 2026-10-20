@@ -1,0 +1,112 @@
+{
+  "id": "th-sing-buri-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสิงห์บุรี (Sing Buri Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสิงห์บุรี (Sing Buri Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสิงห์บุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Sing Buri province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 16000,
+      "province_code": 17,
+      "province_name_th": "สิงห์บุรี",
+      "province_name_en": "Sing Buri",
+      "districts": "1701: เมืองสิงห์บุรี: Mueang Sing Buri",
+      "subdistricts": "170101: บางพุทรา: Bang Phutsa: 1701, 170102: บางมัญ: Bang Man: 1701, 170103: โพกรวม: Phok Ruam: 1701, 170104: ม่วงหมู่: Muang Mu: 1701, 170105: หัวไผ่: Hua Phai: 1701, 170106: ต้นโพธิ์: Ton Pho: 1701, 170107: จักรสีห์: Chaksi: 1701, 170108: บางกระบือ: Bang Krabue: 1701"
+    },
+    {
+      "postal_code": 16110,
+      "province_code": 17,
+      "province_name_th": "สิงห์บุรี",
+      "province_name_en": "Sing Buri",
+      "districts": "1706: อินทร์บุรี: In Buri",
+      "subdistricts": "170601: อินทร์บุรี: In Buri: 1706, 170602: ประศุก: Prasuk: 1706, 170603: ทับยา: Thap Ya: 1706, 170604: งิ้วราย: Ngio Rai: 1706, 170605: ชีน้ำร้าย: Chi Nam Rai: 1706, 170606: ท่างาม: Tha Ngam: 1706, 170607: น้ำตาล: Namtan: 1706, 170608: ทองเอน: Thong En: 1706, 170609: ห้วยชัน: Huai Chan: 1706, 170610: โพธิ์ชัย: Pho Chai: 1706"
+    },
+    {
+      "postal_code": 16120,
+      "province_code": 17,
+      "province_name_th": "สิงห์บุรี",
+      "province_name_en": "Sing Buri",
+      "districts": "1704: พรหมบุรี: Phrom Buri",
+      "subdistricts": "170401: พระงาม: Phra Ngam: 1704, 170403: บางน้ำเชี่ยว: Bang Nam Chiao: 1704, 170404: บ้านหม้อ: Ban Mo: 1704, 170405: บ้านแป้ง: Ban Paeng: 1704, 170406: หัวป่า: Hua Pa: 1704, 170407: โรงช้าง: Rong Chang: 1704"
+    },
+    {
+      "postal_code": 16130,
+      "province_code": 17,
+      "province_name_th": "สิงห์บุรี",
+      "province_name_en": "Sing Buri",
+      "districts": "1702: บางระจัน: Bang Rachan",
+      "subdistricts": "170201: สิงห์: Sing: 1702, 170202: ไม้ดัด: Mai Dat: 1702, 170203: เชิงกลัด: Choeng Klat: 1702, 170204: โพชนไก่: Pho Chon Kai: 1702, 170205: แม่ลา: Mae La: 1702, 170206: บ้านจ่า: Ban Cha: 1702, 170207: พักทัน: Phak Than: 1702, 170208: สระแจง: Sa Chaeng: 1702"
+    },
+    {
+      "postal_code": 16140,
+      "province_code": 17,
+      "province_name_th": "สิงห์บุรี",
+      "province_name_en": "Sing Buri",
+      "districts": "1705: ท่าช้าง: Tha Chang",
+      "subdistricts": "170501: ถอนสมอ: Thon Samo: 1705, 170502: โพประจักษ์: Pho Prachak: 1705, 170503: วิหารขาว: Wihan Khao: 1705, 170504: พิกุลทอง: Phikun Thong: 1705"
+    },
+    {
+      "postal_code": 16150,
+      "province_code": 17,
+      "province_name_th": "สิงห์บุรี",
+      "province_name_en": "Sing Buri",
+      "districts": "1703: ค่ายบางระจัน: Khai Bang Rachan",
+      "subdistricts": "170301: โพทะเล: Pho Thale: 1703, 170302: บางระจัน: Bang Rachan: 1703, 170303: โพสังโฆ: Pho Sangkho: 1703, 170304: ท่าข้าม: Tha Kham: 1703, 170305: คอทราย: Kho Sai: 1703, 170306: หนองกระทุ่ม: Nong Krathum: 1703"
+    },
+    {
+      "postal_code": 16160,
+      "province_code": 17,
+      "province_name_th": "สิงห์บุรี",
+      "province_name_en": "Sing Buri",
+      "districts": "1704: พรหมบุรี: Phrom Buri",
+      "subdistricts": "170402: พรหมบุรี: Phrom Buri: 1704"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสิงห์บุรี (Sing Buri Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสิงห์บุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Sing Buri province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 7 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสิงห์บุรี (Sing Buri Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสิงห์บุรี (Sing Buri Postal Codes) — 7 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 7 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

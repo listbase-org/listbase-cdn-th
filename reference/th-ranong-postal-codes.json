@@ -1,0 +1,88 @@
+{
+  "id": "th-ranong-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดระนอง (Ranong Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดระนอง (Ranong Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดระนอง แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Ranong province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 85000,
+      "province_code": 85,
+      "province_name_th": "ระนอง",
+      "province_name_en": "Ranong",
+      "districts": "8501: เมืองระนอง: Mueang Ranong",
+      "subdistricts": "850101: เขานิเวศน์: Khao Niwet: 8501, 850102: ราชกรูด: Ratchakrut: 8501, 850103: หงาว: Ngao: 8501, 850104: บางริ้น: Bang Rin: 8501, 850105: ปากน้ำ: Pak Nam: 8501, 850106: บางนอน: Bang Non: 8501, 850107: หาดส้มแป้น: Hat Som Paen: 8501, 850109: เกาะพยาม: Ko Phayam: 8501"
+    },
+    {
+      "postal_code": 85110,
+      "province_code": 85,
+      "province_name_th": "ระนอง",
+      "province_name_en": "Ranong",
+      "districts": "8504: กระบุรี: Kra Buri",
+      "subdistricts": "850401: น้ำจืด: Nam Chuet: 8504, 850402: น้ำจืดน้อย: Nam Chuet Noi: 8504, 850403: มะมุ: Mamu: 8504, 850404: ปากจั่น: Pak Chan: 8504, 850405: ลำเลียง: Lamliang: 8504, 850406: จ.ป.ร.: Cho Po Ro: 8504, 850407: บางใหญ่: Bang Yai: 8504"
+    },
+    {
+      "postal_code": 85120,
+      "province_code": 85,
+      "province_name_th": "ระนอง",
+      "province_name_en": "Ranong",
+      "districts": "8503: กะเปอร์: Papoe, 8505: สุขสำราญ: Suk Samran",
+      "subdistricts": "850301: ม่วงกลวง: Muang Kluang: 8503, 850302: กะเปอร์: Kapoe: 8503, 850303: เชี่ยวเหลียง: Chiao Liang: 8503, 850304: บ้านนา: Ban Na: 8503, 850305: บางหิน: Bang Hin: 8503, 850501: นาคา: Nakha: 8505, 850502: กำพวน: Kamphuan: 8505"
+    },
+    {
+      "postal_code": 85130,
+      "province_code": 85,
+      "province_name_th": "ระนอง",
+      "province_name_en": "Ranong",
+      "districts": "8501: เมืองระนอง: Mueang Ranong, 8502: ละอุ่น: La-Un",
+      "subdistricts": "850108: ทรายแดง: Sai Daeng: 8501, 850201: ละอุ่นใต้: La-Un Tai: 8502, 850202: ละอุ่นเหนือ: La-Un Nuea: 8502, 850203: บางพระใต้: Bang Phra Tai: 8502, 850204: บางพระเหนือ: Bang Phra Nuea: 8502, 850205: บางแก้ว: Bang Kaeo: 8502, 850206: ในวงเหนือ: Nai Wong Nuea: 8502, 850207: ในวงใต้: Nai Wong Tai: 8502"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดระนอง (Ranong Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดระนอง แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Ranong province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดระนอง (Ranong Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดระนอง (Ranong Postal Codes) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

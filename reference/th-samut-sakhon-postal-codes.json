@@ -1,0 +1,88 @@
+{
+  "id": "th-samut-sakhon-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสมุทรสาคร (Samut Sakhon Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสมุทรสาคร (Samut Sakhon Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสมุทรสาคร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Samut Sakhon province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 74000,
+      "province_code": 74,
+      "province_name_th": "สมุทรสาคร",
+      "province_name_en": "Samut Sakhon",
+      "districts": "7401: เมืองสมุทรสาคร: Mueang Samut Sakhon",
+      "subdistricts": "740101: มหาชัย: Mahachai: 7401, 740102: ท่าฉลอม: Tha Chalom: 7401, 740103: โกรกกราก: Krok Krak: 7401, 740104: บ้านบ่อ: Ban Bo: 7401, 740105: บางโทรัด: Bang Thorat: 7401, 740106: กาหลง: Kalong: 7401, 740107: นาโคก: Na Khok: 7401, 740108: ท่าจีน: Tha Chin: 7401, 740109: นาดี: Na Di: 7401, 740110: ท่าทราย: Tha Sai: 7401, 740111: คอกกระบือ: Khok Krabue: 7401, 740112: บางน้ำจืด: Bang Nam Chuet: 7401, 740113: พันท้ายนรสิงห์: Phanthai Norasing: 7401, 740114: โคกขาม: Khok Kham: 7401, 740115: บ้านเกาะ: Ban Ko: 7401, 740116: บางกระเจ้า: Bang Krachao: 7401, 740117: บางหญ้าแพรก: Bang Ya Phraek: 7401, 740118: ชัยมงคล: Chai Mongkhon: 7401"
+    },
+    {
+      "postal_code": 74110,
+      "province_code": 74,
+      "province_name_th": "สมุทรสาคร",
+      "province_name_en": "Samut Sakhon",
+      "districts": "7402: กระทุ่มแบน: Krathum Baen",
+      "subdistricts": "740201: ตลาดกระทุ่มแบน: Talat Krathum Baen: 7402, 740203: ท่าไม้: Tha Mai: 7402, 740204: สวนหลวง: Suan Luang: 7402, 740205: บางยาง: Bang Yang: 7402, 740206: คลองมะเดื่อ: Khlong Maduea: 7402, 740207: หนองนกไข่: Nong Nok Khai: 7402, 740208: ดอนไก่ดี: Don Kai Di: 7402, 740209: แคราย: Khae Rai: 7402, 740210: ท่าเสา: Tha Sao: 7402"
+    },
+    {
+      "postal_code": 74120,
+      "province_code": 74,
+      "province_name_th": "สมุทรสาคร",
+      "province_name_en": "Samut Sakhon",
+      "districts": "7403: บ้านแพ้ว: Ban Phaeo",
+      "subdistricts": "740301: บ้านแพ้ว: Ban Phaeo: 7403, 740302: หลักสาม: Lak Sam: 7403, 740303: ยกกระบัตร: Yok Krabat: 7403, 740304: โรงเข้: Rong Khe: 7403, 740305: หนองสองห้อง: Nong Song Hong: 7403, 740306: หนองบัว: Nong Bua: 7403, 740307: หลักสอง: Lak Song: 7403, 740308: เจ็ดริ้ว: Chet Rio: 7403, 740309: คลองตัน: Khlong Tan: 7403, 740310: อำแพง: Amphaeng: 7403, 740311: สวนส้ม: Suan Som: 7403, 740312: เกษตรพัฒนา: Kaset Phatthana: 7403"
+    },
+    {
+      "postal_code": 74130,
+      "province_code": 74,
+      "province_name_th": "สมุทรสาคร",
+      "province_name_en": "Samut Sakhon",
+      "districts": "7402: กระทุ่มแบน: Krathum Baen",
+      "subdistricts": "740202: อ้อมน้อย: Om Noi: 7402"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสมุทรสาคร (Samut Sakhon Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสมุทรสาคร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Samut Sakhon province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสมุทรสาคร (Samut Sakhon Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสมุทรสาคร (Samut Sakhon Postal Codes) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

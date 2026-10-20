@@ -1,0 +1,2792 @@
+{
+  "id": "th-maha-sarakham-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — มหาสารคาม (Maha Sarakham party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — มหาสารคาม (Maha Sarakham party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดมหาสารคาม. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 342,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 426
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 968
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 245
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 539
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 522
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3007
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 684
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 318
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 22459
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 371
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2737
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 807
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 464
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 270
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 60
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2075
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 163
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 479
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 139
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 209
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 230
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15716
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 340
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 920
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 134
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 55
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 94
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27903
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 572
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 352
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 21
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 44
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 661
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1295
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 321
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 1304
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 3191
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 946
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 110
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 747
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 23466
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 308
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2493
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 444
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 562
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 327
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 129
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 23
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 53
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 20
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 1652
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 131
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 201
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 189
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 191
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 224
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 322
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 149
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 155
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 14878
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 428
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 30
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 79
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 347
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 728
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 78
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 19526
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 123
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 662
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 211
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 4
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "2",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 57
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "1",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 399
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1231
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 200
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 119
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 2253
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2418
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 125
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 346
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 31250
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 273
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2686
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 367
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 306
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 182
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 313
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 38
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 23
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 49
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 25
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 94
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 1371
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 96
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 228
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 173
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 90
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 248
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 216
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 185
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 17959
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 598
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 137
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 103
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 17656
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 418
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 147
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "3",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 22
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "1",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1177
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1383
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 1967
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 190
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 658
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2537
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 92
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 379
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 24851
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 424
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2756
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 448
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 425
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 197
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 23
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 27
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 107
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 1565
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 107
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 226
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 185
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 257
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 166
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 173
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 14921
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 493
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 64
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 2598
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 140
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 63
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 19132
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 497
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 161
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "4",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 29
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "1",
+      "party": "เพื่อชาติไทย",
+      "votes": 2144
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2398
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 583
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 280
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 487
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1706
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 228
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 366
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 28008
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 515
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3747
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 505
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 694
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 284
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 38
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 53
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 37
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 143
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2087
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 657
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 243
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 267
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 232
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 175
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 121
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 7160
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 525
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 72
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 360
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 506
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 88
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21958
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 596
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 253
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 15
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 48
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1595
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1449
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 251
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 1374
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 460
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 915
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 92
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 381
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 32155
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 306
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2490
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 494
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 384
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 241
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "20",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 49
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 34
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 1184
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 115
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 282
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 165
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 283
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 116
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 163
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 144
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 17615
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 453
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 81
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 135
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 103
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 20904
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 410
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 228
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 2
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 17
+    },
+    {
+      "changwat_code": "44",
+      "changwat": "มหาสารคาม",
+      "khet": "6",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 39
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — มหาสารคาม (Maha Sarakham party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดมหาสารคาม. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 342 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — มหาสารคาม (Maha Sarakham party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — มหาสารคาม (Maha Sarakham party-list ballots) — 342 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 342 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

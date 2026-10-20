@@ -1,0 +1,121 @@
+{
+  "id": "th-chumphon-national-parks",
+  "name": "ชุมพร — อุทยานแห่งชาติในจังหวัดชุมพร (National Parks in Chumphon Province)",
+  "title": "ชุมพร — อุทยานแห่งชาติในจังหวัดชุมพร (National Parks in Chumphon Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดชุมพร (Chumphon). 2 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Chumphon appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-chumphon-...' joins to th-chumphon-postal-codes / th-provinces (province_code 86).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 21,
+      "name_th": "อุทยานแห่งชาติหมู่เกาะชุมพร",
+      "name_en": "Mu Ko Chumphon National Park",
+      "name_th_short": "หมู่เกาะชุมพร",
+      "name_en_short": "Mu Ko Chumphon",
+      "lat": 10.25,
+      "lon": 99.21,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Chumphon: ชุมพร: Chumphon: chumphon: 86",
+      "province_count": 1
+    },
+    {
+      "park_id": 29,
+      "name_th": "อุทยานแห่งชาติน้ำตกหงาว",
+      "name_en": "Namtok Ngao National Park",
+      "name_th_short": "น้ำตกหงาว",
+      "name_en_short": "Namtok Ngao",
+      "lat": 9.85,
+      "lon": 98.62,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Ranong: ระนอง: Ranong: ranong: 85, Chumphon: ชุมพร: Chumphon: chumphon: 86",
+      "province_count": 2
+    }
+  ],
+  "meta": {
+    "title": "ชุมพร — อุทยานแห่งชาติในจังหวัดชุมพร (National Parks in Chumphon Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดชุมพร (Chumphon). 2 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Chumphon appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-chumphon-...' joins to th-chumphon-postal-codes / th-provinces (province_code 86). มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ชุมพร — อุทยานแห่งชาติในจังหวัดชุมพร (National Parks in Chumphon Province) | ListBase",
+    "seo_description": "ดาวน์โหลด ชุมพร — อุทยานแห่งชาติในจังหวัดชุมพร (National Parks in Chumphon Province) — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

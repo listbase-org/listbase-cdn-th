@@ -1,0 +1,328 @@
+{
+  "id": "th-banks",
+  "name": "ธนาคารและสถาบันการเงินในประเทศไทย (Thailand Banks)",
+  "title": "ธนาคารและสถาบันการเงินในประเทศไทย (Thailand Banks)",
+  "description": "รายชื่อธนาคารและสถาบันการเงินในประเทศไทย พร้อมรหัสธนาคาร 3 หลัก ชื่อภาษาไทย ชื่อทางการภาษาอังกฤษ และสีประจำแบรนด์ (List of Thai banks and financial institutions with 3-digit bank codes, Thai names, official English names, and brand colors. Used for PromptPay, fintech, and payment-system identification.)",
+  "category": "finance",
+  "source": "https://github.com/AomDEV/css-finances",
+  "source_url": "https://github.com/AomDEV/css-finances",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "thai_name",
+      "label": "Thai Name",
+      "type": "string"
+    },
+    {
+      "key": "official_name",
+      "label": "Official Name",
+      "type": "string"
+    },
+    {
+      "key": "nice_name",
+      "label": "Nice Name",
+      "type": "string"
+    },
+    {
+      "key": "color",
+      "label": "Color",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slug": "bbl",
+      "code": "002",
+      "thai_name": "ธนาคารกรุงเทพ",
+      "official_name": "BANGKOK BANK PUBLIC COMPANY LTD.",
+      "nice_name": "Bangkok Bank",
+      "color": "#1e4598"
+    },
+    {
+      "slug": "kbank",
+      "code": "004",
+      "thai_name": "ธนาคารกสิกรไทย",
+      "official_name": "KASIKORNBANK PUBLIC COMPANY LTD.",
+      "nice_name": "Kasikornbank",
+      "color": "#138f2d"
+    },
+    {
+      "slug": "rbs",
+      "code": "005",
+      "thai_name": "ธนาคาร เดอะรอยัลแบงค์อ๊อฟสกอตแลนด์",
+      "official_name": "THE ROYAL BANK OF SCOTLAND PLC",
+      "nice_name": "Royal Bank of Scotland",
+      "color": "#032952"
+    },
+    {
+      "slug": "ktb",
+      "code": "006",
+      "thai_name": "ธนาคารกรุงไทย",
+      "official_name": "KRUNG THAI BANK PUBLIC COMPANY LTD.",
+      "nice_name": "Krungthai Bank",
+      "color": "#1ba5e1"
+    },
+    {
+      "slug": "jpm",
+      "code": "008",
+      "thai_name": "เจพีมอร์แกนเชส",
+      "official_name": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+      "nice_name": "J.P. Morgan",
+      "color": "#321c10"
+    },
+    {
+      "slug": "mufg",
+      "code": "010",
+      "thai_name": "ธนาคารแห่งโตเกียว-มิตซูบิชิ ยูเอฟเจ",
+      "official_name": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
+      "nice_name": "Bank of Tokyo-Mitsubishi UFJ",
+      "color": "#d61323"
+    },
+    {
+      "slug": "tmb",
+      "code": "011",
+      "thai_name": "ธนาคารทหารไทย",
+      "official_name": "TMB BANK PUBLIC COMPANY LIMITED.",
+      "nice_name": "TMB Bank",
+      "color": "#1279be"
+    },
+    {
+      "slug": "scb",
+      "code": "014",
+      "thai_name": "ธนาคารไทยพาณิชย์",
+      "official_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY LTD.",
+      "nice_name": "Siam Commercial Bank",
+      "color": "#4e2e7f"
+    },
+    {
+      "slug": "citi",
+      "code": "017",
+      "thai_name": "ธนาคารซิตี้แบงค์",
+      "official_name": "CITIBANK, N.A.",
+      "nice_name": "Citibank",
+      "color": "#1583c7"
+    },
+    {
+      "slug": "smbc",
+      "code": "018",
+      "thai_name": "ธนาคารซูมิโตโม มิตซุย แบงค์กิ้ง คอร์ปอเรชั่น",
+      "official_name": "SUMITOMO MITSUI BANKING CORPORATION",
+      "nice_name": "Sumitomo Mitsui Banking Corporation",
+      "color": "#a0d235"
+    },
+    {
+      "slug": "sc",
+      "code": "020",
+      "thai_name": "สแตนดาร์ดชาร์เตอร์ด ประเทศไทย",
+      "official_name": "STANDARD CHARTERED BANK (THAI) PUBLIC COMPANY LIMITED",
+      "nice_name": "Standard Chartered (Thai)",
+      "color": "#0f6ea1"
+    },
+    {
+      "slug": "cimb",
+      "code": "022",
+      "thai_name": "ธนาคารซีไอเอ็มบีไทย",
+      "official_name": "CIMB THAI BANK PUPBLIC COMPANY LTD.",
+      "nice_name": "CIMB Thai Bank",
+      "color": "#7e2f36"
+    },
+    {
+      "slug": "uob",
+      "code": "024",
+      "thai_name": "ธนาคารยูโอบี",
+      "official_name": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED",
+      "nice_name": "United Overseas Bank (Thai)",
+      "color": "#0b3979"
+    },
+    {
+      "slug": "bay",
+      "code": "025",
+      "thai_name": "ธนาคารกรุงศรีอยุธยา",
+      "official_name": "BANK OF AYUDHYA PUBLIC COMPANY LTD.",
+      "nice_name": "Bank of Ayudhya (Krungsri)",
+      "color": "#fec43b"
+    },
+    {
+      "slug": "mega",
+      "code": "026",
+      "thai_name": "ธนาคาร เมกะ สากลพาณิชย์",
+      "official_name": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
+      "nice_name": "Mega International Commercial Bank",
+      "color": "#815e3b"
+    },
+    {
+      "slug": "boa",
+      "code": "027",
+      "thai_name": "แบงก์ออฟอเมริกาคอร์ปอเรชั่น",
+      "official_name": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+      "nice_name": "Bank of America",
+      "color": "#e11e3c"
+    },
+    {
+      "slug": "cacib",
+      "code": "028",
+      "thai_name": "ธนาคารเครดิต อะกริโคล",
+      "official_name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
+      "nice_name": "Crédit Agricole",
+      "color": "#0e765b"
+    },
+    {
+      "slug": "gsb",
+      "code": "030",
+      "thai_name": "ธนาคารออมสิน",
+      "official_name": "THE GOVERNMENT SAVINGS BANK",
+      "nice_name": "Government Savings Bank",
+      "color": "#eb198d"
+    },
+    {
+      "slug": "hsbc",
+      "code": "031",
+      "thai_name": "ฮ่องกงและเซี่ยงไฮ้แบงกิ้งคอร์ปอเรชั่น",
+      "official_name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.",
+      "nice_name": "Hongkong and Shanghai Banking Corporation",
+      "color": "#fd0d1b"
+    },
+    {
+      "slug": "db",
+      "code": "032",
+      "thai_name": "ธนาคารดอยช์แบงก์",
+      "official_name": "DEUTSCHE BANK AG.",
+      "nice_name": "Deutsche Bank",
+      "color": "#0522a5"
+    },
+    {
+      "slug": "ghb",
+      "code": "033",
+      "thai_name": "ธนาคารอาคารสงเคราะห์",
+      "official_name": "THE GOVERNMENT HOUSING BANK",
+      "nice_name": "Government Housing Bank",
+      "color": "#f57d23"
+    },
+    {
+      "slug": "baac",
+      "code": "034",
+      "thai_name": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
+      "official_name": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES",
+      "nice_name": "Bank for Agriculture and Agricultural Cooperatives",
+      "color": "#4b9b1d"
+    },
+    {
+      "slug": "mb",
+      "code": "039",
+      "thai_name": "ธนาคารมิซูโฮ",
+      "official_name": "MIZUHO BANK, LTD.",
+      "nice_name": "Mizuho Bank",
+      "color": "#150b78"
+    },
+    {
+      "slug": "bnp",
+      "code": "045",
+      "thai_name": "บีเอ็นพี พารีบาส์",
+      "official_name": "BNP PARIBAS",
+      "nice_name": "BNP Paribas",
+      "color": "#14925e"
+    },
+    {
+      "slug": "tbank",
+      "code": "065",
+      "thai_name": "ธนาคารธนชาต",
+      "official_name": "THANACHART BANK PUBLIC COMPANY LTD.",
+      "nice_name": "Thanachart Bank",
+      "color": "#fc4f1f"
+    },
+    {
+      "slug": "ibank",
+      "code": "066",
+      "thai_name": "ธนาคารอิสลามแห่งประเทศไทย",
+      "official_name": "ISLAMIC BANK OF THAILAND",
+      "nice_name": "Islamic Bank of Thailand",
+      "color": "#184615"
+    },
+    {
+      "slug": "tisco",
+      "code": "067",
+      "thai_name": "ธนาคารทิสโก้",
+      "official_name": "TISCO BANK PUBLIC COMPANY LIMITED",
+      "nice_name": "Tisco Bank",
+      "color": "#12549f"
+    },
+    {
+      "slug": "kk",
+      "code": "069",
+      "thai_name": "ธนาคารเกียรตินาคินภัทร",
+      "official_name": "KIATNAKIN BANK PUBLIC COMPANY LIMITED",
+      "nice_name": "Kiatnakin Bank",
+      "color": "#199cc5"
+    },
+    {
+      "slug": "icbc",
+      "code": "070",
+      "thai_name": "ธนาคารสินเอเซีย จำกัด (มหาชน)",
+      "official_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
+      "nice_name": "Industrial and Commercial Bank of China (Thai)",
+      "color": "#c50f1c"
+    },
+    {
+      "slug": "tcrb",
+      "code": "071",
+      "thai_name": "ธนาคารไทยเครดิต เพื่อรายย่อย",
+      "official_name": "THE THAI CREDIT RETAIL BANK PUBLIC COMPANY LIMITED",
+      "nice_name": "Thai Credit Retail Bank",
+      "color": "#0a4ab3"
+    },
+    {
+      "slug": "lhb",
+      "code": "073",
+      "thai_name": "ธนาคารแลนด์ แอนด์ เฮ้าส์",
+      "official_name": "LAND AND HOUSES BANK PUBLIC COMPANY LIMITED",
+      "nice_name": "Land and Houses Bank",
+      "color": "#6d6e71"
+    },
+    {
+      "slug": "tmn",
+      "code": "074",
+      "thai_name": "ทรูมันนี่ วอลเล็ท",
+      "official_name": "TRUE MONEY WALLET",
+      "nice_name": "TrueMoney Wallet",
+      "color": "#ecf0f1"
+    },
+    {
+      "slug": "pp",
+      "code": "075",
+      "thai_name": "พร้อมเพย์",
+      "official_name": "PROMPTPAY",
+      "nice_name": "PromptPay",
+      "color": "#00427a"
+    },
+    {
+      "slug": "ttb",
+      "code": "076",
+      "thai_name": "ธนาคารทหารไทยธนชาต",
+      "official_name": "TMBTHANACHART BANK PUBLIC COMPANY LIMITED",
+      "nice_name": "TMBThanachart Bankk",
+      "color": "#ecf0f1"
+    }
+  ],
+  "meta": {
+    "title": "ธนาคารและสถาบันการเงินในประเทศไทย (Thailand Banks) - ดาวน์โหลดฟรี",
+    "description": "รายชื่อธนาคารและสถาบันการเงินในประเทศไทย พร้อมรหัสธนาคาร 3 หลัก ชื่อภาษาไทย ชื่อทางการภาษาอังกฤษ และสีประจำแบรนด์ (List of Thai banks and financial institutions with 3-digit bank codes, Thai names, official English names, and brand colors. Used for PromptPay, fintech, and payment-system identification.) มีทั้งหมด 34 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ธนาคารและสถาบันการเงินในประเทศไทย (Thailand Banks) | ListBase",
+    "seo_description": "ดาวน์โหลด ธนาคารและสถาบันการเงินในประเทศไทย (Thailand Banks) — 34 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 34 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/AomDEV/css-finances"
+    ]
+  }
+}

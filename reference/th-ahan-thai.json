@@ -1,0 +1,2680 @@
+{
+  "id": "th-ahan-thai",
+  "name": "อาหารไทย (328 เมนู)",
+  "title": "อาหารไทย (328 เมนู)",
+  "description": "รายชื่ออาหารไทย 328 เมนู ทั้งชื่อภาษาไทยและอังกฤษ พร้อมภูมิภาคและประเภท",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 328,
+  "columns": [
+    {
+      "key": "thai_name",
+      "label": "Thai Name",
+      "type": "string"
+    },
+    {
+      "key": "thai_script",
+      "label": "Thai Script",
+      "type": "string"
+    },
+    {
+      "key": "english_name",
+      "label": "English Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "major_grouping",
+      "label": "Major Grouping",
+      "type": "string"
+    },
+    {
+      "key": "minor_grouping",
+      "label": "Minor Grouping",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "thai_name": "Jok",
+      "thai_script": "โจ๊ก",
+      "english_name": "Rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao kan chin",
+      "thai_script": "ข้าวกั๊นจิ๊น",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao kha mu",
+      "thai_script": "ข้าวขาหมู",
+      "english_name": "Braised pork leg on rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao khai chiao",
+      "thai_script": "ข้าวไข่เจียว",
+      "english_name": "Omelette on rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao khluk kapi",
+      "thai_script": "ข้าวคลุกกะปิ",
+      "english_name": "Fried rice with shrimp paste",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao mok gai",
+      "thai_script": "ข้าวหมกไก่",
+      "english_name": "Thai",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao mok nuea",
+      "thai_script": "ข้าวหมกเนื้อ",
+      "english_name": "Thai beef biryani",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao man gai",
+      "thai_script": "ข้าวมันไก่",
+      "english_name": "Chicken rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao mu krop",
+      "thai_script": "ข้าวหมูกรอบ",
+      "english_name": "Crispy pork on rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao mu krop mu aeng",
+      "thai_script": "ข้าวหมูกรอบหมูแดง",
+      "english_name": "Mixed cispy pork and red roast pork on rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao na pet",
+      "thai_script": "ข้าวหน้าเป็ด",
+      "english_name": "Red roast duck on rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao niao",
+      "thai_script": "ข้าวเหนียว",
+      "english_name": "Glutinous",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao nuea op",
+      "thai_script": "ข้าวเนื้ออบ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao phat",
+      "thai_script": "ข้าวผัด",
+      "english_name": "Thai fried rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao phat amerikan",
+      "thai_script": "ข้าวผัดอเมริกัน",
+      "english_name": "American fried rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao phat kaeng khiao wan",
+      "thai_script": "ข้าวผัดแกงเขียวหวาน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao phat kaphrao mu",
+      "thai_script": "ข้าวผัดกะเพราหมู",
+      "english_name": "Basil fried rice with pork",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao phat namliap",
+      "thai_script": "ข้าวผัดหนำเลี้ยบ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao phat nam phrik long ruea",
+      "thai_script": "ข้าวผัดน้ำพริกลงเรือ",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao phat nam phrik narok",
+      "thai_script": "ข้าวผัดน้ำพริกนรก",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao tom",
+      "thai_script": "ข้าวต้ม",
+      "english_name": "Thai rice soup",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Khao tom kui",
+      "thai_script": "ข้าวต้มกุ๊ย",
+      "english_name": "Plain rice",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Rice dishes"
+    },
+    {
+      "thai_name": "Bami haeng pet",
+      "thai_script": "บะหมี่แห้งเป็ด",
+      "english_name": "Egg noodles served \"dry\" with duck",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Bami mu daeng",
+      "thai_script": "บะหมี่หมูแดง",
+      "english_name": "Egg noodle soup with",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Khanom chin kaeng khiao wan kai",
+      "thai_script": "ขนมจีนแกงเขียวหวานไก่",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Khanom chin nam ngiao",
+      "thai_script": "ขนมจีนน้ำเงี้ยว",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Khanom jeen nam yaa",
+      "thai_script": "ขนมจีนน้ำยา",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Khanom chin sao nam",
+      "thai_script": "ขนมจีนซาวน้ำ",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Khao soi",
+      "thai_script": "ข้าวซอย",
+      "english_name": "Northern Thai curry noodles",
+      "region": "North",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Khao soi Mae Sai",
+      "thai_script": "ข้าวซอยแม่สาย",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Khao soi nam na",
+      "thai_script": "ข้าวซอยน้ำหน้า",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Kuaichap",
+      "thai_script": "กวยจั๊บ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Kuai-tiao nam",
+      "thai_script": "ก๋วยเตี๋ยวน้ำ",
+      "english_name": "Wide rice noodle soup",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Kuai-tiao nuea pueai",
+      "thai_script": "ก๋วยเตี๋ยวเนื้อเปื่อย",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Kuai-tiao phat khi mao",
+      "thai_script": "ก๋วยเตี๋ยวผัดขี้เมา",
+      "english_name": "Drunken noodles",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Kuai-tiao rat na",
+      "thai_script": "ก๋วยเตี๋ยวราดหน้า",
+      "english_name": "Wide rice noodles in gravy",
+      "region": "Central",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Kuai-tiao ruea",
+      "thai_script": "ก๋วยเตี๋ยวเรือ",
+      "english_name": "Boat noodles",
+      "region": "Central",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Mi krop",
+      "thai_script": "[หมี่กรอบ",
+      "english_name": "Thai crispy fried noodles",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Phat Mama",
+      "thai_script": "ผัดมาม่า",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Phat si-io",
+      "thai_script": "ผัดซีอิ๊ว",
+      "english_name": "Noodles stir-fried with soy sauce",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Phat Thai",
+      "thai_script": "ผัดไทย",
+      "english_name": "Pad Thai",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Phat wun sen",
+      "thai_script": "ผัดวุ้นเส้น",
+      "english_name": "Stir-fried",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Sapaketti phat khi mao",
+      "thai_script": "สปาเกตตีผัดขี้เมา",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Tom yam boran",
+      "thai_script": "ต้มยำโบราณ",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Yentafo",
+      "thai_script": "เย็นตาโฟ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Yum kanom jeen",
+      "thai_script": "ยำขนมจีน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Noodle dishes"
+    },
+    {
+      "thai_name": "Chim chum",
+      "thai_script": "จิ้มจุ่ม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Misc Indiv"
+    },
+    {
+      "thai_name": "Kaolao",
+      "thai_script": "เกาเหลา",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Misc Indiv"
+    },
+    {
+      "thai_name": "Khao soi noi songkhrueang",
+      "thai_script": "ข้าวซอยน้อยทรงเครื่อง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Misc Indiv"
+    },
+    {
+      "thai_name": "Mu kratha",
+      "thai_script": "หมูกระทะ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Misc Indiv"
+    },
+    {
+      "thai_name": "Nam phrik kapi kap pla thu thot",
+      "thai_script": "น้ำพริกกะปิกับปลาทูทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Misc Indiv"
+    },
+    {
+      "thai_name": "Pathongko",
+      "thai_script": "ปาท่องโก๋",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Misc Indiv"
+    },
+    {
+      "thai_name": "Suki",
+      "thai_script": "สุกี้",
+      "english_name": "Thai suki",
+      "region": "",
+      "major_grouping": "Individual dishes",
+      "minor_grouping": "Misc Indiv"
+    },
+    {
+      "thai_name": "Chin hum",
+      "thai_script": "จิ๊นฮุ่ม",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Chuchi pla kaphong",
+      "thai_script": "ฉู่ฉี่ปลากะพง",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Chuchi pla thu sot",
+      "thai_script": "ฉู่ฉี่ปลาทูสด",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng cha-om",
+      "thai_script": "แกงชะอม",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng fak sai kai",
+      "thai_script": "แกงฟักใส่ไก่",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng dok salae",
+      "thai_script": "แกงดอกสะแล",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng hangle",
+      "thai_script": "แกงฮังเล",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng het",
+      "thai_script": "แกงเห็ด",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng ho",
+      "thai_script": "แกงโฮะ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng kari",
+      "thai_script": "แกงกะหรี่",
+      "english_name": "Yellow curry",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng khae",
+      "thai_script": "แกงแค",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng khanun",
+      "thai_script": "แกงขนุน",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng khiao wan",
+      "thai_script": "แกงเขียวหวาน",
+      "english_name": "Green curry",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng khilek",
+      "thai_script": "แกงขี้เหล็ก",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng khua",
+      "thai_script": "แกงคั่ว",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng khua mu bai chamuang",
+      "thai_script": "แกงคั่วหมูใบชะมวง",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng kradang",
+      "thai_script": "แกงกระด้าง",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng lueang",
+      "thai_script": "แกงเหลือง",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng matsaman",
+      "thai_script": "แกงมัสมั่น",
+      "english_name": "Massaman curry",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng om",
+      "thai_script": "แกงอ่อม",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng pa",
+      "thai_script": "แกงป่า",
+      "english_name": "Jungle curry",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phak bung sai pla",
+      "thai_script": "แกงผักบุ้งใส่ปลา",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phak kat cho kraduk mu",
+      "thai_script": "แกงผักกาดจอกระดูกหมู",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phak lueat",
+      "thai_script": "แกงผักเลือด",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phak siangda",
+      "thai_script": "แกงผักเซียงดา",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phak wan pa",
+      "thai_script": "แกงผักหวานป่า",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phanaeng",
+      "thai_script": "แกงพะแนง",
+      "english_name": "Phanaeng curry",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phet",
+      "thai_script": "แกงเผ็ด",
+      "english_name": "Red curry",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng phet pet yang",
+      "thai_script": "แกงเผ็ดเป็ดย่าง",
+      "english_name": "Red curry",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng pli",
+      "thai_script": "แกงปลี",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng som",
+      "thai_script": "แกงส้ม",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng tai pla",
+      "thai_script": "แกงไตปลา",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng thepho",
+      "thai_script": "แกงเทโพ",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng tun",
+      "thai_script": "แกงตูน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng yot maphrao on sai kai",
+      "thai_script": "แกงยอดมะพร้าวอ่อนใส่ไก่",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng yuak",
+      "thai_script": "แกงหยวก",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Khua kling",
+      "thai_script": "คั่วกลิ้ง",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Khua kraduk",
+      "thai_script": "คั่วกระดูกหมู",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Yam chin kai",
+      "thai_script": "ยำจิ๊นไก่",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kaeng ranchuan",
+      "thai_script": "แกงรัญจวน",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Curries"
+    },
+    {
+      "thai_name": "Kai tun ya chin",
+      "thai_script": "ไก่ตุ๋นยาจีน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Nam sup",
+      "thai_script": "น้ำซุป",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom chuet",
+      "thai_script": "แกงจืด",
+      "english_name": "Clear vegetable soup",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom kha kai",
+      "thai_script": "ต้มข่าไก่",
+      "english_name": "Coconut soup with chicken",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom khlong",
+      "thai_script": "ต้มโคล้ง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom mara",
+      "thai_script": "ต้มมะระ",
+      "english_name": "Bitter melon soup",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom phak kat dong mu",
+      "thai_script": "ต้มผักกาดดองหมู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom saep",
+      "thai_script": "ต้มแซ่บ",
+      "english_name": "Hot and sour Isan soup",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom som kraduk mu",
+      "thai_script": "ต้มส้มกระดูกหมู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom yam",
+      "thai_script": "ต้มยำ",
+      "english_name": "Tom yum soup",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Tom yuea phai",
+      "thai_script": "ต้มเยื่อไผ่",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Soups"
+    },
+    {
+      "thai_name": "Khao yam",
+      "thai_script": "ข้าวยำ",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Koi pla",
+      "thai_script": "ก้อยปลา",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Kung chae nampla",
+      "thai_script": "กุ้งแช่น้ำปลา",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Kung ten",
+      "thai_script": "กุ้งเต้น",
+      "english_name": "Dancing shrimp",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Lap Isan",
+      "thai_script": "ลาบอีสาน",
+      "english_name": "Larb",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Lap Lanna",
+      "thai_script": "ลาบล้านนา",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Lap nuea dip",
+      "thai_script": "ลาบเนื้อดิบ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Mu nam tok",
+      "thai_script": "หมูน้ำตก",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Naem khluk",
+      "thai_script": "แหนมคลุก",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Nuea yang nam tok",
+      "thai_script": "เนื้อย่างน้ำตก",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Phla kung",
+      "thai_script": "พล่ากุ้ง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Phla mu",
+      "thai_script": "พล่าหมู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Phla nuea makhuea on",
+      "thai_script": "พล่าเนื้อมะเขืออ่อน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Sa nuea",
+      "thai_script": "ส้าเนื้อ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Sa nuea sadung",
+      "thai_script": "ส้าเนื้อสะดุ้ง",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Som tam khai khem",
+      "thai_script": "ส้มตำไข่เค็ม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Som tam pla ra",
+      "thai_script": "ส้มตำปลาร้า",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Som tam pu",
+      "thai_script": "ส้มตำปู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Som tam Thai",
+      "thai_script": "ส้มตำไทย",
+      "english_name": "Thai papaya salad",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Tam khanun",
+      "thai_script": "ตำขนุน",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Tam makhuea",
+      "thai_script": "ตำมะเขือ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Tam mamuang",
+      "thai_script": "ตำมะม่วง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Tam maphrao on sen mi krop",
+      "thai_script": "ตำมะพร้าวอ่อนเส้นหมี่กรอบ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Tam mu yo",
+      "thai_script": "ตำหมูยอ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Tam phonlamai ruam",
+      "thai_script": "ตำผลไม้รวม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Tam som-o nam pu",
+      "thai_script": "ตำส้มโอน้ำปู",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam bai cha",
+      "thai_script": "ยำใบชา",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam hu mu",
+      "thai_script": "ยำหูหมู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam hua pli thot",
+      "thai_script": "ยำหัวปลีทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam hoi khraeng",
+      "thai_script": "ยำหอยแครง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam khai dao",
+      "thai_script": "ยำไข่ดาว",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam khamin khao kung",
+      "thai_script": "ยำขมิ้นขาวกุ้ง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam kun chiang",
+      "thai_script": "ยำกุนเชียง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam mu krop",
+      "thai_script": "ยำหมูกรอบ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam mu yo",
+      "thai_script": "ยำหมูยอ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam mu yo thot khai dao",
+      "thai_script": "ยำหมูยอทอดไข่ดาว",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam naem",
+      "thai_script": "ยำแหนมสด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam naem khao khot",
+      "thai_script": "ยำแหนมข้าวทอด",
+      "english_name": "Thai croquette salad",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam no mai",
+      "thai_script": "ยำหน่อไม้",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam no mai sai nam pu",
+      "thai_script": "ยำหน่อไม้ใส่น้ำปู",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam nuea yang",
+      "thai_script": "ยำเนื้อย่าง",
+      "english_name": "Thai grilled beef salad",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam phak khut",
+      "thai_script": "ยำผักกูด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam pla duk fu",
+      "thai_script": "ยำปลาดุกฟู",
+      "english_name": "\"Exploded\" catfish salad",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam pla khem",
+      "thai_script": "ยำปลาเค็ม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam pla salit",
+      "thai_script": "ยำปลาสลิด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam pla thu",
+      "thai_script": "ยำปลาทู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam sanat",
+      "thai_script": "ยำสะนัด",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam som-o",
+      "thai_script": "ยำส้มโอ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam takhrai kung sot",
+      "thai_script": "ยำตะไคร้กุ้งสด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam thale",
+      "thai_script": "ยำทะเล",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam thua phu",
+      "thai_script": "ยำถั่วพู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Yam wun sen",
+      "thai_script": "ยำวุ้นเส้น",
+      "english_name": "Thai glass noodle salad",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Salads"
+    },
+    {
+      "thai_name": "Kai phat khing",
+      "thai_script": "ไก่ผัดขิง",
+      "english_name": "Stir-fired sliced ginger with chicken",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Kai phat met mamuang himmaphan",
+      "thai_script": "ไก่ผัดเม็ดมะม่วงหิมพานต์",
+      "english_name": "Sitr-fried chicken with cashew nuts",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Khai yat sai",
+      "thai_script": "ไข่ยัดไส้",
+      "english_name": "Stuffed omelette",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Khua chin som sai khai",
+      "thai_script": "คั่วจิ๊นส้มใส่ไข่",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Khua ho",
+      "thai_script": "คั่วห่อ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Khua no mai sai mu",
+      "thai_script": "คั่วหน่อไม้ใส่หมู",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Kaphrao hoi lai",
+      "thai_script": "กะเพราหอยลาย",
+      "english_name": "Stir-fried baby clams with thai holy basil",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Khai luk khoei",
+      "thai_script": "ไข่ลูกเขย",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Kung thot krathiam phrik Thai",
+      "thai_script": "กุ้งทอดกระเทียมพริกไทย",
+      "english_name": "Deep fried prawns with garlic and pepper",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Mu krop phat kaphrao",
+      "thai_script": "หมูกรอบผัดกะเพรา",
+      "english_name": "Stir-fried holy basil with cirspy pork",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Mu phat sato",
+      "thai_script": "หมูผัดสะตอ",
+      "english_name": "Stir-fired pork with stink beans",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Mu phat sato phak Tai",
+      "thai_script": "หมูผัดสะตอภาคใต้",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Mu wan",
+      "thai_script": "หมูหวาน",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "No mai farang phat kung",
+      "thai_script": "หน่อไม้ฝรั่งผัดกุ้ง",
+      "english_name": "Stir-fried asparagus with prawns",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Nuea phat bai yira",
+      "thai_script": "เนื้อผัดใบยี่หร่า",
+      "english_name": "Stir-fried beef with",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Pak boong fai daeng",
+      "thai_script": "ผักบุ้งไฟแดง",
+      "english_name": "Stir-fried morning-glory",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phak khana nam man hoi",
+      "thai_script": "ผักคะน้าน้ำมันหอย",
+      "english_name": "Stir-fried Chinese kale with",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat buap",
+      "thai_script": "ผัดบวบ",
+      "english_name": "Stir-fried luffa",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat dok hom",
+      "thai_script": "ผัดดอกหอม",
+      "english_name": "Stir-fried onion flower stem with pork/liver",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat khana mu krop",
+      "thai_script": "ผัดคะน้าหมูกรอบ",
+      "english_name": "Stir-fried Chinese kale with crispy pork",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat khanaeng mu",
+      "thai_script": "ผัดแขนงหมู",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat kaphrao",
+      "thai_script": "ผัดกะเพรา",
+      "english_name": "Stir-fired minced meat with thai holy basil",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat naem sai khai",
+      "thai_script": "ผัดแหนมไส่ไข่",
+      "english_name": "Stir-fired fermented pork with egg",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat no mai sai khai",
+      "thai_script": "ผัดหน่อไม้ใส่ไข่",
+      "english_name": "Stir-fired bambbo shoot with egg",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat phak khom",
+      "thai_script": "ผัดผักโขม",
+      "english_name": "Stir-fried thai spinach with egg and minced pork",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat phak ruam",
+      "thai_script": "ผัดผักรวม",
+      "english_name": "Stir fried mixed vegetables",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat phrik khing",
+      "thai_script": "ผัดพริก",
+      "english_name": "Stir-fried pork with Thai chili peppers",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phat yot fak maeo",
+      "thai_script": "ผัดยอดฟักแม้ว",
+      "english_name": "Stir-fried mountain melon greens",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Phunim phat phong kari",
+      "thai_script": "ปูนิ่มผัดผงกะหรี่",
+      "english_name": "Stir-fried soft-shelled crab with curry powder",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Pla duk phat phet",
+      "thai_script": "ปลาดุกผัดเผ็ด",
+      "english_name": "Stir-fired sliced catfish with red curry paste",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Pla kaphong phat khuen chai",
+      "thai_script": "ปลากะพงผัดขึ้นฉ่าย",
+      "english_name": "Stir-fried Chinese celery with barramundi",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Pla muek phat phrik phao",
+      "thai_script": "ปลาหมึกผัดพริกเผา",
+      "english_name": "Stir-fried squid with chilli paste",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Tap kai phat phrik sot",
+      "thai_script": "ตับไก่ผัดพริกสด",
+      "english_name": "Stir-fried chicken liver with green peppers",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Thua ngok pla khem",
+      "thai_script": "ถั่วงอกปลาเค็ม",
+      "english_name": "Stir-fried bean sprouts with salted fish",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Fried and stir-fried dishes"
+    },
+    {
+      "thai_name": "Kai ho bai toei",
+      "thai_script": "ไก่ห่อใบเตย",
+      "english_name": "Chicken wrapped in",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Kai thot takhrai",
+      "thai_script": "ไก่ทอดตะไคร้",
+      "english_name": "Deep fried chicken and lemongrass",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Kai thot",
+      "thai_script": "ไก่ทอด",
+      "english_name": "Deep-fried chicken",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Khaep mu",
+      "thai_script": "แคบหมู",
+      "english_name": "Pork rinds",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Mu krop",
+      "thai_script": "หมูกรอบ",
+      "english_name": "Crispy pork",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Mu thot krathiam",
+      "thai_script": "หมูทอดกระเทียม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Nang kai thot",
+      "thai_script": "หนังไก่ทอด",
+      "english_name": "Crispy fried chicken skins",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "No yat sai thot",
+      "thai_script": "หน่อยัดไส้ทอด",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pik kai sot sai thot",
+      "thai_script": "ปีกไก่สอดไส้ทอด",
+      "english_name": "Stuffed chicken wings",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pla buang",
+      "thai_script": "ปลาบ้วง",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pla krai thot krathiam",
+      "thai_script": "ปลากรายทอดกระเทียม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pla nin thot samun phrai",
+      "thai_script": "ปลานิลทอดสมุนไพร",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pla sam rot",
+      "thai_script": "ปลาสามรส",
+      "english_name": "Three flavours fish",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pla thot",
+      "thai_script": "ปลาทอด",
+      "english_name": "Deep-fried fish",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pla thot khamin",
+      "thai_script": "ปลาทอดขมิ้น",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pla wong thot",
+      "thai_script": "ปลาวงทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Pu cha",
+      "thai_script": "ปูจ๋า",
+      "english_name": "Crab cakes",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Sai mu thot",
+      "thai_script": "ไส้หมูทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Si khrong mu thot",
+      "thai_script": "ซี่โครงหมูทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Deep-fried dishes"
+    },
+    {
+      "thai_name": "Aep mu",
+      "thai_script": "แอ็บหมู",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Aep ong-o",
+      "thai_script": "แอ็บอ่องออ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Aep pla noi",
+      "thai_script": "แอ็บปลาน้อย",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Chin som mok",
+      "thai_script": "จิ๊นส้มหมก",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Kai yang",
+      "thai_script": "ไก่ย่าง",
+      "english_name": "Grilled chicken",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Kho mu yang kratha ron",
+      "thai_script": "คอหมูย่างกระทะร้อน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Kung yang/kung phao",
+      "thai_script": "กุ้งย่าง/กุ้งเผา",
+      "english_name": "Grilled prawns",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Mu manao",
+      "thai_script": "หมูมะนาว",
+      "english_name": "Pork with lime juice",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Mu yang",
+      "thai_script": "หมูย่าง",
+      "english_name": "Isan grilled pork",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Nuea ping",
+      "thai_script": "เนื้อปิ้ง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Nuea thup",
+      "thai_script": "เนื้อทุบ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Pam khai mot",
+      "thai_script": "ป่ามไข่มด",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Paeng nom yang nuea",
+      "thai_script": "แป้งนมย่างอมเนื้อ",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Pla ping top",
+      "thai_script": "ปลาปิ้งตบ",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Sai krok Isan",
+      "thai_script": "ไส้กรอกอีสาน",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Sai mu ping",
+      "thai_script": "ไส้หมูปิ้ง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Sai ua",
+      "thai_script": "ไส้อั่ว",
+      "english_name": "\"Chiang mai sausage\"",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Suea rong hai",
+      "thai_script": "เสือร้องไห้",
+      "english_name": "Weeping tiger beef",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Yang ruam mu",
+      "thai_script": "ย่างรวมหมู",
+      "english_name": "Grilled mixed pork",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Grilled dishes"
+    },
+    {
+      "thai_name": "Bai po",
+      "thai_script": "ใบปอ",
+      "english_name": "Jute",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Steamed or blanched dishes"
+    },
+    {
+      "thai_name": "Ho mok pla",
+      "thai_script": "ห่อหมกปลา",
+      "english_name": "Fish curry pâté",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Steamed or blanched dishes"
+    },
+    {
+      "thai_name": "Ho mok maphrao on",
+      "thai_script": "ห่อหมกมะพร้าวอ่อน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Steamed or blanched dishes"
+    },
+    {
+      "thai_name": "Pla nueng manao",
+      "thai_script": "ปลานึ่งมะนาว",
+      "english_name": "Steamed fish with lime juice",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Steamed or blanched dishes"
+    },
+    {
+      "thai_name": "Khai phalo",
+      "thai_script": "ไข่พะโล้",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Stewed dishes"
+    },
+    {
+      "thai_name": "Nam chim chaeo",
+      "thai_script": "น้ำจิ้มแจ่ว",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam chim kai",
+      "thai_script": "น้ำจิ้มไก่",
+      "english_name": "Chicken chili sauce",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam chim paesa",
+      "thai_script": "น้ำจิ้มแป๊ะซะ",
+      "english_name": "",
+      "region": "Northeast",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam chim sate",
+      "thai_script": "น้ำจิ้มสะเต๊ะ",
+      "english_name": "Peanut sauce",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik i-ke",
+      "thai_script": "น้ำพริกอีเก๋",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik kapi",
+      "thai_script": "น้ำพริกกะปิ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik kha",
+      "thai_script": "น้ำพริกข่า",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik khaep mu",
+      "thai_script": "น้ำพริกแคบหมู",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik long ruea",
+      "thai_script": "น้ำพริกลงเรือ",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik num",
+      "thai_script": "น้ำพริกหนุ่ม",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik ong",
+      "thai_script": "น้ำพริกอ่อง",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik phao",
+      "thai_script": "น้ำพริกเผา",
+      "english_name": "Chilli jam",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Nam phrik pla chi",
+      "thai_script": "น้ำพริกปลาจี่",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Phrik nam pla",
+      "thai_script": "น้ำปลาพริก",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Pu ong",
+      "thai_script": "ปูอ่อง",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Sot Si Racha",
+      "thai_script": "ซอสศรีราชา",
+      "english_name": "Sriracha sauce",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Dipping sauces and pastes"
+    },
+    {
+      "thai_name": "Khai dao",
+      "thai_script": "ไข่ดาว",
+      "english_name": "Fried egg",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Misc Shared"
+    },
+    {
+      "thai_name": "Khai chiao khai mot daeng",
+      "thai_script": "ไข่เจียวไข่มดแดง",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Misc Shared"
+    },
+    {
+      "thai_name": "Mu ruam luak chim",
+      "thai_script": "หมูรวมลวกจิ้ม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Misc Shared"
+    },
+    {
+      "thai_name": "Pla sam thap",
+      "thai_script": "ปลาสามทัพ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Misc Shared"
+    },
+    {
+      "thai_name": "Roti thitchu",
+      "thai_script": "โรตีทิชชู",
+      "english_name": "Roti canai/roti prata",
+      "region": "",
+      "major_grouping": "Shared dishes",
+      "minor_grouping": "Misc Shared"
+    },
+    {
+      "thai_name": "Chingrit thot",
+      "thai_script": "จิ้งหรีดทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Kai rom khwan",
+      "thai_script": "ไก่รมควัน",
+      "english_name": "Smoked",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Karipap",
+      "thai_script": "กะหรี่ปั๊บ",
+      "english_name": "Curry puff",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Khaep mu",
+      "thai_script": "แคบหมู",
+      "english_name": "Crispy pork rind",
+      "region": "North",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Khanom chip",
+      "thai_script": "ขนมจีบ",
+      "english_name": "Siu mai",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Khanom kuichai",
+      "thai_script": "ขนมกุยช่าย",
+      "english_name": "Fried chive dumplings",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Khanom Tokyo",
+      "thai_script": "ขนมโตเกียว",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Khao phan nga muan",
+      "thai_script": "ข้าวพันงาม้วน",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Khao phan phak",
+      "thai_script": "ข้าวพันผัก",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Luk chin ping",
+      "thai_script": "ลูกชิ้นปิ้ง",
+      "english_name": "Grilled meatball",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Mamuang nam pla wan",
+      "thai_script": "มะม่วงน้ำปลาหวาน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Miang kham",
+      "thai_script": "เมี่ยงคำ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Miang pla",
+      "thai_script": "เมี่ยงปลา",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Mu daet diao",
+      "thai_script": "หมูแดดเดียว",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Nuea daet diao kaphrao thot",
+      "thai_script": "เนื้อแดดเดียวกะเพราทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Nuea khem thot",
+      "thai_script": "เนื้อเค็มทอด",
+      "english_name": "",
+      "region": "North",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Pla muek yang",
+      "thai_script": "ปลาหมึกย่าง",
+      "english_name": "Grilled cuttlefish",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Sate",
+      "thai_script": "สะเต๊ะ",
+      "english_name": "Satay",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Thot man khaophot",
+      "thai_script": "ทอดมันข้าวโพด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Thot man pla",
+      "thai_script": "ทอดมันปลา",
+      "english_name": "Fried fish cakes",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Thot man pu",
+      "thai_script": "ทอดมันปู",
+      "english_name": "Fried crab cakes",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Thot man kung",
+      "thai_script": "ทอดมันกุ้ง",
+      "english_name": "Fried prawn cakes",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Tod Mun Hua Plee",
+      "thai_script": "ทอดมันหัวปลี",
+      "english_name": "Fried banana blossom fritters",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Thung thong",
+      "thai_script": "ถุงทอง",
+      "english_name": "Money bag",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Tua mai thot",
+      "thai_script": "ตัวไหมทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "La tiang",
+      "thai_script": "ล่าเตียง",
+      "english_name": "Omelette with Minced Shrimp",
+      "region": "",
+      "major_grouping": "Savory snacks",
+      "minor_grouping": "Savory snacks"
+    },
+    {
+      "thai_name": "Chao guay",
+      "thai_script": "เฉาก๊วย",
+      "english_name": "Grass jelly",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Dara thong",
+      "thai_script": "ดาราทอง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Foi thong",
+      "thai_script": "ฝอยทอง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom bua loi",
+      "thai_script": "ขนมบัวลอย",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom chan",
+      "thai_script": "ขนมชั้น",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom farang kudi chin",
+      "thai_script": "ขนมฝรั่งกุฎีจีน",
+      "english_name": "\"Foreigner's snack of the Chinese church\"",
+      "region": "Bangkok",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom khrok",
+      "thai_script": "ขนมครก",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom mo kaeng",
+      "thai_script": "ขนมหม้อแกง",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom piak pun",
+      "thai_script": "ขนมเปียกปูน",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom tako",
+      "thai_script": "ขนมตะโก้",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom tako phueak",
+      "thai_script": "ขนมตะโก้เผือก",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom tan",
+      "thai_script": "ขนมตาล",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom thuai talai",
+      "thai_script": "ขนมถ้วยตะไล",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom tom",
+      "thai_script": "ขนมต้ม",
+      "english_name": "",
+      "region": "Central",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom tom",
+      "thai_script": "ขนมต้ม",
+      "english_name": "",
+      "region": "South",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khanom wun",
+      "thai_script": "ขนมวุ้น",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khao niao mamuang",
+      "thai_script": "ข้าวเหนียวมะม่วง",
+      "english_name": "Mango with sticky rice",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khao niao sangkhaya",
+      "thai_script": "ข้าวเหนียวสังขยา",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Khao tom mat",
+      "thai_script": "ข้าวต้มมัด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Kluai thot",
+      "thai_script": "กล้วยทอด",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Kraya sat",
+      "thai_script": "กระยาสารท",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Lot chong nam kathi",
+      "thai_script": "ลอดช่องน้ำกะทิ",
+      "english_name": "Cendol",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Mamuang dong",
+      "thai_script": "มะม่วงดอง",
+      "english_name": "Pickled mango",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Roti kluai",
+      "thai_script": "โรตีกล้วย",
+      "english_name": "Roti with banana",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Roti sai mai",
+      "thai_script": "โรตีสายไหม",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Ruam mit",
+      "thai_script": "รวมมิตร",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Sangkhaya fak thong",
+      "thai_script": "สังขยาฟักทอง",
+      "english_name": "Stuffed pumpkin",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Sakhu thua dam",
+      "thai_script": "สาคูถั่วดำ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "That khai",
+      "thai_script": "ทาร์ตไข่",
+      "english_name": "Egg tart",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Sakhu sai mu",
+      "thai_script": "สาคูไส้หมู",
+      "english_name": "Tapioca Balls with Pork Filling",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Thong yip",
+      "thai_script": "ทองหยิบ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Sweet snacks",
+      "minor_grouping": "Sweet snacks"
+    },
+    {
+      "thai_name": "Cha dam yen",
+      "thai_script": "ชาดำเย็น",
+      "english_name": "Black iced tea",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Cha manao",
+      "thai_script": "ชามะนาว",
+      "english_name": "Lime flavored tea",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Cha ron",
+      "thai_script": "ชาร้อน",
+      "english_name": "Thai hot tea",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Nam wan",
+      "thai_script": "น้ำหวาน",
+      "english_name": "Concentrated artificial fruit-flavored syrup",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Cha yen",
+      "thai_script": "ชาเย็น",
+      "english_name": "Thai iced tea",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Kafae boran",
+      "thai_script": "กาแฟโบราณ",
+      "english_name": "",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Krating Daeng",
+      "thai_script": "กระทิงแดง",
+      "english_name": "Thai red bull",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Lao khao",
+      "thai_script": "เหล้าขาว",
+      "english_name": "Rice vodka",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Lao Mae Khong",
+      "thai_script": "เหล้าแม่โขง",
+      "english_name": "Mekhong whiskey",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Nam bai bua bok",
+      "thai_script": "น้ำใบบัวบก",
+      "english_name": "Gotu kola juice",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Nam dok anchan",
+      "thai_script": "น้ำดอกอัญชัน",
+      "english_name": "Clitoria ternatea drink",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Nam manao",
+      "thai_script": "น้ำมะนาว",
+      "english_name": "Lime drink",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Nam phan",
+      "thai_script": "น้ำพันช์",
+      "english_name": "Thai",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Nam takhrai",
+      "thai_script": "น้ำตะไคร้",
+      "english_name": "Lemongrass",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Oliang",
+      "thai_script": "โอเลี้ยง",
+      "english_name": "Iced black coffee",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Saeng som",
+      "thai_script": "แสงโสม",
+      "english_name": "Sang Som",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    },
+    {
+      "thai_name": "Satho",
+      "thai_script": "สาโท",
+      "english_name": "Thai rice wine",
+      "region": "",
+      "major_grouping": "Drinks",
+      "minor_grouping": "Drinks"
+    }
+  ],
+  "meta": {
+    "title": "อาหารไทย (328 เมนู) - ดาวน์โหลดฟรี",
+    "description": "รายชื่ออาหารไทย 328 เมนู ทั้งชื่อภาษาไทยและอังกฤษ พร้อมภูมิภาคและประเภท มีทั้งหมด 328 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "อาหารไทย (328 เมนู) | ListBase",
+    "seo_description": "ดาวน์โหลด อาหารไทย (328 เมนู) — 328 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 328 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "id": "thai-consonants",
+  "name": "พยัญชนะไทย 44 ตัว",
+  "title": "พยัญชนะไทย 44 ตัว (ไตรยางศ์)",
+  "description": "ตารางพยัญชนะไทย 44 ตัว พร้อมการแบ่งอักษร 3 หมู่ (ไตรยางศ์) ตามหลักราชบัณฑิตยสภา",
+  "category": "language",
+  "source": "สำนักงานราชบัณฑิตยสภา",
+  "source_url": "https://www.royin.go.th/",
+  "updated": "2026-02",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "letter",
+      "label": "พยัญชนะ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อเรียกย่อ",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "ชื่อเรียกเต็ม",
+      "type": "string"
+    },
+    {
+      "key": "class",
+      "label": "หมู่ระดับเสียง",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "สถานะการใช้งาน",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "letter": "ก",
+      "name_th": "ไก่",
+      "name_full": "ก ไก่",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ข",
+      "name_th": "ไข่",
+      "name_full": "ข ไข่",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฃ",
+      "name_th": "ขวด",
+      "name_full": "ฃ ขวด",
+      "class": "สูง",
+      "status": "เลิกใช้งาน"
+    },
+    {
+      "letter": "ค",
+      "name_th": "ควาย",
+      "name_full": "ค ควาย",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฅ",
+      "name_th": "คน",
+      "name_full": "ฅ คน",
+      "class": "ต่ำคู่",
+      "status": "เลิกใช้งาน"
+    },
+    {
+      "letter": "ฆ",
+      "name_th": "ระฆัง",
+      "name_full": "ฆ ระฆัง",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ง",
+      "name_th": "งู",
+      "name_full": "ง งู",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "จ",
+      "name_th": "จาน",
+      "name_full": "จ จาน",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฉ",
+      "name_th": "ฉิ่ง",
+      "name_full": "ฉ ฉิ่ง",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ช",
+      "name_th": "ช้าง",
+      "name_full": "ช ช้าง",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ซ",
+      "name_th": "โซ่",
+      "name_full": "ซ โซ่",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฌ",
+      "name_th": "เฌอ",
+      "name_full": "ฌ เฌอ",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ญ",
+      "name_th": "หญิง",
+      "name_full": "ญ หญิง",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฎ",
+      "name_th": "ชฎา",
+      "name_full": "ฎ ชฎา",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฏ",
+      "name_th": "ปฏัก",
+      "name_full": "ฏ ปฏัก",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฐ",
+      "name_th": "ฐาน",
+      "name_full": "ฐ ฐาน",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฑ",
+      "name_th": "มณโฑ",
+      "name_full": "ฑ นางมณโฑ",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฒ",
+      "name_th": "ผู้เฒ่า",
+      "name_full": "ฒ ผู้เฒ่า",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ณ",
+      "name_th": "เณร",
+      "name_full": "ณ เณร",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ด",
+      "name_th": "เด็ก",
+      "name_full": "ด เด็ก",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ต",
+      "name_th": "เต่า",
+      "name_full": "ต เต่า",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ถ",
+      "name_th": "ถุง",
+      "name_full": "ถ ถุง",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ท",
+      "name_th": "ทหาร",
+      "name_full": "ท ทหาร",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ธ",
+      "name_th": "ธง",
+      "name_full": "ธ ธง",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "น",
+      "name_th": "หนู",
+      "name_full": "น หนู",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "บ",
+      "name_th": "ใบไม้",
+      "name_full": "บ ใบไม้",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ป",
+      "name_th": "ปลา",
+      "name_full": "ป ปลา",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ผ",
+      "name_th": "ผึ้ง",
+      "name_full": "ผ ผึ้ง",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฝ",
+      "name_th": "ฝา",
+      "name_full": "ฝ ฝา",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "พ",
+      "name_th": "พาน",
+      "name_full": "พ พาน",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฟ",
+      "name_th": "ฟัน",
+      "name_full": "ฟ ฟัน",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ภ",
+      "name_th": "สำเภา",
+      "name_full": "ภ สำเภา",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ม",
+      "name_th": "ม้า",
+      "name_full": "ม ม้า",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ย",
+      "name_th": "ยักษ์",
+      "name_full": "ย ยักษ์",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ร",
+      "name_th": "เรือ",
+      "name_full": "ร เรือ",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ล",
+      "name_th": "ลิง",
+      "name_full": "ล ลิง",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ว",
+      "name_th": "แหวน",
+      "name_full": "ว แหวน",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ศ",
+      "name_th": "ศาลา",
+      "name_full": "ศ ศาลา",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ษ",
+      "name_th": "ฤๅษี",
+      "name_full": "ษ ฤๅษี",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ส",
+      "name_th": "เสือ",
+      "name_full": "ส เสือ",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ห",
+      "name_th": "หีบ",
+      "name_full": "ห หีบ",
+      "class": "สูง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฬ",
+      "name_th": "จุฬา",
+      "name_full": "ฬ จุฬา",
+      "class": "ต่ำเดี่ยว",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "อ",
+      "name_th": "อ่าง",
+      "name_full": "อ อ่าง",
+      "class": "กลาง",
+      "status": "ใช้งานปกติ"
+    },
+    {
+      "letter": "ฮ",
+      "name_th": "นกฮูก",
+      "name_full": "ฮ นกฮูก",
+      "class": "ต่ำคู่",
+      "status": "ใช้งานปกติ"
+    }
+  ],
+  "meta": {
+    "title": "พยัญชนะไทย 44 ตัว (ไตรยางศ์) - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "ตารางพยัญชนะไทย 44 ตัว พร้อมการแบ่งอักษร 3 หมู่ (ไตรยางศ์) ตามหลักราชบัณฑิตยสภา มีทั้งหมด 44 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "พยัญชนะไทย 44 ตัว | Thai Open Data",
+    "seo_description": "ดาวน์โหลดพยัญชนะไทย 44 ตัว ทั้งหมด 44 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลพยัญชนะไทย 44 ตัว ทั้งหมด 44 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "แก้ไขจากเวอร์ชั่นที่ AI สร้างขึ้นซึ่งตั้ง ฆ และ ฌ ว่าเป็นอักษรไม่ได้ใช้งาน และเพิ่มการจำแนกชนิดต่ำเดี่ยว ตำ่คู่ อย่างแท้จริงตามหลักไวยากรณ์ไทย",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Manual Recovery)"
+    }
+  }
+}

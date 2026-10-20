@@ -1,0 +1,96 @@
+{
+  "id": "th-bueng-kan-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดบึงกาฬ (Bueng Kan Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดบึงกาฬ (Bueng Kan Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดบึงกาฬ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Bueng Kan province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 38000,
+      "province_code": 38,
+      "province_name_th": "บึงกาฬ",
+      "province_name_en": "Bueng Kan",
+      "districts": "3801: เมืองบึงกาฬ: Bueng Kan, 3808: บุ่งคล้า: Bung Khla",
+      "subdistricts": "380101: บึงกาฬ: Seka: 3801, 380102: โนนสมบูรณ์: Sang : 3801, 380103: โนนสว่าง: Tha Kok Daeng: 3801, 380104: หอคำ: Ban Tong: 3801, 380105: หนองเลิง: Pong Hai: 3801, 380106: โคกก่อง: Nam Chan: 3801, 380107: นาสวรรค์: Tha Sa-At: 3801, 380108: ไคสี: Nong Thum: 3801, 380109: ชัยพร: Sok Kam: 3801, 380110: วิศิษฐ์: Wisit: 3801, 380111: คำนาดี: Kham Na Di: 3801, 380112: โป่งเปือย: Pong Pueai: 3801, 380801: บุ่งคล้า: Bung Khla: 3808, 380802: หนองเดิ่น: Nong Doen: 3808, 380803: โคกกว้าง: Khok Kwang: 3808"
+    },
+    {
+      "postal_code": 38150,
+      "province_code": 38,
+      "province_name_th": "บึงกาฬ",
+      "province_name_en": "Bueng Kan",
+      "districts": "3802: พรเจริญ: Phon Charoen, 3804: เซกา: Seka",
+      "subdistricts": "380201: ศรีชมภู: Si Chomphu: 3802, 380202: ดอนหญ้านาง: Don Ya Nang : 3802, 380203: พรเจริญ: Phon Charoen: 3802, 380204: หนองหัวช้าง: Nong Hua Chang: 3802, 380205: วังชมภู: Wang Chomphu: 3802, 380206: ป่าแฝก: Pa Faek: 3802, 380207: ศรีสำราญ: Si Samran: 3802, 380401: เซกา: Pak Khat: 3804, 380402: ซาง: Nong Yong: 3804, 380403: ท่ากกแดง: Na Kang: 3804, 380404: บ้านต้อง: Non Sila: 3804, 380405: ป่งไฮ: Som Sanuk: 3804, 380406: น้ำจั้น: Na Dong: 3804, 380407: ท่าสะอาด: Tha Sa-At: 3804, 380408: หนองทุ่ม: Nong Thum: 3804, 380409: โสกก่าม: Sok Kam: 3804"
+    },
+    {
+      "postal_code": 38170,
+      "province_code": 38,
+      "province_name_th": "บึงกาฬ",
+      "province_name_en": "Bueng Kan",
+      "districts": "3803: โซ่พิสัย: So Phisai",
+      "subdistricts": "380301: โซ่: So: 3803, 380302: หนองพันทา: Nong Phan Tha: 3803, 380303: ศรีชมภู: Si Chomphu: 3803, 380304: คำแก้ว: Kham Kaeo: 3803, 380305: บัวตูม: Bua Tum: 3803, 380306: ถ้ำเจริญ: Tham Charoen: 3803, 380307: เหล่าทอง: Lao Thong: 3803"
+    },
+    {
+      "postal_code": 38190,
+      "province_code": 38,
+      "province_name_th": "บึงกาฬ",
+      "province_name_en": "Bueng Kan",
+      "districts": "3805: ปากคาด: Pak Khat, 3807: ศรีวิไล: Si Wilai",
+      "subdistricts": "380501: ปากคาด: Bueng Khong Long: 3805, 380502: หนองยอง: Pho Mak Khaeng: 3805, 380503: นากั้ง: Dong Bang: 3805, 380504: โนนศิลา: Tha Dok Kham: 3805, 380505: สมสนุก: Som Sanook: 3805, 380506: นาดง: Na Dong: 3805, 380701: ศรีวิไล: Si Wilai: 3807, 380702: ชุมภูพร: Chumphu Phon: 3807, 380703: นาแสง: Na Saeng: 3807, 380704: นาสะแบง: Na Sabaeng: 3807, 380705: นาสิงห์: Na Sing: 3807"
+    },
+    {
+      "postal_code": 38220,
+      "province_code": 38,
+      "province_name_th": "บึงกาฬ",
+      "province_name_en": "Bueng Kan",
+      "districts": "3806: บึงโขงหลง: Bueng Khong Long",
+      "subdistricts": "380601: บึงโขงหลง: Bueng Khong Long: 3806, 380602: โพธิ์หมากแข้ง: Pho Mak Khaeng: 3806, 380603: ดงบัง: Dong Bang: 3806, 380604: ท่าดอกคำ: Tha Dok Kham: 3806"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดบึงกาฬ (Bueng Kan Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดบึงกาฬ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Bueng Kan province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 5 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดบึงกาฬ (Bueng Kan Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดบึงกาฬ (Bueng Kan Postal Codes) — 5 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 5 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

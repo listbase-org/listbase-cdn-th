@@ -1,0 +1,135 @@
+{
+  "id": "th-bangkok-airports",
+  "name": "ท่าอากาศยาน — Bangkok",
+  "title": "ท่าอากาศยาน — Bangkok",
+  "description": "ท่าอากาศยานในจังหวัด Bangkok ประเทศไทย (Airports in Bangkok Province, Thailand — 2 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VTBD",
+      "iata": "DMK",
+      "name_en": "Don Mueang International Airport",
+      "name_slug": "don-mueang-international-airport",
+      "city_en": "Don Mueang",
+      "city_slug": "don-mueang",
+      "province_en": "Bangkok",
+      "province_slug": "bangkok",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 39,
+      "lat": 13.9122207,
+      "lon": 100.6035314,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    },
+    {
+      "icao": "VTBS",
+      "iata": "BKK",
+      "name_en": "Suvarnabhumi Airport",
+      "name_slug": "suvarnabhumi-airport",
+      "city_en": "Lat Krabang",
+      "city_slug": "lat-krabang",
+      "province_en": "Bangkok",
+      "province_slug": "bangkok",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 29,
+      "lat": 13.6818766,
+      "lon": 100.7485803,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "ท่าอากาศยาน — Bangkok - ดาวน์โหลดฟรี",
+    "description": "ท่าอากาศยานในจังหวัด Bangkok ประเทศไทย (Airports in Bangkok Province, Thailand — 2 record(s).) มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ท่าอากาศยาน — Bangkok | ListBase",
+    "seo_description": "ดาวน์โหลด ท่าอากาศยาน — Bangkok — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 15 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

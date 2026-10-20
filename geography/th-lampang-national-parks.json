@@ -1,0 +1,106 @@
+{
+  "id": "th-lampang-national-parks",
+  "name": "ลำปาง — อุทยานแห่งชาติในจังหวัดลำปาง (National Parks in Lampang Province)",
+  "title": "ลำปาง — อุทยานแห่งชาติในจังหวัดลำปาง (National Parks in Lampang Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดลำปาง (Lampang). 1 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Lampang appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-lampang-...' joins to th-lampang-postal-codes / th-provinces (province_code 52).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 11,
+      "name_th": "อุทยานแห่งชาติดอยหลวง",
+      "name_en": "Doi Luang National Park",
+      "name_th_short": "ดอยหลวง",
+      "name_en_short": "Doi Luang",
+      "lat": 19.2,
+      "lon": 99.71,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Rai: เชียงราย: Chiang Rai: chiang-rai: 57, Lampang: ลำปาง: Lampang: lampang: 52, Phayao: พะเยา: Phayao: phayao: 56",
+      "province_count": 3
+    }
+  ],
+  "meta": {
+    "title": "ลำปาง — อุทยานแห่งชาติในจังหวัดลำปาง (National Parks in Lampang Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดลำปาง (Lampang). 1 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Lampang appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-lampang-...' joins to th-lampang-postal-codes / th-provinces (province_code 52). มีทั้งหมด 1 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ลำปาง — อุทยานแห่งชาติในจังหวัดลำปาง (National Parks in Lampang Province) | ListBase",
+    "seo_description": "ดาวน์โหลด ลำปาง — อุทยานแห่งชาติในจังหวัดลำปาง (National Parks in Lampang Province) — 1 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 1 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

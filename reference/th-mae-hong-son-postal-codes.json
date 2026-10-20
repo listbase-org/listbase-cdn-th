@@ -1,0 +1,104 @@
+{
+  "id": "th-mae-hong-son-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดแม่ฮ่องสอน (Mae Hong Son Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดแม่ฮ่องสอน (Mae Hong Son Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดแม่ฮ่องสอน แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Mae Hong Son province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 58000,
+      "province_code": 58,
+      "province_name_th": "แม่ฮ่องสอน",
+      "province_name_en": "Mae Hong Son",
+      "districts": "5801: เมืองแม่ฮ่องสอน: Mueang Mae Hong Son",
+      "subdistricts": "580101: จองคำ: Chong Kham: 5801, 580102: ห้วยโป่ง: Huai Pong: 5801, 580103: ผาบ่อง: Pha Bong: 5801, 580104: ปางหมู: Pang Mu: 5801, 580105: หมอกจำแป่: Mok Champae: 5801, 580106: ห้วยผา: Huai Pha: 5801, 580109: ห้วยปูลิง: Huai Pu Ling: 5801"
+    },
+    {
+      "postal_code": 58110,
+      "province_code": 58,
+      "province_name_th": "แม่ฮ่องสอน",
+      "province_name_en": "Mae Hong Son",
+      "districts": "5804: แม่สะเรียง: Mae Sariang, 5806: สบเมย: Sop Moei",
+      "subdistricts": "580401: บ้านกาศ: Ban Kat: 5804, 580402: แม่สะเรียง: Mae Sariang: 5804, 580403: แม่คง: Mae Khong: 5804, 580404: แม่เหาะ: Mae Ho: 5804, 580405: แม่ยวม: Mae Yuam: 5804, 580406: เสาหิน: Sao Hin: 5804, 580408: ป่าแป๋: Pa Pae: 5804, 580601: สบเมย: Sop Moei: 5806, 580602: แม่คะตวน: Mae Khatuan: 5806, 580603: กองก๋อย: Kong Koi: 5806, 580604: แม่สวด: Mae Suat: 5806, 580605: ป่าโปง: Pa Pong: 5806, 580606: แม่สามแลบ: Mae Sam Laep: 5806"
+    },
+    {
+      "postal_code": 58120,
+      "province_code": 58,
+      "province_name_th": "แม่ฮ่องสอน",
+      "province_name_en": "Mae Hong Son",
+      "districts": "5805: แม่ลาน้อย: Mae La Noi",
+      "subdistricts": "580501: แม่ลาน้อย: Mae La Noi: 5805, 580502: แม่ลาหลวง: Mae La Luang: 5805, 580503: ท่าผาปุ้ม: Tha Pha Pum: 5805, 580504: แม่โถ: Mae Tho: 5805, 580505: ห้วยห้อม: Huai Hom: 5805, 580506: แม่นาจาง: Mae Na Chang: 5805, 580507: สันติคีรี: Santi Khiri: 5805, 580508: ขุนแม่ลาน้อย: Khun Mae La Noi: 5805"
+    },
+    {
+      "postal_code": 58130,
+      "province_code": 58,
+      "province_name_th": "แม่ฮ่องสอน",
+      "province_name_en": "Mae Hong Son",
+      "districts": "5803: ปาย: Pai",
+      "subdistricts": "580301: เวียงใต้: Wiang Tai: 5803, 580302: เวียงเหนือ: Wiang Nuea: 5803, 580303: แม่นาเติง: Mae Na Toeng: 5803, 580304: แม่ฮี้: Mae Hi: 5803, 580305: ทุ่งยาว: Thung Yao: 5803, 580306: เมืองแปง: Mueang Paeng: 5803, 580307: โป่งสา: Pong Sa: 5803"
+    },
+    {
+      "postal_code": 58140,
+      "province_code": 58,
+      "province_name_th": "แม่ฮ่องสอน",
+      "province_name_en": "Mae Hong Son",
+      "districts": "5802: ขุนยวม: Khun Yuam",
+      "subdistricts": "580201: ขุนยวม: Khun Yuam: 5802, 580202: แม่เงา: Mae Ngao: 5802, 580203: เมืองปอน: Mueang Pon: 5802, 580204: แม่ยวมน้อย: Mae Yuam Noi: 5802, 580205: แม่กิ๊: Mae Ki: 5802, 580206: แม่อูคอ: Mae U Kho: 5802"
+    },
+    {
+      "postal_code": 58150,
+      "province_code": 58,
+      "province_name_th": "แม่ฮ่องสอน",
+      "province_name_en": "Mae Hong Son",
+      "districts": "5807: ปางมะผ้า: Pang Mapha",
+      "subdistricts": "580701: สบป่อง: Sop Pong: 5807, 580702: ปางมะผ้า: Pang Mapha: 5807, 580703: ถ้ำลอด: Tham Lot: 5807, 580704: นาปู่ป้อม: Na Pu Pom: 5807"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดแม่ฮ่องสอน (Mae Hong Son Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดแม่ฮ่องสอน แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Mae Hong Son province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดแม่ฮ่องสอน (Mae Hong Son Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดแม่ฮ่องสอน (Mae Hong Son Postal Codes) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

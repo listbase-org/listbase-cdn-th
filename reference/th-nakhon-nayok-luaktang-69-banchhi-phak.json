@@ -1,0 +1,968 @@
+{
+  "id": "th-nakhon-nayok-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครนายก (Nakhon Nayok party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครนายก (Nakhon Nayok party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครนายก. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2187
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4209
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 592
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 201
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 761
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2601
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 77
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 482
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 7376
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 638
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3870
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 654
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 486
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 152
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 61
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 88
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6018
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 159
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 640
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 231
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 254
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 158
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 190
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 101
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15677
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 116
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 86
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2261
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 209
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 56
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22429
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 122
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 355
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 252
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 62
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 74
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 277
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1660
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 501
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2352
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 944
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 5049
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 111
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 662
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8738
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 671
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3859
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 486
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 652
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 164
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 248
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 53
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 55
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 76
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 111
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 84
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6609
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 188
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 605
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 296
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 148
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 117
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 330
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 157
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 278
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 221
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 16575
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 109
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 61
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1363
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 266
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 65
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23599
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 154
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 349
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 216
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 67
+    },
+    {
+      "changwat_code": "26",
+      "changwat": "นครนายก",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 100
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครนายก (Nakhon Nayok party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครนายก. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 114 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครนายก (Nakhon Nayok party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครนายก (Nakhon Nayok party-list ballots) — 114 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 114 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

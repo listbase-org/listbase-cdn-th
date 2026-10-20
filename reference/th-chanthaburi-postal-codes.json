@@ -1,0 +1,144 @@
+{
+  "id": "th-chanthaburi-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดจันทบุรี (Chanthaburi Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดจันทบุรี (Chanthaburi Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดจันทบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chanthaburi province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 22000,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2201: เมืองจันทบุรี: Mueang Chanthaburi",
+      "subdistricts": "220101: ตลาด: Talat: 2201, 220102: วัดใหม่: Wat Mai: 2201, 220103: คลองนารายณ์: Khlong Narai: 2201, 220104: เกาะขวาง: Ko Khwang: 2201, 220105: คมบาง: Kom Bang: 2201, 220106: ท่าช้าง: Tha Chang: 2201, 220107: จันทนิมิต: Chanthanimit: 2201, 220108: บางกะจะ: Bang Kacha: 2201, 220109: แสลง: Salaeng: 2201, 220110: หนองบัว: Nong Bua: 2201, 220111: พลับพลา: Phlapphla: 2201"
+    },
+    {
+      "postal_code": 22110,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2202: ขลุง: Khlung",
+      "subdistricts": "220201: ขลุง: Khlung: 2202, 220202: บ่อ: Bo: 2202, 220203: เกวียนหัก: Kwian Hak: 2202, 220204: ตะปอน: Tapon: 2202, 220205: บางชัน: Bang Chan: 2202, 220206: วันยาว: Wan Yao: 2202, 220207: ซึ้ง: Sueng: 2202, 220208: มาบไพ: Map Phai: 2202, 220209: วังสรรพรส: Wang Sappharot: 2202, 220210: ตรอกนอง: Trok Nong: 2202, 220211: ตกพรม: Tok Phrom: 2202"
+    },
+    {
+      "postal_code": 22120,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2203: ท่าใหม่: Tha Mai, 2206: แหลมสิงห์: Laem Sing",
+      "subdistricts": "220301: ท่าใหม่: Tha Mai: 2203, 220302: ยายร้า: Yai Ra: 2203, 220303: สีพยา: Si Phaya: 2203, 220304: บ่อพุ: Bo Phu: 2203, 220305: พลอยแหวน: Phloi Waen: 2203, 220306: เขาวัว: Khao Wua: 2203, 220307: เขาบายศรี: Khao Baisi: 2203, 220308: สองพี่น้อง: Song Phi Nong: 2203, 220313: ตะกาดเง้า: Takat Ngao: 2203, 220314: คลองขุด: Khlong Khut: 2203, 220607: บางกะไชย: Bang Kachai: 2206"
+    },
+    {
+      "postal_code": 22130,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2206: แหลมสิงห์: Laem Sing",
+      "subdistricts": "220601: ปากน้ำแหลมสิงห์: Pak Nam Laem Sing: 2206, 220602: เกาะเปริด: Ko Proet: 2206, 220603: หนองชิ่ม: Nong Chim: 2206"
+    },
+    {
+      "postal_code": 22140,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2204: โป่งน้ำร้อน: Pong Nam Ron",
+      "subdistricts": "220401: ทับไทร: Thap Sai: 2204, 220402: โป่งน้ำร้อน: Pong Nam Ron: 2204, 220404: หนองตาคง: Nong Ta Khong: 2204, 220409: เทพนิมิต: Thep Nimit: 2204, 220410: คลองใหญ่: Khlong Yai: 2204"
+    },
+    {
+      "postal_code": 22150,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2202: ขลุง: Khlung, 2205: มะขาม: Makham",
+      "subdistricts": "220212: บ่อเวฬุ: Bo Weru: 2202, 220501: มะขาม: Makham: 2205, 220502: ท่าหลวง: Tha Luang: 2205, 220503: ปัถวี: Patthawi: 2205, 220504: วังแซ้ม: Wang Saem: 2205, 220506: ฉมัน: Cha Man: 2205, 220508: อ่างคีรี: Ang Khiri: 2205"
+    },
+    {
+      "postal_code": 22160,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2208: แก่งหางแมว: Kaeng Hang Maeo, 2209: นายายอาม: Na Yai Am",
+      "subdistricts": "220801: แก่งหางแมว: Kaeng Hang Maeo: 2208, 220802: ขุนซ่อง: Khun Song: 2208, 220803: สามพี่น้อง: Sam Phi Nong: 2208, 220804: พวา: Phawa: 2208, 220805: เขาวงกต: Khao Wongkot: 2208, 220901: นายายอาม: Na Yai Am: 2209, 220905: ช้างข้าม: Chang Kham: 2209"
+    },
+    {
+      "postal_code": 22170,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2203: ท่าใหม่: Tha Mai, 2209: นายายอาม: Na Yai Am",
+      "subdistricts": "220309: ทุ่งเบญจา: Thung Bencha: 2203, 220311: รำพัน: Ramphan: 2203, 220312: โขมง: Khamong: 2203, 220324: เขาแก้ว: Khao Kaeo: 2203, 220902: วังโตนด: Wang Tanot: 2209, 220903: กระแจะ: Krachae: 2209, 220904: สนามไชย: Sanam Chai: 2209, 220906: วังใหม่: Wang Mai: 2209"
+    },
+    {
+      "postal_code": 22180,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2207: สอยดาว: Soi Dao",
+      "subdistricts": "220701: ปะตง: Patong: 2207, 220702: ทุ่งขนาน: Thung Khanan: 2207, 220703: ทับช้าง: Thap Chang: 2207, 220704: ทรายขาว: Sai Khao: 2207, 220705: สะตอน: Saton: 2207"
+    },
+    {
+      "postal_code": 22190,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2206: แหลมสิงห์: Laem Sing",
+      "subdistricts": "220604: พลิ้ว: Phlio: 2206, 220605: คลองน้ำเค็ม: Khlong Nam Khem: 2206, 220606: บางสระเก้า: Bang Sa Kao: 2206"
+    },
+    {
+      "postal_code": 22210,
+      "province_code": 22,
+      "province_name_th": "จันทบุรี",
+      "province_name_en": "Chanthaburi",
+      "districts": "2210: เขาคิชฌกูฏ: Khao Khitchakut",
+      "subdistricts": "221001: ชากไทย: Chak Thai: 2210, 221002: พลวง: Phluang: 2210, 221003: ตะเคียนทอง: Takhian Thong: 2210, 221004: คลองพลู: Khlong Phlu: 2210, 221005: จันทเขลม: Chanthakhlem: 2210"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดจันทบุรี (Chanthaburi Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดจันทบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chanthaburi province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 11 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดจันทบุรี (Chanthaburi Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดจันทบุรี (Chanthaburi Postal Codes) — 11 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 11 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

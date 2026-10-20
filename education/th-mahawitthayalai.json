@@ -1,0 +1,736 @@
+{
+  "id": "th-mahawitthayalai",
+  "name": "ประเทศไทย — มหาวิทยาลัยและสถาบันอุดมศึกษา",
+  "title": "ประเทศไทย — มหาวิทยาลัยและสถาบันอุดมศึกษา",
+  "description": "รายชื่อมหาวิทยาลัยและสถาบันอุดมศึกษาในประเทศไทย แต่ละรายการประกอบด้วยชื่อสถาบัน (ภาษาอังกฤษ) โดเมนหลักที่จดทะเบียน รายการโดเมนทั้งหมด เว็บไซต์หลัก รหัสประเทศ (ISO-3166-1 alpha-2) และเขตการปกครอง (state/province) เมื่อมีข้อมูลในแหล่งต้นทาง คัดกรองจากชุดข้อมูลโลก Hipo/university-domains-list (country == \"Thailand\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Asia-Pacific International University",
+      "slug": "asia-pacific-international",
+      "domain": "apiu.edu",
+      "domains": "apiu.edu",
+      "web_page": "https://www.apiu.edu/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Saraburi"
+    },
+    {
+      "name": "Asian Institute of Technology",
+      "slug": "asian-institute-technology",
+      "domain": "ait.ac.th",
+      "domains": "ait.ac.th",
+      "web_page": "https://www.ait.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Pathum Thani"
+    },
+    {
+      "name": "Asian University",
+      "slug": "asian",
+      "domain": "efau.org",
+      "domains": "efau.org",
+      "web_page": "http://www.asianu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chon Buri"
+    },
+    {
+      "name": "Asian University of Science and Technology",
+      "slug": "asian-science-technology",
+      "domain": "asianust.ac.th",
+      "domains": "asianust.ac.th",
+      "web_page": "http://www.asianust.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chon Buri"
+    },
+    {
+      "name": "Assumption University of Thailand",
+      "slug": "assumption-thailand",
+      "domain": "au.edu",
+      "domains": "au.edu",
+      "web_page": "https://www.au.edu/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Bangkok University",
+      "slug": "bangkok",
+      "domain": "bu.ac.th",
+      "domains": "bu.ac.th",
+      "web_page": "https://www.bu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Burapha University",
+      "slug": "burapha",
+      "domain": "buu.ac.th",
+      "domains": "buu.ac.th",
+      "web_page": "https://www.buu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chon Buri"
+    },
+    {
+      "name": "Chaopraya University",
+      "slug": "chaopraya",
+      "domain": "cpu.ac.th",
+      "domains": "cpu.ac.th",
+      "web_page": "http://www.cpu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nakhon Sawan"
+    },
+    {
+      "name": "Chiang Mai Rajabhat University",
+      "slug": "chiang-mai-rajabhat",
+      "domain": "cmru.ac.th",
+      "domains": "cmru.ac.th",
+      "web_page": "https://www.cmru.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chiang Mai"
+    },
+    {
+      "name": "Chiang Mai University",
+      "slug": "chiang-mai",
+      "domain": "cmu.ac.th",
+      "domains": "cmu.ac.th",
+      "web_page": "https://www.cmu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chiang Mai"
+    },
+    {
+      "name": "Chiang Mai Vocational College",
+      "slug": "chiang-mai-vocational-college",
+      "domain": "cmvc.ac.th",
+      "domains": "cmvc.ac.th",
+      "web_page": "http://www.cmvc.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chiang Mai"
+    },
+    {
+      "name": "Chulalongkorn University",
+      "slug": "chulalongkorn",
+      "domain": "chula.ac.th",
+      "domains": "chula.ac.th",
+      "web_page": "https://www.chula.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Dhurakijpundit University",
+      "slug": "dhurakijpundit",
+      "domain": "dpu.ac.th",
+      "domains": "dpu.ac.th",
+      "web_page": "https://www.dpu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Eastern Asia University",
+      "slug": "eastern-asia",
+      "domain": "eau.ac.th",
+      "domains": "eau.ac.th",
+      "web_page": "https://www.eau.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Pathum Thani"
+    },
+    {
+      "name": "Hatyai University",
+      "slug": "hatyai",
+      "domain": "hu.ac.th",
+      "domains": "hu.ac.th",
+      "web_page": "http://www.hu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Songkhla"
+    },
+    {
+      "name": "Huachiew Chalermprakiet University",
+      "slug": "huachiew-chalermprakiet",
+      "domain": "hcu.ac.th",
+      "domains": "hcu.ac.th",
+      "web_page": "https://www.hcu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Samut Prakarn"
+    },
+    {
+      "name": "International Buddhist College",
+      "slug": "international-buddhist-college",
+      "domain": "ibc.ac.th",
+      "domains": "ibc.ac.th",
+      "web_page": "https://www.ibc.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "SongKhla"
+    },
+    {
+      "name": "Kasem Bundit University",
+      "slug": "kasem-bundit",
+      "domain": "kbu.ac.th",
+      "domains": "kbu.ac.th",
+      "web_page": "https://www.kbu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Kasetsart University",
+      "slug": "kasetsart",
+      "domain": "ku.ac.th",
+      "domains": "ku.ac.th",
+      "web_page": "https://www.ku.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Khon Kaen University",
+      "slug": "khon-kaen",
+      "domain": "kku.ac.th",
+      "domains": "kku.ac.th",
+      "web_page": "https://www.kku.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Khon Kaen"
+    },
+    {
+      "name": "King Mongkut's Institute of Technology Ladkrabang",
+      "slug": "king-mongkut-s-institute-technology-ladkrabang",
+      "domain": "kmitl.ac.th",
+      "domains": "kmitl.ac.th",
+      "web_page": "http://www.kmitl.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "King Mongkut's University of Technology North Bangkok",
+      "slug": "king-mongkut-s-technology-north-bangkok",
+      "domain": "kmutnb.ac.th",
+      "domains": "kmutnb.ac.th",
+      "web_page": "https://www.kmutnb.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "King Mongkut's University of Technology Thonburi",
+      "slug": "king-mongkut-s-technology-thonburi",
+      "domain": "kmutt.ac.th",
+      "domains": "kmutt.ac.th",
+      "web_page": "https://www.kmutt.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Krirk University",
+      "slug": "krirk",
+      "domain": "krirk.ac.th",
+      "domains": "krirk.ac.th",
+      "web_page": "https://www.krirk.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Lampang College of Commerce and Technology",
+      "slug": "lampang-college-commerce-technology",
+      "domain": "lcct.ac.th",
+      "domains": "lcct.ac.th",
+      "web_page": "http://www.lcct.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Lampang"
+    },
+    {
+      "name": "Lampang Rajabhat University",
+      "slug": "lampang-rajabhat",
+      "domain": "lpru.ac.th",
+      "domains": "lpru.ac.th",
+      "web_page": "https://www.lpru.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Lampang"
+    },
+    {
+      "name": "Lampang Vocational College",
+      "slug": "lampang-vocational-college",
+      "domain": "lampangvc.ac.th",
+      "domains": "lampangvc.ac.th",
+      "web_page": "http://www.lampangvc.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Lampang"
+    },
+    {
+      "name": "Lamphun College of Agriculture and Technology",
+      "slug": "lamphun-college-agriculture-technology",
+      "domain": "lcat.ac.th",
+      "domains": "lcat.ac.th",
+      "web_page": "http://www.lcat.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Lamphun"
+    },
+    {
+      "name": "Mae Fah Luang University",
+      "slug": "mae-fah-luang",
+      "domain": "mfu.ac.th",
+      "domains": "mfu.ac.th",
+      "web_page": "https://www.mfu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chiang Rai"
+    },
+    {
+      "name": "Maejo University",
+      "slug": "maejo",
+      "domain": "mju.ac.th",
+      "domains": "mju.ac.th",
+      "web_page": "https://www.mju.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chiang Mai"
+    },
+    {
+      "name": "Mahachulalongkorn Buddhist University",
+      "slug": "mahachulalongkorn-buddhist",
+      "domain": "mcu.ac.th",
+      "domains": "mcu.ac.th",
+      "web_page": "https://www.mcu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Mahamakut Buddhist University",
+      "slug": "mahamakut-buddhist",
+      "domain": "mbu.ac.th",
+      "domains": "mbu.ac.th",
+      "web_page": "http://www.mbu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nakhon Pathom"
+    },
+    {
+      "name": "Mahanakorn University of Technology",
+      "slug": "mahanakorn-technology",
+      "domain": "mut.ac.th",
+      "domains": "mut.ac.th",
+      "web_page": "http://www.mut.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Mahasarakham University",
+      "slug": "mahasarakham",
+      "domain": "msu.ac.th",
+      "domains": "msu.ac.th",
+      "web_page": "http://www.msu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Mahasarakham"
+    },
+    {
+      "name": "Mahidol University",
+      "slug": "mahidol",
+      "domain": "mahidol.ac.th",
+      "domains": "mahidol.ac.th",
+      "web_page": "https://www.mahidol.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nakhon Pathom"
+    },
+    {
+      "name": "Mahidol University International College",
+      "slug": "mahidol-international-college",
+      "domain": "muic.mahidol.ac.th",
+      "domains": "muic.mahidol.ac.th",
+      "web_page": "https://www.muic.mahidol.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nakhon Pathom"
+    },
+    {
+      "name": "Naresuan University",
+      "slug": "naresuan",
+      "domain": "nu.ac.th",
+      "domains": "nu.ac.th",
+      "web_page": "https://www.nu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Phitsanulok"
+    },
+    {
+      "name": "Nation University",
+      "slug": "nation",
+      "domain": "nation.ac.th",
+      "domains": "nation.ac.th",
+      "web_page": "http://www.nation.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Lampang"
+    },
+    {
+      "name": "National Institute of Development Administration",
+      "slug": "national-institute-development-administration",
+      "domain": "nida.ac.th",
+      "domains": "nida.ac.th",
+      "web_page": "http://www.nida.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Nivadhana University",
+      "slug": "nivadhana",
+      "domain": "nivadhana.ac.th",
+      "domains": "nivadhana.ac.th",
+      "web_page": "http://www.nivadhana.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Lamphun"
+    },
+    {
+      "name": "Pathumthani University",
+      "slug": "pathumthani",
+      "domain": "ptu.ac.th",
+      "domains": "ptu.ac.th",
+      "web_page": "https://www.ptu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Pathum Thani"
+    },
+    {
+      "name": "Payap University Chaiang Mai",
+      "slug": "payap-chaiang-mai",
+      "domain": "payap.ac.th",
+      "domains": "payap.ac.th",
+      "web_page": "https://www.payap.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chiang Mai"
+    },
+    {
+      "name": "Phranakhon Si Ayutthaya Rajabhat University",
+      "slug": "phranakhon-si-ayutthaya-rajabhat",
+      "domain": "aru.ac.th",
+      "domains": "aru.ac.th",
+      "web_page": "https://www.aru.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Phra Nakhon Si Ayutthaya"
+    },
+    {
+      "name": "Prince of Songkla University",
+      "slug": "prince-songkla",
+      "domain": "psu.ac.th",
+      "domains": "psu.ac.th",
+      "web_page": "https://www.psu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Songkhla"
+    },
+    {
+      "name": "Rajamangala University of Technology, Lanna Chiang Rai",
+      "slug": "rajamangala-technology-lanna-chiang-rai",
+      "domain": "chiangraicampus.rmutl.ac.th",
+      "domains": "chiangraicampus.rmutl.ac.th",
+      "web_page": "http://chiangraicampus.rmutl.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Chiang Rai"
+    },
+    {
+      "name": "Rajamangala University of Technology, Lanna Nan",
+      "slug": "rajamangala-technology-lanna-nan",
+      "domain": "nan.rmutl.ac.th",
+      "domains": "nan.rmutl.ac.th",
+      "web_page": "https://www.nan.rmutl.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nan"
+    },
+    {
+      "name": "Rajamangala University of Technology, Phra Nakhon",
+      "slug": "rajamangala-technology-phra-nakhon",
+      "domain": "rmutp.ac.th",
+      "domains": "rmutp.ac.th",
+      "web_page": "https://www.rmutp.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Ramkhamhaeng University",
+      "slug": "ramkhamhaeng",
+      "domain": "ru.ac.th",
+      "domains": "ru.ac.th",
+      "web_page": "https://www.ru.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Rangsit University",
+      "slug": "rangsit",
+      "domain": "rsu.ac.th",
+      "domains": "rsu.ac.th",
+      "web_page": "https://www2.rsu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Pathum Thani"
+    },
+    {
+      "name": "Shinawatra University",
+      "slug": "shinawatra",
+      "domain": "shinawatra.ac.th",
+      "domains": "shinawatra.ac.th",
+      "web_page": "http://www.shinawatra.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Pathum Thani"
+    },
+    {
+      "name": "Siam University",
+      "slug": "siam",
+      "domain": "siam.edu",
+      "domains": "siam.edu",
+      "web_page": "https://www.siam.edu/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Silpakorn University",
+      "slug": "silpakorn",
+      "domain": "su.ac.th",
+      "domains": "su.ac.th, silpakorn.edu",
+      "web_page": "https://www.su.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "South-East Asia University",
+      "slug": "south-east-asia",
+      "domain": "sau.ac.th",
+      "domains": "sau.ac.th",
+      "web_page": "https://www.sau.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Srinakharinwirot University",
+      "slug": "srinakharinwirot",
+      "domain": "swu.ac.th",
+      "domains": "swu.ac.th",
+      "web_page": "https://www.swu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Sripatum University",
+      "slug": "sripatum",
+      "domain": "spu.ac.th",
+      "domains": "spu.ac.th",
+      "web_page": "https://www.spu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "St. John's University",
+      "slug": "st-john-s",
+      "domain": "stjohn.ac.th",
+      "domains": "stjohn.ac.th",
+      "web_page": "https://www.stjohn.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Stamford International University",
+      "slug": "stamford-international",
+      "domain": "stamford.edu",
+      "domains": "stamford.edu",
+      "web_page": "https://www.stamford.edu/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Suan Dusit Rajabhat University",
+      "slug": "suan-dusit-rajabhat",
+      "domain": "dusit.ac.th",
+      "domains": "dusit.ac.th",
+      "web_page": "http://www.dusit.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Sukhothai Thammathirat Open University",
+      "slug": "sukhothai-thammathirat-open",
+      "domain": "stou.ac.th",
+      "domains": "stou.ac.th",
+      "web_page": "https://www.stou.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nonthaburi"
+    },
+    {
+      "name": "Suranaree University of Technology",
+      "slug": "suranaree-technology",
+      "domain": "sut.ac.th",
+      "domains": "sut.ac.th",
+      "web_page": "http://www.sut.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nakhon Ratchasima"
+    },
+    {
+      "name": "Thaksin University",
+      "slug": "thaksin",
+      "domain": "tsu.ac.th",
+      "domains": "tsu.ac.th",
+      "web_page": "https://www.tsu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Songkhla"
+    },
+    {
+      "name": "Thammasat University",
+      "slug": "thammasat",
+      "domain": "tu.ac.th",
+      "domains": "tu.ac.th",
+      "web_page": "https://www.tu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Ubonratchathani University",
+      "slug": "ubonratchathani",
+      "domain": "ubu.ac.th",
+      "domains": "ubu.ac.th",
+      "web_page": "https://www.ubu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Ubonratchathani"
+    },
+    {
+      "name": "University of the Thai Chamber of Commerce",
+      "slug": "thai-chamber-commerce",
+      "domain": "utcc.ac.th",
+      "domains": "utcc.ac.th",
+      "web_page": "https://www.utcc.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Bangkok"
+    },
+    {
+      "name": "Vongchavalitkul University",
+      "slug": "vongchavalitkul",
+      "domain": "vu.ac.th",
+      "domains": "vu.ac.th",
+      "web_page": "https://www.vu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nakhon Ratchasima"
+    },
+    {
+      "name": "Walailak University",
+      "slug": "walailak",
+      "domain": "wu.ac.th",
+      "domains": "wu.ac.th",
+      "web_page": "https://www.wu.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Nakhon Si Thammarat"
+    },
+    {
+      "name": "Webster University, Thailand",
+      "slug": "webster-thailand",
+      "domain": "webster.ac.th",
+      "domains": "webster.ac.th",
+      "web_page": "https://www.webster.ac.th/",
+      "country": "Thailand",
+      "country_code": "TH",
+      "state_province": "Petchaburi"
+    }
+  ],
+  "meta": {
+    "title": "ประเทศไทย — มหาวิทยาลัยและสถาบันอุดมศึกษา - ดาวน์โหลดฟรี",
+    "description": "รายชื่อมหาวิทยาลัยและสถาบันอุดมศึกษาในประเทศไทย แต่ละรายการประกอบด้วยชื่อสถาบัน (ภาษาอังกฤษ) โดเมนหลักที่จดทะเบียน รายการโดเมนทั้งหมด เว็บไซต์หลัก รหัสประเทศ (ISO-3166-1 alpha-2) และเขตการปกครอง (state/province) เมื่อมีข้อมูลในแหล่งต้นทาง คัดกรองจากชุดข้อมูลโลก Hipo/university-domains-list (country == \"Thailand\"). มีทั้งหมด 67 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ประเทศไทย — มหาวิทยาลัยและสถาบันอุดมศึกษา | ListBase",
+    "seo_description": "ดาวน์โหลด ประเทศไทย — มหาวิทยาลัยและสถาบันอุดมศึกษา — 67 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 67 รายการ / 8 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

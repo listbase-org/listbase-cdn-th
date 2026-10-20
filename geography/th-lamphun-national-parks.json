@@ -1,0 +1,121 @@
+{
+  "id": "th-lamphun-national-parks",
+  "name": "ลำพูน — อุทยานแห่งชาติในจังหวัดลำพูน (National Parks in Lamphun Province)",
+  "title": "ลำพูน — อุทยานแห่งชาติในจังหวัดลำพูน (National Parks in Lamphun Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดลำพูน (Lamphun). 2 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Lamphun appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-lamphun-...' joins to th-lamphun-postal-codes / th-provinces (province_code 51).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 6,
+      "name_th": "อุทยานแห่งชาติแม่ตะไคร้",
+      "name_en": "Mae Takhrai National Park",
+      "name_th_short": "แม่ตะไคร้",
+      "name_en_short": "Mae Takhrai",
+      "lat": 18.96,
+      "lon": 99.24,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50, Lamphun: ลำพูน: Lamphun: lamphun: 51",
+      "province_count": 2
+    },
+    {
+      "park_id": 13,
+      "name_th": "อุทยานแห่งชาติแม่ปิง",
+      "name_en": "Mae Ping National Park",
+      "name_th_short": "แม่ปิง",
+      "name_en_short": "Mae Ping",
+      "lat": 17.56,
+      "lon": 98.8,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50, Tak: ตาก: Tak: tak: 63, Lamphun: ลำพูน: Lamphun: lamphun: 51",
+      "province_count": 3
+    }
+  ],
+  "meta": {
+    "title": "ลำพูน — อุทยานแห่งชาติในจังหวัดลำพูน (National Parks in Lamphun Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดลำพูน (Lamphun). 2 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Lamphun appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-lamphun-...' joins to th-lamphun-postal-codes / th-provinces (province_code 51). มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ลำพูน — อุทยานแห่งชาติในจังหวัดลำพูน (National Parks in Lamphun Province) | ListBase",
+    "seo_description": "ดาวน์โหลด ลำพูน — อุทยานแห่งชาติในจังหวัดลำพูน (National Parks in Lamphun Province) — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

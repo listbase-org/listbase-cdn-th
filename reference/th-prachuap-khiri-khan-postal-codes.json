@@ -1,0 +1,152 @@
+{
+  "id": "th-prachuap-khiri-khan-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดประจวบคีรีขันธ์ (Prachuap Khiri Khan Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดประจวบคีรีขันธ์ (Prachuap Khiri Khan Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดประจวบคีรีขันธ์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Prachuap Khiri Khan province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 77000,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7701: เมืองประจวบคีรีขันธ์: Mueang Prachuap Khiri Khan",
+      "subdistricts": "770101: ประจวบคีรีขันธ์: Prachuap Khiri Khan: 7701, 770102: เกาะหลัก: Ko Lak: 7701, 770103: คลองวาฬ: Khlong Wan: 7701, 770104: ห้วยทราย: Huai Sai: 7701, 770105: อ่าวน้อย: Ao Noi: 7701"
+    },
+    {
+      "postal_code": 77110,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7707: หัวหิน: Hua Hin",
+      "subdistricts": "770701: หัวหิน: Hua Hin: 7707, 770702: หนองแก: Nong Kae: 7707, 770703: หินเหล็กไฟ: Hin Lek Fai: 7707, 770704: หนองพลับ: Nong Phlap: 7707, 770705: ทับใต้: Thap Tai: 7707, 770706: ห้วยสัตว์ใหญ่: Huai Sat Yai: 7707, 770707: บึงนคร: Bueng Nakhon: 7707"
+    },
+    {
+      "postal_code": 77120,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7706: ปราณบุรี: Pran Buri, 7708: สามร้อยยอด: Sam Roi Yot",
+      "subdistricts": "770601: ปราณบุรี: Pran Buri: 7706, 770602: เขาน้อย: Khao Noi: 7706, 770607: หนองตาแต้ม: Nong Ta Taem: 7706, 770608: วังก์พง: Wang Phong: 7706, 770609: เขาจ้าว: Khao Chao: 7706, 770801: สามร้อยยอด: Sam Roi Yot: 7708"
+    },
+    {
+      "postal_code": 77130,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7703: ทับสะแก: Thap Sakae",
+      "subdistricts": "770301: ทับสะแก: Thap Sakae: 7703, 770302: อ่างทอง: Ang Thong: 7703, 770303: นาหูกวาง: Na Hu Kwang: 7703, 770304: เขาล้าน: Khao Lan: 7703, 770305: ห้วยยาง: Huai Yang: 7703, 770306: แสงอรุณ: Saeng Arun: 7703"
+    },
+    {
+      "postal_code": 77140,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7704: บางสะพาน: Bang Saphan",
+      "subdistricts": "770401: กำเนิดนพคุณ: Kamnoet Nopphakhun: 7704, 770402: พงศ์ประศาสน์: Phong Prasat: 7704, 770407: แม่รำพึง: Mae Ramphueng: 7704"
+    },
+    {
+      "postal_code": 77150,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7702: กุยบุรี: Kui Buri",
+      "subdistricts": "770201: กุยบุรี: Kui Buri: 7702, 770202: กุยเหนือ: Kui Nuea: 7702, 770203: เขาแดง: Khao Daeng: 7702, 770204: ดอนยายหนู: Don Yai Nu: 7702, 770206: สามกระทาย: Sam Krathai: 7702, 770207: หาดขาม: Hat Kham: 7702"
+    },
+    {
+      "postal_code": 77170,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7705: บางสะพานน้อย: Bang Saphan Noi",
+      "subdistricts": "770501: ปากแพรก: Pak Phraek: 7705, 770502: บางสะพาน: Bang Saphan: 7705, 770503: ทรายทอง: Sai Thong: 7705, 770504: ช้างแรก: Chang Raek: 7705, 770505: ไชยราช: Chaiyarat: 7705"
+    },
+    {
+      "postal_code": 77180,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7708: สามร้อยยอด: Sam Roi Yot",
+      "subdistricts": "770802: ศิลาลอย: Sila Loi: 7708, 770803: ไร่เก่า: Rai Kao: 7708, 770804: ศาลาลัย: Sala Lai: 7708, 770805: ไร่ใหม่: Rai Mai: 7708"
+    },
+    {
+      "postal_code": 77190,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7704: บางสะพาน: Bang Saphan",
+      "subdistricts": "770404: ธงชัย: Thong Chai: 7704, 770405: ชัยเกษม: Chai Kasem: 7704"
+    },
+    {
+      "postal_code": 77210,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7701: เมืองประจวบคีรีขันธ์: Mueang Prachuap Khiri Khan",
+      "subdistricts": "770106: บ่อนอก: Bo Nok: 7701"
+    },
+    {
+      "postal_code": 77220,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7706: ปราณบุรี: Pran Buri",
+      "subdistricts": "770604: ปากน้ำปราณ: Pak Nam Pran: 7706"
+    },
+    {
+      "postal_code": 77230,
+      "province_code": 77,
+      "province_name_th": "ประจวบคีรีขันธ์",
+      "province_name_en": "Prachuap Khiri Khan",
+      "districts": "7704: บางสะพาน: Bang Saphan",
+      "subdistricts": "770403: ร่อนทอง: Ron Thong: 7704, 770406: ทองมงคล: Thong Mongkhon: 7704"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดประจวบคีรีขันธ์ (Prachuap Khiri Khan Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดประจวบคีรีขันธ์ แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Prachuap Khiri Khan province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 12 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดประจวบคีรีขันธ์ (Prachuap Khiri Khan Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดประจวบคีรีขันธ์ (Prachuap Khiri Khan Postal Codes) — 12 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 12 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

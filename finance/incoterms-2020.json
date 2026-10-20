@@ -1,0 +1,152 @@
+{
+  "id": "incoterms-2020",
+  "name": "เงื่อนไขการส่งมอบสินค้า (Incoterms 2020)",
+  "title": "Incoterms 2020 - เงื่อนไขการค้าสากล",
+  "description": "เงื่อนไขการค้าสากล 11 สิทธิหน้าที่ สำหรับการขนส่งสินค้าระหว่างประเทศ กำหนดโดยหอการค้านานาชาติ (ICC)",
+  "category": "finance",
+  "source": "หอการค้านานาชาติ (International Chamber of Commerce - ICC)",
+  "source_url": "https://iccwbo.org/business-solutions/incoterms-rules/",
+  "updated": "2026-02",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "รหัส",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อภาษาอังกฤษ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ความหมาย",
+      "type": "string"
+    },
+    {
+      "key": "applicable_transport",
+      "label": "ประเภทการขนส่ง",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer_point",
+      "label": "จุดโอนความเสี่ยง",
+      "type": "string"
+    },
+    {
+      "key": "cost_responsibility",
+      "label": "ผู้รับผิดชอบค่าใช้จ่ายหลัก",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name_en": "Ex Works",
+      "name_th": "ส่งมอบ ณ จุดผลิต/โรงงานผู้ขาย",
+      "applicable_transport": "ทุกประเภท",
+      "risk_transfer_point": "เมื่อผู้ขายเตรียมสินค้าพร้อมให้ผู้ซื้อรับที่โรงงาน",
+      "cost_responsibility": "ผู้ซื้อรับผิดชอบค่าใช้จ่ายทั้งหมดตั้งแต่จุดรับสินค้า"
+    },
+    {
+      "code": "FCA",
+      "name_en": "Free Carrier",
+      "name_th": "ส่งมอบให้ผู้พาหนะรวบรวม",
+      "applicable_transport": "ทุกประเภท",
+      "risk_transfer_point": "เมื่อผู้ขายส่งมอบสินค้าให้ผู้ขนส่งที่ผู้ซื้อระบุ ณ สถานที่เตรียมนัด",
+      "cost_responsibility": "ผู้ขายจ่ายค่าพิธีการศุลกากรขาออก ผู้ซื้อจ่ายค่าขนส่งหลัก"
+    },
+    {
+      "code": "FAS",
+      "name_en": "Free Alongside Ship",
+      "name_th": "ส่งมอบข้างเรือ",
+      "applicable_transport": "ทางทะเลและลำน้ำ",
+      "risk_transfer_point": "เมื่อสินค้าถูกวางไว้ข้างเรือ ณ ท่าเรือต้นทาง",
+      "cost_responsibility": "ผู้ขายจ่ายจนถึงข้างเรือ ผู้ซื้อจ่ายค่าโหลดขึ้นเรือและค่าขนส่ง"
+    },
+    {
+      "code": "FOB",
+      "name_en": "Free on Board",
+      "name_th": "ส่งมอบบนเรือ",
+      "applicable_transport": "ทางทะเลและลำน้ำ",
+      "risk_transfer_point": "เมื่อสินค้าถูกโหลดวางบนเรือ ณ ท่าเรือต้นทาง",
+      "cost_responsibility": "ผู้ขายจ่ายค่าโหลดขึ้นเรือ ผู้ซื้อจ่ายค่าระวางเรือเป็นต้นไป"
+    },
+    {
+      "code": "CFR",
+      "name_en": "Cost and Freight",
+      "name_th": "จ่ายค่าสินค้าและค่าระวางเรือ",
+      "applicable_transport": "ทางทะเลและลำน้ำ",
+      "risk_transfer_point": "เมื่อสินค้าโหลดพ้นกราบเรือ ณ ท่าเรือต้นทาง (ผู้ซื้อรับความเสี่ยง)",
+      "cost_responsibility": "ผู้ขายรับผิดชอบค่าระวางเรือจนถึงท่าเรือปลายทาง"
+    },
+    {
+      "code": "CIF",
+      "name_en": "Cost, Insurance and Freight",
+      "name_th": "จ่ายค่าสินค้า ประกันภัย และค่าระวางเรือ",
+      "applicable_transport": "ทางทะเลและลำน้ำ",
+      "risk_transfer_point": "เมื่อสินค้าถูกโหลดขึ้นเรือ ณ ท่าเรือต้นทาง",
+      "cost_responsibility": "ผู้ขายรับผิดชอบค่าระวางเรือและค่าประกันภัยถึงท่าปลายทาง"
+    },
+    {
+      "code": "CPT",
+      "name_en": "Carriage Paid To",
+      "name_th": "จ่ายค่าขนส่งถึงปลายทาง",
+      "applicable_transport": "ทุกประเภท",
+      "risk_transfer_point": "เมื่อผู้ขายส่งมอบให้ผู้ขนส่งคนแรก (ต้นทาง)",
+      "cost_responsibility": "ผู้ขายรับผิดชอบค่าขนส่งไปยังสถานที่ปลายทางที่ตกลงกัน"
+    },
+    {
+      "code": "CIP",
+      "name_en": "Carriage and Insurance Paid To",
+      "name_th": "จ่ายค่าขนส่งและประกันภัยถึงปลายทาง",
+      "applicable_transport": "ทุกประเภท",
+      "risk_transfer_point": "เมื่อผู้ขายส่งมอบให้ผู้ขนส่งคนแรก (ต้นทาง)",
+      "cost_responsibility": "ผู้ขายรับผิดชอบค่าขนส่งและค่าประกันภัยไปยังสถานที่ปลายทาง"
+    },
+    {
+      "code": "DAP",
+      "name_en": "Delivered at Place",
+      "name_th": "ส่งมอบ ณ สถานที่ปลายทาง",
+      "applicable_transport": "ทุกประเภท",
+      "risk_transfer_point": "เมื่อสินค้าถึงสถานที่ปลายทางและพร้อมขนถ่ายลง",
+      "cost_responsibility": "ผู้ขายจ่ายทุกอย่างยกเว้นพิธีการศุลกากรขาเข้าและค่าขนลง"
+    },
+    {
+      "code": "DPU",
+      "name_en": "Delivered at Place Unloaded",
+      "name_th": "ส่งมอบ ณ สถานที่ปลายทางพร้อมขนย้ายลง",
+      "applicable_transport": "ทุกประเภท",
+      "risk_transfer_point": "เมื่อสินค้าถูกขนถ่ายลงจากยานพาหนะ ณ สถานที่ปลายทาง",
+      "cost_responsibility": "ผู้ขายจ่ายทุกอย่างและรับผิดชอบการขนสินค้าลงจากพาหนะ"
+    },
+    {
+      "code": "DDP",
+      "name_en": "Delivered Duty Paid",
+      "name_th": "ส่งมอบโดยชำระอากรแล้ว (ต้นทางถึงปลายทาง)",
+      "applicable_transport": "ทุกประเภท",
+      "risk_transfer_point": "เมื่อสินค้าถึงผู้ซื้อ ณ สถานที่ปลายทางและเคลียร์ภาษีแล้ว",
+      "cost_responsibility": "ผู้ขายแบกรับภาระค่าใช้จ่ายทั้งหมดและพิธีการศุลกากรทั้งไป-กลับ"
+    }
+  ],
+  "meta": {
+    "title": "Incoterms 2020 - เงื่อนไขการค้าสากล - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "เงื่อนไขการค้าสากล 11 สิทธิหน้าที่ สำหรับการขนส่งสินค้าระหว่างประเทศ กำหนดโดยหอการค้านานาชาติ (ICC) มีทั้งหมด 11 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "เงื่อนไขการส่งมอบสินค้า (Incoterms 2020) | Thai Open Data",
+    "seo_description": "ดาวน์โหลดเงื่อนไขการส่งมอบสินค้า (Incoterms 2020) ทั้งหมด 11 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลเงื่อนไขการส่งมอบสินค้า (Incoterms 2020) ทั้งหมด 11 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "แก้ไขคำศัพท์ภาษาไทยให้สอดคล้องกับพาณิชย์และธุรกิจระหว่างประเทศที่ใช้จริง",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Manual Recovery)"
+    }
+  }
+}

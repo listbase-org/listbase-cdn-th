@@ -1,0 +1,135 @@
+{
+  "id": "th-surat-thani-airports",
+  "name": "ท่าอากาศยาน — Surat Thani",
+  "title": "ท่าอากาศยาน — Surat Thani",
+  "description": "ท่าอากาศยานในจังหวัด Surat Thani ประเทศไทย (Airports in Surat Thani Province, Thailand — 2 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VTSM",
+      "iata": "USM",
+      "name_en": "Koh Samui Airport",
+      "name_slug": "koh-samui-airport",
+      "city_en": "Ko Samui",
+      "city_slug": "ko-samui",
+      "province_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 64,
+      "lat": 9.5488263,
+      "lon": 100.0631993,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    },
+    {
+      "icao": "VTSB",
+      "iata": "URT",
+      "name_en": "Surat Thani Airport",
+      "name_slug": "surat-thani-airport",
+      "city_en": "Phunphin",
+      "city_slug": "phunphin",
+      "province_en": "Surat Thani",
+      "province_slug": "surat-thani",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 20,
+      "lat": 9.1358574,
+      "lon": 99.1434239,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "ท่าอากาศยาน — Surat Thani - ดาวน์โหลดฟรี",
+    "description": "ท่าอากาศยานในจังหวัด Surat Thani ประเทศไทย (Airports in Surat Thani Province, Thailand — 2 record(s).) มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ท่าอากาศยาน — Surat Thani | ListBase",
+    "seo_description": "ดาวน์โหลด ท่าอากาศยาน — Surat Thani — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 15 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

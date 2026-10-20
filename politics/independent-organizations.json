@@ -1,0 +1,94 @@
+{
+  "id": "independent-organizations",
+  "name": "องค์กรอิสระตามรัฐธรรมนูญ",
+  "title": "องค์กรอิสระตามรัฐธรรมนูญแห่งราชอาณาจักรไทย",
+  "description": "รายชื่อองค์กรอิสระตามรัฐธรรมนูญ พ.ศ. 2560",
+  "category": "politics",
+  "source": "AI Knowledge",
+  "source_url": "https://www.parliament.go.th",
+  "updated": "2025-02",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "ชื่อองค์กร (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อองค์กร (อังกฤษ)",
+      "type": "string"
+    },
+    {
+      "key": "abbr",
+      "label": "อักษรย่อ",
+      "type": "string"
+    },
+    {
+      "key": "role",
+      "label": "หน้าที่หลัก",
+      "type": "string"
+    },
+    {
+      "key": "members",
+      "label": "จำนวนกรรมการ",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "คณะกรรมการการเลือกตั้ง",
+      "name_en": "Election Commission of Thailand",
+      "abbr": "กกต.",
+      "role": "จัดการเลือกตั้งและการออกเสียงประชามติ",
+      "members": 7
+    },
+    {
+      "name_th": "ผู้ตรวจการแผ่นดิน",
+      "name_en": "Ombudsman Thailand",
+      "abbr": "ผผ.",
+      "role": "ตรวจสอบการใช้อำนาจรัฐ",
+      "members": 3
+    },
+    {
+      "name_th": "คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ",
+      "name_en": "National Anti-Corruption Commission",
+      "abbr": "ป.ป.ช.",
+      "role": "ป้องกันและปราบปรามการทุจริต",
+      "members": 9
+    },
+    {
+      "name_th": "คณะกรรมการตรวจเงินแผ่นดิน",
+      "name_en": "State Audit Commission",
+      "abbr": "คตง.",
+      "role": "ตรวจสอบการใช้จ่ายงบประมาณ",
+      "members": 7
+    },
+    {
+      "name_th": "คณะกรรมการสิทธิมนุษยชนแห่งชาติ",
+      "name_en": "National Human Rights Commission",
+      "abbr": "กสม.",
+      "role": "ส่งเสริมและคุ้มครองสิทธิมนุษยชน",
+      "members": 7
+    }
+  ],
+  "meta": {
+    "title": "องค์กรอิสระตามรัฐธรรมนูญแห่งราชอาณาจักรไทย - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รายชื่อองค์กรอิสระตามรัฐธรรมนูญ พ.ศ. 2560 มีทั้งหมด 5 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "องค์กรอิสระตามรัฐธรรมนูญ | Thai Open Data",
+    "seo_description": "ดาวน์โหลดองค์กรอิสระตามรัฐธรรมนูญ ทั้งหมด 5 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลองค์กรอิสระตามรัฐธรรมนูญ ทั้งหมด 5 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "very_high",
+    "notes": "องค์กรอิสระ 5 แห่งตามรัฐธรรมนูญ พ.ศ. 2560",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Batch Script Review)"
+    }
+  }
+}

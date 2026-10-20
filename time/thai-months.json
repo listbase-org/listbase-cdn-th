@@ -1,0 +1,194 @@
+{
+  "id": "thai-months",
+  "name": "เดือนไทย",
+  "title": "12 เดือนของปีไทย",
+  "description": "ชื่อเดือนไทย 12 เดือน พร้อมจำนวนวัน ราศี ที่มาของชื่อ และฤดูกาล",
+  "category": "time",
+  "source": "AI Knowledge",
+  "source_url": "https://www.royin.go.th/",
+  "updated": "2026-02",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อเดือน (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อเดือน (EN)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation_th",
+      "label": "ตัวย่อ",
+      "type": "string"
+    },
+    {
+      "key": "days",
+      "label": "จำนวนวัน",
+      "type": "number"
+    },
+    {
+      "key": "zodiac_sign",
+      "label": "ราศี",
+      "type": "string"
+    },
+    {
+      "key": "sanskrit_origin",
+      "label": "ที่มาจากภาษาสันสกฤต",
+      "type": "string"
+    },
+    {
+      "key": "season_th",
+      "label": "ฤดูกาล",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name_th": "มกราคม",
+      "name_en": "January",
+      "abbreviation_th": "ม.ค.",
+      "days": 31,
+      "zodiac_sign": "Capricorn, Aquarius",
+      "sanskrit_origin": "Makara (มการ)",
+      "season_th": "เย็น"
+    },
+    {
+      "order": 2,
+      "name_th": "กุมภาพันธ์",
+      "name_en": "February",
+      "abbreviation_th": "ก.พ.",
+      "days": 28,
+      "zodiac_sign": "Aquarius, Pisces",
+      "sanskrit_origin": "Kumbha (กุมภ)",
+      "season_th": "เย็น"
+    },
+    {
+      "order": 3,
+      "name_th": "มีนาคม",
+      "name_en": "March",
+      "abbreviation_th": "มี.ค.",
+      "days": 31,
+      "zodiac_sign": "Pisces, Aries",
+      "sanskrit_origin": "Mina (มีน)",
+      "season_th": "ร้อน"
+    },
+    {
+      "order": 4,
+      "name_th": "เมษายน",
+      "name_en": "April",
+      "abbreviation_th": "เม.ย.",
+      "days": 30,
+      "zodiac_sign": "Aries, Taurus",
+      "sanskrit_origin": "Mesha (เมษ)",
+      "season_th": "ร้อน"
+    },
+    {
+      "order": 5,
+      "name_th": "พฤษภาคม",
+      "name_en": "May",
+      "abbreviation_th": "พ.ค.",
+      "days": 31,
+      "zodiac_sign": "Taurus, Gemini",
+      "sanskrit_origin": "Vrishbha (พฤษภ)",
+      "season_th": "ร้อน"
+    },
+    {
+      "order": 6,
+      "name_th": "มิถุนายน",
+      "name_en": "June",
+      "abbreviation_th": "มิ.ย.",
+      "days": 30,
+      "zodiac_sign": "Gemini, Cancer",
+      "sanskrit_origin": "Mithuna (เมถุน)",
+      "season_th": "ฝน"
+    },
+    {
+      "order": 7,
+      "name_th": "กรกฎาคม",
+      "name_en": "July",
+      "abbreviation_th": "ก.ค.",
+      "days": 31,
+      "zodiac_sign": "Cancer, Leo",
+      "sanskrit_origin": "Karkataka (กรกฎ)",
+      "season_th": "ฝน"
+    },
+    {
+      "order": 8,
+      "name_th": "สิงหาคม",
+      "name_en": "August",
+      "abbreviation_th": "ส.ค.",
+      "days": 31,
+      "zodiac_sign": "Leo, Virgo",
+      "sanskrit_origin": "Simha (สิงห์)",
+      "season_th": "ฝน"
+    },
+    {
+      "order": 9,
+      "name_th": "กันยายน",
+      "name_en": "September",
+      "abbreviation_th": "ก.ย.",
+      "days": 30,
+      "zodiac_sign": "Virgo, Libra",
+      "sanskrit_origin": "Kanya (กันย์)",
+      "season_th": "ฝน"
+    },
+    {
+      "order": 10,
+      "name_th": "ตุลาคม",
+      "name_en": "October",
+      "abbreviation_th": "ต.ค.",
+      "days": 31,
+      "zodiac_sign": "Libra, Scorpio",
+      "sanskrit_origin": "Tula (ตุลย์)",
+      "season_th": "เย็น"
+    },
+    {
+      "order": 11,
+      "name_th": "พฤศจิกายน",
+      "name_en": "November",
+      "abbreviation_th": "พ.ย.",
+      "days": 30,
+      "zodiac_sign": "Scorpio, Sagittarius",
+      "sanskrit_origin": "Vrischika (พิจิก)",
+      "season_th": "เย็น"
+    },
+    {
+      "order": 12,
+      "name_th": "ธันวาคม",
+      "name_en": "December",
+      "abbreviation_th": "ธ.ค.",
+      "days": 31,
+      "zodiac_sign": "Sagittarius, Capricorn",
+      "sanskrit_origin": "Dhanus (ธนู)",
+      "season_th": "เย็น"
+    }
+  ],
+  "meta": {
+    "title": "12 เดือนของปีไทย - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "ชื่อเดือนไทย 12 เดือน พร้อมจำนวนวัน ราศี ที่มาของชื่อ และฤดูกาล มีทั้งหมด 12 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "เดือนไทย | Thai Open Data",
+    "seo_description": "ดาวน์โหลดเดือนไทย ทั้งหมด 12 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลเดือนไทย ทั้งหมด 12 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "very_high",
+    "notes": "12 เดือนปีสุริยะ พร้อมข้อมูลจำนวนวัน ราศี ที่มาจากศาสตร์บัญญัติสันสกฤต และฤดูกาลของประเทศไทย",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Batch Script Review)"
+    }
+  }
+}

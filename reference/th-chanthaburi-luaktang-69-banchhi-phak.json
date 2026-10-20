@@ -1,0 +1,1424 @@
+{
+  "id": "th-chanthaburi-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — จันทบุรี (Chanthaburi party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — จันทบุรี (Chanthaburi party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดจันทบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1614
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1033
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 847
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 335
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 673
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2924
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 166
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 646
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8687
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 534
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 6091
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 498
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 525
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 54
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 73
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 30
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 37
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 8816
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 94
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1193
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 121
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 86
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 122
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 25749
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 94
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 60
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 218
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 188
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 47
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 36381
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 789
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 336
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 40
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 10
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 68
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 702
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2338
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2874
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 772
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 801
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2393
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 138
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 861
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6716
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 624
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 7366
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 455
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 571
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 177
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 37
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 82
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 86
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 146
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 10350
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 109
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 574
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 150
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 211
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อปวงชน",
+      "votes": 219
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 216
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 138
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 168
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 149
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20491
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 122
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 88
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 176
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 176
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 29101
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 190
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 954
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 175
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 62
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 83
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 679
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1163
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2373
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 300
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1142
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4718
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 392
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 708
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8178
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 613
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 7337
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 393
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 613
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 163
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 157
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 76
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 78
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 94
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6749
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 132
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 579
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 177
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 148
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 195
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 269
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 199
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 21523
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 136
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 48
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 467
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 2000
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 91
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 26341
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 170
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 651
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 244
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 45
+    },
+    {
+      "changwat_code": "22",
+      "changwat": "จันทบุรี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 85
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — จันทบุรี (Chanthaburi party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดจันทบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — จันทบุรี (Chanthaburi party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — จันทบุรี (Chanthaburi party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

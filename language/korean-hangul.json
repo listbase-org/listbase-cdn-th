@@ -1,0 +1,380 @@
+{
+  "id": "korean-hangul",
+  "name": "ฮังกุลเกาหลี",
+  "title": "อักษรฮังกุลของเกาหลี",
+  "description": "รายชื่อพยัญชนะและสระของอักษรฮังกุลเกาหลี รวมถึงพยัญชนะคู่และสระประสม",
+  "category": "language",
+  "source": "AI Knowledge",
+  "source_url": "https://www.korean.go.kr/",
+  "updated": "2025-02",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "character",
+      "label": "ตัวอักษร",
+      "type": "string"
+    },
+    {
+      "key": "romanization",
+      "label": "การถอดเสียงโรมัน",
+      "type": "string"
+    },
+    {
+      "key": "pronunciation_th",
+      "label": "การออกเสียงภาษาไทย",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "ประเภท",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "ชื่อเกาหลี",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "character": "ㄱ",
+      "romanization": "g",
+      "pronunciation_th": "กีอุก",
+      "type": "consonant",
+      "name_ko": "기역"
+    },
+    {
+      "order": 2,
+      "character": "ㄴ",
+      "romanization": "n",
+      "pronunciation_th": "นีอุน",
+      "type": "consonant",
+      "name_ko": "니은"
+    },
+    {
+      "order": 3,
+      "character": "ㄷ",
+      "romanization": "d",
+      "pronunciation_th": "ดีกึด",
+      "type": "consonant",
+      "name_ko": "디귿"
+    },
+    {
+      "order": 4,
+      "character": "ㄹ",
+      "romanization": "r",
+      "pronunciation_th": "리อึล",
+      "type": "consonant",
+      "name_ko": "리을"
+    },
+    {
+      "order": 5,
+      "character": "ㅁ",
+      "romanization": "m",
+      "pronunciation_th": "มีอึม",
+      "type": "consonant",
+      "name_ko": "미음"
+    },
+    {
+      "order": 6,
+      "character": "ㅂ",
+      "romanization": "b",
+      "pronunciation_th": "บีอึบ",
+      "type": "consonant",
+      "name_ko": "비읍"
+    },
+    {
+      "order": 7,
+      "character": "ㅅ",
+      "romanization": "s",
+      "pronunciation_th": "สิออต",
+      "type": "consonant",
+      "name_ko": "시옷"
+    },
+    {
+      "order": 8,
+      "character": "ㅇ",
+      "romanization": "ng",
+      "pronunciation_th": "อิอึง",
+      "type": "consonant",
+      "name_ko": "이응"
+    },
+    {
+      "order": 9,
+      "character": "ㅈ",
+      "romanization": "j",
+      "pronunciation_th": "จิออต",
+      "type": "consonant",
+      "name_ko": "지읒"
+    },
+    {
+      "order": 10,
+      "character": "ㅉ",
+      "romanization": "jj",
+      "pronunciation_th": "จจิออต",
+      "type": "double_consonant",
+      "name_ko": "쌍지읒"
+    },
+    {
+      "order": 11,
+      "character": "ㅊ",
+      "romanization": "ch",
+      "pronunciation_th": "ชิออท",
+      "type": "consonant",
+      "name_ko": "치읓"
+    },
+    {
+      "order": 12,
+      "character": "ㅋ",
+      "romanization": "k",
+      "pronunciation_th": "คีอึค",
+      "type": "consonant",
+      "name_ko": "키읔"
+    },
+    {
+      "order": 13,
+      "character": "ㅌ",
+      "romanization": "t",
+      "pronunciation_th": "ทีอึท",
+      "type": "consonant",
+      "name_ko": "티읕"
+    },
+    {
+      "order": 14,
+      "character": "ㅍ",
+      "romanization": "p",
+      "pronunciation_th": "พีอึพ",
+      "type": "consonant",
+      "name_ko": "피읖"
+    },
+    {
+      "order": 15,
+      "character": "ㅎ",
+      "romanization": "h",
+      "pronunciation_th": "ฮีออท",
+      "type": "consonant",
+      "name_ko": "히읗"
+    },
+    {
+      "order": 16,
+      "character": "ㄲ",
+      "romanization": "kk",
+      "pronunciation_th": "กกีอุก",
+      "type": "double_consonant",
+      "name_ko": "쌍기역"
+    },
+    {
+      "order": 17,
+      "character": "ㄸ",
+      "romanization": "dd",
+      "pronunciation_th": "ดดีกึด",
+      "type": "double_consonant",
+      "name_ko": "쌍디귿"
+    },
+    {
+      "order": 18,
+      "character": "ㅃ",
+      "romanization": "bb",
+      "pronunciation_th": "บบีอึบ",
+      "type": "double_consonant",
+      "name_ko": "쌍비읍"
+    },
+    {
+      "order": 19,
+      "character": "ㅆ",
+      "romanization": "ss",
+      "pronunciation_th": "สสิออต",
+      "type": "double_consonant",
+      "name_ko": "쌍시옷"
+    },
+    {
+      "order": 20,
+      "character": "ㅏ",
+      "romanization": "a",
+      "pronunciation_th": "อะ",
+      "type": "vowel",
+      "name_ko": "아"
+    },
+    {
+      "order": 21,
+      "character": "ㅑ",
+      "romanization": "ya",
+      "pronunciation_th": "ยะ",
+      "type": "vowel",
+      "name_ko": "야"
+    },
+    {
+      "order": 22,
+      "character": "ㅓ",
+      "romanization": "eo",
+      "pronunciation_th": "เอ",
+      "type": "vowel",
+      "name_ko": "어"
+    },
+    {
+      "order": 23,
+      "character": "ㅕ",
+      "romanization": "yeo",
+      "pronunciation_th": "เยอ",
+      "type": "vowel",
+      "name_ko": "여"
+    },
+    {
+      "order": 24,
+      "character": "ㅗ",
+      "romanization": "o",
+      "pronunciation_th": "โอ",
+      "type": "vowel",
+      "name_ko": "오"
+    },
+    {
+      "order": 25,
+      "character": "ㅛ",
+      "romanization": "yo",
+      "pronunciation_th": "โยะ",
+      "type": "vowel",
+      "name_ko": "요"
+    },
+    {
+      "order": 26,
+      "character": "ㅜ",
+      "romanization": "u",
+      "pronunciation_th": "อู",
+      "type": "vowel",
+      "name_ko": "우"
+    },
+    {
+      "order": 27,
+      "character": "ㅠ",
+      "romanization": "yu",
+      "pronunciation_th": "ยู",
+      "type": "vowel",
+      "name_ko": "유"
+    },
+    {
+      "order": 28,
+      "character": "ㅡ",
+      "romanization": "eu",
+      "pronunciation_th": "อือ",
+      "type": "vowel",
+      "name_ko": "은"
+    },
+    {
+      "order": 29,
+      "character": "ㅣ",
+      "romanization": "i",
+      "pronunciation_th": "อิ",
+      "type": "vowel",
+      "name_ko": "이"
+    },
+    {
+      "order": 30,
+      "character": "ㅐ",
+      "romanization": "ae",
+      "pronunciation_th": "แอ",
+      "type": "compound_vowel",
+      "name_ko": "애"
+    },
+    {
+      "order": 31,
+      "character": "ㅒ",
+      "romanization": "yae",
+      "pronunciation_th": "แยะ",
+      "type": "compound_vowel",
+      "name_ko": "얘"
+    },
+    {
+      "order": 32,
+      "character": "ㅔ",
+      "romanization": "e",
+      "pronunciation_th": "เอะ",
+      "type": "compound_vowel",
+      "name_ko": "에"
+    },
+    {
+      "order": 33,
+      "character": "ㅖ",
+      "romanization": "oe",
+      "pronunciation_th": "เวะ",
+      "type": "compound_vowel",
+      "name_ko": "외"
+    },
+    {
+      "order": 34,
+      "character": "ㅘ",
+      "romanization": "wa",
+      "pronunciation_th": "วะ",
+      "type": "compound_vowel",
+      "name_ko": "와"
+    },
+    {
+      "order": 35,
+      "character": "ㅙ",
+      "romanization": "wae",
+      "pronunciation_th": "แวะ",
+      "type": "compound_vowel",
+      "name_ko": "왜"
+    },
+    {
+      "order": 36,
+      "character": "ㅚ",
+      "romanization": "oi",
+      "pronunciation_th": "โอิ",
+      "type": "compound_vowel",
+      "name_ko": "오이"
+    },
+    {
+      "order": 37,
+      "character": "ㅝ",
+      "romanization": "weo",
+      "pronunciation_th": "เวอ",
+      "type": "compound_vowel",
+      "name_ko": "워"
+    },
+    {
+      "order": 38,
+      "character": "ㅞ",
+      "romanization": "we",
+      "pronunciation_th": "เวะ",
+      "type": "compound_vowel",
+      "name_ko": "웨"
+    },
+    {
+      "order": 39,
+      "character": "ㅟ",
+      "romanization": "wi",
+      "pronunciation_th": "วี",
+      "type": "compound_vowel",
+      "name_ko": "위"
+    },
+    {
+      "order": 40,
+      "character": "ㅢ",
+      "romanization": "ui",
+      "pronunciation_th": "อุยี",
+      "type": "compound_vowel",
+      "name_ko": "의"
+    }
+  ],
+  "meta": {
+    "title": "อักษรฮังกุลของเกาหลี - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รายชื่อพยัญชนะและสระของอักษรฮังกุลเกาหลี รวมถึงพยัญชนะคู่และสระประสม มีทั้งหมด 40 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "ฮังกุลเกาหลี | Thai Open Data",
+    "seo_description": "ดาวน์โหลดฮังกุลเกาหลี ทั้งหมด 40 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลฮังกุลเกาหลี ทั้งหมด 40 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "very_high",
+    "notes": "อักษรฮังกุล 40 ตัว ประกอบด้วย 14 พยัญชนะพื้นฐาน 5 พยัญชนะคู่ 10 สระพื้นฐาน และ 11 สระประสม"
+  }
+}

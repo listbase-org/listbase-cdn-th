@@ -1,0 +1,112 @@
+{
+  "id": "th-satun-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสตูล (Satun Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสตูล (Satun Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสตูล แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Satun province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 91000,
+      "province_code": 91,
+      "province_name_th": "สตูล",
+      "province_name_en": "Satun",
+      "districts": "9101: เมืองสตูล: Mueang Satun",
+      "subdistricts": "910101: พิมาน: Phiman: 9101, 910102: คลองขุด: Khlong Khut: 9101, 910103: ควนขัน: Khuan Khan: 9101, 910106: เกาะสาหร่าย: Ko Sarai: 9101, 910107: ตันหยงโป: Tanyong Po: 9101, 910108: เจ๊ะบิลัง: Che Bi Lang: 9101, 910109: ตำมะลัง: Tam Malang: 9101, 910110: ปูยู: Puyu: 9101"
+    },
+    {
+      "postal_code": 91110,
+      "province_code": 91,
+      "province_name_th": "สตูล",
+      "province_name_en": "Satun",
+      "districts": "9105: ละงู: La-Ngu",
+      "subdistricts": "910501: กำแพง: Kamphaeng: 9105, 910502: ละงู: La-Ngu: 9105, 910503: เขาขาว: Khao Khao: 9105, 910504: ปากน้ำ: Pak Nam: 9105, 910505: น้ำผุด: Nam Phut: 9105, 910506: แหลมสน: Laem Son: 9105"
+    },
+    {
+      "postal_code": 91120,
+      "province_code": 91,
+      "province_name_th": "สตูล",
+      "province_name_en": "Satun",
+      "districts": "9106: ทุ่งหว้า: Thung Wa",
+      "subdistricts": "910601: ทุ่งหว้า: Thung Wa: 9106, 910602: นาทอน: Na Thon: 9106, 910603: ขอนคลาน: Khon Khlan: 9106, 910604: ทุ่งบุหลัง: Thung Bu Lang: 9106, 910605: ป่าแก่บ่อหิน: Pa Kae Bo Hin: 9106"
+    },
+    {
+      "postal_code": 91130,
+      "province_code": 91,
+      "province_name_th": "สตูล",
+      "province_name_en": "Satun",
+      "districts": "9103: ควนกาหลง: Khuan Kalong, 9107: มะนัง: Manang",
+      "subdistricts": "910301: ทุ่งนุ้ย: Thung Nui: 9103, 910302: ควนกาหลง: Khuan Kalong: 9103, 910303: อุใดเจริญ: Udai Charoen: 9103, 910701: ปาล์มพัฒนา: Pam Phatthana: 9107, 910702: นิคมพัฒนา: Nikhom Phatthana: 9107"
+    },
+    {
+      "postal_code": 91140,
+      "province_code": 91,
+      "province_name_th": "สตูล",
+      "province_name_en": "Satun",
+      "districts": "9101: เมืองสตูล: Mueang Satun",
+      "subdistricts": "910104: บ้านควน: Ban Khuan: 9101, 910105: ฉลุง: Chalung: 9101, 910111: ควนโพธิ์: Khuan Pho: 9101, 910112: เกตรี: Ketari: 9101"
+    },
+    {
+      "postal_code": 91150,
+      "province_code": 91,
+      "province_name_th": "สตูล",
+      "province_name_en": "Satun",
+      "districts": "9104: ท่าแพ: Tha Phae",
+      "subdistricts": "910401: ท่าแพ: Tha Phae: 9104, 910402: แป-ระ: Pae-Ra: 9104, 910403: สาคร: Sakhon: 9104, 910404: ท่าเรือ: Tha Ruea: 9104"
+    },
+    {
+      "postal_code": 91160,
+      "province_code": 91,
+      "province_name_th": "สตูล",
+      "province_name_en": "Satun",
+      "districts": "9102: ควนโดน: Khuan Don",
+      "subdistricts": "910201: ควนโดน: Khuan Don: 9102, 910202: ควนสตอ: Khuan Sato: 9102, 910203: ย่านซื่อ: Yan Sue: 9102, 910204: วังประจัน: Wang Prachan: 9102"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสตูล (Satun Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสตูล แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Satun province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 7 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสตูล (Satun Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสตูล (Satun Postal Codes) — 7 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 7 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

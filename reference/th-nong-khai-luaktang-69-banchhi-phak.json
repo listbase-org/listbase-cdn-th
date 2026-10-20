@@ -1,0 +1,1424 @@
+{
+  "id": "th-nong-khai-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองคาย (Nong Khai party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองคาย (Nong Khai party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดหนองคาย. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 333
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1520
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1028
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2278
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2388
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1352
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 95
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 334
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 23205
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 366
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3437
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 663
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 587
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 123
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 269
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 31
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 82
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2246
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 136
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 565
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 94
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 135
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 134
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 240
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 264
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 124
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 112
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 14342
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 349
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 75
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 200
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 1953
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 74
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27318
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 713
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 253
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 24
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1160
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2758
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2086
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 177
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 624
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 844
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 85
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 384
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 25381
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 294
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3098
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 559
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 611
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 216
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 23
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1403
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 121
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 211
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 148
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 292
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 233
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 80
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 165
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13673
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 482
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 62
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 195
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 1700
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 85
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20703
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 441
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 197
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 62
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 650
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 3683
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 307
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 1150
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 461
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 841
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 72
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 362
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 24671
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 300
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3045
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 579
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 403
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 184
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 46
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1698
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 88
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 306
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 318
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 135
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 156
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 65
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 114
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15623
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 413
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 51
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 142
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 185
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 90
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22319
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 563
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 174
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 20
+    },
+    {
+      "changwat_code": "43",
+      "changwat": "หนองคาย",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 37
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองคาย (Nong Khai party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดหนองคาย. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองคาย (Nong Khai party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — หนองคาย (Nong Khai party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

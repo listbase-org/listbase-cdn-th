@@ -1,0 +1,144 @@
+{
+  "id": "th-maha-sarakham-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดมหาสารคาม (Maha Sarakham Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดมหาสารคาม (Maha Sarakham Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดมหาสารคาม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Maha Sarakham province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 44000,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4401: เมืองมหาสารคาม: Mueang Maha Sarakham",
+      "subdistricts": "440101: ตลาด: Talat: 4401, 440102: เขวา: Khewa: 4401, 440103: ท่าตูม: Tha Tum: 4401, 440104: แวงน่าง: Waeng Nang: 4401, 440105: โคกก่อ: Khok Ko: 4401, 440106: ดอนหว่าน: Don Wan: 4401, 440107: เกิ้ง: Koeng: 4401, 440108: แก่งเลิงจาน: Kaeng Loeng Chan: 4401, 440109: ท่าสองคอน: Tha Song Khon: 4401, 440110: ลาดพัฒนา: Lat Phatthana: 4401, 440111: หนองปลิง: Nong Pling: 4401, 440112: ห้วยแอ่ง: Huai Aeng: 4401, 440113: หนองโน: Nong No: 4401, 440114: บัวค้อ: Bua Kho: 4401"
+    },
+    {
+      "postal_code": 44110,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4408: พยัคฆภูมิพิสัย: Phayakkhaphum Phisai",
+      "subdistricts": "440801: ปะหลาน: Palan: 4408, 440802: ก้ามปู: Kam Pu: 4408, 440803: เวียงสะอาด: Wiang Sa-At: 4408, 440804: เม็กดำ: Mek Dam: 4408, 440805: นาสีนวล: Na Si Nuan: 4408, 440809: ราษฎร์เจริญ: Rat Charoen: 4408, 440810: หนองบัวแก้ว: Nong Bua Kaeo: 4408, 440812: เมืองเตา: Mueang Tao: 4408, 440815: ลานสะแก: Lan Sakae: 4408, 440816: เวียงชัย: Wiang Chai: 4408, 440817: หนองบัว: Nong Bua: 4408, 440818: ราษฎร์พัฒนา: Rat Phatthana: 4408, 440819: เมืองเสือ: Mueang Suea: 4408, 440820: ภารแอ่น: Phara-Aen: 4408"
+    },
+    {
+      "postal_code": 44120,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4409: วาปีปทุม: Wapi Pathum",
+      "subdistricts": "440901: หนองแสง: Nong Saeng: 4409, 440902: ขามป้อม: Kham Pom: 4409, 440903: เสือโก้ก: Suea Kok: 4409, 440904: ดงใหญ่: Dong Yai: 4409, 440905: โพธิ์ชัย: Pho Chai: 4409, 440906: หัวเรือ: Hua Ruea: 4409, 440907: แคน: Khaen: 4409, 440908: งัวบา: Ngua Ba: 4409, 440909: นาข่า: Nakha: 4409, 440910: บ้านหวาย: Ban Wai: 4409, 440911: หนองไฮ: Nong Hai: 4409, 440912: ประชาพัฒนา: Pracha Phatthana: 4409, 440913: หนองทุ่ม: Nong Thum: 4409, 440914: หนองแสน: Nong Saen: 4409, 440915: โคกสีทองหลาง: Khok Si Thong Lang: 4409"
+    },
+    {
+      "postal_code": 44130,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4406: บรบือ: Borabue, 4412: กุดรัง: Kut Rang",
+      "subdistricts": "440601: บรบือ: Borabue: 4406, 440602: บ่อใหญ่: Bo Yai: 4406, 440604: วังไชย: Wang Chai: 4406, 440605: หนองม่วง: Nong Muang: 4406, 440606: กำพี้: Kamphi: 4406, 440607: โนนราษี: Non Rasi: 4406, 440608: โนนแดง: Non Daeng: 4406, 440610: หนองจิก: Nong Chik: 4406, 440611: บัวมาศ: Bua Mat: 4406, 440613: หนองคูขาด: Nong Khu Khat: 4406, 440615: วังใหม่: Wang Mai: 4406, 440616: ยาง: Yang: 4406, 440618: หนองสิม: Nong Sim: 4406, 440619: หนองโก: Nong Ko: 4406, 440620: ดอนงัว: Don Ngua: 4406, 441201: กุดรัง: Kut Rang: 4412, 441202: นาโพธิ์: Na Pho: 4412, 441203: เลิงแฝก: Loeng Faek: 4412, 441204: หนองแวง: Nong Waeng: 4412, 441205: ห้วยเตย: Huai Toei: 4412"
+    },
+    {
+      "postal_code": 44140,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4403: โกสุมพิสัย: Kosum Phisai",
+      "subdistricts": "440301: หัวขวาง: Hua Khwang: 4403, 440302: ยางน้อย: Yang Noi: 4403, 440303: วังยาว: Wang Yao: 4403, 440304: เขวาไร่: Khewa Rai: 4403, 440305: แพง: Phaeng: 4403, 440306: แก้งแก: Kaeng Kae: 4403, 440307: หนองเหล็ก: Nong Lek: 4403, 440308: หนองบัว: Nong Bua: 4403, 440309: เหล่า: Lao: 4403, 440310: เขื่อน: Khuean: 4403, 440311: หนองบอน: Nong Bon: 4403, 440312: โพนงาม: Phon Ngam: 4403, 440313: ยางท่าแจ้ง: Yang Tha Chaeng: 4403, 440314: แห่ใต้: Hae Tai: 4403, 440315: หนองกุงสวรรค์: Nong Kung Sawan: 4403, 440316: เลิงใต้: Loeng Tai: 4403, 440317: ดอนกลาง: Don Klang: 4403"
+    },
+    {
+      "postal_code": 44150,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4404: กันทรวิชัย: Kantharawichai",
+      "subdistricts": "440401: โคกพระ: Khok Phra: 4404, 440402: คันธารราษฎร์: Khan Than Rat: 4404, 440403: มะค่า: Makha: 4404, 440404: ท่าขอนยาง: Tha Khon Yang: 4404, 440405: นาสีนวน: Na Si Nuan: 4404, 440406: ขามเรียง: Kham Riang: 4404, 440407: เขวาใหญ่: Khewa Yai: 4404, 440408: ศรีสุข: Si Suk: 4404, 440409: กุดใส้จ่อ: Kut Sai Cho: 4404, 440410: ขามเฒ่าพัฒนา: Kham Thao Phatthana: 4404"
+    },
+    {
+      "postal_code": 44160,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4405: เชียงยืน: Chiang Yuen, 4413: ชื่นชม: Chuen Chom",
+      "subdistricts": "440501: เชียงยืน: Chiang Yuen: 4405, 440503: หนองซอน: Nong Son: 4405, 440505: ดอนเงิน: Don Ngoen: 4405, 440506: กู่ทอง: Ku Thong: 4405, 440507: นาทอง: Na Thong: 4405, 440508: เสือเฒ่า: Suea Thao: 4405, 440511: โพนทอง: Phon Thong: 4405, 440512: เหล่าบัวบาน: Lao Bua Ban: 4405, 441301: ชื่นชม: Chuen Chom: 4413, 441302: กุดปลาดุก: Kut Pla Duk: 4413, 441303: เหล่าดอกไม้: Lao Dokmai: 4413, 441304: หนองกุง: Nong Kung: 4413"
+    },
+    {
+      "postal_code": 44170,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4407: นาเชือก: Na Chueak",
+      "subdistricts": "440701: นาเชือก: Na Chueak: 4407, 440702: สำโรง: Samrong: 4407, 440703: หนองแดง: Nong Daeng: 4407, 440704: เขวาไร่: Khewa Rai: 4407, 440705: หนองโพธิ์: Nong Pho: 4407, 440706: ปอพาน: Po Phan: 4407, 440707: หนองเม็ก: Nong Mek: 4407, 440708: หนองเรือ: Nong Ruea: 4407, 440709: หนองกุง: Nong Kung: 4407, 440710: สันป่าตอง: San Patong: 4407"
+    },
+    {
+      "postal_code": 44180,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4410: นาดูน: Na Dun",
+      "subdistricts": "441001: นาดูน: Na Dun: 4410, 441002: หนองไผ่: Nong Phai: 4410, 441003: หนองคู: Nong Khu: 4410, 441004: ดงบัง: Dong Bang: 4410, 441005: ดงดวน: Dong Duan: 4410, 441006: หัวดง: Hua Dong: 4410, 441007: ดงยาง: Dong Yang: 4410, 441008: กู่สันตรัตน์: Ku Santarat: 4410, 441009: พระธาตุ: Phrathat: 4410"
+    },
+    {
+      "postal_code": 44190,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4402: แกดำ: Kae Dam",
+      "subdistricts": "440201: แกดำ: Kae Dam: 4402, 440202: วังแสง: Wang Saeng: 4402, 440203: มิตรภาพ: Mittraphap: 4402, 440204: หนองกุง: Nong Kung: 4402, 440205: โนนภิบาล: Non Phiban: 4402"
+    },
+    {
+      "postal_code": 44210,
+      "province_code": 44,
+      "province_name_th": "มหาสารคาม",
+      "province_name_en": "Maha Sarakham",
+      "districts": "4411: ยางสีสุราช: Yang Sisurat",
+      "subdistricts": "441101: ยางสีสุราช: Yang Sisurat: 4411, 441102: นาภู: Na Phu: 4411, 441103: แวงดง: Waeng Dong: 4411, 441104: บ้านกู่: Ban Ku: 4411, 441105: ดงเมือง: Dong Mueang: 4411, 441106: สร้างแซ่ง: Kham Rian: 4411, 441107: หนองบัวสันตุ: Nong Bua Santu: 4411"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดมหาสารคาม (Maha Sarakham Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดมหาสารคาม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Maha Sarakham province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 11 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดมหาสารคาม (Maha Sarakham Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดมหาสารคาม (Maha Sarakham Postal Codes) — 11 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 11 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

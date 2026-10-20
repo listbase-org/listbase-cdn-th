@@ -1,0 +1,136 @@
+{
+  "id": "th-chachoengsao-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดฉะเชิงเทรา (Chachoengsao Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดฉะเชิงเทรา (Chachoengsao Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดฉะเชิงเทรา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chachoengsao province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 24000,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2401: เมืองฉะเชิงเทรา: Mueang Chachoengsao, 2403: บางน้ำเปรี้ยว: Bang Nam Priao, 2411: คลองเขื่อน: Khlong Khuean",
+      "subdistricts": "240101: หน้าเมือง: Na Mueang: 2401, 240102: ท่าไข่: Tha Khai: 2401, 240103: บ้านใหม่: Ban Mai: 2401, 240104: คลองนา: Khlong Na: 2401, 240105: บางตีนเป็ด: Bang Tin Pet: 2401, 240106: บางไผ่: Bang Phai: 2401, 240107: คลองจุกกระเฌอ: Khlong Chuk Khachoe: 2401, 240108: บางแก้ว: Bang Kaeo: 2401, 240109: บางขวัญ: Bang Khwan: 2401, 240110: คลองนครเนื่องเขต: Khlong Nakhon Nueang Khet: 2401, 240111: วังตะเคียน: Wang Takhian: 2401, 240112: โสธร: Sothon: 2401, 240113: บางพระ: Bang Phra: 2401, 240114: บางกะไห: Bang Kahai: 2401, 240115: หนามแดง: Nam Daeng: 2401, 240116: คลองเปรง: Khlong Preng: 2401, 240117: คลองอุดมชลจร: Khlong Udom Chonlachon: 2401, 240118: คลองหลวงแพ่ง: Khlong Luang Phaeng: 2401, 240119: บางเตย: Bang Toei: 2401, 240309: ศาลาแดง: Sala Daeng: 2403, 241101: ก้อนแก้ว: Kon Kaeo: 2411, 241102: คลองเขื่อน: Khlong Khuean: 2411, 241103: บางเล่า: Bang Lao: 2411, 241104: บางโรง: Bang Rong: 2411"
+    },
+    {
+      "postal_code": 24110,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2402: บางคล้า: Bang Khla, 2411: คลองเขื่อน: Khlong Khuean",
+      "subdistricts": "240201: บางคล้า: Bang Khla: 2402, 240204: บางสวน: Bang Suan: 2402, 240208: บางกระเจ็ด: Bang Krachet: 2402, 240209: ปากน้ำ: Pak Nam: 2402, 240210: ท่าทองหลาง: Tha Thong Lang: 2402, 240211: สาวชะโงก: Sao Cha-Ngo: 2402, 240212: เสม็ดเหนือ: Samet Nuea: 2402, 240213: เสม็ดใต้: Samet Tai: 2402, 240214: หัวไทร: Hua Sai: 2402, 241105: บางตลาด: Bang Talat: 2411"
+    },
+    {
+      "postal_code": 24120,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2406: พนมสารคาม: Phanom Sarakham, 2407: ราชสาส์น: Ratchasan",
+      "subdistricts": "240601: เกาะขนุน: Ko Khanun: 2406, 240602: บ้านซ่อง: Ban Song: 2406, 240603: พนมสารคาม: Phanom Sarakham: 2406, 240604: เมืองเก่า: Mueang Kao: 2406, 240605: หนองยาว: Nong Yao: 2406, 240606: ท่าถ่าน: Tha Than: 2406, 240607: หนองแหน: Nong Nae: 2406, 240608: เขาหินซ้อน: Khao Hin Son: 2406, 240701: บางคา: Bang Kha: 2407, 240702: เมืองใหม่: Mueang Mai: 2407, 240703: ดงน้อย: Dong Noi: 2407"
+    },
+    {
+      "postal_code": 24130,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2404: บางปะกง: Bang Pakong",
+      "subdistricts": "240401: บางปะกง: Bang Pakong: 2404, 240402: ท่าสะอ้าน: Tha Sa-An: 2404, 240405: บางผึ้ง: Bang Phueng: 2404, 240407: สองคลอง: Song Khlong: 2404, 240408: หนองจอก: Nong Chok: 2404, 240409: พิมพา: Phimpha: 2404, 240410: ท่าข้าม: Tha Kham: 2404, 240412: เขาดิน: Khao Din: 2404"
+    },
+    {
+      "postal_code": 24140,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2405: บ้านโพธิ์: Ban Pho",
+      "subdistricts": "240501: บ้านโพธิ์: Ban Pho: 2405, 240502: เกาะไร่: Ko Rai: 2405, 240503: คลองขุด: Khlong Khut: 2405, 240504: คลองบ้านโพธิ์: Khlong Ban Pho: 2405, 240505: คลองประเวศ: Khlong Prawet: 2405, 240506: ดอนทราย: Don Sai: 2405, 240507: เทพราช: Theppharat: 2405, 240508: ท่าพลับ: Tha Phlap: 2405, 240509: หนองตีนนก: Nong Tin Nok: 2405, 240510: หนองบัว: Nong Bua: 2405, 240511: บางซ่อน: Bang Son: 2405, 240512: บางกรูด: Bang Krut: 2405, 240513: แหลมประดู่: Laem Pradu: 2405, 240514: ลาดขวาง: Lat Khwang: 2405, 240515: สนามจันทร์: Sanam Chan: 2405, 240516: แสนภูดาษ: Saen Phu Dat: 2405, 240517: สิบเอ็ดศอก: Sip Et Sok: 2405"
+    },
+    {
+      "postal_code": 24150,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2403: บางน้ำเปรี้ยว: Bang Nam Priao",
+      "subdistricts": "240301: บางน้ำเปรี้ยว: Bang Nam Priao: 2403, 240302: บางขนาก: Bang Khanak: 2403, 240303: สิงโตทอง: Singto Thong: 2403, 240304: หมอนทอง: Mon Thong: 2403, 240307: โยธะกา: Yothaka: 2403, 240310: โพรงอากาศ: Phrong Akat: 2403"
+    },
+    {
+      "postal_code": 24160,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2408: สนามชัยเขต: Sanam Chai Khet, 2410: ท่าตะเกียบ: Tha Takiap",
+      "subdistricts": "240801: คู้ยายหมี: Khu Yai Mi: 2408, 240802: ท่ากระดาน: Tha Kradan: 2408, 240803: ทุ่งพระยา: Thung Phraya: 2408, 240805: ลาดกระทิง: Lat Krathing: 2408, 241001: ท่าตะเกียบ: Tha Takiap: 2410, 241002: คลองตะเกรา: Khlong Takrao: 2410"
+    },
+    {
+      "postal_code": 24170,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2403: บางน้ำเปรี้ยว: Bang Nam Priao",
+      "subdistricts": "240305: บึงน้ำรักษ์: Bueng Nam Rak: 2403, 240306: ดอนเกาะกา: Don Ko Ka: 2403, 240308: ดอนฉิมพลี: Don Chimphli: 2403"
+    },
+    {
+      "postal_code": 24180,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2404: บางปะกง: Bang Pakong",
+      "subdistricts": "240403: บางวัว: Bang Wua: 2404, 240404: บางสมัคร: Bang Samak: 2404, 240406: บางเกลือ: Bang Kluea: 2404, 240411: หอมศีล: Hom Sin: 2404"
+    },
+    {
+      "postal_code": 24190,
+      "province_code": 24,
+      "province_name_th": "ฉะเชิงเทรา",
+      "province_name_en": "Chachoengsao",
+      "districts": "2409: แปลงยาว: Pleang Yao",
+      "subdistricts": "240901: แปลงยาว: Plaeng Yao: 2409, 240902: วังเย็น: Wang Yen: 2409, 240903: หัวสำโรง: Hua Samrong: 2409, 240904: หนองไม้แก่น: Nong Mai Kaen: 2409"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดฉะเชิงเทรา (Chachoengsao Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดฉะเชิงเทรา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Chachoengsao province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 10 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดฉะเชิงเทรา (Chachoengsao Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดฉะเชิงเทรา (Chachoengsao Postal Codes) — 10 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 10 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

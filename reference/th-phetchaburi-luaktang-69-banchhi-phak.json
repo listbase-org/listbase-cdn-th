@@ -1,0 +1,1424 @@
+{
+  "id": "th-phetchaburi-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบุรี (Phetchaburi party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบุรี (Phetchaburi party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเพชรบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 293
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1349
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 2267
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 210
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 812
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3151
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 125
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 859
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 4742
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 670
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2676
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 426
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 464
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 58
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 96
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 11210
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 111
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1221
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 157
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 205
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 256
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 193
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 168
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 29048
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 102
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 230
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 210
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 26947
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 154
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 244
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 206
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 87
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 303
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1173
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 621
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 298
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3690
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2370
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 112
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 951
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6234
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 524
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3744
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 388
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 597
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 796
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 149
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 42
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 60
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 50
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 158
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 9377
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 119
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 794
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 128
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 165
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 400
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 368
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 496
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 33531
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 145
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 47
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 270
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 210
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 74
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 463
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 25466
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 261
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 221
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 82
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 98
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 544
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1542
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 578
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 281
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4914
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3025
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 149
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1056
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 5599
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 613
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4277
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 518
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 665
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 402
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 226
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 144
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 63
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 81
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 12443
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 176
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 755
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 184
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 126
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 181
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 389
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 312
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 277
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 26391
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 140
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 74
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 600
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 264
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 79
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24228
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 301
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 268
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 220
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 77
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 105
+    },
+    {
+      "changwat_code": "76",
+      "changwat": "เพชรบุรี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 116
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบุรี (Phetchaburi party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเพชรบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบุรี (Phetchaburi party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบุรี (Phetchaburi party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

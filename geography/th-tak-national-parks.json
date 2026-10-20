@@ -1,0 +1,106 @@
+{
+  "id": "th-tak-national-parks",
+  "name": "ตาก — อุทยานแห่งชาติในจังหวัดตาก (National Parks in Tak Province)",
+  "title": "ตาก — อุทยานแห่งชาติในจังหวัดตาก (National Parks in Tak Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดตาก (Tak). 1 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Tak appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-tak-...' joins to th-tak-postal-codes / th-provinces (province_code 63).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 13,
+      "name_th": "อุทยานแห่งชาติแม่ปิง",
+      "name_en": "Mae Ping National Park",
+      "name_th_short": "แม่ปิง",
+      "name_en_short": "Mae Ping",
+      "lat": 17.56,
+      "lon": 98.8,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50, Tak: ตาก: Tak: tak: 63, Lamphun: ลำพูน: Lamphun: lamphun: 51",
+      "province_count": 3
+    }
+  ],
+  "meta": {
+    "title": "ตาก — อุทยานแห่งชาติในจังหวัดตาก (National Parks in Tak Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดตาก (Tak). 1 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Tak appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-tak-...' joins to th-tak-postal-codes / th-provinces (province_code 63). มีทั้งหมด 1 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ตาก — อุทยานแห่งชาติในจังหวัดตาก (National Parks in Tak Province) | ListBase",
+    "seo_description": "ดาวน์โหลด ตาก — อุทยานแห่งชาติในจังหวัดตาก (National Parks in Tak Province) — 1 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 1 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

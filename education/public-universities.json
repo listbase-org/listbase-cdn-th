@@ -1,0 +1,358 @@
+{
+  "id": "public-universities",
+  "name": "มหาวิทยาลัยรัฐในประเทศไทย",
+  "title": "มหาวิทยาลัยของรัฐและมหาวิทยาลัยในกำกับของรัฐ",
+  "description": "รายชื่อมหาวิทยาลัยของรัฐในประเทศไทยที่ไม่ได้อยู่ในกลุ่มมหาวิทยาลัยราชภัฏและราชมงคล ครอบคลุมทั้งมหาวิทยาลัยของรัฐดั้งเดิมและมหาวิทยาลัยในกำกับของรัฐ (ม.นอกระบบ)",
+  "category": "education",
+  "source": "กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม (อว.)",
+  "source_url": "https://www.mhesi.go.th/",
+  "updated": "2026-02",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อมหาวิทยาลัย (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อ (อังกฤษ)",
+      "type": "string"
+    },
+    {
+      "key": "abbr",
+      "label": "อักษรย่อ",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "พ.ศ. ที่ก่อตั้ง",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "วิทยาเขตหลัก",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "ประเภท",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name_th": "จุฬาลงกรณ์มหาวิทยาลัย",
+      "name_en": "Chulalongkorn University",
+      "abbr": "จุฬาฯ",
+      "established": 2460,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 2,
+      "name_th": "มหาวิทยาลัยธรรมศาสตร์",
+      "name_en": "Thammasat University",
+      "abbr": "มธ.",
+      "established": 2477,
+      "location": "ปทุมธานี/กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 3,
+      "name_th": "มหาวิทยาลัยเกษตรศาสตร์",
+      "name_en": "Kasetsart University",
+      "abbr": "มก.",
+      "established": 2486,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 4,
+      "name_th": "มหาวิทยาลัยมหิดล",
+      "name_en": "Mahidol University",
+      "abbr": "มม.",
+      "established": 2486,
+      "location": "นครปฐม",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 5,
+      "name_th": "มหาวิทยาลัยศิลปากร",
+      "name_en": "Silpakorn University",
+      "abbr": "มศก.",
+      "established": 2486,
+      "location": "กรุงเทพมหานคร/นครปฐม",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 6,
+      "name_th": "มหาวิทยาลัยศรีนครินทรวิโรฒ",
+      "name_en": "Srinakharinwirot University",
+      "abbr": "มศว",
+      "established": 2492,
+      "location": "กรุงเทพมหานคร/นครนายก",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 7,
+      "name_th": "มหาวิทยาลัยเชียงใหม่",
+      "name_en": "Chiang Mai University",
+      "abbr": "มช.",
+      "established": 2507,
+      "location": "เชียงใหม่",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 8,
+      "name_th": "มหาวิทยาลัยขอนแก่น",
+      "name_en": "Khon Kaen University",
+      "abbr": "มข.",
+      "established": 2507,
+      "location": "ขอนแก่น",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 9,
+      "name_th": "มหาวิทยาลัยสงขลานครินทร์",
+      "name_en": "Prince of Songkla University",
+      "abbr": "ม.อ.",
+      "established": 2510,
+      "location": "สงขลา",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 10,
+      "name_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+      "name_en": "King Mongkut's Institute of Technology Ladkrabang",
+      "abbr": "สจล.",
+      "established": 2503,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 11,
+      "name_th": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+      "name_en": "King Mongkut's University of Technology Thonburi",
+      "abbr": "มจธ.",
+      "established": 2503,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 12,
+      "name_th": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+      "name_en": "King Mongkut's University of Technology North Bangkok",
+      "abbr": "มจพ.",
+      "established": 2502,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 13,
+      "name_th": "มหาวิทยาลัยแม่โจ้",
+      "name_en": "Maejo University",
+      "abbr": "มจ.",
+      "established": 2477,
+      "location": "เชียงใหม่",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 14,
+      "name_th": "มหาวิทยาลัยเทคโนโลยีสุรนารี",
+      "name_en": "Suranaree University of Technology",
+      "abbr": "มทส.",
+      "established": 2533,
+      "location": "นครราชสีมา",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 15,
+      "name_th": "มหาวิทยาลัยนเรศวร",
+      "name_en": "Naresuan University",
+      "abbr": "มน.",
+      "established": 2533,
+      "location": "พิษณุโลก",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 16,
+      "name_th": "มหาวิทยาลัยบูรพา",
+      "name_en": "Burapha University",
+      "abbr": "มบ.",
+      "established": 2533,
+      "location": "ชลบุรี",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 17,
+      "name_th": "มหาวิทยาลัยมหาสารคาม",
+      "name_en": "Mahasarakham University",
+      "abbr": "มมส.",
+      "established": 2537,
+      "location": "มหาสารคาม",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 18,
+      "name_th": "มหาวิทยาลัยวลัยลักษณ์",
+      "name_en": "Walailak University",
+      "abbr": "มวล.",
+      "established": 2535,
+      "location": "นครศรีธรรมราช",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 19,
+      "name_th": "มหาวิทยาลัยพะเยา",
+      "name_en": "University of Phayao",
+      "abbr": "มพ.",
+      "established": 2553,
+      "location": "พะเยา",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 20,
+      "name_th": "มหาวิทยาลัยแม่ฟ้าหลวง",
+      "name_en": "Mae Fah Luang University",
+      "abbr": "มฟล.",
+      "established": 2541,
+      "location": "เชียงราย",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 21,
+      "name_th": "มหาวิทยาลัยอุบลราชธานี",
+      "name_en": "Ubon Ratchathani University",
+      "abbr": "มอบ.",
+      "established": 2533,
+      "location": "อุบลราชธานี",
+      "type": "ของรัฐ"
+    },
+    {
+      "order": 22,
+      "name_th": "มหาวิทยาลัยทักษิณ",
+      "name_en": "Thaksin University",
+      "abbr": "มท.",
+      "established": 2539,
+      "location": "สงขลา",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 23,
+      "name_th": "มหาวิทยาลัยนครพนม",
+      "name_en": "Nakhon Phanom University",
+      "abbr": "มนพ.",
+      "established": 2548,
+      "location": "นครพนม",
+      "type": "ของรัฐ"
+    },
+    {
+      "order": 24,
+      "name_th": "มหาวิทยาลัยนราธิวาสราชนครินทร์",
+      "name_en": "Princess of Naradhiwas University",
+      "abbr": "มนร.",
+      "established": 2548,
+      "location": "นราธิวาส",
+      "type": "ของรัฐ"
+    },
+    {
+      "order": 25,
+      "name_th": "มหาวิทยาลัยกาฬสินธุ์",
+      "name_en": "Kalasin University",
+      "abbr": "มกส.",
+      "established": 2558,
+      "location": "กาฬสินธุ์",
+      "type": "ของรัฐ"
+    },
+    {
+      "order": 26,
+      "name_th": "มหาวิทยาลัยสวนดุสิต",
+      "name_en": "Suan Dusit University",
+      "abbr": "มสด.",
+      "established": 2558,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 27,
+      "name_th": "มหาวิทยาลัยรามคำแหง",
+      "name_en": "Ramkhamhaeng University",
+      "abbr": "ม.ร.",
+      "established": 2514,
+      "location": "กรุงเทพมหานคร",
+      "type": "ของรัฐ (ตลาดวิชา)"
+    },
+    {
+      "order": 28,
+      "name_th": "มหาวิทยาลัยสุโขทัยธรรมาธิราช",
+      "name_en": "Sukhothai Thammathirat Open University",
+      "abbr": "มสธ.",
+      "established": 2521,
+      "location": "นนทบุรี",
+      "type": "ของรัฐ (เปิด)"
+    },
+    {
+      "order": 29,
+      "name_th": "สถาบันบัณฑิตพัฒนบริหารศาสตร์",
+      "name_en": "National Institute of Development Administration",
+      "abbr": "สพบ. (NIDA)",
+      "established": 2509,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 30,
+      "name_th": "สถาบันเทคโนโลยีปทุมวัน",
+      "name_en": "Pathumwan Institute of Technology",
+      "abbr": "สปท.",
+      "established": 2475,
+      "location": "กรุงเทพมหานคร",
+      "type": "ของรัฐ"
+    },
+    {
+      "order": 31,
+      "name_th": "ราชวิทยาลัยจุฬาภรณ์",
+      "name_en": "Chulabhorn Royal Academy",
+      "abbr": "รจภ.",
+      "established": 2559,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    },
+    {
+      "order": 32,
+      "name_th": "สถาบันดนตรีกัลยาณิวัฒนา",
+      "name_en": "Princess Galyani Vadhana Institute of Music",
+      "abbr": "สกว.",
+      "established": 2555,
+      "location": "กรุงเทพมหานคร",
+      "type": "ในกำกับของรัฐ"
+    }
+  ],
+  "meta": {
+    "title": "มหาวิทยาลัยของรัฐและมหาวิทยาลัยในกำกับของรัฐ - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รายชื่อมหาวิทยาลัยของรัฐในประเทศไทยที่ไม่ได้อยู่ในกลุ่มมหาวิทยาลัยราชภัฏและราชมงคล ครอบคลุมทั้งมหาวิทยาลัยของรัฐดั้งเดิมและมหาวิทยาลัยในกำกับของรัฐ (ม.นอกระบบ) มีทั้งหมด 32 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "มหาวิทยาลัยรัฐในประเทศไทย | Thai Open Data",
+    "seo_description": "ดาวน์โหลดมหาวิทยาลัยรัฐในประเทศไทย ทั้งหมด 32 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลมหาวิทยาลัยรัฐในประเทศไทย ทั้งหมด 32 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "ตรวจสอบและอัปเดตสถานะของมหาวิทยาลัยปัจจุบัน รวมถึงเพิ่มมหาวิทยาลัยสวนดุสิตที่แยกตัวออกมาจากกลุ่มราชภัฏเป็นมหาวิทยาลัยในกำกับของรัฐ",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Manual Recovery)",
+      "date": "2026-02"
+    }
+  }
+}

@@ -1,0 +1,1880 @@
+{
+  "id": "th-kamphaeng-phet-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กำแพงเพชร (Kamphaeng Phet party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กำแพงเพชร (Kamphaeng Phet party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดกำแพงเพชร. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 228,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 481
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "4",
+      "party": "เพื่อชาติไทย",
+      "votes": 5967
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 935
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "6",
+      "party": "ใหม่",
+      "votes": 655
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2424
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "8",
+      "party": "มิติใหม่",
+      "votes": 1158
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "9",
+      "party": "พลวัต",
+      "votes": 217
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "10",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 632
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "11",
+      "party": "เพื่อไทย",
+      "votes": 7569
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "12",
+      "party": "ทางเลือกใหม่",
+      "votes": 458
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "13",
+      "party": "เศรษฐกิจ",
+      "votes": 3831
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "14",
+      "party": "เสรีรวมไทย",
+      "votes": 642
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "15",
+      "party": "รวมพลังประชาชน",
+      "votes": 779
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "16",
+      "party": "ท้องที่ไทย",
+      "votes": 193
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "17",
+      "party": "อนาคตไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังเพื่อไทย",
+      "votes": 209
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "19",
+      "party": "ไทยชนะ",
+      "votes": 206
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "20",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "21",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "22",
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "23",
+      "party": "ไทรวมพลัง",
+      "votes": 73
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "24",
+      "party": "ก้าวอิสระ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "25",
+      "party": "ปวงชนไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "26",
+      "party": "วิชชั่นใหม่",
+      "votes": 307
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "27",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "28",
+      "party": "คลองไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "29",
+      "party": "ประชาธิปัตย์",
+      "votes": 8196
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "30",
+      "party": "ไทยก้าวหน้า",
+      "votes": 151
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "31",
+      "party": "ไทยภักดี",
+      "votes": 896
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "32",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 170
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชากรไทย",
+      "votes": 385
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "34",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 195
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "35",
+      "party": "ประชาชาติ",
+      "votes": 218
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "36",
+      "party": "สร้างอนาคตไทย",
+      "votes": 196
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "37",
+      "party": "รักชาติ",
+      "votes": 142
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "38",
+      "party": "ไทยพร้อม",
+      "votes": 168
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "39",
+      "party": "ภูมิใจไทย",
+      "votes": 13169
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "40",
+      "party": "พลังธรรมใหม่",
+      "votes": 249
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 5140
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 281
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 112
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 248
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 32891
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 191
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 285
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 199
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 74
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3302
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 2350
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 3972
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 361
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 678
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1935
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 287
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 859
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 14578
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 433
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 3843
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 390
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 693
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 309
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 246
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 263
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 46
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 34
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 74
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 68
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 181
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 11783
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 162
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 510
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 438
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 253
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 368
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 216
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 177
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 137
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 192
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 11314
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 366
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 103
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 101
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3423
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 644
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 64
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 224
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27524
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 290
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 338
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 181
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 62
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 167
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 91
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "1",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 420
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1309
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 612
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 2708
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 629
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4285
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 191
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 937
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 14924
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 465
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 3719
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 454
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 633
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 993
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 106
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 283
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 266
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 60
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 70
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 150
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 56
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 219
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 8390
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 186
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 398
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 162
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 95
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 321
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 337
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 169
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 9287
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 303
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 87
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 2010
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 517
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 76
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 161
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 24137
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 313
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 366
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 146
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "3",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 104
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 734
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1626
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 621
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2254
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 766
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1969
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 2274
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 799
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 18637
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 479
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3903
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 431
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 644
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 148
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 285
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 212
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 64
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 53
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 175
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 105
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 7009
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 171
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 439
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 169
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 188
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 131
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 260
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 187
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 174
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 310
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10036
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 306
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 57
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 109
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2813
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 275
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 311
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 244
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23593
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 269
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 325
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 168
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 74
+    },
+    {
+      "changwat_code": "62",
+      "changwat": "กำแพงเพชร",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 65
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กำแพงเพชร (Kamphaeng Phet party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดกำแพงเพชร. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 228 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กำแพงเพชร (Kamphaeng Phet party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — กำแพงเพชร (Kamphaeng Phet party-list ballots) — 228 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 228 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

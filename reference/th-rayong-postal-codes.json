@@ -1,0 +1,160 @@
+{
+  "id": "th-rayong-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดระยอง (Rayong Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดระยอง (Rayong Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดระยอง แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Rayong province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 21000,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2101: เมืองระยอง: Mueang Rayong",
+      "subdistricts": "210101: ท่าประดู่: Tha Pradu: 2101, 210102: เชิงเนิน: Choeng Noen: 2101, 210103: ตะพง: Taphong: 2101, 210104: ปากน้ำ: Pak Nam: 2101, 210107: บ้านแลง: Ban Laeng: 2101, 210108: นาตาขวัญ: Na Ta Khwan: 2101, 210109: เนินพระ: Noen Phra: 2101, 210111: ทับมา: Thap Ma: 2101, 210112: น้ำคอก: Nam Khok: 2101"
+    },
+    {
+      "postal_code": 21100,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2101: เมืองระยอง: Mueang Rayong",
+      "subdistricts": "210110: กะเฉด: Kachet: 2101, 210115: สำนักทอง: Samnak Thong: 2101"
+    },
+    {
+      "postal_code": 21110,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2103: แกลง: Klaeng, 2107: เขาชะเมา: Khao Chamao",
+      "subdistricts": "210301: ทางเกวียน: Thang Kwian: 2103, 210302: วังหว้า: Wang Wa: 2103, 210303: ชากโดน: Chak Don: 2103, 210304: เนินฆ้อ: Noen Kho: 2103, 210307: กระแสบน: Krasae Bon: 2103, 210308: บ้านนา: Ban Na: 2103, 210309: ทุ่งควายกิน: Thung Khwai Kin: 2103, 210312: พังราด: Phang Rat: 2103, 210317: ห้วยยาง: Huai Yang: 2103, 210318: สองสลึง: Song Salueng: 2103, 210701: น้ำเป็น: Nam Pen: 2107, 210702: ห้วยทับมอญ: Huai Thap Mon: 2107, 210703: ชำฆ้อ: Cham Noi: 2107, 210704: เขาน้อย: Khao Noi: 2107"
+    },
+    {
+      "postal_code": 21120,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2105: บ้านค่าย: Ban Khai",
+      "subdistricts": "210501: บ้านค่าย: Ban Khai: 2105, 210502: หนองละลอก: Nong Lalok: 2105, 210503: หนองตะพาน: Nong Taphan: 2105, 210504: ตาขัน: Ta Khan: 2105, 210505: บางบุตร: Bang But: 2105, 210506: หนองบัว: Nong Bua: 2105, 210507: ชากบก: Chak Bok: 2105"
+    },
+    {
+      "postal_code": 21130,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2102: บ้านฉาง: Ban Chang",
+      "subdistricts": "210201: สำนักท้อน: Samnak Thon: 2102, 210202: พลา: Phla: 2102, 210203: บ้านฉาง: Ban Chang: 2102"
+    },
+    {
+      "postal_code": 21140,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2106: ปลวกแดง: Pluak Daeng",
+      "subdistricts": "210601: ปลวกแดง: Pluak Daeng: 2106, 210602: ตาสิทธิ์: Ta Sit: 2106, 210603: ละหาร: Lahan: 2106, 210604: แม่น้ำคู้: Maenam Khu: 2106, 210605: มาบยางพร: Map Yang Phon: 2106, 210606: หนองไร่: Nong Rai: 2106"
+    },
+    {
+      "postal_code": 21150,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2101: เมืองระยอง: Mueang Rayong",
+      "subdistricts": "210113: ห้วยโป่ง: Huai Pong: 2101, 210114: มาบตาพุด: Maptaphut: 2101"
+    },
+    {
+      "postal_code": 21160,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2101: เมืองระยอง: Mueang Rayong",
+      "subdistricts": "210105: เพ: Phe: 2101, 210106: แกลง: Klaeng: 2101"
+    },
+    {
+      "postal_code": 21170,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2103: แกลง: Klaeng",
+      "subdistricts": "210311: คลองปูน: Khlong Pun: 2103, 210313: ปากน้ำกระแส: Pak Nam Krasae: 2103"
+    },
+    {
+      "postal_code": 21180,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2108: นิคมพัฒนา: Nikhom Phatthana",
+      "subdistricts": "210801: นิคมพัฒนา: Nikhom Phatthana: 2108, 210802: มาบข่า: Map Kha: 2108, 210803: พนานิคม: Phana Nikhom: 2108, 210804: มะขามคู่: Makham Khu: 2108"
+    },
+    {
+      "postal_code": 21190,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2103: แกลง: Klaeng",
+      "subdistricts": "210305: กร่ำ: Kram: 2103, 210306: ชากพง: Chak Phong: 2103"
+    },
+    {
+      "postal_code": 21210,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2104: วังจันทร์: Wang Chan",
+      "subdistricts": "210401: วังจันทร์: Wang Chan: 2104, 210402: ชุมแสง: Chum Saeng: 2104, 210403: ป่ายุบใน: Pa Yup Nai: 2104, 210404: พลงตาเอี่ยม: Phong Ta Iam: 2104"
+    },
+    {
+      "postal_code": 22160,
+      "province_code": 21,
+      "province_name_th": "ระยอง",
+      "province_name_en": "Rayong",
+      "districts": "2103: แกลง: Klaeng",
+      "subdistricts": "210310: กองดิน: Kong Din: 2103"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดระยอง (Rayong Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดระยอง แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Rayong province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 13 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดระยอง (Rayong Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดระยอง (Rayong Postal Codes) — 13 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 13 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "th-krabi-national-parks",
+  "name": "กระบี่ — อุทยานแห่งชาติในจังหวัดกระบี่ (National Parks in Krabi Province)",
+  "title": "กระบี่ — อุทยานแห่งชาติในจังหวัดกระบี่ (National Parks in Krabi Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดกระบี่ (Krabi). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Krabi appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-krabi-...' joins to th-krabi-postal-codes / th-provinces (province_code 81).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 36,
+      "name_th": "อุทยานแห่งชาติหาดนพรัตน์ธารา-หมู่เกาะพีพี",
+      "name_en": "Hat Noppharat Thara–Mu Ko Phi Phi National Park",
+      "name_th_short": "หาดนพรัตน์ธารา-หมู่เกาะพีพี",
+      "name_en_short": "Hat Noppharat Thara–Mu Ko Phi Phi",
+      "lat": 7.73,
+      "lon": 98.76,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Krabi: กระบี่: Krabi: krabi: 81",
+      "province_count": 1
+    },
+    {
+      "park_id": 37,
+      "name_th": "อุทยานแห่งชาติเขาพนมเบญจา",
+      "name_en": "Khao Phanom Bencha National Park",
+      "name_th_short": "เขาพนมเบญจา",
+      "name_en_short": "Khao Phanom Bencha",
+      "lat": 8.24,
+      "lon": 98.91,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Krabi: กระบี่: Krabi: krabi: 81",
+      "province_count": 1
+    },
+    {
+      "park_id": 38,
+      "name_th": "อุทยานแห่งชาติหมู่เกาะลันตา",
+      "name_en": "Mu Ko Lanta National Park",
+      "name_th_short": "หมู่เกาะลันตา",
+      "name_en_short": "Mu Ko Lanta",
+      "lat": 7.48,
+      "lon": 99.09,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Krabi: กระบี่: Krabi: krabi: 81",
+      "province_count": 1
+    },
+    {
+      "park_id": 39,
+      "name_th": "อุทยานแห่งชาติธารโบกขรณี",
+      "name_en": "Than Bok Khorani National Park",
+      "name_th_short": "ธารโบกขรณี",
+      "name_en_short": "Than Bok Khorani",
+      "lat": 8.38,
+      "lon": 98.73,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Krabi: กระบี่: Krabi: krabi: 81",
+      "province_count": 1
+    }
+  ],
+  "meta": {
+    "title": "กระบี่ — อุทยานแห่งชาติในจังหวัดกระบี่ (National Parks in Krabi Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดกระบี่ (Krabi). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Krabi appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-krabi-...' joins to th-krabi-postal-codes / th-provinces (province_code 81). มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "กระบี่ — อุทยานแห่งชาติในจังหวัดกระบี่ (National Parks in Krabi Province) | ListBase",
+    "seo_description": "ดาวน์โหลด กระบี่ — อุทยานแห่งชาติในจังหวัดกระบี่ (National Parks in Krabi Province) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

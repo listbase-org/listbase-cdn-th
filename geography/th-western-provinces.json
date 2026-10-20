@@ -1,0 +1,96 @@
+{
+  "id": "th-western-provinces",
+  "name": "ภาคตะวันตก — จังหวัดในภาคตะวันตก (Western Provinces of Thailand)",
+  "title": "ภาคตะวันตก — จังหวัดในภาคตะวันตก (Western Provinces of Thailand)",
+  "description": "Provinces (จังหวัด) located in Western Thailand (ภาคตะวันตก). Mountainous border region with Myanmar.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "province_id",
+      "label": "Province Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_th",
+      "label": "Region Th",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province_id": 50,
+      "name_th": "ตาก",
+      "name_en": "Tak",
+      "region_id": 4,
+      "region_th": "ภาคตะวันตก",
+      "region_en": "Western"
+    },
+    {
+      "province_id": 55,
+      "name_th": "ราชบุรี",
+      "name_en": "Ratchaburi",
+      "region_id": 4,
+      "region_th": "ภาคตะวันตก",
+      "region_en": "Western"
+    },
+    {
+      "province_id": 56,
+      "name_th": "กาญจนบุรี",
+      "name_en": "Kanchanaburi",
+      "region_id": 4,
+      "region_th": "ภาคตะวันตก",
+      "region_en": "Western"
+    },
+    {
+      "province_id": 61,
+      "name_th": "เพชรบุรี",
+      "name_en": "Phetchaburi",
+      "region_id": 4,
+      "region_th": "ภาคตะวันตก",
+      "region_en": "Western"
+    },
+    {
+      "province_id": 62,
+      "name_th": "ประจวบคีรีขันธ์",
+      "name_en": "Prachuap Khiri Khan",
+      "region_id": 4,
+      "region_th": "ภาคตะวันตก",
+      "region_en": "Western"
+    }
+  ],
+  "meta": {
+    "title": "ภาคตะวันตก — จังหวัดในภาคตะวันตก (Western Provinces of Thailand) - ดาวน์โหลดฟรี",
+    "description": "Provinces (จังหวัด) located in Western Thailand (ภาคตะวันตก). Mountainous border region with Myanmar. มีทั้งหมด 5 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาคตะวันตก — จังหวัดในภาคตะวันตก (Western Provinces of Thailand) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาคตะวันตก — จังหวัดในภาคตะวันตก (Western Provinces of Thailand) — 5 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 5 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

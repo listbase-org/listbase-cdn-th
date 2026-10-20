@@ -1,0 +1,172 @@
+{
+  "id": "th-chon-buri-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดชลบุรี 2562 (Chon Buri 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดชลบุรี 2562 (Chon Buri 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดชลบุรี ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Chon Buri province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 64,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองชลบุรี",
+      "areas_detail": "เมืองชลบุรี: : บางปลาสร้อย,บางทราย,มะขามหย่ง,ดอนหัวฬ่อ,บ้านสวน,บ้านโขด,คลองตำหรุ,หนองไม้แดง: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 65,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 2,
+      "area_count": 2,
+      "amphoes": "พานทอง, เมืองชลบุรี",
+      "areas_detail": "พานทอง: : มาบโป่ง,หนองหงษ์: , เมืองชลบุรี: บางปลาสร้อย,บางทราย,ดอนหัวฬ่อ,บ้านสวน,บ้านโขด,คลองตำหรุ,มะขามหย่ง,หนองไม้แดง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 66,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "พนัสนิคม, พานทอง, เกาะจันทร์",
+      "areas_detail": "พนัสนิคม: : : , พานทอง: มาบโป่ง,หนองหงษ์: : , เกาะจันทร์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 67,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 4,
+      "area_count": 3,
+      "amphoes": "บ่อทอง, บ้านบึง, หนองใหญ่",
+      "areas_detail": "บ่อทอง: : : , บ้านบึง: : : , หนองใหญ่: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 68,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 5,
+      "area_count": 2,
+      "amphoes": "ศรีราชา, เกาะสีชัง",
+      "areas_detail": "ศรีราชา: : ทุ่งสุขลา,บึง: , เกาะสีชัง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 69,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 6,
+      "area_count": 2,
+      "amphoes": "บางละมุง, ศรีราชา",
+      "areas_detail": "บางละมุง: : ห้วยใหญ่,เขาไม้แก้ว,หนองปรือ,โป่ง: , ศรีราชา: ทุ่งสุขลา,บึง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 70,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 7,
+      "area_count": 1,
+      "amphoes": "บางละมุง",
+      "areas_detail": "บางละมุง: เขาไม้แก้ว,ห้วยใหญ่,หนองปรือ,โป่ง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 71,
+      "province_name_th": "ชลบุรี",
+      "province_name_en": "Chon Buri",
+      "province_slug": "chon-buri",
+      "zone_number": 8,
+      "area_count": 1,
+      "amphoes": "สัตหีบ",
+      "areas_detail": "สัตหีบ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดชลบุรี 2562 (Chon Buri 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดชลบุรี ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Chon Buri province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 8 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดชลบุรี 2562 (Chon Buri 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดชลบุรี 2562 (Chon Buri 2019 Election Constituencies) — 8 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 8 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

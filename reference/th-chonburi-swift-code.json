@@ -1,0 +1,70 @@
+{
+  "id": "th-chonburi-swift-code",
+  "name": "รหัส SWIFT/BIC — Chonburi",
+  "title": "รหัส SWIFT/BIC — Chonburi",
+  "description": "รหัส SWIFT/BIC ของธนาคารและสถาบันการเงินในประเทศไทย แต่ละรายการระบุชื่อสถาบัน เมือง สาขา (ถ้ามี) และรหัส SWIFT/BIC แหล่งข้อมูล: PeterNotenboom/SwiftCodes (สัญญาอนุญาต MIT) ชุดย่อยนี้มี 4 สถาบันที่แหล่งข้อมูลระบุเมืองเป็น \"CHONBURI\"",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "CHONBURI LENDING OFFICE",
+      "city": "CHONBURI",
+      "branch": "",
+      "swift_code": "LENDTHB1"
+    },
+    {
+      "bank": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
+      "city": "CHONBURI",
+      "branch": "(CHONBURI BRANCH)",
+      "swift_code": "ICBCTHBKCHB"
+    },
+    {
+      "bank": "THAI SAMSUNG ELECTRONICS CO.,LTD.",
+      "city": "CHONBURI",
+      "branch": "(TSE)",
+      "swift_code": "SECTTHB15A0"
+    },
+    {
+      "bank": "THAI SAMSUNG ELECTRONICS CO.,LTD.",
+      "city": "CHONBURI",
+      "branch": "",
+      "swift_code": "SECTTHB1"
+    }
+  ],
+  "meta": {
+    "title": "รหัส SWIFT/BIC — Chonburi - ดาวน์โหลดฟรี",
+    "description": "รหัส SWIFT/BIC ของธนาคารและสถาบันการเงินในประเทศไทย แต่ละรายการระบุชื่อสถาบัน เมือง สาขา (ถ้ามี) และรหัส SWIFT/BIC แหล่งข้อมูล: PeterNotenboom/SwiftCodes (สัญญาอนุญาต MIT) ชุดย่อยนี้มี 4 สถาบันที่แหล่งข้อมูลระบุเมืองเป็น \"CHONBURI\" มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัส SWIFT/BIC — Chonburi | ListBase",
+    "seo_description": "ดาวน์โหลด รหัส SWIFT/BIC — Chonburi — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

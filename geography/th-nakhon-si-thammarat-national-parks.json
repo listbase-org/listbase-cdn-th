@@ -1,0 +1,151 @@
+{
+  "id": "th-nakhon-si-thammarat-national-parks",
+  "name": "นครศรีธรรมราช — อุทยานแห่งชาติในจังหวัดนครศรีธรรมราช (National Parks in Nakhon Si Thammarat Province)",
+  "title": "นครศรีธรรมราช — อุทยานแห่งชาติในจังหวัดนครศรีธรรมราช (National Parks in Nakhon Si Thammarat Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดนครศรีธรรมราช (Nakhon Si Thammarat). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Nakhon Si Thammarat appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-nakhon-si-thammarat-...' joins to th-nakhon-si-thammarat-postal-codes / th-provinces (province_code 80).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 22,
+      "name_th": "อุทยานแห่งชาติเขาหลวง",
+      "name_en": "Khao Luang National Park",
+      "name_th_short": "เขาหลวง",
+      "name_en_short": "Khao Luang",
+      "lat": 8.36,
+      "lon": 99.73,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Nakhon Si Thammarat: นครศรีธรรมราช: Nakhon Si Thammarat: nakhon-si-thammarat: 80",
+      "province_count": 1
+    },
+    {
+      "park_id": 23,
+      "name_th": "อุทยานแห่งชาติเขานัน",
+      "name_en": "Khao Nan National Park",
+      "name_th_short": "เขานัน",
+      "name_en_short": "Khao Nan",
+      "lat": 8.77,
+      "lon": 99.8,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Nakhon Si Thammarat: นครศรีธรรมราช: Nakhon Si Thammarat: nakhon-si-thammarat: 80",
+      "province_count": 1
+    },
+    {
+      "park_id": 24,
+      "name_th": "อุทยานแห่งชาติน้ำตกสี่ขีด",
+      "name_en": "Namtok Si Khit National Park",
+      "name_th_short": "น้ำตกสี่ขีด",
+      "name_en_short": "Namtok Si Khit",
+      "lat": 9.01,
+      "lon": 99.77,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Nakhon Si Thammarat: นครศรีธรรมราช: Nakhon Si Thammarat: nakhon-si-thammarat: 80, Surat Thani: สุราษฎร์ธานี: Surat Thani: surat-thani: 84",
+      "province_count": 2
+    },
+    {
+      "park_id": 25,
+      "name_th": "อุทยานแห่งชาติน้ำตกโยง",
+      "name_en": "Namtok Yong National Park",
+      "name_th_short": "น้ำตกโยง",
+      "name_en_short": "Namtok Yong",
+      "lat": 8.17,
+      "lon": 99.74,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Nakhon Si Thammarat: นครศรีธรรมราช: Nakhon Si Thammarat: nakhon-si-thammarat: 80",
+      "province_count": 1
+    }
+  ],
+  "meta": {
+    "title": "นครศรีธรรมราช — อุทยานแห่งชาติในจังหวัดนครศรีธรรมราช (National Parks in Nakhon Si Thammarat Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดนครศรีธรรมราช (Nakhon Si Thammarat). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Nakhon Si Thammarat appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-nakhon-si-thammarat-...' joins to th-nakhon-si-thammarat-postal-codes / th-provinces (province_code 80). มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "นครศรีธรรมราช — อุทยานแห่งชาติในจังหวัดนครศรีธรรมราช (National Parks in Nakhon Si Thammarat Province) | ListBase",
+    "seo_description": "ดาวน์โหลด นครศรีธรรมราช — อุทยานแห่งชาติในจังหวัดนครศรีธรรมราช (National Parks in Nakhon Si Thammarat Province) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

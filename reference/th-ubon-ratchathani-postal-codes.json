@@ -1,0 +1,216 @@
+{
+  "id": "th-ubon-ratchathani-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดอุบลราชธานี (Ubon Ratchathani Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดอุบลราชธานี (Ubon Ratchathani Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดอุบลราชธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Ubon Ratchathani province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 34000,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3401: เมืองอุบลราชธานี: Mueang Ubon Ratchathani, 3424: ดอนมดแดง: Don Mot Daeng, 3431: เหล่าเสือโก้ก: Lao Suea Kok",
+      "subdistricts": "340101: ในเมือง: Nai Mueang: 3401, 340104: หัวเรือ: Hua Ruea: 3401, 340105: หนองขอน: Nong Khon: 3401, 340107: ปทุม: Pathum: 3401, 340108: ขามใหญ่: Kham Yai: 3401, 340109: แจระแม: Chaeramae: 3401, 340111: หนองบ่อ: Nong Bo: 3401, 340112: ไร่น้อย: Rai Noi: 3401, 340113: กระโสบ: Krasop: 3401, 340116: กุดลาด: Kut Lat: 3401, 340119: ขี้เหล็ก: Khi Lek: 3401, 340120: ปะอาว: Pa-Ao: 3401, 342401: ดอนมดแดง: Don Mot Daeng: 3424, 342402: เหล่าแดง: Lao Daeng: 3424, 342403: ท่าเมือง: Tha Mueang: 3424, 342404: คำไฮใหญ่: Kham Hai Yai: 3424, 343101: เหล่าเสือโก้ก: Lao Suea Kok: 3431, 343102: โพนเมือง: Phon Mueang: 3431, 343103: แพงใหญ่: Phaeng Yai: 3431, 343104: หนองบก: Nong Bok: 3431"
+    },
+    {
+      "postal_code": 34110,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3419: พิบูลมังสาหาร: Phibun Mangsahan",
+      "subdistricts": "341901: พิบูล: Phibun: 3419, 341902: กุดชมภู: Kut Chomphu: 3419, 341904: ดอนจิก: Don Chik: 3419, 341905: ทรายมูล: Sai Mun: 3419, 341906: นาโพธิ์: Na Pho: 3419, 341907: โนนกลาง: Non Klang: 3419, 341909: โพธิ์ไทร: Pho Sai: 3419, 341910: โพธิ์ศรี: Pho Si: 3419, 341911: ระเว: Rawe: 3419, 341912: ไร่ใต้: Rai Tai: 3419, 341913: หนองบัวฮี: Nong Bua Hi: 3419, 341914: อ่างศิลา: Ang Sila: 3419, 341918: โนนกาหลง: Non Kalong: 3419, 341919: บ้านแขม: Ban Khaem: 3419"
+    },
+    {
+      "postal_code": 34130,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3411: ตระการพืชผล: Trakan Phuet Phon",
+      "subdistricts": "341101: ขุหลุ: Khulu: 3411, 341102: กระเดียน: Kradian: 3411, 341103: เกษม: Kasem: 3411, 341104: กุศกร: Kusakon: 3411, 341105: ขามเปี้ย: Kham Pia: 3411, 341106: คอนสาย: Khon Sai: 3411, 341107: โคกจาน: Khok Chan: 3411, 341108: นาพิน: Na Phin: 3411, 341109: นาสะไม: Na Samai: 3411, 341110: โนนกุง: Non Kung: 3411, 341111: ตระการ: Trakan: 3411, 341112: ตากแดด: Tak Daet: 3411, 341113: ไหล่ทุ่ง: Lai Thung: 3411, 341114: เป้า: Pao: 3411, 341115: เซเป็ด: Se Pet: 3411, 341116: สะพือ: Saphue: 3411, 341117: หนองเต่า: Nong Tao: 3411, 341118: ถ้ำแข้: Tham Khae: 3411, 341119: ท่าหลวง: Tha Luang: 3411, 341120: ห้วยฝ้ายพัฒนา: Huai Fai Phatthana: 3411, 341121: กุดยาลวน: Kut Ya Luan: 3411, 341122: บ้านแดง: Ban Daeng: 3411, 341123: คำเจริญ: Kham Charoen: 3411"
+    },
+    {
+      "postal_code": 34140,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3414: ม่วงสามสิบ: Muang Sam Sip",
+      "subdistricts": "341401: ม่วงสามสิบ: Muang Sam Sip: 3414, 341402: เหล่าบก: Lao Bok: 3414, 341403: ดุมใหญ่: Dum Yai: 3414, 341404: หนองช้างใหญ่: Nong Chang Yai: 3414, 341405: หนองเมือง: Nong Mueang: 3414, 341406: เตย: Toei: 3414, 341407: ยางสักกระโพหลุ่ม: Yang Sak Krapho Lum: 3414, 341408: หนองไข่นก: Nong Khai Nok: 3414, 341409: หนองเหล่า: Nong Lao: 3414, 341410: หนองฮาง: Nong Hang: 3414, 341411: ยางโยภาพ: Yang Yo Phap: 3414, 341412: ไผ่ใหญ่: Phai Yai: 3414, 341413: นาเลิง: Na Loeng: 3414, 341414: โพนแพง: Phon Phaeng: 3414"
+    },
+    {
+      "postal_code": 34150,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3404: เขื่องใน: Khueang Nai",
+      "subdistricts": "340401: เขื่องใน: Khueang Nai: 3404, 340402: สร้างถ่อ: Sang Tho: 3404, 340403: ค้อทอง: Kho Thong: 3404, 340404: ก่อเอ้: Ko-E: 3404, 340405: หัวดอน: Hua Don: 3404, 340406: ชีทวน: Chi Tuan: 3404, 340407: ท่าไห: Tha Hai: 3404, 340408: นาคำใหญ่: Na Kham Yai: 3404, 340409: แดงหม้อ: Daeng Mo: 3404, 340410: ธาตุน้อย: That Noi: 3404, 340415: ยางขี้นก: Yang Khi Nok: 3404, 340416: ศรีสุข: Si Suk: 3404, 340417: สหธาตุ: Sahathat: 3404, 340418: หนองเหล่า: Nong Lao: 3404"
+    },
+    {
+      "postal_code": 34160,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3407: เดชอุดม: Det Udom, 3426: ทุ่งศรีอุดม: Thung Si Udom, 3429: นาเยีย: Na Yia",
+      "subdistricts": "340701: เมืองเดช: Mueang Det: 3407, 340702: นาส่วง: Na Suang: 3407, 340704: นาเจริญ: Na Charoen: 3407, 340706: ทุ่งเทิง: Thung Thoeng: 3407, 340708: สมสะอาด: Som Sa-At: 3407, 340709: กุดประทาย: Kut Prathai: 3407, 340710: ตบหู: Top Hu: 3407, 340711: กลาง: Klang: 3407, 340712: แก้ง: Kaeng: 3407, 340713: ท่าโพธิ์ศรี: Tha Pho Si: 3407, 340715: บัวงาม: Bua Ngam: 3407, 340716: คำครั่ง: Kham Khrang: 3407, 340717: นากระแซง: Na Krasaeng: 3407, 340720: โพนงาม: Phon Ngam: 3407, 340721: ป่าโมง: Pa Mong: 3407, 340723: โนนสมบูรณ์: Non Sombun: 3407, 342602: หนองอ้ม: Nong Om: 3426, 342603: นาเกษม: Na Kasem: 3426, 342604: กุดเรือ: Kut Ruea: 3426, 342605: โคกชำแระ: Khok Chamrae: 3426, 342606: นาห่อม: Na Hom: 3426, 342901: นาเยีย: Na Yia: 3429, 342902: นาดี: Na Di: 3429, 342903: นาเรือง: Na Rueang: 3429"
+    },
+    {
+      "postal_code": 34170,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3405: เขมราฐ: Khemarat, 3430: นาตาล: Na Tan",
+      "subdistricts": "340501: เขมราฐ: Khemarat: 3405, 340503: ขามป้อม: Kham Pom: 3405, 340504: เจียด: Chiat: 3405, 340507: หนองผือ: Nong Phue: 3405, 340508: นาแวง: Na Waeng: 3405, 340510: แก้งเหนือ: Kaeng Nuea: 3405, 340511: หนองนกทา: Nong Nok Tha: 3405, 340512: หนองสิม: Nong Sim: 3405, 340513: หัวนา: Hua Na: 3405, 343001: นาตาล: Na Tan: 3430, 343002: พะลาน: Phalan: 3430, 343003: กองโพน: Kong Phon: 3430, 343004: พังเคน: Phang Khen: 3430"
+    },
+    {
+      "postal_code": 34190,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3415: วารินชำราบ: Warin Chamrap, 3432: สว่างวีระวงศ์: Sawang Wirawong",
+      "subdistricts": "341501: วารินชำราบ: Warin Chamrap: 3415, 341502: ธาตุ: That: 3415, 341505: โนนโหนน: Non Non: 3415, 341507: คูเมือง: Khu Mueang: 3415, 341508: สระสมิง: Sa Saming: 3415, 341510: คำน้ำแซบ: Kham Nam Sap: 3415, 341515: คำขวาง: Kham Khwang: 3415, 341516: โพธิ์ใหญ่: Pho Yai: 3415, 341518: แสนสุข: Saen Suk: 3415, 341520: หนองกินเพล: Nong Kin Phlen: 3415, 341521: โนนผึ้ง: Non Phueng: 3415, 341522: เมืองศรีไค: Mueang Si Khai: 3415, 341526: บุ่งไหม: Bung Mai: 3415, 343201: แก่งโดม: Kaeng Dom: 3432, 343202: ท่าช้าง: Tha Chang: 3432, 343203: บุ่งมะแลง: Bung Malaeng: 3432, 343204: สว่าง: Sawang: 3432"
+    },
+    {
+      "postal_code": 34220,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3403: โขงเจียม: Khong Chiam",
+      "subdistricts": "340301: โขงเจียม: Khong Chiam: 3403, 340302: ห้วยยาง: Huai Yang: 3403, 340303: นาโพธิ์กลาง: Na Pho Klang: 3403, 340304: หนองแสงใหญ่: Nong Saeng Yai: 3403, 340305: ห้วยไผ่: Huai Phai: 3403"
+    },
+    {
+      "postal_code": 34230,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3410: บุณฑริก: Boontharik",
+      "subdistricts": "341001: โพนงาม: Phon Ngam: 3410, 341002: ห้วยข่า: Huai Kha: 3410, 341003: คอแลน: Kho Laen: 3410, 341004: นาโพธิ์: Na Pho: 3410, 341005: หนองสะโน: Nong Sano: 3410, 341006: โนนค้อ: Non Kho: 3410, 341007: บัวงาม: Bua Ngam: 3410, 341008: บ้านแมด: Ban Maet: 3410"
+    },
+    {
+      "postal_code": 34250,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3402: ศรีเมืองใหม่: Si Mueang Mai",
+      "subdistricts": "340201: นาคำ: Na Kham: 3402, 340202: แก้งกอก: Kaeng Kok: 3402, 340203: เอือดใหญ่: Ueat Yai: 3402, 340204: วาริน: Warin: 3402, 340205: ลาดควาย: Lat Khwai: 3402, 340206: สงยาง: Song Yang: 3402, 340207: ตะบ่าย: Tabai: 3402, 340208: คำไหล: Kham Lai: 3402, 340209: หนามแท่ง: Nam Thaeng: 3402, 340210: นาเลิน: Na Loen: 3402, 340211: ดอนใหญ่: Don Yai: 3402"
+    },
+    {
+      "postal_code": 34260,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3409: น้ำยืน: Nam Yuen, 3433: น้ำขุ่น: Nam Khun",
+      "subdistricts": "340901: โซง: Song: 3409, 340903: ยาง: Yang: 3409, 340904: โดมประดิษฐ์: Dom Pradit: 3409, 340906: บุเปือย: Bu Pueai: 3409, 340907: สีวิเชียร: Si Wichian: 3409, 340909: ยางใหญ่: Yang Yai: 3409, 340911: เก่าขาม: Kao Kham: 3409, 343301: ตาเกา: Ta Kao: 3433, 343302: ไพบูลย์: Phaibun: 3433, 343303: ขี้เหล็ก: Khi Lek: 3433, 343304: โคกสะอาด: Khok Sa-At: 3433"
+    },
+    {
+      "postal_code": 34270,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3412: กุดข้าวปุ้น: Kut Khaopun",
+      "subdistricts": "341201: ข้าวปุ้น: Khao Pun: 3412, 341202: โนนสวาง: Non Sawang: 3412, 341203: แก่งเค็ง: Kaeng Kheng: 3412, 341204: กาบิน: Kabin: 3412, 341205: หนองทันน้ำ: Nong Than Nam: 3412"
+    },
+    {
+      "postal_code": 34280,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3408: นาจะหลวย: Na Chaluai",
+      "subdistricts": "340801: นาจะหลวย: Na Chaluai: 3408, 340802: โนนสมบูรณ์: Non Sombun: 3408, 340803: พรสวรรค์: Phon Sawan: 3408, 340804: บ้านตูม: Ban Tum: 3408, 340805: โสกแสง: Sok Saeng: 3408, 340806: โนนสวรรค์: Non Sawan: 3408"
+    },
+    {
+      "postal_code": 34310,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3415: วารินชำราบ: Warin Chamrap",
+      "subdistricts": "341504: ท่าลาด: Tha Lat: 3415, 341511: บุ่งหวาย: Bung Wai: 3415, 341524: ห้วยขะยุง: Huai Khayung: 3415"
+    },
+    {
+      "postal_code": 34320,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3404: เขื่องใน: Khueang Nai",
+      "subdistricts": "340411: บ้านไทย: Ban Thai: 3404, 340412: บ้านกอก: Ban Kok: 3404, 340413: กลางใหญ่: Klang Yai: 3404, 340414: โนนรัง: Non Rang: 3404"
+    },
+    {
+      "postal_code": 34330,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3420: ตาลสุม: Tan Sum",
+      "subdistricts": "342001: ตาลสุม: Tan Sum: 3420, 342002: สำโรง: Samrong: 3420, 342003: จิกเทิง: Chik Thoeng: 3420, 342004: หนองกุง: Nong Kung: 3420, 342005: นาคาย: Na Khai: 3420, 342006: คำหว้า: Kham Wa: 3420"
+    },
+    {
+      "postal_code": 34340,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3421: โพธิ์ไทร: Pho Sai",
+      "subdistricts": "342101: โพธิ์ไทร: Pho Sai: 3421, 342102: ม่วงใหญ่: Muang Yai: 3421, 342103: สำโรง: Samrong: 3421, 342104: สองคอน: Song Khon: 3421, 342105: สารภี: Saraphi: 3421, 342106: เหล่างาม: Lao Ngam: 3421"
+    },
+    {
+      "postal_code": 34350,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3425: สิรินธร: Sirindhorn",
+      "subdistricts": "342501: คันไร่: Khan Rai: 3425, 342502: ช่องเม็ก: Chong Mek: 3425, 342503: โนนก่อ: Non Ko: 3425, 342504: นิคมสร้างตนเองลำโดมน้อย: Nikhom Lam Dom Noi: 3425, 342505: ฝางคำ: Fang Kham: 3425, 342506: คำเขื่อนแก้ว: Kham Khuean Kaeo: 3425"
+    },
+    {
+      "postal_code": 34360,
+      "province_code": 34,
+      "province_name_th": "อุบลราชธานี",
+      "province_name_en": "Ubon Ratchathani",
+      "districts": "3422: สำโรง: Samrong",
+      "subdistricts": "342201: สำโรง: Samrong: 3422, 342202: โคกก่อง: Khok Kong: 3422, 342203: หนองไฮ: Nong Hai: 3422, 342204: ค้อน้อย: Kho Noi: 3422, 342205: โนนกาเล็น: Non Kalen: 3422, 342206: โคกสว่าง: Khok Sawang: 3422, 342207: โนนกลาง: Non Klang: 3422, 342208: บอน: Bon: 3422, 342209: ขามป้อม: Kham Pom: 3422"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดอุบลราชธานี (Ubon Ratchathani Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดอุบลราชธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Ubon Ratchathani province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 20 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดอุบลราชธานี (Ubon Ratchathani Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดอุบลราชธานี (Ubon Ratchathani Postal Codes) — 20 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 20 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

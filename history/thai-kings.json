@@ -1,0 +1,144 @@
+{
+  "id": "thai-kings",
+  "name": "พระมหากษัตริย์ในราชวงศ์จักรี",
+  "title": "รายพระนามพระมหากษัตริย์แห่งราชวงศ์จักรี",
+  "description": "รายพระนามพระมหากษัตริย์ไทยแห่งกรุงรัตนโกสินทร์ ราชวงศ์จักรี (ตั้งแต่รัชกาลที่ 1 ถึงรัชกาลปัจจุบัน)",
+  "category": "history",
+  "source": "เว็บไซต์กระทรวงวัฒนธรรม",
+  "source_url": "https://www.m-culture.go.th/",
+  "updated": "2026-02",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "order",
+      "label": "รัชกาลที่",
+      "type": "number"
+    },
+    {
+      "key": "title_th",
+      "label": "สมัญญา",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "พระปรมาภิไธย",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "English Name",
+      "type": "string"
+    },
+    {
+      "key": "reign_start",
+      "label": "ปีที่ขึ้นครองราชย์ (พ.ศ.)",
+      "type": "string"
+    },
+    {
+      "key": "reign_years",
+      "label": "ระยะเวลาครองราชย์ (ปี)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "title_th": "ร.1",
+      "name_th": "พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช",
+      "name_en": "King Phutthayotfa Chulalok the Great (Rama I)",
+      "reign_start": "2325",
+      "reign_years": "27"
+    },
+    {
+      "order": 2,
+      "title_th": "ร.2",
+      "name_th": "พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย",
+      "name_en": "King Phutthaloetla Naphalai (Rama II)",
+      "reign_start": "2352",
+      "reign_years": "15"
+    },
+    {
+      "order": 3,
+      "title_th": "ร.3",
+      "name_th": "พระบาทสมเด็จพระนั่งเกล้าเจ้าอยู่หัว",
+      "name_en": "King Nangklao (Rama III)",
+      "reign_start": "2367",
+      "reign_years": "27"
+    },
+    {
+      "order": 4,
+      "title_th": "ร.4",
+      "name_th": "พระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว",
+      "name_en": "King Mongkut (Rama IV)",
+      "reign_start": "2394",
+      "reign_years": "17"
+    },
+    {
+      "order": 5,
+      "title_th": "ร.5",
+      "name_th": "พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว",
+      "name_en": "King Chulalongkorn the Great (Rama V)",
+      "reign_start": "2411",
+      "reign_years": "42"
+    },
+    {
+      "order": 6,
+      "title_th": "ร.6",
+      "name_th": "พระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว",
+      "name_en": "King Vajiravudh (Rama VI)",
+      "reign_start": "2453",
+      "reign_years": "15"
+    },
+    {
+      "order": 7,
+      "title_th": "ร.7",
+      "name_th": "พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว",
+      "name_en": "King Prajadhipok (Rama VII)",
+      "reign_start": "2468",
+      "reign_years": "9"
+    },
+    {
+      "order": 8,
+      "title_th": "ร.8",
+      "name_th": "พระบาทสมเด็จพระปรเมนทรมหาอานันทมหิดล พระอัฐมรามาธิบดินทร",
+      "name_en": "King Ananda Mahidol (Rama VIII)",
+      "reign_start": "2477",
+      "reign_years": "12"
+    },
+    {
+      "order": 9,
+      "title_th": "ร.9",
+      "name_th": "พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร",
+      "name_en": "King Bhumibol Adulyadej the Great (Rama IX)",
+      "reign_start": "2489",
+      "reign_years": "70"
+    },
+    {
+      "order": 10,
+      "title_th": "ร.10",
+      "name_th": "พระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua (Rama X)",
+      "reign_start": "2559",
+      "reign_years": "ปัจจุบัน"
+    }
+  ],
+  "meta": {
+    "title": "รายพระนามพระมหากษัตริย์แห่งราชวงศ์จักรี - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รายพระนามพระมหากษัตริย์ไทยแห่งกรุงรัตนโกสินทร์ ราชวงศ์จักรี (ตั้งแต่รัชกาลที่ 1 ถึงรัชกาลปัจจุบัน) มีทั้งหมด 10 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "พระมหากษัตริย์ในราชวงศ์จักรี | Thai Open Data",
+    "seo_description": "ดาวน์โหลดพระมหากษัตริย์ในราชวงศ์จักรี ทั้งหมด 10 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลพระมหากษัตริย์ในราชวงศ์จักรี ทั้งหมด 10 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "high",
+    "notes": "แก้ไขพระปรมาภิไธยที่ AI จินตนาการขึ้นมาเองในรัชกาลที่ 6 และปรับแก้ระยะเวลาของรัชกาลที่ 7 จาก 10 ปีเป็น 9 ปี",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Manual Recovery)"
+    }
+  }
+}

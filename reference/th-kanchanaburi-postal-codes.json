@@ -1,0 +1,184 @@
+{
+  "id": "th-kanchanaburi-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดกาญจนบุรี (Kanchanaburi Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดกาญจนบุรี (Kanchanaburi Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดกาญจนบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Kanchanaburi province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 70190,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7105: ท่ามะกา: Tha Maka",
+      "subdistricts": "710515: สนามแย้: Sanam Yae: 7105"
+    },
+    {
+      "postal_code": 71000,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7101: เมืองกาญจนบุรี: Mueang Kanchanaburi",
+      "subdistricts": "710101: บ้านเหนือ: Ban Nuea: 7101, 710102: บ้านใต้: Ban Tai: 7101, 710103: ปากแพรก: Pak Phraek: 7101, 710104: ท่ามะขาม: Tha Makham: 7101, 710105: แก่งเสี้ยน: Kaeng Sian: 7101, 710110: หนองหญ้า: Nong Ya: 7101, 710111: เกาะสำโรง: Ko Samrong: 7101, 710113: บ้านเก่า: Ban Kao: 7101, 710116: วังเย็น: Wang Yen: 7101"
+    },
+    {
+      "postal_code": 71110,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7106: ท่าม่วง: Tha Muang",
+      "subdistricts": "710601: ท่าม่วง: Tha Muang: 7106, 710602: วังขนาย: Wang Khanai: 7106, 710603: วังศาลา: Wang Sala: 7106, 710604: ท่าล้อ: Tha Lo: 7106, 710605: หนองขาว: Nong Khao: 7106, 710606: ทุ่งทอง: Thung Thong: 7106, 710607: เขาน้อย: Khao Noi: 7106, 710608: ม่วงชุม: Muang Chum: 7106, 710609: บ้านใหม่: Ban Mai: 7106, 710610: พังตรุ: Phang Tru: 7106, 710612: รางสาลี่: Rang Sali: 7106, 710613: หนองตากยา: Nong Tak Ya: 7106"
+    },
+    {
+      "postal_code": 71120,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7105: ท่ามะกา: Tha Maka",
+      "subdistricts": "710501: พงตึก: Phong Tuek: 7105, 710502: ยางม่วง: Yang Muang: 7105, 710504: ท่าไม้: Tha Mai: 7105, 710506: ท่ามะกา: Tha Maka: 7105, 710508: โคกตะบอง: Khok Tabong: 7105, 710509: ดอนขมิ้น: Don Khamin: 7105, 710511: เขาสามสิบหาบ: Khao Sam Sip Hap: 7105, 710513: หวายเหนียว: Wai Niao: 7105, 710516: ท่าเสา: Tha Sao: 7105"
+    },
+    {
+      "postal_code": 71130,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7105: ท่ามะกา: Tha Maka, 7106: ท่าม่วง: Tha Muang",
+      "subdistricts": "710503: ดอนชะเอม: Don Cha-Em: 7105, 710505: ตะคร้ำเอน: Takhram En: 7105, 710507: ท่าเรือ: Tha Ruea: 7105, 710510: อุโลกสี่หมื่น: Ulok Si Muen: 7105, 710512: พระแท่น: Phra Thaen: 7105, 710514: แสนตอ: Saen To: 7105, 710517: หนองลาน: Nong Lan: 7105, 710611: ท่าตะคร้อ: Tha Takhro: 7106"
+    },
+    {
+      "postal_code": 71140,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7109: พนมทวน: Phanom Thuan",
+      "subdistricts": "710901: พนมทวน: Phanom Thuan: 7109, 710902: หนองโรง: Nong Rong: 7109, 710903: ทุ่งสมอ: Thung Samo: 7109, 710904: ดอนเจดีย์: Don Chedi: 7109, 710905: พังตรุ: Phang Tru: 7109, 710911: หนองสาหร่าย: Nong Sarai: 7109, 710912: ดอนตาเพชร: Don Ta Phet: 7109"
+    },
+    {
+      "postal_code": 71150,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7102: ไทรโยค: Sai Yok",
+      "subdistricts": "710201: ลุ่มสุ่ม: Lum Sum: 7102, 710202: ท่าเสา: Tha Sao: 7102, 710203: สิงห์: Sing: 7102, 710204: ไทรโยค: Sai Yok: 7102, 710205: วังกระแจะ: Wang Krachae: 7102, 710206: ศรีมงคล: Si Mongkhon: 7102, 710207: บ้องตี้: Bong Ti: 7102"
+    },
+    {
+      "postal_code": 71160,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7103: บ่อพลอย: Bo Phloi",
+      "subdistricts": "710301: บ่อพลอย: Bo Phloi: 7103, 710302: หนองกุ่ม: Nong Kum: 7103, 710305: หลุมรัง: Lum Rang: 7103, 710308: ช่องด่าน: Chong Dan: 7103"
+    },
+    {
+      "postal_code": 71170,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7109: พนมทวน: Phanom Thuan, 7113: ห้วยกระเจา: Huai Krachao",
+      "subdistricts": "710906: รางหวาย: Rang Wai: 7109, 711301: ห้วยกระเจา: Huai Krachao: 7113, 711302: วังไผ่: Wang Phai: 7113, 711303: ดอนแสลบ: Don Salaep: 7113, 711304: สระลงเรือ: Sa Long Ruea: 7113"
+    },
+    {
+      "postal_code": 71180,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7107: ทองผาภูมิ: Thong Pha Phum",
+      "subdistricts": "710701: ท่าขนุน: Tha Khanun: 7107, 710702: ปิล๊อก: Pi Lok: 7107, 710703: หินดาด: Hin Dat: 7107, 710704: ลิ่นถิ่น: Lin Thin: 7107, 710705: ชะแล: Chalae: 7107, 710706: ห้วยเขย่ง: Huai Khayeng: 7107, 710707: สหกรณ์นิคม: Sahakon Nikhom: 7107"
+    },
+    {
+      "postal_code": 71190,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7101: เมืองกาญจนบุรี: Mueang Kanchanaburi",
+      "subdistricts": "710106: หนองบัว: Nong Bua: 7101, 710107: ลาดหญ้า: Lat Ya: 7101, 710108: วังด้ง: Wang Dong: 7101, 710109: ช่องสะเดา: Chong Sadao: 7101"
+    },
+    {
+      "postal_code": 71210,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7110: เลาขวัญ: Lao Khwan",
+      "subdistricts": "711001: เลาขวัญ: Lao Khwan: 7110, 711002: หนองโสน: Nong Sano: 7110, 711003: หนองประดู่: Nong Pradu: 7110, 711004: หนองปลิง: Nong Pling: 7110, 711005: หนองนกแก้ว: Nong Nok Kaeo: 7110, 711006: ทุ่งกระบ่ำ: Thung Krabam: 7110, 711007: หนองฝ้าย: Nong Fai: 7110"
+    },
+    {
+      "postal_code": 71220,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7103: บ่อพลอย: Bo Phloi, 7104: ศรีสวัสดิ์: Si Sawat, 7112: หนองปรือ: Nong Prue",
+      "subdistricts": "710303: หนองรี: Nong Ri: 7103, 710309: หนองกร่าง: Nong Krang: 7103, 710405: เขาโจด: Khao Chot: 7104, 711201: หนองปรือ: Nong Prue: 7112, 711202: หนองปลาไหล: Nong Pla Lai: 7112, 711203: สมเด็จเจริญ: Somdet Charoen: 7112"
+    },
+    {
+      "postal_code": 71240,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7108: สังขละบุรี: Sangkhla Buri",
+      "subdistricts": "710801: หนองลู: Nong Lu: 7108, 710802: ปรังเผล: Prang Phle: 7108, 710803: ไล่โว่: Lai Wo: 7108"
+    },
+    {
+      "postal_code": 71250,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7104: ศรีสวัสดิ์: Si Sawat",
+      "subdistricts": "710401: นาสวน: Na Suan: 7104, 710402: ด่านแม่แฉลบ: Dan Mae Chalaep: 7104, 710403: หนองเป็ด: Nong Pet: 7104, 710404: ท่ากระดาน: Tha Kradan: 7104, 710406: แม่กระบุง: Mae Krabung: 7104"
+    },
+    {
+      "postal_code": 71260,
+      "province_code": 71,
+      "province_name_th": "กาญจนบุรี",
+      "province_name_en": "Kanchanaburi",
+      "districts": "7111: ด่านมะขามเตี้ย: Dan Makham Tia",
+      "subdistricts": "711101: ด่านมะขามเตี้ย: Dan Makham Tia: 7111, 711102: กลอนโด: Klon Do: 7111, 711103: จรเข้เผือก: Chorakhe Phueak: 7111, 711104: หนองไผ่: Nong Phai: 7111"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดกาญจนบุรี (Kanchanaburi Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดกาญจนบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Kanchanaburi province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 16 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดกาญจนบุรี (Kanchanaburi Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดกาญจนบุรี (Kanchanaburi Postal Codes) — 16 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 16 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

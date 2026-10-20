@@ -1,0 +1,136 @@
+{
+  "id": "th-nakhon-pathom-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดนครปฐม 2562 (Nakhon Pathom 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดนครปฐม 2562 (Nakhon Pathom 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนครปฐม ในการเลือกตั้งทั่วไป 2562 จำนวน 5 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Nakhon Pathom province during the Thailand 24-March-2019 general election. 5 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 91,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "province_slug": "nakhon-pathom",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองนครปฐม",
+      "areas_detail": "เมืองนครปฐม: บางแขม,พระประโทน,หนองปากโลง,วังตะกู,หนองดินแดง,ลำพยา,สระกะเทียม,สนามจันทร์,พระปฐมเจดีย์,วังเย็น,นครปฐม,โพรงมะเดื่อ,ห้วยจรเข้,สวนป่าน,บ่อพลับ: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 92,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "province_slug": "nakhon-pathom",
+      "zone_number": 2,
+      "area_count": 2,
+      "amphoes": "กำแพงแสน, เมืองนครปฐม",
+      "areas_detail": "กำแพงแสน: : : , เมืองนครปฐม: หนองงูเหลือม,ทัพหลวง,ทุ่งน้อย,ตาก้อง,มาบแค,บ้านยาง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 93,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "province_slug": "nakhon-pathom",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "ดอนตูม, บางเลน, พุทธมณฑล",
+      "areas_detail": "ดอนตูม: : : , บางเลน: : : , พุทธมณฑล: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 94,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "province_slug": "nakhon-pathom",
+      "zone_number": 4,
+      "area_count": 3,
+      "amphoes": "นครชัยศรี, สามพราน, เมืองนครปฐม",
+      "areas_detail": "นครชัยศรี: : : , สามพราน: ตลาดจินดา,คลองจินดา,บางช้าง: : , เมืองนครปฐม: ถนนขาด,สามควายเผือก,ธรรมศาลา,ดอนยายหอม: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 95,
+      "province_name_th": "นครปฐม",
+      "province_name_en": "Nakhon Pathom",
+      "province_slug": "nakhon-pathom",
+      "zone_number": 5,
+      "area_count": 1,
+      "amphoes": "สามพราน",
+      "areas_detail": "สามพราน: : ตลาดจินดา,คลองจินดา,บางช้าง: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดนครปฐม 2562 (Nakhon Pathom 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดนครปฐม ในการเลือกตั้งทั่วไป 2562 จำนวน 5 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Nakhon Pathom province during the Thailand 24-March-2019 general election. 5 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 5 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดนครปฐม 2562 (Nakhon Pathom 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดนครปฐม 2562 (Nakhon Pathom 2019 Election Constituencies) — 5 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 5 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

@@ -1,0 +1,2792 @@
+{
+  "id": "th-phetchabun-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบูรณ์ (Phetchabun party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบูรณ์ (Phetchabun party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเพชรบูรณ์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 342,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3750
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1754
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 351
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 428
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1339
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2191
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 109
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 695
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 7626
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 484
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3665
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 568
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 575
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 180
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 167
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 35
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 34
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 72
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 68
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 47
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4228
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 144
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 570
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 418
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 269
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 135
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 151
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 167
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 183
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 189
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 22417
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 179
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 49
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 65
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 225
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 214
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 320
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24966
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 170
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 383
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 156
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 42
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 76
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 360
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1464
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 437
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2077
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3847
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2008
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 125
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 745
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8645
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 584
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4175
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 548
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 638
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 219
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 250
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 45
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 74
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 63
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 135
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 67
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5752
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 181
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 576
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 155
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 266
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 211
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 260
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 389
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 204
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 320
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 27073
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 234
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 68
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2581
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 315
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 192
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 167
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24056
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 238
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 386
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 173
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 58
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 52
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 84
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1156
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4536
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 804
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 346
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2618
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1490
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 201
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 685
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 10126
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 490
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3520
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 467
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 608
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 206
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 270
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 65
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 121
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 139
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 7557
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 193
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 433
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 233
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 385
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 222
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 187
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 255
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 191
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 18717
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 249
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 54
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 98
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1053
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 232
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 69
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 108
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23448
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 312
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 174
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 98
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 578
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 800
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 286
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 172
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1072
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1186
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 2008
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 804
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 9016
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 321
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2609
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 380
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 495
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 204
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 257
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 57
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 2462
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 80
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 371
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 154
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 234
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 145
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 114
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 173
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 178
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 376
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 26151
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 234
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 56
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 72
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 111
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 152
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 122
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17637
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 191
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 298
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 125
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 62
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 72
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 361
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4321
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 858
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 311
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1166
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1654
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 181
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 735
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 9200
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 272
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3811
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 505
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 542
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 167
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 211
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 31
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 37
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 68
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3256
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 107
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 385
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 169
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 441
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 393
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 159
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 192
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 226
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 22207
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 247
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 70
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 72
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 206
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 253
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 87
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 148
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19876
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 294
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 138
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 73
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 762
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1321
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 3179
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 496
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 734
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1304
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 240
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 814
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 9192
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 381
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3646
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 543
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 631
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 271
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 34
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 35
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 167
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 60
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3051
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 107
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 334
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 180
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 328
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 410
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 269
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 206
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 269
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 26924
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 251
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 54
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 79
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 143
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 176
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 65
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 57
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20704
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 209
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 385
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 114
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 51
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 47
+    },
+    {
+      "changwat_code": "67",
+      "changwat": "เพชรบูรณ์",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 71
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบูรณ์ (Phetchabun party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดเพชรบูรณ์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 342 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบูรณ์ (Phetchabun party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — เพชรบูรณ์ (Phetchabun party-list ballots) — 342 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 342 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

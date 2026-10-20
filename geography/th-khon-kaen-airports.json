@@ -1,0 +1,118 @@
+{
+  "id": "th-khon-kaen-airports",
+  "name": "ท่าอากาศยาน — Khon Kaen",
+  "title": "ท่าอากาศยาน — Khon Kaen",
+  "description": "ท่าอากาศยานในจังหวัด Khon Kaen ประเทศไทย (Airports in Khon Kaen Province, Thailand — 1 record(s).)",
+  "category": "geography",
+  "source": "https://github.com/lxndrblz/Airports",
+  "source_url": "https://github.com/lxndrblz/Airports",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "province_en",
+      "label": "Province En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VTUK",
+      "iata": "KKC",
+      "name_en": "Khon Kaen Airport",
+      "name_slug": "khon-kaen-airport",
+      "city_en": "Khon Kaen",
+      "city_slug": "khon-kaen",
+      "province_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "country": "TH",
+      "country_en": "Thailand",
+      "elevation_ft": 670,
+      "lat": 16.4662033,
+      "lon": 102.7852283,
+      "timezone": "Asia/Bangkok",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "ท่าอากาศยาน — Khon Kaen - ดาวน์โหลดฟรี",
+    "description": "ท่าอากาศยานในจังหวัด Khon Kaen ประเทศไทย (Airports in Khon Kaen Province, Thailand — 1 record(s).) มีทั้งหมด 1 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ท่าอากาศยาน — Khon Kaen | ListBase",
+    "seo_description": "ดาวน์โหลด ท่าอากาศยาน — Khon Kaen — 1 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 1 รายการ / 15 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/lxndrblz/Airports"
+    ]
+  }
+}

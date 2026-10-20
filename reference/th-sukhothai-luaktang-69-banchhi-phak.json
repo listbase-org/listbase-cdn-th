@@ -1,0 +1,1880 @@
+{
+  "id": "th-sukhothai-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุโขทัย (Sukhothai party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุโขทัย (Sukhothai party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสุโขทัย. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 228,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 537
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1161
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 247
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 279
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2007
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1565
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 102
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 619
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 16005
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 313
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2431
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 442
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 463
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 196
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 159
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 28
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 108
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 99
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 10452
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 97
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1000
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 109
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 127
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 83
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 229
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 136
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 88
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9092
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 320
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 356
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 605
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 71
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 24781
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 120
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 301
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 155
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 15
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 116
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 49
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 901
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 4144
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 849
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 197
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 407
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1237
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 108
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 665
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 11229
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 318
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2523
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 320
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 562
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 394
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 167
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 249
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 74
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 135
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 154
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 15628
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 123
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 378
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 361
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 178
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 105
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 113
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 5855
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 216
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 44
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 754
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 186
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 68
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20189
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 147
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 218
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 116
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 264
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2162
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1426
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 317
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 388
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 525
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1717
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 118
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 507
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 19087
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 377
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3264
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 396
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 492
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 154
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 134
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 391
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 18
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 33
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 109
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5866
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 117
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 672
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 280
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 141
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 93
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 131
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 163
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 100
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10675
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 430
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 78
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 812
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 161
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 65
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21864
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 299
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 152
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 75
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 258
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2643
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 309
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 325
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3227
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1144
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 91
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 527
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 15161
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 236
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2554
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 379
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 561
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 228
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 168
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 23
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 33
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 70
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4080
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 75
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 375
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 94
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 248
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 131
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 257
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 195
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 163
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 22902
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 278
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 49
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 566
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 116
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 87
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21639
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 135
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 198
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 115
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 42
+    },
+    {
+      "changwat_code": "64",
+      "changwat": "สุโขทัย",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 45
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุโขทัย (Sukhothai party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสุโขทัย. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 228 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุโขทัย (Sukhothai party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สุโขทัย (Sukhothai party-list ballots) — 228 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 228 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

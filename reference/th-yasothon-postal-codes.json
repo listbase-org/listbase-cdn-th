@@ -1,0 +1,128 @@
+{
+  "id": "th-yasothon-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดยโสธร (Yasothon Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดยโสธร (Yasothon Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดยโสธร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Yasothon province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 35000,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3501: เมืองยโสธร: Mueang Yasothon",
+      "subdistricts": "350101: ในเมือง: Nai Mueang: 3501, 350102: น้ำคำใหญ่: Nam Kham Yai: 3501, 350103: ตาดทอง: Tat Thong: 3501, 350104: สำราญ: Samran: 3501, 350105: ค้อเหนือ: Kho Nuea: 3501, 350106: ดู่ทุ่ง: Du Thung: 3501, 350107: เดิด: Doet: 3501, 350108: ขั้นไดใหญ่: Khan Dai Yai: 3501, 350109: ทุ่งแต้: Thung Tae: 3501, 350110: สิงห์: Sing: 3501, 350111: นาสะไมย์: Na Samai: 3501, 350112: เขื่องคำ: Khueang Kham: 3501, 350113: หนองหิน: Nong Hin: 3501, 350114: หนองคู: Nong Khu: 3501, 350115: ขุมเงิน: Khum Ngoen: 3501, 350116: ทุ่งนางโอก: Thung Nang Ok: 3501, 350117: หนองเรือ: Nong Ruea: 3501, 350118: หนองเป็ด: Nong Pet: 3501"
+    },
+    {
+      "postal_code": 35110,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3504: คำเขื่อนแก้ว: Kham Khuean Kaeo",
+      "subdistricts": "350401: ลุมพุก: Lumphuk: 3504, 350402: ย่อ: Yo: 3504, 350403: สงเปือย: Song Pueai: 3504, 350404: โพนทัน: Phon Than: 3504, 350405: ทุ่งมน: Thung Mon: 3504, 350408: กู่จาน: Ku Chan: 3504, 350410: กุดกุง: Kut Kung: 3504, 350411: เหล่าไฮ: Lao Hai: 3504, 350413: ดงเจริญ: Dong Charoen: 3504"
+    },
+    {
+      "postal_code": 35120,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3508: เลิงนกทา: Loeng Nok Tha, 3509: ไทยเจริญ: Thai Charoen",
+      "subdistricts": "350802: บุ่งค้า: Bung Kha: 3508, 350803: สวาท: Sawat: 3508, 350805: ห้องแซง: Hong Saeng: 3508, 350806: สามัคคี: Samakkhi: 3508, 350807: กุดเชียงหมี: Kut Chiang Mi: 3508, 350810: สามแยก: Sam Yaek: 3508, 350811: กุดแห่: Kut Hae: 3508, 350812: โคกสำราญ: Khok Samran: 3508, 350813: สร้างมิ่ง: Sang Ming: 3508, 350814: ศรีแก้ว: Si Kaeo: 3508, 350901: ไทยเจริญ: Thai Charoen: 3509, 350902: น้ำคำ: Nam Kham: 3509, 350903: ส้มผ่อ: Som Pho: 3509, 350904: คำเตย: Kham Toei: 3509, 350905: คำไผ่: Kham Phai: 3509"
+    },
+    {
+      "postal_code": 35130,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3506: มหาชนะชัย: Maha Chana Chai",
+      "subdistricts": "350601: ฟ้าหยาด: Fa Yat: 3506, 350602: หัวเมือง: Hua Mueang: 3506, 350603: คูเมือง: Khu Mueang: 3506, 350604: ผือฮี: Phue Hi: 3506, 350605: บากเรือ: Bak Ruea: 3506, 350606: ม่วง: Muang: 3506, 350607: โนนทราย: Non Sai: 3506, 350608: บึงแก: Bueng Kae: 3506, 350609: พระเสาร์: Phra Sao: 3506, 350610: สงยาง: Song Yang: 3506"
+    },
+    {
+      "postal_code": 35140,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3503: กุดชุม: Kut Chum",
+      "subdistricts": "350301: กุดชุม: Kut Chum: 3503, 350302: โนนเปือย: Non Pueai: 3503, 350303: กำแมด: Kammaet: 3503, 350304: นาโส่: Na So: 3503, 350305: ห้วยแก้ง: Huai Kaeng: 3503, 350306: หนองหมี: Nong Mi: 3503, 350307: โพนงาม: Phon Ngam: 3503, 350308: คำน้ำสร้าง: Kham Nam Sang: 3503, 350309: หนองแหน: Nong Nae: 3503"
+    },
+    {
+      "postal_code": 35150,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3505: ป่าติ้ว: Pa Tio",
+      "subdistricts": "350501: โพธิ์ไทร: Pho Sai: 3505, 350502: กระจาย: Krachai: 3505, 350503: โคกนาโก: Khok Na Ko: 3505, 350504: เชียงเพ็ง: Chiang Pheng: 3505, 350505: ศรีฐาน: Si Than: 3505"
+    },
+    {
+      "postal_code": 35160,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3507: ค้อวัง: Kho Wang",
+      "subdistricts": "350701: ฟ้าห่วน: Fa Huan: 3507, 350702: กุดน้ำใส: Kut Nam Sai: 3507, 350703: น้ำอ้อม: Nam Om: 3507, 350704: ค้อวัง: Kho Wang: 3507"
+    },
+    {
+      "postal_code": 35170,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3502: ทรายมูล: Sai Mun",
+      "subdistricts": "350201: ทรายมูล: Sai Mun: 3502, 350202: ดู่ลาด: Du Lat: 3502, 350203: ดงมะไฟ: Dong Mafai: 3502, 350204: นาเวียง: Na Wiang: 3502, 350205: ไผ่: Phai: 3502"
+    },
+    {
+      "postal_code": 35180,
+      "province_code": 35,
+      "province_name_th": "ยโสธร",
+      "province_name_en": "Yasothon",
+      "districts": "3504: คำเขื่อนแก้ว: Kham Khuean Kaeo",
+      "subdistricts": "350406: นาคำ: Na Kham: 3504, 350407: ดงแคนใหญ่: Dong Khaen Yai: 3504, 350409: นาแก: Na Kae: 3504, 350412: แคนน้อย: Khaen Noi: 3504"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดยโสธร (Yasothon Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดยโสธร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Yasothon province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดยโสธร (Yasothon Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดยโสธร (Yasothon Postal Codes) — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

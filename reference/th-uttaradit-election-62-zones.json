@@ -1,0 +1,100 @@
+{
+  "id": "th-uttaradit-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดอุตรดิตถ์ 2562 (Uttaradit 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดอุตรดิตถ์ 2562 (Uttaradit 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดอุตรดิตถ์ ในการเลือกตั้งทั่วไป 2562 จำนวน 2 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Uttaradit province during the Thailand 24-March-2019 general election. 2 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 306,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "province_slug": "uttaradit",
+      "zone_number": 1,
+      "area_count": 3,
+      "amphoes": "ตรอน, ลับแล, เมืองอุตรดิตถ์",
+      "areas_detail": "ตรอน: : : , ลับแล: : : , เมืองอุตรดิตถ์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 307,
+      "province_name_th": "อุตรดิตถ์",
+      "province_name_en": "Uttaradit",
+      "province_slug": "uttaradit",
+      "zone_number": 2,
+      "area_count": 6,
+      "amphoes": "ทองแสนขัน, ท่าปลา, น้ำปาด, บ้านโคก, พิชัย, ฟากท่า",
+      "areas_detail": "ทองแสนขัน: : : , ท่าปลา: : : , น้ำปาด: : : , บ้านโคก: : : , พิชัย: : : , ฟากท่า: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดอุตรดิตถ์ 2562 (Uttaradit 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดอุตรดิตถ์ ในการเลือกตั้งทั่วไป 2562 จำนวน 2 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Uttaradit province during the Thailand 24-March-2019 general election. 2 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 2 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดอุตรดิตถ์ 2562 (Uttaradit 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดอุตรดิตถ์ 2562 (Uttaradit 2019 Election Constituencies) — 2 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 2 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

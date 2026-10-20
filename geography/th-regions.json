@@ -1,0 +1,82 @@
+{
+  "id": "th-regions",
+  "name": "ภาคของประเทศไทย — Regions of Thailand (6 ภาค)",
+  "title": "ภาคของประเทศไทย — Regions of Thailand (6 ภาค)",
+  "description": "The 6 official regions (ภาค) of Thailand as classified by the National Economic and Social Development Board (NESDB): ภาคเหนือ (Northern), ภาคกลาง (Central), ภาคตะวันออกเฉียงเหนือ (Northeastern), ภาคตะวันตก (Western), ภาคตะวันออก (Eastern), ภาคใต้ (Southern). Sourced from kongvut/thai-province-data.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region_id": 1,
+      "name_th": "ภาคเหนือ",
+      "name_en": "Northern",
+      "slug": "northern"
+    },
+    {
+      "region_id": 2,
+      "name_th": "ภาคกลาง",
+      "name_en": "Central",
+      "slug": "central"
+    },
+    {
+      "region_id": 3,
+      "name_th": "ภาคตะวันออกเฉียงเหนือ",
+      "name_en": "Northeastern",
+      "slug": "northeastern"
+    },
+    {
+      "region_id": 4,
+      "name_th": "ภาคตะวันตก",
+      "name_en": "Western",
+      "slug": "western"
+    },
+    {
+      "region_id": 5,
+      "name_th": "ภาคตะวันออก",
+      "name_en": "Eastern",
+      "slug": "eastern"
+    },
+    {
+      "region_id": 6,
+      "name_th": "ภาคใต้",
+      "name_en": "Southern",
+      "slug": "southern"
+    }
+  ],
+  "meta": {
+    "title": "ภาคของประเทศไทย — Regions of Thailand (6 ภาค) - ดาวน์โหลดฟรี",
+    "description": "The 6 official regions (ภาค) of Thailand as classified by the National Economic and Social Development Board (NESDB): ภาคเหนือ (Northern), ภาคกลาง (Central), ภาคตะวันออกเฉียงเหนือ (Northeastern), ภาคตะวันตก (Western), ภาคตะวันออก (Eastern), ภาคใต้ (Southern). Sourced from kongvut/thai-province-data. มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาคของประเทศไทย — Regions of Thailand (6 ภาค) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาคของประเทศไทย — Regions of Thailand (6 ภาค) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

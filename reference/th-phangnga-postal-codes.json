@@ -1,0 +1,144 @@
+{
+  "id": "th-phangnga-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดพังงา (Phangnga Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดพังงา (Phangnga Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดพังงา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phangnga province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 82000,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8201: เมืองพังงา: Mueang Phang-Nga",
+      "subdistricts": "820101: ท้ายช้าง: Thai Chang: 8201, 820102: นบปริง: Nop Pring: 8201, 820103: ถ้ำน้ำผุด: Tham Nam Phut: 8201, 820104: บางเตย: Bang Toei: 8201, 820105: ตากแดด: Tak Daet: 8201, 820106: สองแพรก: Song Phraek: 8201, 820107: ทุ่งคาโงก: Thung Kha Ngok: 8201, 820108: เกาะปันหยี: Ko Panyi: 8201, 820109: ป่ากอ: Pa Ko: 8201"
+    },
+    {
+      "postal_code": 82110,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8205: ตะกั่วป่า: Takua Pa",
+      "subdistricts": "820501: ตะกั่วป่า: Takua Pa: 8205, 820502: บางนายสี: Bang Nai Si: 8205, 820503: บางไทร: Bang Sai: 8205, 820504: บางม่วง: Bang Muang: 8205, 820505: ตำตัว: Tamtua: 8205, 820506: โคกเคียน: Khok Khian: 8205"
+    },
+    {
+      "postal_code": 82120,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8208: ท้ายเหมือง: Thai Mueang",
+      "subdistricts": "820801: ท้ายเหมือง: Thai Mueang: 8208, 820802: นาเตย: Na Toei: 8208, 820803: บางทอง: Bang Thong: 8208, 820804: ทุ่งมะพร้าว: Thung Maphrao: 8208, 820805: ลำภี: Lam Phi: 8208, 820806: ลำแก่น: Lam Kaen: 8208"
+    },
+    {
+      "postal_code": 82130,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8204: ตะกั่วทุ่ง: Takua Thung",
+      "subdistricts": "820401: ถ้ำ: Tham: 8204, 820402: กระโสม: Krasom: 8204, 820403: กะไหล: Kalai: 8204, 820404: ท่าอยู่: Tha Yu: 8204, 820407: คลองเคียน: Khlong Khian: 8204"
+    },
+    {
+      "postal_code": 82140,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8204: ตะกั่วทุ่ง: Takua Thung",
+      "subdistricts": "820405: หล่อยูง: Lo Yung: 8204, 820406: โคกกลอย: Khok Kloi: 8204"
+    },
+    {
+      "postal_code": 82150,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8206: คุระบุรี: Khura Buri",
+      "subdistricts": "820601: คุระ: Khu Ra: 8206, 820602: บางวัน: Bang Wan: 8206, 820603: เกาะพระทอง: Ko Phra Thong: 8206, 820605: แม่นางขาว: Mae Nang Khao: 8206"
+    },
+    {
+      "postal_code": 82160,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8202: เกาะยาว: Ko Yao",
+      "subdistricts": "820201: เกาะยาวน้อย: Ko Yao Noi: 8202, 820202: เกาะยาวใหญ่: Ko Yao Yai: 8202"
+    },
+    {
+      "postal_code": 82170,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8203: กะปง: Kapong",
+      "subdistricts": "820301: กะปง: Kapong: 8203, 820302: ท่านา: Tha Na: 8203, 820303: เหมาะ: Mo: 8203, 820304: เหล: Le: 8203, 820305: รมณีย์: Rommani: 8203"
+    },
+    {
+      "postal_code": 82180,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8207: ทับปุด: Thap Put",
+      "subdistricts": "820701: ทับปุด: Thap Put: 8207, 820702: มะรุ่ย: Marui: 8207, 820703: บ่อแสน: Bo Saen: 8207, 820704: ถ้ำทองหลาง: Tham Thong Lang: 8207, 820705: โคกเจริญ: Khok Charoen: 8207, 820706: บางเหรียง: Bang Riang: 8207"
+    },
+    {
+      "postal_code": 82190,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8205: ตะกั่วป่า: Takua Pa",
+      "subdistricts": "820507: คึกคัก: Khuek Khak: 8205, 820508: เกาะคอเขา: Ko Kho Khao: 8205"
+    },
+    {
+      "postal_code": 83000,
+      "province_code": 82,
+      "province_name_th": "พังงา",
+      "province_name_en": "Phangnga",
+      "districts": "8202: เกาะยาว: Ko Yao",
+      "subdistricts": "820203: พรุใน: Phru Nai: 8202"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดพังงา (Phangnga Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดพังงา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phangnga province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 11 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดพังงา (Phangnga Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดพังงา (Phangnga Postal Codes) — 11 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 11 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

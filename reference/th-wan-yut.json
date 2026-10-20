@@ -1,0 +1,1753 @@
+{
+  "id": "th-wan-yut",
+  "name": "วันหยุดราชการไทย (2020–2026)",
+  "title": "วันหยุดราชการไทย (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_th": "วันขึ้นปีใหม่",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-01-11",
+      "year": 2020,
+      "name_th": "วันเด็กแห่งชาติ",
+      "name_en": "National Children's Day",
+      "month": 1,
+      "day": 11,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-02-08",
+      "year": 2020,
+      "name_th": "วันมาฆบูชา",
+      "name_en": "Makha Bucha",
+      "month": 2,
+      "day": 8,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-02-10",
+      "year": 2020,
+      "name_th": "ชดเชยวันมาฆบูชา",
+      "name_en": "Makha Bucha (in lieu)",
+      "month": 2,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-04-06",
+      "year": 2020,
+      "name_th": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_th": "วันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-04",
+      "year": 2020,
+      "name_th": "วันฉัตรมงคล",
+      "name_en": "Coronation Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-06",
+      "year": 2020,
+      "name_th": "วันวิสาขบูชา",
+      "name_en": "Visakha Bucha",
+      "month": 5,
+      "day": 6,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-06-03",
+      "year": 2020,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-07-05",
+      "year": 2020,
+      "name_th": "วันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-07-06",
+      "year": 2020,
+      "name_th": "วันเข้าพรรษา",
+      "name_en": "Buddhist Lent Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-07-07",
+      "year": 2020,
+      "name_th": "ชดเชยวันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha (in lieu)",
+      "month": 7,
+      "day": 7,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-07-27",
+      "year": 2020,
+      "name_th": "ชดเชยวันสงกรานต์",
+      "name_en": "Songkran Festival (in lieu)",
+      "month": 7,
+      "day": 27,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-07-28",
+      "year": 2020,
+      "name_th": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday",
+      "month": 7,
+      "day": 28,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-08-12",
+      "year": 2020,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; วันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+      "month": 8,
+      "day": 12,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-09-04",
+      "year": 2020,
+      "name_th": "ชดเชยวันสงกรานต์",
+      "name_en": "Songkran Festival (in lieu)",
+      "month": 9,
+      "day": 4,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-09-07",
+      "year": 2020,
+      "name_th": "ชดเชยวันสงกรานต์",
+      "name_en": "Songkran Festival (in lieu)",
+      "month": 9,
+      "day": 7,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-10-13",
+      "year": 2020,
+      "name_th": "วันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร",
+      "name_en": "HM King Bhumibol Adulyadej the Great Memorial Day",
+      "month": 10,
+      "day": 13,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-10-23",
+      "year": 2020,
+      "name_th": "วันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-11-19",
+      "year": 2020,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 11,
+      "day": 19,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-11-20",
+      "year": 2020,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 11,
+      "day": 20,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-05",
+      "year": 2020,
+      "name_th": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; วันชาติ; วันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+      "month": 12,
+      "day": 5,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-12-07",
+      "year": 2020,
+      "name_th": "ชดเชยวันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; ชดเชยวันชาติ; ชดเชยวันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday (in lieu); National Day (in lieu); National Father's Day (in lieu)",
+      "month": 12,
+      "day": 7,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-12-10",
+      "year": 2020,
+      "name_th": "วันรัฐธรรมนูญ",
+      "name_en": "Constitution Day",
+      "month": 12,
+      "day": 10,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-12-11",
+      "year": 2020,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 12,
+      "day": 11,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-31",
+      "year": 2020,
+      "name_th": "วันสิ้นปี",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_th": "วันขึ้นปีใหม่",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-01-09",
+      "year": 2021,
+      "name_th": "วันเด็กแห่งชาติ",
+      "name_en": "National Children's Day",
+      "month": 1,
+      "day": 9,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-02-12",
+      "year": 2021,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 2,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-02-26",
+      "year": 2021,
+      "name_th": "วันมาฆบูชา",
+      "name_en": "Makha Bucha",
+      "month": 2,
+      "day": 26,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-04-06",
+      "year": 2021,
+      "name_th": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-04-12",
+      "year": 2021,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 4,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-04-13",
+      "year": 2021,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-04-14",
+      "year": 2021,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-04-15",
+      "year": 2021,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_th": "วันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-03",
+      "year": 2021,
+      "name_th": "ชดเชยวันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day (in lieu)",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-04",
+      "year": 2021,
+      "name_th": "วันฉัตรมงคล",
+      "name_en": "Coronation Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-05-26",
+      "year": 2021,
+      "name_th": "วันวิสาขบูชา",
+      "name_en": "Visakha Bucha",
+      "month": 5,
+      "day": 26,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-06-03",
+      "year": 2021,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-07-24",
+      "year": 2021,
+      "name_th": "วันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha",
+      "month": 7,
+      "day": 24,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-07-25",
+      "year": 2021,
+      "name_th": "วันเข้าพรรษา",
+      "name_en": "Buddhist Lent Day",
+      "month": 7,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-07-26",
+      "year": 2021,
+      "name_th": "ชดเชยวันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha (in lieu)",
+      "month": 7,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-07-28",
+      "year": 2021,
+      "name_th": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday",
+      "month": 7,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-08-12",
+      "year": 2021,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; วันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+      "month": 8,
+      "day": 12,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-09-24",
+      "year": 2021,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 9,
+      "day": 24,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-10-13",
+      "year": 2021,
+      "name_th": "วันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร",
+      "name_en": "HM King Bhumibol Adulyadej the Great Memorial Day",
+      "month": 10,
+      "day": 13,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-10-23",
+      "year": 2021,
+      "name_th": "วันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-10-25",
+      "year": 2021,
+      "name_th": "ชดเชยวันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day (in lieu)",
+      "month": 10,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-12-05",
+      "year": 2021,
+      "name_th": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; วันชาติ; วันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+      "month": 12,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-12-06",
+      "year": 2021,
+      "name_th": "ชดเชยวันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; ชดเชยวันชาติ; ชดเชยวันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday (in lieu); National Day (in lieu); National Father's Day (in lieu)",
+      "month": 12,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-12-10",
+      "year": 2021,
+      "name_th": "วันรัฐธรรมนูญ",
+      "name_en": "Constitution Day",
+      "month": 12,
+      "day": 10,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-12-31",
+      "year": 2021,
+      "name_th": "วันสิ้นปี",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_th": "วันขึ้นปีใหม่",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-01-03",
+      "year": 2022,
+      "name_th": "ชดเชยวันขึ้นปีใหม่",
+      "name_en": "New Year's Day (in lieu)",
+      "month": 1,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-01-08",
+      "year": 2022,
+      "name_th": "วันเด็กแห่งชาติ",
+      "name_en": "National Children's Day",
+      "month": 1,
+      "day": 8,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-02-16",
+      "year": 2022,
+      "name_th": "วันมาฆบูชา",
+      "name_en": "Makha Bucha",
+      "month": 2,
+      "day": 16,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-04-06",
+      "year": 2022,
+      "name_th": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-04-13",
+      "year": 2022,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-04-14",
+      "year": 2022,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-04-15",
+      "year": 2022,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_th": "วันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-02",
+      "year": 2022,
+      "name_th": "ชดเชยวันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day (in lieu)",
+      "month": 5,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-04",
+      "year": 2022,
+      "name_th": "วันฉัตรมงคล",
+      "name_en": "Coronation Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-05-15",
+      "year": 2022,
+      "name_th": "วันวิสาขบูชา",
+      "name_en": "Visakha Bucha",
+      "month": 5,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-16",
+      "year": 2022,
+      "name_th": "ชดเชยวันวิสาขบูชา",
+      "name_en": "Visakha Bucha (in lieu)",
+      "month": 5,
+      "day": 16,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-06-03",
+      "year": 2022,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-07-13",
+      "year": 2022,
+      "name_th": "วันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha",
+      "month": 7,
+      "day": 13,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-07-14",
+      "year": 2022,
+      "name_th": "วันเข้าพรรษา",
+      "name_en": "Buddhist Lent Day",
+      "month": 7,
+      "day": 14,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-07-15",
+      "year": 2022,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 7,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-07-28",
+      "year": 2022,
+      "name_th": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday",
+      "month": 7,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-07-29",
+      "year": 2022,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 7,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-08-12",
+      "year": 2022,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; วันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+      "month": 8,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-10-13",
+      "year": 2022,
+      "name_th": "วันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร",
+      "name_en": "HM King Bhumibol Adulyadej the Great Memorial Day",
+      "month": 10,
+      "day": 13,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-10-14",
+      "year": 2022,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 10,
+      "day": 14,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-10-23",
+      "year": 2022,
+      "name_th": "วันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-10-24",
+      "year": 2022,
+      "name_th": "ชดเชยวันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day (in lieu)",
+      "month": 10,
+      "day": 24,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-12-05",
+      "year": 2022,
+      "name_th": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; วันชาติ; วันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+      "month": 12,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-12-10",
+      "year": 2022,
+      "name_th": "วันรัฐธรรมนูญ",
+      "name_en": "Constitution Day",
+      "month": 12,
+      "day": 10,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-12-12",
+      "year": 2022,
+      "name_th": "ชดเชยวันรัฐธรรมนูญ",
+      "name_en": "Constitution Day (in lieu)",
+      "month": 12,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-12-30",
+      "year": 2022,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-12-31",
+      "year": 2022,
+      "name_th": "วันสิ้นปี",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_th": "วันขึ้นปีใหม่",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-02",
+      "year": 2023,
+      "name_th": "ชดเชยวันขึ้นปีใหม่",
+      "name_en": "New Year's Day (in lieu)",
+      "month": 1,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-03",
+      "year": 2023,
+      "name_th": "ชดเชยวันสิ้นปี",
+      "name_en": "New Year's Eve (in lieu)",
+      "month": 1,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-01-14",
+      "year": 2023,
+      "name_th": "วันเด็กแห่งชาติ",
+      "name_en": "National Children's Day",
+      "month": 1,
+      "day": 14,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-03-06",
+      "year": 2023,
+      "name_th": "วันมาฆบูชา",
+      "name_en": "Makha Bucha",
+      "month": 3,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-04-06",
+      "year": 2023,
+      "name_th": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-04-13",
+      "year": 2023,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-04-14",
+      "year": 2023,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-15",
+      "year": 2023,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-04-17",
+      "year": 2023,
+      "name_th": "ชดเชยวันสงกรานต์",
+      "name_en": "Songkran Festival (in lieu)",
+      "month": 4,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_th": "วันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-04",
+      "year": 2023,
+      "name_th": "วันฉัตรมงคล",
+      "name_en": "Coronation Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-05-05",
+      "year": 2023,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-06-03",
+      "year": 2023,
+      "name_th": "วันวิสาขบูชา; วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday; Visakha Bucha",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-06-05",
+      "year": 2023,
+      "name_th": "ชดเชยวันวิสาขบูชา; ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday (in lieu); Visakha Bucha (in lieu)",
+      "month": 6,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-07-28",
+      "year": 2023,
+      "name_th": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday",
+      "month": 7,
+      "day": 28,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-07-31",
+      "year": 2023,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 7,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-08-01",
+      "year": 2023,
+      "name_th": "วันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha",
+      "month": 8,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-08-02",
+      "year": 2023,
+      "name_th": "วันเข้าพรรษา",
+      "name_en": "Buddhist Lent Day",
+      "month": 8,
+      "day": 2,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-08-12",
+      "year": 2023,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; วันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+      "month": 8,
+      "day": 12,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-08-14",
+      "year": 2023,
+      "name_th": "ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; ชดเชยวันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday (in lieu); National Mother's Day (in lieu)",
+      "month": 8,
+      "day": 14,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-10-13",
+      "year": 2023,
+      "name_th": "วันนวมินทรมหาราช",
+      "name_en": "HM King Bhumibol Adulyadej Memorial Day",
+      "month": 10,
+      "day": 13,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-10-23",
+      "year": 2023,
+      "name_th": "วันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-05",
+      "year": 2023,
+      "name_th": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; วันชาติ; วันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+      "month": 12,
+      "day": 5,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-12-10",
+      "year": 2023,
+      "name_th": "วันรัฐธรรมนูญ",
+      "name_en": "Constitution Day",
+      "month": 12,
+      "day": 10,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-12-11",
+      "year": 2023,
+      "name_th": "ชดเชยวันรัฐธรรมนูญ",
+      "name_en": "Constitution Day (in lieu)",
+      "month": 12,
+      "day": 11,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-29",
+      "year": 2023,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 12,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-12-31",
+      "year": 2023,
+      "name_th": "วันสิ้นปี",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_th": "วันขึ้นปีใหม่",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-01-13",
+      "year": 2024,
+      "name_th": "วันเด็กแห่งชาติ",
+      "name_en": "National Children's Day",
+      "month": 1,
+      "day": 13,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-02-24",
+      "year": 2024,
+      "name_th": "วันมาฆบูชา",
+      "name_en": "Makha Bucha",
+      "month": 2,
+      "day": 24,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-02-26",
+      "year": 2024,
+      "name_th": "ชดเชยวันมาฆบูชา",
+      "name_en": "Makha Bucha (in lieu)",
+      "month": 2,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-04-06",
+      "year": 2024,
+      "name_th": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-04-08",
+      "year": 2024,
+      "name_th": "ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day (in lieu)",
+      "month": 4,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-04-12",
+      "year": 2024,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 4,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-04-13",
+      "year": 2024,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-04-14",
+      "year": 2024,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-04-15",
+      "year": 2024,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-04-16",
+      "year": 2024,
+      "name_th": "ชดเชยวันสงกรานต์",
+      "name_en": "Songkran Festival (in lieu)",
+      "month": 4,
+      "day": 16,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_th": "วันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-04",
+      "year": 2024,
+      "name_th": "วันฉัตรมงคล",
+      "name_en": "Coronation Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-05-06",
+      "year": 2024,
+      "name_th": "ชดเชยวันฉัตรมงคล",
+      "name_en": "Coronation Day (in lieu)",
+      "month": 5,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-05-22",
+      "year": 2024,
+      "name_th": "วันวิสาขบูชา",
+      "name_en": "Visakha Bucha",
+      "month": 5,
+      "day": 22,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-06-03",
+      "year": 2024,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-07-20",
+      "year": 2024,
+      "name_th": "วันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha",
+      "month": 7,
+      "day": 20,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-07-21",
+      "year": 2024,
+      "name_th": "วันเข้าพรรษา",
+      "name_en": "Buddhist Lent Day",
+      "month": 7,
+      "day": 21,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-07-22",
+      "year": 2024,
+      "name_th": "ชดเชยวันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha (in lieu)",
+      "month": 7,
+      "day": 22,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-07-28",
+      "year": 2024,
+      "name_th": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday",
+      "month": 7,
+      "day": 28,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-07-29",
+      "year": 2024,
+      "name_th": "ชดเชยวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday (in lieu)",
+      "month": 7,
+      "day": 29,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-08-12",
+      "year": 2024,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; วันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+      "month": 8,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-10-13",
+      "year": 2024,
+      "name_th": "วันนวมินทรมหาราช",
+      "name_en": "HM King Bhumibol Adulyadej Memorial Day",
+      "month": 10,
+      "day": 13,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-10-14",
+      "year": 2024,
+      "name_th": "ชดเชยวันนวมินทรมหาราช",
+      "name_en": "HM King Bhumibol Adulyadej Memorial Day (in lieu)",
+      "month": 10,
+      "day": 14,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-10-23",
+      "year": 2024,
+      "name_th": "วันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-05",
+      "year": 2024,
+      "name_th": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; วันชาติ; วันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+      "month": 12,
+      "day": 5,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-12-10",
+      "year": 2024,
+      "name_th": "วันรัฐธรรมนูญ",
+      "name_en": "Constitution Day",
+      "month": 12,
+      "day": 10,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-12-30",
+      "year": 2024,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 12,
+      "day": 30,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-12-31",
+      "year": 2024,
+      "name_th": "วันสิ้นปี",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_th": "วันขึ้นปีใหม่",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-11",
+      "year": 2025,
+      "name_th": "วันเด็กแห่งชาติ",
+      "name_en": "National Children's Day",
+      "month": 1,
+      "day": 11,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-02-12",
+      "year": 2025,
+      "name_th": "วันมาฆบูชา",
+      "name_en": "Makha Bucha",
+      "month": 2,
+      "day": 12,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-04-06",
+      "year": 2025,
+      "name_th": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-04-07",
+      "year": 2025,
+      "name_th": "ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day (in lieu)",
+      "month": 4,
+      "day": 7,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-13",
+      "year": 2025,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-04-14",
+      "year": 2025,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-15",
+      "year": 2025,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-04-16",
+      "year": 2025,
+      "name_th": "ชดเชยวันสงกรานต์",
+      "name_en": "Songkran Festival (in lieu)",
+      "month": 4,
+      "day": 16,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_th": "วันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-05-04",
+      "year": 2025,
+      "name_th": "วันฉัตรมงคล",
+      "name_en": "Coronation Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-05-05",
+      "year": 2025,
+      "name_th": "ชดเชยวันฉัตรมงคล",
+      "name_en": "Coronation Day (in lieu)",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-05-11",
+      "year": 2025,
+      "name_th": "วันวิสาขบูชา",
+      "name_en": "Visakha Bucha",
+      "month": 5,
+      "day": 11,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-05-12",
+      "year": 2025,
+      "name_th": "ชดเชยวันวิสาขบูชา",
+      "name_en": "Visakha Bucha (in lieu)",
+      "month": 5,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-06-02",
+      "year": 2025,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-06-03",
+      "year": 2025,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-07-10",
+      "year": 2025,
+      "name_th": "วันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha",
+      "month": 7,
+      "day": 10,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-07-11",
+      "year": 2025,
+      "name_th": "วันเข้าพรรษา",
+      "name_en": "Buddhist Lent Day",
+      "month": 7,
+      "day": 11,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-07-28",
+      "year": 2025,
+      "name_th": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday",
+      "month": 7,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-08-11",
+      "year": 2025,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 8,
+      "day": 11,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-08-12",
+      "year": 2025,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; วันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+      "month": 8,
+      "day": 12,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-10-13",
+      "year": 2025,
+      "name_th": "วันนวมินทรมหาราช",
+      "name_en": "HM King Bhumibol Adulyadej Memorial Day",
+      "month": 10,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-10-23",
+      "year": 2025,
+      "name_th": "วันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-05",
+      "year": 2025,
+      "name_th": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; วันชาติ; วันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+      "month": 12,
+      "day": 5,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-12-10",
+      "year": 2025,
+      "name_th": "วันรัฐธรรมนูญ",
+      "name_en": "Constitution Day",
+      "month": 12,
+      "day": 10,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-12-31",
+      "year": 2025,
+      "name_th": "วันสิ้นปี",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_th": "วันขึ้นปีใหม่",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-01-02",
+      "year": 2026,
+      "name_th": "วันหยุดพิเศษ (เพิ่มเติม)",
+      "name_en": "Bridge Public Holiday",
+      "month": 1,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-01-10",
+      "year": 2026,
+      "name_th": "วันเด็กแห่งชาติ",
+      "name_en": "National Children's Day",
+      "month": 1,
+      "day": 10,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-03-03",
+      "year": 2026,
+      "name_th": "วันมาฆบูชา",
+      "name_en": "Makha Bucha",
+      "month": 3,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-04-06",
+      "year": 2026,
+      "name_th": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+      "name_en": "Chakri Memorial Day",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-04-13",
+      "year": 2026,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-04-14",
+      "year": 2026,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-04-15",
+      "year": 2026,
+      "name_th": "วันสงกรานต์",
+      "name_en": "Songkran Festival",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_th": "วันแรงงานแห่งชาติ",
+      "name_en": "National Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-04",
+      "year": 2026,
+      "name_th": "วันฉัตรมงคล",
+      "name_en": "Coronation Day",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-05-31",
+      "year": 2026,
+      "name_th": "วันวิสาขบูชา",
+      "name_en": "Visakha Bucha",
+      "month": 5,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-06-01",
+      "year": 2026,
+      "name_th": "ชดเชยวันวิสาขบูชา",
+      "name_en": "Visakha Bucha (in lieu)",
+      "month": 6,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-06-03",
+      "year": 2026,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+      "name_en": "HM Queen Suthida's Birthday",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-07-28",
+      "year": 2026,
+      "name_th": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "name_en": "HM King Maha Vajiralongkorn's Birthday",
+      "month": 7,
+      "day": 28,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-07-29",
+      "year": 2026,
+      "name_th": "วันอาสาฬหบูชา",
+      "name_en": "Asarnha Bucha",
+      "month": 7,
+      "day": 29,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-07-30",
+      "year": 2026,
+      "name_th": "วันเข้าพรรษา",
+      "name_en": "Buddhist Lent Day",
+      "month": 7,
+      "day": 30,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-08-12",
+      "year": 2026,
+      "name_th": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง; วันแม่แห่งชาติ",
+      "name_en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+      "month": 8,
+      "day": 12,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-10-13",
+      "year": 2026,
+      "name_th": "วันนวมินทรมหาราช",
+      "name_en": "HM King Bhumibol Adulyadej Memorial Day",
+      "month": 10,
+      "day": 13,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-10-23",
+      "year": 2026,
+      "name_th": "วันปิยมหาราช",
+      "name_en": "HM King Chulalongkorn Memorial Day",
+      "month": 10,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-05",
+      "year": 2026,
+      "name_th": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; วันชาติ; วันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+      "month": 12,
+      "day": 5,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-12-07",
+      "year": 2026,
+      "name_th": "ชดเชยวันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร; ชดเชยวันชาติ; ชดเชยวันพ่อแห่งชาติ",
+      "name_en": "HM King Bhumibol Adulyadej the Great's Birthday (in lieu); National Day (in lieu); National Father's Day (in lieu)",
+      "month": 12,
+      "day": 7,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-12-10",
+      "year": 2026,
+      "name_th": "วันรัฐธรรมนูญ",
+      "name_en": "Constitution Day",
+      "month": 12,
+      "day": 10,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-12-31",
+      "year": 2026,
+      "name_th": "วันสิ้นปี",
+      "name_en": "New Year's Eve",
+      "month": 12,
+      "day": 31,
+      "day_of_week": "Thursday"
+    }
+  ],
+  "meta": {
+    "title": "วันหยุดราชการไทย (2020–2026) - ดาวน์โหลดฟรี",
+    "description": "Public holidays 2020-2026 with native and English names มีทั้งหมด 188 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "วันหยุดราชการไทย (2020–2026) | ListBase",
+    "seo_description": "ดาวน์โหลด วันหยุดราชการไทย (2020–2026) — 188 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 188 รายการ / 7 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

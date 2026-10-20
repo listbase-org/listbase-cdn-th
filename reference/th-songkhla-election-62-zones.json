@@ -1,0 +1,172 @@
+{
+  "id": "th-songkhla-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดสงขลา 2562 (Songkhla 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดสงขลา 2562 (Songkhla 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสงขลา ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Songkhla province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 242,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองสงขลา",
+      "areas_detail": "เมืองสงขลา: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 243,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 2,
+      "area_count": 1,
+      "amphoes": "หาดใหญ่",
+      "areas_detail": "หาดใหญ่: หาดใหญ่,คลองอู่ตะเภา,คลองแห: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 244,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 3,
+      "area_count": 2,
+      "amphoes": "นาหม่อม, หาดใหญ่",
+      "areas_detail": "นาหม่อม: : : , หาดใหญ่: ทุ่งใหญ่,คอหงส์,ท่าข้าม,ทุ่งตำเสา,น้ำน้อย,คูเต่า,ฉลุง,ควนลัง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 245,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 4,
+      "area_count": 4,
+      "amphoes": "กระแสสินธุ์, ระโนด, สทิงพระ, สิงหนคร",
+      "areas_detail": "กระแสสินธุ์: : : , ระโนด: : : , สทิงพระ: : : , สิงหนคร: : ปากรอ,ชิงโค,สทิงหม้อ,ป่าขาด,ทำนบ,หัวเขา: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 246,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 5,
+      "area_count": 4,
+      "amphoes": "ควนเนียง, บางกล่ำ, รัตภูมิ, สิงหนคร",
+      "areas_detail": "ควนเนียง: : : , บางกล่ำ: : : , รัตภูมิ: : : , สิงหนคร: ปากรอ,ชิงโค,สทิงหม้อ,ป่าขาด,ทำนบ,หัวเขา: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 247,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 6,
+      "area_count": 3,
+      "amphoes": "คลองหอยโข่ง, สะเดา, หาดใหญ่",
+      "areas_detail": "คลองหอยโข่ง: : : , สะเดา: : สำนักขาม,สำนักแต้ว: , หาดใหญ่: บ้านพรุ,พะตง,เทศบาลตำบลบ้านไร่: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 248,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 7,
+      "area_count": 3,
+      "amphoes": "นาทวี, สะบ้าย้อย, สะเดา",
+      "areas_detail": "นาทวี: : : , สะบ้าย้อย: : : , สะเดา: สำนักขาม,สำนักแต้ว: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 249,
+      "province_name_th": "สงขลา",
+      "province_name_en": "Songkhla",
+      "province_slug": "songkhla",
+      "zone_number": 8,
+      "area_count": 2,
+      "amphoes": "จะนะ, เทพา",
+      "areas_detail": "จะนะ: : : , เทพา: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดสงขลา 2562 (Songkhla 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดสงขลา ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Songkhla province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 8 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดสงขลา 2562 (Songkhla 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดสงขลา 2562 (Songkhla 2019 Election Constituencies) — 8 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 8 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

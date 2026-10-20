@@ -1,0 +1,80 @@
+{
+  "id": "th-samut-songkhram-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสมุทรสงคราม (Samut Songkhram Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสมุทรสงคราม (Samut Songkhram Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสมุทรสงคราม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Samut Songkhram province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 75000,
+      "province_code": 75,
+      "province_name_th": "สมุทรสงคราม",
+      "province_name_en": "Samut Songkhram",
+      "districts": "7501: เมืองสมุทรสงคราม: Mueang Samut Songkhram",
+      "subdistricts": "750101: แม่กลอง: Mae Klong: 7501, 750102: บางขันแตก: Bang Khan Taek: 7501, 750103: ลาดใหญ่: Lat Yai: 7501, 750104: บ้านปรก: Ban Prok: 7501, 750105: บางแก้ว: Bang Kaeo: 7501, 750106: ท้ายหาด: Thai Hat: 7501, 750107: แหลมใหญ่: Laem Yai: 7501, 750108: คลองเขิน: Khlong Khoen: 7501, 750109: คลองโคน: Khlong Khon: 7501, 750110: นางตะเคียน: Nang Takhian: 7501, 750111: บางจะเกร็ง: Bang Chakreng: 7501"
+    },
+    {
+      "postal_code": 75110,
+      "province_code": 75,
+      "province_name_th": "สมุทรสงคราม",
+      "province_name_en": "Samut Songkhram",
+      "districts": "7503: อัมพวา: Amphawa",
+      "subdistricts": "750301: อัมพวา: Amphawa: 7503, 750302: สวนหลวง: Suan Luang: 7503, 750303: ท่าคา: Tha Kha: 7503, 750304: วัดประดู่: Wat Pradu: 7503, 750305: เหมืองใหม่: Mueang Mai: 7503, 750306: บางช้าง: Bang Chang: 7503, 750307: แควอ้อม: Khwae Om: 7503, 750308: ปลายโพงพาง: Plai Phongphang: 7503, 750309: บางแค: Bang Khae: 7503, 750310: แพรกหนามแดง: Phraek Nam Daeng: 7503, 750311: ยี่สาร: Yi San: 7503, 750312: บางนางลี่: Bang Nang Li: 7503"
+    },
+    {
+      "postal_code": 75120,
+      "province_code": 75,
+      "province_name_th": "สมุทรสงคราม",
+      "province_name_en": "Samut Songkhram",
+      "districts": "7502: บางคนที: Bang Khonthi",
+      "subdistricts": "750201: กระดังงา: Kradang Nga: 7502, 750202: บางสะแก: Bang Sakae: 7502, 750203: บางยี่รงค์: Bang Yi Rong: 7502, 750204: โรงหีบ: Rong Hip: 7502, 750205: บางคนที: Bang Khonthi: 7502, 750206: ดอนมะโนรา: Don Manora: 7502, 750207: บางพรม: Bang Phrom: 7502, 750208: บางกุ้ง: Bang Kung: 7502, 750209: จอมปลวก: Chom Pluak: 7502, 750210: บางนกแขวก: Bang Nok Khwaek: 7502, 750211: ยายแพง: Yai Phaeng: 7502, 750212: บางกระบือ: Bang Krabue: 7502, 750213: บ้านปราโมทย์: Ban Pramot: 7502"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสมุทรสงคราม (Samut Songkhram Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสมุทรสงคราม แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Samut Songkhram province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 3 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสมุทรสงคราม (Samut Songkhram Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสมุทรสงคราม (Samut Songkhram Postal Codes) — 3 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 3 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

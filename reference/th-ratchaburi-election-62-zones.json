@@ -1,0 +1,136 @@
+{
+  "id": "th-ratchaburi-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดราชบุรี 2562 (Ratchaburi 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดราชบุรี 2562 (Ratchaburi 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดราชบุรี ในการเลือกตั้งทั่วไป 2562 จำนวน 5 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Ratchaburi province during the Thailand 24-March-2019 general election. 5 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 206,
+      "province_name_th": "ราชบุรี",
+      "province_name_en": "Ratchaburi",
+      "province_slug": "ratchaburi",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองราชบุรี",
+      "areas_detail": "เมืองราชบุรี: : ดอนแร่,น้ำพุ,อ่างทอง,ห้วยไผ่: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 207,
+      "province_name_th": "ราชบุรี",
+      "province_name_en": "Ratchaburi",
+      "province_slug": "ratchaburi",
+      "zone_number": 2,
+      "area_count": 5,
+      "amphoes": "บ้านคา, ปากท่อ, วัดเพลง, สวนผึ้ง, เมืองราชบุรี",
+      "areas_detail": "บ้านคา: : : , ปากท่อ: : : , วัดเพลง: : : , สวนผึ้ง: : : , เมืองราชบุรี: ดอนแร่,น้ำพุ,อ่างทอง,ห้วยไผ่: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 208,
+      "province_name_th": "ราชบุรี",
+      "province_name_en": "Ratchaburi",
+      "province_slug": "ratchaburi",
+      "zone_number": 3,
+      "area_count": 2,
+      "amphoes": "จอมบึง, โพธาราม",
+      "areas_detail": "จอมบึง: : : , โพธาราม: : บ้านสิงห์,บ้านฆ้อง,ดอนทราย: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 209,
+      "province_name_th": "ราชบุรี",
+      "province_name_en": "Ratchaburi",
+      "province_slug": "ratchaburi",
+      "zone_number": 4,
+      "area_count": 1,
+      "amphoes": "บ้านโป่ง",
+      "areas_detail": "บ้านโป่ง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 210,
+      "province_name_th": "ราชบุรี",
+      "province_name_en": "Ratchaburi",
+      "province_slug": "ratchaburi",
+      "zone_number": 5,
+      "area_count": 3,
+      "amphoes": "ดำเนินสะดวก, บางแพ, โพธาราม",
+      "areas_detail": "ดำเนินสะดวก: : : , บางแพ: : : , โพธาราม: บ้านสิงห์,บ้านฆ้อง,ดอนทราย: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดราชบุรี 2562 (Ratchaburi 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดราชบุรี ในการเลือกตั้งทั่วไป 2562 จำนวน 5 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Ratchaburi province during the Thailand 24-March-2019 general election. 5 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 5 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดราชบุรี 2562 (Ratchaburi 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดราชบุรี 2562 (Ratchaburi 2019 Election Constituencies) — 5 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 5 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

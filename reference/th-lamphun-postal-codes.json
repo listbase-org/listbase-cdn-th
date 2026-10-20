@@ -1,0 +1,128 @@
+{
+  "id": "th-lamphun-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดลำพูน (Lamphun Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดลำพูน (Lamphun Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดลำพูน แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Lamphun province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 51000,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5101: เมืองลำพูน: Mueang Lamphun",
+      "subdistricts": "510101: ในเมือง: Nai Mueang: 5101, 510102: เหมืองง่า: Mueang Nga: 5101, 510105: ประตูป่า: Pratu Pa: 5101, 510106: ริมปิง: Rim Ping: 5101, 510107: ต้นธง: Ton Thong: 5101, 510108: บ้านแป้น: Ban Paen: 5101, 510109: เหมืองจี้: Mueang Chi: 5101, 510110: ป่าสัก: Pa Sak: 5101, 510111: เวียงยอง: Wiang Yong: 5101, 510112: บ้านกลาง: Ban Klang: 5101, 510113: มะเขือแจ้: Makhuea Chae: 5101, 510116: ศรีบัวบาน: Si Bua Ban: 5101, 510117: หนองหนาม: Nong Nam: 5101"
+    },
+    {
+      "postal_code": 51110,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5104: ลี้: Li",
+      "subdistricts": "510401: ลี้: Li: 5104, 510402: แม่ตืน: Mae Tuen: 5104, 510403: นาทราย: Na Sai: 5104, 510404: ดงดำ: Dong Dam: 5104, 510405: ก้อ: Ko: 5104, 510406: แม่ลาน: Mae Lan: 5104, 510408: ป่าไผ่: Pa Phai: 5104, 510409: ศรีวิชัย: Si Wichai: 5104"
+    },
+    {
+      "postal_code": 51120,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5106: ป่าซาง: Pa Sang, 5108: เวียงหนองล่อง: Wiang Nong Long",
+      "subdistricts": "510601: ปากบ่อง: Pak Bong: 5106, 510602: ป่าซาง: Pa Sang: 5106, 510603: แม่แรง: Mae Raeng: 5106, 510604: ม่วงน้อย: Muang Noi: 5106, 510605: บ้านเรือน: Ban Ruean: 5106, 510606: มะกอก: Makok: 5106, 510607: ท่าตุ้ม: Tha Tum: 5106, 510608: น้ำดิบ: Nam Dip: 5106, 510611: นครเจดีย์: Nakhon Chedi: 5106, 510801: หนองล่อง: Nong Long: 5108, 510802: หนองยวง: Nong Yuang: 5108, 510803: วังผาง: Wang Phang: 5108"
+    },
+    {
+      "postal_code": 51130,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5103: บ้านโฮ่ง: Ban Hong",
+      "subdistricts": "510301: บ้านโฮ่ง: Ban Hong: 5103, 510302: ป่าพลู: Pa Phlu: 5103, 510303: เหล่ายาว: Lao Yao: 5103, 510304: ศรีเตี้ย: Si Tia: 5103, 510305: หนองปลาสะวาย: Nong Pla Sawai: 5103"
+    },
+    {
+      "postal_code": 51140,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5102: แม่ทา: Mae Tha",
+      "subdistricts": "510201: ทาปลาดุก: Tha Pla Duk: 5102, 510202: ทาสบเส้า: Tha Sopsao: 5102"
+    },
+    {
+      "postal_code": 51150,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5101: เมืองลำพูน: Mueang Lamphun",
+      "subdistricts": "510103: อุโมงค์: Umong: 5101, 510104: หนองช้างคืน: Nong Chang Khuen: 5101"
+    },
+    {
+      "postal_code": 51160,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5105: ทุ่งหัวช้าง: Thung Hua Chang",
+      "subdistricts": "510501: ทุ่งหัวช้าง: Thung Hua Chang: 5105, 510502: บ้านปวง: Ban Puang: 5105, 510503: ตะเคียนปม: Takhian Pom: 5105"
+    },
+    {
+      "postal_code": 51170,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5102: แม่ทา: Mae Tha",
+      "subdistricts": "510203: ทากาศ: Tha Kat: 5102, 510204: ทาขุมเงิน: Tha Khum Ngoen: 5102, 510205: ทาทุ่งหลวง: Tha Thung Luang: 5102, 510206: ทาแม่ลอบ: Tha Mae Lop: 5102"
+    },
+    {
+      "postal_code": 51180,
+      "province_code": 51,
+      "province_name_th": "ลำพูน",
+      "province_name_en": "Lamphun",
+      "districts": "5107: บ้านธิ: Ban Thi",
+      "subdistricts": "510701: บ้านธิ: Ban Thi: 5107, 510702: ห้วยยาบ: Huai Yap: 5107"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดลำพูน (Lamphun Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดลำพูน แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Lamphun province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดลำพูน (Lamphun Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดลำพูน (Lamphun Postal Codes) — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

@@ -1,0 +1,968 @@
+{
+  "id": "th-satun-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สตูล (Satun party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สตูล (Satun party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสตูล. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 348
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 554
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 1491
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 232
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 316
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1055
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 861
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 878
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 2629
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 277
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 1061
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 414
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 333
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 181
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 15
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 85
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 103
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 128
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 25287
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 95
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 380
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 150
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 2330
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 151
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 18894
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 77
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1765
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 157
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 19984
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 210
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 231
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 95
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 303
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1001
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 465
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 1242
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 456
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1064
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 140
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1249
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 4070
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 342
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 1416
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 421
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 401
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 143
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 114
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 178
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 82
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "23",
+      "party": "เก้าอิสระ",
+      "votes": 46
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 154
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 176
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 41257
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 106
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 312
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 77
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 142
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 1438
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 212
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 187
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 11901
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 101
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 38
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 260
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 134
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 76
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 69
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 21584
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 229
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 198
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 9
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 194
+    },
+    {
+      "changwat_code": "91",
+      "changwat": "สตูล",
+      "khet": "2",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 53
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สตูล (Satun party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสตูล. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 114 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สตูล (Satun party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สตูล (Satun party-list ballots) — 114 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 114 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

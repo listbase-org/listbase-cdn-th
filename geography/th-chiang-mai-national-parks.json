@@ -1,0 +1,256 @@
+{
+  "id": "th-chiang-mai-national-parks",
+  "name": "เชียงใหม่ — อุทยานแห่งชาติในจังหวัดเชียงใหม่ (National Parks in Chiang Mai Province)",
+  "title": "เชียงใหม่ — อุทยานแห่งชาติในจังหวัดเชียงใหม่ (National Parks in Chiang Mai Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดเชียงใหม่ (Chiang Mai). 11 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Chiang Mai appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-chiang-mai-...' joins to th-chiang-mai-postal-codes / th-provinces (province_code 50).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 2,
+      "name_th": "อุทยานแห่งชาติดอยอินทนนท์",
+      "name_en": "Doi Inthanon National Park",
+      "name_th_short": "ดอยอินทนนท์",
+      "name_en_short": "Doi Inthanon",
+      "lat": 18.59,
+      "lon": 98.48,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 3,
+      "name_th": "อุทยานแห่งชาติดอยผ้าห่มปก",
+      "name_en": "Doi Pha Hom Pok National Park",
+      "name_th_short": "ดอยผ้าห่มปก",
+      "name_en_short": "Doi Pha Hom Pok",
+      "lat": 19.98,
+      "lon": 99.14,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 4,
+      "name_th": "อุทยานแห่งชาติดอยสุเทพ-ปุย",
+      "name_en": "Doi Suthep–Pui National Park",
+      "name_th_short": "ดอยสุเทพ-ปุย",
+      "name_en_short": "Doi Suthep–Pui",
+      "lat": 18.8,
+      "lon": 98.91,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 5,
+      "name_th": "อุทยานแห่งชาติขุนขาน",
+      "name_en": "Khun Khan National Park",
+      "name_th_short": "ขุนขาน",
+      "name_en_short": "Khun Khan",
+      "lat": 18.85,
+      "lon": 98.62,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 6,
+      "name_th": "อุทยานแห่งชาติแม่ตะไคร้",
+      "name_en": "Mae Takhrai National Park",
+      "name_th_short": "แม่ตะไคร้",
+      "name_en_short": "Mae Takhrai",
+      "lat": 18.96,
+      "lon": 99.24,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50, Lamphun: ลำพูน: Lamphun: lamphun: 51",
+      "province_count": 2
+    },
+    {
+      "park_id": 7,
+      "name_th": "อุทยานแห่งชาติแม่วาง",
+      "name_en": "Mae Wang National Park",
+      "name_th_short": "แม่วาง",
+      "name_en_short": "Mae Wang",
+      "lat": 18.52,
+      "lon": 98.71,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 8,
+      "name_th": "อุทยานแห่งชาติออบหลวง",
+      "name_en": "Op Luang National Park",
+      "name_th_short": "ออบหลวง",
+      "name_en_short": "Op Luang",
+      "lat": 18.22,
+      "lon": 98.48,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 9,
+      "name_th": "อุทยานแห่งชาติผาแดง",
+      "name_en": "Pha Daeng National Park",
+      "name_th_short": "ผาแดง",
+      "name_en_short": "Pha Daeng",
+      "lat": 19.62,
+      "lon": 98.95,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 10,
+      "name_th": "อุทยานแห่งชาติศรีลานนา",
+      "name_en": "Si Lanna National Park",
+      "name_th_short": "ศรีลานนา",
+      "name_en_short": "Si Lanna",
+      "lat": 19.28,
+      "lon": 99.09,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50",
+      "province_count": 1
+    },
+    {
+      "park_id": 13,
+      "name_th": "อุทยานแห่งชาติแม่ปิง",
+      "name_en": "Mae Ping National Park",
+      "name_th_short": "แม่ปิง",
+      "name_en_short": "Mae Ping",
+      "lat": 17.56,
+      "lon": 98.8,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50, Tak: ตาก: Tak: tak: 63, Lamphun: ลำพูน: Lamphun: lamphun: 51",
+      "province_count": 3
+    },
+    {
+      "park_id": 14,
+      "name_th": "อุทยานแห่งชาติห้วยน้ำดัง",
+      "name_en": "Huai Nam Dang National Park",
+      "name_th_short": "ห้วยน้ำดัง",
+      "name_en_short": "Huai Nam Dang",
+      "lat": 19.62,
+      "lon": 99.02,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Mai: เชียงใหม่: Chiang Mai: chiang-mai: 50, Mae Hong Son: แม่ฮ่องสอน: Mae Hong Son: mae-hong-son: 58",
+      "province_count": 2
+    }
+  ],
+  "meta": {
+    "title": "เชียงใหม่ — อุทยานแห่งชาติในจังหวัดเชียงใหม่ (National Parks in Chiang Mai Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดเชียงใหม่ (Chiang Mai). 11 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Chiang Mai appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-chiang-mai-...' joins to th-chiang-mai-postal-codes / th-provinces (province_code 50). มีทั้งหมด 11 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เชียงใหม่ — อุทยานแห่งชาติในจังหวัดเชียงใหม่ (National Parks in Chiang Mai Province) | ListBase",
+    "seo_description": "ดาวน์โหลด เชียงใหม่ — อุทยานแห่งชาติในจังหวัดเชียงใหม่ (National Parks in Chiang Mai Province) — 11 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 11 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

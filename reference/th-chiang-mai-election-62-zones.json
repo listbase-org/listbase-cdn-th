@@ -1,0 +1,184 @@
+{
+  "id": "th-chiang-mai-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดเชียงใหม่ 2562 (Chiang Mai 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดเชียงใหม่ 2562 (Chiang Mai 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดเชียงใหม่ ในการเลือกตั้งทั่วไป 2562 จำนวน 9 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Chiang Mai province during the Thailand 24-March-2019 general election. 9 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 328,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองเชียงใหม่",
+      "areas_detail": "เมืองเชียงใหม่: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 329,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 2,
+      "area_count": 2,
+      "amphoes": "สารภี, หางดง",
+      "areas_detail": "สารภี: : : , หางดง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 330,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "ดอยสะเก็ด, สันกำแพง, แม่ออน",
+      "areas_detail": "ดอยสะเก็ด: : : , สันกำแพง: : : , แม่ออน: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 331,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 4,
+      "area_count": 3,
+      "amphoes": "พร้าว, สันทราย, แม่แตง",
+      "areas_detail": "พร้าว: : : , สันทราย: : : , แม่แตง: แม่หอพระ: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 332,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 5,
+      "area_count": 4,
+      "amphoes": "กัลยาณิวัฒนา, สะเมิง, แม่ริม, แม่แตง",
+      "areas_detail": "กัลยาณิวัฒนา: : : , สะเมิง: : : , แม่ริม: : : , แม่แตง: : แม่หอพระ: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 333,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 6,
+      "area_count": 3,
+      "amphoes": "เชียงดาว, เวียงแหง, ไชยปราการ",
+      "areas_detail": "เชียงดาว: : : , เวียงแหง: : : , ไชยปราการ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 334,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 7,
+      "area_count": 2,
+      "amphoes": "ฝาง, แม่อาย",
+      "areas_detail": "ฝาง: : : , แม่อาย: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 335,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 8,
+      "area_count": 4,
+      "amphoes": "จอมทอง, ดอยหล่อ, สันป่าตอง, แม่วาง",
+      "areas_detail": "จอมทอง: : : , ดอยหล่อ: : : , สันป่าตอง: : : , แม่วาง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 336,
+      "province_name_th": "เชียงใหม่",
+      "province_name_en": "Chiang Mai",
+      "province_slug": "chiang-mai",
+      "zone_number": 9,
+      "area_count": 4,
+      "amphoes": "ดอยเต่า, อมก๋อย, ฮอด, แม่แจ่ม",
+      "areas_detail": "ดอยเต่า: : : , อมก๋อย: : : , ฮอด: : : , แม่แจ่ม: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดเชียงใหม่ 2562 (Chiang Mai 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดเชียงใหม่ ในการเลือกตั้งทั่วไป 2562 จำนวน 9 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Chiang Mai province during the Thailand 24-March-2019 general election. 9 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดเชียงใหม่ 2562 (Chiang Mai 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดเชียงใหม่ 2562 (Chiang Mai 2019 Election Constituencies) — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

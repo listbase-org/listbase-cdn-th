@@ -1,0 +1,2336 @@
+{
+  "id": "th-narathiwat-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นราธิวาส (Narathiwat party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นราธิวาส (Narathiwat party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนราธิวาส. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 347
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1185
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2746
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2953
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 477
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1332
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 390
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 620
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1547
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 322
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 819
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 467
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 107
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 122
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 39
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 56
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 198
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 290
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 9859
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 77
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 317
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 113
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 142
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 328
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 28189
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 225
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 192
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 8653
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 86
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 38
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3901
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 323
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 164
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 23124
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 158
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 176
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 318
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2977
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 432
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 393
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 195
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1014
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 356
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 442
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1038
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 262
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 706
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 532
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 61
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 31
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 109
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 413
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 95
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 9875
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 58
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 289
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 92
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 267
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 14820
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 154
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 3441
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 60
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 22
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 94
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 12116
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 653
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 165
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 76
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17875
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 99
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 37
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 21
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 37
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2064
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2982
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 621
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 590
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 320
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 392
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 244
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 294
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 913
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 174
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 466
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 610
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 27
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 31
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 176
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 433
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 112
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4078
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 61
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 101
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 191
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 244
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 378
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 22404
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 217
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 88
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 171
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 4549
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 64
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 43
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 97
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 13385
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 485
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 153
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 120
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 18575
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 147
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 91
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 45
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2030
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 952
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 639
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 805
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3142
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 478
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 224
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 496
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 962
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 178
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 552
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 420
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 144
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 175
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 30
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 199
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 113
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 62
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 143
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6487
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 58
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 164
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 268
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 213
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 297
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 29583
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 445
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 245
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 187
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 10824
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 94
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 43
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1687
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 220
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 161
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 119
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17263
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 189
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 84
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 88
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2493
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1172
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 641
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 876
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 2849
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 496
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 315
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 470
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1138
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 218
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 405
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 92
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 610
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 84
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 178
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 74
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 286
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 290
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 125
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6487
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 98
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 86
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 293
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 238
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 323
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 34879
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 291
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 215
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 199
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 6105
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 56
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 35
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2187
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 259
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 127
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 121
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 20739
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 178
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 103
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 19
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 69
+    },
+    {
+      "changwat_code": "96",
+      "changwat": "นราธิวาส",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 55
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นราธิวาส (Narathiwat party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนราธิวาส. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 285 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นราธิวาส (Narathiwat party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นราธิวาส (Narathiwat party-list ballots) — 285 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 285 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

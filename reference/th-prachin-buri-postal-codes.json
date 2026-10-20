@@ -1,0 +1,128 @@
+{
+  "id": "th-prachin-buri-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดปราจีนบุรี (Prachin Buri Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดปราจีนบุรี (Prachin Buri Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดปราจีนบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Prachin Buri province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 25000,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2501: เมืองปราจีนบุรี: Mueang Prachin Buri",
+      "subdistricts": "250101: หน้าเมือง: Na Mueang: 2501, 250102: รอบเมือง: Rop Mueang: 2501, 250103: วัดโบสถ์: Wat Bot: 2501, 250104: บางเดชะ: Bang Decha: 2501, 250105: ท่างาม: Tha Ngam: 2501, 250106: บางบริบูรณ์: Bang Boribun: 2501, 250107: ดงพระราม: Dong Phraram: 2501, 250111: ดงขี้เหล็ก: Dong Khi Lek: 2501, 250113: โนนห้อม: Non Hom: 2501"
+    },
+    {
+      "postal_code": 25110,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2502: กบินทร์บุรี: Kabin Buri",
+      "subdistricts": "250201: กบินทร์: Kabin: 2502, 250203: วังดาล: Wang Dan: 2502, 250204: นนทรี: Nonsi: 2502, 250205: ย่านรี: Yan Ri: 2502, 250206: วังตะเคียน: Wang Takhian: 2502, 250207: หาดนางแก้ว: Hat Nang Kaeo: 2502, 250208: ลาดตะเคียน: Lat Takhian: 2502, 250209: บ้านนา: Ban Na: 2502, 250210: บ่อทอง: Bo Thong: 2502, 250211: หนองกี่: Nong Ki: 2502, 250212: นาแขม: Na Khaem: 2502, 250213: เขาไม้แก้ว: Khao Mai Kaeo: 2502, 250214: วังท่าช้าง: Wang Tha Chang: 2502"
+    },
+    {
+      "postal_code": 25130,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2507: ประจันตคาม: Prachantakham",
+      "subdistricts": "250701: ประจันตคาม: Prachantakham: 2507, 250702: เกาะลอย: Ko Loi: 2507, 250703: บ้านหอย: Ban Hoi: 2507, 250704: หนองแสง: Nong Saeng: 2507, 250705: ดงบัง: Dong Bang: 2507, 250706: คำโตนด: Kham Tanot: 2507, 250707: บุฝ้าย: Bu Fai: 2507, 250708: หนองแก้ว: Nong Kaeo: 2507, 250709: โพธิ์งาม: Pho Ngam: 2507"
+    },
+    {
+      "postal_code": 25140,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2508: ศรีมหาโพธิ: Si Maha Phot",
+      "subdistricts": "250801: ศรีมหาโพธิ: Si Mahapho: 2508, 250802: สัมพันธ์: Samphan: 2508, 250803: บ้านทาม: Ban Tham: 2508, 250804: ท่าตูม: Tha Tum: 2508, 250805: บางกุ้ง: Bang Kung: 2508, 250806: ดงกระทงยาม: Dong Krathong Yam: 2508, 250807: หนองโพรง: Nong Phrong: 2508, 250808: หัวหว้า: Hua Wa: 2508, 250809: หาดยาง: Hat Yang: 2508, 250810: กรอกสมบูรณ์: Krok Sombun: 2508"
+    },
+    {
+      "postal_code": 25150,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2506: บ้านสร้าง: Ban Sang",
+      "subdistricts": "250601: บ้านสร้าง: Ban Sang: 2506, 250602: บางกระเบา: Bang Krabao: 2506, 250603: บางเตย: Bang Toei: 2506, 250604: บางยาง: Bang Yang: 2506, 250605: บางแตน: Bang Taen: 2506, 250606: บางพลวง: Bang Phluang: 2506, 250607: บางปลาร้า: Bang Pla Ra: 2506, 250608: บางขาม: Bang Kham: 2506, 250609: กระทุ่มแพ้ว: Krathum Phaeo: 2506"
+    },
+    {
+      "postal_code": 25190,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2509: ศรีมโหสถ: Si Mahosot",
+      "subdistricts": "250901: โคกปีบ: Khok Pip: 2509, 250902: โคกไทย: Khok Thai: 2509, 250903: คู้ลำพัน: Khu Lamphan: 2509, 250904: ไผ่ชะเลือด: Phai Chalueat: 2509"
+    },
+    {
+      "postal_code": 25220,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2503: นาดี: Na Di",
+      "subdistricts": "250301: นาดี: Na Di: 2503, 250302: สำพันตา: Sam Phan Ta: 2503, 250303: สะพานหิน: Saphan Hin: 2503, 250304: ทุ่งโพธิ์: Thung Pho: 2503, 250305: แก่งดินสอ: Kaeng Dinso: 2503, 250306: บุพราหมณ์: Bu Phram: 2503"
+    },
+    {
+      "postal_code": 25230,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2501: เมืองปราจีนบุรี: Mueang Prachin Buri",
+      "subdistricts": "250108: บ้านพระ: Ban Phra: 2501, 250109: โคกไม้ลาย: Khok Mai Lai: 2501, 250110: ไม้เค็ด: Mai Khet: 2501, 250112: เนินหอม: Noen Hom: 2501"
+    },
+    {
+      "postal_code": 25240,
+      "province_code": 25,
+      "province_name_th": "ปราจีนบุรี",
+      "province_name_en": "Prachin Buri",
+      "districts": "2502: กบินทร์บุรี: Kabin Buri",
+      "subdistricts": "250202: เมืองเก่า: Mueang Kao: 2502"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดปราจีนบุรี (Prachin Buri Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดปราจีนบุรี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Prachin Buri province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดปราจีนบุรี (Prachin Buri Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดปราจีนบุรี (Prachin Buri Postal Codes) — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

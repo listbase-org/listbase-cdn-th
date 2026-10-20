@@ -1,0 +1,436 @@
+{
+  "id": "th-bangkok-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดกรุงเทพมหานคร 2562 (Bangkok 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดกรุงเทพมหานคร 2562 (Bangkok 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดกรุงเทพมหานคร ในการเลือกตั้งทั่วไป 2562 จำนวน 30 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Bangkok province during the Thailand 24-March-2019 general election. 30 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 3,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 1,
+      "area_count": 4,
+      "amphoes": "ดุสิต, ป้อมปราบศัตรูพ่าย, พระนคร, สัมพันธวงศ์",
+      "areas_detail": "ดุสิต: : ถนนนครไชยศรี: , ป้อมปราบศัตรูพ่าย: : : , พระนคร: : : , สัมพันธวงศ์: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 4,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 2,
+      "area_count": 3,
+      "amphoes": "บางรัก, ปทุมวัน, สาทร",
+      "areas_detail": "บางรัก: : : , ปทุมวัน: : : , สาทร: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 5,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 3,
+      "area_count": 2,
+      "amphoes": "บางคอแหลม, ยานนาวา",
+      "areas_detail": "บางคอแหลม: : : , ยานนาวา: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 6,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 4,
+      "area_count": 2,
+      "amphoes": "คลองเตย, วัฒนา",
+      "areas_detail": "คลองเตย: : : , วัฒนา: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 7,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 5,
+      "area_count": 2,
+      "amphoes": "ดินแดง, ห้วยขวาง",
+      "areas_detail": "ดินแดง: : : , ห้วยขวาง: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 8,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 6,
+      "area_count": 3,
+      "amphoes": "จตุจักร, พญาไท, ราชเทวี",
+      "areas_detail": "จตุจักร: จตุจักร,จอมพล: : , พญาไท: : : , ราชเทวี: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 9,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 7,
+      "area_count": 2,
+      "amphoes": "ดุสิต, บางซื่อ",
+      "areas_detail": "ดุสิต: ถนนนครไชยศรี: : , บางซื่อ: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 8,
+      "area_count": 2,
+      "amphoes": "ลาดพร้าว, วังทองหลาง",
+      "areas_detail": "ลาดพร้าว: : : , วังทองหลาง: : พลับพลา: ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 11,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 9,
+      "area_count": 2,
+      "amphoes": "จตุจักร, หลักสี่",
+      "areas_detail": "จตุจักร: : จตุจักร,จอมพล: , หลักสี่: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 12,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 10,
+      "area_count": 1,
+      "amphoes": "ดอนเมือง",
+      "areas_detail": "ดอนเมือง: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 13,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 11,
+      "area_count": 1,
+      "amphoes": "สายไหม",
+      "areas_detail": "สายไหม: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 14,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 12,
+      "area_count": 1,
+      "amphoes": "บางเขน",
+      "areas_detail": "บางเขน: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 15,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 13,
+      "area_count": 2,
+      "amphoes": "บางกะปิ, วังทองหลาง",
+      "areas_detail": "บางกะปิ: : : , วังทองหลาง: พลับพลา: : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 16,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 14,
+      "area_count": 2,
+      "amphoes": "คันนายาว, บึงกุ่ม",
+      "areas_detail": "คันนายาว: รามอินทรา: : , บึงกุ่ม: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 17,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 15,
+      "area_count": 2,
+      "amphoes": "คันนายาว, มีนบุรี",
+      "areas_detail": "คันนายาว: : รามอินทรา: , มีนบุรี: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 18,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 16,
+      "area_count": 1,
+      "amphoes": "คลองสามวา",
+      "areas_detail": "คลองสามวา: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 19,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 17,
+      "area_count": 1,
+      "amphoes": "หนองจอก",
+      "areas_detail": "หนองจอก: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 20,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 18,
+      "area_count": 1,
+      "amphoes": "ลาดกระบัง",
+      "areas_detail": "ลาดกระบัง: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 21,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 19,
+      "area_count": 2,
+      "amphoes": "ประเวศ, สะพานสูง",
+      "areas_detail": "ประเวศ: : ดอกไม้,หนองบอน: , สะพานสูง: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 22,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 20,
+      "area_count": 2,
+      "amphoes": "ประเวศ, สวนหลวง",
+      "areas_detail": "ประเวศ: ดอกไม้,หนองบอน: : , สวนหลวง: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 23,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 21,
+      "area_count": 2,
+      "amphoes": "บางนา, พระโขนง",
+      "areas_detail": "บางนา: : : , พระโขนง: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 24,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 22,
+      "area_count": 3,
+      "amphoes": "คลองสาน, ธนบุรี, บางกอกใหญ่",
+      "areas_detail": "คลองสาน: : : , ธนบุรี: : สำเหร่,ดาวคะนอง,บุคคโล: , บางกอกใหญ่: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 25,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 23,
+      "area_count": 2,
+      "amphoes": "จอมทอง, ธนบุรี",
+      "areas_detail": "จอมทอง: : : , ธนบุรี: สำเหร่,ดาวคะนอง,บุคคโล: : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 26,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 24,
+      "area_count": 2,
+      "amphoes": "ทุ่งครุ, ราษฎร์บูรณะ",
+      "areas_detail": "ทุ่งครุ: : : , ราษฎร์บูรณะ: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 27,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 25,
+      "area_count": 1,
+      "amphoes": "บางขุนเทียน",
+      "areas_detail": "บางขุนเทียน: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 28,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 26,
+      "area_count": 2,
+      "amphoes": "บางบอน, หนองแขม",
+      "areas_detail": "บางบอน: : : , หนองแขม: หนองแขม: : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 29,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 27,
+      "area_count": 3,
+      "amphoes": "ตลิ่งชัน, ทวีวัฒนา, หนองแขม",
+      "areas_detail": "ตลิ่งชัน: ตลิ่งชัน,ฉิมพลี: : , ทวีวัฒนา: : : , หนองแขม: : หนองแขม: ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 30,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 28,
+      "area_count": 1,
+      "amphoes": "บางแค",
+      "areas_detail": "บางแค: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 31,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 29,
+      "area_count": 2,
+      "amphoes": "ตลิ่งชัน, ภาษีเจริญ",
+      "areas_detail": "ตลิ่งชัน: : ตลิ่งชัน,ฉิมพลี: , ภาษีเจริญ: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    },
+    {
+      "zone_id": 32,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "province_slug": "bangkok",
+      "zone_number": 30,
+      "area_count": 2,
+      "amphoes": "บางกอกน้อย, บางพลัด",
+      "areas_detail": "บางกอกน้อย: : : , บางพลัด: : : ",
+      "area_prefix_th": "เขต",
+      "sub_area_prefix_th": "แขวง"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดกรุงเทพมหานคร 2562 (Bangkok 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดกรุงเทพมหานคร ในการเลือกตั้งทั่วไป 2562 จำนวน 30 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Bangkok province during the Thailand 24-March-2019 general election. 30 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 30 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดกรุงเทพมหานคร 2562 (Bangkok 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดกรุงเทพมหานคร 2562 (Bangkok 2019 Election Constituencies) — 30 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 30 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

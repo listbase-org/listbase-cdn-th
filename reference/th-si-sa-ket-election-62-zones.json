@@ -1,0 +1,172 @@
+{
+  "id": "th-si-sa-ket-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดศรีสะเกษ 2562 (Si Sa Ket 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดศรีสะเกษ 2562 (Si Sa Ket 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดศรีสะเกษ ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Si Sa Ket province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 228,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 1,
+      "area_count": 2,
+      "amphoes": "วังหิน, เมืองศรีสะเกษ",
+      "areas_detail": "วังหิน: : : , เมืองศรีสะเกษ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 229,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 2,
+      "area_count": 3,
+      "amphoes": "กันทรารมย์, น้ำเกลี้ยง, โนนคูณ",
+      "areas_detail": "กันทรารมย์: : : , น้ำเกลี้ยง: : : , โนนคูณ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 230,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 3,
+      "area_count": 5,
+      "amphoes": "กันทรลักษ์, พยุห์, ศรีรัตนะ, เบญจลักษ์, ไพรบึง",
+      "areas_detail": "กันทรลักษ์: ภูเงิน: : , พยุห์: : : , ศรีรัตนะ: : : , เบญจลักษ์: : : , ไพรบึง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 231,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 4,
+      "area_count": 1,
+      "amphoes": "กันทรลักษ์",
+      "areas_detail": "กันทรลักษ์: : ภูเงิน: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 232,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 5,
+      "area_count": 3,
+      "amphoes": "ขุขันธ์, ขุนหาญ, ภูสิงห์",
+      "areas_detail": "ขุขันธ์: ศรีตระกูล,ปรือใหญ่,นิคมพัฒนา,ตาอุด: : , ขุนหาญ: : : , ภูสิงห์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 233,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 6,
+      "area_count": 2,
+      "amphoes": "ขุขันธ์, ปรางค์กู่",
+      "areas_detail": "ขุขันธ์: : ปรือใหญ่,ศรีตระกูล,ตาอุด,นิคมพัฒนา: , ปรางค์กู่: : ตูม,สำโรงปราสาท: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 234,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 7,
+      "area_count": 4,
+      "amphoes": "ปรางค์กู่, ห้วยทับทัน, อุทุมพรพิสัย, เมืองจันทร์",
+      "areas_detail": "ปรางค์กู่: ตูม,สำโรงปราสาท: : , ห้วยทับทัน: : : , อุทุมพรพิสัย: : : , เมืองจันทร์: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 235,
+      "province_name_th": "ศรีสะเกษ",
+      "province_name_en": "Si Sa Ket",
+      "province_slug": "si-sa-ket",
+      "zone_number": 8,
+      "area_count": 5,
+      "amphoes": "บึงบูรพ์, ยางชุมน้อย, ราษีไศล, ศิลาลาด, โพธิ์ศรีสุวรรณ",
+      "areas_detail": "บึงบูรพ์: : : , ยางชุมน้อย: : : , ราษีไศล: : : , ศิลาลาด: : : , โพธิ์ศรีสุวรรณ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดศรีสะเกษ 2562 (Si Sa Ket 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดศรีสะเกษ ในการเลือกตั้งทั่วไป 2562 จำนวน 8 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Si Sa Ket province during the Thailand 24-March-2019 general election. 8 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 8 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดศรีสะเกษ 2562 (Si Sa Ket 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดศรีสะเกษ 2562 (Si Sa Ket 2019 Election Constituencies) — 8 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 8 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

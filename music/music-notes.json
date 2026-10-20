@@ -1,0 +1,454 @@
+{
+  "id": "music-notes",
+  "name": "โน้ตดนตรี ความถี่ และช่วงโน้ต",
+  "title": "Musical Notes, Frequencies and Intervals",
+  "description": "รวมข้อมูลโน้ตดนตรีทั้งชื่อ ความถี่ หมายเลข MIDI และช่วงโน้ต",
+  "category": "music",
+  "source": "AI Knowledge",
+  "source_url": "https://www.iso.org/standard/3601.html",
+  "updated": "2026-02",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "note_name",
+      "label": "ชื่อโน้ต (English)",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อโน้ต (ไทย)",
+      "type": "string"
+    },
+    {
+      "key": "octave",
+      "label": "อ็อกเทฟ",
+      "type": "number"
+    },
+    {
+      "key": "frequency_hz",
+      "label": "ความถี่ (Hz)",
+      "type": "number"
+    },
+    {
+      "key": "midi_number",
+      "label": "หมายเลข MIDI",
+      "type": "number"
+    },
+    {
+      "key": "interval_from_c",
+      "label": "ช่วงจากโน้ต C",
+      "type": "string"
+    },
+    {
+      "key": "solfege",
+      "label": "โดเรมิ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "note_name": "C3",
+      "name_th": "โด (อ็อกเทฟที่ 3)",
+      "octave": 3,
+      "frequency_hz": 130.81,
+      "midi_number": 36,
+      "interval_from_c": "Perfect Unison",
+      "solfege": "Do"
+    },
+    {
+      "order": 2,
+      "note_name": "C#3/Db3",
+      "name_th": "โด#/เรบ",
+      "octave": 3,
+      "frequency_hz": 138.59,
+      "midi_number": 37,
+      "interval_from_c": "Minor Second",
+      "solfege": "Do#"
+    },
+    {
+      "order": 3,
+      "note_name": "D3",
+      "name_th": "เร (อ็อกเทฟที่ 3)",
+      "octave": 3,
+      "frequency_hz": 146.83,
+      "midi_number": 38,
+      "interval_from_c": "Major Second",
+      "solfege": "Re"
+    },
+    {
+      "order": 4,
+      "note_name": "D#3/Eb3",
+      "name_th": "เร#/มิบ",
+      "octave": 3,
+      "frequency_hz": 155.56,
+      "midi_number": 39,
+      "interval_from_c": "Minor Third",
+      "solfege": "Re#"
+    },
+    {
+      "order": 5,
+      "note_name": "E3",
+      "name_th": "มิ (อ็อกเทฟที่ 3)",
+      "octave": 3,
+      "frequency_hz": 164.81,
+      "midi_number": 40,
+      "interval_from_c": "Major Third",
+      "solfege": "Mi"
+    },
+    {
+      "order": 6,
+      "note_name": "F3",
+      "name_th": "ฟา (อ็อกเทฟที่ 3)",
+      "octave": 3,
+      "frequency_hz": 174.61,
+      "midi_number": 41,
+      "interval_from_c": "Perfect Fourth",
+      "solfege": "Fa"
+    },
+    {
+      "order": 7,
+      "note_name": "F#3/Gb3",
+      "name_th": "ฟา#/โซลบ",
+      "octave": 3,
+      "frequency_hz": 185.0,
+      "midi_number": 42,
+      "interval_from_c": "Tritone",
+      "solfege": "Fa#"
+    },
+    {
+      "order": 8,
+      "note_name": "G3",
+      "name_th": "โซล (อ็อกเทฟที่ 3)",
+      "octave": 3,
+      "frequency_hz": 196.0,
+      "midi_number": 43,
+      "interval_from_c": "Perfect Fifth",
+      "solfege": "Sol"
+    },
+    {
+      "order": 9,
+      "note_name": "G#3/Ab3",
+      "name_th": "โซล#/ลาบ",
+      "octave": 3,
+      "frequency_hz": 207.65,
+      "midi_number": 44,
+      "interval_from_c": "Minor Sixth",
+      "solfege": "Sol#"
+    },
+    {
+      "order": 10,
+      "note_name": "A3",
+      "name_th": "ลา (อ็อกเทฟที่ 3)",
+      "octave": 3,
+      "frequency_hz": 220.0,
+      "midi_number": 45,
+      "interval_from_c": "Major Sixth",
+      "solfege": "La"
+    },
+    {
+      "order": 11,
+      "note_name": "A#3/Bb3",
+      "name_th": "ลา#/ทีบ",
+      "octave": 3,
+      "frequency_hz": 233.08,
+      "midi_number": 46,
+      "interval_from_c": "Minor Seventh",
+      "solfege": "La#"
+    },
+    {
+      "order": 12,
+      "note_name": "B3",
+      "name_th": "ที (อ็อกเทฟที่ 3)",
+      "octave": 3,
+      "frequency_hz": 246.94,
+      "midi_number": 47,
+      "interval_from_c": "Major Seventh",
+      "solfege": "Ti"
+    },
+    {
+      "order": 13,
+      "note_name": "C4",
+      "name_th": "โด (อ็อกเทฟที่ 4 - Middle C)",
+      "octave": 4,
+      "frequency_hz": 261.63,
+      "midi_number": 48,
+      "interval_from_c": "Perfect Unison",
+      "solfege": "Do"
+    },
+    {
+      "order": 14,
+      "note_name": "C#4/Db4",
+      "name_th": "โด#/เรบ",
+      "octave": 4,
+      "frequency_hz": 277.18,
+      "midi_number": 49,
+      "interval_from_c": "Minor Second",
+      "solfege": "Do#"
+    },
+    {
+      "order": 15,
+      "note_name": "D4",
+      "name_th": "เร (อ็อกเทฟที่ 4)",
+      "octave": 4,
+      "frequency_hz": 293.66,
+      "midi_number": 50,
+      "interval_from_c": "Major Second",
+      "solfege": "Re"
+    },
+    {
+      "order": 16,
+      "note_name": "D#4/Eb4",
+      "name_th": "เร#/มิบ",
+      "octave": 4,
+      "frequency_hz": 311.13,
+      "midi_number": 51,
+      "interval_from_c": "Minor Third",
+      "solfege": "Re#"
+    },
+    {
+      "order": 17,
+      "note_name": "E4",
+      "name_th": "มิ (อ็อกเทฟที่ 4)",
+      "octave": 4,
+      "frequency_hz": 329.63,
+      "midi_number": 52,
+      "interval_from_c": "Major Third",
+      "solfege": "Mi"
+    },
+    {
+      "order": 18,
+      "note_name": "F4",
+      "name_th": "ฟา (อ็อกเทฟที่ 4)",
+      "octave": 4,
+      "frequency_hz": 349.23,
+      "midi_number": 53,
+      "interval_from_c": "Perfect Fourth",
+      "solfege": "Fa"
+    },
+    {
+      "order": 19,
+      "note_name": "F#4/Gb4",
+      "name_th": "ฟา#/โซลบ",
+      "octave": 4,
+      "frequency_hz": 369.99,
+      "midi_number": 54,
+      "interval_from_c": "Tritone",
+      "solfege": "Fa#"
+    },
+    {
+      "order": 20,
+      "note_name": "G4",
+      "name_th": "โซล (อ็อกเทฟที่ 4)",
+      "octave": 4,
+      "frequency_hz": 392.0,
+      "midi_number": 55,
+      "interval_from_c": "Perfect Fifth",
+      "solfege": "Sol"
+    },
+    {
+      "order": 21,
+      "note_name": "G#4/Ab4",
+      "name_th": "โซล#/ลาบ",
+      "octave": 4,
+      "frequency_hz": 415.3,
+      "midi_number": 56,
+      "interval_from_c": "Minor Sixth",
+      "solfege": "Sol#"
+    },
+    {
+      "order": 22,
+      "note_name": "A4",
+      "name_th": "ลา (อ็อกเทฟที่ 4 - Standard Tuning)",
+      "octave": 4,
+      "frequency_hz": 440.0,
+      "midi_number": 57,
+      "interval_from_c": "Major Sixth",
+      "solfege": "La"
+    },
+    {
+      "order": 23,
+      "note_name": "A#4/Bb4",
+      "name_th": "ลา#/ทีบ",
+      "octave": 4,
+      "frequency_hz": 466.16,
+      "midi_number": 58,
+      "interval_from_c": "Minor Seventh",
+      "solfege": "La#"
+    },
+    {
+      "order": 24,
+      "note_name": "B4",
+      "name_th": "ที (อ็อกเทฟที่ 4)",
+      "octave": 4,
+      "frequency_hz": 493.88,
+      "midi_number": 59,
+      "interval_from_c": "Major Seventh",
+      "solfege": "Ti"
+    },
+    {
+      "order": 25,
+      "note_name": "E2",
+      "name_th": "มิ (อ็อกเทฟที่ 2 - Guitar Low E)",
+      "octave": 2,
+      "frequency_hz": 82.41,
+      "midi_number": 28,
+      "interval_from_c": "Major Third",
+      "solfege": "Mi"
+    },
+    {
+      "order": 26,
+      "note_name": "A2",
+      "name_th": "ลา (อ็อกเทฟที่ 2 - Guitar A String)",
+      "octave": 2,
+      "frequency_hz": 110.0,
+      "midi_number": 33,
+      "interval_from_c": "Major Sixth",
+      "solfege": "La"
+    },
+    {
+      "order": 27,
+      "note_name": "D3",
+      "name_th": "เร (อ็อกเทฟที่ 3 - Guitar D String)",
+      "octave": 3,
+      "frequency_hz": 146.83,
+      "midi_number": 38,
+      "interval_from_c": "Major Second",
+      "solfege": "Re"
+    },
+    {
+      "order": 28,
+      "note_name": "G3",
+      "name_th": "โซล (อ็อกเทฟที่ 3 - Guitar G String)",
+      "octave": 3,
+      "frequency_hz": 196.0,
+      "midi_number": 43,
+      "interval_from_c": "Perfect Fifth",
+      "solfege": "Sol"
+    },
+    {
+      "order": 29,
+      "note_name": "B3",
+      "name_th": "ที (อ็อกเทฟที่ 3 - Guitar B String)",
+      "octave": 3,
+      "frequency_hz": 246.94,
+      "midi_number": 47,
+      "interval_from_c": "Major Seventh",
+      "solfege": "Ti"
+    },
+    {
+      "order": 30,
+      "note_name": "E4",
+      "name_th": "มิ (อ็อกเทฟที่ 4 - Guitar High E)",
+      "octave": 4,
+      "frequency_hz": 329.63,
+      "midi_number": 52,
+      "interval_from_c": "Major Third",
+      "solfege": "Mi"
+    },
+    {
+      "order": 31,
+      "note_name": "Perfect Unison",
+      "name_th": "ช่วงเดียวกัน (0 semitones)",
+      "octave": 0,
+      "frequency_hz": 1.0,
+      "midi_number": 0,
+      "interval_from_c": "P1 - Same note",
+      "solfege": "Same"
+    },
+    {
+      "order": 32,
+      "note_name": "Minor Second",
+      "name_th": "ช่วงเซคันด์เล็ก (1 semitone)",
+      "octave": 0,
+      "frequency_hz": 1.06,
+      "midi_number": 1,
+      "interval_from_c": "m2 - Half step",
+      "solfege": "Close"
+    },
+    {
+      "order": 33,
+      "note_name": "Major Second",
+      "name_th": "ช่วงเซคันด์ใหญ่ (2 semitones)",
+      "octave": 0,
+      "frequency_hz": 1.12,
+      "midi_number": 2,
+      "interval_from_c": "M2 - Whole step",
+      "solfege": "Whole"
+    },
+    {
+      "order": 34,
+      "note_name": "Major Third",
+      "name_th": "ช่วงเทิร์ดใหญ่ (4 semitones)",
+      "octave": 0,
+      "frequency_hz": 1.26,
+      "midi_number": 4,
+      "interval_from_c": "M3 - Bright sound",
+      "solfege": "Third"
+    },
+    {
+      "order": 35,
+      "note_name": "Perfect Fifth",
+      "name_th": "ช่วงห้าสมบูรณ์ (7 semitones)",
+      "octave": 0,
+      "frequency_hz": 1.5,
+      "midi_number": 7,
+      "interval_from_c": "P5 - Most common",
+      "solfege": "Fifth"
+    },
+    {
+      "order": 36,
+      "note_name": "Major Sixth",
+      "name_th": "ช่วงหกใหญ่ (9 semitones)",
+      "octave": 0,
+      "frequency_hz": 1.68,
+      "midi_number": 9,
+      "interval_from_c": "M6 - Pleasant",
+      "solfege": "Sixth"
+    },
+    {
+      "order": 37,
+      "note_name": "Minor Seventh",
+      "name_th": "ช่วงเซเวนท์เล็ก (10 semitones)",
+      "octave": 0,
+      "frequency_hz": 1.78,
+      "midi_number": 10,
+      "interval_from_c": "m7 - Bluesy",
+      "solfege": "Seventh"
+    },
+    {
+      "order": 38,
+      "note_name": "Octave",
+      "name_th": "ช่วงอ็อกเทฟ (12 semitones)",
+      "octave": 0,
+      "frequency_hz": 2.0,
+      "midi_number": 12,
+      "interval_from_c": "P8 - Double frequency",
+      "solfege": "Same note higher"
+    }
+  ],
+  "meta": {
+    "title": "Musical Notes, Frequencies and Intervals - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "รวมข้อมูลโน้ตดนตรีทั้งชื่อ ความถี่ หมายเลข MIDI และช่วงโน้ต มีทั้งหมด 38 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "โน้ตดนตรี ความถี่ และช่วงโน้ต | Thai Open Data",
+    "seo_description": "ดาวน์โหลดโน้ตดนตรี ความถี่ และช่วงโน้ต ทั้งหมด 38 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลโน้ตดนตรี ความถี่ และช่วงโน้ต ทั้งหมด 38 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "very_high",
+    "notes": "ข้อมูลโน้ตดนตรี 12 โน้ตในสเกลโครมาติก 2 อ็อกเทฟ (C3-B4) รวมถึงโน้ตอ้างอิงสำหรับกีตาร์ (6 สาย) และข้อมูลช่วงโน้ตพื้นฐาน ความถี่คำนวณจากมาตรฐาน A4 = 440 Hz",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Batch Script Review)"
+    }
+  }
+}

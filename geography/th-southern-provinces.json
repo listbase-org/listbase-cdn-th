@@ -1,0 +1,168 @@
+{
+  "id": "th-southern-provinces",
+  "name": "ภาคใต้ — จังหวัดในภาคใต้ (Southern Provinces of Thailand)",
+  "title": "ภาคใต้ — จังหวัดในภาคใต้ (Southern Provinces of Thailand)",
+  "description": "Provinces (จังหวัด) located in Southern Thailand (ภาคใต้). Peninsular region with both Andaman Sea and Gulf of Thailand coasts. Includes Phuket, Krabi, Songkhla.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "province_id",
+      "label": "Province Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_th",
+      "label": "Region Th",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province_id": 63,
+      "name_th": "นครศรีธรรมราช",
+      "name_en": "Nakhon Si Thammarat",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 64,
+      "name_th": "กระบี่",
+      "name_en": "Krabi",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 65,
+      "name_th": "พังงา",
+      "name_en": "Phangnga",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 66,
+      "name_th": "ภูเก็ต",
+      "name_en": "Phuket",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 67,
+      "name_th": "สุราษฎร์ธานี",
+      "name_en": "Surat Thani",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 68,
+      "name_th": "ระนอง",
+      "name_en": "Ranong",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 69,
+      "name_th": "ชุมพร",
+      "name_en": "Chumphon",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 70,
+      "name_th": "สงขลา",
+      "name_en": "Songkhla",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 71,
+      "name_th": "สตูล",
+      "name_en": "Satun",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 72,
+      "name_th": "ตรัง",
+      "name_en": "Trang",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 73,
+      "name_th": "พัทลุง",
+      "name_en": "Phatthalung",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 74,
+      "name_th": "ปัตตานี",
+      "name_en": "Pattani",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 75,
+      "name_th": "ยะลา",
+      "name_en": "Yala",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    },
+    {
+      "province_id": 76,
+      "name_th": "นราธิวาส",
+      "name_en": "Narathiwat",
+      "region_id": 6,
+      "region_th": "ภาคใต้",
+      "region_en": "Southern"
+    }
+  ],
+  "meta": {
+    "title": "ภาคใต้ — จังหวัดในภาคใต้ (Southern Provinces of Thailand) - ดาวน์โหลดฟรี",
+    "description": "Provinces (จังหวัด) located in Southern Thailand (ภาคใต้). Peninsular region with both Andaman Sea and Gulf of Thailand coasts. Includes Phuket, Krabi, Songkhla. มีทั้งหมด 14 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาคใต้ — จังหวัดในภาคใต้ (Southern Provinces of Thailand) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาคใต้ — จังหวัดในภาคใต้ (Southern Provinces of Thailand) — 14 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 14 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

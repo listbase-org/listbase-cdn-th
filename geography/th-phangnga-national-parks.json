@@ -1,0 +1,181 @@
+{
+  "id": "th-phangnga-national-parks",
+  "name": "พังงา — อุทยานแห่งชาติในจังหวัดพังงา (National Parks in Phangnga Province)",
+  "title": "พังงา — อุทยานแห่งชาติในจังหวัดพังงา (National Parks in Phangnga Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดพังงา (Phangnga). 6 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Phangnga appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-phangnga-...' joins to th-phangnga-postal-codes / th-provinces (province_code 82).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 40,
+      "name_th": "อุทยานแห่งชาติอ่าวพังงา",
+      "name_en": "Ao Phang Nga National Park",
+      "name_th_short": "อ่าวพังงา",
+      "name_en_short": "Ao Phang Nga",
+      "lat": 8.35,
+      "lon": 98.48,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Phang Nga: พังงา: Phangnga: phangnga: 82",
+      "province_count": 1
+    },
+    {
+      "park_id": 41,
+      "name_th": "อุทยานแห่งชาติเขาหลัก–ลำรู่",
+      "name_en": "Khao Lak–Lam Ru National Park",
+      "name_th_short": "เขาหลัก–ลำรู่",
+      "name_en_short": "Khao Lak–Lam Ru",
+      "lat": 8.69,
+      "lon": 98.28,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Phang Nga: พังงา: Phangnga: phangnga: 82",
+      "province_count": 1
+    },
+    {
+      "park_id": 42,
+      "name_th": "อุทยานแห่งชาติเขาลำปี–หาดท้ายเหมือง",
+      "name_en": "Khao Lampi–Hat Thai Mueang National Park",
+      "name_th_short": "เขาลำปี–หาดท้ายเหมือง",
+      "name_en_short": "Khao Lampi–Hat Thai Mueang",
+      "lat": 8.42,
+      "lon": 98.24,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Phang Nga: พังงา: Phangnga: phangnga: 82",
+      "province_count": 1
+    },
+    {
+      "park_id": 43,
+      "name_th": "อุทยานแห่งชาติหมู่เกาะสิมิลัน",
+      "name_en": "Mu Ko Similan National Park",
+      "name_th_short": "หมู่เกาะสิมิลัน",
+      "name_en_short": "Mu Ko Similan",
+      "lat": 8.65,
+      "lon": 97.64,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Phang Nga: พังงา: Phangnga: phangnga: 82",
+      "province_count": 1
+    },
+    {
+      "park_id": 44,
+      "name_th": "อุทยานแห่งชาติหมู่เกาะสุรินทร์",
+      "name_en": "Mu Ko Surin National Park",
+      "name_th_short": "หมู่เกาะสุรินทร์",
+      "name_en_short": "Mu Ko Surin",
+      "lat": 9.41,
+      "lon": 97.86,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Phang Nga: พังงา: Phangnga: phangnga: 82",
+      "province_count": 1
+    },
+    {
+      "park_id": 45,
+      "name_th": "อุทยานแห่งชาติศรีพังงา",
+      "name_en": "Si Phang Nga National Park",
+      "name_th_short": "ศรีพังงา",
+      "name_en_short": "Si Phang Nga",
+      "lat": 9.14,
+      "lon": 98.47,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Phang Nga: พังงา: Phangnga: phangnga: 82",
+      "province_count": 1
+    }
+  ],
+  "meta": {
+    "title": "พังงา — อุทยานแห่งชาติในจังหวัดพังงา (National Parks in Phangnga Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดพังงา (Phangnga). 6 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Phangnga appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-phangnga-...' joins to th-phangnga-postal-codes / th-provinces (province_code 82). มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "พังงา — อุทยานแห่งชาติในจังหวัดพังงา (National Parks in Phangnga Province) | ListBase",
+    "seo_description": "ดาวน์โหลด พังงา — อุทยานแห่งชาติในจังหวัดพังงา (National Parks in Phangnga Province) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

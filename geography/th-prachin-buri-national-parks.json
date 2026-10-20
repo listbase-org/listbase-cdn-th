@@ -1,0 +1,106 @@
+{
+  "id": "th-prachin-buri-national-parks",
+  "name": "ปราจีนบุรี — อุทยานแห่งชาติในจังหวัดปราจีนบุรี (National Parks in Prachin Buri Province)",
+  "title": "ปราจีนบุรี — อุทยานแห่งชาติในจังหวัดปราจีนบุรี (National Parks in Prachin Buri Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดปราจีนบุรี (Prachin Buri). 1 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Prachin Buri appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-prachin-buri-...' joins to th-prachin-buri-postal-codes / th-provinces (province_code 25).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 1,
+      "name_th": "อุทยานแห่งชาติเขาใหญ่",
+      "name_en": "Khao Yai National Park",
+      "name_th_short": "เขาใหญ่",
+      "name_en_short": "Khao Yai",
+      "lat": 14.35,
+      "lon": 101.44,
+      "wiki_region": "Central-East",
+      "wiki_region_slug": "central-east",
+      "wiki_region_th": "ภาคกลาง-ตะวันออก",
+      "wiki_region_en": "Central & East",
+      "provinces": "Nakhon Ratchasima: นครราชสีมา: Nakhon Ratchasima: nakhon-ratchasima: 30, Nakhon Nayok: นครนายก: Nakhon Nayok: nakhon-nayok: 26, Prachinburi: ปราจีนบุรี: Prachin Buri: prachin-buri: 25, Saraburi: สระบุรี: Saraburi: saraburi: 19",
+      "province_count": 4
+    }
+  ],
+  "meta": {
+    "title": "ปราจีนบุรี — อุทยานแห่งชาติในจังหวัดปราจีนบุรี (National Parks in Prachin Buri Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดปราจีนบุรี (Prachin Buri). 1 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Prachin Buri appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-prachin-buri-...' joins to th-prachin-buri-postal-codes / th-provinces (province_code 25). มีทั้งหมด 1 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ปราจีนบุรี — อุทยานแห่งชาติในจังหวัดปราจีนบุรี (National Parks in Prachin Buri Province) | ListBase",
+    "seo_description": "ดาวน์โหลด ปราจีนบุรี — อุทยานแห่งชาติในจังหวัดปราจีนบุรี (National Parks in Prachin Buri Province) — 1 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 1 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

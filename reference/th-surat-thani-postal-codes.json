@@ -1,0 +1,256 @@
+{
+  "id": "th-surat-thani-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดสุราษฎร์ธานี (Surat Thani Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดสุราษฎร์ธานี (Surat Thani Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดสุราษฎร์ธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Surat Thani province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 84000,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8401: เมืองสุราษฎร์ธานี: Mueang Surat Thani",
+      "subdistricts": "840101: ตลาด: Talat: 8401, 840102: มะขามเตี้ย: Makham Tia: 8401, 840103: วัดประดู่: Wat Pradu: 8401, 840105: บางใบไม้: Bang Bai Mai: 8401, 840106: บางชนะ: Bang Chana: 8401, 840107: คลองน้อย: Khlong Noi: 8401, 840108: บางไทร: Bang Sai: 8401, 840109: บางโพธิ์: Bang Pho: 8401, 840110: บางกุ้ง: Bang Kung: 8401, 840111: คลองฉนาก: Khlong Chanak: 8401"
+    },
+    {
+      "postal_code": 84100,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8401: เมืองสุราษฎร์ธานี: Mueang Surat Thani",
+      "subdistricts": "840104: ขุนทะเล: Khun Thale: 8401"
+    },
+    {
+      "postal_code": 84110,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8406: ไชยา: Chaiya",
+      "subdistricts": "840601: ตลาดไชยา: Talat Chaiya: 8406, 840602: พุมเรียง: Phum Riang: 8406, 840603: เลม็ด: Samet: 8406, 840604: เวียง: Wiang: 8406, 840605: ทุ่ง: Thung: 8406, 840606: ป่าเว: Pa We: 8406, 840607: ตะกรบ: Takrop: 8406, 840608: โมถ่าย: Mo Thai: 8406, 840609: ปากหมาก: Pak Mak: 8406"
+    },
+    {
+      "postal_code": 84120,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8412: บ้านนาสาร: Ban Na San",
+      "subdistricts": "841201: นาสาร: Na San : 8412, 841203: ทุ่งเตา: Thung Tao: 8412, 841204: ลำพูน: Lamphun: 8412, 841205: ท่าชี: Tha Chi: 8412, 841207: ควนสุบรรณ: Khuan Suban: 8412, 841208: คลองปราบ: Khlong Prap: 8412, 841209: น้ำพุ: Namphu: 8412, 841210: ทุ่งเตาใหม่: Thung Tao Mai: 8412, 841211: เพิ่มพูนทรัพย์: Phoem Phun Sap: 8412"
+    },
+    {
+      "postal_code": 84130,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8417: พุนพิน: Phunphin",
+      "subdistricts": "841701: ท่าข้าม: Tha Kham: 8417, 841702: ท่าสะท้อน: Tha Sathon: 8417, 841703: ลีเล็ด: Li Let: 8417, 841704: บางมะเดื่อ: Bang Maduea: 8417, 841705: บางเดือน: Bang Duean: 8417, 841706: ท่าโรงช้าง: Tha Rong Chang: 8417, 841707: กรูด: Krut: 8417, 841708: พุนพิน: Phunphin: 8417, 841709: บางงอน: Bang Ngon: 8417, 841710: ศรีวิชัย: Si Wichai: 8417, 841711: น้ำรอบ: Nam Rop: 8417, 841712: มะลวน: Maluan: 8417, 841713: หัวเตย: Hua Toei: 8417, 841714: หนองไทร: Nong Sai: 8417, 841715: เขาหัวควาย: Khao Hua Khwai: 8417, 841716: ตะปาน: Tapan: 8417"
+    },
+    {
+      "postal_code": 84140,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8404: เกาะสมุย: Ko Samui",
+      "subdistricts": "840401: อ่างทอง: Ang Thong: 8404, 840402: ลิปะน้อย: Lipa Noi: 8404, 840403: ตลิ่งงาม: Taling Ngam: 8404, 840404: หน้าเมือง: Na Mueang: 8404"
+    },
+    {
+      "postal_code": 84150,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8411: ท่าฉาง: Tha Chang",
+      "subdistricts": "841101: ท่าฉาง: Tha Chang: 8411, 841102: ท่าเคย: Tha Khoei: 8411, 841103: คลองไทร: Khlong Sai: 8411, 841104: เขาถ่าน: Khao Than: 8411, 841105: เสวียด: Sawiat: 8411, 841106: ปากฉลุย: Pak Chalui: 8411"
+    },
+    {
+      "postal_code": 84160,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8402: กาญจนดิษฐ์: Kanchanadit, 8403: ดอนสัก: Don Sak",
+      "subdistricts": "840202: ท่าทอง: Tha Thong: 8402, 840203: กะแดะ: Kadae: 8402, 840205: กรูด: Krut: 8402, 840206: ช้างซ้าย: Chang Sai: 8402, 840207: พลายวาส: Phlai Wat: 8402, 840208: ป่าร่อน: Pa Ron: 8402, 840209: ตะเคียนทอง: Takhian Thong: 8402, 840210: ช้างขวา: Chang Khwa: 8402, 840211: ท่าอุแท: Tha Uthae: 8402, 840213: คลองสระ: Khlong Sa: 8402, 840302: ชลคราม: Chon Khram: 8403"
+    },
+    {
+      "postal_code": 84170,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8407: ท่าชนะ: Tha Chana",
+      "subdistricts": "840701: ท่าชนะ: Tha Chana: 8407, 840702: สมอทอง: Samo Thong: 8407, 840703: ประสงค์: Prasong: 8407, 840704: คันธุลี: Khan Thuli: 8407, 840705: วัง: Wang: 8407, 840706: คลองพา: Khlong Pha: 8407"
+    },
+    {
+      "postal_code": 84180,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8408: คีรีรัฐนิคม: Khiri Rat Nikhom, 8419: วิภาวดี: Chai Buri",
+      "subdistricts": "840801: ท่าขนอน: Tha Khanon: 8408, 840802: บ้านยาง: Ban Yang: 8408, 840803: น้ำหัก: Nam Hak: 8408, 840806: กะเปา: Kapao: 8408, 840807: ท่ากระดาน: Tha Kradan: 8408, 840808: ย่านยาว: Yan Yao: 8408, 840809: ถ้ำสิงขร: Tham Singkhon: 8408, 840810: บ้านทำเนียบ: Ban Thamniap: 8408, 841901: ตะกุกใต้: Takuk Tai: 8419, 841902: ตะกุกเหนือ: Takuk Nuea: 8419"
+    },
+    {
+      "postal_code": 84190,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8415: เวียงสระ: Wiang Sa",
+      "subdistricts": "841501: เวียงสระ: Wiang Sa: 8415, 841502: บ้านส้อง: Ban Song: 8415, 841503: คลองฉนวน: Khlong Chanuan: 8415, 841504: ทุ่งหลวง: Thung Luang: 8415, 841505: เขานิพันธ์: Khao Niphan: 8415"
+    },
+    {
+      "postal_code": 84210,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8414: เคียนซา: Khian Sa, 8416: พระแสง: Phrasaeng",
+      "subdistricts": "841402: พ่วงพรมคร: Phuang Phromkhon: 8414, 841601: อิปัน: I Pan: 8416, 841602: สินปุน: Sin Pun: 8416, 841603: บางสวรรค์: Bang Sawan: 8416, 841604: ไทรขึง: Sai Khueng: 8416, 841605: สินเจริญ: Sin Charoen: 8416, 841606: ไทรโสภา: Sai Sopha: 8416, 841607: สาคู: Sakhu: 8416"
+    },
+    {
+      "postal_code": 84220,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8403: ดอนสัก: Don Sak",
+      "subdistricts": "840301: ดอนสัก: Don Sak: 8403, 840303: ไชยคราม: Chai Khram: 8403"
+    },
+    {
+      "postal_code": 84230,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8409: บ้านตาขุน: Ban Ta Khun",
+      "subdistricts": "840901: เขาวง: Khao Wong: 8409, 840902: พะแสง: Phasaeng: 8409, 840903: พรุไทย: Phru Thai: 8409, 840904: เขาพัง: Khao Phang: 8409"
+    },
+    {
+      "postal_code": 84240,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8413: บ้านนาเดิม: Ban Na Doem",
+      "subdistricts": "841301: บ้านนา: Ban Na: 8413, 841302: ท่าเรือ: Tha Ruea: 8413, 841303: ทรัพย์ทวี: Sap Thawi: 8413, 841304: นาใต้: Na Tai: 8413"
+    },
+    {
+      "postal_code": 84250,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8410: พนม: Phanom",
+      "subdistricts": "841001: พนม: Phanom: 8410, 841002: ต้นยวน: Ton Yuan: 8410, 841003: คลองศก: Khlong Sok: 8410, 841004: พลูเถื่อน: Phlu Thuean: 8410, 841005: พังกาญจน์: Phang Kan: 8410, 841006: คลองชะอุ่น: Khlong Cha-Un: 8410"
+    },
+    {
+      "postal_code": 84260,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8414: เคียนซา: Khian Sa",
+      "subdistricts": "841401: เคียนซา: Khian Sa: 8414, 841403: เขาตอก: Khao Tok: 8414, 841404: อรัญคามวารี: Aran Kham Wari: 8414, 841405: บ้านเสด็จ: Ban Sadet: 8414"
+    },
+    {
+      "postal_code": 84270,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8412: บ้านนาสาร: Ban Na San",
+      "subdistricts": "841202: พรุพี: Phru Phi: 8412, 841206: ควนศรี: Khuan Si: 8412"
+    },
+    {
+      "postal_code": 84280,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8405: เกาะพะงัน: Ko Pha-Ngan",
+      "subdistricts": "840501: เกาะพะงัน: Ko Pha-Ngan: 8405, 840502: บ้านใต้: Ban Tai: 8405, 840503: เกาะเต่า: Ko Tao: 8405"
+    },
+    {
+      "postal_code": 84290,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8402: กาญจนดิษฐ์: Kanchanadit",
+      "subdistricts": "840201: ท่าทองใหม่: Tha Thong Mai: 8402, 840204: ทุ่งกง: Thung Kong: 8402, 840212: ทุ่งรัง: Thung Rang: 8402"
+    },
+    {
+      "postal_code": 84310,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8404: เกาะสมุย: Ko Samui",
+      "subdistricts": "840405: มะเร็ต: Maret: 8404"
+    },
+    {
+      "postal_code": 84320,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8404: เกาะสมุย: Ko Samui",
+      "subdistricts": "840406: บ่อผุด: Bo Phut: 8404"
+    },
+    {
+      "postal_code": 84330,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8404: เกาะสมุย: Ko Samui",
+      "subdistricts": "840407: แม่น้ำ: Maenam: 8404"
+    },
+    {
+      "postal_code": 84340,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8403: ดอนสัก: Don Sak",
+      "subdistricts": "840304: ปากแพรก: Pak Phraek: 8403"
+    },
+    {
+      "postal_code": 84350,
+      "province_code": 84,
+      "province_name_th": "สุราษฎร์ธานี",
+      "province_name_en": "Surat Thani",
+      "districts": "8418: ชัยบุรี: Chai Buri",
+      "subdistricts": "841801: สองแพรก: Song Phraek: 8418, 841802: ชัยบุรี: Chai Buri: 8418, 841803: คลองน้อย: Khlong Noi: 8418, 841804: ไทรทอง: Sai Thong: 8418"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดสุราษฎร์ธานี (Surat Thani Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดสุราษฎร์ธานี แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Surat Thani province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 25 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดสุราษฎร์ธานี (Surat Thani Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดสุราษฎร์ธานี (Surat Thani Postal Codes) — 25 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 25 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

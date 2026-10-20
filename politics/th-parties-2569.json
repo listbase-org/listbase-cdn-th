@@ -1,0 +1,292 @@
+{
+  "id": "th-parties-2569",
+  "name": "พรรคการเมืองไทย เลือกตั้ง 2569 (Thai Political Parties — 2026 Election)",
+  "title": "พรรคการเมืองไทย เลือกตั้ง 2569 (Thai Political Parties — 2026 Election)",
+  "description": "รายชื่อ 18 พรรคการเมืองหลักที่ลงสมัครในการเลือกตั้งทั่วไป 2569 (2026) ของไทย พร้อมรหัสพรรค (party_code), ชื่อภาษาไทย, ชื่อภาษาอังกฤษ, เว็บไซต์ทางการ, นโยบายหาเสียงเด่น (Highlight) และคำอธิบายโดยย่อ (Snapshot of 18 main political parties contesting Thailand's 2569/2026 general election: party code, Thai/English names, official website, campaign policy highlights as compiled from Nation Election Debate 2569 sources, and short descriptions. 16 are in the official campaign coverage list; 2 — โอกาสใหม่ (OKM) and ทางเลือกใหม่ (NAP) — are included in the simulation game with only short descriptions. Pairs with the 2562/2019 baseline th-political-parties (104 parties) to track the political landscape over time.)",
+  "category": "politics",
+  "source": "https://github.com/bejranonda/ThaiSim2026",
+  "source_url": "https://github.com/bejranonda/ThaiSim2026",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "party_code",
+      "label": "Party Code",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_th_full",
+      "label": "Name Th Full",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "game_description_th",
+      "label": "Game Description Th",
+      "type": "string"
+    },
+    {
+      "key": "campaign_policy_md",
+      "label": "Campaign Policy Md",
+      "type": "string"
+    },
+    {
+      "key": "in_official_campaign_list",
+      "label": "In Official Campaign List",
+      "type": "boolean"
+    },
+    {
+      "key": "ui_color_class",
+      "label": "Ui Color Class",
+      "type": "string"
+    },
+    {
+      "key": "ui_icon_class",
+      "label": "Ui Icon Class",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "party_code": "PP",
+      "name_th": "ประชาชน",
+      "name_th_full": "พรรคประชาชน",
+      "name_en": "People's Party",
+      "website": "https://peoplesparty.or.th",
+      "game_description_th": "เน้นสวัสดิการถ้วนหน้า หวยใบเสร็จ ปลดล็อกที่ดิน และไม่ร่วมกับพรรคสืบทอดอำนาจ",
+      "campaign_policy_md": "**\"สวัสดิการถ้วนหน้า-กระจายอำนาจเต็มใบ\"** \\- เปลี่ยนรัฐรวมศูนย์เป็นรัฐก้าวหน้า \\- สวัสดิการครบวงจรตั้งแต่เกิดจนแก่ \\- ปฏิรูประบบราชการด้วยเทคโนโลยี",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-orange-500",
+      "ui_icon_class": "fa-people-group"
+    },
+    {
+      "party_code": "PTP",
+      "name_th": "เพื่อไทย",
+      "name_th_full": "พรรคเพื่อไทย",
+      "name_en": "Pheu Thai Party",
+      "website": "https://ptp.or.th",
+      "game_description_th": "เน้นเศรษฐกิจดิจิทัล รัฐร่วมจ่าย 70% ประกันกำไรเกษตรกร และ Wellness Economy",
+      "campaign_policy_md": "**\"มากกว่าคนละครึ่ง (รัฐจ่าย 70% ปชช. 30%)\"** \\- ยกระดับโครงการดิจิทัลวอลเล็ตสู่ Digital Economy \\- ค่าแรงขั้นต่ำ 600 บาท (เป้าหมายใหม่) \\- รถไฟฟ้า 20 บาทตลอดสายทุกสี",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-red-500",
+      "ui_icon_class": "fa-chart-line"
+    },
+    {
+      "party_code": "BJT",
+      "name_th": "ภูมิใจไทย",
+      "name_th_full": "พรรคภูมิใจไทย",
+      "name_en": "Bhumjaithai Party",
+      "website": "https://bhumjaithai.com",
+      "game_description_th": "เน้นพักหนี้ 3 ปี กู้ฉุกเฉิน 50,000 บาท และฟรีโซล่าเซลล์ลดค่าไฟ",
+      "campaign_policy_md": "**\"พูดแล้วทำ Plus+ : กู้ฉุกเฉิน 50,000 บาท\"** \\- กองทุนกู้ยืมฉุกเฉินประชาชน ไม่ต้องมีคนค้ำ \\- พักหนี้ 3 ปี หยุดต้น ปลอดดอกเบี้ย (วงเงินไม่เกิน 1 ล้านบาท) \\- ฟรีโซล่าเซลล์ลดค่าไฟทุกครัวเรือน",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-blue-500",
+      "ui_icon_class": "fa-hand-holding-heart"
+    },
+    {
+      "party_code": "UTN",
+      "name_th": "รวมไทยสร้างชาติ",
+      "name_th_full": "พรรครวมไทยสร้างชาติ",
+      "name_en": "United Thai Nation Party",
+      "website": "https://www.unitedthaination.or.th",
+      "game_description_th": "เน้นรื้อกฎหมาย กองทุนฉุกเฉิน ประหารคนโกง และยกเลิก MOU44",
+      "campaign_policy_md": "**\"รื้อ ลด ปลด สร้าง : สังคมยั่งยืน\"** \\- กองทุนฉุกเฉินประชาชน \\- แก้ไขกฎหมายที่เป็นอุปสรรคต่อการทำกิน (Rethink) \\- สวัสดิการถ้วนหน้ากลุ่มเปราะบางและผู้สูงอายุ",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-blue-700",
+      "ui_icon_class": "fa-flag"
+    },
+    {
+      "party_code": "DEM",
+      "name_th": "ประชาธิปัตย์",
+      "name_th_full": "พรรคประชาธิปัตย์",
+      "name_en": "Democrat Party",
+      "website": "https://www.democrat.or.th",
+      "game_description_th": "เน้นประกันรายได้เกษตรกร แพลตฟอร์มส่องรัฐปราบโกง และทหารอาสา",
+      "campaign_policy_md": "**\"ประกันรายได้เกษตรกร ยุคดิจิทัล\"** \\- ประกันรายได้พืชผลเกษตร 5 ชนิด จ่ายส่วนต่างทันที \\- ธนาคารหมู่บ้าน/ชุมชน แห่งละ 2 ล้านบาท \\- นมโรงเรียนฟรี 365 วัน",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-cyan-500",
+      "ui_icon_class": "fa-seedling"
+    },
+    {
+      "party_code": "PPRP",
+      "name_th": "พลังประชารัฐ",
+      "name_th_full": "พรรคพลังประชารัฐ",
+      "name_en": "Palang Pracharath Party",
+      "website": "https://pprp.or.th",
+      "game_description_th": "เน้นบัตรประชารัฐ 700+ เบี้ยผู้สูงอายุขั้นบันได และน้ำมันประชาชน",
+      "campaign_policy_md": "**\"บัตรประชารัฐ 700 บาท Plus\"** \\- เพิ่มวงเงินในบัตรสวัสดิการแห่งรัฐ \\- เบี้ยยังชีพผู้สูงอายุแบบขั้นบันได (600-800-1,000 บาท) \\- น้ำมันประชาชน ลดราคาน้ำมัน เบนซิน/ดีเซล",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-blue-600",
+      "ui_icon_class": "fa-id-card"
+    },
+    {
+      "party_code": "KLA",
+      "name_th": "กล้าธรรม",
+      "name_th_full": "พรรคกล้าธรรม",
+      "name_en": "Kla Tham Party",
+      "website": "https://klathamparty.com",
+      "game_description_th": "เน้นเปลี่ยน ส.ป.ก. เป็นโฉนดทองคำ แก้หนี้เบ็ดเสร็จ และน้ำชุมชน",
+      "campaign_policy_md": "**\"ทำได้จริง ไม่ขายฝัน : เศรษฐกิจฐานราก\"** \\- แก้ปัญหาที่ดินทำกิน (สปก. เป็นโฉนด) \\- ปราบปรามทุจริตคอร์รัปชันอย่างจริงจัง \\- กองทุนฟื้นฟูอาชีพเกษตรกร",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-purple-600",
+      "ui_icon_class": "fa-file-signature"
+    },
+    {
+      "party_code": "PCC",
+      "name_th": "ประชาชาติ",
+      "name_th_full": "พรรคประชาชาติ",
+      "name_en": "Prachachart Party",
+      "website": "https://prachachat.org",
+      "game_description_th": "เน้นล้างหนี้ กยศ. ลดราคาน้ำมันลิตรละ 20 บาท และสันติภาพชายแดนใต้",
+      "campaign_policy_md": "**\"สังคมพหุวัฒนธรรม : ที่ดินและสิทธิ\"** \\- เรียนฟรีถึงปริญญาตรี (เน้นภาษาและวัฒนธรรม) \\- แก้ปัญหาเอกสารสิทธิ์ที่ดินทับซ้อน \\- สวัสดิการผู้สูงอายุ 3,000 บาท/เดือน",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-orange-600",
+      "ui_icon_class": "fa-hands-praying"
+    },
+    {
+      "party_code": "CTP",
+      "name_th": "ชาติไทยพัฒนา(ไม่ส่งผู้สมัคร)",
+      "name_th_full": "พรรคชาติไทยพัฒนา(ไม่ส่งผู้สมัคร)",
+      "name_en": "Chartthaipattana Party",
+      "website": "https://www.chartthaipattana.or.th",
+      "game_description_th": "เน้น Green Economy ขายคาร์บอนเครดิต และน้ำบาดาลขนาดใหญ่ทุกตำบล",
+      "campaign_policy_md": "**\"WoW Thailand : สิ่งแวดล้อมยั่งยืน\"** \\- ขายคาร์บอนเครดิต นำรายได้เข้าชุมชน \\- น้ำบาดาลขนาดใหญ่ทุกตำบล \\- เกษตรกรรุ่นใหม่ Smart Farmer",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-pink-500",
+      "ui_icon_class": "fa-leaf"
+    },
+    {
+      "party_code": "TST",
+      "name_th": "ไทยสร้างไทย",
+      "name_th_full": "พรรคไทยสร้างไทย",
+      "name_en": "Thai Sang Thai Party",
+      "website": "https://thaisangthai.org",
+      "game_description_th": "เน้นบำนาญ 3,000 บาท แขวนกฎหมายที่เป็นอุปสรรค และกองทุนคนตัวเล็ก",
+      "campaign_policy_md": "**\"บำนาญประชาชน 3,000 บาท\"** \\- ดูแลผู้สูงอายุเดือนละ 3,000 บาท เพื่อสร้างเศรษฐกิจชุมชน \\- กองทุนคนตัวเล็ก (กู้ได้ดอกเบี้ยต่ำ) \\- แขวนกฎหมายที่เป็นอุปสรรคการทำมาหากิน",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-purple-400",
+      "ui_icon_class": "fa-person-cane"
+    },
+    {
+      "party_code": "CP",
+      "name_th": "ชาติพัฒนา",
+      "name_th_full": "พรรคชาติพัฒนา",
+      "name_en": "Chart Pattana Party",
+      "website": "",
+      "game_description_th": "เน้นโคราชโนมิกส์ มอเตอร์เวย์ทั่วไทย และอุตสาหกรรมกีฬา",
+      "campaign_policy_md": "**\"โคราชโนมิกส์ : มอเตอร์เวย์ทั่วไทย\"** \\- สร้างเศรษฐกิจใหม่ด้วยอุตสาหกรรมท่องเที่ยวและกีฬา \\- โครงสร้างพื้นฐานเชื่อมต่อภูมิภาค",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-orange-400",
+      "ui_icon_class": "fa-road"
+    },
+    {
+      "party_code": "SRT",
+      "name_th": "เสรีรวมไทย",
+      "name_th_full": "พรรคเสรีรวมไทย",
+      "name_en": "Thai Liberal Party",
+      "website": "",
+      "game_description_th": "เน้นปราบโกงทั้งแผ่นดิน ยึดทรัพย์คนโกง และปฏิรูปตำรวจ",
+      "campaign_policy_md": "**\"ปราบโกงทั้งแผ่นดิน\"** \\- ปฏิรูปตำรวจและกองทัพ \\- ยึดทรัพย์คนโกงชาติมาเป็นสวัสดิการประชาชน",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-yellow-500",
+      "ui_icon_class": "fa-handcuffs"
+    },
+    {
+      "party_code": "FAIR",
+      "name_th": "เป็นธรรม",
+      "name_th_full": "พรรคเป็นธรรม",
+      "name_en": "Fair Party",
+      "website": "https://fair-party.com",
+      "game_description_th": "เน้นสันติภาพปาตานี จังหวัดจัดการตนเอง และสิทธิมนุษยชน",
+      "campaign_policy_md": "**\"มนุษยธรรมนำการเมือง\"** \\- สันติภาพปาตานีแบบยั่งยืน \\- กระจายอำนาจสู่จังหวัดจัดการตนเอง",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-purple-300",
+      "ui_icon_class": "fa-dove"
+    },
+    {
+      "party_code": "RAK",
+      "name_th": "รักชาติ",
+      "name_th_full": "พรรครักชาติ",
+      "name_en": "Rak Chart Party",
+      "website": "",
+      "game_description_th": "เน้น Smart Card Max ใบเดียวจบ และรัฐรวมซื้อ (Collective Buying)",
+      "campaign_policy_md": "**\"Smart Card Max : บัตรเดียวจบ\"** \\- บัตรประชาชนใบเดียวรักษาฟรี/เรียนฟรี/รับสวัสดิการ \\- **Collective Buying:** รัฐรวมซื้อวัตถุดิบให้ร้านค้าเล็ก \\- Upskill ผู้สูงอายุสู่ตลาดแรงงาน",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-indigo-500",
+      "ui_icon_class": "fa-sim-card"
+    },
+    {
+      "party_code": "TKM",
+      "name_th": "ไทยก้าวใหม่",
+      "name_th_full": "พรรคไทยก้าวใหม่",
+      "name_en": "Thai Kao Mai Party",
+      "website": "",
+      "game_description_th": "เน้นธนู 4 ดอก การศึกษาจบไว และปราบสแกมเมอร์ใน 60 วัน",
+      "campaign_policy_md": "**\"ธนู 4 ดอก : มารดาประชารัฐ\"** \\- เงินอุดหนุนคนท้อง 15,000 บ./เดือน (4 เดือน) \\- เงินเลี้ยงดูเด็กแรกเกิด 1,000 บ./เดือน ถึง 6 ขวบ \\- การศึกษา \"เรียนสั้น ทันยุค มีงานรอ\"",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-cyan-400",
+      "ui_icon_class": "fa-graduation-cap"
+    },
+    {
+      "party_code": "OKM",
+      "name_th": "โอกาสใหม่",
+      "name_th_full": "พรรคโอกาสใหม่",
+      "name_en": "",
+      "website": "",
+      "game_description_th": "เน้นอัดฉีดงบลงทุนเข้าระบบทันที จ้างงานท้องถิ่น และปกป้องสถาบันฯ",
+      "campaign_policy_md": "",
+      "in_official_campaign_list": false,
+      "ui_color_class": "text-emerald-400",
+      "ui_icon_class": "fa-door-open"
+    },
+    {
+      "party_code": "ECO",
+      "name_th": "เศรษฐกิจ",
+      "name_th_full": "พรรคเศรษฐกิจ",
+      "name_en": "Economic Party",
+      "website": "",
+      "game_description_th": "เน้น Zero Corruption ทลายทุนผูกขาด และ Mega Projects",
+      "campaign_policy_md": "**\"ถอนรากทุจริต ปลดล็อกเศรษฐกิจ\"** \\- ตรวจสอบโครงสร้างราคาสาธารณูปโภค (ไฟฟ้า/ประปา) \\- แก้กฎหมายผูกขาดทางเศรษฐกิจ \\- ล้างบางระบบส่วย",
+      "in_official_campaign_list": true,
+      "ui_color_class": "text-green-500",
+      "ui_icon_class": "fa-train-subway"
+    },
+    {
+      "party_code": "NAP",
+      "name_th": "ทางเลือกใหม่",
+      "name_th_full": "พรรคทางเลือกใหม่",
+      "name_en": "",
+      "website": "",
+      "game_description_th": "เน้นนโยบายล้ำหน้า อวกาศไทย นิวเคลียร์ และสิทธิประโยชน์ครอบครัว",
+      "campaign_policy_md": "",
+      "in_official_campaign_list": false,
+      "ui_color_class": "text-orange-600",
+      "ui_icon_class": "fa-rocket"
+    }
+  ],
+  "meta": {
+    "title": "พรรคการเมืองไทย เลือกตั้ง 2569 (Thai Political Parties — 2026 Election) - ดาวน์โหลดฟรี",
+    "description": "รายชื่อ 18 พรรคการเมืองหลักที่ลงสมัครในการเลือกตั้งทั่วไป 2569 (2026) ของไทย พร้อมรหัสพรรค (party_code), ชื่อภาษาไทย, ชื่อภาษาอังกฤษ, เว็บไซต์ทางการ, นโยบายหาเสียงเด่น (Highlight) และคำอธิบายโดยย่อ (Snapshot of 18 main political parties contesting Thailand's 2569/2026 general election: party code, Thai/English names, official website, campaign policy highlights as compiled from Nation Election Debate 2569 sources, and short descriptions. 16 are in the official campaign coverage list; 2 — โอกาสใหม่ (OKM) and ทางเลือกใหม่ (NAP) — are included in the simulation game with only short descriptions. Pairs with the 2562/2019 baseline th-political-parties (104 parties) to track the political landscape over time.) มีทั้งหมด 18 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "พรรคการเมืองไทย เลือกตั้ง 2569 (Thai Political Parties — 2026 Election) | ListBase",
+    "seo_description": "ดาวน์โหลด พรรคการเมืองไทย เลือกตั้ง 2569 (Thai Political Parties — 2026 Election) — 18 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 18 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/bejranonda/ThaiSim2026"
+    ]
+  }
+}

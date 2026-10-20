@@ -1,0 +1,334 @@
+{
+  "id": "th-policy-poll-2569",
+  "name": "นโยบายยอดนิยม การเลือกตั้ง 2569 (Top Policies — Thailand 2026 Election Sim Poll, Jan 22 2026)",
+  "title": "นโยบายยอดนิยม การเลือกตั้ง 2569 (Top Policies — Thailand 2026 Election Sim Poll, Jan 22 2026)",
+  "description": "ลำดับความนิยมของนโยบายหาเสียง 48 ข้อ ใน Sim-Thailand 2569 (โพลล์จำลอง) ณ 22 มกราคม 2569 (2026) — แต่ละบันทึก: rank (อันดับ), policy_name_th (ชื่อนโยบายภาษาไทย), vote_count (จำนวนผู้เลือก จาก ผู้ตอบทั้งหมด 151 ราย), vote_percentage (ร้อยละ). อันดับ 1: คืนครูให้นักเรียน 73.5% / อันดับท้าย: อัดฉีดงบ 5 แสนล้าน 7.9%. (Snapshot of 48 ranked campaign-policy preferences from the Sim-Thailand 2569 simulation game policy-stats export dated 2026-01-22 13:05:29. Each record carries rank, Thai policy name, raw vote_count (total respondents at snapshot: 151), and vote_percentage. Useful as a civic-tech baseline for tracking which 2569-cycle policies resonated with simulation participants, paired with th-parties-2569 for the political map.)",
+  "category": "reference",
+  "source": "https://github.com/bejranonda/ThaiSim2026",
+  "source_url": "https://github.com/bejranonda/ThaiSim2026",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "policy_name_th",
+      "label": "Policy Name Th",
+      "type": "string"
+    },
+    {
+      "key": "vote_count",
+      "label": "Vote Count",
+      "type": "number"
+    },
+    {
+      "key": "vote_percentage",
+      "label": "Vote Percentage",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "policy_name_th": "คืนครูให้นักเรียน",
+      "vote_count": 111,
+      "vote_percentage": 73.5
+    },
+    {
+      "rank": 2,
+      "policy_name_th": "ยกเลิกเกณฑ์ทหาร",
+      "vote_count": 97,
+      "vote_percentage": 64.2
+    },
+    {
+      "rank": 3,
+      "policy_name_th": "ทักษะอนาคต (Wellness/Tech)",
+      "vote_count": 94,
+      "vote_percentage": 62.3
+    },
+    {
+      "rank": 4,
+      "policy_name_th": "ปฏิรูปองค์กรอิสระ",
+      "vote_count": 92,
+      "vote_percentage": 60.9
+    },
+    {
+      "rank": 5,
+      "policy_name_th": "บัตรใบเดียวจบ (Smart Card)",
+      "vote_count": 84,
+      "vote_percentage": 55.6
+    },
+    {
+      "rank": 6,
+      "policy_name_th": "รัฐบาลดิจิทัล (ลดดุลพินิจ)",
+      "vote_count": 83,
+      "vote_percentage": 55
+    },
+    {
+      "rank": 7,
+      "policy_name_th": "ทักษะการเงิน (Financial Lit)",
+      "vote_count": 83,
+      "vote_percentage": 55
+    },
+    {
+      "rank": 8,
+      "policy_name_th": "แพลตฟอร์มส่องรัฐ",
+      "vote_count": 77,
+      "vote_percentage": 51
+    },
+    {
+      "rank": 9,
+      "policy_name_th": "คืนที่ทำกิน / ปลดล็อกที่ดินทับซ้อน",
+      "vote_count": 75,
+      "vote_percentage": 49.7
+    },
+    {
+      "rank": 10,
+      "policy_name_th": "สวัสดิการถ้วนหน้า",
+      "vote_count": 75,
+      "vote_percentage": 49.7
+    },
+    {
+      "rank": 11,
+      "policy_name_th": "ลดค่าไฟ / รื้อโครงสร้างพลังงาน",
+      "vote_count": 74,
+      "vote_percentage": 49
+    },
+    {
+      "rank": 12,
+      "policy_name_th": "กระจายอำนาจ / เลือกตั้งผู้ว่าฯ",
+      "vote_count": 73,
+      "vote_percentage": 48.3
+    },
+    {
+      "rank": 13,
+      "policy_name_th": "ปราบยาเสพติดเด็ดขาด",
+      "vote_count": 72,
+      "vote_percentage": 47.7
+    },
+    {
+      "rank": 14,
+      "policy_name_th": "แปรรูปสินค้าเกษตร",
+      "vote_count": 71,
+      "vote_percentage": 47
+    },
+    {
+      "rank": 15,
+      "policy_name_th": "ประชาชนเข้าชื่อถอดถอน",
+      "vote_count": 70,
+      "vote_percentage": 46.4
+    },
+    {
+      "rank": 16,
+      "policy_name_th": "รักษาฟรีทั่วไทย (30 บาทพลัส)",
+      "vote_count": 67,
+      "vote_percentage": 44.4
+    },
+    {
+      "rank": 17,
+      "policy_name_th": "กองทุนคนตัวเล็ก / พักหนี้",
+      "vote_count": 65,
+      "vote_percentage": 43
+    },
+    {
+      "rank": 18,
+      "policy_name_th": "หวยใบเสร็จ",
+      "vote_count": 64,
+      "vote_percentage": 42.4
+    },
+    {
+      "rank": 19,
+      "policy_name_th": "อินเทอร์เน็ตฟรี/ดาวเทียม",
+      "vote_count": 63,
+      "vote_percentage": 41.7
+    },
+    {
+      "rank": 20,
+      "policy_name_th": "ค่าแรง 450-600 บาท",
+      "vote_count": 60,
+      "vote_percentage": 39.7
+    },
+    {
+      "rank": 21,
+      "policy_name_th": "ศูนย์ดูแลผู้สูงอายุ",
+      "vote_count": 59,
+      "vote_percentage": 39.1
+    },
+    {
+      "rank": 22,
+      "policy_name_th": "ประกันรายได้ / ประกันกำไร",
+      "vote_count": 50,
+      "vote_percentage": 33.1
+    },
+    {
+      "rank": 23,
+      "policy_name_th": "เกษตรสีเขียว / น้ำบาดาล",
+      "vote_count": 49,
+      "vote_percentage": 32.5
+    },
+    {
+      "rank": 24,
+      "policy_name_th": "AI จับโกง",
+      "vote_count": 47,
+      "vote_percentage": 31.1
+    },
+    {
+      "rank": 25,
+      "policy_name_th": "เปลี่ยน ส.ป.ก. เป็นโฉนด",
+      "vote_count": 44,
+      "vote_percentage": 29.1
+    },
+    {
+      "rank": 26,
+      "policy_name_th": "เงินอุดหนุนเด็ก/คนท้อง",
+      "vote_count": 44,
+      "vote_percentage": 29.1
+    },
+    {
+      "rank": 27,
+      "policy_name_th": "สันติภาพปาตานี",
+      "vote_count": 42,
+      "vote_percentage": 27.8
+    },
+    {
+      "rank": 28,
+      "policy_name_th": "ยึดทรัพย์คนโกง",
+      "vote_count": 39,
+      "vote_percentage": 25.8
+    },
+    {
+      "rank": 29,
+      "policy_name_th": "Offset อาวุธ",
+      "vote_count": 38,
+      "vote_percentage": 25.2
+    },
+    {
+      "rank": 30,
+      "policy_name_th": "เรียนฟรี ป.ตรี / จบไว",
+      "vote_count": 38,
+      "vote_percentage": 25.2
+    },
+    {
+      "rank": 31,
+      "policy_name_th": "ดิจิทัลวอลเล็ต / รัฐร่วมจ่าย",
+      "vote_count": 37,
+      "vote_percentage": 24.5
+    },
+    {
+      "rank": 32,
+      "policy_name_th": "ติดโซล่าเซลล์ฟรี",
+      "vote_count": 33,
+      "vote_percentage": 21.9
+    },
+    {
+      "rank": 33,
+      "policy_name_th": "บำนาญ 3,000 บาท",
+      "vote_count": 33,
+      "vote_percentage": 21.9
+    },
+    {
+      "rank": 34,
+      "policy_name_th": "ลดภาษีสินค้าในประเทศ",
+      "vote_count": 33,
+      "vote_percentage": 21.9
+    },
+    {
+      "rank": 35,
+      "policy_name_th": "ธนู 4 ดอก",
+      "vote_count": 32,
+      "vote_percentage": 21.2
+    },
+    {
+      "rank": 36,
+      "policy_name_th": "รัฐรวมซื้อ (Collective Buying)",
+      "vote_count": 31,
+      "vote_percentage": 20.5
+    },
+    {
+      "rank": 37,
+      "policy_name_th": "แก้หนี้คนรุ่นใหม่ (กยศ.)",
+      "vote_count": 27,
+      "vote_percentage": 17.9
+    },
+    {
+      "rank": 38,
+      "policy_name_th": "พักหนี้เกษตรกร",
+      "vote_count": 24,
+      "vote_percentage": 15.9
+    },
+    {
+      "rank": 39,
+      "policy_name_th": "ยกเลิก MOU44 / สร้างรั้ว",
+      "vote_count": 19,
+      "vote_percentage": 12.6
+    },
+    {
+      "rank": 40,
+      "policy_name_th": "Single Command",
+      "vote_count": 18,
+      "vote_percentage": 11.9
+    },
+    {
+      "rank": 41,
+      "policy_name_th": "บัตรประชารัฐ Plus",
+      "vote_count": 17,
+      "vote_percentage": 11.3
+    },
+    {
+      "rank": 42,
+      "policy_name_th": "สร้างคนดีมีวินัย",
+      "vote_count": 17,
+      "vote_percentage": 11.3
+    },
+    {
+      "rank": 43,
+      "policy_name_th": "โฉนดต้นไม้",
+      "vote_count": 16,
+      "vote_percentage": 10.6
+    },
+    {
+      "rank": 44,
+      "policy_name_th": "ล้างหนี้ กยศ. / น้ำมัน 20 บาท",
+      "vote_count": 15,
+      "vote_percentage": 9.9
+    },
+    {
+      "rank": 45,
+      "policy_name_th": "ปิดประเทศเมื่อมีโรคระบาด",
+      "vote_count": 15,
+      "vote_percentage": 9.9
+    },
+    {
+      "rank": 46,
+      "policy_name_th": "ประหารชีวิตคนโกง",
+      "vote_count": 14,
+      "vote_percentage": 9.3
+    },
+    {
+      "rank": 47,
+      "policy_name_th": "ปกป้องสถาบันฯ",
+      "vote_count": 12,
+      "vote_percentage": 7.9
+    },
+    {
+      "rank": 48,
+      "policy_name_th": "อัดฉีดงบ 5 แสนล้าน",
+      "vote_count": 12,
+      "vote_percentage": 7.9
+    }
+  ],
+  "meta": {
+    "title": "นโยบายยอดนิยม การเลือกตั้ง 2569 (Top Policies — Thailand 2026 Election Sim Poll, Jan 22 2026) - ดาวน์โหลดฟรี",
+    "description": "ลำดับความนิยมของนโยบายหาเสียง 48 ข้อ ใน Sim-Thailand 2569 (โพลล์จำลอง) ณ 22 มกราคม 2569 (2026) — แต่ละบันทึก: rank (อันดับ), policy_name_th (ชื่อนโยบายภาษาไทย), vote_count (จำนวนผู้เลือก จาก ผู้ตอบทั้งหมด 151 ราย), vote_percentage (ร้อยละ). อันดับ 1: คืนครูให้นักเรียน 73.5% / อันดับท้าย: อัดฉีดงบ 5 แสนล้าน 7.9%. (Snapshot of 48 ranked campaign-policy preferences from the Sim-Thailand 2569 simulation game policy-stats export dated 2026-01-22 13:05:29. Each record carries rank, Thai policy name, raw vote_count (total respondents at snapshot: 151), and vote_percentage. Useful as a civic-tech baseline for tracking which 2569-cycle policies resonated with simulation participants, paired with th-parties-2569 for the political map.) มีทั้งหมด 48 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "นโยบายยอดนิยม การเลือกตั้ง 2569 (Top Policies — Thailand 2026 Election Sim Poll, Jan 22 2026) | ListBase",
+    "seo_description": "ดาวน์โหลด นโยบายยอดนิยม การเลือกตั้ง 2569 (Top Policies — Thailand 2026 Election Sim Poll, Jan 22 2026) — 48 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 48 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/bejranonda/ThaiSim2026"
+    ]
+  }
+}

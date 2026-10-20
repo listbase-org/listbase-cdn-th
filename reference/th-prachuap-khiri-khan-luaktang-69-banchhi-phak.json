@@ -1,0 +1,1424 @@
+{
+  "id": "th-prachuap-khiri-khan-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ประจวบคีรีขันธ์ (Prachuap Khiri Khan party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ประจวบคีรีขันธ์ (Prachuap Khiri Khan party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดประจวบคีรีขันธ์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 360
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1313
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2398
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2602
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1165
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2832
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 164
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1071
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6040
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 593
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3498
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 357
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 628
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 171
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 65
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 67
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 233
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 17360
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 188
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 864
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 218
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 328
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 164
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 198
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 175
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 25022
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 137
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 71
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 8251
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 300
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 92
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 119
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 28458
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 229
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 385
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 281
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 126
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 109
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 82
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2860
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1310
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 933
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 573
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 565
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2404
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 286
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 726
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6477
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 541
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2917
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 378
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 523
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 130
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 111
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 48
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 48
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 247
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 105
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 12372
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 136
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 947
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 225
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 102
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 108
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 109
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15685
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 129
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 57
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 90
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 9560
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 251
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 615
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 116
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 31660
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 341
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 536
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 362
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 65
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 495
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2608
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 311
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 186
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 926
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2350
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 1378
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1412
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 3402
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 473
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2545
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 272
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 342
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 223
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 132
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 100
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 55
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 70
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 64
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 138
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 30621
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 177
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 604
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 155
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 106
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 147
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 128
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 186
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 19733
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 107
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 29
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1057
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 189
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 50
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21015
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 222
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 2992
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 314
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 47
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 148
+    },
+    {
+      "changwat_code": "77",
+      "changwat": "ประจวบคีรีขันธ์",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 60
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ประจวบคีรีขันธ์ (Prachuap Khiri Khan party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดประจวบคีรีขันธ์. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 171 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ประจวบคีรีขันธ์ (Prachuap Khiri Khan party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ประจวบคีรีขันธ์ (Prachuap Khiri Khan party-list ballots) — 171 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 171 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

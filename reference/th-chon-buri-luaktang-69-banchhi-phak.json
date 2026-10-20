@@ -1,0 +1,4616 @@
+{
+  "id": "th-chon-buri-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชลบุรี (Chon Buri party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชลบุรี (Chon Buri party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดชลบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 570,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1413
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 745
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 173
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 95
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 525
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2683
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 244
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 340
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 5288
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 469
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2577
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 534
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 336
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 70
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 33
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5570
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 79
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1515
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 64
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 110
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 28747
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 53
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 47
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 103
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 277
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 44014
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 258
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 402
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 381
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 36
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 5
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 3
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 6
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 16
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 188
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "4",
+      "party": "เพื่อชาติไทย",
+      "votes": 430
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "5",
+      "party": "ใหม่",
+      "votes": 1002
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "6",
+      "party": "มิติใหม่",
+      "votes": 62
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "7",
+      "party": "รวมใจไทย",
+      "votes": 722
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 90
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "8",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2049
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 458
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 4591
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 402
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 2204
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 470
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 289
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 20
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 11
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 32
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 14
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 35
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 32
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 7294
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 69
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 1196
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 47
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 83
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 21207
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 49
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 67
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 451
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 34047
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 96
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 330
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 255
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 1
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 12
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 301
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 377
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 3637
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 156
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 679
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2222
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 105
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 470
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 5574
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 481
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3702
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 593
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 506
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 192
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 56
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 40
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 42
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 6541
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 121
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 718
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 79
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 188
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 107
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 97
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 95
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 111
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 21635
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 62
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 317
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 209
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 40642
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 166
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 441
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 267
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 3
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 6
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 245
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1341
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 385
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 157
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4257
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2286
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 108
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 709
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 4918
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 432
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3589
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 472
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 548
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 146
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 64
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 29
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 59
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 48
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 59
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 116
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 9686
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 109
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 748
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 110
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 165
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 81
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 234
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 217
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 110
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20031
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 88
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 42
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 66
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 18
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 148
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 435
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 71
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 27214
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 117
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 205
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 201
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 60
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 55
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 61
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 261
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1334
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 3228
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 218
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 980
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2926
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 501
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 731
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 8312
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 686
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 5519
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 597
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 568
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 82
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 172
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 117
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 67
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 54
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 87
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 40
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 7356
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 142
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 881
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 161
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 136
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 234
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 179
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 213
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 24984
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 157
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 58
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 86
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 144
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 317
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 31880
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 150
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 286
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 234
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 72
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 56
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 78
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 162
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 457
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 140
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 104
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 428
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2468
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 298
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1814
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 5757
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 435
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3001
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 564
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 508
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 121
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 76
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 52
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 5092
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 100
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1306
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 67
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 192
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 252
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 114
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 22453
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 119
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 175
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 262
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 42133
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 267
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 425
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 325
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 3
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 43
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 275
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 507
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 152
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 103
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 454
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3731
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 120
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 349
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 5514
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 410
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3106
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 659
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 506
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 50
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 191
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 8
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 53
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 143
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3589
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 107
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 523
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 69
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 66
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 49
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 69
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 166
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 17853
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 54
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 35
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 89
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 225
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 41
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 43372
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 129
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 292
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 210
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 61
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 4
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 9
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 13
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 178
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 704
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 273
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 115
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 3357
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1870
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 305
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 442
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6945
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 418
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3317
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 914
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 538
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 131
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 97
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 20
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 43
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4521
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 135
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 835
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 83
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 77
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 69
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 144
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 167
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 208
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 21336
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 88
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 189
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 38807
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 260
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 407
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 266
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 24
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 46
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 65
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 373
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 139
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 516
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1764
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 62
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1164
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 6067
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 310
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2314
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 442
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 407
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 111
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 39
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 14
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 24
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 19
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 3508
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 112
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 741
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 23
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 33
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 75
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 58
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 14834
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 97
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 32
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 45
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 126
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 55
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 30288
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 90
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 275
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 231
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 3
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 9
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "9",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 21
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 93
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1670
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 232
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 91
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 675
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2517
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 812
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 329
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 7353
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 592
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 4210
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 682
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 489
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 72
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 124
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 76
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 45
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 58
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 26
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 52
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 10
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 4540
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 127
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 980
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 108
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 82
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 106
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 105
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 19065
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 63
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 33
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 1508
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 244
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 33067
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 133
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 544
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 309
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 18
+    },
+    {
+      "changwat_code": "20",
+      "changwat": "ชลบุรี",
+      "khet": "10",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 30
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชลบุรี (Chon Buri party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดชลบุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 570 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชลบุรี (Chon Buri party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — ชลบุรี (Chon Buri party-list ballots) — 570 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 570 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

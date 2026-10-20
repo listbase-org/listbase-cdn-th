@@ -1,0 +1,112 @@
+{
+  "id": "th-mukdahan-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดมุกดาหาร (Mukdahan Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดมุกดาหาร (Mukdahan Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดมุกดาหาร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Mukdahan province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 49000,
+      "province_code": 49,
+      "province_name_th": "มุกดาหาร",
+      "province_name_en": "Mukdahan",
+      "districts": "4901: เมืองมุกดาหาร: Mueang Mukdahan",
+      "subdistricts": "490101: มุกดาหาร: Mukdahan: 4901, 490102: ศรีบุญเรือง: Si Bunrueang: 4901, 490103: บ้านโคก: Ban Khok: 4901, 490104: บางทรายใหญ่: Bang Sai Yai: 4901, 490105: โพนทราย: Phon Sai: 4901, 490106: ผึ่งแดด: Phueng Daet: 4901, 490107: นาโสก: Na Sok: 4901, 490108: นาสีนวน: Na Si Nuan: 4901, 490109: คำป่าหลาย: Kham Pa Lai: 4901, 490110: คำอาฮวน: Kham A Huan: 4901, 490111: ดงเย็น: Dong Yen: 4901, 490112: ดงมอน: Dong Mon: 4901, 490113: กุดแข้: Kut Khae: 4901"
+    },
+    {
+      "postal_code": 49110,
+      "province_code": 49,
+      "province_name_th": "มุกดาหาร",
+      "province_name_en": "Mukdahan",
+      "districts": "4905: คำชะอี: Khamcha-I",
+      "subdistricts": "490503: บ้านซ่ง: Ban Shong: 4905, 490504: คำชะอี: Kham Cha-I: 4905, 490505: หนองเอี่ยน: Nong Ian: 4905, 490506: บ้านค้อ: Ban Kho: 4905, 490507: บ้านเหล่า: Ban Lao: 4905, 490508: โพนงาม: Phon Ngam: 4905, 490511: เหล่าสร้างถ่อ: Lao Sang Tho: 4905, 490512: คำบก: Kham Bok: 4905, 490514: น้ำเที่ยง: Nam Thiang: 4905"
+    },
+    {
+      "postal_code": 49120,
+      "province_code": 49,
+      "province_name_th": "มุกดาหาร",
+      "province_name_en": "Mukdahan",
+      "districts": "4903: ดอนตาล: Don Tan",
+      "subdistricts": "490301: ดอนตาล: Don Tan: 4903, 490302: โพธิ์ไทร: Pho Sai: 4903, 490303: ป่าไร่: Pa Rai: 4903, 490304: เหล่าหมี: Lao Mi: 4903, 490305: บ้านบาก: Ban Bak: 4903, 490306: นาสะเม็ง: Na Sameng: 4903, 490307: บ้านแก้ง: Ban Kaeng: 4903"
+    },
+    {
+      "postal_code": 49130,
+      "province_code": 49,
+      "province_name_th": "มุกดาหาร",
+      "province_name_en": "Mukdahan",
+      "districts": "4902: นิคมคำสร้อย: Nikhom Kham Soi",
+      "subdistricts": "490201: นิคมคำสร้อย: Nikhom Kham Soi: 4902, 490202: นากอก: Na Kok: 4902, 490203: หนองแวง: Nong Waeng: 4902, 490204: กกแดง: Kok Daeng: 4902, 490205: นาอุดม: Na Udom: 4902, 490206: โชคชัย: Chok Chai: 4902, 490207: ร่มเกล้า: Romklao: 4902"
+    },
+    {
+      "postal_code": 49140,
+      "province_code": 49,
+      "province_name_th": "มุกดาหาร",
+      "province_name_en": "Mukdahan",
+      "districts": "4904: ดงหลวง: Don Tan",
+      "subdistricts": "490401: ดงหลวง: Dong Luang: 4904, 490402: หนองบัว: Nong Bua: 4904, 490403: กกตูม: Kok Tum: 4904, 490404: หนองแคน: Nong Khaen: 4904, 490405: ชะโนดน้อย: Chanot Noi: 4904, 490406: พังแดง: Phang Daeng: 4904"
+    },
+    {
+      "postal_code": 49150,
+      "province_code": 49,
+      "province_name_th": "มุกดาหาร",
+      "province_name_en": "Mukdahan",
+      "districts": "4906: หว้านใหญ่: Wan Yai",
+      "subdistricts": "490601: หว้านใหญ่: Wan Yai: 4906, 490602: ป่งขาม: Pong Kham: 4906, 490603: บางทรายน้อย: Bang Sai Noi: 4906, 490604: ชะโนด: Chanot: 4906, 490605: ดงหมู: Dong Mu: 4906"
+    },
+    {
+      "postal_code": 49160,
+      "province_code": 49,
+      "province_name_th": "มุกดาหาร",
+      "province_name_en": "Mukdahan",
+      "districts": "4907: หนองสูง: Nong Sung",
+      "subdistricts": "490701: หนองสูง: Nong Sung: 4907, 490702: โนนยาง: Non Yang: 4907, 490703: ภูวง: Phu Wong: 4907, 490704: บ้านเป้า: Ban Pao: 4907, 490705: หนองสูงใต้: Nong Sung Tai: 4907, 490706: หนองสูงเหนือ: Nong Sung Nuea: 4907"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดมุกดาหาร (Mukdahan Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดมุกดาหาร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Mukdahan province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 7 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดมุกดาหาร (Mukdahan Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดมุกดาหาร (Mukdahan Postal Codes) — 7 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 7 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "th-nong-bua-lam-phu-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดหนองบัวลำภู (Nong Bua Lam Phu Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดหนองบัวลำภู (Nong Bua Lam Phu Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดหนองบัวลำภู แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nong Bua Lam Phu province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 39000,
+      "province_code": 39,
+      "province_name_th": "หนองบัวลำภู",
+      "province_name_en": "Nong Bua Lam Phu",
+      "districts": "3901: เมืองหนองบัวลำภู: Mueang Nong Bua Lam Phu",
+      "subdistricts": "390101: หนองบัว: Nong Bua: 3901, 390102: หนองภัยศูนย์: Nong Phai Sun: 3901, 390103: โพธิ์ชัย: Pho Chai: 3901, 390104: หนองสวรรค์: Nong Sawan: 3901, 390105: หัวนา: Hua Na: 3901, 390106: บ้านขาม: Ban Kham: 3901, 390107: นามะเฟือง: Na Mafueang: 3901, 390108: บ้านพร้าว: Ban Phrao: 3901, 390109: โนนขมิ้น: Non Khamin: 3901, 390110: ลำภู: Lamphu: 3901, 390111: กุดจิก: Kut Chik: 3901, 390112: โนนทัน: Non Than: 3901, 390113: นาคำไฮ: Na Kham Hai: 3901, 390114: ป่าไม้งาม: Pa Mai Ngam: 3901, 390115: หนองหว้า: Nong Wa: 3901"
+    },
+    {
+      "postal_code": 39140,
+      "province_code": 39,
+      "province_name_th": "หนองบัวลำภู",
+      "province_name_en": "Nong Bua Lam Phu",
+      "districts": "3903: โนนสัง: Non Sang",
+      "subdistricts": "390301: โนนสัง: Non Sang: 3903, 390302: บ้านถิ่น: Ban Thin: 3903, 390303: หนองเรือ: Nong Ruea: 3903, 390304: กุดดู่: Kut Du: 3903, 390305: บ้านค้อ: Ban Kho: 3903, 390306: โนนเมือง: Non Mueang: 3903, 390307: โคกใหญ่: Khok Yai: 3903, 390308: โคกม่วง: Khok Muang: 3903, 390309: นิคมพัฒนา: Nikhom Phatthana: 3903, 390310: ปางกู่: Pang Ku: 3903"
+    },
+    {
+      "postal_code": 39170,
+      "province_code": 39,
+      "province_name_th": "หนองบัวลำภู",
+      "province_name_en": "Nong Bua Lam Phu",
+      "districts": "3902: นากลาง: Na Klang, 3906: นาวัง: Na Wang",
+      "subdistricts": "390201: นากลาง: Na Klang: 3902, 390202: ด่านช้าง: Dan Chang: 3902, 390206: ฝั่งแดง: Fang Daeng: 3902, 390209: โนนเมือง: Non Mueang: 3902, 390210: อุทัยสวรรค์: Uthai Sawan: 3902, 390213: กุดแห่: Kut Hae: 3902, 390601: นาเหล่า: Na Lao: 3906, 390602: นาแก: Na Kae: 3906, 390603: วังทอง: Wang Thong: 3906, 390604: วังปลาป้อม: Wang Pla Pom: 3906, 390605: เทพคีรี: Thep Khiri: 3906"
+    },
+    {
+      "postal_code": 39180,
+      "province_code": 39,
+      "province_name_th": "หนองบัวลำภู",
+      "province_name_en": "Nong Bua Lam Phu",
+      "districts": "3904: ศรีบุญเรือง: Si Bun Rueang",
+      "subdistricts": "390401: เมืองใหม่: Mueang Mai: 3904, 390402: ศรีบุญเรือง: Si Bunrueang: 3904, 390403: หนองบัวใต้: Nong Bua Tai: 3904, 390404: กุดสะเทียน: Kut Sathian: 3904, 390405: นากอก: Na Kok: 3904, 390406: โนนสะอาด: Non Sa-At: 3904, 390407: ยางหล่อ: Yang Lo: 3904, 390408: โนนม่วง: Non Muang: 3904, 390409: หนองกุงแก้ว: Nong Kung Kaeo: 3904, 390410: หนองแก: Nong Kae: 3904, 390411: ทรายทอง: Sai Thong: 3904, 390412: หันนางาม: Han Na Ngam: 3904"
+    },
+    {
+      "postal_code": 39270,
+      "province_code": 39,
+      "province_name_th": "หนองบัวลำภู",
+      "province_name_en": "Nong Bua Lam Phu",
+      "districts": "3905: สุวรรณคูหา: Suwannakhuha",
+      "subdistricts": "390501: นาสี: Na Si: 3905, 390502: บ้านโคก: Ban Khok: 3905, 390503: นาดี: Na Di: 3905, 390504: นาด่าน: Na Dan: 3905, 390505: ดงมะไฟ: Dong Mafai: 3905, 390506: สุวรรณคูหา: Suwanna Khuha: 3905, 390507: บุญทัน: Bunthan: 3905, 390508: กุดผึ้ง: Kut Phueng: 3905"
+    },
+    {
+      "postal_code": 39350,
+      "province_code": 39,
+      "province_name_th": "หนองบัวลำภู",
+      "province_name_en": "Nong Bua Lam Phu",
+      "districts": "3902: นากลาง: Na Klang",
+      "subdistricts": "390205: กุดดินจี่: Kut Din Chi: 3902, 390207: เก่ากลอย: Kao Kloi: 3902, 390211: ดงสวรรค์: Dong Sawan: 3902"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดหนองบัวลำภู (Nong Bua Lam Phu Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดหนองบัวลำภู แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nong Bua Lam Phu province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 6 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดหนองบัวลำภู (Nong Bua Lam Phu Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดหนองบัวลำภู (Nong Bua Lam Phu Postal Codes) — 6 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 6 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

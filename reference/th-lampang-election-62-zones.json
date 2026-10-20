@@ -1,0 +1,124 @@
+{
+  "id": "th-lampang-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดลำปาง 2562 (Lampang 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดลำปาง 2562 (Lampang 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดลำปาง ในการเลือกตั้งทั่วไป 2562 จำนวน 4 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Lampang province during the Thailand 24-March-2019 general election. 4 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 222,
+      "province_name_th": "ลำปาง",
+      "province_name_en": "Lampang",
+      "province_slug": "lampang",
+      "zone_number": 1,
+      "area_count": 2,
+      "amphoes": "ห้างฉัตร, เมืองลำปาง",
+      "areas_detail": "ห้างฉัตร: : : , เมืองลำปาง: : เทศบาลเมืองเขลางค์นคร: ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 223,
+      "province_name_th": "ลำปาง",
+      "province_name_en": "Lampang",
+      "province_slug": "lampang",
+      "zone_number": 2,
+      "area_count": 4,
+      "amphoes": "งาว, วังเหนือ, เมืองปาน, แจ้ห่ม",
+      "areas_detail": "งาว: : : , วังเหนือ: : : , เมืองปาน: : : , แจ้ห่ม: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 224,
+      "province_name_th": "ลำปาง",
+      "province_name_en": "Lampang",
+      "province_slug": "lampang",
+      "zone_number": 3,
+      "area_count": 3,
+      "amphoes": "เมืองลำปาง, แม่ทะ, แม่เมาะ",
+      "areas_detail": "เมืองลำปาง: เทศบาลเมืองเขลางค์นคร: : , แม่ทะ: : : , แม่เมาะ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 225,
+      "province_name_th": "ลำปาง",
+      "province_name_en": "Lampang",
+      "province_slug": "lampang",
+      "zone_number": 4,
+      "area_count": 5,
+      "amphoes": "สบปราบ, เกาะคา, เถิน, เสริมงาม, แม่พริก",
+      "areas_detail": "สบปราบ: : : , เกาะคา: : : , เถิน: : : , เสริมงาม: : : , แม่พริก: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดลำปาง 2562 (Lampang 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดลำปาง ในการเลือกตั้งทั่วไป 2562 จำนวน 4 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Lampang province during the Thailand 24-March-2019 general election. 4 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดลำปาง 2562 (Lampang 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดลำปาง 2562 (Lampang 2019 Election Constituencies) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

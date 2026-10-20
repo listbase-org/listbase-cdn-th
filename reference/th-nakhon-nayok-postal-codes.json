@@ -1,0 +1,88 @@
+{
+  "id": "th-nakhon-nayok-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดนครนายก (Nakhon Nayok Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดนครนายก (Nakhon Nayok Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดนครนายก แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Nayok province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 26000,
+      "province_code": 26,
+      "province_name_th": "นครนายก",
+      "province_name_en": "Nakhon Nayok",
+      "districts": "2601: เมืองนครนายก: Mueang Nakhon Nayok",
+      "subdistricts": "260101: นครนายก: Nakhon Nayok: 2601, 260102: ท่าช้าง: Tha Chang: 2601, 260103: บ้านใหญ่: Ban Yai: 2601, 260104: วังกระโจม: Wang Krachom: 2601, 260105: ท่าทราย: Tha Sai: 2601, 260106: ดอนยอ: Don Yo: 2601, 260107: ศรีจุฬา: Si Chula: 2601, 260108: ดงละคร: Dong Lakhon: 2601, 260109: ศรีนาวา: Si Nawa: 2601, 260110: สาริกา: Sarika: 2601, 260111: หินตั้ง: Hin Tang: 2601, 260112: เขาพระ: Khao Phra: 2601, 260113: พรหมณี: Phrommani: 2601"
+    },
+    {
+      "postal_code": 26110,
+      "province_code": 26,
+      "province_name_th": "นครนายก",
+      "province_name_en": "Nakhon Nayok",
+      "districts": "2603: บ้านนา: Ban Na",
+      "subdistricts": "260301: บ้านนา: Ban Na: 2603, 260302: บ้านพร้าว: Ban Phrao: 2603, 260303: บ้านพริก: Ban Phrik: 2603, 260304: อาษา: A Sa: 2603, 260305: ทองหลาง: Thong Lang: 2603, 260306: บางอ้อ: Bang O: 2603, 260307: พิกุลออก: Phikun Ok: 2603, 260308: ป่าขะ: Pa Kha: 2603, 260309: เขาเพิ่ม: Khao Phoem: 2603, 260310: ศรีกะอาง: Si Ka-Ang: 2603"
+    },
+    {
+      "postal_code": 26120,
+      "province_code": 26,
+      "province_name_th": "นครนายก",
+      "province_name_en": "Nakhon Nayok",
+      "districts": "2604: องครักษ์: Ongkharak",
+      "subdistricts": "260401: พระอาจารย์: Phra Achan: 2604, 260402: บึงศาล: Bueng San: 2604, 260403: ศีรษะกระบือ: Sisa Krabue: 2604, 260404: โพธิ์แทน: Pho Thaen: 2604, 260405: บางสมบูรณ์: Bang Sombun: 2604, 260406: ทรายมูล: Sai Mun: 2604, 260407: บางปลากด: Bang Pla Kot: 2604, 260408: บางลูกเสือ: Bang Luk Suea: 2604, 260409: องครักษ์: Ongkharak: 2604, 260410: ชุมพล: Chum Phon: 2604, 260411: คลองใหญ่: Khlong Yai: 2604"
+    },
+    {
+      "postal_code": 26130,
+      "province_code": 26,
+      "province_name_th": "นครนายก",
+      "province_name_en": "Nakhon Nayok",
+      "districts": "2602: ปากพลี: Pak Phli",
+      "subdistricts": "260201: เกาะหวาย: Ko Wai: 2602, 260202: เกาะโพธิ์: Ko Pho: 2602, 260203: ปากพลี: Pak Phli: 2602, 260204: โคกกรวด: Khok Kruat: 2602, 260205: ท่าเรือ: Tha Ruea: 2602, 260206: หนองแสง: Nong Saeng: 2602, 260207: นาหินลาด: Na Hin Lat: 2602"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดนครนายก (Nakhon Nayok Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดนครนายก แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Nayok province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดนครนายก (Nakhon Nayok Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดนครนายก (Nakhon Nayok Postal Codes) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

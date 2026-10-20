@@ -1,0 +1,304 @@
+{
+  "id": "th-nakhon-ratchasima-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดนครราชสีมา (Nakhon Ratchasima Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดนครราชสีมา (Nakhon Ratchasima Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดนครราชสีมา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Ratchasima province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 30000,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3001: เมืองนครราชสีมา: Mueang Nakhon Ratchasima, 3032: เฉลิมพระเกียรติ: Chaloem Phra Kiet",
+      "subdistricts": "300101: ในเมือง: Nai Mueang: 3001, 300102: โพธิ์กลาง: Pho Klang: 3001, 300103: หนองจะบก: Nong Chabok: 3001, 300105: มะเริง: Maroeng: 3001, 300106: หนองระเวียง: Nong Rawiang: 3001, 300107: ปรุใหญ่: Pru Yai: 3001, 300108: หมื่นไวย: Muen Wai: 3001, 300109: พลกรัง: Phon Krang: 3001, 300110: หนองไผ่ล้อม: Nong Phai Lom: 3001, 300111: หัวทะเล: Hua Thale: 3001, 300112: บ้านเกาะ: Ban Ko: 3001, 300113: บ้านใหม่: Ban Mai: 3001, 300114: พุดซา: Phut Sa: 3001, 300118: ไชยมงคล: Chai Mongkhon: 3001, 300119: หนองบัวศาลา: Nong Bua Sala: 3001, 300120: สุรนารี: Suranari: 3001, 300121: สีมุม: Si Mum: 3001, 300123: พะเนา: Phanao: 3001, 300124: หนองกระทุ่ม: Nong Krathum: 3001, 303204: หนองงูเหลือม: Nong Ngu Lueam: 3032"
+    },
+    {
+      "postal_code": 30110,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3015: พิมาย: Phimai",
+      "subdistricts": "301501: ในเมือง: Nai Mueang: 3015, 301502: สัมฤทธิ์: Samrit: 3015, 301503: โบสถ์: Bot: 3015, 301504: กระเบื้องใหญ่: Krabueang Yai: 3015, 301505: ท่าหลวง: Tha Luang: 3015, 301506: รังกาใหญ่: Rang Ka Yai: 3015, 301507: ชีวาน: Chiwan: 3015, 301508: นิคมสร้างตนเอง: Nikhom Sang Ton-Eng: 3015, 301509: กระชอน: Krachon: 3015, 301510: ดงใหญ่: Dong Yai: 3015, 301511: ธารละหลอด: Than Lalot: 3015, 301512: หนองระเวียง: Nong Rawiang: 3015"
+    },
+    {
+      "postal_code": 30120,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3012: บัวใหญ่: Bua Yai, 3030: บัวลาย: Bua Lai",
+      "subdistricts": "301201: บัวใหญ่: Bua Yai: 3012, 301203: ห้วยยาง: Huai Yang: 3012, 301204: เสมาใหญ่: Sema Yai: 3012, 301206: ดอนตะหนิน: Don Tanin: 3012, 301207: หนองบัวสะอาด: Nong Bua Sa-At: 3012, 301208: โนนทองหลาง: Non Thong Lang: 3012, 301214: กุดจอก: Kut Chok: 3012, 301215: ด่านช้าง: Dan Chang: 3012, 301220: ขุนทอง: Khun Thong: 3012, 301224: หนองแจ้งใหญ่: Nong Chaeng Yai: 3012, 303001: เมืองพะไล: Mueang Phalai: 3030, 303002: โนนจาน: Non Chan: 3030, 303003: บัวลาย: Bua Lai: 3030, 303004: หนองหว้า: Nong Wa: 3030"
+    },
+    {
+      "postal_code": 30130,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3021: ปากช่อง: Pak Chong",
+      "subdistricts": "302101: ปากช่อง: Pak Chong: 3021, 302103: จันทึก: Chan Thuek: 3021, 302104: วังกะทะ: Wang Katha: 3021, 302105: หมูสี: Mu Si: 3021, 302106: หนองสาหร่าย: Nong Sarai: 3021, 302107: ขนงพระ: Khanong Phra: 3021, 302108: โป่งตาลอง: Pong Ta Long: 3021, 302109: คลองม่วง: Khlong Muang: 3021, 302110: หนองน้ำแดง: Nong Nam Daeng: 3021, 302111: วังไทร: Wang Sai: 3021"
+    },
+    {
+      "postal_code": 30140,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3020: สีคิ้ว: Si Khio",
+      "subdistricts": "302001: สีคิ้ว: Sikhio: 3020, 302002: บ้านหัน: Ban Han: 3020, 302003: กฤษณา: Kritsana: 3020, 302005: หนองหญ้าขาว: Nong Ya Khao: 3020, 302006: กุดน้อย: Kut Noi: 3020, 302007: หนองน้ำใส: Nong Nam Sai: 3020, 302008: วังโรงใหญ่: Wang Rong Yai: 3020, 302009: มิตรภาพ: Mittraphap: 3020, 302011: ดอนเมือง: Don Mueang: 3020, 302012: หนองบัวน้อย: Nong Bua Noi: 3020"
+    },
+    {
+      "postal_code": 30150,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3014: ปักธงชัย: Pak Thong Chai, 3025: วังน้ำเขียว: Wang Nam Khiao",
+      "subdistricts": "301401: เมืองปัก: Mueang Pak: 3014, 301402: ตะคุ: Takhu: 3014, 301403: โคกไทย: Khok Thai: 3014, 301404: สำโรง: Samrong: 3014, 301405: ตะขบ: Takhop: 3014, 301406: นกออก: Nok Ok: 3014, 301407: ดอน: Don: 3014, 301409: ตูม: Tum: 3014, 301410: งิ้ว: Ngio: 3014, 301411: สะแกราช: Sakae Rat: 3014, 301412: ลำนางแก้ว: Lam Nang Kaeo: 3014, 301416: ภูหลวง: Phu Luang: 3014, 301417: ธงชัยหนือ: Thong Chai Nuea: 3014, 301418: สุขเกษม: Suk Kasem: 3014, 301419: เกษมทรัพย์: Kasem Sap: 3014, 301420: บ่อปลาทอง: Bo Pla Thong: 3014, 302503: ระเริง: Raroeng: 3025"
+    },
+    {
+      "postal_code": 30160,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3010: โนนสูง: Non Sung",
+      "subdistricts": "301001: โนนสูง: Non Sung: 3010, 301002: ใหม่: Mai: 3010, 301003: โตนด: Tanot: 3010, 301004: บิง: Bing: 3010, 301005: ดอนชมพู: Don Chomphu: 3010, 301007: หลุมข้าว: Lum Khao: 3010, 301008: มะค่า: Makha: 3010, 301009: พลสงคราม: Phon Songkhram: 3010, 301010: จันอัด: Chan-At: 3010, 301011: ขามเฒ่า: Kham Thao: 3010, 301012: ด่านคล้า: Dan Khla: 3010, 301013: ลำคอหงษ์: Lam Kho Hong: 3010, 301014: เมืองปราสาท: Mueang Prasat: 3010, 301015: ดอนหวาย: Don Wai: 3010, 301016: ลำมูล: Lammun: 3010"
+    },
+    {
+      "postal_code": 30170,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3018: สูงเนิน: Sung Noen",
+      "subdistricts": "301801: สูงเนิน: Sung Noen: 3018, 301802: เสมา: Sema: 3018, 301803: โคราช: Khorat: 3018, 301804: บุ่งขี้เหล็ก: Bung Khi Lek: 3018, 301805: โนนค่า: Non Kha: 3018, 301806: โค้งยาง: Khong Yang: 3018, 301807: มะเกลือเก่า: Makluea Kao: 3018, 301808: มะเกลือใหม่: Makluea Mai: 3018"
+    },
+    {
+      "postal_code": 30180,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3013: ประทาย: Prathai",
+      "subdistricts": "301301: ประทาย: Prathai: 3013, 301303: กระทุ่มราย: Krathum Rai: 3013, 301304: วังไม้แดง: Wang Mai Daeng: 3013, 301306: ตลาดไทร: Talat Sai: 3013, 301307: หนองพลวง: Nong Phluang: 3013, 301308: หนองค่าย: Nong Khai: 3013, 301309: หันห้วยทราย: Han Huai Sai: 3013, 301310: ดอนมัน: Don Man: 3013, 301313: นางรำ: Nang Ram: 3013, 301314: โนนเพ็ด: Non Phet: 3013, 301315: ทุ่งสว่าง: Thung Sawang: 3013, 301317: โคกกลาง: Khok Klang: 3013, 301318: เมืองโดน: Mueang Don: 3013"
+    },
+    {
+      "postal_code": 30190,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3007: โชคชัย: Chok Chai",
+      "subdistricts": "300701: กระโทก: Krathok: 3007, 300702: พลับพลา: Phlapphla: 3007, 300703: ท่าอ่าง: Tha Ang: 3007, 300704: ทุ่งอรุณ: Thung Arun: 3007, 300705: ท่าลาดขาว: Tha Lat Khao: 3007, 300706: ท่าจะหลุง: Tha Chalung: 3007, 300707: ท่าเยี่ยม: Tha Yiam: 3007, 300708: โชคชัย: Chok Chai: 3007, 300709: ละลมใหม่พัฒนา: Lalom Mai Phatthana: 3007, 300710: ด่านเกวียน: Dan Kwian: 3007"
+    },
+    {
+      "postal_code": 30210,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3008: ด่านขุนทด: Dan Khun Thot, 3026: เทพารักษ์: Thepharak",
+      "subdistricts": "300801: กุดพิมาน: Kut Phiman: 3008, 300802: ด่านขุนทด: Dan Khun Thot: 3008, 300803: ด่านนอก: Dan Nok: 3008, 300804: ด่านใน: Dan Nai: 3008, 300805: ตะเคียน: Takhian: 3008, 300806: บ้านเก่า: Ban Kao: 3008, 300808: พันชนะ: Phan Chana: 3008, 300809: สระจรเข้: Sa Chorakhe: 3008, 300810: หนองกราด: Nong Krat: 3008, 300811: หนองบัวตะเกียด: Nong Bua Takiat: 3008, 300812: หนองบัวละคร: Nong Bua Lakhon: 3008, 300813: หินดาด: Hin Dat: 3008, 300815: ห้วยบง: Huai Bong: 3008, 300817: โนนเมืองพัฒนา: Non Mueang Phatthana: 3008, 302601: สำนักตะคร้อ: Samnak Takhro: 3026, 302602: หนองแวง: Nong Waeng: 3026, 302603: บึงปรือ: Bueng Prue: 3026, 302604: วังยายทอง: Wang Yai Thong: 3026"
+    },
+    {
+      "postal_code": 30220,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3009: โนนไทย: Non Thai, 3028: พระทองคำ: Phra Thong Kham",
+      "subdistricts": "300901: โนนไทย: Non Thai: 3009, 300902: ด่านจาก: Dan Chak: 3009, 300903: กำปัง: Kampang: 3009, 300904: สำโรง: Samrong: 3009, 300905: ค้างพลู: Khang Phlu: 3009, 300906: บ้านวัง: Ban Wang: 3009, 300907: บัลลังก์: Banlang: 3009, 300908: สายออ: Sai-O: 3009, 300909: ถนนโพธิ์: Thanon Pho: 3009, 300914: มะค่า: Makha: 3009, 302801: สระพระ: Sa Phra: 3028, 302802: มาบกราด: Map Krat: 3028, 302803: พังเทียม: Phang Thiam: 3028, 302804: ทัพรั้ง: Thap Rang: 3028, 302805: หนองหอย: Nong Hoi: 3028"
+    },
+    {
+      "postal_code": 30230,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3006: จักราช: Chakkarat, 3032: เฉลิมพระเกียรติ: Chaloem Phra Kiet",
+      "subdistricts": "300601: จักราช: Chakkarat: 3006, 300603: ทองหลาง: Thong Lang: 3006, 300604: สีสุก: Si Suk: 3006, 300605: หนองขาม: Nong Kham: 3006, 300607: หนองพลวง: Nong Phluang: 3006, 300610: ศรีละกอ: Si Lako: 3006, 300611: คลองเมือง: Khlong Mueang: 3006, 300613: หินโคน: Hin Khon: 3006, 303201: ช้างทอง: Chang Thong: 3032, 303202: ท่าช้าง: Tha Chang: 3032, 303203: พระพุทธ: Phraphut: 3032, 303205: หนองยาง: Nong Yang: 3032"
+    },
+    {
+      "postal_code": 30240,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3010: โนนสูง: Non Sung, 3016: ห้วยแถลง: Huai Thalaeng",
+      "subdistricts": "301006: ธารปราสาท: Than Prasat: 3010, 301601: ห้วยแถลง: Huai Thalaeng: 3016, 301602: ทับสวาย: Thap Sawai: 3016, 301603: เมืองพลับพลา: Mueang Phlapphla: 3016, 301604: หลุ่งตะเคียน: Lung Takhian: 3016, 301605: หินดาด: Hin Dat: 3016, 301606: งิ้ว: Ngio: 3016, 301607: กงรถ: Kong Rot: 3016, 301608: หลุ่งประดู่: Lung Pradu: 3016, 301609: ตะโก: Tako: 3016, 301610: ห้วยแคน: Huai Khaen: 3016"
+    },
+    {
+      "postal_code": 30250,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3002: ครบุรี: Khon Buri",
+      "subdistricts": "300201: แชะ: Chae: 3002, 300202: เฉลียง: Chaliang: 3002, 300203: ครบุรี: Khon Buri: 3002, 300204: โคกกระชาย: Khok Krachai: 3002, 300205: จระเข้หิน: Chorakhe Hin: 3002, 300206: มาบตะโกเอน: Map Tako En: 3002, 300207: อรพิมพ์: Oraphim: 3002, 300208: บ้านใหม่: Ban Mai: 3002, 300209: ลำเพียก: Lamphiak: 3002, 300210: ครบุรีใต้: Khon Buri Tai: 3002, 300211: ตะแบกบาน: Tabaek Ban: 3002, 300212: สระว่านพระยา: Sa Wan Phraya: 3002"
+    },
+    {
+      "postal_code": 30260,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3004: คง: Khong",
+      "subdistricts": "300401: เมืองคง: Mueang Khong: 3004, 300402: คูขาด: Khu Khat: 3004, 300403: เทพาลัย: Thephalai: 3004, 300404: ตาจั่น: Ta Chan: 3004, 300405: บ้านปรางค์: Ban Prang: 3004, 300406: หนองมะนาว: Nong Manao: 3004, 300407: หนองบัว: Nong Bua: 3004, 300408: โนนเต็ง: Non Teng: 3004, 300409: ดอนใหญ่: Don Yai: 3004, 300410: ขามสมบูรณ์: Kham Sombun: 3004"
+    },
+    {
+      "postal_code": 30270,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3017: ชุมพวง: Chum Phuang, 3027: เมืองยาง: Mueang Yang, 3029: ลำทะเมนชัย: Lamtaman Chai",
+      "subdistricts": "301701: ชุมพวง: Chum Phuang: 3017, 301702: ประสุข: Prasuk: 3017, 301703: ท่าลาด: Tha Lat: 3017, 301704: สาหร่าย: Sarai: 3017, 301705: ตลาดไทร: Talat Sai: 3017, 301710: โนนรัง: Non Rang: 3017, 301714: หนองหลัก: Nong Lak: 3017, 301716: โนนตูม: Non Tum: 3017, 301717: โนนยอ: Non Yo: 3017, 302701: เมืองยาง: Mueang Yang: 3027, 302702: กระเบื้องนอก: Krabueang Nok: 3027, 302703: ละหานปลาค้าว: Lahan Pla Khao: 3027, 302704: โนนอุดม: Non Udom: 3027, 302901: ขุย: Khui: 3029, 302902: บ้านยาง: Ban Yang: 3029, 302903: ช่องแมว: Chong Maeo: 3029, 302904: ไพล: Phrai: 3029"
+    },
+    {
+      "postal_code": 30280,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3001: เมืองนครราชสีมา: Mueang Nakhon Ratchasima, 3019: ขามทะเลสอ: Kham Thale So",
+      "subdistricts": "300117: โคกกรวด: Khok Kruat: 3001, 301901: ขามทะเลสอ: Kham Thale So: 3019, 301902: โป่งแดง: Pong Daeng: 3019, 301903: พันดุง: Phan Dung: 3019, 301904: หนองสรวง: Nong Suang: 3019, 301905: บึงอ้อ: Bueng O: 3019"
+    },
+    {
+      "postal_code": 30290,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3011: ขามสะแกแสง: Kham Sakaesaeng",
+      "subdistricts": "301101: ขามสะแกแสง: Kham Sakae Saeng: 3011, 301102: โนนเมือง: Non Mueang: 3011, 301103: เมืองนาท: Mueang Nat: 3011, 301104: ชีวึก: Chiwuek: 3011, 301105: พะงาด: Phangat: 3011, 301106: หนองหัวฟาน: Nong Hua Fan: 3011, 301107: เมืองเกษตร: Mueang Kaset: 3011"
+    },
+    {
+      "postal_code": 30310,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3001: เมืองนครราชสีมา: Mueang Nakhon Ratchasima",
+      "subdistricts": "300104: โคกสูง: Khok Sung: 3001, 300115: บ้านโพธิ์: Ban Pho: 3001, 300116: จอหอ: Cho Ho: 3001, 300122: ตลาด: Talat: 3001, 300125: หนองไข่น้ำ: Nong Khai Nam: 3001"
+    },
+    {
+      "postal_code": 30320,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3021: ปากช่อง: Pak Chong",
+      "subdistricts": "302102: กลางดง: Klang Dong: 3021, 302112: พญาเย็น: Phaya Yen: 3021"
+    },
+    {
+      "postal_code": 30330,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3003: เสิงสาง: Soeng Sang",
+      "subdistricts": "300301: เสิงสาง: Soeng Sang: 3003, 300302: สระตะเคียน: Sa Takhian: 3003, 300303: โนนสมบูรณ์: Non Sombun: 3003, 300304: กุดโบสถ์: Kut Bot: 3003, 300305: สุขไพบูลย์: Suk Phaibun: 3003, 300306: บ้านราษฎร์: Ban Rat: 3003"
+    },
+    {
+      "postal_code": 30340,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3020: สีคิ้ว: Si Khio",
+      "subdistricts": "302004: ลาดบัวขาว: Lat Bua Khao: 3020, 302010: คลองไผ่: Khlong Phai: 3020"
+    },
+    {
+      "postal_code": 30350,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3005: บ้านเหลื่อม: Ban Lueam",
+      "subdistricts": "300501: บ้านเหลื่อม: Ban Lueam: 3005, 300502: วังโพธิ์: Wang Pho: 3005, 300503: โคกกระเบื้อง: Khok Krabueang: 3005, 300504: ช่อระกา: Cho Raka: 3005"
+    },
+    {
+      "postal_code": 30360,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3024: โนนแดง: Non Daeng",
+      "subdistricts": "302401: โนนแดง: Non Daeng: 3024, 302402: โนนตาเถร: Non Ta Then: 3024, 302403: สำพะเนียง: Sam Phaniang: 3024, 302404: วังหิน: Wang Hin: 3024, 302405: ดอนยาวใหญ่: Don Yao Yai: 3024"
+    },
+    {
+      "postal_code": 30370,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3025: วังน้ำเขียว: Wang Nam Khiao",
+      "subdistricts": "302501: วังน้ำเขียว: Wang Nam Khiao: 3025, 302502: วังหมี: Wang Mi: 3025, 302504: อุดมทรัพย์: Udom Sap: 3025, 302505: ไทยสามัคคี: Thai Samakkhi: 3025"
+    },
+    {
+      "postal_code": 30380,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3018: สูงเนิน: Sung Noen",
+      "subdistricts": "301809: นากลาง: Na Klang: 3018, 301810: หนองตะไก้: Nong Takai: 3018, 301811: กุดจิก: Kut Chik: 3018"
+    },
+    {
+      "postal_code": 30410,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3022: หนองบุญมาก: Nong Bunmak",
+      "subdistricts": "302201: หนองบุนนาก: Nong Bunnak: 3022, 302202: สารภี: Saraphi: 3022, 302203: ไทยเจริญ: Thai Charoen: 3022, 302204: หนองหัวแรต: Nong Hua Raet: 3022, 302205: แหลมทอง: Laem Thong: 3022, 302206: หนองตะไก้: Nong Takai: 3022, 302207: ลุงเขว้า: Lung Khwao: 3022, 302208: หนองไม้ไผ่: Nong Mai Phai: 3022, 302209: บ้านใหม่: Ban Mai: 3022"
+    },
+    {
+      "postal_code": 30430,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3031: สีดา: Sida",
+      "subdistricts": "303101: สีดา: Sida: 3031, 303102: โพนทอง: Phon Thong: 3031, 303103: โนนประดู่: Non Pradu: 3031, 303104: สามเมือง: Sam Mueang: 3031, 303105: หนองตาดใหญ่: Nong Tat Yai: 3031"
+    },
+    {
+      "postal_code": 30440,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3023: แก้งสนามนาง: Kaeng Sanam Nang",
+      "subdistricts": "302301: แก้งสนามนาง: Kaeng Sanam Nang: 3023, 302302: โนนสำราญ: Non Samran: 3023, 302303: บึงพะไล: Bueng Phalai: 3023, 302304: สีสุก: Si Suk: 3023, 302305: บึงสำโรง: Bueng Samrong: 3023"
+    },
+    {
+      "postal_code": 36220,
+      "province_code": 30,
+      "province_name_th": "นครราชสีมา",
+      "province_name_en": "Nakhon Ratchasima",
+      "districts": "3008: ด่านขุนทด: Dan Khun Thot",
+      "subdistricts": "300807: บ้านแปรง: Ban Praeng: 3008, 300818: หนองไทร: Nong Sai: 3008"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดนครราชสีมา (Nakhon Ratchasima Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดนครราชสีมา แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Nakhon Ratchasima province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 31 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดนครราชสีมา (Nakhon Ratchasima Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดนครราชสีมา (Nakhon Ratchasima Postal Codes) — 31 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 31 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

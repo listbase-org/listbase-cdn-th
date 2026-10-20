@@ -1,0 +1,196 @@
+{
+  "id": "th-khon-kaen-election-62-zones",
+  "name": "เขตเลือกตั้ง ส.ส. จังหวัดขอนแก่น 2562 (Khon Kaen 2019 Election Constituencies)",
+  "title": "เขตเลือกตั้ง ส.ส. จังหวัดขอนแก่น 2562 (Khon Kaen 2019 Election Constituencies)",
+  "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดขอนแก่น ในการเลือกตั้งทั่วไป 2562 จำนวน 10 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Khon Kaen province during the Thailand 24-March-2019 general election. 10 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "zone_id",
+      "label": "Zone Id",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "province_slug",
+      "label": "Province Slug",
+      "type": "string"
+    },
+    {
+      "key": "zone_number",
+      "label": "Zone Number",
+      "type": "number"
+    },
+    {
+      "key": "area_count",
+      "label": "Area Count",
+      "type": "number"
+    },
+    {
+      "key": "amphoes",
+      "label": "Amphoes",
+      "type": "string"
+    },
+    {
+      "key": "areas_detail",
+      "label": "Areas Detail",
+      "type": "string"
+    },
+    {
+      "key": "area_prefix_th",
+      "label": "Area Prefix Th",
+      "type": "string"
+    },
+    {
+      "key": "sub_area_prefix_th",
+      "label": "Sub Area Prefix Th",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone_id": 47,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 1,
+      "area_count": 1,
+      "amphoes": "เมืองขอนแก่น",
+      "areas_detail": "เมืองขอนแก่น: เมืองเก่า,บ้านเป็ด,ในเมือง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 48,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 2,
+      "area_count": 2,
+      "amphoes": "ซำสูง, เมืองขอนแก่น",
+      "areas_detail": "ซำสูง: : : , เมืองขอนแก่น: พระลับ,บึงเนียม,แดงใหญ่,ดอนช้าง,ดอนหัน,โคกสี,ท่าพระ,ศิลา,บ้านทุ่ม,หนองตูม,บ้านหว้า: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 49,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 3,
+      "area_count": 2,
+      "amphoes": "กระนวน, น้ำพอง",
+      "areas_detail": "กระนวน: : : , น้ำพอง: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 50,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 4,
+      "area_count": 4,
+      "amphoes": "บ้านฝาง, อุบลรัตน์, เขาสวนกวาง, เมืองขอนแก่น",
+      "areas_detail": "บ้านฝาง: : : , อุบลรัตน์: : : , เขาสวนกวาง: : : , เมืองขอนแก่น: สาวะถี,สำราญ,โนนท่อน,บ้านค้อ: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 51,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 5,
+      "area_count": 4,
+      "amphoes": "ภูเวียง, สีชมพู, หนองนาคำ, เวียงเก่า",
+      "areas_detail": "ภูเวียง: : : , สีชมพู: : ภูห่าน,ซำยาง,นาจาน,หนองแดง: , หนองนาคำ: : : , เวียงเก่า: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 52,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 6,
+      "area_count": 3,
+      "amphoes": "ชุมแพ, ภูผาม่าน, สีชมพู",
+      "areas_detail": "ชุมแพ: : : , ภูผาม่าน: : : , สีชมพู: ภูห่าน,ซำยาง,นาจาน,หนองแดง: : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 53,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 7,
+      "area_count": 2,
+      "amphoes": "มัญจาคีรี, หนองเรือ",
+      "areas_detail": "มัญจาคีรี: : : , หนองเรือ: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 54,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 8,
+      "area_count": 4,
+      "amphoes": "พล, แวงน้อย, แวงใหญ่, โคกโพธิ์ไชย",
+      "areas_detail": "พล: : : , แวงน้อย: : : , แวงใหญ่: : : , โคกโพธิ์ไชย: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 55,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 9,
+      "area_count": 4,
+      "amphoes": "ชนบท, หนองสองห้อง, เปือยน้อย, โนนศิลา",
+      "areas_detail": "ชนบท: : : , หนองสองห้อง: : : , เปือยน้อย: : : , โนนศิลา: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    },
+    {
+      "zone_id": 56,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "province_slug": "khon-kaen",
+      "zone_number": 10,
+      "area_count": 3,
+      "amphoes": "บ้านแฮด, บ้านไผ่, พระยืน",
+      "areas_detail": "บ้านแฮด: : : , บ้านไผ่: : : , พระยืน: : : ",
+      "area_prefix_th": "อำเภอ",
+      "sub_area_prefix_th": "ตำบล"
+    }
+  ],
+  "meta": {
+    "title": "เขตเลือกตั้ง ส.ส. จังหวัดขอนแก่น 2562 (Khon Kaen 2019 Election Constituencies) - ดาวน์โหลดฟรี",
+    "description": "รายการเขตเลือกตั้งสมาชิกสภาผู้แทนราษฎรในจังหวัดขอนแก่น ในการเลือกตั้งทั่วไป 2562 จำนวน 10 เขต พร้อมอำเภอที่ครอบคลุม (Single-member-district MP constituencies in Khon Kaen province during the Thailand 24-March-2019 general election. 10 zones total. Each record lists the อำเภอ (or เขต in Bangkok) and sub-district detail covered by each zone.) มีทั้งหมด 10 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เขตเลือกตั้ง ส.ส. จังหวัดขอนแก่น 2562 (Khon Kaen 2019 Election Constituencies) | ListBase",
+    "seo_description": "ดาวน์โหลด เขตเลือกตั้ง ส.ส. จังหวัดขอนแก่น 2562 (Khon Kaen 2019 Election Constituencies) — 10 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 10 รายการ / 10 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

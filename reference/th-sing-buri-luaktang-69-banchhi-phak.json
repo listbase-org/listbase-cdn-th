@@ -1,0 +1,512 @@
+{
+  "id": "th-sing-buri-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สิงห์บุรี (Sing Buri party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สิงห์บุรี (Sing Buri party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสิงห์บุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 308
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1357
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1033
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 604
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 4215
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2774
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 130
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 551
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 13590
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 692
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 4379
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 580
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 589
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 318
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 148
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 226
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 187
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 41
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 41
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 56
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 45
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 80
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 127
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 80
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 4553
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 134
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 882
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 125
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 175
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 181
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 433
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 481
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 10196
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 342
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 25435
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 232
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 82
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 70
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 200
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 307
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 116
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 139
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 36568
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 353
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 419
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 304
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 78
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 174
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 64
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 44
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 62
+    },
+    {
+      "changwat_code": "17",
+      "changwat": "สิงห์บุรี",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 124
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สิงห์บุรี (Sing Buri party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสิงห์บุรี. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 57 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สิงห์บุรี (Sing Buri party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สิงห์บุรี (Sing Buri party-list ballots) — 57 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 57 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

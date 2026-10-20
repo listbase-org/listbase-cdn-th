@@ -1,0 +1,84 @@
+{
+  "id": "th-political-party-abbreviations",
+  "name": "ตัวย่อพรรคการเมืองไทย (Thai Political Party Abbreviations)",
+  "title": "ตัวย่อพรรคการเมืองไทย (Thai Political Party Abbreviations)",
+  "description": "รายการตัวย่อภาษาอังกฤษของพรรคการเมืองหลัก 12 พรรค (เช่น พรรคประชาธิปัตย์ → dmc, พรรคเพื่อไทย → ptp) (Maps 12 major Thai political-party Thai names to their 3-letter English abbreviations as used in the ELECT 2019 dataset URLs/IDs. Examples: ประชาธิปัตย์ → dmc, เพื่อไทย → ptp, ภูมิใจไทย → bjt, อนาคตใหม่ → fwp, พลังประชารัฐ → pcr.)",
+  "category": "reference",
+  "source": "https://github.com/electinth/dataset-election-62-candidates",
+  "source_url": "https://github.com/electinth/dataset-election-62-candidates",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation_en",
+      "label": "Abbreviation En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_th": "ชาติพัฒนา",
+      "abbreviation_en": "cpp"
+    },
+    {
+      "name_th": "ชาติไทยพัฒนา",
+      "abbreviation_en": "ctp"
+    },
+    {
+      "name_th": "ประชาธิปัตย์",
+      "abbreviation_en": "dmc"
+    },
+    {
+      "name_th": "พลังชล",
+      "abbreviation_en": "plc"
+    },
+    {
+      "name_th": "พลังประชารัฐ",
+      "abbreviation_en": "pcr"
+    },
+    {
+      "name_th": "ภูมิใจไทย",
+      "abbreviation_en": "bjt"
+    },
+    {
+      "name_th": "รวมพลังประชาชาติไทย",
+      "abbreviation_en": "act"
+    },
+    {
+      "name_th": "สามัญชน",
+      "abbreviation_en": "cmp"
+    },
+    {
+      "name_th": "อนาคตใหม่",
+      "abbreviation_en": "fwp"
+    },
+    {
+      "name_th": "เพื่อไทย",
+      "abbreviation_en": "ptp"
+    },
+    {
+      "name_th": "เสรีรวมไทย",
+      "abbreviation_en": "tlp"
+    },
+    {
+      "name_th": "ไทษรักษาชาติ",
+      "abbreviation_en": "tsn"
+    }
+  ],
+  "meta": {
+    "title": "ตัวย่อพรรคการเมืองไทย (Thai Political Party Abbreviations) - ดาวน์โหลดฟรี",
+    "description": "รายการตัวย่อภาษาอังกฤษของพรรคการเมืองหลัก 12 พรรค (เช่น พรรคประชาธิปัตย์ → dmc, พรรคเพื่อไทย → ptp) (Maps 12 major Thai political-party Thai names to their 3-letter English abbreviations as used in the ELECT 2019 dataset URLs/IDs. Examples: ประชาธิปัตย์ → dmc, เพื่อไทย → ptp, ภูมิใจไทย → bjt, อนาคตใหม่ → fwp, พลังประชารัฐ → pcr.) มีทั้งหมด 12 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ตัวย่อพรรคการเมืองไทย (Thai Political Party Abbreviations) | ListBase",
+    "seo_description": "ดาวน์โหลด ตัวย่อพรรคการเมืองไทย (Thai Political Party Abbreviations) — 12 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 12 รายการ / 2 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/electinth/dataset-election-62-candidates"
+    ]
+  }
+}

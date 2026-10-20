@@ -1,0 +1,264 @@
+{
+  "id": "th-bangkok-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดกรุงเทพมหานคร (Bangkok Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดกรุงเทพมหานคร (Bangkok Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดกรุงเทพมหานคร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Bangkok province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 10100,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1008: ป้อมปราบศัตรูพ่าย: Pom Prap Sattruphai, 1013: สัมพันธวงศ์: Samphanthawong",
+      "subdistricts": "100801: ป้อมปราบ: Pom Prap: 1008, 100802: วัดเทพศิรินทร์: Wat Thep Sirin: 1008, 100803: คลองมหานาค: Khlong Maha Nak: 1008, 100804: บ้านบาตร: Ban Bat: 1008, 100805: วัดโสมนัส: Wat Sommanat: 1008, 101301: จักรวรรดิ: Chakkrawat: 1013, 101302: สัมพันธวงศ์: Samphanthawong: 1013, 101303: ตลาดน้อย: Talat Noi: 1013"
+    },
+    {
+      "postal_code": 10110,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1033: คลองเตย: Khlong Toei, 1039: วัฒนา: Watthana",
+      "subdistricts": "103301: คลองเตย: Khlong Toei: 1033, 103302: คลองตัน: Khlong Tan: 1033, 103303: พระโขนง: Phra Khanong: 1033, 103901: คลองเตยเหนือ: Khlong Toei Nuea: 1039, 103902: คลองตันเหนือ: Khlong Tan Nuea: 1039, 103903: พระโขนงเหนือ: Phra Khanong Nuea: 1039"
+    },
+    {
+      "postal_code": 10120,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1012: ยานนาวา: Yannawa, 1028: สาทร: Sathon, 1031: บางคอแหลม: Bang Kho Laem",
+      "subdistricts": "101203: ช่องนนทรี: Chong Nonsi: 1012, 101204: บางโพงพาง: Bang Phongphang: 1012, 102801: ทุ่งวัดดอน: Thung Wat Don: 1028, 102802: ยานนาวา: Yan Nawa: 1028, 102803: ทุ่งมหาเมฆ: Thung Maha Mek: 1028, 103101: บางคอแหลม: Bang Kho Laem: 1031, 103102: วัดพระยาไกร: Wat Phraya Krai: 1031, 103103: บางโคล่: Bang Khlo: 1031"
+    },
+    {
+      "postal_code": 10140,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1024: ราษฎร์บูรณะ: Rat Burana, 1049: ทุ่งครุ: Thung Khu",
+      "subdistricts": "102401: ราษฎร์บูรณะ: Rat Burana: 1024, 102402: บางปะกอก: Bang Pa Kok: 1024, 104901: บางมด: Bang Mot: 1049, 104902: ทุ่งครุ: Thung Khru: 1049"
+    },
+    {
+      "postal_code": 10150,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1021: บางขุนเทียน: Bang Khun Thian, 1035: จอมทอง: Chom Thong, 1050: บางบอน: Bang Bon",
+      "subdistricts": "102105: ท่าข้าม: Tha Kham: 1021, 102107: แสมดำ: Samae Dam: 1021, 103501: บางขุนเทียน: Bang Khun Thian: 1035, 103502: บางค้อ: Bang Kho: 1035, 103503: บางมด: Bang Mot: 1035, 103504: จอมทอง: Chom Thong: 1035, 105002: บางบอนเหนือ: Bang Bon Nuea: 1050, 105003: บางบอนใต้: Bang Bon Tai: 1050, 105004: คลองบางพราน: Khlong Bang Phran: 1050, 105005: คลองบางบอน: Khlong Bang Bon: 1050"
+    },
+    {
+      "postal_code": 10160,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1022: ภาษีเจริญ: Phasi Charoen, 1023: หนองแขม: Nong Khaem, 1040: บางแค: Bang Khae",
+      "subdistricts": "102201: บางหว้า: Bang Wa: 1022, 102202: บางด้วน: Bang Duan: 1022, 102206: บางจาก: Bang Chak: 1022, 102207: บางแวก: Bang Waek: 1022, 102208: คลองขวาง: Khlong Khwang: 1022, 102209: ปากคลองภาษีเจริญ: Pak Khlong Phasi Charoen: 1022, 102210: คูหาสวรรค์: Khuha Sawan: 1022, 102302: หนองแขม: Nong Khaem: 1023, 102303: หนองค้างพลู: Nong Khang Phlu: 1023, 104001: บางแค: Bang Khae: 1040, 104002: บางแคเหนือ: Bang Khae Nuea: 1040, 104003: บางไผ่: Bang Phai: 1040, 104004: หลักสอง: Lak Song: 1040"
+    },
+    {
+      "postal_code": 10170,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1019: ตลิ่งชัน: Taling Chan, 1048: ทวีวัฒนา: Thawi Watthana",
+      "subdistricts": "101901: คลองชักพระ: Khlong Chak Phra: 1019, 101902: ตลิ่งชัน: Taling Chan: 1019, 101903: ฉิมพลี: Chimphli: 1019, 101904: บางพรม: Bang Phrom: 1019, 101905: บางระมาด: Bang Ramat: 1019, 101907: บางเชือกหนัง: Bang Chueak Nang: 1019, 104801: ทวีวัฒนา: Thawi Watthana : 1048, 104802: ศาลาธรรมสพน์: Sala Thammasop: 1048"
+    },
+    {
+      "postal_code": 10200,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1001: พระนคร: Phra Nakhon",
+      "subdistricts": "100101: พระบรมมหาราชวัง: Phra Borom Maha Ratchawang: 1001, 100102: วังบูรพาภิรมย์: Wang Burapha Phirom: 1001, 100103: วัดราชบพิธ: Wat Ratchabophit: 1001, 100104: สำราญราษฎร์: Samran Rat: 1001, 100105: ศาลเจ้าพ่อเสือ: San Chaopho Suea: 1001, 100106: เสาชิงช้า: Sao Chingcha: 1001, 100107: บวรนิเวศ: Bowon Niwet: 1001, 100108: ตลาดยอด: Talat Yot: 1001, 100109: ชนะสงคราม: Chana Songkhram: 1001, 100110: บ้านพานถม: Ban Phan Thom: 1001, 100111: บางขุนพรหม: Bang Khun Phrom: 1001, 100112: วัดสามพระยา: Wat Sam Phraya: 1001"
+    },
+    {
+      "postal_code": 10210,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1036: ดอนเมือง: Don Mueang, 1041: หลักสี่: Lak Si",
+      "subdistricts": "103602: สีกัน: Si Kan: 1036, 103604: ดอนเมือง: Don Mueang: 1036, 103605: สนามบิน: Sanambin: 1036, 104101: ทุ่งสองห้อง: Thung Song Hong: 1041, 104102: ตลาดบางเขน: Talat Bang Khen: 1041"
+    },
+    {
+      "postal_code": 10220,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1005: บางเขน: Bang Khen, 1042: สายไหม: Sai Mai",
+      "subdistricts": "100502: อนุสาวรีย์: Anusawari: 1005, 100508: ท่าแร้ง: Tha Raeng: 1005, 104201: สายไหม: Sai Mai: 1042, 104202: ออเงิน: O Ngoen: 1042, 104203: คลองถนน: Khlong Thanon: 1042"
+    },
+    {
+      "postal_code": 10230,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1038: ลาดพร้าว: Lat Phrao, 1043: คันนายาว: Khanna Yao",
+      "subdistricts": "103801: ลาดพร้าว: Lat Phrao: 1038, 103802: จรเข้บัว: Chorakhe Bua: 1038, 104301: คันนายาว: Khan Na Yao: 1043, 104302: รามอินทรา: Ram Inthra: 1043"
+    },
+    {
+      "postal_code": 10240,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1006: บางกะปิ: Bang Kapi, 1027: บึงกุ่ม: Bung Kum, 1044: สะพานสูง: Saphan Sung",
+      "subdistricts": "100601: คลองจั่น: Khlong Chan: 1006, 100608: หัวหมาก: Hua Mak: 1006, 102701: คลองกุ่ม: Khlong Kum: 1027, 102704: นวมินทร์: Nawamin: 1027, 102705: นวลจันทร์: Nuan Chan: 1027, 104401: สะพานสูง: Saphan Sung: 1044, 104402: ราษฎร์พัฒนา: Rat Phatthana: 1044"
+    },
+    {
+      "postal_code": 10250,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1032: ประเวศ: Prawet, 1034: สวนหลวง: Suan Luang, 1044: สะพานสูง: Saphan Sung",
+      "subdistricts": "103201: ประเวศ: Prawet: 1032, 103202: หนองบอน: Nong Bon: 1032, 103203: ดอกไม้: Dok Mai: 1032, 103401: สวนหลวง: Suan Luang: 1034, 103402: อ่อนนุช: On Nut: 1034, 103403: พัฒนาการ: Phatthanakan: 1034, 104403: ทับช้าง: Thap Chang: 1044"
+    },
+    {
+      "postal_code": 10260,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1009: พระโขนง: Phra Khanong, 1047: บางนา: Bang Na",
+      "subdistricts": "100905: บางจาก: Bang Chak: 1009, 100910: พระโขนงใต้: Phra Khanong Tai: 1009, 104702: บางนาเหนือ: Bang Na Nuea: 1047, 104703: บางนาใต้: Bang Na Tai: 1047"
+    },
+    {
+      "postal_code": 10300,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1002: ดุสิต: Dusit",
+      "subdistricts": "100201: ดุสิต: Dusit: 1002, 100202: วชิรพยาบาล: Wachira Phayaban: 1002, 100203: สวนจิตรลดา: Suan Chit Lada: 1002, 100204: สี่แยกมหานาค: Si Yaek Maha Nak: 1002, 100206: ถนนนครไชยศรี: Thanon Nakhon Chai Si: 1002"
+    },
+    {
+      "postal_code": 10310,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1017: ห้วยขวาง: Huai Khwang, 1045: วังทองหลาง: Wang Thong Lang",
+      "subdistricts": "101701: ห้วยขวาง: Huai Khwang: 1017, 101702: บางกะปิ: Bang Kapi: 1017, 101704: สามเสนนอก: Sam Sen Nok: 1017, 104501: วังทองหลาง: Wang Thonglang: 1045, 104502: สะพานสอง: Saphan Song: 1045, 104503: คลองเจ้าคุณสิงห์: Khlong Chaokhun Sing: 1045, 104504: พลับพลา: Phlapphla: 1045"
+    },
+    {
+      "postal_code": 10330,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1007: ปทุมวัน: Pathum Wan",
+      "subdistricts": "100701: รองเมือง: Rong Mueang: 1007, 100702: วังใหม่: Wang Mai: 1007, 100703: ปทุมวัน: Pathum Wan: 1007, 100704: ลุมพินี: Lumphini: 1007"
+    },
+    {
+      "postal_code": 10400,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1014: พญาไท: Phaya Thai, 1026: ดินแดง: Din Daeng, 1037: ราชเทวี: Rat Thewi",
+      "subdistricts": "101401: สามเสนใน: Sam Sen Nai: 1014, 101406: พญาไท: Phaya Thai: 1014, 102601: ดินแดง: Din Daeng: 1026, 102602: รัชดาภิเษก: Ratchadaphisek: 1026, 103701: ทุ่งพญาไท: Thung Phaya Thai: 1037, 103702: ถนนพญาไท: Thanon Phaya Thai: 1037, 103703: ถนนเพชรบุรี: Thanon Phetchaburi: 1037, 103704: มักกะสัน: Makkasan: 1037"
+    },
+    {
+      "postal_code": 10500,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1004: บางรัก: Bang Rak",
+      "subdistricts": "100401: มหาพฤฒาราม: Maha Phruettharam: 1004, 100402: สีลม: Si Lom: 1004, 100403: สุริยวงศ์: Suriyawong: 1004, 100404: บางรัก: Bang Rak: 1004, 100405: สี่พระยา: Si Phraya: 1004"
+    },
+    {
+      "postal_code": 10510,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1010: มีนบุรี: Min Buri, 1046: คลองสามวา: Khlong Sam Wa",
+      "subdistricts": "101001: มีนบุรี: Min Buri: 1010, 101002: แสนแสบ: Saen Saep: 1010, 104601: สามวาตะวันตก: Sam Wa Tawan Tok: 1046, 104602: สามวาตะวันออก: Sam Wa Tawan Ok: 1046, 104603: บางชัน: Bang Chan: 1046, 104604: ทรายกองดิน: Sai Kong Din: 1046, 104605: ทรายกองดินใต้: Sai Kong Din Tai: 1046"
+    },
+    {
+      "postal_code": 10520,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1011: ลาดกระบัง: Lat Krabang",
+      "subdistricts": "101101: ลาดกระบัง: Lat Krabang: 1011, 101102: คลองสองต้นนุ่น: Khlong Song Ton Nun: 1011, 101103: คลองสามประเวศ: Khlong Sam Prawet: 1011, 101104: ลำปลาทิว: Lam Pla Thio: 1011, 101105: ทับยาว: Thap Yao: 1011, 101106: ขุมทอง: Khum Thong: 1011"
+    },
+    {
+      "postal_code": 10530,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1003: หนองจอก: Nong Chok",
+      "subdistricts": "100301: กระทุ่มราย: Krathum Rai: 1003, 100302: หนองจอก: Nong Chok: 1003, 100303: คลองสิบ: Khlong Sip: 1003, 100304: คลองสิบสอง: Khlong Sip Song: 1003, 100305: โคกแฝด: Khok Faet: 1003, 100306: คู้ฝั่งเหนือ: Khu Fang Nuea: 1003, 100307: ลำผักชี: Lam Phak Chi: 1003, 100308: ลำต้อยติ่ง: Lam Toiting: 1003"
+    },
+    {
+      "postal_code": 10600,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1015: ธนบุรี: Thon Buri, 1016: บางกอกใหญ่: Bangkok Yai, 1018: คลองสาน: Khlong San",
+      "subdistricts": "101501: วัดกัลยาณ์: Wat Kanlaya: 1015, 101502: หิรัญรูจี: Hiran Ruchi: 1015, 101503: บางยี่เรือ: Bang Yi Ruea: 1015, 101504: บุคคโล: Bukkhalo: 1015, 101505: ตลาดพลู: Talat Phlu: 1015, 101506: ดาวคะนอง: Dao Khanong: 1015, 101507: สำเหร่: Samre: 1015, 101601: วัดอรุณ: Wat Arun: 1016, 101602: วัดท่าพระ: Wat Tha Phra: 1016, 101801: สมเด็จเจ้าพระยา: Somdet Chao Phraya: 1018, 101802: คลองสาน: Khlong San: 1018, 101803: บางลำภูล่าง: Bang Lamphu Lang: 1018, 101804: คลองต้นไทร: Khlong Ton Sai: 1018"
+    },
+    {
+      "postal_code": 10700,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1020: บางกอกน้อย: Bangkok Noi, 1025: บางพลัด: Bang Phlat",
+      "subdistricts": "102004: ศิริราช: Sirirat: 1020, 102005: บ้านช่างหล่อ: Ban Chang Lo: 1020, 102006: บางขุนนนท์: Bang Khun Non: 1020, 102007: บางขุนศรี: Bang Khun Si: 1020, 102009: อรุณอมรินทร์: Arun Ammarin: 1020, 102501: บางพลัด: Bang Phlat: 1025, 102502: บางอ้อ: Bang O: 1025, 102503: บางบำหรุ: Bang Bamru: 1025, 102504: บางยี่ขัน: Bang Yi Khan: 1025"
+    },
+    {
+      "postal_code": 10800,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1029: บางซื่อ: Bang Su",
+      "subdistricts": "102901: บางซื่อ: Bang Sue: 1029, 102902: วงศ์สว่าง: Wong Sawang: 1029"
+    },
+    {
+      "postal_code": 10900,
+      "province_code": 10,
+      "province_name_th": "กรุงเทพมหานคร",
+      "province_name_en": "Bangkok",
+      "districts": "1030: จตุจักร: Chatuchak",
+      "subdistricts": "103001: ลาดยาว: Lat Yao: 1030, 103002: เสนานิคม: Sena Nikhom: 1030, 103003: จันทรเกษม: Chan Kasem: 1030, 103004: จอมพล: Chom Phon: 1030, 103005: จตุจักร: Chatuchak: 1030"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดกรุงเทพมหานคร (Bangkok Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดกรุงเทพมหานคร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Bangkok province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 26 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดกรุงเทพมหานคร (Bangkok Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดกรุงเทพมหานคร (Bangkok Postal Codes) — 26 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 26 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

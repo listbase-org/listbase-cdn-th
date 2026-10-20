@@ -1,0 +1,112 @@
+{
+  "id": "th-eastern-provinces",
+  "name": "ภาคตะวันออก — จังหวัดในภาคตะวันออก (Eastern Provinces of Thailand)",
+  "title": "ภาคตะวันออก — จังหวัดในภาคตะวันออก (Eastern Provinces of Thailand)",
+  "description": "Provinces (จังหวัด) located in Eastern Thailand (ภาคตะวันออก). Coastal region including Chonburi, Rayong, and the Gulf of Thailand.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "province_id",
+      "label": "Province Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_th",
+      "label": "Region Th",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province_id": 11,
+      "name_th": "ชลบุรี",
+      "name_en": "Chon Buri",
+      "region_id": 5,
+      "region_th": "ภาคตะวันออก",
+      "region_en": "Eastern"
+    },
+    {
+      "province_id": 12,
+      "name_th": "ระยอง",
+      "name_en": "Rayong",
+      "region_id": 5,
+      "region_th": "ภาคตะวันออก",
+      "region_en": "Eastern"
+    },
+    {
+      "province_id": 13,
+      "name_th": "จันทบุรี",
+      "name_en": "Chanthaburi",
+      "region_id": 5,
+      "region_th": "ภาคตะวันออก",
+      "region_en": "Eastern"
+    },
+    {
+      "province_id": 14,
+      "name_th": "ตราด",
+      "name_en": "Trat",
+      "region_id": 5,
+      "region_th": "ภาคตะวันออก",
+      "region_en": "Eastern"
+    },
+    {
+      "province_id": 15,
+      "name_th": "ฉะเชิงเทรา",
+      "name_en": "Chachoengsao",
+      "region_id": 5,
+      "region_th": "ภาคตะวันออก",
+      "region_en": "Eastern"
+    },
+    {
+      "province_id": 16,
+      "name_th": "ปราจีนบุรี",
+      "name_en": "Prachin Buri",
+      "region_id": 5,
+      "region_th": "ภาคตะวันออก",
+      "region_en": "Eastern"
+    },
+    {
+      "province_id": 18,
+      "name_th": "สระแก้ว",
+      "name_en": "Sa Kaeo",
+      "region_id": 5,
+      "region_th": "ภาคตะวันออก",
+      "region_en": "Eastern"
+    }
+  ],
+  "meta": {
+    "title": "ภาคตะวันออก — จังหวัดในภาคตะวันออก (Eastern Provinces of Thailand) - ดาวน์โหลดฟรี",
+    "description": "Provinces (จังหวัด) located in Eastern Thailand (ภาคตะวันออก). Coastal region including Chonburi, Rayong, and the Gulf of Thailand. มีทั้งหมด 7 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาคตะวันออก — จังหวัดในภาคตะวันออก (Eastern Provinces of Thailand) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาคตะวันออก — จังหวัดในภาคตะวันออก (Eastern Provinces of Thailand) — 7 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 7 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

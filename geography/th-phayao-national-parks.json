@@ -1,0 +1,151 @@
+{
+  "id": "th-phayao-national-parks",
+  "name": "พะเยา — อุทยานแห่งชาติในจังหวัดพะเยา (National Parks in Phayao Province)",
+  "title": "พะเยา — อุทยานแห่งชาติในจังหวัดพะเยา (National Parks in Phayao Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดพะเยา (Phayao). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Phayao appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-phayao-...' joins to th-phayao-postal-codes / th-provinces (province_code 56).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 11,
+      "name_th": "อุทยานแห่งชาติดอยหลวง",
+      "name_en": "Doi Luang National Park",
+      "name_th_short": "ดอยหลวง",
+      "name_en_short": "Doi Luang",
+      "lat": 19.2,
+      "lon": 99.71,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Chiang Rai: เชียงราย: Chiang Rai: chiang-rai: 57, Lampang: ลำปาง: Lampang: lampang: 52, Phayao: พะเยา: Phayao: phayao: 56",
+      "province_count": 3
+    },
+    {
+      "park_id": 18,
+      "name_th": "อุทยานแห่งชาติดอยภูนาง",
+      "name_en": "Doi Phu Nang National Park",
+      "name_th_short": "ดอยภูนาง",
+      "name_en_short": "Doi Phu Nang",
+      "lat": 19,
+      "lon": 100.16,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Phayao: พะเยา: Phayao: phayao: 56",
+      "province_count": 1
+    },
+    {
+      "park_id": 19,
+      "name_th": "อุทยานแห่งชาติแม่ปืม",
+      "name_en": "Mae Puem National Park",
+      "name_th_short": "แม่ปืม",
+      "name_en_short": "Mae Puem",
+      "lat": 19.35,
+      "lon": 99.88,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Phayao: พะเยา: Phayao: phayao: 56, Chiang Rai: เชียงราย: Chiang Rai: chiang-rai: 57",
+      "province_count": 2
+    },
+    {
+      "park_id": 20,
+      "name_th": "อุทยานแห่งชาติภูซาง",
+      "name_en": "Phu Sang National Park",
+      "name_th_short": "ภูซาง",
+      "name_en_short": "Phu Sang",
+      "lat": 19.53,
+      "lon": 100.45,
+      "wiki_region": "North",
+      "wiki_region_slug": "north",
+      "wiki_region_th": "ภาคเหนือ",
+      "wiki_region_en": "North",
+      "provinces": "Phayao: พะเยา: Phayao: phayao: 56, Chiang Rai: เชียงราย: Chiang Rai: chiang-rai: 57",
+      "province_count": 2
+    }
+  ],
+  "meta": {
+    "title": "พะเยา — อุทยานแห่งชาติในจังหวัดพะเยา (National Parks in Phayao Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดพะเยา (Phayao). 4 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Phayao appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-phayao-...' joins to th-phayao-postal-codes / th-provinces (province_code 56). มีทั้งหมด 4 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "พะเยา — อุทยานแห่งชาติในจังหวัดพะเยา (National Parks in Phayao Province) | ListBase",
+    "seo_description": "ดาวน์โหลด พะเยา — อุทยานแห่งชาติในจังหวัดพะเยา (National Parks in Phayao Province) — 4 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 4 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

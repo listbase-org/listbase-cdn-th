@@ -1,0 +1,160 @@
+{
+  "id": "th-phichit-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดพิจิตร (Phichit Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดพิจิตร (Phichit Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดพิจิตร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phichit province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 66000,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6601: เมืองพิจิตร: Mueang Phichit",
+      "subdistricts": "660101: ในเมือง: Nai Mueang: 6601, 660102: ไผ่ขวาง: Phai Khwang: 6601, 660103: ย่านยาว: Yan Yao: 6601, 660104: ท่าฬ่อ: Tha Lo: 6601, 660105: ปากทาง: Pak Thang: 6601, 660106: คลองคะเชนทร์: Khlong Khachen: 6601, 660107: โรงช้าง: Rong Chang: 6601, 660108: เมืองเก่า: Mueang Kao: 6601, 660109: ท่าหลวง: Tha Luang: 6601, 660110: บ้านบุ่ง: Ban Bung: 6601, 660111: ฆะมัง: Kha Mang: 6601, 660115: ป่ามะคาบ: Pa Makhap: 6601, 660119: สายคำโห้: Sai Kham Ho: 6601"
+    },
+    {
+      "postal_code": 66110,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6604: ตะพานหิน: Taphan Hin",
+      "subdistricts": "660401: ตะพานหิน: Taphan Hin: 6604, 660402: งิ้วราย: Ngio Rai: 6604, 660403: ห้วยเกตุ: Huai Ket: 6604, 660404: ไทรโรงโขน: Sai Rong Khon: 6604, 660405: หนองพยอม: Nong Phayom: 6604, 660407: ดงตะขบ: Dong Takhop: 6604, 660408: คลองคูณ: Khlong Khun: 6604, 660409: วังสำโรง: Wang Samrong: 6604, 660410: วังหว้า: Wang Wa: 6604, 660412: ทับหมัน: Thap Man: 6604, 660413: ไผ่หลวง: Phai Luang: 6604"
+    },
+    {
+      "postal_code": 66120,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6605: บางมูลนาก: Bang Mun Nak",
+      "subdistricts": "660501: บางมูลนาก: Bang Mun Nak: 6605, 660502: บางไผ่: Bang Phai: 6605, 660503: หอไกร: Ho Krai: 6605, 660504: เนินมะกอก: Noen Makok: 6605, 660505: วังสำโรง: Wang Samrong: 6605, 660506: ภูมิ: Phum: 6605, 660507: วังกรด: Wang Krot: 6605, 660508: ห้วยเขน: Huai Khen: 6605, 660514: ลำประดา: Lam Prada: 6605"
+    },
+    {
+      "postal_code": 66130,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6606: โพทะเล: Pho Thale, 6610: บึงนาราง: Bueng Na Rang",
+      "subdistricts": "660601: โพทะเล: Pho Thale: 6606, 660602: ท้ายน้ำ: Thai Nam: 6606, 660603: ทะนง: Tha Nong: 6606, 660604: ท่าบัว: Tha Bua: 6606, 660605: ทุ่งน้อย: Thung Noi: 6606, 660606: ท่าขมิ้น: Tha Khamin: 6606, 660607: ท่าเสา: Tha Sao: 6606, 660608: บางคลาน: Bang Khlan: 6606, 660611: ท่านั่ง: Tha Nang: 6606, 660612: บ้านน้อย: Ban Noi: 6606, 660613: วัดขวาง: Wat Khwang: 6606, 661001: ห้วยแก้ว: Huai Kaeo: 6610, 661002: โพธิ์ไทรงาม: Pho Sai Ngam: 6610, 661003: แหลมรัง: Laem Rang: 6610, 661004: บางลาย: Bang Lai: 6610, 661005: บึงนาราง: Bueng Na Rang: 6610"
+    },
+    {
+      "postal_code": 66140,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6607: สามง่าม: Sam Ngam, 6612: วชิรบารมี: Wachirabarami",
+      "subdistricts": "660701: สามง่าม: Sam Ngam: 6607, 660702: กำแพงดิน: Kamphaeng Din: 6607, 660703: รังนก: Rang Nok: 6607, 660706: เนินปอ: Noen Po: 6607, 660707: หนองโสน: Nong Sano: 6607, 661201: บ้านนา: Ban Na: 6612, 661202: บึงบัว: Bueng Bua: 6612, 661203: วังโมกข์: Wang Mok: 6612"
+    },
+    {
+      "postal_code": 66150,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6604: ตะพานหิน: Taphan Hin, 6608: ทับคล้อ: Tap Khlo",
+      "subdistricts": "660406: ทุ่งโพธิ์: Thung Pho: 6604, 660411: วังหลุม: Wang Lum: 6604, 660801: ทับคล้อ: Thap Khlo: 6608, 660804: ท้ายทุ่ง: Thai Thung: 6608"
+    },
+    {
+      "postal_code": 66160,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6609: สากเหล็ก: Sak Lek",
+      "subdistricts": "660901: สากเหล็ก: Sak Lek: 6609, 660902: ท่าเยี่ยม: Tha Yiam: 6609, 660903: คลองทราย: Khlong Sai: 6609, 660904: หนองหญ้าไทร: Nong Ya Sai: 6609, 660905: วังทับไทร: Wang Thap Sai: 6609"
+    },
+    {
+      "postal_code": 66170,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6601: เมืองพิจิตร: Mueang Phichit",
+      "subdistricts": "660112: ดงป่าคำ: Dong Pa Kham: 6601, 660113: หัวดง: Hua Dong: 6601, 660120: ดงกลาง: Dong Klang: 6601"
+    },
+    {
+      "postal_code": 66180,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6602: วังทรายพูน: Wang Sai Phun",
+      "subdistricts": "660201: วังทรายพูน: Wang Sai Phun: 6602, 660202: หนองปลาไหล: Nong Pla Lai: 6602, 660203: หนองพระ: Nong Phra: 6602, 660204: หนองปล้อง: Nong Plong: 6602"
+    },
+    {
+      "postal_code": 66190,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6603: โพธิ์ประทับช้าง: Pho Prathap Chang",
+      "subdistricts": "660301: โพธิ์ประทับช้าง: Pho Prathap Chang: 6603, 660302: ไผ่ท่าโพ: Phai Tha Pho: 6603, 660303: วังจิก: Wang Chik: 6603, 660304: ไผ่รอบ: Phai Rop: 6603, 660305: ดงเสือเหลือง: Dong Suea Lueang: 6603, 660306: เนินสว่าง: Noen Sawang: 6603, 660307: ทุ่งใหญ่: Thung Yai: 6603"
+    },
+    {
+      "postal_code": 66210,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6605: บางมูลนาก: Bang Mun Nak, 6611: ดงเจริญ: Dong Charoen",
+      "subdistricts": "660509: วังตะกู: Wang Taku: 6605, 661101: วังงิ้วใต้: Wang Ngio Tai: 6611, 661102: วังงิ้ว: Wang Ngio: 6611, 661103: ห้วยร่วม: Huai Ruam: 6611, 661104: ห้วยพุก: Huai Phuk: 6611, 661105: สำนักขุนเณร: Samnak Khun Nen: 6611"
+    },
+    {
+      "postal_code": 66220,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6612: วชิรบารมี: Wachirabarami",
+      "subdistricts": "661204: หนองหลุม: Nong Lum: 6612"
+    },
+    {
+      "postal_code": 66230,
+      "province_code": 66,
+      "province_name_th": "พิจิตร",
+      "province_name_en": "Phichit",
+      "districts": "6608: ทับคล้อ: Tap Khlo",
+      "subdistricts": "660802: เขาทราย: Khao Sai: 6608, 660803: เขาเจ็ดลูก: Khao Chet Luk: 6608"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดพิจิตร (Phichit Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดพิจิตร แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Phichit province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 13 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดพิจิตร (Phichit Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดพิจิตร (Phichit Postal Codes) — 13 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 13 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

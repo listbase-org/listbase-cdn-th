@@ -1,0 +1,1880 @@
+{
+  "id": "th-nakhon-phanom-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครพนม (Nakhon Phanom party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครพนม (Nakhon Phanom party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครพนม. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 228,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1841
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1064
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1480
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 94
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 424
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 576
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 90
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 519
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 27029
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 194
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1889
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 417
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 265
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 156
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 97
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 14
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 18
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 24
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 75
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 937
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 79
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 132
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 241
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 322
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 229
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 128
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 192
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 35522
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 549
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 117
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 30
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 95
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 48
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16662
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 194
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 329
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 131
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 8
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 25
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "1",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 606
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3380
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 2200
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 169
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 347
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 913
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 84
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 289
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 37522
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 646
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2432
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 675
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 428
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 153
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 19
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 70
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 1135
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 86
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 299
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 349
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 188
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 131
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 81
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 81
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 90
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 118
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 9098
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 731
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 95
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 139
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 72
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 22526
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 79
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 618
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 224
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 10
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 12
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 30
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 68
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "1",
+      "party": "ใหม่",
+      "votes": 285
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 306
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1790
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 2016
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 696
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2852
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 131
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 416
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 34991
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 330
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 3093
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 631
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 451
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 71
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 293
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 93
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 17
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 41
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 23
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 68
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 877
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 119
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 243
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 99
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 162
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 126
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 202
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 149
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 205
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 155
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13390
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 556
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 52
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 22
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 172
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 119
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 94
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 21388
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 110
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 593
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 133
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 25
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2806
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1742
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1961
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 162
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 486
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 809
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 118
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 420
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 33678
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 335
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 2531
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 703
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 401
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 173
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 18
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 51
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 31
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 91
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 58
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 18
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 902
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 105
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 184
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 290
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 273
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 228
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 141
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 101
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 169
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 20198
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 652
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 90
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 113
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 44
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 130
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 159
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 24
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 92
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17921
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 1393
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 140
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 39
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 46
+    },
+    {
+      "changwat_code": "48",
+      "changwat": "นครพนม",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 48
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครพนม (Nakhon Phanom party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดนครพนม. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 228 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครพนม (Nakhon Phanom party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — นครพนม (Nakhon Phanom party-list ballots) — 228 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 228 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "th-maradok-lok-unesco",
+  "name": "แหล่งมรดกโลกในประเทศไทย",
+  "title": "แหล่งมรดกโลกในประเทศไทย",
+  "description": "รายชื่อแหล่งมรดกโลกของยูเนสโกที่ตั้งอยู่ในประเทศไทย",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Historic City of Ayutthaya",
+      "category": "Cultural",
+      "date_inscribed": 1991,
+      "criteria": "(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Thailand",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 14.34778,
+      "longitude": 100.56056,
+      "short_description": "Founded c. 1350, Ayutthaya became the second Siamese capital after Sukhothai. It was destroyed by the Burmese in the 18th century. Its remains, characterized by the prang (reliquary towers) and gigantic monasteries, give an idea of its past splendour.",
+      "id_number": 576,
+      "url": "https://whc.unesco.org/en/list/576"
+    },
+    {
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "category": "Cultural",
+      "date_inscribed": 1991,
+      "criteria": "(i)(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Thailand",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 17.00722,
+      "longitude": 99.78972,
+      "short_description": "Sukhothai was the capital of the first Kingdom of Siam in the 13th and 14th centuries. It has a number of fine monuments, illustrating the beginnings of Thai architecture. The great civilization which evolved in the Kingdom of Sukhothai absorbed numerous influences and ancient local traditions; the rapid assimilation of all these elements forged what is known as the 'Sukhothai style'.",
+      "id_number": 574,
+      "url": "https://whc.unesco.org/en/list/574"
+    },
+    {
+      "name": "Thungyai-Huai Kha Khaeng Wildlife Sanctuaries",
+      "category": "Natural",
+      "date_inscribed": 1991,
+      "criteria": "(vii)(ix)(x)",
+      "region": "Asia and the Pacific",
+      "states": "Thailand",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 15.33333,
+      "longitude": 98.91667,
+      "short_description": "Stretching over more than 600,000 ha along the Myanmar border, the sanctuaries, which are relatively intact, contain examples of almost all the forest types of continental South-East Asia. They are home to a very diverse array of animals, including 77% of the large mammals (especially elephants and tigers), 50% of the large birds and 33% of the land vertebrates to be found in this region.",
+      "id_number": 591,
+      "url": "https://whc.unesco.org/en/list/591"
+    },
+    {
+      "name": "Ban Chiang Archaeological Site",
+      "category": "Cultural",
+      "date_inscribed": 1992,
+      "criteria": "(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Thailand",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 17.54861,
+      "longitude": 103.35833,
+      "short_description": "Ban Chiang is considered the most important prehistoric settlement so far discovered in South-East Asia. It marks an important stage in human cultural, social and technological evolution. The site presents the earliest evidence of farming in the region and of the manufacture and use of metals.",
+      "id_number": 575,
+      "url": "https://whc.unesco.org/en/list/575"
+    },
+    {
+      "name": "Dong Phayayen-Khao Yai Forest Complex",
+      "category": "Natural",
+      "date_inscribed": 2005,
+      "criteria": "(x)",
+      "region": "Asia and the Pacific",
+      "states": "Thailand",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 14.33,
+      "longitude": 102.05,
+      "short_description": "The Dong Phayayen-Khao Yai Forest Complex spans 230 km between Ta Phraya National Park on the Cambodian border in the east, and Khao Yai National Park in the west. The site is home to more than 800 species of fauna, including 112 mammal species (among them two species of gibbon), 392 bird species and 200 reptile and amphibian species. It is internationally important for the conservation of globally threatened and endangered mammal, bird and reptile species, among them 19 that are vulnerable, four that are endangered, and one that is critically endangered. The area contains substantial and important tropical forest ecosystems, which can provide a viable habitat for the long-term survival of these species.",
+      "id_number": 590,
+      "url": "https://whc.unesco.org/en/list/590"
+    }
+  ],
+  "meta": {
+    "title": "แหล่งมรดกโลกในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "รายชื่อแหล่งมรดกโลกของยูเนสโกที่ตั้งอยู่ในประเทศไทย มีทั้งหมด 5 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "แหล่งมรดกโลกในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด แหล่งมรดกโลกในประเทศไทย — 5 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 5 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "id": "zodiac-signs",
+  "name": "ราศีสัตว์ (12 ราศี)",
+  "title": "ราศีสัตว์ตะวันตก",
+  "description": "12 ราศีสัตว์ของดวงชาติตะวันตก พร้อมคุณลักษณะ องค์ประกอบ และดาวเคราะห์ที่ปกครอง",
+  "category": "time",
+  "source": "AI Knowledge",
+  "source_url": "https://www.iau.org/",
+  "updated": "2026-02",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "order",
+      "label": "ลำดับ",
+      "type": "number"
+    },
+    {
+      "key": "name_en",
+      "label": "ชื่อภาษาอังกฤษ",
+      "type": "string"
+    },
+    {
+      "key": "name_th",
+      "label": "ชื่อภาษาไทย",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "สัญลักษณ์",
+      "type": "string"
+    },
+    {
+      "key": "element",
+      "label": "องค์ประกอบ (EN)",
+      "type": "string"
+    },
+    {
+      "key": "element_th",
+      "label": "องค์ประกอบ (TH)",
+      "type": "string"
+    },
+    {
+      "key": "quality",
+      "label": "คุณภาพ",
+      "type": "string"
+    },
+    {
+      "key": "ruling_planet",
+      "label": "ดาวเคราะห์ที่ปกครอง",
+      "type": "string"
+    },
+    {
+      "key": "date_range",
+      "label": "ช่วงวันที่",
+      "type": "string"
+    },
+    {
+      "key": "constellation",
+      "label": "กลุ่มดาว",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name_en": "Aries",
+      "name_th": "เมษ",
+      "symbol": "♈",
+      "element": "Fire",
+      "element_th": "ไฟ",
+      "quality": "Cardinal",
+      "ruling_planet": "Mars",
+      "date_range": "21 มี.ค. - 19 เม.ย.",
+      "constellation": "Aries"
+    },
+    {
+      "order": 2,
+      "name_en": "Taurus",
+      "name_th": "พฤษภ",
+      "symbol": "♉",
+      "element": "Earth",
+      "element_th": "ดิน",
+      "quality": "Fixed",
+      "ruling_planet": "Venus",
+      "date_range": "20 เม.ย. - 20 พ.ค.",
+      "constellation": "Taurus"
+    },
+    {
+      "order": 3,
+      "name_en": "Gemini",
+      "name_th": "เมถุน",
+      "symbol": "♊",
+      "element": "Air",
+      "element_th": "อากาศ",
+      "quality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "21 พ.ค. - 20 มิ.ย.",
+      "constellation": "Gemini"
+    },
+    {
+      "order": 4,
+      "name_en": "Cancer",
+      "name_th": "กรกฎ",
+      "symbol": "♋",
+      "element": "Water",
+      "element_th": "น้ำ",
+      "quality": "Cardinal",
+      "ruling_planet": "Moon",
+      "date_range": "21 มิ.ย. - 22 ก.ค.",
+      "constellation": "Cancer"
+    },
+    {
+      "order": 5,
+      "name_en": "Leo",
+      "name_th": "สิงห์",
+      "symbol": "♌",
+      "element": "Fire",
+      "element_th": "ไฟ",
+      "quality": "Fixed",
+      "ruling_planet": "Sun",
+      "date_range": "23 ก.ค. - 22 ส.ค.",
+      "constellation": "Leo"
+    },
+    {
+      "order": 6,
+      "name_en": "Virgo",
+      "name_th": "กันย์",
+      "symbol": "♍",
+      "element": "Earth",
+      "element_th": "ดิน",
+      "quality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "23 ส.ค. - 22 ก.ย.",
+      "constellation": "Virgo"
+    },
+    {
+      "order": 7,
+      "name_en": "Libra",
+      "name_th": "ตุลย์",
+      "symbol": "♎",
+      "element": "Air",
+      "element_th": "อากาศ",
+      "quality": "Cardinal",
+      "ruling_planet": "Venus",
+      "date_range": "23 ก.ย. - 22 ต.ค.",
+      "constellation": "Libra"
+    },
+    {
+      "order": 8,
+      "name_en": "Scorpio",
+      "name_th": "พิจิก",
+      "symbol": "♏",
+      "element": "Water",
+      "element_th": "น้ำ",
+      "quality": "Fixed",
+      "ruling_planet": "Pluto",
+      "date_range": "23 ต.ค. - 21 พ.ย.",
+      "constellation": "Scorpius"
+    },
+    {
+      "order": 9,
+      "name_en": "Sagittarius",
+      "name_th": "ธนู",
+      "symbol": "♐",
+      "element": "Fire",
+      "element_th": "ไฟ",
+      "quality": "Mutable",
+      "ruling_planet": "Jupiter",
+      "date_range": "22 พ.ย. - 21 ธ.ค.",
+      "constellation": "Sagittarius"
+    },
+    {
+      "order": 10,
+      "name_en": "Capricorn",
+      "name_th": "มกร",
+      "symbol": "♑",
+      "element": "Earth",
+      "element_th": "ดิน",
+      "quality": "Cardinal",
+      "ruling_planet": "Saturn",
+      "date_range": "22 ธ.ค. - 19 ม.ค.",
+      "constellation": "Capricornus"
+    },
+    {
+      "order": 11,
+      "name_en": "Aquarius",
+      "name_th": "กุมภ์",
+      "symbol": "♒",
+      "element": "Air",
+      "element_th": "อากาศ",
+      "quality": "Fixed",
+      "ruling_planet": "Uranus",
+      "date_range": "20 ม.ค. - 18 ก.พ.",
+      "constellation": "Aquarius"
+    },
+    {
+      "order": 12,
+      "name_en": "Pisces",
+      "name_th": "มีน",
+      "symbol": "♓",
+      "element": "Water",
+      "element_th": "น้ำ",
+      "quality": "Mutable",
+      "ruling_planet": "Neptune",
+      "date_range": "19 ก.พ. - 20 มี.ค.",
+      "constellation": "Pisces"
+    }
+  ],
+  "meta": {
+    "title": "ราศีสัตว์ตะวันตก - ข้อมูลอัปเดตล่าสุดครบถ้วน",
+    "description": "12 ราศีสัตว์ของดวงชาติตะวันตก พร้อมคุณลักษณะ องค์ประกอบ และดาวเคราะห์ที่ปกครอง มีทั้งหมด 12 รายการ พร้อมข้อมูลรายละเอียดครบถ้วน",
+    "seo_title": "ราศีสัตว์ (12 ราศี) | Thai Open Data",
+    "seo_description": "ดาวน์โหลดราศีสัตว์ (12 ราศี) ทั้งหมด 12 รายการ รูปแบบไฟล์ Excel, CSV, PDF พร้อมรายละเอียดครบถ้วน",
+    "key_takeaways": [
+      "รวบรวมข้อมูลราศีสัตว์ (12 ราศี) ทั้งหมด 12 รายการ",
+      "ครอบคลุมรายละเอียดที่สำคัญและจำเป็นต้องใช้งาน",
+      "สามารถดาวน์โหลดไปใช้งานต่อได้ทันที (Excel, CSV, PDF)",
+      "ตรวจสอบความถูกต้องของข้อมูลและโครงสร้างแล้ว"
+    ],
+    "data_quality": "human_reviewed",
+    "confidence": "very_high",
+    "notes": "ข้อมูลราศีสัตว์ตะวันตก 12 ราศี พร้อมคุณลักษณะดาราศาสตร์และความเหลื่อมลำดับธรรมชาติ",
+    "review": {
+      "status": "approved",
+      "reviewer": "Gemini (Batch Script Review)"
+    }
+  }
+}

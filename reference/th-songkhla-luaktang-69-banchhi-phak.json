@@ -1,0 +1,4160 @@
+{
+  "id": "th-songkhla-luaktang-69-banchhi-phak",
+  "name": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สงขลา (Songkhla party-list ballots)",
+  "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สงขลา (Songkhla party-list ballots)",
+  "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสงขลา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 513,
+  "columns": [
+    {
+      "key": "changwat_code",
+      "label": "Changwat Code",
+      "type": "number"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "khet",
+      "label": "Khet",
+      "type": "number"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "2",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 137
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "3",
+      "party": "เพื่อชาติไทย",
+      "votes": 1342
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "4",
+      "party": "ใหม่",
+      "votes": 128
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "5",
+      "party": "มิติใหม่",
+      "votes": 232
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "6",
+      "party": "รวมใจไทย",
+      "votes": 165
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "7",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1773
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "8",
+      "party": "พลวัต",
+      "votes": 70
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "9",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 963
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "10",
+      "party": "เพื่อไทย",
+      "votes": 1528
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "11",
+      "party": "ทางเลือกใหม่",
+      "votes": 390
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "12",
+      "party": "เศรษฐกิจ",
+      "votes": 1499
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "13",
+      "party": "เสรีรวมไทย",
+      "votes": 315
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "14",
+      "party": "รวมพลังประชาชน",
+      "votes": 148
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "15",
+      "party": "ท้องที่ไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "16",
+      "party": "อนาคตไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "17",
+      "party": "พลังเพื่อไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "18",
+      "party": "ไทยชนะ",
+      "votes": 59
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "19",
+      "party": "พลังสังคมใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "20",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "21",
+      "party": "ฟิวชัน",
+      "votes": 18
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "22",
+      "party": "ไทรวมพลัง",
+      "votes": 20
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "24",
+      "party": "ปวงชนไทย",
+      "votes": 50
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "25",
+      "party": "วิชชั่นใหม่",
+      "votes": 86
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "26",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "27",
+      "party": "คลองไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "28",
+      "party": "ประชาธิปัตย์",
+      "votes": 39983
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "29",
+      "party": "ไทยก้าวหน้า",
+      "votes": 74
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "30",
+      "party": "ไทยภักดี",
+      "votes": 1205
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "31",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "32",
+      "party": "ประชากรไทย",
+      "votes": 77
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "33",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 75
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "34",
+      "party": "ประชาชาติ",
+      "votes": 244
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "35",
+      "party": "สร้างอนาคตไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "36",
+      "party": "รักชาติ",
+      "votes": 102
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "37",
+      "party": "ไทยพร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "38",
+      "party": "ภูมิใจไทย",
+      "votes": 15699
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "39",
+      "party": "พลังธรรมใหม่",
+      "votes": 43
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "40",
+      "party": "กรีน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "41",
+      "party": "ไทยธรรม",
+      "votes": 9
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "42",
+      "party": "แผ่นดินธรรม",
+      "votes": 12
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "43",
+      "party": "กล้าธรรม",
+      "votes": 197
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "44",
+      "party": "พลังประชารัฐ",
+      "votes": 98
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "45",
+      "party": "โอกาสใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "46",
+      "party": "เป็นธรรม",
+      "votes": 27
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "47",
+      "party": "ประชาชน",
+      "votes": 22764
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "48",
+      "party": "ประชาไทย",
+      "votes": 115
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "49",
+      "party": "ไทยสร้างไทย",
+      "votes": 88
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "50",
+      "party": "ไทยก้าวใหม่",
+      "votes": 225
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "51",
+      "party": "ประชาอาสาชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "52",
+      "party": "พร้อม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "53",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 8
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "54",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "55",
+      "party": "ความหวังใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "56",
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "57",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 113
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "1",
+      "number": "58",
+      "party": "พลังไทยรักชาติ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 254
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 246
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 395
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 33
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 160
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1692
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 49
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 547
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1618
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 288
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1943
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 232
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 137
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 11
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 22
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 3
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 21
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 10
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 29
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 6
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 29277
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 44
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1222
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 22
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 221
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 27
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 85
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 52
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13093
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 23
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 186
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 25933
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 53
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 123
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 215
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 2
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 4
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 4
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 8
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 40
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "2",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 8
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 162
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 512
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 95
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 73
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 1274
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1808
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 73
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "8",
+      "party": "ประชาธิปไตยไทยใหม่",
+      "votes": 977
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1489
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 394
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1395
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 273
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 175
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 96
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "19",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "20",
+      "party": "ฟิวชั่น",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 25
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 39
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 113
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 48006
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 93
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 1025
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 188
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 130
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 63
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 13851
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 172
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 573
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 162
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 25204
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 93
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 212
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 5
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 34
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 5
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 9
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 16
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 133
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "3",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 38
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 392
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 1624
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "3",
+      "party": "มิติใหม่",
+      "votes": 127
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "4",
+      "party": "รวมใจไทย",
+      "votes": 633
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "5",
+      "party": "ไทยใหม่",
+      "votes": 170
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1143
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 77
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 899
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1186
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 262
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1317
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 226
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 199
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 34
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 118
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 23
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 55
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 43
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 63
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 31
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 225
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 176
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 58115
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 91
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 479
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 67
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 98
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 40
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 163
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 65
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 52
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 7201
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 25
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 49
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 6113
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 115
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 38
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 40
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 13006
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 44
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 80
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 13
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 387
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "4",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 200
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 713
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1693
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 310
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 248
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1032
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 92
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1045
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1244
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 303
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1449
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 281
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 231
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 51
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 37
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 206
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 27
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 102
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 50
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 46
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "23",
+      "party": "ก้าวอิสระ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 104
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 200
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 61655
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 108
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 426
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 109
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 301
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 40
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 43
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 56
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 4766
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3070
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 184
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 16383
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 108
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 26
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 315
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "5",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 52
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 144
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 395
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1275
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 81
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 297
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2308
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 122
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "8",
+      "party": "ประชาธิปไตยไทยใหม่",
+      "votes": 1036
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1693
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 332
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1352
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 226
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 236
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 45
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 74
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 142
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 13
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "19",
+      "party": "สังคมประชาธิปไตย",
+      "votes": 60
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "20",
+      "party": "ฟิวชั่น",
+      "votes": 14
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "21",
+      "party": "ไทยรวมพลัง",
+      "votes": 79
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 19
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 69
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 70
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 207
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 42391
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 105
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 470
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 63
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 104
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 963
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 94
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 94
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 12147
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 73
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 39
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 23
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 2130
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 138
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 25
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 18864
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 134
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 68
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 139
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 4
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 12
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 131
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "6",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 29
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 330
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 2235
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 1684
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 676
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 341
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 850
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 223
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1184
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1214
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 267
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 995
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 177
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 346
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 30
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 48
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 57
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 171
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 49
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 38
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 62
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 152
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 206
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 42
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 242
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 42395
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 123
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 279
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 104
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 179
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 292
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 7139
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 123
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 87
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 139
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 11681
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 66
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 77
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 1488
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 168
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 37
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 42
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "46",
+      "party": "พรรคประชาชน",
+      "votes": 16329
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 132
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 36
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 83
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 22
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 32
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 5
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 26
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 147
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "7",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 51
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1562
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 711
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 2054
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 179
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 570
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 877
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 264
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1278
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1758
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 338
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1375
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 202
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 298
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 39
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 56
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 173
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 82
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 16
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 44
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 33
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 135
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 140
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 75
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 186
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 43026
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 92
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 354
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 120
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 125
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 180
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 3741
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 103
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 89
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 97
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 12023
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 69
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 46
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 20
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 25
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 3427
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 208
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 36
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 100
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 17134
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 215
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 59
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 122
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 19
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 23
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 147
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "8",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 45
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "1",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 141
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "2",
+      "party": "เพื่อชาติไทย",
+      "votes": 934
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "3",
+      "party": "ใหม่",
+      "votes": 832
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "4",
+      "party": "มิติใหม่",
+      "votes": 55
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "5",
+      "party": "รวมใจไทย",
+      "votes": 145
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "6",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1472
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "7",
+      "party": "พลวัต",
+      "votes": 161
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "8",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 906
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "9",
+      "party": "เพื่อไทย",
+      "votes": 1486
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "10",
+      "party": "ทางเลือกใหม่",
+      "votes": 375
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "11",
+      "party": "เศรษฐกิจ",
+      "votes": 1398
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "12",
+      "party": "เสรีรวมไทย",
+      "votes": 243
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "13",
+      "party": "รวมพลังประชาชน",
+      "votes": 177
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "14",
+      "party": "ท้องที่ไทย",
+      "votes": 25
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "15",
+      "party": "อนาคตไทย",
+      "votes": 28
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "16",
+      "party": "พลังเพื่อไทย",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "17",
+      "party": "ไทยชนะ",
+      "votes": 100
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "18",
+      "party": "พลังสังคมใหม่",
+      "votes": 11
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "19",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 78
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "20",
+      "party": "ฟิวชัน",
+      "votes": 24
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "21",
+      "party": "ไทรวมพลัง",
+      "votes": 27
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "22",
+      "party": "ก้าวอิสระ",
+      "votes": 44
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "23",
+      "party": "ปวงชนไทย",
+      "votes": 58
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "24",
+      "party": "วิชชั่นใหม่",
+      "votes": 29
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "25",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 22
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "26",
+      "party": "คลองไทย",
+      "votes": 137
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "27",
+      "party": "ประชาธิปัตย์",
+      "votes": 50913
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "28",
+      "party": "ไทยก้าวหน้า",
+      "votes": 95
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "29",
+      "party": "ไทยภักดี",
+      "votes": 714
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "30",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 36
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "31",
+      "party": "ประชากรไทย",
+      "votes": 73
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "32",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 80
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "33",
+      "party": "ประชาชาติ",
+      "votes": 591
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "34",
+      "party": "สร้างอนาคตไทย",
+      "votes": 41
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "35",
+      "party": "รักชาติ",
+      "votes": 86
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "36",
+      "party": "ไทยพร้อม",
+      "votes": 116
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "37",
+      "party": "ภูมิใจไทย",
+      "votes": 15832
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "38",
+      "party": "พลังธรรมใหม่",
+      "votes": 31
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "39",
+      "party": "กรีน",
+      "votes": 37
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "40",
+      "party": "ไทยธรรม",
+      "votes": 11
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "41",
+      "party": "แผ่นดินธรรม",
+      "votes": 16
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "42",
+      "party": "กล้าธรรม",
+      "votes": 263
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "43",
+      "party": "พลังประชารัฐ",
+      "votes": 71
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "44",
+      "party": "โอกาสใหม่",
+      "votes": 61
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "45",
+      "party": "เป็นธรรม",
+      "votes": 21
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "46",
+      "party": "ประชาชน",
+      "votes": 25550
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "47",
+      "party": "ประชาไทย",
+      "votes": 299
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "48",
+      "party": "ไทยสร้างไทย",
+      "votes": 101
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "49",
+      "party": "ไทยก้าวใหม่",
+      "votes": 189
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "50",
+      "party": "ประชาอาสาชาติ",
+      "votes": 5
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "51",
+      "party": "พร้อม",
+      "votes": 31
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "52",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 5
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "53",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 7
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "54",
+      "party": "ความหวังใหม่",
+      "votes": 4
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "55",
+      "party": "ไทยรวมไทย",
+      "votes": 17
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "56",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 129
+    },
+    {
+      "changwat_code": "90",
+      "changwat": "สงขลา",
+      "khet": "9",
+      "number": "57",
+      "party": "พลังไทยรักชาติ",
+      "votes": 31
+    }
+  ],
+  "meta": {
+    "title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สงขลา (Songkhla party-list ballots) - ดาวน์โหลดฟรี",
+    "description": "คะแนนเลือกตั้งแบบบัญชีรายชื่อ ปี 2569 รายพรรคต่อเขต ในจังหวัดสงขลา. Verbatim per-province subset of th-luaktang-69-banchhi-phak (OCR of ECT results). มีทั้งหมด 513 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สงขลา (Songkhla party-list ballots) | ListBase",
+    "seo_description": "ดาวน์โหลด ผลเลือกตั้ง 2569 บัญชีรายชื่อ — สงขลา (Songkhla party-list ballots) — 513 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 513 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}

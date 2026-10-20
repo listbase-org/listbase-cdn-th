@@ -1,0 +1,248 @@
+{
+  "id": "th-khon-kaen-postal-codes",
+  "name": "รหัสไปรษณีย์จังหวัดขอนแก่น (Khon Kaen Postal Codes)",
+  "title": "รหัสไปรษณีย์จังหวัดขอนแก่น (Khon Kaen Postal Codes)",
+  "description": "รายการรหัสไปรษณีย์ในจังหวัดขอนแก่น แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Khon Kaen province. Each record lists the districts and subdistricts covered by that postal code.)",
+  "category": "reference",
+  "source": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "source_url": "https://github.com/thailand-geography-data/thailand-geography-json",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "number"
+    },
+    {
+      "key": "province_name_th",
+      "label": "Province Name Th",
+      "type": "string"
+    },
+    {
+      "key": "province_name_en",
+      "label": "Province Name En",
+      "type": "string"
+    },
+    {
+      "key": "districts",
+      "label": "Districts",
+      "type": "string"
+    },
+    {
+      "key": "subdistricts",
+      "label": "Subdistricts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": 40000,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4001: เมืองขอนแก่น: Mueang Khon Kaen",
+      "subdistricts": "400101: ในเมือง: Nai Mueang: 4001, 400102: สำราญ: Samran: 4001, 400103: โคกสี: Khok Si: 4001, 400105: บ้านทุ่ม: Ban Thum: 4001, 400106: เมืองเก่า: Mueang Kao: 4001, 400107: พระลับ: Phra Lap: 4001, 400108: สาวะถี: Sawathi: 4001, 400109: บ้านหว้า: Ban Wa: 4001, 400110: บ้านค้อ: Ban Kho: 4001, 400111: แดงใหญ่: Daeng Yai: 4001, 400112: ดอนช้าง: Don Chang: 4001, 400114: ศิลา: Sila: 4001, 400115: บ้านเป็ด: Ban Pet: 4001, 400116: หนองตูม: Nong Tum: 4001, 400117: บึงเนียม: Bueng Niam: 4001, 400118: โนนท่อน: Non Thon: 4001"
+    },
+    {
+      "postal_code": 40110,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4010: บ้านไผ่: Ban Phai, 4024: บ้านแฮด: Ban Haet, 4025: โนนศิลา: Non Sila",
+      "subdistricts": "401001: บ้านไผ่: Ban Phai: 4010, 401002: ในเมือง: Nai Mueang: 4010, 401005: เมืองเพีย: Mueang Phia: 4010, 401009: บ้านลาน: Ban Lan: 4010, 401010: แคนเหนือ: Khaen Nuea: 4010, 401011: ภูเหล็ก: Phu Lek: 4010, 401013: ป่าปอ: Pa Po: 4010, 401014: หินตั้ง: Hin Tang: 4010, 401016: หนองน้ำใส: Nong Nam Sai: 4010, 401017: หัวหนอง: Hua Nong: 4010, 402401: บ้านแฮด: Ban Haet: 4024, 402402: โคกสำราญ: Khok Samran: 4024, 402403: โนนสมบูรณ์: Non Sombun: 4024, 402404: หนองแซง: Nong Saeng: 4024, 402501: โนนศิลา: Non Sila: 4025, 402502: หนองปลาหมอ: Nong Pla Mo: 4025, 402503: บ้านหัน: Ban Han: 4025, 402504: เปือยใหญ่: Pueai Yai: 4025, 402505: โนนแดง: Non Daeng: 4025"
+    },
+    {
+      "postal_code": 40120,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4012: พล: Phon",
+      "subdistricts": "401201: เมืองพล: Mueang Phon: 4012, 401203: โจดหนองแก: Chot Nong Kae: 4012, 401204: เก่างิ้ว: Kao Ngio: 4012, 401205: หนองมะเขือ: Nong Makhuea: 4012, 401206: หนองแวงโสกพระ: Nong Waeng Sok Phra: 4012, 401207: เพ็กใหญ่: Phek Yai: 4012, 401208: โคกสง่า: Khok Sa-Nga: 4012, 401209: หนองแวงนางเบ้า: Nong Waeng Nang Bao: 4012, 401210: ลอมคอม: Lom Khom: 4012, 401211: โนนข่า: Non Kha: 4012, 401212: โสกนกเต็น: Sok Nok Ten: 4012, 401213: หัวทุ่ง: Hua Thung: 4012"
+    },
+    {
+      "postal_code": 40130,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4005: ชุมแพ: Chum Phae",
+      "subdistricts": "400501: ชุมแพ: Chum Phae: 4005, 400504: โนนอุดม: Non Udom: 4005, 400505: ขัวเรียง: Khua Riang: 4005, 400506: หนองไผ่: Nong Phai: 4005, 400507: ไชยสอ: Chai So: 4005, 400508: วังหินลาด: Wang Hin Lat: 4005, 400509: นาเพียง: Na Phiang: 4005, 400511: หนองเสาเล้า: Nong Sao Lao: 4005"
+    },
+    {
+      "postal_code": 40140,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4007: น้ำพอง: Nam Phong, 4029: เวียงเก่า: Wiang Kao",
+      "subdistricts": "400701: น้ำพอง: Nam Phong: 4007, 400702: วังชัย: Wang Chai: 4007, 400703: หนองกุง: Nong Kung: 4007, 400704: บัวใหญ่: Bua Yai: 4007, 400707: บ้านขาม: Ban Kham: 4007, 400708: บัวเงิน: Bua Ngoen: 4007, 400709: ทรายมูล: Sai Mun: 4007, 400710: ท่ากระเสริม: Tha Krasoem: 4007, 400711: พังทุย: Phang Thui: 4007, 400712: กุดน้ำใส: Kut Nam Sai: 4007, 402901: ในเมือง: Nai Mueang: 4029, 402902: เมืองเก่าพัฒนา: Mueang Kao Phatthana: 4029, 402903: เขาน้อย: Khao Noi: 4029"
+    },
+    {
+      "postal_code": 40150,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4016: ภูเวียง: Phu Wiang, 4023: หนองนาคำ: Nong Na Kham",
+      "subdistricts": "401601: บ้านเรือ: Ban Ruea: 4016, 401604: หว้าทอง: Wa Thong: 4016, 401605: กุดขอนแก่น: Kut Khon Kaen: 4016, 401606: นาชุมแสง: Na Chum Saeng: 4016, 401607: นาหว้า: Na Wa: 4016, 401610: หนองกุงธนสาร: Nong Kung Thanasan: 4016, 401612: หนองกุงเซิน: Nong Kung Soen: 4016, 401613: สงเปือย: Song Pueai: 4016, 401614: ทุ่งชมพู: Thung Chomphu: 4016, 401616: ดินดำ: Din Dam: 4016, 401617: ภูเวียง: Phu Wiang: 4016, 402301: กุดธาตุ: Kut That: 4023, 402302: บ้านโคก: Ban Khok: 4023, 402303: ขนวน: Khanuan: 4023"
+    },
+    {
+      "postal_code": 40160,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4017: มัญจาคีรี: Mancha Khiri, 4022: โคกโพธิ์ไชย: Khok Pho Chai",
+      "subdistricts": "401701: กุดเค้า: Kut Khao: 4017, 401702: สวนหม่อน: Suan Mon: 4017, 401703: หนองแปน: Nong Paen: 4017, 401704: โพนเพ็ก: Phon Phek: 4017, 401705: คำแคน: Kham Khaen: 4017, 401706: นาข่า: Nakha: 4017, 401707: นางาม: Na Ngam: 4017, 401710: ท่าศาลา: Tha Sala: 4017, 402201: บ้านโคก: Ban Khok: 4022, 402202: โพธิ์ไชย: Pho Chai: 4022, 402203: ซับสมบูรณ์: Sap Sombun: 4022, 402204: นาแพง: Na Phaeng: 4022"
+    },
+    {
+      "postal_code": 40170,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4009: กระนวน: Kranuan, 4021: ซำสูง: Sam Sung",
+      "subdistricts": "400901: หนองโก: Nong Ko: 4009, 400902: หนองกุงใหญ่: Nong Kung Yai: 4009, 400905: ห้วยโจด: Huai Chot: 4009, 400906: ห้วยยาง: Huai Yang: 4009, 400907: บ้านฝาง: Ban Fang: 4009, 400909: ดูนสาด: Dun Sat: 4009, 400910: หนองโน: Nong No: 4009, 400911: น้ำอ้อม: Nam Om: 4009, 400912: หัวนาคำ: Hua Na Kham: 4009, 402101: กระนวน: Kranuan: 4021, 402102: คำแมด: Kham Maet: 4021, 402103: บ้านโนน: Ban Non: 4021, 402104: คูคำ: Khu Kham: 4021, 402105: ห้วยเตย: Huai Toei: 4021"
+    },
+    {
+      "postal_code": 40180,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4018: ชนบท: Chonnabot",
+      "subdistricts": "401801: ชนบท: Chonnabot: 4018, 401802: กุดเพียขอม: Kut Phia Khom: 4018, 401803: วังแสง: Wang Saeng: 4018, 401804: ห้วยแก: Huai Kae: 4018, 401805: บ้านแท่น: Ban Thaen: 4018, 401806: ศรีบุญเรือง: Si Bunrueang: 4018, 401807: โนนพะยอม: Non Phayom: 4018, 401808: ปอแดง: Po Daeng: 4018"
+    },
+    {
+      "postal_code": 40190,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4015: หนองสองห้อง: Nong Song Hong",
+      "subdistricts": "401501: หนองสองห้อง: Nong Song Hong: 4015, 401502: คึมชาด: Khuem Chat: 4015, 401503: โนนธาตุ: Non That: 4015, 401504: ตะกั่วป่า: Takua Pa: 4015, 401505: สำโรง: Samrong: 4015, 401506: หนองเม็ก: Nong Mek: 4015, 401507: ดอนดู่: Don Du: 4015, 401508: ดงเค็ง: Dong Kheng: 4015, 401509: หันโจด: Han Chot: 4015, 401510: ดอนดั่ง: Don Dang: 4015, 401511: วังหิน: Wang Hin: 4015, 401512: หนองไผ่ล้อม: Nong Phai Lom: 4015"
+    },
+    {
+      "postal_code": 40210,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4004: หนองเรือ: Nong Ruea",
+      "subdistricts": "400401: หนองเรือ: Nong Ruea: 4004, 400402: บ้านเม็ง: Ban Meng: 4004, 400406: โนนทอง: Non Thong: 4004, 400407: กุดกว้าง: Kut Kwang: 4004, 400408: โนนทัน: Non Than: 4004, 400409: โนนสะอาด: Non Sa-At: 4004"
+    },
+    {
+      "postal_code": 40220,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4006: สีชมพู: Si Chomphu",
+      "subdistricts": "400601: สีชมพู: Si Chomphu: 4006, 400602: ศรีสุข: Si Suk: 4006, 400603: นาจาน: Na Chan: 4006, 400604: วังเพิ่ม: Wang Phoem: 4006, 400605: ซำยาง: Sam Yang: 4006, 400606: หนองแดง: Nong Daeng: 4006, 400607: ดงลาน: Dong Lan: 4006, 400608: บริบูรณ์: Boribun: 4006, 400609: บ้านใหม่: Ban Mai: 4006, 400610: ภูห่าน: Phu Han: 4006"
+    },
+    {
+      "postal_code": 40230,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4014: แวงน้อย: Waeng Noi",
+      "subdistricts": "401401: แวงน้อย: Waeng Noi: 4014, 401402: ก้านเหลือง: Kan Lueang: 4014, 401403: ท่านางแนว: Tha Nang Naeo: 4014, 401404: ละหานนา: Lahan Na: 4014, 401405: ท่าวัด: Tha Wat: 4014, 401406: ทางขวาง: Thang Khwang: 4014"
+    },
+    {
+      "postal_code": 40240,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4004: หนองเรือ: Nong Ruea",
+      "subdistricts": "400403: บ้านกง: Ban Kong: 4004, 400404: ยางคำ: Yang Kham: 4004, 400405: จระเข้: Chorakhe: 4004, 400410: บ้านผือ: Ban Phue: 4004"
+    },
+    {
+      "postal_code": 40250,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4008: อุบลรัตน์: Ubolratana",
+      "subdistricts": "400801: โคกสูง: Khok Sung: 4008, 400802: บ้านดง: Ban Dong: 4008, 400803: เขื่อนอุบลรัตน์: Khuean Ubonrat: 4008, 400804: นาคำ: Na Kham: 4008, 400805: ศรีสุขสำราญ: Si Suk Samran: 4008, 400806: ทุ่งโป่ง: Thung Pong: 4008"
+    },
+    {
+      "postal_code": 40260,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4001: เมืองขอนแก่น: Mueang Khon Kaen",
+      "subdistricts": "400104: ท่าพระ: Tha Phra: 4001, 400113: ดอนหัน: Don Han: 4001"
+    },
+    {
+      "postal_code": 40270,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4002: บ้านฝาง: Ban Fang",
+      "subdistricts": "400201: หนองบัว: Nong Bua: 4002, 400202: ป่าหวายนั่ง: Pa Wai Nang: 4002, 400203: โนนฆ้อง: Non Khong: 4002, 400204: บ้านเหล่า: Ban Lao: 4002, 400205: ป่ามะนาว: Pa Manao: 4002, 400206: บ้านฝาง: Ban Fang: 4002, 400207: โคกงาม: Khok Ngam: 4002"
+    },
+    {
+      "postal_code": 40280,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4019: เขาสวนกวาง: Khao Suan Kwang",
+      "subdistricts": "401901: เขาสวนกวาง: Khao Suan Kwang: 4019, 401902: ดงเมืองแอม: Dong Mueang Am: 4019, 401903: นางิ้ว: Na Ngio: 4019, 401904: โนนสมบูรณ์: Non Sombun: 4019, 401905: คำม่วง: Kham Muang: 4019"
+    },
+    {
+      "postal_code": 40290,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4005: ชุมแพ: Chum Phae",
+      "subdistricts": "400502: โนนหัน: Non Han: 4005, 400503: นาหนองทุ่ม: Na Nong Thum: 4005, 400510: หนองเขียด: Nong Khiat: 4005, 400512: โนนสะอาด: Non Sa-At: 4005"
+    },
+    {
+      "postal_code": 40310,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4007: น้ำพอง: Nam Phong",
+      "subdistricts": "400705: สะอาด: Sa-At: 4007, 400706: ม่วงหวาน: Muang Wan: 4007"
+    },
+    {
+      "postal_code": 40320,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4003: พระยืน: Phra Yuen",
+      "subdistricts": "400301: พระยืน: Phra Yuen: 4003, 400302: พระบุ: Phra Bu: 4003, 400303: บ้านโต้น: Ban Ton: 4003, 400304: หนองแวง: Nong Waeng: 4003, 400305: ขามป้อม: Kham Pom: 4003"
+    },
+    {
+      "postal_code": 40330,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4013: แวงใหญ่: Waeng Yai",
+      "subdistricts": "401301: คอนฉิม: Khon Chim: 4013, 401302: ใหม่นาเพียง: Mai Na Phiang: 4013, 401303: โนนทอง: Non Thong: 4013, 401304: แวงใหญ่: Waeng Yai: 4013, 401305: โนนสะอาด: Non Sa-At: 4013"
+    },
+    {
+      "postal_code": 40340,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4011: เปือยน้อย: Pueai Noi",
+      "subdistricts": "401101: เปือยน้อย: Pueai Noi: 4011, 401102: วังม่วง: Wang Muang: 4011, 401103: ขามป้อม: Kham Pom: 4011, 401104: สระแก้ว: Sa Kaeo: 4011"
+    },
+    {
+      "postal_code": 40350,
+      "province_code": 40,
+      "province_name_th": "ขอนแก่น",
+      "province_name_en": "Khon Kaen",
+      "districts": "4020: ภูผาม่าน: Phu Phaman",
+      "subdistricts": "402001: โนนคอม: Non Khom: 4020, 402002: นาฝาย: Na Fai: 4020, 402003: ภูผาม่าน: Phu Pha Man: 4020, 402004: วังสวาบ: Wang Sawap: 4020, 402005: ห้วยม่วง: Huai Muang: 4020"
+    }
+  ],
+  "meta": {
+    "title": "รหัสไปรษณีย์จังหวัดขอนแก่น (Khon Kaen Postal Codes) - ดาวน์โหลดฟรี",
+    "description": "รายการรหัสไปรษณีย์ในจังหวัดขอนแก่น แต่ละรหัสแสดงอำเภอและตำบลที่ครอบคลุม (Postal codes in Khon Kaen province. Each record lists the districts and subdistricts covered by that postal code.) มีทั้งหมด 24 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รหัสไปรษณีย์จังหวัดขอนแก่น (Khon Kaen Postal Codes) | ListBase",
+    "seo_description": "ดาวน์โหลด รหัสไปรษณีย์จังหวัดขอนแก่น (Khon Kaen Postal Codes) — 24 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 24 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/thailand-geography-data/thailand-geography-json"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "th-satun-national-parks",
+  "name": "สตูล — อุทยานแห่งชาติในจังหวัดสตูล (National Parks in Satun Province)",
+  "title": "สตูล — อุทยานแห่งชาติในจังหวัดสตูล (National Parks in Satun Province)",
+  "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดสตูล (Satun). 3 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Satun appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-satun-...' joins to th-satun-postal-codes / th-provinces (province_code 91).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "park_id",
+      "label": "Park Id",
+      "type": "number"
+    },
+    {
+      "key": "name_th",
+      "label": "Name Th",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_th_short",
+      "label": "Name Th Short",
+      "type": "string"
+    },
+    {
+      "key": "name_en_short",
+      "label": "Name En Short",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "wiki_region",
+      "label": "Wiki Region",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_slug",
+      "label": "Wiki Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_th",
+      "label": "Wiki Region Th",
+      "type": "string"
+    },
+    {
+      "key": "wiki_region_en",
+      "label": "Wiki Region En",
+      "type": "string"
+    },
+    {
+      "key": "provinces",
+      "label": "Provinces",
+      "type": "string"
+    },
+    {
+      "key": "province_count",
+      "label": "Province Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "park_id": 50,
+      "name_th": "อุทยานแห่งชาติหมู่เกาะเภตรา",
+      "name_en": "Mu Ko Phetra National Park",
+      "name_th_short": "หมู่เกาะเภตรา",
+      "name_en_short": "Mu Ko Phetra",
+      "lat": 6.85,
+      "lon": 99.53,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Satun: สตูล: Satun: satun: 91, Trang: ตรัง: Trang: trang: 92",
+      "province_count": 2
+    },
+    {
+      "park_id": 51,
+      "name_th": "อุทยานแห่งชาติตะรุเตา",
+      "name_en": "Tarutao National Park",
+      "name_th_short": "ตะรุเตา",
+      "name_en_short": "Tarutao",
+      "lat": 6.59,
+      "lon": 99.64,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Satun: สตูล: Satun: satun: 91",
+      "province_count": 1
+    },
+    {
+      "park_id": 52,
+      "name_th": "อุทยานแห่งชาติทะเลบัน",
+      "name_en": "Thale Ban National Park",
+      "name_th_short": "ทะเลบัน",
+      "name_en_short": "Thale Ban",
+      "lat": 6.47,
+      "lon": 100.13,
+      "wiki_region": "South",
+      "wiki_region_slug": "south",
+      "wiki_region_th": "ภาคใต้",
+      "wiki_region_en": "South",
+      "provinces": "Satun: สตูล: Satun: satun: 91",
+      "province_count": 1
+    }
+  ],
+  "meta": {
+    "title": "สตูล — อุทยานแห่งชาติในจังหวัดสตูล (National Parks in Satun Province) - ดาวน์โหลดฟรี",
+    "description": "Thai national parks (อุทยานแห่งชาติ) located in or spanning จังหวัดสตูล (Satun). 3 record(s) derived from OozyGrub/thai-national-park (Wikipedia-sourced). A park is included here if Satun appears in its provinces[] array — multi-province parks are counted in every province they span. Province slug 'th-satun-...' joins to th-satun-postal-codes / th-provinces (province_code 91). มีทั้งหมด 3 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สตูล — อุทยานแห่งชาติในจังหวัดสตูล (National Parks in Satun Province) | ListBase",
+    "seo_description": "ดาวน์โหลด สตูล — อุทยานแห่งชาติในจังหวัดสตูล (National Parks in Satun Province) — 3 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 3 รายการ / 13 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: open data"
+    ]
+  }
+}
