@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:38.708Z",
-  "total_datasets": 733,
-  "total_records": 271122,
+  "generated": "2026-10-27T02:42:41.372Z",
+  "total_datasets": 734,
+  "total_records": 271403,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 179
+      "dataset_count": 180
     },
     {
       "id": "health",
@@ -4899,6 +4899,34 @@
         "xlsx": {
           "name": "th-eastern-provinces_TH.xlsx",
           "size": 7099
+        }
+      }
+    },
+    {
+      "id": "th-islands",
+      "name": "รายชื่อเกาะของประเทศไทย",
+      "category": "geography",
+      "record_count": 281,
+      "columns": [
+        "no",
+        "island",
+        "district",
+        "province",
+        "island_group",
+        "area_km2",
+        "responsible_agency"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อเกาะของประเทศไทย",
+      "updated": "2026-10",
+      "size": 88898,
+      "files": {
+        "csv": {
+          "name": "th-islands_TH.csv",
+          "size": 45057
+        },
+        "xlsx": {
+          "name": "th-islands_TH.xlsx",
+          "size": 17966
         }
       }
     },

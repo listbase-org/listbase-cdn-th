@@ -1,0 +1,2590 @@
+{
+  "id": "th-islands",
+  "name": "รายชื่อเกาะของประเทศไทย",
+  "title": "รายชื่อเกาะของประเทศไทย",
+  "description": "รายชื่อเกาะในประเทศไทย พร้อมอำเภอ จังหวัด กลุ่มเกาะ พื้นที่ (ตร.กม.) และหน่วยงานรับผิดชอบ",
+  "category": "geography",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อเกาะของประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อเกาะของประเทศไทย",
+  "updated": "2026-10",
+  "record_count": 281,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "island",
+      "label": "Island",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "island_group",
+      "label": "Island Group",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "responsible_agency",
+      "label": "Responsible Agency",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "island": "เกาะแรด",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะกูด",
+      "area_km2": 0.121,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 2,
+      "island": "เกาะไม้ซี้",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะกูด",
+      "area_km2": 1.602,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 3,
+      "island": "เกาะกูด",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะกูด",
+      "area_km2": 111.894,
+      "responsible_agency": ""
+    },
+    {
+      "no": 4,
+      "island": "เกาะรัง",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.004,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 5,
+      "island": "เกาะกระ",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.005,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 6,
+      "island": "เกาะเทียน",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.005,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 7,
+      "island": "เกาะลอม",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.005,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 8,
+      "island": "เกาะนกนอก",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.009,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 9,
+      "island": "เกาะนกใน",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.011,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 10,
+      "island": "เกาะทองหลาง",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.013,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 11,
+      "island": "เกาะมะปริง",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.016,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 12,
+      "island": "เกาะเทียน",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.026,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 13,
+      "island": "เกาะกลาง",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.026,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 14,
+      "island": "เกาะมะปริง",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.046,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 15,
+      "island": "เกาะขาม",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.112,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 16,
+      "island": "เกาะระยั้งใน",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.133,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 17,
+      "island": "เกาะระยั้งนอก",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.142,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 18,
+      "island": "เกาะตุ้น",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 0.346,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 19,
+      "island": "เกาะกระดาด",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 1.937,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 20,
+      "island": "เกาะรัง",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 2.599,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 21,
+      "island": "เกาะหมาก",
+      "district": "เกาะกูด",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะหมาก",
+      "area_km2": 12.398,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 22,
+      "island": "เกาะร่ม",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.008,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 23,
+      "island": "เกาะปลี",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.011,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 24,
+      "island": "เกาะสุวรรณ",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.016,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 25,
+      "island": "เกาะมันนอก",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.023,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 26,
+      "island": "เกาะมะปริง",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.031,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 27,
+      "island": "เกาะหยวก",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.06,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 28,
+      "island": "เกาะมันใน",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.065,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 29,
+      "island": "เกาะช้างน้อย",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.26,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 30,
+      "island": "เกาะจานน้อย",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.003,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 31,
+      "island": "เกาะฝาละมีใต้",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.004,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 32,
+      "island": "เกาะลอม",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.005,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 33,
+      "island": "เกาะฝาละมีเหนือ",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.007,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 34,
+      "island": "เกาะสลัก",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.012,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 35,
+      "island": "เกาะมะปริง",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.013,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 36,
+      "island": "เกาะหม้อนอก",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.026,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 37,
+      "island": "เกาะกระบุง",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.034,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 38,
+      "island": "เกาะหม้อใน",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.046,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 39,
+      "island": "เกาะเหลายากลาง",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.061,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 40,
+      "island": "เกาะลิ่ม",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.081,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 41,
+      "island": "เกาะเหลายานอก",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.095,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 42,
+      "island": "เกาะพร้าวนอก",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.168,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 43,
+      "island": "เกาะจาน",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.17,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 44,
+      "island": "เกาะเหลายาใน",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.314,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 45,
+      "island": "เกาะพร้าวใน",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.412,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 46,
+      "island": "เกาะใบตั้ง",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.427,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 47,
+      "island": "เกาะง่าม",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.51,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 48,
+      "island": "เกาะไม้ซี้เล็ก",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 0.7,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 49,
+      "island": "เกาะหวาย",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 1.654,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 50,
+      "island": "เกาะคลุ้ม",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 2.789,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 51,
+      "island": "เกาะไม้ซี้ใหญ่",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 3.746,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 52,
+      "island": "เกาะช้าง",
+      "district": "เกาะช้าง",
+      "province": "ตราด",
+      "island_group": "หมู่เกาะช้าง",
+      "area_km2": 212.404,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะช้าง"
+    },
+    {
+      "no": 53,
+      "island": "เกาะยายเพียร",
+      "district": "เขาสมิง",
+      "province": "ตราด",
+      "island_group": "(เกาะที่สิ้นสภาพไปแล้ว )",
+      "area_km2": 0.06,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 54,
+      "island": "เกาะปุย",
+      "district": "แหลมงอบ",
+      "province": "ตราด",
+      "island_group": "อ่าวธรรมชาติ",
+      "area_km2": 0.06,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 55,
+      "island": "เกาะมะปริง",
+      "district": "แหลมงอบ",
+      "province": "ตราด",
+      "island_group": "-",
+      "area_km2": 0.002,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 56,
+      "island": "เกาะนก",
+      "district": "แหลมงอบ",
+      "province": "ตราด",
+      "island_group": "-",
+      "area_km2": 0.008,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 57,
+      "island": "เกาะลิง",
+      "district": "แหลมงอบ",
+      "province": "ตราด",
+      "island_group": "-",
+      "area_km2": 0.02,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 58,
+      "island": "เกาะลำพูราย",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "-",
+      "area_km2": 0.037,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 59,
+      "island": "เกาะนก",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "ปากแม่น้ำตราด",
+      "area_km2": 0.106,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 60,
+      "island": "เกาะหัวตาจิว",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "เกาะแม่น้ำ",
+      "area_km2": 0.162,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 61,
+      "island": "เกาะเจ้า",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "ปากแม่น้ำตราด",
+      "area_km2": 0.681,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 62,
+      "island": "เกาะลอย",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "ปากแม่น้ำตราด",
+      "area_km2": 0.389,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 63,
+      "island": "เกาะลอย",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "(เกาะที่สิ้นสภาพไปแล้ว )",
+      "area_km2": 0.01,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 64,
+      "island": "เกาะคันนา",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "(เกาะที่สิ้นสภาพไปแล้ว )",
+      "area_km2": 0.081,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 65,
+      "island": "เกาะเทียน",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "(เกาะที่สิ้นสภาพไปแล้ว )",
+      "area_km2": 0.014,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 66,
+      "island": "เกาะหนู",
+      "district": "เมืองตราด",
+      "province": "ตราด",
+      "island_group": "(เกาะที่สิ้นสภาพไปแล้ว )",
+      "area_km2": 0.063,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 1,
+      "island": "เกาะสันไร่",
+      "district": "ขลุง",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.047,
+      "responsible_agency": ""
+    },
+    {
+      "no": 2,
+      "island": "เกาะใหญ่",
+      "district": "ขลุง",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.928,
+      "responsible_agency": ""
+    },
+    {
+      "no": 3,
+      "island": "เกาะจิกกลาง",
+      "district": "ขลุง",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.098,
+      "responsible_agency": ""
+    },
+    {
+      "no": 4,
+      "island": "เกาะนก",
+      "district": "ขลุง",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.238,
+      "responsible_agency": ""
+    },
+    {
+      "no": 5,
+      "island": "เกาะจิกนอก",
+      "district": "ขลุง",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.663,
+      "responsible_agency": ""
+    },
+    {
+      "no": 6,
+      "island": "เกาะล่อน",
+      "district": "ขลุง",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 2.272,
+      "responsible_agency": ""
+    },
+    {
+      "no": 7,
+      "island": "เกาะลูกสะบ้า",
+      "district": "ท่าใหม่",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.005,
+      "responsible_agency": ""
+    },
+    {
+      "no": 8,
+      "island": "เกาะสะบ้า",
+      "district": "ท่าใหม่",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.149,
+      "responsible_agency": ""
+    },
+    {
+      "no": 9,
+      "island": "เกาะนกใหญ่",
+      "district": "ท่าใหม่",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.347,
+      "responsible_agency": ""
+    },
+    {
+      "no": 10,
+      "island": "เกาะนกเล็ก",
+      "district": "ท่าใหม่",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.051,
+      "responsible_agency": ""
+    },
+    {
+      "no": 11,
+      "island": "เกาะเปริด",
+      "district": "แหลมสิงห์",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.578,
+      "responsible_agency": ""
+    },
+    {
+      "no": 12,
+      "island": "เกาะกวาง",
+      "district": "แหลมสิงห์",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.124,
+      "responsible_agency": ""
+    },
+    {
+      "no": 13,
+      "island": "เกาะจุฬา",
+      "district": "แหลมสิงห์",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.026,
+      "responsible_agency": ""
+    },
+    {
+      "no": 14,
+      "island": "เกาะนมสาว",
+      "district": "แหลมสิงห์",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.149,
+      "responsible_agency": ""
+    },
+    {
+      "no": 15,
+      "island": "เกาะตาสังข์",
+      "district": "แหลมสิงห์",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.154,
+      "responsible_agency": ""
+    },
+    {
+      "no": 16,
+      "island": "เกาะหนู",
+      "district": "แหลมสิงห์",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": ""
+    },
+    {
+      "no": 17,
+      "island": "เกาะนางรำ",
+      "district": "แหลมสิงห์",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 0.064,
+      "responsible_agency": ""
+    },
+    {
+      "no": 18,
+      "island": "เกาะเสม็ดงาม",
+      "district": "เมืองจันทบุรี",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 1.373,
+      "responsible_agency": ""
+    },
+    {
+      "no": 19,
+      "island": "เกาะโขดขลู",
+      "district": "เมืองจันทบุรี",
+      "province": "จันทบุรี",
+      "island_group": "",
+      "area_km2": 5.722,
+      "responsible_agency": ""
+    },
+    {
+      "no": 1,
+      "island": "เกาะยุ้งเกลือ",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.162,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 2,
+      "island": "เกาะค้างคาว",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.337,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 3,
+      "island": "เกาะขาม",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.423,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 4,
+      "island": "เกาะกรวย",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.456,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 5,
+      "island": "เกาะเกล็ดฉลาม",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.462,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 6,
+      "island": "เกาะปลาตีน",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 1,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 7,
+      "island": "เกาะทะลุ",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 1.437,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 8,
+      "island": "เกาะกุฏี",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 1.501,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 9,
+      "island": "เกาะขี้ปลา",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.321,
+      "responsible_agency": ""
+    },
+    {
+      "no": 10,
+      "island": "เกาะมันนอก",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 2.003,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 11,
+      "island": "เกาะมันกลาง",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 2.006,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 12,
+      "island": "เกาะมันใน",
+      "district": "แกลง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 3.361,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 13,
+      "island": "เกาะสันฉลาม",
+      "district": "เมืองระยอง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.025,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 14,
+      "island": "เกาะจัน",
+      "district": "เมืองระยอง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.041,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 15,
+      "island": "เกาะสะเก็ด",
+      "district": "เมืองระยอง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 0.042,
+      "responsible_agency": ""
+    },
+    {
+      "no": 16,
+      "island": "เกาะเสม็ด",
+      "district": "เมืองระยอง",
+      "province": "ระยอง",
+      "island_group": "",
+      "area_km2": 5.321,
+      "responsible_agency": "อุทยานแห่งชาติเขาแหลมหญ้า-หมู่เกาะเสม็ด"
+    },
+    {
+      "no": 1,
+      "island": "เกาะปรง",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": ""
+    },
+    {
+      "no": 2,
+      "island": "เกาะร้านดอกไม้",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.013,
+      "responsible_agency": ""
+    },
+    {
+      "no": 3,
+      "island": "เกาะขามน้อย",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.019,
+      "responsible_agency": ""
+    },
+    {
+      "no": 4,
+      "island": "เกาะยายท้าว",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.021,
+      "responsible_agency": ""
+    },
+    {
+      "no": 5,
+      "island": "เกาะท้ายตาหมื่น",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.032,
+      "responsible_agency": ""
+    },
+    {
+      "no": 6,
+      "island": "เกาะค้างคาว",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.389,
+      "responsible_agency": ""
+    },
+    {
+      "no": 7,
+      "island": "เกาะขามใหญ่",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.458,
+      "responsible_agency": ""
+    },
+    {
+      "no": 8,
+      "island": "เกาะสีชัง",
+      "district": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 6.712,
+      "responsible_agency": ""
+    },
+    {
+      "no": 9,
+      "island": "เกาะหินต้นไม้",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.003,
+      "responsible_agency": ""
+    },
+    {
+      "no": 10,
+      "island": "เกาะหูช้าง",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.003,
+      "responsible_agency": ""
+    },
+    {
+      "no": 11,
+      "island": "เกาะหินขาว",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": ""
+    },
+    {
+      "no": 12,
+      "island": "เกาะเหลือมน้อย",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.011,
+      "responsible_agency": ""
+    },
+    {
+      "no": 13,
+      "island": "เกาะจุ่น",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.011,
+      "responsible_agency": ""
+    },
+    {
+      "no": 14,
+      "island": "เกาะครก",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.075,
+      "responsible_agency": ""
+    },
+    {
+      "no": 15,
+      "island": "เกาะกลึงบาดาล (เกาะกรุงบาดาล)",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.086,
+      "responsible_agency": ""
+    },
+    {
+      "no": 16,
+      "island": "เกาะสาก",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.109,
+      "responsible_agency": ""
+    },
+    {
+      "no": 17,
+      "island": "เกาะมารวิชัย",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.222,
+      "responsible_agency": ""
+    },
+    {
+      "no": 18,
+      "island": "เกาะริ้น",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.423,
+      "responsible_agency": ""
+    },
+    {
+      "no": 19,
+      "island": "เกาะเหลือม",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.49,
+      "responsible_agency": ""
+    },
+    {
+      "no": 20,
+      "island": "เกาะไผ่",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 4,
+      "responsible_agency": ""
+    },
+    {
+      "no": 21,
+      "island": "เกาะล้าน",
+      "district": "บางละมุง",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 5.259,
+      "responsible_agency": ""
+    },
+    {
+      "no": 22,
+      "island": "เกาะลอย",
+      "district": "ศรีราชา",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.028,
+      "responsible_agency": ""
+    },
+    {
+      "no": 23,
+      "island": "เกาะนก",
+      "district": "ศรีราชา",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.028,
+      "responsible_agency": ""
+    },
+    {
+      "no": 24,
+      "island": "เกาะรางเกวียน",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": ""
+    },
+    {
+      "no": 25,
+      "island": "เกาะเกล็ดแก้ว",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.221,
+      "responsible_agency": ""
+    },
+    {
+      "no": 26,
+      "island": "เกาะแมว",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": ""
+    },
+    {
+      "no": 27,
+      "island": "เกาะไก่เตี้ย",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": ""
+    },
+    {
+      "no": 28,
+      "island": "เกาะพระน้อย",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.041,
+      "responsible_agency": ""
+    },
+    {
+      "no": 29,
+      "island": "เกาะครามน้อย",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.072,
+      "responsible_agency": ""
+    },
+    {
+      "no": 30,
+      "island": "เกาะอีร้า",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.093,
+      "responsible_agency": ""
+    },
+    {
+      "no": 31,
+      "island": "เกาะยอ",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.13,
+      "responsible_agency": ""
+    },
+    {
+      "no": 32,
+      "island": "เกาะหมู",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.179,
+      "responsible_agency": ""
+    },
+    {
+      "no": 33,
+      "island": "เกาะอีร้า",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.184,
+      "responsible_agency": ""
+    },
+    {
+      "no": 34,
+      "island": "เกาะพระ",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.503,
+      "responsible_agency": ""
+    },
+    {
+      "no": 35,
+      "island": "เกาะเตาหม้อ",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 1.013,
+      "responsible_agency": ""
+    },
+    {
+      "no": 36,
+      "island": "เกาะคราม",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 13.9,
+      "responsible_agency": ""
+    },
+    {
+      "no": 37,
+      "island": "เกาะโรงหนัง",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": ""
+    },
+    {
+      "no": 38,
+      "island": "เกาะปลาหมึก",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.009,
+      "responsible_agency": ""
+    },
+    {
+      "no": 39,
+      "island": "เกาะโรงโขน",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.015,
+      "responsible_agency": ""
+    },
+    {
+      "no": 40,
+      "island": "เกาะนางรำ",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.016,
+      "responsible_agency": ""
+    },
+    {
+      "no": 41,
+      "island": "เกาะฉางเกลือ",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.036,
+      "responsible_agency": ""
+    },
+    {
+      "no": 42,
+      "island": "เกาะจระเข้",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.07,
+      "responsible_agency": ""
+    },
+    {
+      "no": 43,
+      "island": "เกาะขาม",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.151,
+      "responsible_agency": ""
+    },
+    {
+      "no": 44,
+      "island": "เกาะจาน",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.42,
+      "responsible_agency": ""
+    },
+    {
+      "no": 45,
+      "island": "เกาะแรด",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 0.716,
+      "responsible_agency": ""
+    },
+    {
+      "no": 46,
+      "island": "เกาะจวง",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 1.248,
+      "responsible_agency": ""
+    },
+    {
+      "no": 47,
+      "island": "เกาะแสมสาร",
+      "district": "สัตหีบ",
+      "province": "ชลบุรี",
+      "island_group": "",
+      "area_km2": 4.222,
+      "responsible_agency": ""
+    },
+    {
+      "no": 1,
+      "island": "เกาะนก หรือ เกาะกลาง",
+      "district": "บางปะกง",
+      "province": "ฉะเชิงเทรา",
+      "island_group": "",
+      "area_km2": 0.204,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 1,
+      "island": "เกาะระวาง",
+      "district": "สามร้อยยอด",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": "อุทยานแห่งชาติเขาสามร้อยยอด"
+    },
+    {
+      "no": 2,
+      "island": "เกาะระวิง",
+      "district": "สามร้อยยอด",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.013,
+      "responsible_agency": "อุทยานแห่งชาติเขาสามร้อยยอด"
+    },
+    {
+      "no": 3,
+      "island": "เกาะนมสาว",
+      "district": "สามร้อยยอด",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.077,
+      "responsible_agency": "อุทยานแห่งชาติเขาสามร้อยยอด"
+    },
+    {
+      "no": 4,
+      "island": "เกาะขี้นก",
+      "district": "สามร้อยยอด",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.403,
+      "responsible_agency": "อุทยานแห่งชาติเขาสามร้อยยอด"
+    },
+    {
+      "no": 5,
+      "island": "เกาะกูรำ",
+      "district": "สามร้อยยอด",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.559,
+      "responsible_agency": "อุทยานแห่งชาติเขาสามร้อยยอด"
+    },
+    {
+      "no": 6,
+      "island": "เกาะท้ายทรีย์",
+      "district": "ทับสะแก",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.027,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 7,
+      "island": "เกาะร่ำร่า",
+      "district": "ทับสะแก",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.049,
+      "responsible_agency": ""
+    },
+    {
+      "no": 8,
+      "island": "เกาะจาน",
+      "district": "ทับสะแก",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.144,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 9,
+      "island": "เกาะหัวหิน เกาะหัวพิน",
+      "district": "บางสะพาน",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.058,
+      "responsible_agency": ""
+    },
+    {
+      "no": 10,
+      "island": "เกาะสิงห์ เกาะสิงข์",
+      "district": "บางสะพานน้อย",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.016,
+      "responsible_agency": ""
+    },
+    {
+      "no": 11,
+      "island": "เกาะสังข์",
+      "district": "บางสะพานน้อย",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.018,
+      "responsible_agency": ""
+    },
+    {
+      "no": 12,
+      "island": "เกาะทะลุ",
+      "district": "บางสะพานน้อย",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 1.178,
+      "responsible_agency": ""
+    },
+    {
+      "no": 13,
+      "island": "เกาะขี้นก",
+      "district": "หัวหิน",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": ""
+    },
+    {
+      "no": 14,
+      "island": "เกาะสะเดา",
+      "district": "หัวหิน",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.012,
+      "responsible_agency": ""
+    },
+    {
+      "no": 15,
+      "island": "เกาะทราย",
+      "district": "หัวหิน",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.014,
+      "responsible_agency": ""
+    },
+    {
+      "no": 16,
+      "island": "เกาะพิง",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.021,
+      "responsible_agency": ""
+    },
+    {
+      "no": 17,
+      "island": "เกาะหลำ",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.042,
+      "responsible_agency": ""
+    },
+    {
+      "no": 18,
+      "island": "เกาะร่ม",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.045,
+      "responsible_agency": ""
+    },
+    {
+      "no": 19,
+      "island": "เกาะหลัก",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.054,
+      "responsible_agency": ""
+    },
+    {
+      "no": 20,
+      "island": "เกาะพัง",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.057,
+      "responsible_agency": ""
+    },
+    {
+      "no": 21,
+      "island": "เกาะอีแอ่น เกาะแอ่น",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.062,
+      "responsible_agency": ""
+    },
+    {
+      "no": 22,
+      "island": "เกาะแรด",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.138,
+      "responsible_agency": ""
+    },
+    {
+      "no": 23,
+      "island": "เกาะเหลื่อม",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "province": "ประจวบคีรีขันธ์",
+      "island_group": "",
+      "area_km2": 0.238,
+      "responsible_agency": ""
+    },
+    {
+      "no": 1,
+      "island": "เกาะขี้นก",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.001,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 2,
+      "island": "เกาะกะทิ",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.003,
+      "responsible_agency": ""
+    },
+    {
+      "no": 3,
+      "island": "เกาะสูบ",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.005,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 4,
+      "island": "เกาะรางบรรทัด",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 5,
+      "island": "เกาะมุกด์",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.009,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 6,
+      "island": "เกาะยอ",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.028,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 7,
+      "island": "เกาะรังห้า",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.045,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 8,
+      "island": "เกาะคางเสือ",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.054,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 9,
+      "island": "เกาะกลาง",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.091,
+      "responsible_agency": ""
+    },
+    {
+      "no": 10,
+      "island": "เกาะมะพร้าว",
+      "district": "ทุ่งตะโก",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.209,
+      "responsible_agency": ""
+    },
+    {
+      "no": 11,
+      "island": "เกาะไข่",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.174,
+      "responsible_agency": ""
+    },
+    {
+      "no": 12,
+      "island": "เกาะเตียบ",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": ""
+    },
+    {
+      "no": 13,
+      "island": "เกาะขี้นก",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": ""
+    },
+    {
+      "no": 14,
+      "island": "เกาะยอ",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": ""
+    },
+    {
+      "no": 15,
+      "island": "เกาะร้านไก่",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.016,
+      "responsible_agency": ""
+    },
+    {
+      "no": 16,
+      "island": "เกาะซีกง",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.017,
+      "responsible_agency": ""
+    },
+    {
+      "no": 17,
+      "island": "เกาะร้านเป็ด",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.024,
+      "responsible_agency": ""
+    },
+    {
+      "no": 18,
+      "island": "เกาะพระ",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.039,
+      "responsible_agency": ""
+    },
+    {
+      "no": 19,
+      "island": "เกาะรัง",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.055,
+      "responsible_agency": ""
+    },
+    {
+      "no": 20,
+      "island": "เกาะเอียง",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 1.965,
+      "responsible_agency": ""
+    },
+    {
+      "no": 21,
+      "island": "เกาะจระเข้",
+      "district": "ปะทิว",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.078,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 22,
+      "island": "เกาะมัตโพน",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.032,
+      "responsible_agency": ""
+    },
+    {
+      "no": 23,
+      "island": "เกาะมาตรา",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.719,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 24,
+      "island": "เกาะหอก",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 25,
+      "island": "เกาะหลักง่าม",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.003,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 26,
+      "island": "เกาะหลักแรด",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 27,
+      "island": "เกาะกะโหลก",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 28,
+      "island": "เกาะทะลุ",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 29,
+      "island": "เกาะคอเทียน",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.01,
+      "responsible_agency": ""
+    },
+    {
+      "no": 30,
+      "island": "เกาะกา",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.019,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 31,
+      "island": "เกาะสาก",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.03,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 32,
+      "island": "เกาะง่ามเล็ก",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.032,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 33,
+      "island": "เกาะละวะ",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.057,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 34,
+      "island": "เกาะมะพร้าว",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.06,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 35,
+      "island": "เกาะรังกาจิว",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.063,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 36,
+      "island": "เกาะง่ามใหญ่",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.118,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 37,
+      "island": "เกาะอีแรด",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.121,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 38,
+      "island": "เกาะทองหลาง",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.147,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 39,
+      "island": "เกาะเสม็ด",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 1.467,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 40,
+      "island": "เกาะบาตร์",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 41,
+      "island": "เกาะทองแก้ว",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.009,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 42,
+      "island": "เกาะขี้นก",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.014,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 43,
+      "island": "เกาะกระ",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.018,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 44,
+      "island": "เกาะแรด",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.022,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 45,
+      "island": "เกาะแกลบ",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.025,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 46,
+      "island": "เกาะมัดหวายน้อย",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.03,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 47,
+      "island": "เกาะหนู",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.038,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 48,
+      "island": "เกาะมัดหวายใหญ่",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.051,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 49,
+      "island": "เกาะยูง",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.067,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 50,
+      "island": "เกาะแมว",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.072,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 51,
+      "island": "เกาะกุลา",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.627,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 52,
+      "island": "เกาะแก้ว",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.027,
+      "responsible_agency": ""
+    },
+    {
+      "no": 53,
+      "island": "เกาะคราม",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.067,
+      "responsible_agency": "อุทยานแห่งชาติหมู่เกาะชุมพร"
+    },
+    {
+      "no": 54,
+      "island": "เกาะพิทักษ์",
+      "district": "เมืองชุมพร",
+      "province": "ชุมพร",
+      "island_group": "",
+      "area_km2": 0.475,
+      "responsible_agency": ""
+    },
+    {
+      "no": 1,
+      "island": "เกาะปราบ",
+      "district": "กาญจนดิษฐ์",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.192,
+      "responsible_agency": "กองทัพเรือ"
+    },
+    {
+      "no": 2,
+      "island": "เกาะกงทรายแดง",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.01,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 3,
+      "island": "เกาะนางญวน",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.077,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 4,
+      "island": "เกาะหางเต่า",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.306,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 5,
+      "island": "เกาะเต่า",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 18.572,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 6,
+      "island": "เกาะกง",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 7,
+      "island": "เกาะกงนุ้ย",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 8,
+      "island": "เกาะกงเกลี้ยง",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.022,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 9,
+      "island": "เกาะม้า",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.095,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 10,
+      "island": "เกาะแตใน",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.181,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 11,
+      "island": "เกาะแตนอก",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.247,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 12,
+      "island": "เกาะพะงัน",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 122.017,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 13,
+      "island": "เกาะกงริ้น",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.006,
+      "responsible_agency": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน"
+    },
+    {
+      "no": 14,
+      "island": "เกาะกงธารเสด็จ",
+      "district": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 0.027,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 15,
+      "island": "เกาะสมุย",
+      "district": "เกาะสมุย",
+      "province": "สุราษฎร์ธานี",
+      "island_group": "",
+      "area_km2": 236.079,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 1,
+      "island": "เกาะนก",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 2,
+      "island": "เกาะนก",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 3,
+      "island": "เกาะนก",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.003,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 4,
+      "island": "เกาะป้อย",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.005,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 5,
+      "island": "เกาะร้านไก่",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.01,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 6,
+      "island": "เกาะเสือ",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.11,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 7,
+      "island": "เกาะมันแดง",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.11,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 8,
+      "island": "เกาะกระ",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.14,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 9,
+      "island": "เกาะท้ายถ้ำคำ",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.112,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 10,
+      "island": "เกาะตาโส",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.129,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 11,
+      "island": "เกาะยายโส",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.139,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 12,
+      "island": "เกาะสี่เกาะห้า",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 1.815,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 13,
+      "island": "เกาะโคบ",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 3.723,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 14,
+      "island": "เกาะหมาก",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 36.555,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 15,
+      "island": "เกาะเพ",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.049,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 16,
+      "island": "เกาะแกง",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 3.777,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 17,
+      "island": "เกาะนางคำ",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 48.785,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 18,
+      "island": "เกาะราบ",
+      "district": "ปากพะยูน",
+      "province": "พัทลุง",
+      "island_group": "",
+      "area_km2": 0.792,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 1,
+      "island": "เกาะน้อยใน",
+      "district": "ขนอม",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.002,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 2,
+      "island": "เกาะน้อยนอก",
+      "district": "ขนอม",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.004,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 3,
+      "island": "เกาะผี",
+      "district": "ขนอม",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.008,
+      "responsible_agency": "อุทยานแห่งชาติหาดขนอม-หมู่เกาะทะเลใต้"
+    },
+    {
+      "no": 4,
+      "island": "เกาะน้อย",
+      "district": "ขนอม",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.015,
+      "responsible_agency": "อุทยานแห่งชาติหาดขนอม-หมู่เกาะทะเลใต้"
+    },
+    {
+      "no": 5,
+      "island": "เกาะท่าไร่",
+      "district": "ขนอม",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.594,
+      "responsible_agency": "อุทยานแห่งชาติหาดขนอม-หมู่เกาะทะเลใต้"
+    },
+    {
+      "no": 6,
+      "island": "เกาะเล็ก",
+      "district": "ปากพนัง",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.038,
+      "responsible_agency": "กองทัพเรือ"
+    },
+    {
+      "no": 7,
+      "island": "เกาะกลาง",
+      "district": "ปากพนัง",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.051,
+      "responsible_agency": "กองทัพเรือ"
+    },
+    {
+      "no": 8,
+      "island": "เกาะกระ",
+      "district": "ปากพนัง",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.425,
+      "responsible_agency": "กองทัพเรือ"
+    },
+    {
+      "no": 9,
+      "island": "เกาะลอย",
+      "district": "สิชล",
+      "province": "นครศรีธรรมราช",
+      "island_group": "",
+      "area_km2": 0.031,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 1,
+      "island": "เกาะขาม",
+      "district": "เทพา",
+      "province": "สงขลา",
+      "island_group": "",
+      "area_km2": 0.03,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 2,
+      "island": "เกาะตำเหียง",
+      "district": "สทิงพระ",
+      "province": "สงขลา",
+      "island_group": "",
+      "area_km2": 0.046,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 3,
+      "island": "เกาะบรรทม",
+      "district": "สทิงพระ",
+      "province": "สงขลา",
+      "island_group": "",
+      "area_km2": 0.165,
+      "responsible_agency": "เขตห้ามล่าสัตว์ป่าทะเลสาบสงขลา"
+    },
+    {
+      "no": 4,
+      "island": "เกาะแมว",
+      "district": "เมืองสงขลา",
+      "province": "สงขลา",
+      "island_group": "",
+      "area_km2": 0.054,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 5,
+      "island": "เกาะหนู",
+      "district": "เมืองสงขลา",
+      "province": "สงขลา",
+      "island_group": "",
+      "area_km2": 0.154,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 6,
+      "island": "เกาะยอ",
+      "district": "เมืองสงขลา",
+      "province": "สงขลา",
+      "island_group": "",
+      "area_km2": 5.918,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 1,
+      "island": "เกาะโลซิน",
+      "district": "ปานาเระ",
+      "province": "ปัตตานี",
+      "island_group": "",
+      "area_km2": "",
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 2,
+      "island": "เกาะละปิ",
+      "district": "สายบุรี",
+      "province": "ปัตตานี",
+      "island_group": "",
+      "area_km2": 0.076,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 3,
+      "island": "เกาะบาเละ",
+      "district": "ยะหริ่ง",
+      "province": "ปัตตานี",
+      "island_group": "",
+      "area_km2": 1.211,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 4,
+      "island": "เกาะตู้",
+      "district": "ยะหริ่ง",
+      "province": "ปัตตานี",
+      "island_group": "",
+      "area_km2": 3.01,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 1,
+      "island": "เกาะปูลาเจ๊ะมูดอ",
+      "district": "ตากใบ",
+      "province": "นราธิวาส",
+      "island_group": "",
+      "area_km2": 0.005,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 2,
+      "island": "เกาะมะปิง",
+      "district": "ตากใบ",
+      "province": "นราธิวาส",
+      "island_group": "",
+      "area_km2": 0.125,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    },
+    {
+      "no": 3,
+      "island": "เกาะยาว",
+      "district": "ตากใบ",
+      "province": "นราธิวาส",
+      "island_group": "",
+      "area_km2": 0.512,
+      "responsible_agency": "องค์กรปกครองส่วนท้องถิ่น"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อเกาะของประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "รายชื่อเกาะในประเทศไทย พร้อมอำเภอ จังหวัด กลุ่มเกาะ พื้นที่ (ตร.กม.) และหน่วยงานรับผิดชอบ มีทั้งหมด 281 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายชื่อเกาะของประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายชื่อเกาะของประเทศไทย — 281 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 281 รายการ / 7 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อเกาะของประเทศไทย"
+    ]
+  }
+}
