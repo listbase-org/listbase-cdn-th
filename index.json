@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:43:00.430Z",
-  "total_datasets": 741,
-  "total_records": 272497,
+  "generated": "2026-10-27T02:43:02.977Z",
+  "total_datasets": 742,
+  "total_records": 272549,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -352,6 +352,33 @@
         "xlsx": {
           "name": "th-gdp-growth-rate_TH.xlsx",
           "size": 7294
+        }
+      }
+    },
+    {
+      "id": "th-state-enterprises",
+      "name": "รัฐวิสาหกิจไทย",
+      "category": "economy",
+      "record_count": 52,
+      "columns": [
+        "no",
+        "name",
+        "supervising_agency",
+        "established_by",
+        "year_established",
+        "sector"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อรัฐวิสาหกิจไทย",
+      "updated": "2026-10",
+      "size": 22573,
+      "files": {
+        "csv": {
+          "name": "th-state-enterprises_TH.csv",
+          "size": 13159
+        },
+        "xlsx": {
+          "name": "th-state-enterprises_TH.xlsx",
+          "size": 9808
         }
       }
     },

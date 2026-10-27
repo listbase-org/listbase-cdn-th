@@ -1,0 +1,472 @@
+{
+  "id": "th-state-enterprises",
+  "name": "รัฐวิสาหกิจไทย",
+  "title": "รัฐวิสาหกิจไทย",
+  "description": "รายชื่อรัฐวิสาหกิจของไทย พร้อมส่วนราชการที่กำกับดูแล รูปแบบการจัดตั้ง ปีที่ก่อตั้ง และสาขา",
+  "category": "economy",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อรัฐวิสาหกิจไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อรัฐวิสาหกิจไทย",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "supervising_agency",
+      "label": "Supervising Agency",
+      "type": "string"
+    },
+    {
+      "key": "established_by",
+      "label": "Established By",
+      "type": "string"
+    },
+    {
+      "key": "year_established",
+      "label": "Year Established",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "ธนาคารออมสิน",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2456",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 2,
+      "name": "บริษัท ขนส่ง จำกัด",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "ประมวลกฎหมายแพ่งและพาณิชย์",
+      "year_established": "พ.ศ. 2473",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 3,
+      "name": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2486",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 4,
+      "name": "บริษัท วิทยุการบินแห่งประเทศไทย จำกัด",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "ประมวลกฎหมายแพ่งและพาณิชย์",
+      "year_established": "พ.ศ. 2491",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 5,
+      "name": "การท่าเรือแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2494",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 6,
+      "name": "การรถไฟแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2494",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 7,
+      "name": "องค์การสะพานปลา",
+      "supervising_agency": "กระทรวงเกษตรและสหกรณ์",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2496",
+      "sector": "เกษตรและทรัพยากรธรรมชาติ"
+    },
+    {
+      "no": 8,
+      "name": "ธนาคารอาคารสงเคราะห์",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2496",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 9,
+      "name": "องค์การตลาด",
+      "supervising_agency": "กระทรวงมหาดไทย",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2496",
+      "sector": "พาณิชย์และบริการ"
+    },
+    {
+      "no": 10,
+      "name": "องค์การสวนสัตว์แห่งประเทศไทย",
+      "supervising_agency": "กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2497",
+      "sector": "สังคมและเทคโนโลยี"
+    },
+    {
+      "no": 11,
+      "name": "โรงพิมพ์ตำรวจ สำนักงานตำรวจแห่งชาติ",
+      "supervising_agency": "สำนักงานตำรวจแห่งชาติ",
+      "established_by": "ระเบียบ",
+      "year_established": "พ.ศ. 2497",
+      "sector": "อุตสาหกรรม"
+    },
+    {
+      "no": 12,
+      "name": "องค์การคลังสินค้า",
+      "supervising_agency": "กระทรวงพาณิชย์",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2498",
+      "sector": "พาณิชย์และบริการ"
+    },
+    {
+      "no": 13,
+      "name": "สำนักงานธนานุเคราะห์",
+      "supervising_agency": "กรมพัฒนาสังคมและสวัสดิการ กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์",
+      "established_by": "ระเบียบ",
+      "year_established": "พ.ศ. 2498",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 14,
+      "name": "องค์การอุตสาหกรรมป่าไม้",
+      "supervising_agency": "กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2499",
+      "sector": "เกษตรและทรัพยากรธรรมชาติ"
+    },
+    {
+      "no": 15,
+      "name": "บริษัท สหโรงแรมไทยและการท่องเที่ยว จำกัด",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "ประมวลกฎหมายแพ่งและพาณิชย์",
+      "year_established": "พ.ศ. 2499",
+      "sector": "พาณิชย์และบริการ"
+    },
+    {
+      "no": 16,
+      "name": "บริษัท อู่กรุงเทพ จำกัด",
+      "supervising_agency": "กระทรวงกลาโหม",
+      "established_by": "ประมวลกฎหมายแพ่งและพาณิชย์",
+      "year_established": "พ.ศ. 2500",
+      "sector": "อุตสาหกรรม"
+    },
+    {
+      "no": 17,
+      "name": "การไฟฟ้านครหลวง",
+      "supervising_agency": "กระทรวงมหาดไทย",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2501",
+      "sector": "พลังงาน"
+    },
+    {
+      "no": 18,
+      "name": "การท่องเที่ยวแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงการท่องเที่ยวและกีฬา",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2502",
+      "sector": "พาณิชย์และบริการ"
+    },
+    {
+      "no": 19,
+      "name": "การไฟฟ้าส่วนภูมิภาค",
+      "supervising_agency": "กระทรวงมหาดไทย",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2503",
+      "sector": "พลังงาน"
+    },
+    {
+      "no": 20,
+      "name": "สถาบันวิจัยวิทยาศาสตร์และเทคโนโลยีแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2506",
+      "sector": "สังคมและเทคโนโลยี"
+    },
+    {
+      "no": 21,
+      "name": "องค์การสุรา กรมสรรพสามิต",
+      "supervising_agency": "กรมสรรพสามิต กระทรวงการคลัง",
+      "established_by": "ระเบียบ",
+      "year_established": "พ.ศ. 2506",
+      "sector": "อุตสาหกรรม"
+    },
+    {
+      "no": 22,
+      "name": "องค์การเภสัชกรรม",
+      "supervising_agency": "กระทรวงสาธารณสุข",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2509",
+      "sector": "สังคมและเทคโนโลยี"
+    },
+    {
+      "no": 23,
+      "name": "การประปานครหลวง",
+      "supervising_agency": "กระทรวงมหาดไทย",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2510",
+      "sector": "สาธารณูปการ"
+    },
+    {
+      "no": 24,
+      "name": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงพลังงาน",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2512",
+      "sector": "พลังงาน"
+    },
+    {
+      "no": 25,
+      "name": "องค์การส่งเสริมกิจการโคนมแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงเกษตรและสหกรณ์",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2514",
+      "sector": "เกษตรและทรัพยากรธรรมชาติ"
+    },
+    {
+      "no": 26,
+      "name": "การเคหะแห่งชาติ",
+      "supervising_agency": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2515",
+      "sector": "สาธารณูปการ"
+    },
+    {
+      "no": 27,
+      "name": "การทางพิเศษแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2515",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 28,
+      "name": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงอุตสาหกรรม",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2515",
+      "sector": "อุตสาหกรรม"
+    },
+    {
+      "no": 29,
+      "name": "สำนักงานสลากกินแบ่งรัฐบาล",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2517",
+      "sector": "พาณิชย์และบริการ"
+    },
+    {
+      "no": 30,
+      "name": "องค์การตลาดเพื่อเกษตรกร",
+      "supervising_agency": "กระทรวงเกษตรและสหกรณ์",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2517",
+      "sector": "เกษตรและทรัพยากรธรรมชาติ"
+    },
+    {
+      "no": 31,
+      "name": "องค์การขนส่งมวลชนกรุงเทพ",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2519",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 32,
+      "name": "บริษัท อสมท จำกัด (มหาชน)",
+      "supervising_agency": "สำนักนายกรัฐมนตรี",
+      "established_by": "กฎหมายว่าด้วยบริษัทมหาชนจำกัด",
+      "year_established": "พ.ศ. 2520",
+      "sector": "สื่อสาร"
+    },
+    {
+      "no": 33,
+      "name": "บริษัท ปตท. จำกัด (มหาชน)",
+      "supervising_agency": "กระทรวงพลังงาน",
+      "established_by": "กฎหมายว่าด้วยบริษัทมหาชนจำกัด",
+      "year_established": "พ.ศ. 2521",
+      "sector": "พลังงาน"
+    },
+    {
+      "no": 34,
+      "name": "การประปาส่วนภูมิภาค",
+      "supervising_agency": "กระทรวงมหาดไทย",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2522",
+      "sector": "สาธารณูปการ"
+    },
+    {
+      "no": 35,
+      "name": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "กฎหมายว่าด้วยบริษัทมหาชนจำกัด",
+      "year_established": "พ.ศ. 2522",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 36,
+      "name": "การกีฬาแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงการท่องเที่ยวและกีฬา",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2528",
+      "sector": "สังคมและเทคโนโลยี"
+    },
+    {
+      "no": 37,
+      "name": "บรรษัทประกันสินเชื่ออุตสาหกรรมขนาดย่อม",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2534",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 38,
+      "name": "โรงงานไพ่ กรมสรรพสามิต",
+      "supervising_agency": "กรมสรรพสามิต กระทรวงการคลัง",
+      "established_by": "ระเบียบ",
+      "year_established": "พ.ศ. 2535",
+      "sector": "อุตสาหกรรม"
+    },
+    {
+      "no": 39,
+      "name": "องค์การสวนพฤกษศาสตร์",
+      "supervising_agency": "กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2535",
+      "sector": "เกษตรและทรัพยากรธรรมชาติ"
+    },
+    {
+      "no": 40,
+      "name": "สถาบันการบินพลเรือน",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2535",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 41,
+      "name": "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2536",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 42,
+      "name": "องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ",
+      "supervising_agency": "กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2538",
+      "sector": "สังคมและเทคโนโลยี"
+    },
+    {
+      "no": 43,
+      "name": "องค์การจัดการน้ำเสีย",
+      "supervising_agency": "กระทรวงมหาดไทย",
+      "established_by": "พระราชกฤษฎีกา",
+      "year_established": "พ.ศ. 2538",
+      "sector": "สาธารณูปการ"
+    },
+    {
+      "no": 44,
+      "name": "การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2543",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 45,
+      "name": "ธนาคารอิสลามแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2545",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 46,
+      "name": "ธนาคารพัฒนาวิสาหกิจขนาดกลางและขนาดย่อมแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงการคลัง กระทรวงอุตสาหกรรม",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2545",
+      "sector": "การเงิน"
+    },
+    {
+      "no": 47,
+      "name": "บริษัท ไปรษณีย์ไทย จำกัด",
+      "supervising_agency": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม",
+      "established_by": "ประมวลกฎหมายแพ่งและพาณิชย์",
+      "year_established": "พ.ศ. 2546",
+      "sector": "สื่อสาร"
+    },
+    {
+      "no": 48,
+      "name": "บริษัท ธนารักษ์พัฒนาสินทรัพย์ จำกัด",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "ประมวลกฎหมายแพ่งและพาณิชย์",
+      "year_established": "พ.ศ. 2547",
+      "sector": "พาณิชย์และบริการ"
+    },
+    {
+      "no": 49,
+      "name": "บริษัท รถไฟฟ้า ร.ฟ.ท. จำกัด",
+      "supervising_agency": "กระทรวงคมนาคม",
+      "established_by": "ประมวลกฎหมายแพ่งและพาณิชย์",
+      "year_established": "พ.ศ. 2554",
+      "sector": "ขนส่ง"
+    },
+    {
+      "no": 50,
+      "name": "การยางแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงเกษตรและสหกรณ์",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2558",
+      "sector": "เกษตรและทรัพยากรธรรมชาติ"
+    },
+    {
+      "no": 51,
+      "name": "การยาสูบแห่งประเทศไทย",
+      "supervising_agency": "กระทรวงการคลัง",
+      "established_by": "พระราชบัญญัติ",
+      "year_established": "พ.ศ. 2561",
+      "sector": "อุตสาหกรรม"
+    },
+    {
+      "no": 52,
+      "name": "บริษัท โทรคมนาคมแห่งชาติ จำกัด (มหาชน)",
+      "supervising_agency": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม",
+      "established_by": "กฎหมายว่าด้วยบริษัทมหาชนจำกัด",
+      "year_established": "พ.ศ. 2564",
+      "sector": "สื่อสาร"
+    }
+  ],
+  "meta": {
+    "title": "รัฐวิสาหกิจไทย - ดาวน์โหลดฟรี",
+    "description": "รายชื่อรัฐวิสาหกิจของไทย พร้อมส่วนราชการที่กำกับดูแล รูปแบบการจัดตั้ง ปีที่ก่อตั้ง และสาขา มีทั้งหมด 52 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รัฐวิสาหกิจไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รัฐวิสาหกิจไทย — 52 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 52 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อรัฐวิสาหกิจไทย"
+    ]
+  }
+}
