@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:35.907Z",
-  "total_datasets": 732,
-  "total_records": 271111,
+  "generated": "2026-10-27T02:42:38.708Z",
+  "total_datasets": 733,
+  "total_records": 271122,
   "categories": [
     {
       "id": "agriculture",
@@ -91,6 +91,10 @@
     {
       "id": "time",
       "dataset_count": 5
+    },
+    {
+      "id": "tourism",
+      "dataset_count": 1
     },
     {
       "id": "transport",
@@ -22051,6 +22055,32 @@
         "xlsx": {
           "name": "zodiac-signs_TH.xlsx",
           "size": 7975
+        }
+      }
+    },
+    {
+      "id": "th-historical-parks",
+      "name": "อุทยานประวัติศาสตร์ในประเทศไทย",
+      "category": "tourism",
+      "record_count": 11,
+      "columns": [
+        "name",
+        "location",
+        "area_rai",
+        "opened_be",
+        "world_heritage_year"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่ออุทยานประวัติศาสตร์ในประเทศไทย",
+      "updated": "2026-10",
+      "size": 6554,
+      "files": {
+        "csv": {
+          "name": "th-historical-parks_TH.csv",
+          "size": 2633
+        },
+        "xlsx": {
+          "name": "th-historical-parks_TH.xlsx",
+          "size": 7545
         }
       }
     },
