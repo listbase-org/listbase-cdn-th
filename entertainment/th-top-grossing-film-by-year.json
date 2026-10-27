@@ -1,0 +1,250 @@
+{
+  "id": "th-top-grossing-film-by-year",
+  "name": "ภาพยนตร์ทำเงินสูงสุดในประเทศไทยแต่ละปี",
+  "title": "ภาพยนตร์ทำเงินสูงสุดในประเทศไทยแต่ละปี",
+  "description": "ภาพยนตร์ที่ทำรายได้สูงสุดในประเทศไทยของแต่ละปีตั้งแต่ พ.ศ. 2536",
+  "category": "entertainment",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อภาพยนตร์ที่ทำเงินสูงสุดในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อภาพยนตร์ที่ทำเงินสูงสุดในประเทศไทย",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "year_be",
+      "label": "Year Be",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "distributor",
+      "label": "Distributor",
+      "type": "string"
+    },
+    {
+      "key": "gross_million_baht",
+      "label": "Gross Million Baht",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year_be": 2536,
+      "film": "จูราสสิค พาร์ค กำเนิดใหม่ไดโนเสาร์",
+      "distributor": "ยูไอพี UIP",
+      "gross_million_baht": 74.34
+    },
+    {
+      "year_be": 2537,
+      "film": "สปีด เร็วกว่านรก",
+      "distributor": "ทเวนตีท์เซนจูรีฟอกซ์",
+      "gross_million_baht": 56
+    },
+    {
+      "year_be": 2538,
+      "film": "ดาย ฮาร์ด 3 แค้นได้ก็ตายยาก",
+      "distributor": "บัวนา วิสต้า อินเตอร์เนชันเนล",
+      "gross_million_baht": 60
+    },
+    {
+      "year_be": 2539,
+      "film": "ไอดี 4 สงครามวันดับโลก",
+      "distributor": "ทเวนตีท์เซนจูรีฟอกซ์",
+      "gross_million_baht": 123.42
+    },
+    {
+      "year_be": 2540,
+      "film": "ไททานิค",
+      "distributor": "ทเวนตีท์เซนจูรีฟอกซ์",
+      "gross_million_baht": 213.65
+    },
+    {
+      "year_be": 2541,
+      "film": "อาร์มาเกดดอน วันโลกาวินาศ",
+      "distributor": "บัวนา วิสต้า อินเตอร์เนชันเนล",
+      "gross_million_baht": 116.09
+    },
+    {
+      "year_be": 2542,
+      "film": "นางนาก",
+      "distributor": "ไท เอ็นเตอร์เทนเมนต์",
+      "gross_million_baht": 149.6
+    },
+    {
+      "year_be": 2543,
+      "film": "บางระจัน",
+      "distributor": "ฟิล์มบางกอก",
+      "gross_million_baht": 151
+    },
+    {
+      "year_be": 2544,
+      "film": "สุริโยไท",
+      "distributor": "สหมงคลฟิล์ม อินเตอร์เนชั่นแนล",
+      "gross_million_baht": "324.5 R"
+    },
+    {
+      "year_be": 2545,
+      "film": "แฮร์รี่ พอตเตอร์กับห้องแห่งความลับ",
+      "distributor": "วอร์เนอร์บราเธอร์สพิกเจอร์ส",
+      "gross_million_baht": 149.81
+    },
+    {
+      "year_be": 2546,
+      "film": "เดอะลอร์ดออฟเดอะริงส์: มหาสงครามชิงพิภพ",
+      "distributor": "มงคลเมเจอร์",
+      "gross_million_baht": 184.63
+    },
+    {
+      "year_be": 2547,
+      "film": "แฮร์รี่ พอตเตอร์กับนักโทษแห่งอัซคาบัน",
+      "distributor": "วอร์เนอร์บราเธอร์สพิกเจอร์ส",
+      "gross_million_baht": 161.8
+    },
+    {
+      "year_be": 2548,
+      "film": "แฮร์รี่ พอตเตอร์กับถ้วยอัคนี",
+      "distributor": "วอร์เนอร์บราเธอร์สพิกเจอร์ส",
+      "gross_million_baht": 190.86
+    },
+    {
+      "year_be": 2549,
+      "film": "สงครามปีศาจโจรสลัดสยองโลก",
+      "distributor": "บัวนา วิสต้า อินเตอร์เนชันเนล",
+      "gross_million_baht": 125.93
+    },
+    {
+      "year_be": 2550,
+      "film": "ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๑ องค์ประกันหงสา",
+      "distributor": "สหมงคลฟิล์ม อินเตอร์เนชั่นแนล",
+      "gross_million_baht": 219.06
+    },
+    {
+      "year_be": 2551,
+      "film": "เดอะมัมมี่ 3 คืนชีพจักรพรรดิมังกร",
+      "distributor": "ยูไอพี",
+      "gross_million_baht": 123
+    },
+    {
+      "year_be": 2552,
+      "film": "อวตาร",
+      "distributor": "ทเวนตีท์เซนจูรีฟอกซ์",
+      "gross_million_baht": 303
+    },
+    {
+      "year_be": 2553,
+      "film": "แฮร์รี่ พอตเตอร์กับเครื่องรางยมทูต ภาค 1",
+      "distributor": "วอร์เนอร์บราเธอร์สพิกเจอร์ส",
+      "gross_million_baht": 171.4
+    },
+    {
+      "year_be": 2554,
+      "film": "ทรานส์ฟอร์เมอร์ส 3",
+      "distributor": "ยูไอพี",
+      "gross_million_baht": 291.2
+    },
+    {
+      "year_be": 2555,
+      "film": "ดิ อเวนเจอร์ส",
+      "distributor": "วอลต์ดิสนีย์พิกเชอส์",
+      "gross_million_baht": 252.16
+    },
+    {
+      "year_be": 2556,
+      "film": "พี่มาก..พระโขนง",
+      "distributor": "จีทีเอช",
+      "gross_million_baht": 568.55
+    },
+    {
+      "year_be": 2557,
+      "film": "ไอฟาย..แต๊งกิ้ว..เลิฟยู้",
+      "distributor": "จีทีเอช",
+      "gross_million_baht": 330.55
+    },
+    {
+      "year_be": 2558,
+      "film": "เร็ว..แรงทะลุนรก 7",
+      "distributor": "ยูไอพี",
+      "gross_million_baht": 387.85
+    },
+    {
+      "year_be": 2559,
+      "film": "กัปตันอเมริกา: ศึกฮีโร่ระห่ำโลก",
+      "distributor": "วอลต์ดิสนีย์พิกเชอส์",
+      "gross_million_baht": 311.21
+    },
+    {
+      "year_be": 2560,
+      "film": "เร็ว..แรงทะลุนรก 8",
+      "distributor": "ยูไอพี",
+      "gross_million_baht": 321.96
+    },
+    {
+      "year_be": 2561,
+      "film": "อเวนเจอร์ส: มหาสงครามล้างจักรวาล",
+      "distributor": "วอลต์ดิสนีย์พิกเชอส์",
+      "gross_million_baht": 420.89
+    },
+    {
+      "year_be": 2562,
+      "film": "อเวนเจอร์ส: เผด็จศึก",
+      "distributor": "วอลต์ดิสนีย์พิกเชอส์",
+      "gross_million_baht": 617.55
+    },
+    {
+      "year_be": 2563,
+      "film": "อีเรียมซิ่ง",
+      "distributor": "เอ็ม พิคเจอร์ส",
+      "gross_million_baht": 76.49
+    },
+    {
+      "year_be": 2564,
+      "film": "สไปเดอร์แมน: โน เวย์ โฮม",
+      "distributor": "โซนี่พิคเจอร์สรีลีสซิง",
+      "gross_million_baht": 239.29
+    },
+    {
+      "year_be": 2565,
+      "film": "อวตาร: วิถีแห่งสายน้ำ",
+      "distributor": "วอลต์ดิสนีย์พิกเชอส์",
+      "gross_million_baht": 376.23
+    },
+    {
+      "year_be": 2566,
+      "film": "สัปเหร่อ",
+      "distributor": "ไทบ้าน สตูดิโอ",
+      "gross_million_baht": 245.1
+    },
+    {
+      "year_be": 2567,
+      "film": "ธี่หยด 2",
+      "distributor": "เอ็ม สตูดิโอ",
+      "gross_million_baht": 286.08
+    },
+    {
+      "year_be": 2568,
+      "film": "อวตาร: อัคนีและธุลีดิน",
+      "distributor": "วอลต์ดิสนีย์พิกเชอส์",
+      "gross_million_baht": 272.82
+    },
+    {
+      "year_be": 2569,
+      "film": "สไปเดอร์-แมน: แบรนด์นิวเดย์",
+      "distributor": "โซนี่พิคเจอร์สรีลีสซิง",
+      "gross_million_baht": 277.76
+    }
+  ],
+  "meta": {
+    "title": "ภาพยนตร์ทำเงินสูงสุดในประเทศไทยแต่ละปี - ดาวน์โหลดฟรี",
+    "description": "ภาพยนตร์ที่ทำรายได้สูงสุดในประเทศไทยของแต่ละปีตั้งแต่ พ.ศ. 2536 มีทั้งหมด 34 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาพยนตร์ทำเงินสูงสุดในประเทศไทยแต่ละปี | ListBase",
+    "seo_description": "ดาวน์โหลด ภาพยนตร์ทำเงินสูงสุดในประเทศไทยแต่ละปี — 34 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 34 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อภาพยนตร์ที่ทำเงินสูงสุดในประเทศไทย"
+    ]
+  }
+}
