@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:21.929Z",
-  "total_datasets": 727,
-  "total_records": 270904,
+  "generated": "2026-10-27T02:42:24.572Z",
+  "total_datasets": 728,
+  "total_records": 270938,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "math",
@@ -7386,6 +7386,30 @@
         "xlsx": {
           "name": "legal-holidays_TH.xlsx",
           "size": 8119
+        }
+      }
+    },
+    {
+      "id": "th-constitutional-court-major-rulings",
+      "name": "คำวินิจฉัยสำคัญของศาลรัฐธรรมนูญไทย",
+      "category": "law",
+      "record_count": 34,
+      "columns": [
+        "date",
+        "ruling",
+        "court"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ศาลรัฐธรรมนูญ_(ประเทศไทย)",
+      "updated": "2026-10",
+      "size": 28694,
+      "files": {
+        "csv": {
+          "name": "th-constitutional-court-major-rulings_TH.csv",
+          "size": 24129
+        },
+        "xlsx": {
+          "name": "th-constitutional-court-major-rulings_TH.xlsx",
+          "size": 10225
         }
       }
     },
