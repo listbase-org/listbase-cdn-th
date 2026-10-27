@@ -1,0 +1,496 @@
+{
+  "id": "th-vital-statistics",
+  "name": "สถิติการเกิดและการตายของประชากรไทย",
+  "title": "สถิติการเกิดและการตายของประชากรไทย",
+  "description": "จำนวนการเกิดมีชีพ การตาย และการเพิ่มตามธรรมชาติของประชากรไทยรายปีตั้งแต่ พ.ศ. 2526",
+  "category": "society",
+  "source": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+  "source_url": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "string"
+    },
+    {
+      "key": "live_births",
+      "label": "Live Births",
+      "type": "number"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "natural_increase",
+      "label": "Natural Increase",
+      "type": "number"
+    },
+    {
+      "key": "crude_birth_rate",
+      "label": "Crude Birth Rate",
+      "type": "number"
+    },
+    {
+      "key": "crude_death_rate",
+      "label": "Crude Death Rate",
+      "type": "number"
+    },
+    {
+      "key": "natural_change_rate",
+      "label": "Natural Change Rate",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2526/1983",
+      "population": "",
+      "live_births": 1055802,
+      "deaths": 252592,
+      "natural_increase": 803210,
+      "crude_birth_rate": 21.3,
+      "crude_death_rate": 5.1,
+      "natural_change_rate": 16.2
+    },
+    {
+      "year": "2527/1984",
+      "population": "",
+      "live_births": 956680,
+      "deaths": 225282,
+      "natural_increase": 731398,
+      "crude_birth_rate": 19,
+      "crude_death_rate": 4.5,
+      "natural_change_rate": 14.5
+    },
+    {
+      "year": "2528/1985",
+      "population": "",
+      "live_births": 973624,
+      "deaths": 225088,
+      "natural_increase": 748536,
+      "crude_birth_rate": 18.8,
+      "crude_death_rate": 4.4,
+      "natural_change_rate": 14.4
+    },
+    {
+      "year": "2529/1986",
+      "population": "",
+      "live_births": 945827,
+      "deaths": 218025,
+      "natural_increase": 727802,
+      "crude_birth_rate": 18,
+      "crude_death_rate": 4.1,
+      "natural_change_rate": 13.9
+    },
+    {
+      "year": "2530/1987",
+      "population": "",
+      "live_births": 884043,
+      "deaths": 232968,
+      "natural_increase": 651075,
+      "crude_birth_rate": 16.5,
+      "crude_death_rate": 4.3,
+      "natural_change_rate": 12.2
+    },
+    {
+      "year": "2531/1988",
+      "population": "",
+      "live_births": 873842,
+      "deaths": 231227,
+      "natural_increase": 642615,
+      "crude_birth_rate": 16,
+      "crude_death_rate": 4.2,
+      "natural_change_rate": 11.8
+    },
+    {
+      "year": "2532/1989",
+      "population": "",
+      "live_births": 905837,
+      "deaths": 246570,
+      "natural_increase": 659267,
+      "crude_birth_rate": 16.3,
+      "crude_death_rate": 4.4,
+      "natural_change_rate": 11.9
+    },
+    {
+      "year": "2533/1990",
+      "population": "",
+      "live_births": 956237,
+      "deaths": 252512,
+      "natural_increase": 703725,
+      "crude_birth_rate": 17,
+      "crude_death_rate": 4.5,
+      "natural_change_rate": 12.5
+    },
+    {
+      "year": "2534/1991",
+      "population": "",
+      "live_births": 960556,
+      "deaths": 264350,
+      "natural_increase": 696206,
+      "crude_birth_rate": 17,
+      "crude_death_rate": 4.7,
+      "natural_change_rate": 12.3
+    },
+    {
+      "year": "2535/1992",
+      "population": "57,788,965",
+      "live_births": 964557,
+      "deaths": 275313,
+      "natural_increase": 689244,
+      "crude_birth_rate": 16.8,
+      "crude_death_rate": 4.8,
+      "natural_change_rate": 12
+    },
+    {
+      "year": "2536/1993",
+      "population": "58,336,072",
+      "live_births": 957832,
+      "deaths": 285731,
+      "natural_increase": 672101,
+      "crude_birth_rate": 16.5,
+      "crude_death_rate": 4.9,
+      "natural_change_rate": 11.6
+    },
+    {
+      "year": "2537/1994",
+      "population": "59,095,419",
+      "live_births": 960248,
+      "deaths": 305526,
+      "natural_increase": 654722,
+      "crude_birth_rate": 16.3,
+      "crude_death_rate": 5.2,
+      "natural_change_rate": 11.1
+    },
+    {
+      "year": "2538/1995",
+      "population": "59,460,382",
+      "live_births": 963678,
+      "deaths": 324842,
+      "natural_increase": 638836,
+      "crude_birth_rate": 16.2,
+      "crude_death_rate": 5.5,
+      "natural_change_rate": 10.7
+    },
+    {
+      "year": "2539/1996",
+      "population": "60,116,182",
+      "live_births": 994118,
+      "deaths": 342645,
+      "natural_increase": 651473,
+      "crude_birth_rate": 15.8,
+      "crude_death_rate": 5.7,
+      "natural_change_rate": 10.1
+    },
+    {
+      "year": "2540/1997",
+      "population": "60,816,227",
+      "live_births": 897604,
+      "deaths": 303918,
+      "natural_increase": 593686,
+      "crude_birth_rate": 14.8,
+      "crude_death_rate": 5,
+      "natural_change_rate": 9.8
+    },
+    {
+      "year": "2541/1998",
+      "population": "61,466,178",
+      "live_births": 897201,
+      "deaths": 310534,
+      "natural_increase": 586667,
+      "crude_birth_rate": 14.7,
+      "crude_death_rate": 5.1,
+      "natural_change_rate": 9.6
+    },
+    {
+      "year": "2542/1999",
+      "population": "61,661,701",
+      "live_births": 754685,
+      "deaths": 362607,
+      "natural_increase": 392078,
+      "crude_birth_rate": 12.3,
+      "crude_death_rate": 5.9,
+      "natural_change_rate": 6.4
+    },
+    {
+      "year": "2543/2000",
+      "population": "61,878,746",
+      "live_births": 773009,
+      "deaths": 365741,
+      "natural_increase": 407268,
+      "crude_birth_rate": 12.5,
+      "crude_death_rate": 5.9,
+      "natural_change_rate": 6.6
+    },
+    {
+      "year": "2544/2001",
+      "population": "62,308,887",
+      "live_births": 790425,
+      "deaths": 369493,
+      "natural_increase": 420932,
+      "crude_birth_rate": 12.7,
+      "crude_death_rate": 6,
+      "natural_change_rate": 6.7
+    },
+    {
+      "year": "2545/2002",
+      "population": "62,799,872",
+      "live_births": 782911,
+      "deaths": 380364,
+      "natural_increase": 402547,
+      "crude_birth_rate": 12.5,
+      "crude_death_rate": 6.1,
+      "natural_change_rate": 6.4
+    },
+    {
+      "year": "2546/2003",
+      "population": "63,079,765",
+      "live_births": 742183,
+      "deaths": 384131,
+      "natural_increase": 358052,
+      "crude_birth_rate": 11.8,
+      "crude_death_rate": 6.1,
+      "natural_change_rate": 5.7
+    },
+    {
+      "year": "2547/2004",
+      "population": "61,973,621**",
+      "live_births": 813069,
+      "deaths": 393592,
+      "natural_increase": 419477,
+      "crude_birth_rate": 13,
+      "crude_death_rate": 6.3,
+      "natural_change_rate": 6.7
+    },
+    {
+      "year": "2548/2005",
+      "population": "62,418,054",
+      "live_births": 809485,
+      "deaths": 395374,
+      "natural_increase": 414111,
+      "crude_birth_rate": 13,
+      "crude_death_rate": 6.4,
+      "natural_change_rate": 6.6
+    },
+    {
+      "year": "2549/2006",
+      "population": "62,828,706",
+      "live_births": 793623,
+      "deaths": 391126,
+      "natural_increase": 402497,
+      "crude_birth_rate": 12.7,
+      "crude_death_rate": 6.2,
+      "natural_change_rate": 6.5
+    },
+    {
+      "year": "2550/2007",
+      "population": "63,038,247",
+      "live_births": 797588,
+      "deaths": 393255,
+      "natural_increase": 404333,
+      "crude_birth_rate": 12.7,
+      "crude_death_rate": 6.3,
+      "natural_change_rate": 6.4
+    },
+    {
+      "year": "2551/2008",
+      "population": "63,389,730",
+      "live_births": 784256,
+      "deaths": 397326,
+      "natural_increase": 386930,
+      "crude_birth_rate": 12.4,
+      "crude_death_rate": 6.3,
+      "natural_change_rate": 6.1
+    },
+    {
+      "year": "2552/2009",
+      "population": "63,525,062",
+      "live_births": 765047,
+      "deaths": 393916,
+      "natural_increase": 371131,
+      "crude_birth_rate": 12.1,
+      "crude_death_rate": 6.2,
+      "natural_change_rate": 5.9
+    },
+    {
+      "year": "2553/2010",
+      "population": "63,878,267",
+      "live_births": 761689,
+      "deaths": 411331,
+      "natural_increase": 350358,
+      "crude_birth_rate": 12,
+      "crude_death_rate": 6.5,
+      "natural_change_rate": 5.5
+    },
+    {
+      "year": "2554/2011",
+      "population": "64,076,033",
+      "live_births": 795031,
+      "deaths": 414670,
+      "natural_increase": 380361,
+      "crude_birth_rate": 12.4,
+      "crude_death_rate": 6.5,
+      "natural_change_rate": 5.9
+    },
+    {
+      "year": "2555/2012",
+      "population": "64,456,695",
+      "live_births": 801737,
+      "deaths": 415141,
+      "natural_increase": 386596,
+      "crude_birth_rate": 12.4,
+      "crude_death_rate": 6.5,
+      "natural_change_rate": 5.9
+    },
+    {
+      "year": "2556/2013",
+      "population": "64,785,909",
+      "live_births": 748081,
+      "deaths": 426065,
+      "natural_increase": 322016,
+      "crude_birth_rate": 11.6,
+      "crude_death_rate": 6.6,
+      "natural_change_rate": 5
+    },
+    {
+      "year": "2557/2014",
+      "population": "65,124,716",
+      "live_births": 711805,
+      "deaths": 435624,
+      "natural_increase": 276181,
+      "crude_birth_rate": 11,
+      "crude_death_rate": 6.7,
+      "natural_change_rate": 4.3
+    },
+    {
+      "year": "2558/2015",
+      "population": "65,729,098",
+      "live_births": 679502,
+      "deaths": 445964,
+      "natural_increase": 233538,
+      "crude_birth_rate": 10.4,
+      "crude_death_rate": 6.9,
+      "natural_change_rate": 3.5
+    },
+    {
+      "year": "2559/2016",
+      "population": "65,931,550",
+      "live_births": "666,207",
+      "deaths": "469,085",
+      "natural_increase": "197,122",
+      "crude_birth_rate": 10.2,
+      "crude_death_rate": 7.2,
+      "natural_change_rate": 3
+    },
+    {
+      "year": "2560/2017",
+      "population": "66,188,503",
+      "live_births": "656,571",
+      "deaths": "458,010",
+      "natural_increase": "198,561",
+      "crude_birth_rate": 10,
+      "crude_death_rate": 7,
+      "natural_change_rate": 3
+    },
+    {
+      "year": "2561/2018",
+      "population": "66,413,979",
+      "live_births": "666,357",
+      "deaths": "473,541",
+      "natural_increase": "192,568",
+      "crude_birth_rate": 10,
+      "crude_death_rate": 7.1,
+      "natural_change_rate": 2.9
+    },
+    {
+      "year": "2562/2019",
+      "population": "66,558,935",
+      "live_births": "618,193",
+      "deaths": "506,211",
+      "natural_increase": "111,982",
+      "crude_birth_rate": 9.3,
+      "crude_death_rate": 7.6,
+      "natural_change_rate": 1.7
+    },
+    {
+      "year": "2563/2020",
+      "population": "66,186,727",
+      "live_births": "587,368",
+      "deaths": "501,438",
+      "natural_increase": "85,930",
+      "crude_birth_rate": 8.9,
+      "crude_death_rate": 7.6,
+      "natural_change_rate": 1.3
+    },
+    {
+      "year": "2564/2021",
+      "population": "66,171,439",
+      "live_births": "544,570",
+      "deaths": "563,650",
+      "natural_increase": "-19,080",
+      "crude_birth_rate": 8.2,
+      "crude_death_rate": 8.5,
+      "natural_change_rate": -0.3
+    },
+    {
+      "year": "2565/2022",
+      "population": "66,090,475",
+      "live_births": "502,107",
+      "deaths": "595,965",
+      "natural_increase": "-93,858",
+      "crude_birth_rate": 7.6,
+      "crude_death_rate": 9,
+      "natural_change_rate": -1.4
+    },
+    {
+      "year": "2566/2023",
+      "population": "66,052,615",
+      "live_births": "517,934",
+      "deaths": "565,992",
+      "natural_increase": "-48,054",
+      "crude_birth_rate": 7.8,
+      "crude_death_rate": 8.5,
+      "natural_change_rate": -0.7
+    },
+    {
+      "year": "2567/2024",
+      "population": "65,951,210",
+      "live_births": "462,240",
+      "deaths": "571,646",
+      "natural_increase": "-109,406",
+      "crude_birth_rate": 7,
+      "crude_death_rate": 8.7,
+      "natural_change_rate": -1.7
+    },
+    {
+      "year": "2568/2025",
+      "population": "65,809,011",
+      "live_births": "",
+      "deaths": "",
+      "natural_increase": "",
+      "crude_birth_rate": "",
+      "crude_death_rate": "",
+      "natural_change_rate": ""
+    }
+  ],
+  "meta": {
+    "title": "สถิติการเกิดและการตายของประชากรไทย - ดาวน์โหลดฟรี",
+    "description": "จำนวนการเกิดมีชีพ การตาย และการเพิ่มตามธรรมชาติของประชากรไทยรายปีตั้งแต่ พ.ศ. 2526 มีทั้งหมด 43 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สถิติการเกิดและการตายของประชากรไทย | ListBase",
+    "seo_description": "ดาวน์โหลด สถิติการเกิดและการตายของประชากรไทย — 43 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 43 รายการ / 8 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย"
+    ]
+  }
+}

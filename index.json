@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:43:11.263Z",
-  "total_datasets": 745,
-  "total_records": 272669,
+  "generated": "2026-10-27T02:43:13.883Z",
+  "total_datasets": 746,
+  "total_records": 272712,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -21734,6 +21734,35 @@
         "xlsx": {
           "name": "th-religions-population_TH.xlsx",
           "size": 7483
+        }
+      }
+    },
+    {
+      "id": "th-vital-statistics",
+      "name": "สถิติการเกิดและการตายของประชากรไทย",
+      "category": "society",
+      "record_count": 43,
+      "columns": [
+        "year",
+        "population",
+        "live_births",
+        "deaths",
+        "natural_increase",
+        "crude_birth_rate",
+        "crude_death_rate",
+        "natural_change_rate"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+      "updated": "2026-10",
+      "size": 13825,
+      "files": {
+        "csv": {
+          "name": "th-vital-statistics_TH.csv",
+          "size": 3061
+        },
+        "xlsx": {
+          "name": "th-vital-statistics_TH.xlsx",
+          "size": 9437
         }
       }
     },
