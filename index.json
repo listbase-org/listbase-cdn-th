@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:43:02.977Z",
-  "total_datasets": 742,
-  "total_records": 272549,
+  "generated": "2026-10-27T02:43:05.661Z",
+  "total_datasets": 743,
+  "total_records": 272578,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -21707,6 +21707,33 @@
         "xlsx": {
           "name": "th-football-champion-clubs-titles_TH.xlsx",
           "size": 8015
+        }
+      }
+    },
+    {
+      "id": "th-thai-league-champions",
+      "name": "ทีมชนะเลิศฟุตบอลไทยลีก",
+      "category": "sports",
+      "record_count": 29,
+      "columns": [
+        "season",
+        "champion",
+        "runner_up",
+        "third_place",
+        "top_scorer",
+        "goals"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อผู้ชนะเลิศฟุตบอลไทย",
+      "updated": "2026-10",
+      "size": 13773,
+      "files": {
+        "csv": {
+          "name": "th-thai-league-champions_TH.csv",
+          "size": 7579
+        },
+        "xlsx": {
+          "name": "th-thai-league-champions_TH.xlsx",
+          "size": 8877
         }
       }
     },
