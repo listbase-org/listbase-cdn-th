@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:57.840Z",
-  "total_datasets": 740,
-  "total_records": 272169,
+  "generated": "2026-10-27T02:43:00.430Z",
+  "total_datasets": 741,
+  "total_records": 272497,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "economy",
@@ -274,6 +274,34 @@
         "xlsx": {
           "name": "th-phiphithaphan_TH.xlsx",
           "size": 15819
+        }
+      }
+    },
+    {
+      "id": "th-royal-temples",
+      "name": "พระอารามหลวงในประเทศไทย",
+      "category": "culture",
+      "record_count": 328,
+      "columns": [
+        "temple",
+        "grade",
+        "sect",
+        "subdistrict",
+        "district",
+        "province",
+        "abbot"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อพระอารามหลวงในประเทศไทย",
+      "updated": "2026-10",
+      "size": 134689,
+      "files": {
+        "csv": {
+          "name": "th-royal-temples_TH.csv",
+          "size": 87497
+        },
+        "xlsx": {
+          "name": "th-royal-temples_TH.xlsx",
+          "size": 27423
         }
       }
     },
