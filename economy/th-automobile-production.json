@@ -1,0 +1,168 @@
+{
+  "id": "th-automobile-production",
+  "name": "การผลิตรถยนต์ของไทยรายปี",
+  "title": "การผลิตรถยนต์ของไทยรายปี",
+  "description": "ยอดผลิตรถยนต์ของประเทศไทยรายปี แยกผลิตเพื่อจำหน่ายในประเทศและส่งออก พร้อมมูลค่าการส่งออก",
+  "category": "economy",
+  "source": "https://th.wikipedia.org/wiki/เศรษฐกิจไทย",
+  "source_url": "https://th.wikipedia.org/wiki/เศรษฐกิจไทย",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "year_be",
+      "label": "Year Be",
+      "type": "number"
+    },
+    {
+      "key": "production_units",
+      "label": "Production Units",
+      "type": "number"
+    },
+    {
+      "key": "domestic_units",
+      "label": "Domestic Units",
+      "type": "number"
+    },
+    {
+      "key": "export_units",
+      "label": "Export Units",
+      "type": "number"
+    },
+    {
+      "key": "export_value_million_baht",
+      "label": "Export Value Million Baht",
+      "type": "number"
+    },
+    {
+      "key": "export_share_gdp",
+      "label": "Export Share Gdp",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year_be": 2548,
+      "production_units": 1125316,
+      "domestic_units": 690409,
+      "export_units": 434907,
+      "export_value_million_baht": 203025.36,
+      "export_share_gdp": "2.86%"
+    },
+    {
+      "year_be": 2549,
+      "production_units": 1188044,
+      "domestic_units": 646838,
+      "export_units": 541206,
+      "export_value_million_baht": 240764.09,
+      "export_share_gdp": "3.07%"
+    },
+    {
+      "year_be": 2550,
+      "production_units": 1287379,
+      "domestic_units": 598287,
+      "export_units": 689092,
+      "export_value_million_baht": 306595.2,
+      "export_share_gdp": "3.88%"
+    },
+    {
+      "year_be": 2551,
+      "production_units": 1394029,
+      "domestic_units": 610317,
+      "export_units": 783712,
+      "export_value_million_baht": 351326.97,
+      "export_share_gdp": "3.87%"
+    },
+    {
+      "year_be": 2552,
+      "production_units": 999378,
+      "domestic_units": 447318,
+      "export_units": 552060,
+      "export_value_million_baht": 251342.99,
+      "export_share_gdp": "2.79%"
+    },
+    {
+      "year_be": 2553,
+      "production_units": 1645304,
+      "domestic_units": 750614,
+      "export_units": 894690,
+      "export_value_million_baht": 404659.37,
+      "export_share_gdp": "4.00%"
+    },
+    {
+      "year_be": 2554,
+      "production_units": 1457795,
+      "domestic_units": 723845,
+      "export_units": 733950,
+      "export_value_million_baht": 343383.92,
+      "export_share_gdp": "3.26%"
+    },
+    {
+      "year_be": 2555,
+      "production_units": 2453717,
+      "domestic_units": 1432052,
+      "export_units": 1021665,
+      "export_value_million_baht": 490134.74,
+      "export_share_gdp": "4.31%"
+    },
+    {
+      "year_be": 2556,
+      "production_units": 2457086,
+      "domestic_units": 1335783,
+      "export_units": 1121303,
+      "export_value_million_baht": 512186.4,
+      "export_share_gdp": "4.30%"
+    },
+    {
+      "year_be": 2557,
+      "production_units": 1880007,
+      "domestic_units": 757853,
+      "export_units": 1122154,
+      "export_value_million_baht": 527423.43,
+      "export_share_gdp": "4.02%"
+    },
+    {
+      "year_be": 2558,
+      "production_units": 1913002,
+      "domestic_units": 712028,
+      "export_units": 1200974,
+      "export_value_million_baht": 592550,
+      "export_share_gdp": "4.41%"
+    },
+    {
+      "year_be": 2559,
+      "production_units": 1944417,
+      "domestic_units": 776843,
+      "export_units": 1167574,
+      "export_value_million_baht": 631845,
+      "export_share_gdp": ""
+    },
+    {
+      "year_be": 2560,
+      "production_units": 1988823,
+      "domestic_units": 862391,
+      "export_units": 1126432,
+      "export_value_million_baht": 603037,
+      "export_share_gdp": ""
+    },
+    {
+      "year_be": 2561,
+      "production_units": 2167694,
+      "domestic_units": 1041739,
+      "export_units": 1140640,
+      "export_value_million_baht": 948397.83,
+      "export_share_gdp": ""
+    }
+  ],
+  "meta": {
+    "title": "การผลิตรถยนต์ของไทยรายปี - ดาวน์โหลดฟรี",
+    "description": "ยอดผลิตรถยนต์ของประเทศไทยรายปี แยกผลิตเพื่อจำหน่ายในประเทศและส่งออก พร้อมมูลค่าการส่งออก มีทั้งหมด 14 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "การผลิตรถยนต์ของไทยรายปี | ListBase",
+    "seo_description": "ดาวน์โหลด การผลิตรถยนต์ของไทยรายปี — 14 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 14 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/เศรษฐกิจไทย"
+    ]
+  }
+}

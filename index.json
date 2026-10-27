@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-20T03:47:55.849Z",
-  "total_datasets": 726,
-  "total_records": 270890,
+  "generated": "2026-10-27T02:42:21.929Z",
+  "total_datasets": 727,
+  "total_records": 270904,
   "categories": [
     {
       "id": "agriculture",
@@ -15,6 +15,10 @@
     {
       "id": "culture",
       "dataset_count": 2
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -254,6 +258,33 @@
         "xlsx": {
           "name": "th-phiphithaphan_TH.xlsx",
           "size": 15819
+        }
+      }
+    },
+    {
+      "id": "th-automobile-production",
+      "name": "การผลิตรถยนต์ของไทยรายปี",
+      "category": "economy",
+      "record_count": 14,
+      "columns": [
+        "year_be",
+        "production_units",
+        "domestic_units",
+        "export_units",
+        "export_value_million_baht",
+        "export_share_gdp"
+      ],
+      "source": "https://th.wikipedia.org/wiki/เศรษฐกิจไทย",
+      "updated": "2026-10",
+      "size": 5507,
+      "files": {
+        "csv": {
+          "name": "th-automobile-production_TH.csv",
+          "size": 863
+        },
+        "xlsx": {
+          "name": "th-automobile-production_TH.xlsx",
+          "size": 7482
         }
       }
     },
