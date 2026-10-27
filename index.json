@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:46.818Z",
-  "total_datasets": 736,
-  "total_records": 271443,
+  "generated": "2026-10-27T02:42:49.840Z",
+  "total_datasets": 737,
+  "total_records": 271520,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "finance",
@@ -515,6 +515,30 @@
         "xlsx": {
           "name": "th-highest-grossing-thai-films_TH.xlsx",
           "size": 9489
+        }
+      }
+    },
+    {
+      "id": "th-provincial-auspicious-trees",
+      "name": "พันธุ์ไม้มงคลพระราชทานประจำจังหวัด",
+      "category": "environment",
+      "record_count": 77,
+      "columns": [
+        "province",
+        "auspicious_tree",
+        "scientific_name"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายการพันธุ์ไม้มงคลพระราชทานประจำจังหวัด",
+      "updated": "2026-10",
+      "size": 15781,
+      "files": {
+        "csv": {
+          "name": "th-provincial-auspicious-trees_TH.csv",
+          "size": 6876
+        },
+        "xlsx": {
+          "name": "th-provincial-auspicious-trees_TH.xlsx",
+          "size": 10628
         }
       }
     },

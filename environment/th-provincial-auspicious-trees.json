@@ -1,0 +1,426 @@
+{
+  "id": "th-provincial-auspicious-trees",
+  "name": "พันธุ์ไม้มงคลพระราชทานประจำจังหวัด",
+  "title": "พันธุ์ไม้มงคลพระราชทานประจำจังหวัด",
+  "description": "รายการพันธุ์ไม้มงคลพระราชทานประจำจังหวัดทั่วประเทศไทย พร้อมชื่อวิทยาศาสตร์",
+  "category": "environment",
+  "source": "https://th.wikipedia.org/wiki/รายการพันธุ์ไม้มงคลพระราชทานประจำจังหวัด",
+  "source_url": "https://th.wikipedia.org/wiki/รายการพันธุ์ไม้มงคลพระราชทานประจำจังหวัด",
+  "updated": "2026-10",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "auspicious_tree",
+      "label": "Auspicious Tree",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "เชียงราย",
+      "auspicious_tree": "กาซะลองคำ",
+      "scientific_name": "Mayodendron igneum"
+    },
+    {
+      "province": "เชียงใหม่",
+      "auspicious_tree": "ทองกวาว (กวาว, ก๋าว)",
+      "scientific_name": "Butea monosperma"
+    },
+    {
+      "province": "น่าน",
+      "auspicious_tree": "กำลังเสือโคร่ง",
+      "scientific_name": "Betula alnoides"
+    },
+    {
+      "province": "พะเยา",
+      "auspicious_tree": "สารภี",
+      "scientific_name": "Mammea siamensis"
+    },
+    {
+      "province": "แพร่",
+      "auspicious_tree": "ยมหิน (ยมขาว)",
+      "scientific_name": "Chukrasia tabularis"
+    },
+    {
+      "province": "แม่ฮ่องสอน",
+      "auspicious_tree": "จั่น (กระพี้จั่น)",
+      "scientific_name": "Millettia brandisiana"
+    },
+    {
+      "province": "ลำปาง",
+      "auspicious_tree": "กระเชา (ขเจา, ขจาว)",
+      "scientific_name": "Holoptelea integrifolia"
+    },
+    {
+      "province": "ลำพูน",
+      "auspicious_tree": "ก้ามปู (สำสา, จามจุรีแดง, จามจุรี)",
+      "scientific_name": "Samanea saman"
+    },
+    {
+      "province": "อุตรดิตถ์",
+      "auspicious_tree": "สัก",
+      "scientific_name": "Tectona grandis"
+    },
+    {
+      "province": "กาฬสินธุ์",
+      "auspicious_tree": "มะหาด",
+      "scientific_name": "Artocarpus lacucha"
+    },
+    {
+      "province": "ขอนแก่น",
+      "auspicious_tree": "กัลปพฤกษ์",
+      "scientific_name": "Cassia bakeriana"
+    },
+    {
+      "province": "ชัยภูมิ",
+      "auspicious_tree": "ขี้เหล็ก",
+      "scientific_name": "Senna siamea"
+    },
+    {
+      "province": "นครพนม",
+      "auspicious_tree": "กันเกรา (มันปลา)",
+      "scientific_name": "Fagraea fragrans"
+    },
+    {
+      "province": "นครราชสีมา",
+      "auspicious_tree": "สาธร",
+      "scientific_name": "Millettia leucantha var. buteoides"
+    },
+    {
+      "province": "บึงกาฬ",
+      "auspicious_tree": "–",
+      "scientific_name": "–"
+    },
+    {
+      "province": "บุรีรัมย์",
+      "auspicious_tree": "กาฬพฤกษ์",
+      "scientific_name": "Cassia grandis"
+    },
+    {
+      "province": "มหาสารคาม",
+      "auspicious_tree": "พฤกษ์ (จามจุรี, มะรุมป่า)",
+      "scientific_name": "Albizia lebbeck"
+    },
+    {
+      "province": "มุกดาหาร",
+      "auspicious_tree": "ตานเหลือง (ช้างน้าว)",
+      "scientific_name": "Ochna integerrima"
+    },
+    {
+      "province": "ยโสธร",
+      "auspicious_tree": "กระบาก",
+      "scientific_name": "Anisoptera costata"
+    },
+    {
+      "province": "ร้อยเอ็ด",
+      "auspicious_tree": "กระบก (หมากบก)",
+      "scientific_name": "Irvingia malayana"
+    },
+    {
+      "province": "เลย",
+      "auspicious_tree": "สนสามใบ (สนเขา)",
+      "scientific_name": "Pinus kesiya"
+    },
+    {
+      "province": "ศรีสะเกษ",
+      "auspicious_tree": "ลำดวน (รันดูล)",
+      "scientific_name": "Melodorum fruticosum"
+    },
+    {
+      "province": "สกลนคร",
+      "auspicious_tree": "อินทนิล (อินทนิลน้ำ)",
+      "scientific_name": "Lagerstroemia speciosa"
+    },
+    {
+      "province": "สุรินทร์",
+      "auspicious_tree": "มะค่าแต้ (แต้)",
+      "scientific_name": "Sindora siamensis"
+    },
+    {
+      "province": "หนองคาย",
+      "auspicious_tree": "ชิงชัน",
+      "scientific_name": "Dalbergia oliveri"
+    },
+    {
+      "province": "หนองบัวลำภู",
+      "auspicious_tree": "พะยูง",
+      "scientific_name": "Dalbergia cochinchinensis"
+    },
+    {
+      "province": "อำนาจเจริญ",
+      "auspicious_tree": "ตะเคียนหิน",
+      "scientific_name": "Hopea ferrea"
+    },
+    {
+      "province": "อุดรธานี",
+      "auspicious_tree": "รัง",
+      "scientific_name": "Shorea siamensis"
+    },
+    {
+      "province": "อุบลราชธานี",
+      "auspicious_tree": "ยางนา",
+      "scientific_name": "Dipterocarpus alatus"
+    },
+    {
+      "province": "กรุงเทพมหานคร",
+      "auspicious_tree": "ไทรย้อยใบแหลม",
+      "scientific_name": "Ficus benjamina"
+    },
+    {
+      "province": "กำแพงเพชร",
+      "auspicious_tree": "สีเสียดแก่น (สีเสียด, สีเสียดเหนือ)",
+      "scientific_name": "Senegalia catechu"
+    },
+    {
+      "province": "ชัยนาท",
+      "auspicious_tree": "มะตูม",
+      "scientific_name": "Aegle marmelos"
+    },
+    {
+      "province": "นครนายก",
+      "auspicious_tree": "สุพรรณิการ์",
+      "scientific_name": "Cochlospermum regium"
+    },
+    {
+      "province": "นครปฐม",
+      "auspicious_tree": "จันทน์ชะมดชนิด Mansonia gagei (จันทน์หอม)",
+      "scientific_name": "Mansonia gagei"
+    },
+    {
+      "province": "นครสวรรค์",
+      "auspicious_tree": "เสลา (อินทรชิต)",
+      "scientific_name": "Lagerstroemia loudonii"
+    },
+    {
+      "province": "นนทบุรี",
+      "auspicious_tree": "นนทรี (นนทรีบ้าน)",
+      "scientific_name": "Peltophorum pterocarpum"
+    },
+    {
+      "province": "ปทุมธานี",
+      "auspicious_tree": "ทองหลางลาย (ทองหลางด่าง, ปาริชาต)",
+      "scientific_name": "Erythrina variegata"
+    },
+    {
+      "province": "พระนครศรีอยุธยา",
+      "auspicious_tree": "หมัน",
+      "scientific_name": "Cordia cochinchinensis"
+    },
+    {
+      "province": "พิจิตร",
+      "auspicious_tree": "บุนนาค",
+      "scientific_name": "Mesua ferrea"
+    },
+    {
+      "province": "พิษณุโลก",
+      "auspicious_tree": "ปีบ",
+      "scientific_name": "Millingtonia hortensis"
+    },
+    {
+      "province": "เพชรบูรณ์",
+      "auspicious_tree": "มะขาม",
+      "scientific_name": "Tamarindus indica"
+    },
+    {
+      "province": "ลพบุรี",
+      "auspicious_tree": "พิกุล",
+      "scientific_name": "Mimusops elengi"
+    },
+    {
+      "province": "สมุทรปราการ",
+      "auspicious_tree": "โพทะเล",
+      "scientific_name": "Thespesia populnea"
+    },
+    {
+      "province": "สมุทรสงคราม",
+      "auspicious_tree": "จิกเล (จิกทะเล)",
+      "scientific_name": "Barringtonia asiatica"
+    },
+    {
+      "province": "สมุทรสาคร",
+      "auspicious_tree": "พญาสัตบรรณ (สัตบรรณ, ตีนเป็ด)",
+      "scientific_name": "Alstonia scholaris"
+    },
+    {
+      "province": "สระบุรี",
+      "auspicious_tree": "ตะแบกนา",
+      "scientific_name": "Lagerstroemia floribunda"
+    },
+    {
+      "province": "สิงห์บุรี",
+      "auspicious_tree": "มะกล่ำตาช้าง (มะกล่ำต้น)",
+      "scientific_name": "Adenanthera pavonina"
+    },
+    {
+      "province": "สุโขทัย",
+      "auspicious_tree": "มะค่า (มะค่าโมง)",
+      "scientific_name": "Afzelia xylocarpa"
+    },
+    {
+      "province": "สุพรรณบุรี",
+      "auspicious_tree": "มะเกลือ",
+      "scientific_name": "Diospyros mollis"
+    },
+    {
+      "province": "อ่างทอง",
+      "auspicious_tree": "มะพลับ (พลับ)",
+      "scientific_name": "Diospyros malabarica var. siamensis"
+    },
+    {
+      "province": "อุทัยธานี",
+      "auspicious_tree": "สะเดา",
+      "scientific_name": "Azadirachta indica var. siamensis"
+    },
+    {
+      "province": "จันทบุรี",
+      "auspicious_tree": "จัน (จันอิน, จันโอ, จันลูกหอม)",
+      "scientific_name": "Diospyros decandra"
+    },
+    {
+      "province": "ฉะเชิงเทรา",
+      "auspicious_tree": "อะราง (นนทรีป่า)",
+      "scientific_name": "Peltophorum dasyrrhachis"
+    },
+    {
+      "province": "ชลบุรี",
+      "auspicious_tree": "ประดู่ (ประดู่ป่า)",
+      "scientific_name": "Pterocarpus macrocarpus"
+    },
+    {
+      "province": "ตราด",
+      "auspicious_tree": "หูกวาง",
+      "scientific_name": "Terminalia catappa"
+    },
+    {
+      "province": "ปราจีนบุรี",
+      "auspicious_tree": "โพ (โพศรีมหาโพธิ)",
+      "scientific_name": "Ficus religiosa"
+    },
+    {
+      "province": "ระยอง",
+      "auspicious_tree": "กระทิง (สารภีทะเล, กากะทิง)",
+      "scientific_name": "Calophyllum inophyllum"
+    },
+    {
+      "province": "สระแก้ว",
+      "auspicious_tree": "มะขามป้อม",
+      "scientific_name": "Phyllanthus emblica"
+    },
+    {
+      "province": "กาญจนบุรี",
+      "auspicious_tree": "ขานาง",
+      "scientific_name": "Homalium tomentosum"
+    },
+    {
+      "province": "ตาก",
+      "auspicious_tree": "แดง",
+      "scientific_name": "Xylia xylocarpa var. kerrii"
+    },
+    {
+      "province": "ประจวบคีรีขันธ์",
+      "auspicious_tree": "เกด",
+      "scientific_name": "Manilkara hexandra"
+    },
+    {
+      "province": "เพชรบุรี",
+      "auspicious_tree": "หว้า",
+      "scientific_name": "Syzygium cumini"
+    },
+    {
+      "province": "ราชบุรี",
+      "auspicious_tree": "โมกมัน",
+      "scientific_name": "Wrightia arborea"
+    },
+    {
+      "province": "กระบี่",
+      "auspicious_tree": "ทุ้งฟ้า",
+      "scientific_name": "Alstonia macrophylla"
+    },
+    {
+      "province": "ชุมพร",
+      "auspicious_tree": "มะเดื่ออุทุมพร (มะเดื่อชุมพร)",
+      "scientific_name": "Ficus racemosa"
+    },
+    {
+      "province": "ตรัง",
+      "auspicious_tree": "ศรีตรังชนิด Jacaranda obtusifolia",
+      "scientific_name": "Jacaranda obtusifolia"
+    },
+    {
+      "province": "นครศรีธรรมราช",
+      "auspicious_tree": "แซะ",
+      "scientific_name": "Callerya atropurpurea"
+    },
+    {
+      "province": "นราธิวาส",
+      "auspicious_tree": "ตะเคียนชันตาแมว (จืองา มัส, จืองา บาตู)",
+      "scientific_name": "Neobalanocarpus heimii"
+    },
+    {
+      "province": "ปัตตานี",
+      "auspicious_tree": "ตะเคียน (ตะเคียนทอง, จืองา)",
+      "scientific_name": "Hopea odorata"
+    },
+    {
+      "province": "พังงา",
+      "auspicious_tree": "เทพทาโร (จวง, จวงหอม)",
+      "scientific_name": "Cinnamomum porrectum"
+    },
+    {
+      "province": "พัทลุง",
+      "auspicious_tree": "พะยอม",
+      "scientific_name": "Shorea roxburghii"
+    },
+    {
+      "province": "ภูเก็ต",
+      "auspicious_tree": "ประดู่บ้าน (ประดู่)",
+      "scientific_name": "Pterocarpus indicus"
+    },
+    {
+      "province": "ยะลา",
+      "auspicious_tree": "อโศกเหลือง (โสกเหลือง, ศรียะลา)",
+      "scientific_name": "Saraca thaipingensis"
+    },
+    {
+      "province": "ระนอง",
+      "auspicious_tree": "อบเชย (เชียด, บริแวง, ฝนแสนห่า)",
+      "scientific_name": "Cinnamomum bejolghota"
+    },
+    {
+      "province": "สงขลา",
+      "auspicious_tree": "สะเดาเทียม (เทียม, สะเดาช้าง)",
+      "scientific_name": "Azadirachta excelsa"
+    },
+    {
+      "province": "สตูล",
+      "auspicious_tree": "กระซิก (หมากพลูตั๊กแตน)",
+      "scientific_name": "Dalbergia parviflora"
+    },
+    {
+      "province": "สุราษฎร์ธานี",
+      "auspicious_tree": "เคี่ยม",
+      "scientific_name": "Cotylelobium lanceolatum"
+    }
+  ],
+  "meta": {
+    "title": "พันธุ์ไม้มงคลพระราชทานประจำจังหวัด - ดาวน์โหลดฟรี",
+    "description": "รายการพันธุ์ไม้มงคลพระราชทานประจำจังหวัดทั่วประเทศไทย พร้อมชื่อวิทยาศาสตร์ มีทั้งหมด 77 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "พันธุ์ไม้มงคลพระราชทานประจำจังหวัด | ListBase",
+    "seo_description": "ดาวน์โหลด พันธุ์ไม้มงคลพระราชทานประจำจังหวัด — 77 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 77 รายการ / 3 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายการพันธุ์ไม้มงคลพระราชทานประจำจังหวัด"
+    ]
+  }
+}
