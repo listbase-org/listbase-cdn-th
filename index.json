@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:41.372Z",
-  "total_datasets": 734,
-  "total_records": 271403,
+  "generated": "2026-10-27T02:42:44.275Z",
+  "total_datasets": 735,
+  "total_records": 271432,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -7118,6 +7118,32 @@
         "xlsx": {
           "name": "thailand-regions_TH.xlsx",
           "size": 7672
+        }
+      }
+    },
+    {
+      "id": "th-medical-schools",
+      "name": "สถาบันแพทยศาสตร์ (โรงเรียนแพทย์) ในประเทศไทย",
+      "category": "health",
+      "record_count": 29,
+      "columns": [
+        "name",
+        "affiliation",
+        "founded_be",
+        "first_class_be",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสถาบันแพทยศาสตร์ในประเทศไทย",
+      "updated": "2026-10",
+      "size": 13610,
+      "files": {
+        "csv": {
+          "name": "th-medical-schools_TH.csv",
+          "size": 7802
+        },
+        "xlsx": {
+          "name": "th-medical-schools_TH.xlsx",
+          "size": 8676
         }
       }
     },
