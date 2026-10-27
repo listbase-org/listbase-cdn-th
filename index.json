@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:24.572Z",
-  "total_datasets": 728,
-  "total_records": 270938,
+  "generated": "2026-10-27T02:42:27.666Z",
+  "total_datasets": 729,
+  "total_records": 270968,
   "categories": [
     {
       "id": "agriculture",
@@ -75,6 +75,10 @@
     {
       "id": "science",
       "dataset_count": 17
+    },
+    {
+      "id": "sports",
+      "dataset_count": 1
     },
     {
       "id": "tech",
@@ -21378,6 +21382,30 @@
         "xlsx": {
           "name": "science-thai-government-hospitals_TH.xlsx",
           "size": 10346
+        }
+      }
+    },
+    {
+      "id": "th-football-champion-clubs-titles",
+      "name": "สโมสรที่ได้แชมป์ฟุตบอลลีกไทยมากที่สุด",
+      "category": "sports",
+      "record_count": 30,
+      "columns": [
+        "club",
+        "titles",
+        "winning_years"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อผู้ชนะเลิศฟุตบอลไทย",
+      "updated": "2026-10",
+      "size": 7072,
+      "files": {
+        "csv": {
+          "name": "th-football-champion-clubs-titles_TH.csv",
+          "size": 2688
+        },
+        "xlsx": {
+          "name": "th-football-champion-clubs-titles_TH.xlsx",
+          "size": 8015
         }
       }
     },
