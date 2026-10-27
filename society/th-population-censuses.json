@@ -1,0 +1,112 @@
+{
+  "id": "th-population-censuses",
+  "name": "การสำมะโนประชากรของไทย",
+  "title": "การสำมะโนประชากรของไทย",
+  "description": "จำนวนประชากรไทยจากการสำมะโนประชากรแต่ละครั้งตั้งแต่ พ.ศ. 2453 และอัตราเพิ่ม",
+  "category": "society",
+  "source": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+  "source_url": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "census_no",
+      "label": "Census No",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "growth_rate",
+      "label": "Growth Rate",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "census_no": 1,
+      "year": "2453 (1910)",
+      "population": 8131247,
+      "growth_rate": "-"
+    },
+    {
+      "census_no": 2,
+      "year": "2462 (1919)",
+      "population": 9207355,
+      "growth_rate": "+ 13.2 (ต่อ 9 ปี)"
+    },
+    {
+      "census_no": 3,
+      "year": "2472 (1929)",
+      "population": 11506207,
+      "growth_rate": "+ 25.0"
+    },
+    {
+      "census_no": 4,
+      "year": "2480 (1937)",
+      "population": 14464105,
+      "growth_rate": "+ 25.7 (ต่อ 8 ปี)"
+    },
+    {
+      "census_no": 5,
+      "year": "2490 (1947)",
+      "population": 17442689,
+      "growth_rate": "+ 20.6"
+    },
+    {
+      "census_no": 6,
+      "year": "2503 (1960)",
+      "population": 26257916,
+      "growth_rate": "+ 50.5 (ต่อ 13 ปี)"
+    },
+    {
+      "census_no": 7,
+      "year": "2513 (1970)",
+      "population": 34397371,
+      "growth_rate": "+ 31.0"
+    },
+    {
+      "census_no": 8,
+      "year": "2523 (1980)",
+      "population": 44824540,
+      "growth_rate": "+ 30.3"
+    },
+    {
+      "census_no": 9,
+      "year": "2533 (1990)",
+      "population": 54548530,
+      "growth_rate": "+ 21.7"
+    },
+    {
+      "census_no": 10,
+      "year": "2543 (2000)",
+      "population": 60916441,
+      "growth_rate": "+ 11.7"
+    },
+    {
+      "census_no": 11,
+      "year": "2553 (2010)",
+      "population": 65981659,
+      "growth_rate": "+ 8.3"
+    }
+  ],
+  "meta": {
+    "title": "การสำมะโนประชากรของไทย - ดาวน์โหลดฟรี",
+    "description": "จำนวนประชากรไทยจากการสำมะโนประชากรแต่ละครั้งตั้งแต่ พ.ศ. 2453 และอัตราเพิ่ม มีทั้งหมด 11 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "การสำมะโนประชากรของไทย | ListBase",
+    "seo_description": "ดาวน์โหลด การสำมะโนประชากรของไทย — 11 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 11 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย"
+    ]
+  }
+}
