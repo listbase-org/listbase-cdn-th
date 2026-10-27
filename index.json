@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-27T02:42:49.840Z",
-  "total_datasets": 737,
-  "total_records": 271520,
+  "generated": "2026-10-27T02:42:52.682Z",
+  "total_datasets": 738,
+  "total_records": 272116,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "units",
@@ -22224,6 +22224,32 @@
         "xlsx": {
           "name": "th-airports_TH.xlsx",
           "size": 11375
+        }
+      }
+    },
+    {
+      "id": "th-railway-accidents",
+      "name": "อุบัติเหตุทางรถไฟในประเทศไทย",
+      "category": "transport",
+      "record_count": 596,
+      "columns": [
+        "date",
+        "trains",
+        "accident_type",
+        "location",
+        "damage"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่ออุบัติเหตุทางรถไฟในประเทศไทย",
+      "updated": "2026-10",
+      "size": 332274,
+      "files": {
+        "csv": {
+          "name": "th-railway-accidents_TH.csv",
+          "size": 267568
+        },
+        "xlsx": {
+          "name": "th-railway-accidents_TH.xlsx",
+          "size": 63761
         }
       }
     },
