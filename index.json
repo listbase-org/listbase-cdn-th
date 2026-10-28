@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:23.903Z",
-  "total_datasets": 747,
-  "total_records": 273036,
+  "generated": "2026-10-28T02:20:26.625Z",
+  "total_datasets": 748,
+  "total_records": 274081,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -22427,6 +22427,30 @@
         "xlsx": {
           "name": "th-historical-parks_TH.xlsx",
           "size": 7545
+        }
+      }
+    },
+    {
+      "id": "th-namtok",
+      "name": "รายชื่อน้ำตกในประเทศไทย",
+      "category": "tourism",
+      "record_count": 1045,
+      "columns": [
+        "name",
+        "details",
+        "province"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อน้ำตกในประเทศไทย",
+      "updated": "2026-10",
+      "size": 249343,
+      "files": {
+        "csv": {
+          "name": "th-namtok_TH.csv",
+          "size": 180255
+        },
+        "xlsx": {
+          "name": "th-namtok_TH.xlsx",
+          "size": 40307
         }
       }
     },
