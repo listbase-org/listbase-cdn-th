@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:37.528Z",
-  "total_datasets": 752,
-  "total_records": 276180,
+  "generated": "2026-10-28T02:20:40.049Z",
+  "total_datasets": 753,
+  "total_records": 276330,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "economy",
@@ -302,6 +302,30 @@
         "xlsx": {
           "name": "th-royal-temples_TH.xlsx",
           "size": 27423
+        }
+      }
+    },
+    {
+      "id": "th-sinlapin-haeng-chat",
+      "name": "รายชื่อศิลปินแห่งชาติ",
+      "category": "culture",
+      "record_count": 150,
+      "columns": [
+        "year_be",
+        "field",
+        "artists"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายพระนามและชื่อศิลปินแห่งชาติ",
+      "updated": "2026-10",
+      "size": 66062,
+      "files": {
+        "csv": {
+          "name": "th-sinlapin-haeng-chat_TH.csv",
+          "size": 54376
+        },
+        "xlsx": {
+          "name": "th-sinlapin-haeng-chat_TH.xlsx",
+          "size": 17884
         }
       }
     },
