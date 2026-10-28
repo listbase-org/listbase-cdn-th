@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:31.742Z",
-  "total_datasets": 750,
-  "total_records": 274158,
+  "generated": "2026-10-28T02:20:34.814Z",
+  "total_datasets": 751,
+  "total_records": 274180,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -7275,6 +7275,32 @@
         "xlsx": {
           "name": "th-medical-schools_TH.xlsx",
           "size": 8676
+        }
+      }
+    },
+    {
+      "id": "th-sathaban-tantaphaetsat",
+      "name": "รายชื่อสถาบันทันตแพทยศาสตร์ในประเทศไทย",
+      "category": "health",
+      "record_count": 22,
+      "columns": [
+        "name",
+        "affiliation",
+        "founded_be",
+        "first_teaching_be",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสถาบันทันตแพทยศาสตร์ในประเทศไทย",
+      "updated": "2026-10",
+      "size": 12689,
+      "files": {
+        "csv": {
+          "name": "th-sathaban-tantaphaetsat_TH.csv",
+          "size": 7417
+        },
+        "xlsx": {
+          "name": "th-sathaban-tantaphaetsat_TH.xlsx",
+          "size": 8402
         }
       }
     },
