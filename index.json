@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:29.124Z",
-  "total_datasets": 749,
-  "total_records": 274100,
+  "generated": "2026-10-28T02:20:31.742Z",
+  "total_datasets": 750,
+  "total_records": 274158,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -21835,6 +21835,39 @@
         "xlsx": {
           "name": "th-phu-thue-thong-olympic_TH.xlsx",
           "size": 7865
+        }
+      }
+    },
+    {
+      "id": "th-sapmosorn-thai-league",
+      "name": "รายชื่อสโมสรในไทยลีก",
+      "category": "sports",
+      "record_count": 58,
+      "columns": [
+        "club",
+        "location",
+        "seasons_total",
+        "consecutive_current",
+        "consecutive_longest",
+        "last_promotion",
+        "last_relegation",
+        "seasons_missed",
+        "seasons_in_league",
+        "titles",
+        "current_status",
+        "best_finish"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสโมสรในไทยลีก",
+      "updated": "2026-10",
+      "size": 34689,
+      "files": {
+        "csv": {
+          "name": "th-sapmosorn-thai-league_TH.csv",
+          "size": 15002
+        },
+        "xlsx": {
+          "name": "th-sapmosorn-thai-league_TH.xlsx",
+          "size": 11894
         }
       }
     },
