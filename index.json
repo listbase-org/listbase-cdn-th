@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:26.625Z",
-  "total_datasets": 748,
-  "total_records": 274081,
+  "generated": "2026-10-28T02:20:29.124Z",
+  "total_datasets": 749,
+  "total_records": 274100,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -21810,6 +21810,31 @@
         "xlsx": {
           "name": "th-football-champion-clubs-titles_TH.xlsx",
           "size": 8015
+        }
+      }
+    },
+    {
+      "id": "th-phu-thue-thong-olympic",
+      "name": "ผู้ถือธงชาติไทยในพิธีเปิดโอลิมปิก",
+      "category": "sports",
+      "record_count": 19,
+      "columns": [
+        "games",
+        "season",
+        "flag_bearer",
+        "sport"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ประเทศไทยในโอลิมปิก",
+      "updated": "2026-10",
+      "size": 6691,
+      "files": {
+        "csv": {
+          "name": "th-phu-thue-thong-olympic_TH.csv",
+          "size": 2708
+        },
+        "xlsx": {
+          "name": "th-phu-thue-thong-olympic_TH.xlsx",
+          "size": 7865
         }
       }
     },
