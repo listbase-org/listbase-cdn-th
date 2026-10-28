@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:34.814Z",
-  "total_datasets": 751,
-  "total_records": 274180,
+  "generated": "2026-10-28T02:20:37.528Z",
+  "total_datasets": 752,
+  "total_records": 276180,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -22535,6 +22535,29 @@
         "xlsx": {
           "name": "th-namtok_TH.xlsx",
           "size": 40307
+        }
+      }
+    },
+    {
+      "id": "th-sathanthi-thongthiao",
+      "name": "รายชื่อสถานที่ท่องเที่ยวในประเทศไทย",
+      "category": "tourism",
+      "record_count": 2000,
+      "columns": [
+        "name",
+        "province"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสถานที่ท่องเที่ยวในประเทศไทย",
+      "updated": "2026-10",
+      "size": 278647,
+      "files": {
+        "csv": {
+          "name": "th-sathanthi-thongthiao_TH.csv",
+          "size": 184123
+        },
+        "xlsx": {
+          "name": "th-sathanthi-thongthiao_TH.xlsx",
+          "size": 54134
         }
       }
     },
