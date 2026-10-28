@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:42.749Z",
-  "total_datasets": 754,
-  "total_records": 276706,
+  "generated": "2026-10-28T02:20:45.473Z",
+  "total_datasets": 755,
+  "total_records": 276763,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -7353,6 +7353,30 @@
         "xlsx": {
           "name": "vitamins_TH.xlsx",
           "size": 9464
+        }
+      }
+    },
+    {
+      "id": "th-songkhram-nai-prathet-thai",
+      "name": "รายชื่อสงครามในประวัติศาสตร์ไทย",
+      "category": "history",
+      "record_count": 57,
+      "columns": [
+        "description",
+        "era",
+        "sub_era"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสงครามในประเทศไทย",
+      "updated": "2026-10",
+      "size": 130184,
+      "files": {
+        "csv": {
+          "name": "th-songkhram-nai-prathet-thai_TH.csv",
+          "size": 123933
+        },
+        "xlsx": {
+          "name": "th-songkhram-nai-prathet-thai_TH.xlsx",
+          "size": 29999
         }
       }
     },
