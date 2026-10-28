@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-28T02:20:40.049Z",
-  "total_datasets": 753,
-  "total_records": 276330,
+  "generated": "2026-10-28T02:20:42.749Z",
+  "total_datasets": 754,
+  "total_records": 276706,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -8002,6 +8002,29 @@
         "xlsx": {
           "name": "th-royal-compositions-rama9_TH.xlsx",
           "size": 9386
+        }
+      }
+    },
+    {
+      "id": "th-sinlapin-phleng-luk-thung",
+      "name": "รายชื่อศิลปินเพลงลูกทุ่ง",
+      "category": "music",
+      "record_count": 376,
+      "columns": [
+        "name",
+        "initial"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อศิลปินเพลงลูกทุ่ง",
+      "updated": "2026-10",
+      "size": 37687,
+      "files": {
+        "csv": {
+          "name": "th-sinlapin-phleng-luk-thung_TH.csv",
+          "size": 18769
+        },
+        "xlsx": {
+          "name": "th-sinlapin-phleng-luk-thung_TH.xlsx",
+          "size": 15639
         }
       }
     },
