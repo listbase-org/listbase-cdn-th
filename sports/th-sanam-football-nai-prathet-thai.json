@@ -1,0 +1,752 @@
+{
+  "id": "th-sanam-football-nai-prathet-thai",
+  "name": "รายชื่อสนามฟุตบอลในประเทศไทย",
+  "title": "รายชื่อสนามฟุตบอลในประเทศไทย",
+  "description": "รายชื่อสนามฟุตบอลในประเทศไทยเรียงตามความจุ พร้อมที่ตั้ง ปีที่เปิดใช้ และสโมสรผู้ใช้งานหลัก",
+  "category": "sports",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อสนามฟุตบอลในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อสนามฟุตบอลในประเทศไทย",
+  "updated": "2026-10",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "capacity",
+      "label": "Capacity",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "opened_be",
+      "label": "Opened Be",
+      "type": "number"
+    },
+    {
+      "key": "main_tenant",
+      "label": "Main Tenant",
+      "type": "string"
+    },
+    {
+      "key": "former_tenants",
+      "label": "Former Tenants",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stadium": "ราชมังคลากีฬาสถาน",
+      "capacity": 51560,
+      "location": "กรุงเทพมหานคร ( บางกะปิ )",
+      "opened_be": 2541,
+      "main_tenant": "ฟุตบอลทีมชาติไทย",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "ช้างอารีนา",
+      "capacity": 32600,
+      "location": "บุรีรัมย์",
+      "opened_be": 2554,
+      "main_tenant": "บุรีรัมย์ ยูไนเต็ด (ที1)",
+      "former_tenants": "บุรีรัมย์ บุรีรัมย์ พีอีเอ"
+    },
+    {
+      "stadium": "สนามกีฬาติณสูลานนท์",
+      "capacity": 25000,
+      "location": "สงขลา",
+      "opened_be": 2538,
+      "main_tenant": "สงขลา (ที2)",
+      "former_tenants": "วัวชน ยูไนเต็ด สงขลา ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามกีฬาเฉลิมพระเกียรติ 80 พรรษา",
+      "capacity": 25000,
+      "location": "นครราชสีมา",
+      "opened_be": 2550,
+      "main_tenant": "นครราชสีมา มาสด้า (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามฟุตบอลธรรมศาสตร์ รังสิต",
+      "capacity": 25000,
+      "location": "ปทุมธานี",
+      "opened_be": 2541,
+      "main_tenant": "",
+      "former_tenants": "ทรูแบงค็อก ยูไนเต็ด โดม"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดสุพรรณบุรี",
+      "capacity": 25000,
+      "location": "สุพรรณบุรี",
+      "opened_be": 2490,
+      "main_tenant": "สุพรรณบุรี (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากองทัพอากาศ (ธูปะเตมีย์)",
+      "capacity": 25000,
+      "location": "ปทุมธานี ( ลำลูกกา )",
+      "opened_be": "",
+      "main_tenant": "ทหารอากาศ (ที3)",
+      "former_tenants": "เกร็กคู ลูกทัพฟ้า ปทุมธานี แอร์ฟอร์ซ ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามกีฬาสมโภชเชียงใหม่ 700 ปี",
+      "capacity": 25000,
+      "location": "เชียงใหม่ ( แม่ริม )",
+      "opened_be": 2538,
+      "main_tenant": "",
+      "former_tenants": "เชียงใหม่ ทีทีเอ็ม เชียงใหม่ เชียงใหม่ ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามกีฬาจิระนคร",
+      "capacity": 25000,
+      "location": "สงขลา ( หาดใหญ่ )",
+      "opened_be": 2487,
+      "main_tenant": "",
+      "former_tenants": "ยังสิงห์ หาดใหญ่ ยูไนเต็ด หาดใหญ่ สงขลา"
+    },
+    {
+      "stadium": "สนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย",
+      "capacity": 20000,
+      "location": "กรุงเทพมหานคร ( ปทุมวัน )",
+      "opened_be": "",
+      "main_tenant": "จามจุรี ยูไนเต็ด (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากองทัพบก",
+      "capacity": 20000,
+      "location": "กรุงเทพมหานคร ( พญาไท )",
+      "opened_be": 2513,
+      "main_tenant": "",
+      "former_tenants": "อาร์มี่ ยูไนเต็ด ทหารบก"
+    },
+    {
+      "stadium": "สนามศุภชลาศัย",
+      "capacity": 19793,
+      "location": "กรุงเทพมหานคร ( ปทุมวัน )",
+      "opened_be": 2478,
+      "main_tenant": "ฟุตบอลทีมชาติไทย",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "ทรู บีจี สเตเดียม",
+      "capacity": 15114,
+      "location": "ปทุมธานี ( ธัญบุรี )",
+      "opened_be": 2553,
+      "main_tenant": "บีจี ปทุม ยูไนเต็ด (ที1) ทรูแบงค็อก ยูไนเต็ด (ที1)",
+      "former_tenants": "บีจีซี"
+    },
+    {
+      "stadium": "ธันเดอร์โดมสเตเดียม",
+      "capacity": 15000,
+      "location": "นนทบุรี ( ปากเกร็ด )",
+      "opened_be": 2541,
+      "main_tenant": "เมืองทอง ยูไนเต็ด (ที1)",
+      "former_tenants": "ทีโอที อัสสัมชัญ ยูไนเต็ด บางกอก"
+    },
+    {
+      "stadium": "สนามกีฬาสุระกุล",
+      "capacity": 15000,
+      "location": "ภูเก็ต",
+      "opened_be": "",
+      "main_tenant": "ภูเก็ต อันดามัน (ที3)",
+      "former_tenants": "ภูเก็ต ภูเก็ต ซิตี้"
+    },
+    {
+      "stadium": "พิจิตร สเตเดียม",
+      "capacity": 15000,
+      "location": "พิจิตร",
+      "opened_be": "",
+      "main_tenant": "พิจิตร ยูไนเต็ด 2025 (ที3)",
+      "former_tenants": "พิจิตร ทีทีเอ็ม พิจิตร"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดนครสวรรค์",
+      "capacity": 15000,
+      "location": "นครสวรรค์",
+      "opened_be": "",
+      "main_tenant": "นครสวรรค์ สี่แคว ซิตี้ (ที3)",
+      "former_tenants": "นครสวรรค์"
+    },
+    {
+      "stadium": "เขากระโดง สเตเดียม",
+      "capacity": 14000,
+      "location": "บุรีรัมย์",
+      "opened_be": 2553,
+      "main_tenant": "",
+      "former_tenants": "บุรีรัมย์ บุรีรัมย์ พีอีเอ"
+    },
+    {
+      "stadium": "สนามกีฬาจังหวัดกาญจนบุรี (สนามกลีบบัว)",
+      "capacity": 13000,
+      "location": "กาญจนบุรี",
+      "opened_be": 2552,
+      "main_tenant": "พลังกาญจน์ (ที1)",
+      "former_tenants": "ทีโอที เมืองกาญจน์ ยูไนเต็ด"
+    },
+    {
+      "stadium": "ราชบุรีสเตเดียม",
+      "capacity": 13000,
+      "location": "ราชบุรี",
+      "opened_be": 2559,
+      "main_tenant": "ราชบุรี (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "แพตสเตเดียม",
+      "capacity": 12308,
+      "location": "กรุงเทพมหานคร ( คลองเตย )",
+      "opened_be": 2510,
+      "main_tenant": "การท่าเรือ (ที1)",
+      "former_tenants": "บีซีซี"
+    },
+    {
+      "stadium": "พีทีทีสเตเดียม",
+      "capacity": 13767,
+      "location": "ระยอง",
+      "opened_be": 2555,
+      "main_tenant": "",
+      "former_tenants": "พีทีที ระยอง"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดชัยนาท (เขาพลองสเตเดียม)",
+      "capacity": 12000,
+      "location": "ชัยนาท",
+      "opened_be": 2555,
+      "main_tenant": "ชัยนาท ฮอร์นบิล (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬามหาวิทยาลัยการกีฬาแห่งชาติ วิทยาเขตชลบุรี",
+      "capacity": 12000,
+      "location": "ชลบุรี",
+      "opened_be": 2553,
+      "main_tenant": "",
+      "former_tenants": "ชลบุรี พัทยา ยูไนเต็ด พานทอง เพื่อนตำรวจ ราชนาวี"
+    },
+    {
+      "stadium": "สนามกีฬาองค์การบริหารส่วนจังหวัดขอนแก่น",
+      "capacity": 12000,
+      "location": "ขอนแก่น",
+      "opened_be": "",
+      "main_tenant": "ขอนแก่น ยูไนเต็ด (ที1) ขอนแก่น (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "พิชญสเตเดียม",
+      "capacity": 12000,
+      "location": "หนองบัวลำภู",
+      "opened_be": 2563,
+      "main_tenant": "หนองบัว พิชญ (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สิงห์ เชียงราย สเตเดียม",
+      "capacity": 11354,
+      "location": "เชียงราย",
+      "opened_be": 2555,
+      "main_tenant": "สิงห์ เชียงราย ยูไนเต็ด (ที1) สิงห์ เชียงราย ซิตี้ (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "ช้าง ฟุตบอล ปาร์ค",
+      "capacity": 11000,
+      "location": "ชลบุรี ( บ้านบึง )",
+      "opened_be": 2566,
+      "main_tenant": "",
+      "former_tenants": "บ้านบึง"
+    },
+    {
+      "stadium": "สนามกีฬาศรีณรงค์",
+      "capacity": 11000,
+      "location": "สุรินทร์",
+      "opened_be": 2537,
+      "main_tenant": "สุรินทร์ ซิตี้ (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามฟุตบอล ศูนย์เยาวชนกรุงเทพมหานคร (ไทย-ญี่ปุ่น)",
+      "capacity": 10320,
+      "location": "กรุงเทพมหานคร ( ดินแดง )",
+      "opened_be": 2525,
+      "main_tenant": "",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาเฉลิมพระเกียรติ 72 พรรษา",
+      "capacity": 10000,
+      "location": "กรุงเทพมหานคร ( มีนบุรี )",
+      "opened_be": 2553,
+      "main_tenant": "",
+      "former_tenants": "ไทยฮอนด้า บีอีซี เทโรศาสน เอยูยู อินเตอร์ แบงค็อก"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดราชบุรี",
+      "capacity": 10000,
+      "location": "ราชบุรี",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "ราชบุรี มิตรผล"
+    },
+    {
+      "stadium": "สนามศรีนครลำดวน",
+      "capacity": 10000,
+      "location": "ศรีสะเกษ",
+      "opened_be": "",
+      "main_tenant": "ศรีสะเกษ ยูไนเต็ด (ที1)",
+      "former_tenants": "ศรีสะเกษ"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดนนทบุรี",
+      "capacity": 10000,
+      "location": "นนทบุรี",
+      "opened_be": 2559,
+      "main_tenant": "นนทบุรี ยูไนเต็ด (ที3) ราชประชา (ที3)",
+      "former_tenants": "นนทบุรี สยาม"
+    },
+    {
+      "stadium": "สนามทุ่งบูรพา",
+      "capacity": 10000,
+      "location": "อุบลราชธานี",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "อีสาน ยูไนเต็ด อุบล ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดอุดรธานี",
+      "capacity": 10000,
+      "location": "อุดรธานี",
+      "opened_be": 2562,
+      "main_tenant": "",
+      "former_tenants": "อุดรธานี"
+    },
+    {
+      "stadium": "สนามกีฬามหาวิทยาลัยเชียงราชภัฏเชียงใหม่ ศูนย์แม่ริม",
+      "capacity": 10000,
+      "location": "เชียงใหม่",
+      "opened_be": 2568,
+      "main_tenant": "เชียงใหม่ ยูไนเต็ด (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดศรีสะเกษ (เกาะกลางน้ำ)",
+      "capacity": 9773,
+      "location": "ศรีสะเกษ",
+      "opened_be": "",
+      "main_tenant": "ราษีไศล ยูไนเต็ด (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "ชลบุรี ไดกิ้น สเตเดียม",
+      "capacity": 8500,
+      "location": "ชลบุรี",
+      "opened_be": 2553,
+      "main_tenant": "ชลบุรี (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดสุราษฎร์ธานี",
+      "capacity": 8000,
+      "location": "สุราษฎร์ธานี",
+      "opened_be": "",
+      "main_tenant": "เมืองคนดี ยูไนเต็ด (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาเฉลิมพระเกียรติ บางมด",
+      "capacity": 8000,
+      "location": "กรุงเทพมหานคร ( ทุ่งครุ )",
+      "opened_be": 2532,
+      "main_tenant": "บางกอก (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามทะเลหลวง",
+      "capacity": 8000,
+      "location": "สุโขทัย",
+      "opened_be": 2557,
+      "main_tenant": "สุโขทัย (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดกระบี่",
+      "capacity": 8000,
+      "location": "กระบี่",
+      "opened_be": "",
+      "main_tenant": "กระบี่ (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาองค์การบริหารส่วนจังหวัดนราธิวาส",
+      "capacity": 8000,
+      "location": "นราธิวาส",
+      "opened_be": "",
+      "main_tenant": "นรา ยูไนเต็ด (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาจังหวัดปัตตานี (เรนโบว์สเตเดียม)",
+      "capacity": 8000,
+      "location": "ปัตตานี",
+      "opened_be": "",
+      "main_tenant": "ปัตตานี (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดพัทลุง",
+      "capacity": 8000,
+      "location": "พัทลุง",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "พัทลุง"
+    },
+    {
+      "stadium": "ระยองสเตเดียม",
+      "capacity": 7500,
+      "location": "ระยอง",
+      "opened_be": "",
+      "main_tenant": "ระยอง (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดระนอง",
+      "capacity": 7212,
+      "location": "ระนอง",
+      "opened_be": "",
+      "main_tenant": "ระนอง ยูไนเต็ด (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดประจวบคีรีขันธ์ (สามอ่าวสเตเดียม)",
+      "capacity": 7000,
+      "location": "ประจวบคีรีขันธ์",
+      "opened_be": "",
+      "main_tenant": "พีที ประจวบ (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาการกีฬาแห่งประเทศไทย บางพลี",
+      "capacity": 6800,
+      "location": "สมุทรปราการ ( บางพลี )",
+      "opened_be": 2558,
+      "main_tenant": "",
+      "former_tenants": "ซุปเปอร์พาวเวอร์ สมุทรปราการ สมุทรปราการ ซิตี้ โบลาเวน สมุทรปราการ"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดเพชรบุรี",
+      "capacity": 6575,
+      "location": "เพชรบุรี",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "เพชรบุรี"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดอ่างทอง",
+      "capacity": 6500,
+      "location": "อ่างทอง",
+      "opened_be": "",
+      "main_tenant": "อ่างทอง (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬามหาวิทยาลัยการกีฬาแห่งชาติ วิทยาเขตสมุทรสาคร",
+      "capacity": 6378,
+      "location": "สมุทรสาคร",
+      "opened_be": "",
+      "main_tenant": "สมุทรสาคร ซิตี้",
+      "former_tenants": "ทวีวัฒนา สมุทรสาคร ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามฟุตบอลเทพหัสดิน",
+      "capacity": 6378,
+      "location": "กรุงเทพมหานคร ( ปทุมวัน )",
+      "opened_be": "",
+      "main_tenant": "จามจุรี ยูไนเต็ด (ที3)",
+      "former_tenants": "บีอีซี เทโรศาสน"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดหนองบัวลำภู",
+      "capacity": 6053,
+      "location": "หนองบัวลำภู",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "หนองบัว พิชญ"
+    },
+    {
+      "stadium": "สนามกีฬาศูนย์เยาวชนเฉลิมพระเกียรติ เทศบาลนครนนทบุรี",
+      "capacity": 6000,
+      "location": "นนทบุรี",
+      "opened_be": "",
+      "main_tenant": "วีอาร์เอ็น เมืองนนท์ (ที3)",
+      "former_tenants": "บีบีซียู ลูกอีสาน"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดสมุทรสงคราม",
+      "capacity": 6000,
+      "location": "สมุทรสงคราม",
+      "opened_be": "",
+      "main_tenant": "สมุทรสงคราม ซิตี้ (ที3)",
+      "former_tenants": "สมุทรสงคราม"
+    },
+    {
+      "stadium": "สนามกีฬาโรงเรียนกีฬาเทศบาลนครนครปฐม",
+      "capacity": 6000,
+      "location": "นครปฐม",
+      "opened_be": "",
+      "main_tenant": "นครปฐม ยูไนเต็ด (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาจังหวัดพระนครศรีอยุธยา",
+      "capacity": 6000,
+      "location": "พระนครศรีอยุธยา",
+      "opened_be": "",
+      "main_tenant": "อยุธยา ยูไนเต็ด (ที1)",
+      "former_tenants": "อยุธยา"
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดตราด",
+      "capacity": 6000,
+      "location": "ตราด",
+      "opened_be": "",
+      "main_tenant": "ตราด (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬากลางจังหวัดสระบุรี",
+      "capacity": 6000,
+      "location": "สระบุรี",
+      "opened_be": "",
+      "main_tenant": "สระบุรี ยูไนเต็ด (ที3)",
+      "former_tenants": "สระบุรี สระบุรี ทีอาร์ยู"
+    },
+    {
+      "stadium": "สนามกีฬาเทศบาลเมืองฉะเชิงเทรา",
+      "capacity": 6000,
+      "location": "ฉะเชิงเทรา",
+      "opened_be": "",
+      "main_tenant": "ฉะเชิงเทรา ไฮ-เทค (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาหนองปรือ 2",
+      "capacity": 6000,
+      "location": "ชลบุรี ( บางละมุง )",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาองค์การบริหารส่วนจังหวัดพะเยา",
+      "capacity": 6000,
+      "location": "พะเยา",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "พะเยา"
+    },
+    {
+      "stadium": "สนามเทศบาลเมืองกาฬสินธุ์",
+      "capacity": 6000,
+      "location": "กาฬสินธุ์",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "กาฬสินธุ์"
+    },
+    {
+      "stadium": "สนามกีฬาศักดิเดชน์ มหาวิทยาลัยราชภัฏรำไพพรรณี",
+      "capacity": 6000,
+      "location": "จันทบุรี",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "เกาะขวาง"
+    },
+    {
+      "stadium": "สนามกีฬาพระราชวังสนามจันทร์",
+      "capacity": 6000,
+      "location": "นครปฐม",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "นครปฐม ยูไนเต็ด"
+    },
+    {
+      "stadium": "ยูเอ็มที สเตเดียม",
+      "capacity": 6000,
+      "location": "อุบลราชธานี",
+      "opened_be": 2560,
+      "main_tenant": "อุบล อีสเทิร์น (ที3)",
+      "former_tenants": "อุบล ยูไนเต็ด อุบล โปลี"
+    },
+    {
+      "stadium": "สนามกีฬาราชนาวี สัตหีบ",
+      "capacity": 6000,
+      "location": "ชลบุรี ( สัตหีบ )",
+      "opened_be": 2544,
+      "main_tenant": "ราชนาวี (ที3) นาวิกโยธิน (ที3)",
+      "former_tenants": "กองเรือยุทธการ"
+    },
+    {
+      "stadium": "สนามกีฬาหนองปรือ",
+      "capacity": 5500,
+      "location": "จังหวัดชลบุรี ( บางละมุง )",
+      "opened_be": 2542,
+      "main_tenant": "พัทยา ยูไนเต็ด (ที2) บีเอฟบี พัทยา ซิตี้ (ที3)",
+      "former_tenants": "พัทยา พัทยา ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามกีฬาจังหวัดลำปาง",
+      "capacity": 5500,
+      "location": "ลำปาง",
+      "opened_be": "",
+      "main_tenant": "เขลางค์ ยูไนเต็ด (ที3)",
+      "former_tenants": "ลำปาง"
+    },
+    {
+      "stadium": "สนามกีฬาพระราเมศวร",
+      "capacity": 5500,
+      "location": "ลพบุรี",
+      "opened_be": "",
+      "main_tenant": "ลพบุรี ซิตี้ (ที3)",
+      "former_tenants": "ลพบุรี"
+    },
+    {
+      "stadium": "ลำพูน วอริเออร์ สเตเดียม",
+      "capacity": 5400,
+      "location": "ลำพูน",
+      "opened_be": 2567,
+      "main_tenant": "ลำพูน วอริเออร์ (ที1)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาสิรินธร",
+      "capacity": 5207,
+      "location": "ชลบุรี ( ศรีราชา )",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "ชลบุรี"
+    },
+    {
+      "stadium": "เอ็นทีสเตเดียม (สนามทีโอที แจ้งวัฒนะ)",
+      "capacity": 5000,
+      "location": "กรุงเทพมหานคร ( หลักสี่ )",
+      "opened_be": 2553,
+      "main_tenant": "โปลิศ เทโร (ที2) พราม แบงค็อก (ที3)",
+      "former_tenants": "ทีโอที เกษตรศาสตร์ ราชประชา"
+    },
+    {
+      "stadium": "สนามกีฬามหาวิทยาลัยกรุงเทพธนบุรี",
+      "capacity": 5000,
+      "location": "กรุงเทพมหานคร ( ทวีวัฒนา )",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "บีทียู ส.บุญมีฤทธิ์ ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามกีฬาเฉลิมพระเกียรติ 84 พรรษา บางบอน",
+      "capacity": 5000,
+      "location": "กรุงเทพมหานคร ( บางบอน )",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "ธนบุรี ซิตี้"
+    },
+    {
+      "stadium": "สนามบุณยะจินดา",
+      "capacity": 5000,
+      "location": "กรุงเทพมหานคร ( หลักสี่ )",
+      "opened_be": 2505,
+      "main_tenant": "",
+      "former_tenants": "เพื่อนตำรวจ ยาสูบ ราชวิถี โปลิศ เทโร"
+    },
+    {
+      "stadium": "สนามกีฬาจังหวัดเชียงราย",
+      "capacity": 5000,
+      "location": "เชียงราย",
+      "opened_be": "",
+      "main_tenant": "เชียงราย ทีเอสซี (ที3)",
+      "former_tenants": "เชียงราย ซิตี้"
+    },
+    {
+      "stadium": "สนามกีฬาหนองจอก",
+      "capacity": 5000,
+      "location": "กรุงเทพมหานคร ( หนองจอก )",
+      "opened_be": 2549,
+      "main_tenant": "",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาเฉลิมพระเกียรติ สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ 60 พรรษา",
+      "capacity": 5000,
+      "location": "ปทุมธานี ( ธัญบุรี )",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": "รังสิต ยูไนเต็ด"
+    },
+    {
+      "stadium": "สนามกีฬามหาวิทยาลัยเทคโนโลยีมหานคร",
+      "capacity": 5000,
+      "location": "กรุงเทพมหานคร ( หนองจอก )",
+      "opened_be": "",
+      "main_tenant": "",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาเทศบาลนครเชียงใหม่",
+      "capacity": 5000,
+      "location": "เชียงใหม่",
+      "opened_be": "",
+      "main_tenant": "เชียงใหม่ (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาจังหวัดร้อยเอ็ด (ไพรด์อารีนา)",
+      "capacity": 5000,
+      "location": "ร้อยเอ็ด",
+      "opened_be": "",
+      "main_tenant": "ร้อยเอ็ด พีบี ยูไนเต็ด (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาองค์การบริหารส่วนจังหวัดสตูล",
+      "capacity": 5000,
+      "location": "สตูล",
+      "opened_be": "",
+      "main_tenant": "พีที สตูล (ที3)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาองค์การบริหารส่วนจังหวัดจันทบุรี",
+      "capacity": 5000,
+      "location": "จันทบุรี",
+      "opened_be": "",
+      "main_tenant": "จันทบุรี (ที2)",
+      "former_tenants": ""
+    },
+    {
+      "stadium": "สนามกีฬาองค์การบริหารส่วนจังหวัดนครศรีธรรมราช (ชาติตระการโกศล)",
+      "capacity": 5000,
+      "location": "นครศรีธรรมราช",
+      "opened_be": 2516,
+      "main_tenant": "นครศรี ยูไนเต็ด (ที2)",
+      "former_tenants": "นครศรีธรรมราช"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อสนามฟุตบอลในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "รายชื่อสนามฟุตบอลในประเทศไทยเรียงตามความจุ พร้อมที่ตั้ง ปีที่เปิดใช้ และสโมสรผู้ใช้งานหลัก มีทั้งหมด 87 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายชื่อสนามฟุตบอลในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายชื่อสนามฟุตบอลในประเทศไทย — 87 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 87 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อสนามฟุตบอลในประเทศไทย"
+    ]
+  }
+}
