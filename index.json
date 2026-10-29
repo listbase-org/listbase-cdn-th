@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-29T02:09:34.089Z",
-  "total_datasets": 756,
-  "total_records": 276850,
+  "generated": "2026-10-29T02:09:37.311Z",
+  "total_datasets": 757,
+  "total_records": 276927,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -376,6 +376,42 @@
         "xlsx": {
           "name": "th-gdp-growth-rate_TH.xlsx",
           "size": 7294
+        }
+      }
+    },
+    {
+      "id": "th-phalitphan-changwat-raai-pee",
+      "name": "จังหวัดในประเทศไทยเรียงตามผลิตภัณฑ์มวลรวมจังหวัด (GPP) พ.ศ. 2555–2567",
+      "category": "economy",
+      "record_count": 77,
+      "columns": [
+        "rank_2567",
+        "province",
+        "gpp_2555",
+        "gpp_2556",
+        "gpp_2557",
+        "gpp_2558",
+        "gpp_2559",
+        "gpp_2560",
+        "gpp_2561",
+        "gpp_2562",
+        "gpp_2563",
+        "gpp_2564",
+        "gpp_2565",
+        "gpp_2566",
+        "gpp_2567"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อจังหวัดในประเทศไทยเรียงตามผลิตภัณฑ์จังหวัด",
+      "updated": "2026-10",
+      "size": 35627,
+      "files": {
+        "csv": {
+          "name": "th-phalitphan-changwat-raai-pee_TH.csv",
+          "size": 10928
+        },
+        "xlsx": {
+          "name": "th-phalitphan-changwat-raai-pee_TH.xlsx",
+          "size": 14641
         }
       }
     },
