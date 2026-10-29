@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-29T02:09:43.377Z",
-  "total_datasets": 759,
-  "total_records": 277110,
+  "generated": "2026-10-29T02:09:46.482Z",
+  "total_datasets": 760,
+  "total_records": 278163,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -21941,6 +21941,35 @@
         "xlsx": {
           "name": "th-religions-population_TH.xlsx",
           "size": 7483
+        }
+      }
+    },
+    {
+      "id": "th-sokanatakam-phaibat",
+      "name": "รายชื่อโศกนาฏกรรมและภัยพิบัติในประเทศไทย",
+      "category": "society",
+      "record_count": 1053,
+      "columns": [
+        "section",
+        "date",
+        "event",
+        "type",
+        "location",
+        "province",
+        "deaths",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อโศกนาฏกรรมและภัยพิบัติในประเทศไทย",
+      "updated": "2026-10",
+      "size": 741012,
+      "files": {
+        "csv": {
+          "name": "th-sokanatakam-phaibat_TH.csv",
+          "size": 584089
+        },
+        "xlsx": {
+          "name": "th-sokanatakam-phaibat_TH.xlsx",
+          "size": 122455
         }
       }
     },
