@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-29T02:09:37.311Z",
-  "total_datasets": 757,
-  "total_records": 276927,
+  "generated": "2026-10-29T02:09:40.298Z",
+  "total_datasets": 758,
+  "total_records": 276949,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -711,6 +711,31 @@
         "xlsx": {
           "name": "th-rong-fai-fa_TH.xlsx",
           "size": 21279
+        }
+      }
+    },
+    {
+      "id": "th-sat-pa-sa-nguan",
+      "name": "สัตว์ป่าสงวนของประเทศไทย",
+      "category": "environment",
+      "record_count": 22,
+      "columns": [
+        "name",
+        "scientific_name",
+        "year_declared_be",
+        "iucn_status"
+      ],
+      "source": "https://th.wikipedia.org/wiki/สัตว์ป่าสงวน",
+      "updated": "2026-10",
+      "size": 6606,
+      "files": {
+        "csv": {
+          "name": "th-sat-pa-sa-nguan_TH.csv",
+          "size": 2165
+        },
+        "xlsx": {
+          "name": "th-sat-pa-sa-nguan_TH.xlsx",
+          "size": 8019
         }
       }
     },

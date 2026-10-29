@@ -1,0 +1,178 @@
+{
+  "id": "th-sat-pa-sa-nguan",
+  "name": "สัตว์ป่าสงวนของประเทศไทย",
+  "title": "สัตว์ป่าสงวนของประเทศไทย",
+  "description": "รายชื่อสัตว์ป่าสงวนตามกฎหมายไทย พร้อมชื่อวิทยาศาสตร์ ปีที่ประกาศ และสถานะการอนุรักษ์ IUCN",
+  "category": "environment",
+  "source": "https://th.wikipedia.org/wiki/สัตว์ป่าสงวน",
+  "source_url": "https://th.wikipedia.org/wiki/สัตว์ป่าสงวน",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "year_declared_be",
+      "label": "Year Declared Be",
+      "type": "number"
+    },
+    {
+      "key": "iucn_status",
+      "label": "Iucn Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "แรด หรือ แรดชวา หรือ แรดนอเดียว",
+      "scientific_name": "Rhinoceros sondaicus",
+      "year_declared_be": 2503,
+      "iucn_status": "CR"
+    },
+    {
+      "name": "กระซู่ หรือ แรดสุมาตรา",
+      "scientific_name": "Dicerorhinus sumatrensis",
+      "year_declared_be": 2503,
+      "iucn_status": "CR"
+    },
+    {
+      "name": "สมเสร็จ หรือ สมเสร็จมลายู",
+      "scientific_name": "Tapirus indicus",
+      "year_declared_be": 2535,
+      "iucn_status": "EN"
+    },
+    {
+      "name": "กูปรี หรือ โคไพร",
+      "scientific_name": "Bos sauveli",
+      "year_declared_be": 2503,
+      "iucn_status": "CR"
+    },
+    {
+      "name": "ควายป่า",
+      "scientific_name": "Bubalus arnee",
+      "year_declared_be": 2503,
+      "iucn_status": "EN"
+    },
+    {
+      "name": "เลียงผา หรือ เลียงผาใต้ หรือ เยือง หรือ กูรำ หรือ โครำ",
+      "scientific_name": "Capricornis sumatraensis",
+      "year_declared_be": 2503,
+      "iucn_status": "VU"
+    },
+    {
+      "name": "กวางผา หรือ กวางผาจีน",
+      "scientific_name": "Naemorhedus griseus",
+      "year_declared_be": 2503,
+      "iucn_status": "VU"
+    },
+    {
+      "name": "สมัน หรือ เนื้อสมัน หรือ กวางเขาสุ่ม",
+      "scientific_name": "Rucervus schomburki",
+      "year_declared_be": 2503,
+      "iucn_status": "EX"
+    },
+    {
+      "name": "ละอง (ตัวผุ้) และ ละมั่ง (ตัวเมีย)",
+      "scientific_name": "Rucervus eldi",
+      "year_declared_be": 2503,
+      "iucn_status": "EN"
+    },
+    {
+      "name": "เก้งหม้อ หรือ กวางเขาจุก หรือ เก้งดง",
+      "scientific_name": "Muntiacus feae",
+      "year_declared_be": 2535,
+      "iucn_status": "DD"
+    },
+    {
+      "name": "พะยูน​ หรือ หมูน้ำ หรือ วัวทะเล",
+      "scientific_name": "Dugong dugon",
+      "year_declared_be": 2535,
+      "iucn_status": "VU"
+    },
+    {
+      "name": "แมวลายหินอ่อน",
+      "scientific_name": "Pardofelis marmorata",
+      "year_declared_be": 2535,
+      "iucn_status": "NT"
+    },
+    {
+      "name": "นกเจ้าฟ้าหญิงสิรินธร",
+      "scientific_name": "Pseudochelidon sirintarae",
+      "year_declared_be": 2535,
+      "iucn_status": "CR"
+    },
+    {
+      "name": "นกแต้วแร้วท้องดำ",
+      "scientific_name": "Pitta gurneyi",
+      "year_declared_be": 2535,
+      "iucn_status": "CR"
+    },
+    {
+      "name": "นกกระเรียน หรือ นกกระเรียนไทย",
+      "scientific_name": "Grus antigone",
+      "year_declared_be": 2535,
+      "iucn_status": "VU"
+    },
+    {
+      "name": "เต่ามะเฟือง",
+      "scientific_name": "Dermochelys coriacea",
+      "year_declared_be": 2562,
+      "iucn_status": "VU"
+    },
+    {
+      "name": "(ปลา) ฉลามวาฬ",
+      "scientific_name": "Rhincodon typus",
+      "year_declared_be": 2562,
+      "iucn_status": "EN"
+    },
+    {
+      "name": "วาฬบรูดา",
+      "scientific_name": "Balaenoptera edeni",
+      "year_declared_be": 2562,
+      "iucn_status": "LC"
+    },
+    {
+      "name": "วาฬโอมูระ",
+      "scientific_name": "Balaenoptera omurai",
+      "year_declared_be": 2562,
+      "iucn_status": "DD"
+    },
+    {
+      "name": "นกชนหิน",
+      "scientific_name": "Rhinoplax vigil",
+      "year_declared_be": 2567,
+      "iucn_status": "CR"
+    },
+    {
+      "name": "วาฬสีน้ำเงิน",
+      "scientific_name": "Balaenoptera musculus",
+      "year_declared_be": 2567,
+      "iucn_status": "EN"
+    },
+    {
+      "name": "โลมาอิรวดี",
+      "scientific_name": "Orcaella brevirostris",
+      "year_declared_be": "ยังไม่แน่นอน",
+      "iucn_status": "EN"
+    }
+  ],
+  "meta": {
+    "title": "สัตว์ป่าสงวนของประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "รายชื่อสัตว์ป่าสงวนตามกฎหมายไทย พร้อมชื่อวิทยาศาสตร์ ปีที่ประกาศ และสถานะการอนุรักษ์ IUCN มีทั้งหมด 22 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สัตว์ป่าสงวนของประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด สัตว์ป่าสงวนของประเทศไทย — 22 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 22 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/สัตว์ป่าสงวน"
+    ]
+  }
+}
