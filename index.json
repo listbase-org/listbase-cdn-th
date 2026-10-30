@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-30T02:36:19.801Z",
-  "total_datasets": 763,
-  "total_records": 278373,
+  "generated": "2026-10-30T02:36:28.123Z",
+  "total_datasets": 764,
+  "total_records": 278431,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -7487,6 +7487,33 @@
         "xlsx": {
           "name": "vitamins_TH.xlsx",
           "size": 9464
+        }
+      }
+    },
+    {
+      "id": "th-phraratchawang-lae-wang",
+      "name": "รายชื่อพระราชวังและวังในประเทศไทย",
+      "category": "history",
+      "record_count": 58,
+      "columns": [
+        "chue",
+        "thi_tang",
+        "phu_sang_rue_chao_khong",
+        "sang_muea",
+        "praphet",
+        "khomun"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อพระราชวังและวังในประเทศไทย",
+      "updated": "2026-10",
+      "size": 36918,
+      "files": {
+        "csv": {
+          "name": "th-phraratchawang-lae-wang_TH.csv",
+          "size": 26338
+        },
+        "xlsx": {
+          "name": "th-phraratchawang-lae-wang_TH.xlsx",
+          "size": 12489
         }
       }
     },
