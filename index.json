@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-30T02:36:03.647Z",
-  "total_datasets": 761,
-  "total_records": 278271,
+  "generated": "2026-10-30T02:36:12.284Z",
+  "total_datasets": 762,
+  "total_records": 278364,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -704,6 +704,30 @@
         "xlsx": {
           "name": "th-top-grossing-film-by-year_TH.xlsx",
           "size": 8649
+        }
+      }
+    },
+    {
+      "id": "th-palm-nai-prathet-thai",
+      "name": "รายชื่อปาล์มในประเทศไทย",
+      "category": "environment",
+      "record_count": 93,
+      "columns": [
+        "chue_thai",
+        "chue_angkrit",
+        "chue_witthayasat"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อปาล์มในประเทศไทย",
+      "updated": "2026-10",
+      "size": 16435,
+      "files": {
+        "csv": {
+          "name": "th-palm-nai-prathet-thai_TH.csv",
+          "size": 6556
+        },
+        "xlsx": {
+          "name": "th-palm-nai-prathet-thai_TH.xlsx",
+          "size": 10799
         }
       }
     },

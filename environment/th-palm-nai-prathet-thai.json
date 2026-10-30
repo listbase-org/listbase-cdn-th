@@ -1,0 +1,506 @@
+{
+  "id": "th-palm-nai-prathet-thai",
+  "name": "รายชื่อปาล์มในประเทศไทย",
+  "title": "รายชื่อปาล์มในประเทศไทย",
+  "description": "พันธุ์ปาล์มที่พบและปลูกในประเทศไทย พร้อมชื่อไทย ชื่อสามัญภาษาอังกฤษ และชื่อวิทยาศาสตร์",
+  "category": "environment",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อปาล์มในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อปาล์มในประเทศไทย",
+  "updated": "2026-10",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "chue_thai",
+      "label": "Chue Thai",
+      "type": "string"
+    },
+    {
+      "key": "chue_angkrit",
+      "label": "Chue Angkrit",
+      "type": "string"
+    },
+    {
+      "key": "chue_witthayasat",
+      "label": "Chue Witthayasat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chue_thai": "เปาโรติส",
+      "chue_angkrit": "paurotis palm",
+      "chue_witthayasat": "Acoelorrhaphe wrightii"
+    },
+    {
+      "chue_thai": "หมากพร้าว",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Actinorphytis calapparia"
+    },
+    {
+      "chue_thai": "พญาหนาม",
+      "chue_angkrit": "Macaw",
+      "chue_witthayasat": "Aiphanes erosa"
+    },
+    {
+      "chue_thai": "คิงปาล์ม",
+      "chue_angkrit": "king palm",
+      "chue_witthayasat": "Archontophoenix alexandria"
+    },
+    {
+      "chue_thai": "หมากสง",
+      "chue_angkrit": "betal nut",
+      "chue_witthayasat": "Areca catechu"
+    },
+    {
+      "chue_thai": "หมากลิง, หมากหอม",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Areca triandra"
+    },
+    {
+      "chue_thai": "ตาว",
+      "chue_angkrit": "sugar palm",
+      "chue_witthayasat": "Arenga pinnata"
+    },
+    {
+      "chue_thai": "ตาลฟ้า",
+      "chue_angkrit": "Bismarck palm",
+      "chue_witthayasat": "Bismarkia nobilis"
+    },
+    {
+      "chue_thai": "ช้างร้องไห้",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Borassodendron machadonis"
+    },
+    {
+      "chue_thai": "ตาลโตนด",
+      "chue_angkrit": "Palmyra palm, Toddy Palm",
+      "chue_witthayasat": "Borassus flabellifer"
+    },
+    {
+      "chue_thai": "บราเฮีย",
+      "chue_angkrit": "Mexican blue palm",
+      "chue_witthayasat": "Brahea armata"
+    },
+    {
+      "chue_thai": "บูเตีย",
+      "chue_angkrit": "jelly palm",
+      "chue_witthayasat": "Butia capitata"
+    },
+    {
+      "chue_thai": "หวาย",
+      "chue_angkrit": "Rattan palm, Cane palm",
+      "chue_witthayasat": "Calamus sp."
+    },
+    {
+      "chue_thai": "ปาล์มน้ำพุ",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Carpentaria acuminata"
+    },
+    {
+      "chue_thai": "เต่าร้างยักษ์น่าน",
+      "chue_angkrit": "Thai giant mountain palm, Black trunk fishtail",
+      "chue_witthayasat": "Caryota gigas"
+    },
+    {
+      "chue_thai": "เต่าร้างเขา",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Caryota maxima"
+    },
+    {
+      "chue_thai": "เต่าร้างกอ",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Caryota mitis"
+    },
+    {
+      "chue_thai": "เต่าร้างเชียงราย",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Caryota sp."
+    },
+    {
+      "chue_thai": "ปาล์มไผ่",
+      "chue_angkrit": "Bamboo palm",
+      "chue_witthayasat": "Chamaedorea erumpens"
+    },
+    {
+      "chue_thai": "ปาล์มไพลิน",
+      "chue_angkrit": "Metallic Palm",
+      "chue_witthayasat": "Chamaedorea metallica"
+    },
+    {
+      "chue_thai": "ปาล์มชาแมรอปส์",
+      "chue_angkrit": "European fan palm",
+      "chue_witthayasat": "Chamaerops humilis"
+    },
+    {
+      "chue_thai": "แดงใหญ่",
+      "chue_angkrit": "Red Leaf Palm, Red Feather Palm, Blushing Palm",
+      "chue_witthayasat": "Chamberyronia macrocarpa"
+    },
+    {
+      "chue_thai": "ปาล์มชมพู",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Chrysalidocarpus cabadae"
+    },
+    {
+      "chue_thai": "ปาล์มขนนก",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Chrysalidocarpus lucubensis"
+    },
+    {
+      "chue_thai": "สะดือเหลือง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Coccothrinax argentea"
+    },
+    {
+      "chue_thai": "ปาล์มเคราฤๅษี",
+      "chue_angkrit": "old man palm",
+      "chue_witthayasat": "Coccothrinax crinita"
+    },
+    {
+      "chue_thai": "มะพร้าว, มะแพร้ว",
+      "chue_angkrit": "coconut palm",
+      "chue_witthayasat": "Cocos nucifera"
+    },
+    {
+      "chue_thai": "อ้ายหมี",
+      "chue_angkrit": "cuban petticoat palm",
+      "chue_witthayasat": "Copernica macrogloassa"
+    },
+    {
+      "chue_thai": "ลานใต้",
+      "chue_angkrit": "gebang palm",
+      "chue_witthayasat": "Corypha elata"
+    },
+    {
+      "chue_thai": "ลานกบินทร์บุรี",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Corypha lecomtai"
+    },
+    {
+      "chue_thai": "ลานราชบุรี",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Corypha lecomtai"
+    },
+    {
+      "chue_thai": "ลานตากฟ้า",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Corypha sp."
+    },
+    {
+      "chue_thai": "ลานเมืองเหนือ",
+      "chue_angkrit": "talipot palm",
+      "chue_witthayasat": "Corypha umbraculifera"
+    },
+    {
+      "chue_thai": "ลานพรุ",
+      "chue_angkrit": "cabbage palm, gebang palm",
+      "chue_witthayasat": "Corypha utan"
+    },
+    {
+      "chue_thai": "หมากแดง",
+      "chue_angkrit": "sailing wax palm",
+      "chue_witthayasat": "Cytostachys lakka"
+    },
+    {
+      "chue_thai": "ปาล์มหญิงใหญ่",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Dictyosperma album"
+    },
+    {
+      "chue_thai": "ปาล์มหญิงกลาง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Dictyosperma aurium"
+    },
+    {
+      "chue_thai": "ปาล์มหญิงเล็ก",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Dictyosperma rubrum"
+    },
+    {
+      "chue_thai": "ปาล์มเจ้าหญิง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "(princess palm) Dictyosperma sp."
+    },
+    {
+      "chue_thai": "หมากเหลือง",
+      "chue_angkrit": "yellow palm",
+      "chue_witthayasat": "Dypsis lutescens"
+    },
+    {
+      "chue_thai": "ปาล์มน้ำมัน",
+      "chue_angkrit": "oil palm",
+      "chue_witthayasat": "Elaeis guineensis"
+    },
+    {
+      "chue_thai": "หลุมพี",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Eleiodoxa conferta"
+    },
+    {
+      "chue_thai": "จากเขา",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Eugeissona tristis"
+    },
+    {
+      "chue_thai": "ตาลกิ่ง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "(Doum palm, Gingerbread Palm) - Hyphaene thebeica"
+    },
+    {
+      "chue_thai": "ปาล์มแชมเปญ",
+      "chue_angkrit": "",
+      "chue_witthayasat": "(Triangular palm) - Hyophorbe lagenicaulis"
+    },
+    {
+      "chue_thai": "ปาล์มสามเหลี่ยมม่วง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "(Spindle palm) - Hyophorbe verschaffeltii"
+    },
+    {
+      "chue_thai": "ปาล์มเจ้าเมืองถลาง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "(White Elephant Palm) Kerriodoxa elegans"
+    },
+    {
+      "chue_thai": "ตาลน้ำเงิน",
+      "chue_angkrit": "Blue Latan Palm",
+      "chue_witthayasat": "Latania loddigesii"
+    },
+    {
+      "chue_thai": "ตาลแดง",
+      "chue_angkrit": "Red Latan Palm",
+      "chue_witthayasat": "Latania lontaroides"
+    },
+    {
+      "chue_thai": "ตาลเหลือง",
+      "chue_angkrit": "Yellow Latan Palm",
+      "chue_witthayasat": "Latania verschaffeltii"
+    },
+    {
+      "chue_thai": "ปาล์มเจ้าเมืองตรัง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Licuala elegans"
+    },
+    {
+      "chue_thai": "ปาล์มจีบ",
+      "chue_angkrit": "Vanuatu Fan Palm, Ruffled Fan Palm, Palas Palm",
+      "chue_witthayasat": "Licuala grandis"
+    },
+    {
+      "chue_thai": "กะพ้อ",
+      "chue_angkrit": "Spiny Licuala Palm, Mangrove Fan Palm",
+      "chue_witthayasat": "Licuala spinosa"
+    },
+    {
+      "chue_thai": "กะพ้อหนู",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Licuala sp."
+    },
+    {
+      "chue_thai": "ปาล์มจีน, ปาล์มเซี่ยงไฮ้",
+      "chue_angkrit": "Chinese Fan Palm",
+      "chue_witthayasat": "Livistona chinensis"
+    },
+    {
+      "chue_thai": "ตาลม่วง",
+      "chue_angkrit": "Central Australian Cabbage Palm",
+      "chue_witthayasat": "Livistona mariae"
+    },
+    {
+      "chue_thai": "ปาล์มยะวา",
+      "chue_angkrit": "Footstool Palm, Serdang",
+      "chue_witthayasat": "Livistona rotundifolia"
+    },
+    {
+      "chue_thai": "ค้อ",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Livistona sp."
+    },
+    {
+      "chue_thai": "มะพร้าวแฝด (ตาลทะเล)",
+      "chue_angkrit": "Coco-de-mer, double coconut",
+      "chue_witthayasat": "Lodoicea maldivica"
+    },
+    {
+      "chue_thai": "หมากพระราหู",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Maxburretia furtadoana"
+    },
+    {
+      "chue_thai": "สาคู",
+      "chue_angkrit": "Sago palm",
+      "chue_witthayasat": "Metroxylon sagu"
+    },
+    {
+      "chue_thai": "ปาล์มสามทาง",
+      "chue_angkrit": "Triangle Palm",
+      "chue_witthayasat": "Neodypsis decaryi"
+    },
+    {
+      "chue_thai": "ปาล์มคอแดง",
+      "chue_angkrit": "Redneck",
+      "chue_witthayasat": "Neodypsis lastelliana darienite"
+    },
+    {
+      "chue_thai": "ปาล์มหางกระรอก",
+      "chue_angkrit": "black palm",
+      "chue_witthayasat": "Normanbya normanbyi"
+    },
+    {
+      "chue_thai": "จาก",
+      "chue_angkrit": "Nipa palm",
+      "chue_witthayasat": "Nypa fruiticans"
+    },
+    {
+      "chue_thai": "หลาวชะโอนทุ่ง",
+      "chue_angkrit": "Nibung",
+      "chue_witthayasat": "Oncosperma tigillarium"
+    },
+    {
+      "chue_thai": "หมากพน",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Orania sylvicola"
+    },
+    {
+      "chue_thai": "ระกำแสด",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Phoenicophorium borsigianum"
+    },
+    {
+      "chue_thai": "อินทผลัม",
+      "chue_angkrit": "Date palm",
+      "chue_witthayasat": "Phoenix dactylifera"
+    },
+    {
+      "chue_thai": "อินทผลัมไต้หวัน",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Phoenix hanciana var. taiwaniana"
+    },
+    {
+      "chue_thai": "เป้งทะเล",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Phoenix paludosa"
+    },
+    {
+      "chue_thai": "สิบสองปันนา (ปาล์ม)",
+      "chue_angkrit": "Pigmy date palm",
+      "chue_witthayasat": "Phoenix roebelenii"
+    },
+    {
+      "chue_thai": "อินทผลัมใบแบน",
+      "chue_angkrit": "Cliff Date Palm",
+      "chue_witthayasat": "Phoenix rupicola"
+    },
+    {
+      "chue_thai": "เป้งเขา",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Phoenix sp."
+    },
+    {
+      "chue_thai": "อินทผลัมลูกผสมโคราช",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Phoenix sp."
+    },
+    {
+      "chue_thai": "อินทผลัมเพชรบุรี",
+      "chue_angkrit": "Wild date palm, Silver Date Palm, Sugar Date Palm, Khajuri",
+      "chue_witthayasat": "Phoenix sylevestris"
+    },
+    {
+      "chue_thai": "กะเปา",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Pholidocarpus macrocarpus"
+    },
+    {
+      "chue_thai": "หมากงาช้าง, หมากเจ",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Pinanga sp."
+    },
+    {
+      "chue_thai": "ปาล์มพัด",
+      "chue_angkrit": "Fiji Fan Palm",
+      "chue_witthayasat": "Pritchardia pacifica"
+    },
+    {
+      "chue_thai": "ปาล์มขุนหมากรุก",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Pseudophoenix vinifera"
+    },
+    {
+      "chue_thai": "หมากเขียว",
+      "chue_angkrit": "Macartur palm",
+      "chue_witthayasat": "Ptychosperma macarthurii"
+    },
+    {
+      "chue_thai": "ปาล์มหน้าต่าง",
+      "chue_angkrit": "window palm",
+      "chue_witthayasat": "Reinhardtia gracilis"
+    },
+    {
+      "chue_thai": "จั๋ง",
+      "chue_angkrit": "lady palm",
+      "chue_witthayasat": "Rhapis sp."
+    },
+    {
+      "chue_thai": "ปาล์มขวด",
+      "chue_angkrit": "royal palm",
+      "chue_witthayasat": "Roystonea regia"
+    },
+    {
+      "chue_thai": "สละ",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Salacca edulis"
+    },
+    {
+      "chue_thai": "ระกำ",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Salacca wallichiana"
+    },
+    {
+      "chue_thai": "ลุมพี, หลุมพี",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Salacca frondosa"
+    },
+    {
+      "chue_thai": "ปาล์มเลื้อย",
+      "chue_angkrit": "saw palmetto",
+      "chue_witthayasat": "Serenoa repens"
+    },
+    {
+      "chue_thai": "ปาล์มบังสูรย์, ปาล์มใบข้าวหลามตัด",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Johannesteijsmannia altifronds"
+    },
+    {
+      "chue_thai": "สะดือเขียว",
+      "chue_angkrit": "thatch palm",
+      "chue_witthayasat": "Trinax parvifora"
+    },
+    {
+      "chue_thai": "ปาล์มเยอรมัน, ปาล์มมนิลา, ปาล์มฟิลิปปินส์, ปาล์มคอแดง, หมากนวล",
+      "chue_angkrit": "Christmas Palm",
+      "chue_witthayasat": "Veitchia merrillii"
+    },
+    {
+      "chue_thai": "ปาล์มสองทาง",
+      "chue_angkrit": "",
+      "chue_witthayasat": "Wallichia distcha"
+    },
+    {
+      "chue_thai": "ปาล์มฟอกซ์เทล",
+      "chue_angkrit": "foxtail palm",
+      "chue_witthayasat": "Wodyetia bifurcata"
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อปาล์มในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "พันธุ์ปาล์มที่พบและปลูกในประเทศไทย พร้อมชื่อไทย ชื่อสามัญภาษาอังกฤษ และชื่อวิทยาศาสตร์ มีทั้งหมด 93 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายชื่อปาล์มในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายชื่อปาล์มในประเทศไทย — 93 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 93 รายการ / 3 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อปาล์มในประเทศไทย"
+    ]
+  }
+}
