@@ -1,0 +1,156 @@
+{
+  "id": "th-prapakhan",
+  "name": "รายชื่อประภาคารในประเทศไทย",
+  "title": "รายชื่อประภาคารในประเทศไทย",
+  "description": "ประภาคารในประเทศไทย พร้อมปีที่เริ่มใช้งาน ที่ตั้ง พิกัด ลักษณะไฟ ความสูงหอ และพิสัยการมองเห็น",
+  "category": "tourism",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อประภาคารในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อประภาคารในประเทศไทย",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "chue",
+      "label": "Chue",
+      "type": "string"
+    },
+    {
+      "key": "roem_chai_ngan_pho_so",
+      "label": "Roem Chai Ngan Pho So",
+      "type": "number"
+    },
+    {
+      "key": "thi_tang",
+      "label": "Thi Tang",
+      "type": "string"
+    },
+    {
+      "key": "phikat",
+      "label": "Phikat",
+      "type": "string"
+    },
+    {
+      "key": "laksana_fai",
+      "label": "Laksana Fai",
+      "type": "string"
+    },
+    {
+      "key": "khwam_sung_ho",
+      "label": "Khwam Sung Ho",
+      "type": "string"
+    },
+    {
+      "key": "phisai",
+      "label": "Phisai",
+      "type": "string"
+    },
+    {
+      "key": "rahat_thn",
+      "label": "Rahat Thn",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "chue": "ประภาคารอัษฎางค์ (หินสัมปะยื้อ)",
+      "roem_chai_ngan_pho_so": 2434,
+      "thi_tang": "กองหิน ชลบุรี",
+      "phikat": "13.1887972, 100.7983167",
+      "laksana_fai": "Fl(3) W 15s (fl 0.5s, ec 1.5s)x 2, fl 0.5s, ec 10.5s",
+      "khwam_sung_ho": "9 เมตร (30 ft)",
+      "phisai": "10 ไมล์ทะเล (19 km)",
+      "rahat_thn": 102
+    },
+    {
+      "chue": "ประภาคารระยอง",
+      "roem_chai_ngan_pho_so": 2462,
+      "thi_tang": "ปากน้ำระยอง",
+      "phikat": "12.4896806, 101.2762889",
+      "laksana_fai": "Fl(3) W 15s (fl 0.5s, ec 1.5s)x 2, fl 0.5s, ec 10.5s",
+      "khwam_sung_ho": "16 เมตร (52 ft)",
+      "phisai": "21 ไมล์ทะเล (39 km)",
+      "rahat_thn": 114
+    },
+    {
+      "chue": "ประภาคารแหลมสิงห์",
+      "roem_chai_ngan_pho_so": 2449,
+      "thi_tang": "ปากน้ำจันทบุรี",
+      "phikat": "12.4697639, 102.0580500",
+      "laksana_fai": "Fl(3) W 15s (fl 0.5s, ec 1.5s)x 2, fl 0.5s, ec 10.5s",
+      "khwam_sung_ho": "6 เมตร (20 ft)",
+      "phisai": "10 ไมล์ทะเล (19 km)",
+      "rahat_thn": 118
+    },
+    {
+      "chue": "ประภาคารแหลมงอบ",
+      "roem_chai_ngan_pho_so": 2487,
+      "thi_tang": "ปลายแหลมงอบ ตราด",
+      "phikat": "12.1700250, 102.3923278",
+      "laksana_fai": "Oc W 3s fl 1.0s, ec 2.0s",
+      "khwam_sung_ho": "14 เมตร (46 ft)",
+      "phisai": "13 ไมล์ทะเล (24 km)",
+      "rahat_thn": 121
+    },
+    {
+      "chue": "ประภาคารเกาะมัตโพน",
+      "roem_chai_ngan_pho_so": 2451,
+      "thi_tang": "ทางเข้าแม่น้ำชุมพร",
+      "phikat": "10.4489444, 99.2541222",
+      "laksana_fai": "LFl WR 7s fl 2.0s, ec 5.0s",
+      "khwam_sung_ho": "12 เมตร (39 ft)",
+      "phisai": "ขาว 16 ไมล์ทะเล (30 km) แดง 8 ไมล์ทะเล (15 km)",
+      "rahat_thn": 211
+    },
+    {
+      "chue": "ประภาคารเกาะปราบ",
+      "roem_chai_ngan_pho_so": 2450,
+      "thi_tang": "ยอดเกาะ ทางเข้าแม่น้ำบ้านดอน สุราษฎร์ธานี",
+      "phikat": "9.2644944, 99.4323500",
+      "laksana_fai": "Fl W 6s fl 1.5s, ec 4.5s",
+      "khwam_sung_ho": "14 เมตร (46 ft)",
+      "phisai": "21 ไมล์ทะเล (39 km)",
+      "rahat_thn": 216
+    },
+    {
+      "chue": "ประภาคารกาญจนาภิเษก",
+      "roem_chai_ngan_pho_so": 2539,
+      "thi_tang": "แหลมพระเจ้า (แหลมพรหมเทพ) ภูเก็ต",
+      "phikat": "7.7619417, 98.3055167",
+      "laksana_fai": "Fl W 9s fl 0.21s, ec 8.79s",
+      "khwam_sung_ho": "19 เมตร (62 ft)",
+      "phisai": "22 ไมล์ทะเล (41 km)",
+      "rahat_thn": 310
+    },
+    {
+      "chue": "ประภาคารเกาะนก",
+      "roem_chai_ngan_pho_so": 2504,
+      "thi_tang": "กันตรัง ตรัง",
+      "phikat": "7.2710444, 99.4743889",
+      "laksana_fai": "Fl W 3s fl 0.3s, ec 2.7s",
+      "khwam_sung_ho": "8 เมตร (26 ft)",
+      "phisai": "10 ไมล์ทะเล (19 km)",
+      "rahat_thn": 316
+    },
+    {
+      "chue": "ประภาคารเกาะตะเภาน้อย",
+      "roem_chai_ngan_pho_so": 2442,
+      "thi_tang": "ยอดเกาะ ท่าเรือภูเก็ต",
+      "phikat": "7.8322278, 98.4237194",
+      "laksana_fai": "Fl(2) W 20s fl 0.144s, ec 6.522s fl 0.144s, ec 13.190s",
+      "khwam_sung_ho": "12 เมตร (39 ft)",
+      "phisai": "20 ไมล์ทะเล (37 km)",
+      "rahat_thn": 312
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อประภาคารในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "ประภาคารในประเทศไทย พร้อมปีที่เริ่มใช้งาน ที่ตั้ง พิกัด ลักษณะไฟ ความสูงหอ และพิสัยการมองเห็น มีทั้งหมด 9 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายชื่อประภาคารในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายชื่อประภาคารในประเทศไทย — 9 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 9 รายการ / 8 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อประภาคารในประเทศไทย"
+    ]
+  }
+}

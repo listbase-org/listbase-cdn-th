@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-30T02:36:12.284Z",
-  "total_datasets": 762,
-  "total_records": 278364,
+  "generated": "2026-10-30T02:36:19.801Z",
+  "total_datasets": 763,
+  "total_records": 278373,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -22796,6 +22796,35 @@
         "xlsx": {
           "name": "th-namtok_TH.xlsx",
           "size": 40307
+        }
+      }
+    },
+    {
+      "id": "th-prapakhan",
+      "name": "รายชื่อประภาคารในประเทศไทย",
+      "category": "tourism",
+      "record_count": 9,
+      "columns": [
+        "chue",
+        "roem_chai_ngan_pho_so",
+        "thi_tang",
+        "phikat",
+        "laksana_fai",
+        "khwam_sung_ho",
+        "phisai",
+        "rahat_thn"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อประภาคารในประเทศไทย",
+      "updated": "2026-10",
+      "size": 6776,
+      "files": {
+        "csv": {
+          "name": "th-prapakhan_TH.csv",
+          "size": 2489
+        },
+        "xlsx": {
+          "name": "th-prapakhan_TH.xlsx",
+          "size": 7958
         }
       }
     },
