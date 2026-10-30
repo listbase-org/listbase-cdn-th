@@ -1,12 +1,12 @@
 {
   "lang": "th",
-  "generated": "2026-10-29T02:09:46.482Z",
-  "total_datasets": 760,
-  "total_records": 278163,
+  "generated": "2026-10-30T02:36:03.647Z",
+  "total_datasets": 761,
+  "total_records": 278271,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "business",
@@ -133,6 +133,29 @@
         "xlsx": {
           "name": "economic-crops_TH.xlsx",
           "size": 8155
+        }
+      }
+    },
+    {
+      "id": "th-phan-khao",
+      "name": "รายชื่อพันธุ์ข้าวในประเทศไทย",
+      "category": "agriculture",
+      "record_count": 108,
+      "columns": [
+        "phan",
+        "praphet"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อพันธุ์ข้าวในประเทศไทย",
+      "updated": "2026-10",
+      "size": 20523,
+      "files": {
+        "csv": {
+          "name": "th-phan-khao_TH.csv",
+          "size": 13251
+        },
+        "xlsx": {
+          "name": "th-phan-khao_TH.xlsx",
+          "size": 9215
         }
       }
     },
