@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-30T02:36:35.147Z",
-  "total_datasets": 765,
-  "total_records": 278482,
+  "generated": "2026-10-30T02:36:42.755Z",
+  "total_datasets": 766,
+  "total_records": 278488,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -294,6 +294,31 @@
         "xlsx": {
           "name": "th-masyit_TH.xlsx",
           "size": 9055
+        }
+      }
+    },
+    {
+      "id": "th-moradok-phumipanya-unesco",
+      "name": "มรดกภูมิปัญญาทางวัฒนธรรมของไทยที่ยูเนสโกขึ้นบัญชี",
+      "category": "culture",
+      "record_count": 6,
+      "columns": [
+        "rai_kan",
+        "praphet",
+        "pi_khuen_banchi",
+        "mai_het"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อมรดกภูมิปัญญาทางวัฒนธรรมของประเทศไทย",
+      "updated": "2026-10",
+      "size": 9814,
+      "files": {
+        "csv": {
+          "name": "th-moradok-phumipanya-unesco_TH.csv",
+          "size": 6247
+        },
+        "xlsx": {
+          "name": "th-moradok-phumipanya-unesco_TH.xlsx",
+          "size": 8600
         }
       }
     },
