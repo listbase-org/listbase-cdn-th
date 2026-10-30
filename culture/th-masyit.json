@@ -1,0 +1,352 @@
+{
+  "id": "th-masyit",
+  "name": "รายชื่อมัสยิดในประเทศไทย",
+  "title": "รายชื่อมัสยิดในประเทศไทย",
+  "description": "มัสยิดสำคัญในประเทศไทย พร้อมจังหวัด อำเภอหรือเขต และปีที่ก่อตั้ง",
+  "category": "culture",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อมัสยิดในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อมัสยิดในประเทศไทย",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "chue",
+      "label": "Chue",
+      "type": "string"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "amphoe_khet",
+      "label": "Amphoe Khet",
+      "type": "string"
+    },
+    {
+      "key": "pi_thi_kotang",
+      "label": "Pi Thi Kotang",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chue": "กุฎีเจริญพาศน์",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางกอกใหญ่",
+      "pi_thi_kotang": "พ.ศ. 2328"
+    },
+    {
+      "chue": "มัสยิดกูวติลอิสลาม (ตึกแดง)",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "คลองสาน",
+      "pi_thi_kotang": "พ.ศ. 2502"
+    },
+    {
+      "chue": "มัสยิดจักรพงษ์",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "พระนคร",
+      "pi_thi_kotang": "พ.ศ. 2465"
+    },
+    {
+      "chue": "มัสยิดเซฟี (ตึกขาว)",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "คลองสาน",
+      "pi_thi_kotang": "พ.ศ. 2453"
+    },
+    {
+      "chue": "มัสยิดดารุ้ลอะมาน พญาไท",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "ราชเทวี",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดดารุ้ลอาบีดีน ตรอกจันทน์",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางคอแหลม",
+      "pi_thi_kotang": "พ.ศ. 2455"
+    },
+    {
+      "chue": "มัสยิดต้นสน",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางกอกใหญ่",
+      "pi_thi_kotang": "พ.ศ. 2211"
+    },
+    {
+      "chue": "มัสยิดนูรุ้ลอิสลาม (บางกระบือ)",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "ดุสิต",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดนูรุลอิสลาม บ้านป่า",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "สวนหลวง",
+      "pi_thi_kotang": "พ.ศ. 2475"
+    },
+    {
+      "chue": "มัสยิดบางหลวง (กุฎีขาว)",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "ธนบุรี",
+      "pi_thi_kotang": "พ.ศ. 2328"
+    },
+    {
+      "chue": "มัสยิดบางอ้อ",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางพลัด",
+      "pi_thi_kotang": "พ.ศ. 2461"
+    },
+    {
+      "chue": "มัสยิดบางอุทิศ",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางคอแหลม",
+      "pi_thi_kotang": "พ.ศ. 2458"
+    },
+    {
+      "chue": "มัสยิดบ้านตึกดิน",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "พระนคร",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดบ้านอู่",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางรัก",
+      "pi_thi_kotang": "พ.ศ. 2490"
+    },
+    {
+      "chue": "มัสยิดผดุงธรรมอิสลาม",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางกอกใหญ่",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดมหานาค",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "ป้อมปราบศัตรูพ่าย",
+      "pi_thi_kotang": "พ.ศ. 2536"
+    },
+    {
+      "chue": "มัสยิดมิตรภาพไทย-ปากิสตาน",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางรัก",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดยะวา",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "สาทร",
+      "pi_thi_kotang": "พ.ศ. 2448"
+    },
+    {
+      "chue": "มัสยิดริดวานุ้นอิสลาม (คลองจั่น)",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางกะปิ",
+      "pi_thi_kotang": "พ.ศ. 2492"
+    },
+    {
+      "chue": "มัสยิดหลวงโกชาอิศหาก",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "สัมพันธวงศ์",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดอินโดนีเซีย",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "ปทุมวัน",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดอั้ลกุ๊บรอ (คลองเคล็ด)",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "สวนหลวง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดฮารูณ",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "บางรัก",
+      "pi_thi_kotang": "พ.ศ. 2371"
+    },
+    {
+      "chue": "มูลนิธิเพื่อศูนย์กลางอิสลามแห่งประเทศไทย (มัสยิดกลางแห่งประเทศไทย)",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "สวนหลวง",
+      "pi_thi_kotang": "พ.ศ. 2497"
+    },
+    {
+      "chue": "มัสยิดสุวรรณภูมิ",
+      "changwat": "กรุงเทพมหานคร",
+      "amphoe_khet": "คลองสาน",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดกุฎีช่อฟ้า",
+      "changwat": "พระนครศรีอยุธยา",
+      "amphoe_khet": "พระนครศรีอยุธยา",
+      "pi_thi_kotang": "พ.ศ. 2159"
+    },
+    {
+      "chue": "มัสยิดแก้วนิมิตร",
+      "changwat": "ปทุมธานี",
+      "amphoe_khet": "คลองหลวง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดดารุ้ลอาบีดีน (สุเหร่าแดง)",
+      "changwat": "นนทบุรี",
+      "amphoe_khet": "บางบัวทอง",
+      "pi_thi_kotang": "พ.ศ. 2422"
+    },
+    {
+      "chue": "มัสยิดดารุลอามาน (จังหวัดเชียงราย)",
+      "changwat": "เชียงราย",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "พ.ศ. 2453"
+    },
+    {
+      "chue": "มัสยิดอัตตักวา",
+      "changwat": "เชียงใหม่",
+      "amphoe_khet": "",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดบ้านฮ่อ",
+      "changwat": "เชียงใหม่",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "พ.ศ. 2458"
+    },
+    {
+      "chue": "มัสยิดอบูบัร ฮาฟิส",
+      "changwat": "เชียงราย",
+      "amphoe_khet": "แม่สาย",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดกลางอันวารุสสลาม",
+      "changwat": "บุรีรัมย์",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดกลางขอนแก่น",
+      "changwat": "ขอนแก่น",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดอัศศอบีรีน (มัสยิดบึงกาฬ)",
+      "changwat": "บึงกาฬ",
+      "amphoe_khet": "ปากคาด",
+      "pi_thi_kotang": "พ.ศ. 2559"
+    },
+    {
+      "chue": "มัสยิดนูรุ้ลฮิดายะห์ ขอนแก่น",
+      "changwat": "ขอนแก่น",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิด 300 ปี (มัสยิดวาดีอัลฮูเซ็น)",
+      "changwat": "นราธิวาส",
+      "amphoe_khet": "บาเจาะ",
+      "pi_thi_kotang": "พ.ศ. 2167"
+    },
+    {
+      "chue": "มัสยิดกรือเซะ",
+      "changwat": "ปัตตานี",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "ราวสมัยอยุธยา"
+    },
+    {
+      "chue": "มัสยิดกลางจังหวัดกระบี่",
+      "changwat": "กระบี่",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดกลางจังหวัดนครศรีธรรมราช",
+      "changwat": "นครศรีธรรมราช",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "พ.ศ. 2557"
+    },
+    {
+      "chue": "มัสยิดกลางจังหวัดนราธิวาส",
+      "changwat": "นราธิวาส",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "พ.ศ. 2524"
+    },
+    {
+      "chue": "มัสยิดกลางจังหวัดปัตตานี",
+      "changwat": "ปัตตานี",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "พ.ศ. 2497"
+    },
+    {
+      "chue": "มัสยิดกลางจังหวัดยะลา",
+      "changwat": "ยะลา",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดกลางจังหวัดสตูล",
+      "changwat": "สตูล",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "พ.ศ. 2539"
+    },
+    {
+      "chue": "มัสยิดกลางดิย์นุลอิสลามหาดใหญ่",
+      "changwat": "สงขลา",
+      "amphoe_khet": "หาดใหญ่",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดกลางอำเภอเบตง",
+      "changwat": "ยะลา",
+      "amphoe_khet": "เบตง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดดาโต๊ะ",
+      "changwat": "ปัตตานี",
+      "amphoe_khet": "ยะหริ่ง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดมหาวิทยาลัยนราธิวาสราชนครินทร์",
+      "changwat": "นราธิวาส",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดมุการ์ร่ม",
+      "changwat": "ภูเก็ต",
+      "amphoe_khet": "ถลาง",
+      "pi_thi_kotang": ""
+    },
+    {
+      "chue": "มัสยิดมูเนาวเราะห์ (บ้านอ่าวนาง)",
+      "changwat": "กระบี่",
+      "amphoe_khet": "เมือง",
+      "pi_thi_kotang": "พ.ศ. 2488"
+    },
+    {
+      "chue": "มัสยิดอาโห",
+      "changwat": "ปัตตานี",
+      "amphoe_khet": "ยะหริ่ง",
+      "pi_thi_kotang": ""
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อมัสยิดในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "มัสยิดสำคัญในประเทศไทย พร้อมจังหวัด อำเภอหรือเขต และปีที่ก่อตั้ง มีทั้งหมด 51 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายชื่อมัสยิดในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายชื่อมัสยิดในประเทศไทย — 51 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 51 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อมัสยิดในประเทศไทย"
+    ]
+  }
+}
