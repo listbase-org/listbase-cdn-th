@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-02T02:26:16.093Z",
-  "total_datasets": 768,
-  "total_records": 279132,
+  "generated": "2026-11-02T02:26:22.739Z",
+  "total_datasets": 769,
+  "total_records": 279184,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "math",
@@ -8043,6 +8043,32 @@
         "xlsx": {
           "name": "th-constitutional-court-major-rulings_TH.xlsx",
           "size": 10225
+        }
+      }
+    },
+    {
+      "id": "th-prathan-san-dika",
+      "name": "อธิบดีศาลฎีกาและประธานศาลฎีกาของไทย",
+      "category": "law",
+      "record_count": 52,
+      "columns": [
+        "lamdap",
+        "chue",
+        "tamnaeng",
+        "roem_wara",
+        "sinsut_wara"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายพระนามและชื่ออธิบดีศาลฎีกาและประธานศาลฎีกา",
+      "updated": "2026-11",
+      "size": 18513,
+      "files": {
+        "csv": {
+          "name": "th-prathan-san-dika_TH.csv",
+          "size": 10328
+        },
+        "xlsx": {
+          "name": "th-prathan-san-dika_TH.xlsx",
+          "size": 9801
         }
       }
     },
