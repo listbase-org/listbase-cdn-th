@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-02T02:26:08.391Z",
-  "total_datasets": 767,
-  "total_records": 279012,
+  "generated": "2026-11-02T02:26:16.093Z",
+  "total_datasets": 768,
+  "total_records": 279132,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -319,6 +319,30 @@
         "xlsx": {
           "name": "th-moradok-phumipanya-unesco_TH.xlsx",
           "size": 8600
+        }
+      }
+    },
+    {
+      "id": "th-nangsuephim",
+      "name": "หนังสือพิมพ์ในประเทศไทย",
+      "category": "culture",
+      "record_count": 120,
+      "columns": [
+        "chue_nangsuephim",
+        "praphet",
+        "raila_iat"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อหนังสือพิมพ์ในประเทศไทย",
+      "updated": "2026-11",
+      "size": 39039,
+      "files": {
+        "csv": {
+          "name": "th-nangsuephim_TH.csv",
+          "size": 27182
+        },
+        "xlsx": {
+          "name": "th-nangsuephim_TH.xlsx",
+          "size": 11904
         }
       }
     },
