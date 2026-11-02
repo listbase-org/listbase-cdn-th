@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-10-30T02:36:42.755Z",
-  "total_datasets": 766,
-  "total_records": 278488,
+  "generated": "2026-11-02T02:26:08.391Z",
+  "total_datasets": 767,
+  "total_records": 279012,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -426,6 +426,30 @@
         "xlsx": {
           "name": "th-automobile-production_TH.xlsx",
           "size": 7482
+        }
+      }
+    },
+    {
+      "id": "th-borisat-mahachon",
+      "name": "บริษัทมหาชนจำกัดในประเทศไทย",
+      "category": "economy",
+      "record_count": 524,
+      "columns": [
+        "chue_borisat",
+        "klum",
+        "mawat_akson"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อบริษัทมหาชนในประเทศไทย",
+      "updated": "2026-11",
+      "size": 97371,
+      "files": {
+        "csv": {
+          "name": "th-borisat-mahachon_TH.csv",
+          "size": 57389
+        },
+        "xlsx": {
+          "name": "th-borisat-mahachon_TH.xlsx",
+          "size": 20914
         }
       }
     },
