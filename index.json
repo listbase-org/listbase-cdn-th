@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-02T02:26:22.739Z",
-  "total_datasets": 769,
-  "total_records": 279184,
+  "generated": "2026-11-02T02:26:30.813Z",
+  "total_datasets": 770,
+  "total_records": 279340,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -7531,6 +7531,31 @@
         "xlsx": {
           "name": "th-medical-schools_TH.xlsx",
           "size": 8676
+        }
+      }
+    },
+    {
+      "id": "th-rongphayaban-ekachon-tam-khrueakhai",
+      "name": "โรงพยาบาลเอกชนในประเทศไทยจำแนกตามเครือข่าย",
+      "category": "health",
+      "record_count": 156,
+      "columns": [
+        "rongphayaban",
+        "khrueakhai",
+        "changwat",
+        "thiyu"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อโรงพยาบาลเอกชนในประเทศไทย",
+      "updated": "2026-11",
+      "size": 47650,
+      "files": {
+        "csv": {
+          "name": "th-rongphayaban-ekachon-tam-khrueakhai_TH.csv",
+          "size": 30567
+        },
+        "xlsx": {
+          "name": "th-rongphayaban-ekachon-tam-khrueakhai_TH.xlsx",
+          "size": 12504
         }
       }
     },
