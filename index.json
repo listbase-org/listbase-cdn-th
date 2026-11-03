@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-03T02:23:03.704Z",
-  "total_datasets": 773,
-  "total_records": 279636,
+  "generated": "2026-11-03T02:23:11.103Z",
+  "total_datasets": 774,
+  "total_records": 280953,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -7581,6 +7581,32 @@
         "xlsx": {
           "name": "th-rongphayaban-ekachon-tam-khrueakhai_TH.xlsx",
           "size": 12504
+        }
+      }
+    },
+    {
+      "id": "th-samunphrai-thai",
+      "name": "สมุนไพรไทย: ชื่อไทย ชื่อวิทยาศาสตร์ และชื่อท้องถิ่น",
+      "category": "health",
+      "record_count": 1317,
+      "columns": [
+        "chue_thai",
+        "chue_witthayasat",
+        "chue_samun",
+        "chue_thongthin",
+        "chue_wong"
+      ],
+      "source": "https://data.go.th/dataset/herb2",
+      "updated": "2026-11",
+      "size": 363417,
+      "files": {
+        "csv": {
+          "name": "th-samunphrai-thai_TH.csv",
+          "size": 196098
+        },
+        "xlsx": {
+          "name": "th-samunphrai-thai_TH.xlsx",
+          "size": 97250
         }
       }
     },
