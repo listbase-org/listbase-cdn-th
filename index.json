@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-03T02:23:11.103Z",
-  "total_datasets": 774,
-  "total_records": 280953,
+  "generated": "2026-11-03T02:23:20.358Z",
+  "total_datasets": 775,
+  "total_records": 281024,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -932,6 +932,32 @@
         "xlsx": {
           "name": "th-sat-pa-sa-nguan_TH.xlsx",
           "size": 8019
+        }
+      }
+    },
+    {
+      "id": "th-suan-phruksasat-ruekkhachat",
+      "name": "สวนพฤกษศาสตร์และสวนรุกขชาติในประเทศไทย",
+      "category": "environment",
+      "record_count": 71,
+      "columns": [
+        "chue",
+        "praphet",
+        "sangkat",
+        "thiyu",
+        "phikat"
+      ],
+      "source": "https://data.go.th/dataset/gdpublish-botanical_garden_and_arboretum",
+      "updated": "2026-11",
+      "size": 36875,
+      "files": {
+        "csv": {
+          "name": "th-suan-phruksasat-ruekkhachat_TH.csv",
+          "size": 27375
+        },
+        "xlsx": {
+          "name": "th-suan-phruksasat-ruekkhachat_TH.xlsx",
+          "size": 12956
         }
       }
     },
