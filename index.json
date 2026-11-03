@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-02T02:26:37.430Z",
-  "total_datasets": 771,
-  "total_records": 279379,
+  "generated": "2026-11-03T02:22:55.870Z",
+  "total_datasets": 772,
+  "total_records": 279441,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -802,6 +802,31 @@
         "xlsx": {
           "name": "th-top-grossing-film-by-year_TH.xlsx",
           "size": 8649
+        }
+      }
+    },
+    {
+      "id": "th-khet-raksa-phan-sat-pa",
+      "name": "รายชื่อเขตรักษาพันธุ์สัตว์ป่าในประเทศไทย",
+      "category": "environment",
+      "record_count": 62,
+      "columns": [
+        "lamdap",
+        "chue",
+        "amphoe",
+        "changwat"
+      ],
+      "source": "https://data.go.th/dataset/gdpublish-67-dnp09-02",
+      "updated": "2026-11",
+      "size": 20567,
+      "files": {
+        "csv": {
+          "name": "th-khet-raksa-phan-sat-pa_TH.csv",
+          "size": 13131
+        },
+        "xlsx": {
+          "name": "th-khet-raksa-phan-sat-pa_TH.xlsx",
+          "size": 10503
         }
       }
     },
