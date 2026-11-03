@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-03T02:23:20.358Z",
-  "total_datasets": 775,
-  "total_records": 281024,
+  "generated": "2026-11-03T02:23:27.855Z",
+  "total_datasets": 776,
+  "total_records": 281042,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -23154,6 +23154,34 @@
         "xlsx": {
           "name": "th-sathanthi-thongthiao_TH.xlsx",
           "size": 54134
+        }
+      }
+    },
+    {
+      "id": "th-uthayan-thongfa-mued",
+      "name": "อุทยานท้องฟ้ามืด (Dark Sky Park) ในอุทยานแห่งชาติและวนอุทยาน",
+      "category": "tourism",
+      "record_count": 18,
+      "columns": [
+        "phuenthi",
+        "changwat",
+        "sangkat",
+        "pee_khuen_thabian",
+        "sathanthi_du_dao",
+        "kitchakam",
+        "chuang_duean_du_dao"
+      ],
+      "source": "https://data.go.th/dataset/gdpublish-dark-sky-park",
+      "updated": "2026-11",
+      "size": 16297,
+      "files": {
+        "csv": {
+          "name": "th-uthayan-thongfa-mued_TH.csv",
+          "size": 10036
+        },
+        "xlsx": {
+          "name": "th-uthayan-thongfa-mued_TH.xlsx",
+          "size": 8921
         }
       }
     },
