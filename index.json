@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-03T02:22:55.870Z",
-  "total_datasets": 772,
-  "total_records": 279441,
+  "generated": "2026-11-03T02:23:03.704Z",
+  "total_datasets": 773,
+  "total_records": 279636,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -22999,6 +22999,33 @@
         "xlsx": {
           "name": "th-historical-parks_TH.xlsx",
           "size": 7545
+        }
+      }
+    },
+    {
+      "id": "th-laeng-thongthiao-wanuthayan",
+      "name": "แหล่งท่องเที่ยวในวนอุทยานทั่วประเทศ",
+      "category": "tourism",
+      "record_count": 195,
+      "columns": [
+        "wanuthayan",
+        "laeng_thongthiao",
+        "praphet",
+        "sangkat",
+        "lat",
+        "long"
+      ],
+      "source": "https://data.go.th/dataset/gdpublish-typesattractionsinpark",
+      "updated": "2026-11",
+      "size": 77266,
+      "files": {
+        "csv": {
+          "name": "th-laeng-thongthiao-wanuthayan_TH.csv",
+          "size": 50911
+        },
+        "xlsx": {
+          "name": "th-laeng-thongthiao-wanuthayan_TH.xlsx",
+          "size": 16905
         }
       }
     },
