@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-03T02:23:27.855Z",
-  "total_datasets": 776,
-  "total_records": 281042,
+  "generated": "2026-11-04T02:20:42.205Z",
+  "total_datasets": 777,
+  "total_records": 281094,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -1435,6 +1435,33 @@
         "xlsx": {
           "name": "th-ahan-thai-flags_TH.xlsx",
           "size": 9147
+        }
+      }
+    },
+    {
+      "id": "th-ahan-thai-phuen-thin",
+      "name": "อาหารไทยพื้นถิ่น",
+      "category": "food",
+      "record_count": 52,
+      "columns": [
+        "chue_ahan",
+        "chue_doem",
+        "chue_uen",
+        "phak",
+        "changwat",
+        "wattudip"
+      ],
+      "source": "https://data.go.th/dataset/fod_51_01",
+      "updated": "2026-11",
+      "size": 96448,
+      "files": {
+        "csv": {
+          "name": "th-ahan-thai-phuen-thin_TH.csv",
+          "size": 87707
+        },
+        "xlsx": {
+          "name": "th-ahan-thai-phuen-thin_TH.xlsx",
+          "size": 25663
         }
       }
     },
