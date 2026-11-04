@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-04T02:20:58.058Z",
-  "total_datasets": 779,
-  "total_records": 281257,
+  "generated": "2026-11-04T02:21:06.080Z",
+  "total_datasets": 780,
+  "total_records": 281270,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -7796,6 +7796,30 @@
         "xlsx": {
           "name": "th-phraratchawang-lae-wang_TH.xlsx",
           "size": 12489
+        }
+      }
+    },
+    {
+      "id": "th-rattaprahan-nai-prathet-thai",
+      "name": "รายชื่อรัฐประหารในประเทศไทย",
+      "category": "history",
+      "record_count": 13,
+      "columns": [
+        "wanthi",
+        "pee_pho_so",
+        "raila_iat"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย",
+      "updated": "2026-11",
+      "size": 7002,
+      "files": {
+        "csv": {
+          "name": "th-rattaprahan-nai-prathet-thai_TH.csv",
+          "size": 3735
+        },
+        "xlsx": {
+          "name": "th-rattaprahan-nai-prathet-thai_TH.xlsx",
+          "size": 7923
         }
       }
     },
