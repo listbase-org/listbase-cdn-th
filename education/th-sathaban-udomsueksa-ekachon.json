@@ -1,0 +1,568 @@
+{
+  "id": "th-sathaban-udomsueksa-ekachon",
+  "name": "สถาบันอุดมศึกษาเอกชนในประเทศไทย",
+  "title": "สถาบันอุดมศึกษาเอกชนในประเทศไทย",
+  "description": "รายชื่อมหาวิทยาลัย สถาบัน และวิทยาลัยเอกชนในประเทศไทย พร้อมวันที่ประกาศจัดตั้งในราชกิจจานุเบกษา",
+  "category": "education",
+  "source": "https://th.wikipedia.org/wiki/สถาบันอุดมศึกษาเอกชนในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/สถาบันอุดมศึกษาเอกชนในประเทศไทย",
+  "updated": "2026-11",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "chue_sathaban",
+      "label": "Chue Sathaban",
+      "type": "string"
+    },
+    {
+      "key": "wan_prakat_ratchakitchanubeksa",
+      "label": "Wan Prakat Ratchakitchanubeksa",
+      "type": "string"
+    },
+    {
+      "key": "sathana_sathaban_udomsueksa_ekachon",
+      "label": "Sathana Sathaban Udomsueksa Ekachon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": 1,
+      "chue_sathaban": "มหาวิทยาลัยเกริก",
+      "wan_prakat_ratchakitchanubeksa": "28 พฤษภาคม พ.ศ. 2513",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 2,
+      "chue_sathaban": "มหาวิทยาลัยกรุงเทพ",
+      "wan_prakat_ratchakitchanubeksa": "28 พฤษภาคม พ.ศ. 2513",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 3,
+      "chue_sathaban": "มหาวิทยาลัยศรีปทุม",
+      "wan_prakat_ratchakitchanubeksa": "28 พฤษภาคม พ.ศ. 2513",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 4,
+      "chue_sathaban": "มหาวิทยาลัยธุรกิจบัณฑิตย์",
+      "wan_prakat_ratchakitchanubeksa": "28 พฤษภาคม พ.ศ. 2513",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 5,
+      "chue_sathaban": "วิทยาลัยพัฒนา (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "28 พฤษภาคม พ.ศ. 2513",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 6,
+      "chue_sathaban": "มหาวิทยาลัยหอการค้าไทย",
+      "wan_prakat_ratchakitchanubeksa": "17 มิถุนายน พ.ศ. 2513",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 7,
+      "chue_sathaban": "มหาวิทยาลัยอัสสัมชัญ",
+      "wan_prakat_ratchakitchanubeksa": "16 มิถุนายน พ.ศ. 2515",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 8,
+      "chue_sathaban": "มหาวิทยาลัยเอเชียอาคเนย์",
+      "wan_prakat_ratchakitchanubeksa": "6 สิงหาคม พ.ศ. 2516",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 9,
+      "chue_sathaban": "มหาวิทยาลัยสยาม",
+      "wan_prakat_ratchakitchanubeksa": "18 กันยายน พ.ศ. 2516",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 10,
+      "chue_sathaban": "มหาวิทยาลัยพายัพ",
+      "wan_prakat_ratchakitchanubeksa": "21 มีนาคม พ.ศ. 2517",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 11,
+      "chue_sathaban": "วิทยาลัยแสงธรรม",
+      "wan_prakat_ratchakitchanubeksa": "16 เมษายน พ.ศ. 2519",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 12,
+      "chue_sathaban": "วิทยาลัยศรีอีสาน (คณาสวัสดิ์อุทิศ) (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "23 กุมภาพันธ์ พ.ศ. 2522",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 13,
+      "chue_sathaban": "มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ",
+      "wan_prakat_ratchakitchanubeksa": "24 ธันวาคม พ.ศ. 2524",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 14,
+      "chue_sathaban": "มหาวิทยาลัยคริสเตียน",
+      "wan_prakat_ratchakitchanubeksa": "20 มกราคม พ.ศ. 2527",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 15,
+      "chue_sathaban": "มหาวิทยาลัยวงษ์ชวลิตกุล",
+      "wan_prakat_ratchakitchanubeksa": "2 มีนาคม พ.ศ. 2527",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 16,
+      "chue_sathaban": "วิทยาลัยศรีโสภณ (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "25 กรกฎาคม พ.ศ. 2527",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 17,
+      "chue_sathaban": "วิทยาลัยร้อยเอ็ดบัณฑิต (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "25 มกราคม พ.ศ. 2528",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 18,
+      "chue_sathaban": "มหาวิทยาลัยรังสิต",
+      "wan_prakat_ratchakitchanubeksa": "25 มกราคม พ.ศ. 2528",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 19,
+      "chue_sathaban": "วิทยาลัยเซนต์หลุยส์",
+      "wan_prakat_ratchakitchanubeksa": "13 มิถุนายน พ.ศ. 2528",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 20,
+      "chue_sathaban": "มหาวิทยาลัยภาคกลาง",
+      "wan_prakat_ratchakitchanubeksa": "13 กุมภาพันธ์ พ.ศ. 2529",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 21,
+      "chue_sathaban": "มหาวิทยาลัยนานาชาติเอเชีย-แปซิฟิก",
+      "wan_prakat_ratchakitchanubeksa": "25 มีนาคม พ.ศ. 2529",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 22,
+      "chue_sathaban": "วิทยาลัยบัณฑิตพิษณุโลก (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "25 มีนาคม พ.ศ. 2529",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 23,
+      "chue_sathaban": "มหาวิทยาลัยเกษมบัณฑิต",
+      "wan_prakat_ratchakitchanubeksa": "16 เมษายน พ.ศ. 2530",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 24,
+      "chue_sathaban": "วิทยาลัยบัณฑิตสกลนคร (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "13 พฤษภาคม พ.ศ. 2530",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 25,
+      "chue_sathaban": "มหาวิทยาลัยเนชั่น",
+      "wan_prakat_ratchakitchanubeksa": "16 กุภาพันธ์ พ.ศ. 2531",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 26,
+      "chue_sathaban": "มหาวิทยาลัยภาคตะวันออกเฉียงเหนือ",
+      "wan_prakat_ratchakitchanubeksa": "5 เมษายน พ.ศ. 2531",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 27,
+      "chue_sathaban": "มหาวิทยาลัยเซนต์จอห์น",
+      "wan_prakat_ratchakitchanubeksa": "5 มกราคม พ.ศ. 2532",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 28,
+      "chue_sathaban": "มหาวิทยาลัยเทคโนโลยีมหานคร",
+      "wan_prakat_ratchakitchanubeksa": "27 กุมภาพันธ์ พ.ศ. 2533",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 29,
+      "chue_sathaban": "วิทยาลัยรามาอโยธยา (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "30 ธันวาคม พ.ศ. 2535",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 30,
+      "chue_sathaban": "วิทยาลัยยูเอ็มยูซีแมรี่แลนด์ (ประเทศไทย) (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "23 เมษายน พ.ศ. 2536",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 31,
+      "chue_sathaban": "มหาวิทยาลัยราชธานี",
+      "wan_prakat_ratchakitchanubeksa": "29 เมษายน พ.ศ. 2536",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 32,
+      "chue_sathaban": "สถาบันรัชต์ภาคย์",
+      "wan_prakat_ratchakitchanubeksa": "29 เมษายน พ.ศ. 2536",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 33,
+      "chue_sathaban": "วิทยาลัยทองสุข",
+      "wan_prakat_ratchakitchanubeksa": "10 ตุลาคม พ.ศ. 2537",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 34,
+      "chue_sathaban": "มหาวิทยาลัยนานาชาติศิรินสยาม (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "10 กรกฎาคม พ.ศ. 2538",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 35,
+      "chue_sathaban": "มหาวิทยาลัยนานาชาติแสตมฟอร์ด",
+      "wan_prakat_ratchakitchanubeksa": "29 พฤศจิกายน พ.ศ. 2538",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 36,
+      "chue_sathaban": "มหาวิทยาลัยอีสเทิร์นเอเชีย",
+      "wan_prakat_ratchakitchanubeksa": "16 เมษายน พ.ศ. 2539",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 37,
+      "chue_sathaban": "มหาวิทยาลัยบริติช (ประเทศไทย) (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "29 เมษายน พ.ศ. 2539",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 38,
+      "chue_sathaban": "วิทยาลัยดุสิตธานี",
+      "wan_prakat_ratchakitchanubeksa": "30 พฤษภาคม พ.ศ. 2539",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 39,
+      "chue_sathaban": "มหาวิทยาลัยหาดใหญ่",
+      "wan_prakat_ratchakitchanubeksa": "9 เมษายน พ.ศ. 2540",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 40,
+      "chue_sathaban": "มหาวิทยาลัยเวสเทิร์น",
+      "wan_prakat_ratchakitchanubeksa": "18 มิถุนายน พ.ศ. 2540",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 41,
+      "chue_sathaban": "มหาวิทยาลัยเอเชียน (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "18 มิถุนายน พ.ศ. 2540",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 42,
+      "chue_sathaban": "วิทยาลัยนอร์ทเทิร์น",
+      "wan_prakat_ratchakitchanubeksa": "3 ธันวาคม พ.ศ. 2540",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 43,
+      "chue_sathaban": "มหาวิทยาลัยเว็บสเตอร์ (ประเทศไทย) (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "18 ธันวาคม พ.ศ. 2540",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 44,
+      "chue_sathaban": "มหาวิทยาลัยรัตนบัณฑิต",
+      "wan_prakat_ratchakitchanubeksa": "18 ธันวาคม พ.ศ. 2540",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 45,
+      "chue_sathaban": "สถาบันเทคโนโลยีรัตนโกสินทร์ (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "25 มีนาคม พ.ศ. 2541",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 46,
+      "chue_sathaban": "มหาวิทยาลัยธนบุรี",
+      "wan_prakat_ratchakitchanubeksa": "27 มีนาคม พ.ศ. 2541",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 47,
+      "chue_sathaban": "มหาวิทยาลัยเจ้าพระยา",
+      "wan_prakat_ratchakitchanubeksa": "31 มีนาคม พ.ศ. 2541",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 48,
+      "chue_sathaban": "มหาวิทยาลัยฟาฏอนี",
+      "wan_prakat_ratchakitchanubeksa": "3 เมษายน พ.ศ. 2541",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 49,
+      "chue_sathaban": "วิทยาลัยสันตพล",
+      "wan_prakat_ratchakitchanubeksa": "1 กรกฎาคม พ.ศ. 2541",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 50,
+      "chue_sathaban": "มหาวิทยาลัยราชธานี",
+      "wan_prakat_ratchakitchanubeksa": "3 กันยายน พ.ศ. 2541",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 51,
+      "chue_sathaban": "มหาวิทยาลัยตาปี",
+      "wan_prakat_ratchakitchanubeksa": "26 กุมภาพันธ์ พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 52,
+      "chue_sathaban": "มหาวิทยาลัยการจัดการและเทคโนโลยีอีสเทิร์น",
+      "wan_prakat_ratchakitchanubeksa": "26 กุมภาพันธ์ พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 53,
+      "chue_sathaban": "วิทยาลัยบัณฑิตเอเซีย",
+      "wan_prakat_ratchakitchanubeksa": "26 กุมภาพันธ์ พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 54,
+      "chue_sathaban": "มหาวิทยาลัยเซาธ์อีสท์บางกอก",
+      "wan_prakat_ratchakitchanubeksa": "29 มีนาคม พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 55,
+      "chue_sathaban": "มหาวิทยาลัยนอร์ท-เชียงใหม่",
+      "wan_prakat_ratchakitchanubeksa": "3 กันยายน พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 56,
+      "chue_sathaban": "มหาวิทยาลัยปทุมธานี",
+      "wan_prakat_ratchakitchanubeksa": "27 ธันวาคม พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 57,
+      "chue_sathaban": "มหาวิทยาลัยฟาร์อีสเทอร์น",
+      "wan_prakat_ratchakitchanubeksa": "27 ธันวาคม พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 58,
+      "chue_sathaban": "มหาวิทยาลัยชินวัตร",
+      "wan_prakat_ratchakitchanubeksa": "27 ธันวาคม พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 59,
+      "chue_sathaban": "วิทยาลัยเทคโนโลยีภาคใต้",
+      "wan_prakat_ratchakitchanubeksa": "27 ธันวาคม พ.ศ. 2542",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 60,
+      "chue_sathaban": "มหาวิทยาลัยนอร์ทกรุงเทพ",
+      "wan_prakat_ratchakitchanubeksa": "13 ตุลาคม พ.ศ. 2543",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 61,
+      "chue_sathaban": "มหาวิทยาลัยนานาชาติเซนต์เทเรซา",
+      "wan_prakat_ratchakitchanubeksa": "3 เมษายน พ.ศ. 2544",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 62,
+      "chue_sathaban": "มหาวิทยาลัยอีสาน (ปัจจุบันยุติกิจการแล้ว)",
+      "wan_prakat_ratchakitchanubeksa": "28 มกราคม พ.ศ. 2545",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 63,
+      "chue_sathaban": "มหาวิทยาลัยกรุงเทพธนบุรี",
+      "wan_prakat_ratchakitchanubeksa": "28 มกราคม พ.ศ. 2545",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 64,
+      "chue_sathaban": "มหาวิทยาลัยพิษณุโลก",
+      "wan_prakat_ratchakitchanubeksa": "19 เมษายน พ.ศ. 2545",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 65,
+      "chue_sathaban": "มหาวิทยาลัยรัตนบัณฑิต",
+      "wan_prakat_ratchakitchanubeksa": "24 มิถุนายน พ.ศ. 2546",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 66,
+      "chue_sathaban": "วิทยาลัยเชียงราย",
+      "wan_prakat_ratchakitchanubeksa": "28 สิงหาคม พ.ศ. 2546",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 67,
+      "chue_sathaban": "วิทยาลัยพุทธศาสนานานาชาติ",
+      "wan_prakat_ratchakitchanubeksa": "13 ตุลาคม พ.ศ. 2546",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 68,
+      "chue_sathaban": "วิทยาลัยอินเตอร์เทคลำปาง",
+      "wan_prakat_ratchakitchanubeksa": "6 พฤษภาคม พ.ศ. 2547",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 69,
+      "chue_sathaban": "วิทยาลัยนครราชสีมา",
+      "wan_prakat_ratchakitchanubeksa": "4 พฤษภาคม พ.ศ. 2547",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 70,
+      "chue_sathaban": "มหาวิทยาลัยเฉลิมกาญจนา",
+      "wan_prakat_ratchakitchanubeksa": "7 กันยายน พ.ศ. 2547",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 71,
+      "chue_sathaban": "วิทยาลัยเทคโนโลยีสยาม",
+      "wan_prakat_ratchakitchanubeksa": "28 ธันวาคม พ.ศ. 2548",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 72,
+      "chue_sathaban": "มหาวิทยาลัยกรุงเทพสุวรรณภูมิ",
+      "wan_prakat_ratchakitchanubeksa": "22 กุมภาพันธ์ พ.ศ. 2549",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 73,
+      "chue_sathaban": "มหาวิทยาลัยราชพฤกษ์",
+      "wan_prakat_ratchakitchanubeksa": "20 เมษายน พ.ศ. 2549",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 74,
+      "chue_sathaban": "สถาบันเทคโนโลยีไทย-ญี่ปุ่น",
+      "wan_prakat_ratchakitchanubeksa": "29 กันยายน พ.ศ. 2549",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 75,
+      "chue_sathaban": "สถาบันอาศรมศิลป์",
+      "wan_prakat_ratchakitchanubeksa": "17 ตุลาคม พ.ศ. 2549",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 76,
+      "chue_sathaban": "วิทยาลัยเฉลิมกาญจนาระยอง (เลิกกิจการ)",
+      "wan_prakat_ratchakitchanubeksa": "16 มกราคม พ.ศ. 2550",
+      "sathana_sathaban_udomsueksa_ekachon": "ไม่"
+    },
+    {
+      "lamdap": 77,
+      "chue_sathaban": "สถาบันวิทยาการประกอบการแห่งอโยธยา",
+      "wan_prakat_ratchakitchanubeksa": "16 มกราคม พ.ศ. 2550",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 78,
+      "chue_sathaban": "สถาบันการจัดการปัญญาภิวัฒน์",
+      "wan_prakat_ratchakitchanubeksa": "9 มีนาคม พ.ศ. 2550",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 79,
+      "chue_sathaban": "วิทยาลัยเทคโนโลยีพนมวันท์",
+      "wan_prakat_ratchakitchanubeksa": "21 พฤศจิกายน พ.ศ. 2550",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 80,
+      "chue_sathaban": "วิทยาลัยพิชญบัณฑิต",
+      "wan_prakat_ratchakitchanubeksa": "17 พฤศจิกายน พ.ศ. 2551",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 81,
+      "chue_sathaban": "สถาบันการเรียนรู้เพื่อปวงชน",
+      "wan_prakat_ratchakitchanubeksa": "31 สิงหาคม พ.ศ. 2553",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 82,
+      "chue_sathaban": "สถาบันกันตนา",
+      "wan_prakat_ratchakitchanubeksa": "21 กรกฎาคม พ.ศ. 2553",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 83,
+      "chue_sathaban": "สถาบันเทคโนโลยียานยนต์มหาชัย",
+      "wan_prakat_ratchakitchanubeksa": "31 กรกฎาคม พ.ศ. 2555",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 84,
+      "chue_sathaban": "สถาบันวิทยาการจัดการแห่งแปซิฟิค",
+      "wan_prakat_ratchakitchanubeksa": "19 มิถุนายน พ.ศ. 2557",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 85,
+      "chue_sathaban": "สถาบันสารสาสน์เทคโนโลยีแห่งสุวรรณภูมิ",
+      "wan_prakat_ratchakitchanubeksa": "30 มกราคม พ.ศ. 2558",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 86,
+      "chue_sathaban": "สถาบันวิทยสิริเมธี",
+      "wan_prakat_ratchakitchanubeksa": "2 เมษายน พ.ศ. 2558",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    },
+    {
+      "lamdap": 87,
+      "chue_sathaban": "วิทยาลัยนานาชาติราฟเฟิลส์",
+      "wan_prakat_ratchakitchanubeksa": "28 ธันวาคม พ.ศ. 2559",
+      "sathana_sathaban_udomsueksa_ekachon": "ใช่"
+    }
+  ],
+  "meta": {
+    "title": "สถาบันอุดมศึกษาเอกชนในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "รายชื่อมหาวิทยาลัย สถาบัน และวิทยาลัยเอกชนในประเทศไทย พร้อมวันที่ประกาศจัดตั้งในราชกิจจานุเบกษา มีทั้งหมด 87 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สถาบันอุดมศึกษาเอกชนในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด สถาบันอุดมศึกษาเอกชนในประเทศไทย — 87 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 87 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/สถาบันอุดมศึกษาเอกชนในประเทศไทย"
+    ]
+  }
+}

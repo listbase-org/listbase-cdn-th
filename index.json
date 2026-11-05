@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-05T02:30:19.715Z",
-  "total_datasets": 784,
-  "total_records": 281859,
+  "generated": "2026-11-05T02:30:27.388Z",
+  "total_datasets": 785,
+  "total_records": 281946,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -722,6 +722,31 @@
         "xlsx": {
           "name": "th-mahawitthayalai_TH.xlsx",
           "size": 10691
+        }
+      }
+    },
+    {
+      "id": "th-sathaban-udomsueksa-ekachon",
+      "name": "สถาบันอุดมศึกษาเอกชนในประเทศไทย",
+      "category": "education",
+      "record_count": 87,
+      "columns": [
+        "lamdap",
+        "chue_sathaban",
+        "wan_prakat_ratchakitchanubeksa",
+        "sathana_sathaban_udomsueksa_ekachon"
+      ],
+      "source": "https://th.wikipedia.org/wiki/สถาบันอุดมศึกษาเอกชนในประเทศไทย",
+      "updated": "2026-11",
+      "size": 26788,
+      "files": {
+        "csv": {
+          "name": "th-sathaban-udomsueksa-ekachon_TH.csv",
+          "size": 12163
+        },
+        "xlsx": {
+          "name": "th-sathaban-udomsueksa-ekachon_TH.xlsx",
+          "size": 10400
         }
       }
     },
