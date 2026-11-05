@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-05T02:29:55.231Z",
-  "total_datasets": 781,
-  "total_records": 281738,
+  "generated": "2026-11-05T02:30:04.056Z",
+  "total_datasets": 782,
+  "total_records": 281763,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -533,6 +533,31 @@
         "xlsx": {
           "name": "th-phalitphan-changwat-raai-pee_TH.xlsx",
           "size": 14641
+        }
+      }
+    },
+    {
+      "id": "th-phu-wa-kan-thanakhan-haeng-prathet-thai",
+      "name": "รายนามผู้ว่าการธนาคารแห่งประเทศไทย",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "lamdap",
+        "rainam",
+        "roem_wara",
+        "sinsut_wara"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ผู้ว่าการธนาคารแห่งประเทศไทย",
+      "updated": "2026-11",
+      "size": 8371,
+      "files": {
+        "csv": {
+          "name": "th-phu-wa-kan-thanakhan-haeng-prathet-thai_TH.csv",
+          "size": 3624
+        },
+        "xlsx": {
+          "name": "th-phu-wa-kan-thanakhan-haeng-prathet-thai_TH.xlsx",
+          "size": 8166
         }
       }
     },
