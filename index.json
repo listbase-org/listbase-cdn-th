@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-04T02:21:06.080Z",
-  "total_datasets": 780,
-  "total_records": 281270,
+  "generated": "2026-11-05T02:29:55.231Z",
+  "total_datasets": 781,
+  "total_records": 281738,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -8519,6 +8519,29 @@
         "xlsx": {
           "name": "music-piano-chords_TH.xlsx",
           "size": 11165
+        }
+      }
+    },
+    {
+      "id": "th-phleng-thai-doem",
+      "name": "รายชื่อเพลงไทยเดิม",
+      "category": "music",
+      "record_count": 468,
+      "columns": [
+        "chue_phleng",
+        "praphet"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อเพลงไทยเดิม",
+      "updated": "2026-11",
+      "size": 58858,
+      "files": {
+        "csv": {
+          "name": "th-phleng-thai-doem_TH.csv",
+          "size": 32324
+        },
+        "xlsx": {
+          "name": "th-phleng-thai-doem_TH.xlsx",
+          "size": 15896
         }
       }
     },
