@@ -1,0 +1,266 @@
+{
+  "id": "th-prathet-thai-nai-asian-games",
+  "name": "ประเทศไทยในเอเชียนเกมส์ — เหรียญรางวัลรายครั้ง",
+  "title": "ประเทศไทยในเอเชียนเกมส์ — เหรียญรางวัลรายครั้ง",
+  "description": "จำนวนนักกีฬาและเหรียญทอง เงิน ทองแดง ของทัพนักกีฬาไทยในเอเชียนเกมส์แต่ละครั้ง ตั้งแต่ ค.ศ. 1951 พร้อมอันดับในตารางเหรียญ",
+  "category": "sports",
+  "source": "https://th.wikipedia.org/wiki/ประเทศไทยในเอเชียนเกมส์",
+  "source_url": "https://th.wikipedia.org/wiki/ประเทศไทยในเอเชียนเกมส์",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "pi",
+      "label": "Pi",
+      "type": "number"
+    },
+    {
+      "key": "chao_phap",
+      "label": "Chao Phap",
+      "type": "string"
+    },
+    {
+      "key": "nak_kila",
+      "label": "Nak Kila",
+      "type": "number"
+    },
+    {
+      "key": "thong",
+      "label": "Thong",
+      "type": "number"
+    },
+    {
+      "key": "ngoen",
+      "label": "Ngoen",
+      "type": "number"
+    },
+    {
+      "key": "thongdaeng",
+      "label": "Thongdaeng",
+      "type": "number"
+    },
+    {
+      "key": "ruam",
+      "label": "Ruam",
+      "type": "number"
+    },
+    {
+      "key": "andap",
+      "label": "Andap",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pi": 1951,
+      "chao_phap": "นิวเดลี",
+      "nak_kila": 12,
+      "thong": 0,
+      "ngoen": 0,
+      "thongdaeng": 0,
+      "ruam": 0,
+      "andap": "-"
+    },
+    {
+      "pi": 1954,
+      "chao_phap": "มะนิลา",
+      "nak_kila": 19,
+      "thong": 0,
+      "ngoen": 0,
+      "thongdaeng": 0,
+      "ruam": 0,
+      "andap": "-"
+    },
+    {
+      "pi": 1958,
+      "chao_phap": "โตเกียว",
+      "nak_kila": 47,
+      "thong": 0,
+      "ngoen": 1,
+      "thongdaeng": 3,
+      "ruam": 4,
+      "andap": 12
+    },
+    {
+      "pi": 1962,
+      "chao_phap": "จาการ์ตา",
+      "nak_kila": 127,
+      "thong": 2,
+      "ngoen": 6,
+      "thongdaeng": 4,
+      "ruam": 12,
+      "andap": 7
+    },
+    {
+      "pi": 1966,
+      "chao_phap": "กรุงเทพมหานคร",
+      "nak_kila": 307,
+      "thong": 12,
+      "ngoen": 14,
+      "thongdaeng": 11,
+      "ruam": 37,
+      "andap": 3
+    },
+    {
+      "pi": 1970,
+      "chao_phap": "กรุงเทพมหานคร",
+      "nak_kila": 472,
+      "thong": 9,
+      "ngoen": 17,
+      "thongdaeng": 13,
+      "ruam": 39,
+      "andap": 3
+    },
+    {
+      "pi": 1974,
+      "chao_phap": "เตหะราน",
+      "nak_kila": 97,
+      "thong": 4,
+      "ngoen": 2,
+      "thongdaeng": 8,
+      "ruam": 14,
+      "andap": 8
+    },
+    {
+      "pi": 1978,
+      "chao_phap": "กรุงเทพมหานคร",
+      "nak_kila": 948,
+      "thong": 11,
+      "ngoen": 12,
+      "thongdaeng": 19,
+      "ruam": 42,
+      "andap": 5
+    },
+    {
+      "pi": 1982,
+      "chao_phap": "นิวเดลี",
+      "nak_kila": 233,
+      "thong": 1,
+      "ngoen": 5,
+      "thongdaeng": 4,
+      "ruam": 10,
+      "andap": 12
+    },
+    {
+      "pi": 1986,
+      "chao_phap": "โซล",
+      "nak_kila": 204,
+      "thong": 3,
+      "ngoen": 10,
+      "thongdaeng": 13,
+      "ruam": 26,
+      "andap": 7
+    },
+    {
+      "pi": 1990,
+      "chao_phap": "ปักกิ่ง",
+      "nak_kila": 414,
+      "thong": 2,
+      "ngoen": 7,
+      "thongdaeng": 8,
+      "ruam": 17,
+      "andap": 9
+    },
+    {
+      "pi": 1994,
+      "chao_phap": "ฮิโระชิมะ",
+      "nak_kila": 1129,
+      "thong": 3,
+      "ngoen": 10,
+      "thongdaeng": 13,
+      "ruam": 26,
+      "andap": 12
+    },
+    {
+      "pi": 1998,
+      "chao_phap": "กรุงเทพมหานคร",
+      "nak_kila": 1055,
+      "thong": 24,
+      "ngoen": 26,
+      "thongdaeng": 40,
+      "ruam": 90,
+      "andap": 4
+    },
+    {
+      "pi": 2002,
+      "chao_phap": "ปูซาน",
+      "nak_kila": 267,
+      "thong": 14,
+      "ngoen": 19,
+      "thongdaeng": 10,
+      "ruam": 43,
+      "andap": 6
+    },
+    {
+      "pi": 2006,
+      "chao_phap": "โดฮา",
+      "nak_kila": 378,
+      "thong": 13,
+      "ngoen": 15,
+      "thongdaeng": 26,
+      "ruam": 54,
+      "andap": 5
+    },
+    {
+      "pi": 2010,
+      "chao_phap": "กวางโจว",
+      "nak_kila": 593,
+      "thong": 11,
+      "ngoen": 9,
+      "thongdaeng": 32,
+      "ruam": 52,
+      "andap": 9
+    },
+    {
+      "pi": 2014,
+      "chao_phap": "อินช็อน",
+      "nak_kila": 518,
+      "thong": 12,
+      "ngoen": 7,
+      "thongdaeng": 28,
+      "ruam": 47,
+      "andap": 6
+    },
+    {
+      "pi": 2018,
+      "chao_phap": "จาการ์ตา−ปาเล็มบัง",
+      "nak_kila": 829,
+      "thong": 11,
+      "ngoen": 16,
+      "thongdaeng": 46,
+      "ruam": 73,
+      "andap": 11
+    },
+    {
+      "pi": 2022,
+      "chao_phap": "หางโจว",
+      "nak_kila": 934,
+      "thong": 12,
+      "ngoen": 14,
+      "thongdaeng": 32,
+      "ruam": 58,
+      "andap": 8
+    },
+    {
+      "pi": 2026,
+      "chao_phap": "ไอจิ−นาโงยะ",
+      "nak_kila": 694,
+      "thong": 18,
+      "ngoen": 13,
+      "thongdaeng": 21,
+      "ruam": 52,
+      "andap": 7
+    }
+  ],
+  "meta": {
+    "title": "ประเทศไทยในเอเชียนเกมส์ — เหรียญรางวัลรายครั้ง - ดาวน์โหลดฟรี",
+    "description": "จำนวนนักกีฬาและเหรียญทอง เงิน ทองแดง ของทัพนักกีฬาไทยในเอเชียนเกมส์แต่ละครั้ง ตั้งแต่ ค.ศ. 1951 พร้อมอันดับในตารางเหรียญ มีทั้งหมด 20 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ประเทศไทยในเอเชียนเกมส์ — เหรียญรางวัลรายครั้ง | ListBase",
+    "seo_description": "ดาวน์โหลด ประเทศไทยในเอเชียนเกมส์ — เหรียญรางวัลรายครั้ง — 20 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 20 รายการ / 8 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/ประเทศไทยในเอเชียนเกมส์"
+    ]
+  }
+}

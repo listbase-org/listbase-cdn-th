@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-05T02:30:04.056Z",
-  "total_datasets": 782,
-  "total_records": 281763,
+  "generated": "2026-11-05T02:30:12.350Z",
+  "total_datasets": 783,
+  "total_records": 281783,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -22528,6 +22528,35 @@
         "xlsx": {
           "name": "th-phu-thue-thong-olympic_TH.xlsx",
           "size": 7865
+        }
+      }
+    },
+    {
+      "id": "th-prathet-thai-nai-asian-games",
+      "name": "ประเทศไทยในเอเชียนเกมส์ — เหรียญรางวัลรายครั้ง",
+      "category": "sports",
+      "record_count": 20,
+      "columns": [
+        "pi",
+        "chao_phap",
+        "nak_kila",
+        "thong",
+        "ngoen",
+        "thongdaeng",
+        "ruam",
+        "andap"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ประเทศไทยในเอเชียนเกมส์",
+      "updated": "2026-11",
+      "size": 7144,
+      "files": {
+        "csv": {
+          "name": "th-prathet-thai-nai-asian-games_TH.csv",
+          "size": 1360
+        },
+        "xlsx": {
+          "name": "th-prathet-thai-nai-asian-games_TH.xlsx",
+          "size": 7773
         }
       }
     },
