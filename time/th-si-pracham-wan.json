@@ -1,0 +1,88 @@
+{
+  "id": "th-si-pracham-wan",
+  "name": "สีประจำวันในประเทศไทย",
+  "title": "สีประจำวันในประเทศไทย",
+  "description": "สีประจำวันทั้ง 7 วันตามคติไทย พร้อมดาวเคราะห์และเทวดานพเคราะห์ประจำวัน",
+  "category": "time",
+  "source": "https://th.wikipedia.org/wiki/สีประจำวันในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/สีประจำวันในประเทศไทย",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "wan",
+      "label": "Wan",
+      "type": "string"
+    },
+    {
+      "key": "si_pracham_wan",
+      "label": "Si Pracham Wan",
+      "type": "string"
+    },
+    {
+      "key": "dao",
+      "label": "Dao",
+      "type": "string"
+    },
+    {
+      "key": "thewada_nopphakhro",
+      "label": "Thewada Nopphakhro",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wan": "วันอาทิตย์",
+      "si_pracham_wan": "แดง",
+      "dao": "ดวงอาทิตย์",
+      "thewada_nopphakhro": "พระอาทิตย์"
+    },
+    {
+      "wan": "วันจันทร์",
+      "si_pracham_wan": "เหลือง",
+      "dao": "ดวงจันทร์",
+      "thewada_nopphakhro": "พระจันทร์"
+    },
+    {
+      "wan": "วันอังคาร",
+      "si_pracham_wan": "ชมพู",
+      "dao": "ดาวอังคาร",
+      "thewada_nopphakhro": "พระอังคาร"
+    },
+    {
+      "wan": "วันพุธ",
+      "si_pracham_wan": "เขียว",
+      "dao": "ดาวพุธ",
+      "thewada_nopphakhro": "พระพุธ"
+    },
+    {
+      "wan": "วันพฤหัสบดี",
+      "si_pracham_wan": "ส้ม",
+      "dao": "ดาวพฤหัสบดี",
+      "thewada_nopphakhro": "พระพฤหัสบดี"
+    },
+    {
+      "wan": "วันศุกร์",
+      "si_pracham_wan": "ฟ้า",
+      "dao": "ดาวศุกร์",
+      "thewada_nopphakhro": "พระศุกร์"
+    },
+    {
+      "wan": "วันเสาร์",
+      "si_pracham_wan": "ม่วง",
+      "dao": "ดาวเสาร์",
+      "thewada_nopphakhro": "พระเสาร์"
+    }
+  ],
+  "meta": {
+    "title": "สีประจำวันในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "สีประจำวันทั้ง 7 วันตามคติไทย พร้อมดาวเคราะห์และเทวดานพเคราะห์ประจำวัน มีทั้งหมด 7 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สีประจำวันในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด สีประจำวันในประเทศไทย — 7 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 7 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/สีประจำวันในประเทศไทย"
+    ]
+  }
+}

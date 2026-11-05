@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-05T02:30:27.388Z",
-  "total_datasets": 785,
-  "total_records": 281946,
+  "generated": "2026-11-05T02:30:35.819Z",
+  "total_datasets": 786,
+  "total_records": 281953,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -23127,6 +23127,31 @@
         "xlsx": {
           "name": "chinese-zodiac_TH.xlsx",
           "size": 8510
+        }
+      }
+    },
+    {
+      "id": "th-si-pracham-wan",
+      "name": "สีประจำวันในประเทศไทย",
+      "category": "time",
+      "record_count": 7,
+      "columns": [
+        "wan",
+        "si_pracham_wan",
+        "dao",
+        "thewada_nopphakhro"
+      ],
+      "source": "https://th.wikipedia.org/wiki/สีประจำวันในประเทศไทย",
+      "updated": "2026-11",
+      "size": 3584,
+      "files": {
+        "csv": {
+          "name": "th-si-pracham-wan_TH.csv",
+          "size": 769
+        },
+        "xlsx": {
+          "name": "th-si-pracham-wan_TH.xlsx",
+          "size": 7098
         }
       }
     },
