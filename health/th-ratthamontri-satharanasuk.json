@@ -1,0 +1,583 @@
+{
+  "id": "th-ratthamontri-satharanasuk",
+  "name": "รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย",
+  "title": "รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย",
+  "description": "รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2485 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง",
+  "category": "health",
+  "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "rainam",
+      "label": "Rainam",
+      "type": "string"
+    },
+    {
+      "key": "khana_ratthamontri",
+      "label": "Khana Ratthamontri",
+      "type": "number"
+    },
+    {
+      "key": "roem_wara",
+      "label": "Roem Wara",
+      "type": "string"
+    },
+    {
+      "key": "sinsut_wara",
+      "label": "Sinsut Wara",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": "1",
+      "rainam": "พลเอก หลวงเชวงศักดิ์สงคราม (ช่วง ขวัญเชิด)",
+      "khana_ratthamontri": "10",
+      "roem_wara": "7 มีนาคม พ.ศ. 2485",
+      "sinsut_wara": "1 สิงหาคม พ.ศ. 2487"
+    },
+    {
+      "lamdap": "2",
+      "rainam": "เจ้าพระยาศรีธรรมาธิเบศ (จิตร ณ สงขลา)",
+      "khana_ratthamontri": "11",
+      "roem_wara": "2 สิงหาคม พ.ศ. 2487",
+      "sinsut_wara": "2 พฤษภาคม พ.ศ. 2488"
+    },
+    {
+      "lamdap": "3",
+      "rainam": "นาวาเอก หลวงศุภชลาศัย ร.น. (บุง ศุภชลาศัย)",
+      "khana_ratthamontri": "11",
+      "roem_wara": "2 พฤษภาคม พ.ศ. 2488",
+      "sinsut_wara": "31 สิงหาคม พ.ศ. 2488"
+    },
+    {
+      "lamdap": "4",
+      "rainam": "ทวี บุณยเกตุ",
+      "khana_ratthamontri": "12",
+      "roem_wara": "31 สิงหาคม พ.ศ. 2488",
+      "sinsut_wara": "17 กันยายน พ.ศ. 2488"
+    },
+    {
+      "lamdap": "5",
+      "rainam": "พลตำรวจเอก อดุล อดุลเดชจรัส",
+      "khana_ratthamontri": "13",
+      "roem_wara": "19 กันยายน พ.ศ. 2488",
+      "sinsut_wara": "31 มกราคม พ.ศ. 2489"
+    },
+    {
+      "lamdap": "6",
+      "rainam": "พลโท หลวงเกรียงศักดิ์พิชิต (ค้วน จินตะคุณ)",
+      "khana_ratthamontri": "14",
+      "roem_wara": "2 กุมภาพันธ์ พ.ศ. 2489",
+      "sinsut_wara": "24 มีนาคม พ.ศ. 2489"
+    },
+    {
+      "lamdap": "7 (1-3)",
+      "rainam": "พระยาสุนทรพิพิธ (เชย มัฆวิบูลย์)",
+      "khana_ratthamontri": "15",
+      "roem_wara": "24 มีนาคม พ.ศ. 2489",
+      "sinsut_wara": "11 มิถุนายน พ.ศ. 2489"
+    },
+    {
+      "lamdap": "7 (1-3)",
+      "rainam": "พระยาสุนทรพิพิธ (เชย มัฆวิบูลย์)",
+      "khana_ratthamontri": "16",
+      "roem_wara": "11 มิถุนายน พ.ศ. 2489",
+      "sinsut_wara": "23 สิงหาคม พ.ศ. 2489"
+    },
+    {
+      "lamdap": "7 (1-3)",
+      "rainam": "พระยาสุนทรพิพิธ (เชย มัฆวิบูลย์)",
+      "khana_ratthamontri": "17",
+      "roem_wara": "24 สิงหาคม พ.ศ. 2489",
+      "sinsut_wara": "30 พฤษภาคม พ.ศ. 2490"
+    },
+    {
+      "lamdap": "8",
+      "rainam": "แสง สุทธิพงศ์",
+      "khana_ratthamontri": "18",
+      "roem_wara": "31 พฤษภาคม พ.ศ. 2490",
+      "sinsut_wara": "8 พฤศจิกายน พ.ศ. 2490"
+    },
+    {
+      "lamdap": "9",
+      "rainam": "ประจวบ บุนนาค",
+      "khana_ratthamontri": "19",
+      "roem_wara": "8 พฤศจิกายน พ.ศ. 2490",
+      "sinsut_wara": "21 กุมภาพันธ์ พ.ศ. 2491"
+    },
+    {
+      "lamdap": "10",
+      "rainam": "พลเรือตรี เล็ก สุมิตร",
+      "khana_ratthamontri": "20",
+      "roem_wara": "25 กุมภาพันธ์ พ.ศ. 2491",
+      "sinsut_wara": "8 เมษายน พ.ศ. 2491"
+    },
+    {
+      "lamdap": "11 (1-5)",
+      "rainam": "พระยาบริรักษ์เวชชการ (ไล่ฮวด ติตติรานนท์)",
+      "khana_ratthamontri": "21",
+      "roem_wara": "15 เมษายน พ.ศ. 2491",
+      "sinsut_wara": "25 มิถุนายน พ.ศ. 2492"
+    },
+    {
+      "lamdap": "11 (1-5)",
+      "rainam": "พระยาบริรักษ์เวชชการ (ไล่ฮวด ติตติรานนท์)",
+      "khana_ratthamontri": "22",
+      "roem_wara": "28 มิถุนายน พ.ศ. 2492",
+      "sinsut_wara": "29 พฤศจิกายน พ.ศ. 2494"
+    },
+    {
+      "lamdap": "11 (1-5)",
+      "rainam": "พระยาบริรักษ์เวชชการ (ไล่ฮวด ติตติรานนท์)",
+      "khana_ratthamontri": "23",
+      "roem_wara": "29 พฤศจิกายน พ.ศ. 2494",
+      "sinsut_wara": "6 ธันวาคม พ.ศ. 2494"
+    },
+    {
+      "lamdap": "11 (1-5)",
+      "rainam": "พระยาบริรักษ์เวชชการ (ไล่ฮวด ติตติรานนท์)",
+      "khana_ratthamontri": "24",
+      "roem_wara": "8 ธันวาคม พ.ศ. 2494",
+      "sinsut_wara": "23 มีนาคม พ.ศ. 2495"
+    },
+    {
+      "lamdap": "11 (1-5)",
+      "rainam": "พระยาบริรักษ์เวชชการ (ไล่ฮวด ติตติรานนท์)",
+      "khana_ratthamontri": "25",
+      "roem_wara": "28 มีนาคม พ.ศ. 2495",
+      "sinsut_wara": "15 พฤษภาคม พ.ศ. 2497"
+    },
+    {
+      "lamdap": "12",
+      "rainam": "พลโท ประยูร ภมรมนตรี",
+      "khana_ratthamontri": "25",
+      "roem_wara": "15 พฤษภาคม พ.ศ. 2497",
+      "sinsut_wara": "21 มีนาคม พ.ศ. 2500"
+    },
+    {
+      "lamdap": "13",
+      "rainam": "จอมพลอากาศ ฟื้น รณนภากาศ ฤทธาคนี",
+      "khana_ratthamontri": "26",
+      "roem_wara": "31 มีนาคม พ.ศ. 2500",
+      "sinsut_wara": "16 กันยายน พ.ศ. 2500"
+    },
+    {
+      "lamdap": "คณะปฏิวัติ",
+      "rainam": "คณะปฏิวัติ",
+      "khana_ratthamontri": "คณะปฏิวัติ",
+      "roem_wara": "16 กันยายน พ.ศ. 2500",
+      "sinsut_wara": "21 กันยายน พ.ศ. 2500"
+    },
+    {
+      "lamdap": "14 (1-2)",
+      "rainam": "หลวงเฉลิมคัมภีรเวชช์ (เฉลิม พรหมมาส)",
+      "khana_ratthamontri": "27",
+      "roem_wara": "21 กันยายน พ.ศ. 2500",
+      "sinsut_wara": "1 มกราคม พ.ศ. 2501"
+    },
+    {
+      "lamdap": "14 (1-2)",
+      "rainam": "หลวงเฉลิมคัมภีรเวชช์ (เฉลิม พรหมมาส)",
+      "khana_ratthamontri": "28",
+      "roem_wara": "1 มกราคม พ.ศ. 2501",
+      "sinsut_wara": "20 ตุลาคม พ.ศ. 2501"
+    },
+    {
+      "lamdap": "15 (1-2)",
+      "rainam": "พระบำราศนราดูร (หลง เวชชาชีวะ)",
+      "khana_ratthamontri": "29",
+      "roem_wara": "9 กุมภาพันธ์ พ.ศ. 2502",
+      "sinsut_wara": "8 ธันวาคม พ.ศ. 2506"
+    },
+    {
+      "lamdap": "15 (1-2)",
+      "rainam": "พระบำราศนราดูร (หลง เวชชาชีวะ)",
+      "khana_ratthamontri": "30",
+      "roem_wara": "11 ธันวาคม พ.ศ. 2506",
+      "sinsut_wara": "7 มีนาคม พ.ศ. 2512"
+    },
+    {
+      "lamdap": "16 (1-2)",
+      "rainam": "พลตำรวจเอก ประเสริฐ รุจิรวงศ์",
+      "khana_ratthamontri": "31",
+      "roem_wara": "9 มีนาคม พ.ศ. 2512",
+      "sinsut_wara": "17 พฤศจิกายน พ.ศ. 2514"
+    },
+    {
+      "lamdap": "16 (1-2)",
+      "rainam": "พลตำรวจเอก ประเสริฐ รุจิรวงศ์",
+      "khana_ratthamontri": "32",
+      "roem_wara": "19 ธันวาคม พ.ศ. 2515",
+      "sinsut_wara": "14 ตุลาคม พ.ศ. 2516"
+    },
+    {
+      "lamdap": "17 (1-2)",
+      "rainam": "อุดม โปษะกฤษณะ",
+      "khana_ratthamontri": "33",
+      "roem_wara": "14 ตุลาคม พ.ศ. 2516",
+      "sinsut_wara": "22 พฤษภาคม พ.ศ. 2517"
+    },
+    {
+      "lamdap": "17 (1-2)",
+      "rainam": "อุดม โปษะกฤษณะ",
+      "khana_ratthamontri": "34",
+      "roem_wara": "30 พฤษภาคม พ.ศ. 2517",
+      "sinsut_wara": "14 กุมภาพันธ์ พ.ศ. 2518"
+    },
+    {
+      "lamdap": "18",
+      "rainam": "คล้าย ละอองมณี",
+      "khana_ratthamontri": "35",
+      "roem_wara": "15 กุมภาพันธ์ พ.ศ. 2518",
+      "sinsut_wara": "13 มีนาคม พ.ศ. 2518"
+    },
+    {
+      "lamdap": "19",
+      "rainam": "ประชุม รัตนเพียร",
+      "khana_ratthamontri": "36",
+      "roem_wara": "14 มีนาคม พ.ศ. 2518",
+      "sinsut_wara": "8 มกราคม พ.ศ. 2519"
+    },
+    {
+      "lamdap": "20",
+      "rainam": "สวัสดิ์ คำประกอบ",
+      "khana_ratthamontri": "36",
+      "roem_wara": "8 มกราคม พ.ศ. 2519",
+      "sinsut_wara": "12 มกราคม พ.ศ. 2519"
+    },
+    {
+      "lamdap": "21 (1-2)",
+      "rainam": "พลอากาศเอก ทวี จุลละทรัพย์",
+      "khana_ratthamontri": "37",
+      "roem_wara": "20 เมษายน พ.ศ. 2519",
+      "sinsut_wara": "25 กันยายน พ.ศ. 2519"
+    },
+    {
+      "lamdap": "21 (1-2)",
+      "rainam": "พลอากาศเอก ทวี จุลละทรัพย์",
+      "khana_ratthamontri": "38",
+      "roem_wara": "5 ตุลาคม พ.ศ. 2519",
+      "sinsut_wara": "6 ตุลาคม พ.ศ. 2519"
+    },
+    {
+      "lamdap": "22 (1-2)",
+      "rainam": "เรือโท ยงยุทธ สัจจวาณิชย์",
+      "khana_ratthamontri": "39",
+      "roem_wara": "8 ตุลาคม พ.ศ. 2519",
+      "sinsut_wara": "20 ตุลาคม พ.ศ. 2520"
+    },
+    {
+      "lamdap": "22 (1-2)",
+      "rainam": "เรือโท ยงยุทธ สัจจวาณิชย์",
+      "khana_ratthamontri": "40",
+      "roem_wara": "12 พฤศจิกายน พ.ศ. 2520",
+      "sinsut_wara": "21 ธันวาคม พ.ศ. 2521"
+    },
+    {
+      "lamdap": "23",
+      "rainam": "บุญสม มาร์ติน",
+      "khana_ratthamontri": "41",
+      "roem_wara": "12 พฤษภาคม พ.ศ. 2522",
+      "sinsut_wara": "11 กุมภาพันธ์ พ.ศ. 2523"
+    },
+    {
+      "lamdap": "24 (1)",
+      "rainam": "เสม พริ้งพวงแก้ว",
+      "khana_ratthamontri": "41",
+      "roem_wara": "11 กุมภาพันธ์ พ.ศ. 2523",
+      "sinsut_wara": "3 มีนาคม พ.ศ. 2523"
+    },
+    {
+      "lamdap": "25",
+      "rainam": "ทองหยด จิตตวีระ",
+      "khana_ratthamontri": "42",
+      "roem_wara": "3 มีนาคม พ.ศ. 2523",
+      "sinsut_wara": "5 มีนาคม พ.ศ. 2524"
+    },
+    {
+      "lamdap": "24 (2)",
+      "rainam": "เสม พริ้งพวงแก้ว",
+      "khana_ratthamontri": "42",
+      "roem_wara": "11 มีนาคม พ.ศ. 2524",
+      "sinsut_wara": "19 มีนาคม พ.ศ. 2526"
+    },
+    {
+      "lamdap": "26 (1)",
+      "rainam": "มารุต บุนนาค",
+      "khana_ratthamontri": "43",
+      "roem_wara": "30 เมษายน พ.ศ. 2526",
+      "sinsut_wara": "5 สิงหาคม พ.ศ. 2529"
+    },
+    {
+      "lamdap": "27",
+      "rainam": "เทอดพงษ์ ไชยนันทน์",
+      "khana_ratthamontri": "44",
+      "roem_wara": "5 สิงหาคม พ.ศ. 2529",
+      "sinsut_wara": "3 สิงหาคม พ.ศ. 2531"
+    },
+    {
+      "lamdap": "28",
+      "rainam": "ชวน หลีกภัย",
+      "khana_ratthamontri": "45",
+      "roem_wara": "4 สิงหาคม พ.ศ. 2531",
+      "sinsut_wara": "29 ธันวาคม พ.ศ. 2532"
+    },
+    {
+      "lamdap": "26 (2)",
+      "rainam": "มารุต บุนนาค",
+      "khana_ratthamontri": "45",
+      "roem_wara": "29 ธันวาคม พ.ศ. 2532",
+      "sinsut_wara": "22 พฤศจิกายน พ.ศ. 2533"
+    },
+    {
+      "lamdap": "29",
+      "rainam": "ประจวบ ไชยสาส์น",
+      "khana_ratthamontri": "45",
+      "roem_wara": "22 พฤศจิกายน พ.ศ. 2533",
+      "sinsut_wara": "9 ธันวาคม พ.ศ. 2533"
+    },
+    {
+      "lamdap": "30",
+      "rainam": "ปิยะณัฐ วัชราภรณ์",
+      "khana_ratthamontri": "46",
+      "roem_wara": "9 ธันวาคม พ.ศ. 2533",
+      "sinsut_wara": "23 กุมภาพันธ์ พ.ศ. 2534"
+    },
+    {
+      "lamdap": "31 (1)",
+      "rainam": "ไพโรจน์ นิงสานนท์",
+      "khana_ratthamontri": "47",
+      "roem_wara": "2 มีนาคม พ.ศ. 2534",
+      "sinsut_wara": "22 มีนาคม พ.ศ. 2535"
+    },
+    {
+      "lamdap": "32 (1)",
+      "rainam": "บุญพันธ์ แขวัฒนะ",
+      "khana_ratthamontri": "48",
+      "roem_wara": "7 เมษายน พ.ศ. 2535",
+      "sinsut_wara": "9 มิถุนายน พ.ศ. 2535"
+    },
+    {
+      "lamdap": "31 (2)",
+      "rainam": "ไพโรจน์ นิงสานนท์",
+      "khana_ratthamontri": "49",
+      "roem_wara": "10 มิถุนายน พ.ศ. 2535",
+      "sinsut_wara": "22 กันยายน พ.ศ. 2535"
+    },
+    {
+      "lamdap": "32 (2)",
+      "rainam": "บุญพันธ์ แขวัฒนะ",
+      "khana_ratthamontri": "50",
+      "roem_wara": "23 กันยายน พ.ศ. 2535",
+      "sinsut_wara": "15 กันยายน พ.ศ. 2536"
+    },
+    {
+      "lamdap": "33",
+      "rainam": "อาทิตย์ อุไรรัตน์",
+      "khana_ratthamontri": "50",
+      "roem_wara": "23 กันยายน พ.ศ. 2536",
+      "sinsut_wara": "12 กรกฎาคม พ.ศ. 2538"
+    },
+    {
+      "lamdap": "34",
+      "rainam": "เสนาะ เทียนทอง",
+      "khana_ratthamontri": "51",
+      "roem_wara": "13 กรกฎาคม พ.ศ. 2538",
+      "sinsut_wara": "24 พฤศจิกายน พ.ศ. 2539"
+    },
+    {
+      "lamdap": "35",
+      "rainam": "มนตรี พงษ์พานิช",
+      "khana_ratthamontri": "52",
+      "roem_wara": "25 พฤศจิกายน พ.ศ. 2539",
+      "sinsut_wara": "24 ตุลาคม พ.ศ. 2540"
+    },
+    {
+      "lamdap": "36 (1)",
+      "rainam": "สมศักดิ์ เทพสุทิน",
+      "khana_ratthamontri": "52",
+      "roem_wara": "24 ตุลาคม พ.ศ. 2540",
+      "sinsut_wara": "8 พฤศจิกายน พ.ศ. 2540"
+    },
+    {
+      "lamdap": "37",
+      "rainam": "รักเกียรติ สุขธนะ",
+      "khana_ratthamontri": "53",
+      "roem_wara": "14 พฤศจิกายน พ.ศ. 2540",
+      "sinsut_wara": "15 กันยายน พ.ศ. 2541"
+    },
+    {
+      "lamdap": "38",
+      "rainam": "กร ทัพพะรังสี",
+      "khana_ratthamontri": "53",
+      "roem_wara": "5 ตุลาคม พ.ศ. 2541",
+      "sinsut_wara": "9 พฤศจิกายน พ.ศ. 2543"
+    },
+    {
+      "lamdap": "39",
+      "rainam": "คุณหญิง สุดารัตน์ เกยุราพันธุ์",
+      "khana_ratthamontri": "54",
+      "roem_wara": "17 กุมภาพันธ์ พ.ศ. 2544",
+      "sinsut_wara": "11 มีนาคม พ.ศ. 2548"
+    },
+    {
+      "lamdap": "40",
+      "rainam": "ศาตราจารย์ สุชัย เจริญรัตนกุล",
+      "khana_ratthamontri": "55",
+      "roem_wara": "11 มีนาคม พ.ศ. 2548",
+      "sinsut_wara": "31 ตุลาคม พ.ศ. 2548"
+    },
+    {
+      "lamdap": "41",
+      "rainam": "พินิจ จารุสมบัติ",
+      "khana_ratthamontri": "55",
+      "roem_wara": "31 ตุลาคม พ.ศ. 2548",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2549"
+    },
+    {
+      "lamdap": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "rainam": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "khana_ratthamontri": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "roem_wara": "19 กันยายน พ.ศ. 2549",
+      "sinsut_wara": "1 ตุลาคม พ.ศ. 2549"
+    },
+    {
+      "lamdap": "42",
+      "rainam": "มงคล ณ สงขลา",
+      "khana_ratthamontri": "56",
+      "roem_wara": "8 ตุลาคม พ.ศ. 2549",
+      "sinsut_wara": "6 กุมภาพันธ์ พ.ศ. 2551"
+    },
+    {
+      "lamdap": "43",
+      "rainam": "ไชยา สะสมทรัพย์",
+      "khana_ratthamontri": "57",
+      "roem_wara": "6 กุมภาพันธ์ พ.ศ. 2551",
+      "sinsut_wara": "9 กรกฎาคม พ.ศ. 2551"
+    },
+    {
+      "lamdap": "44",
+      "rainam": "ชวรัตน์ ชาญวีรกูล",
+      "khana_ratthamontri": "57",
+      "roem_wara": "2 สิงหาคม พ.ศ. 2551",
+      "sinsut_wara": "9 กันยายน พ.ศ. 2551"
+    },
+    {
+      "lamdap": "45",
+      "rainam": "ร้อยตำรวจเอก เฉลิม อยู่บำรุง",
+      "khana_ratthamontri": "58",
+      "roem_wara": "24 กันยายน พ.ศ. 2551",
+      "sinsut_wara": "2 ธันวาคม พ.ศ. 2551"
+    },
+    {
+      "lamdap": "46",
+      "rainam": "วิทยา แก้วภราดัย",
+      "khana_ratthamontri": "59",
+      "roem_wara": "20 ธันวาคม พ.ศ. 2551",
+      "sinsut_wara": "30 ธันวาคม พ.ศ. 2552"
+    },
+    {
+      "lamdap": "47",
+      "rainam": "จุรินทร์ ลักษณวิศิษฏ์",
+      "khana_ratthamontri": "59",
+      "roem_wara": "15 มกราคม พ.ศ. 2553",
+      "sinsut_wara": "9 สิงหาคม พ.ศ. 2554"
+    },
+    {
+      "lamdap": "48",
+      "rainam": "วิทยา บุรณศิริ",
+      "khana_ratthamontri": "60",
+      "roem_wara": "9 สิงหาคม พ.ศ. 2554",
+      "sinsut_wara": "27 ตุลาคม พ.ศ. 2555"
+    },
+    {
+      "lamdap": "49",
+      "rainam": "ประดิษฐ สินธวณรงค์",
+      "khana_ratthamontri": "60",
+      "roem_wara": "27 ตุลาคม พ.ศ. 2555",
+      "sinsut_wara": "22 พฤษภาคม พ.ศ. 2557"
+    },
+    {
+      "lamdap": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "rainam": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "khana_ratthamontri": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "roem_wara": "22 พฤษภาคม พ.ศ. 2557",
+      "sinsut_wara": "30 สิงหาคม พ.ศ. 2557"
+    },
+    {
+      "lamdap": "50",
+      "rainam": "รัชตะ รัชตะนาวิน",
+      "khana_ratthamontri": "61",
+      "roem_wara": "30 สิงหาคม พ.ศ. 2557",
+      "sinsut_wara": "19 สิงหาคม พ.ศ. 2558"
+    },
+    {
+      "lamdap": "51",
+      "rainam": "ปิยะสกล สกลสัตยาทร",
+      "khana_ratthamontri": "61",
+      "roem_wara": "19 สิงหาคม พ.ศ. 2558",
+      "sinsut_wara": "10 กรกฎาคม พ.ศ. 2562"
+    },
+    {
+      "lamdap": "52",
+      "rainam": "อนุทิน ชาญวีรกูล",
+      "khana_ratthamontri": "62",
+      "roem_wara": "10 กรกฎาคม พ.ศ. 2562",
+      "sinsut_wara": "1 กันยายน พ.ศ. 2566"
+    },
+    {
+      "lamdap": "53",
+      "rainam": "ชลน่าน ศรีแก้ว",
+      "khana_ratthamontri": "63",
+      "roem_wara": "1 กันยายน พ.ศ. 2566",
+      "sinsut_wara": "27 เมษายน พ.ศ. 2567"
+    },
+    {
+      "lamdap": "36 (2-3)",
+      "rainam": "สมศักดิ์ เทพสุทิน",
+      "khana_ratthamontri": "63",
+      "roem_wara": "27 เมษายน พ.ศ. 2567",
+      "sinsut_wara": "3 กันยายน พ.ศ. 2567"
+    },
+    {
+      "lamdap": "36 (2-3)",
+      "rainam": "สมศักดิ์ เทพสุทิน",
+      "khana_ratthamontri": "64",
+      "roem_wara": "3 กันยายน พ.ศ. 2567",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2568"
+    },
+    {
+      "lamdap": "54 (1-2)",
+      "rainam": "พัฒนา พร้อมพัฒน์",
+      "khana_ratthamontri": "65",
+      "roem_wara": "19 กันยายน พ.ศ. 2568",
+      "sinsut_wara": "30 มีนาคม พ.ศ. 2569"
+    },
+    {
+      "lamdap": "54 (1-2)",
+      "rainam": "พัฒนา พร้อมพัฒน์",
+      "khana_ratthamontri": "66",
+      "roem_wara": "30 มีนาคม พ.ศ. 2569",
+      "sinsut_wara": "ปัจจุบัน"
+    }
+  ],
+  "meta": {
+    "title": "รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย - ดาวน์โหลดฟรี",
+    "description": "รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2485 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง มีทั้งหมด 76 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย — 76 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 76 รายการ / 5 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย"
+    ]
+  }
+}

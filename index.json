@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-05T02:30:12.350Z",
-  "total_datasets": 783,
-  "total_records": 281783,
+  "generated": "2026-11-05T02:30:19.715Z",
+  "total_datasets": 784,
+  "total_records": 281859,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -7689,6 +7689,32 @@
         "xlsx": {
           "name": "th-medical-schools_TH.xlsx",
           "size": 8676
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-satharanasuk",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย",
+      "category": "health",
+      "record_count": 76,
+      "columns": [
+        "lamdap",
+        "rainam",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงสาธารณสุขของไทย",
+      "updated": "2026-11",
+      "size": 24636,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-satharanasuk_TH.csv",
+          "size": 12703
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-satharanasuk_TH.xlsx",
+          "size": 10926
         }
       }
     },
