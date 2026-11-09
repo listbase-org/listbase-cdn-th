@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-09T02:24:06.601Z",
-  "total_datasets": 788,
-  "total_records": 281990,
+  "generated": "2026-11-09T02:24:15.743Z",
+  "total_datasets": 789,
+  "total_records": 282029,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -1615,6 +1615,28 @@
         "xlsx": {
           "name": "th-khanom-thai_TH.xlsx",
           "size": 13987
+        }
+      }
+    },
+    {
+      "id": "th-rai-chue-nam-phrik",
+      "name": "รายชื่อน้ำพริกไทย",
+      "category": "food",
+      "record_count": 39,
+      "columns": [
+        "chue"
+      ],
+      "source": "https://th.wikipedia.org/wiki/น้ำพริก",
+      "updated": "2026-11",
+      "size": 4642,
+      "files": {
+        "csv": {
+          "name": "th-rai-chue-nam-phrik_TH.csv",
+          "size": 1743
+        },
+        "xlsx": {
+          "name": "th-rai-chue-nam-phrik_TH.xlsx",
+          "size": 7351
         }
       }
     },
