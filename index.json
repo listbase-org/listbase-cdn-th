@@ -1,12 +1,12 @@
 {
   "lang": "th",
-  "generated": "2026-11-09T02:24:15.743Z",
-  "total_datasets": 789,
-  "total_records": 282029,
+  "generated": "2026-11-09T02:24:25.389Z",
+  "total_datasets": 790,
+  "total_records": 282057,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "business",
@@ -181,6 +181,30 @@
         "xlsx": {
           "name": "th-phan-thurian-nai-prathet-thai_TH.xlsx",
           "size": 8356
+        }
+      }
+    },
+    {
+      "id": "th-sai-phan-maew-thai",
+      "name": "สายพันธุ์แมวไทยตามตำราแมวไทย",
+      "category": "agriculture",
+      "record_count": 28,
+      "columns": [
+        "chue",
+        "laksana",
+        "praphet"
+      ],
+      "source": "https://th.wikipedia.org/wiki/แมวไทย",
+      "updated": "2026-11",
+      "size": 12073,
+      "files": {
+        "csv": {
+          "name": "th-sai-phan-maew-thai_TH.csv",
+          "size": 8094
+        },
+        "xlsx": {
+          "name": "th-sai-phan-maew-thai_TH.xlsx",
+          "size": 9027
         }
       }
     },
