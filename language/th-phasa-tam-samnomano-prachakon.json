@@ -1,0 +1,190 @@
+{
+  "id": "th-phasa-tam-samnomano-prachakon",
+  "name": "ภาษาที่ใช้ในประเทศไทยตามสำมะโนประชากร (พ.ศ. 2543 และ 2553)",
+  "title": "ภาษาที่ใช้ในประเทศไทยตามสำมะโนประชากร (พ.ศ. 2543 และ 2553)",
+  "description": "จำนวนผู้ใช้ภาษาต่าง ๆ ในประเทศไทยจากสำมะโนประชากรและเคหะ พ.ศ. 2543 และ 2553 จำแนกตามตระกูลภาษา",
+  "category": "language",
+  "source": "https://th.wikipedia.org/wiki/ภาษาในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/ภาษาในประเทศไทย",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "phasa",
+      "label": "Phasa",
+      "type": "string"
+    },
+    {
+      "key": "trakun_phasa",
+      "label": "Trakun Phasa",
+      "type": "string"
+    },
+    {
+      "key": "phu_chai_2543",
+      "label": "Phu Chai 2543",
+      "type": "number"
+    },
+    {
+      "key": "phu_chai_2553",
+      "label": "Phu Chai 2553",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "phasa": "ไทย",
+      "trakun_phasa": "ขร้า-ไท",
+      "phu_chai_2543": 52325037,
+      "phu_chai_2553": 59866190
+    },
+    {
+      "phasa": "เขมร",
+      "trakun_phasa": "ออสโตรเอเชียติก",
+      "phu_chai_2543": 1291024,
+      "phu_chai_2553": 180533
+    },
+    {
+      "phasa": "มลายู",
+      "trakun_phasa": "ออสโตรนีเซียน",
+      "phu_chai_2543": 1202911,
+      "phu_chai_2553": 1467369
+    },
+    {
+      "phasa": "กะเหรี่ยง",
+      "trakun_phasa": "จีน-ทิเบต",
+      "phu_chai_2543": 317968,
+      "phu_chai_2553": 441114
+    },
+    {
+      "phasa": "จีน",
+      "trakun_phasa": "จีน-ทิเบต",
+      "phu_chai_2543": 231350,
+      "phu_chai_2553": 111866
+    },
+    {
+      "phasa": "ม้ง",
+      "trakun_phasa": "ม้ง-เมี่ยน",
+      "phu_chai_2543": 112686,
+      "phu_chai_2553": 149090
+    },
+    {
+      "phasa": "ล่าหู่",
+      "trakun_phasa": "จีน-ทิเบต",
+      "phu_chai_2543": 70058,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "พม่า",
+      "trakun_phasa": "จีน-ทิเบต",
+      "phu_chai_2543": 67061,
+      "phu_chai_2553": 827713
+    },
+    {
+      "phasa": "อาข่า",
+      "trakun_phasa": "จีน-ทิเบต",
+      "phu_chai_2543": 54241,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "อังกฤษ",
+      "trakun_phasa": "อินโด-ยูโรเปียน",
+      "phu_chai_2543": 48202,
+      "phu_chai_2553": 323779
+    },
+    {
+      "phasa": "ไต",
+      "trakun_phasa": "ขร้า-ไท",
+      "phu_chai_2543": 44004,
+      "phu_chai_2553": 787696
+    },
+    {
+      "phasa": "ญี่ปุ่น",
+      "trakun_phasa": "ญี่ปุ่น",
+      "phu_chai_2543": 38565,
+      "phu_chai_2553": 70667
+    },
+    {
+      "phasa": "ละว้า",
+      "trakun_phasa": "ออสโตรเอเชียติก",
+      "phu_chai_2543": 31583,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "ลีสู่",
+      "trakun_phasa": "จีน-ทิเบต",
+      "phu_chai_2543": 25037,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "เวียดนาม",
+      "trakun_phasa": "ออสโตรเอเชียติก",
+      "phu_chai_2543": 24476,
+      "phu_chai_2553": 8281
+    },
+    {
+      "phasa": "เย้า",
+      "trakun_phasa": "ม้ง-เมี่ยน",
+      "phu_chai_2543": 21238,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "ขมุ",
+      "trakun_phasa": "ออสโตรเอเชียติก",
+      "phu_chai_2543": 6246,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "อินเดีย",
+      "trakun_phasa": "อินโด-ยูโรเปียน",
+      "phu_chai_2543": 5598,
+      "phu_chai_2553": 22938
+    },
+    {
+      "phasa": "จีนฮ่อ",
+      "trakun_phasa": "จีน-ทิเบต",
+      "phu_chai_2543": 3247,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "ถิ่น",
+      "trakun_phasa": "ออสโตรเอเชียติก",
+      "phu_chai_2543": 2317,
+      "phu_chai_2553": ""
+    },
+    {
+      "phasa": "ภาษาท้องถิ่น",
+      "trakun_phasa": "ภาษาท้องถิ่น",
+      "phu_chai_2543": "",
+      "phu_chai_2553": 958251
+    },
+    {
+      "phasa": "ภาษาถิ่นและอื่น ๆ ในประเทศไทย",
+      "trakun_phasa": "ภาษาถิ่นและอื่น ๆ ในประเทศไทย",
+      "phu_chai_2543": 33481,
+      "phu_chai_2553": 318012
+    },
+    {
+      "phasa": "อื่น ๆ",
+      "trakun_phasa": "อื่น ๆ",
+      "phu_chai_2543": 33481,
+      "phu_chai_2553": 448160
+    },
+    {
+      "phasa": "ไม่ทราบ",
+      "trakun_phasa": "ไม่ทราบ",
+      "phu_chai_2543": 325134,
+      "phu_chai_2553": ""
+    }
+  ],
+  "meta": {
+    "title": "ภาษาที่ใช้ในประเทศไทยตามสำมะโนประชากร (พ.ศ. 2543 และ 2553) - ดาวน์โหลดฟรี",
+    "description": "จำนวนผู้ใช้ภาษาต่าง ๆ ในประเทศไทยจากสำมะโนประชากรและเคหะ พ.ศ. 2543 และ 2553 จำแนกตามตระกูลภาษา มีทั้งหมด 24 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ภาษาที่ใช้ในประเทศไทยตามสำมะโนประชากร (พ.ศ. 2543 และ 2553) | ListBase",
+    "seo_description": "ดาวน์โหลด ภาษาที่ใช้ในประเทศไทยตามสำมะโนประชากร (พ.ศ. 2543 และ 2553) — 24 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 24 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/ภาษาในประเทศไทย"
+    ]
+  }
+}

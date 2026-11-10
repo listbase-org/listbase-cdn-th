@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-10T02:25:11.369Z",
-  "total_datasets": 791,
-  "total_records": 282126,
+  "generated": "2026-11-10T02:25:19.193Z",
+  "total_datasets": 792,
+  "total_records": 282150,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "law",
@@ -8321,6 +8321,31 @@
         "xlsx": {
           "name": "th-phasa-chatphan-tam-trakun-phasa_TH.xlsx",
           "size": 8229
+        }
+      }
+    },
+    {
+      "id": "th-phasa-tam-samnomano-prachakon",
+      "name": "ภาษาที่ใช้ในประเทศไทยตามสำมะโนประชากร (พ.ศ. 2543 และ 2553)",
+      "category": "language",
+      "record_count": 24,
+      "columns": [
+        "phasa",
+        "trakun_phasa",
+        "phu_chai_2543",
+        "phu_chai_2553"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ภาษาในประเทศไทย",
+      "updated": "2026-11",
+      "size": 6723,
+      "files": {
+        "csv": {
+          "name": "th-phasa-tam-samnomano-prachakon_TH.csv",
+          "size": 1805
+        },
+        "xlsx": {
+          "name": "th-phasa-tam-samnomano-prachakon_TH.xlsx",
+          "size": 7676
         }
       }
     },
