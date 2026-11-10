@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-09T02:24:25.389Z",
-  "total_datasets": 790,
-  "total_records": 282057,
+  "generated": "2026-11-10T02:25:11.369Z",
+  "total_datasets": 791,
+  "total_records": 282126,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "law",
@@ -8298,6 +8298,29 @@
         "xlsx": {
           "name": "lang-pinyin-table_TH.xlsx",
           "size": 32664
+        }
+      }
+    },
+    {
+      "id": "th-phasa-chatphan-tam-trakun-phasa",
+      "name": "ภาษาของกลุ่มชาติพันธุ์ในประเทศไทยจำแนกตามตระกูลภาษา",
+      "category": "language",
+      "record_count": 69,
+      "columns": [
+        "phasa",
+        "trakun_phasa"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ภาษาในประเทศไทย",
+      "updated": "2026-11",
+      "size": 10405,
+      "files": {
+        "csv": {
+          "name": "th-phasa-chatphan-tam-trakun-phasa_TH.csv",
+          "size": 4139
+        },
+        "xlsx": {
+          "name": "th-phasa-chatphan-tam-trakun-phasa_TH.xlsx",
+          "size": 8229
         }
       }
     },
