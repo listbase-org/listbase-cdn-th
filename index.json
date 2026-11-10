@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-10T02:25:19.193Z",
-  "total_datasets": 792,
-  "total_records": 282150,
+  "generated": "2026-11-10T02:25:27.916Z",
+  "total_datasets": 793,
+  "total_records": 282170,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -22589,6 +22589,30 @@
         "xlsx": {
           "name": "th-population-censuses_TH.xlsx",
           "size": 7174
+        }
+      }
+    },
+    {
+      "id": "th-prachakon-thai-raipi-thabian-rat",
+      "name": "จำนวนประชากรไทยตามทะเบียนราษฎรรายปี (พ.ศ. 2549–2568)",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "pi_pho_so",
+        "prachakon",
+        "plianplaeng_roiyala"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+      "updated": "2026-11",
+      "size": 4688,
+      "files": {
+        "csv": {
+          "name": "th-prachakon-thai-raipi-thabian-rat_TH.csv",
+          "size": 528
+        },
+        "xlsx": {
+          "name": "th-prachakon-thai-raipi-thabian-rat_TH.xlsx",
+          "size": 7144
         }
       }
     },

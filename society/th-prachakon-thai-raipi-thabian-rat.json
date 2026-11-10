@@ -1,0 +1,141 @@
+{
+  "id": "th-prachakon-thai-raipi-thabian-rat",
+  "name": "จำนวนประชากรไทยตามทะเบียนราษฎรรายปี (พ.ศ. 2549–2568)",
+  "title": "จำนวนประชากรไทยตามทะเบียนราษฎรรายปี (พ.ศ. 2549–2568)",
+  "description": "จำนวนประชากรของประเทศไทยตามหลักฐานทะเบียนราษฎร กรมการปกครอง กระทรวงมหาดไทย รายปี พร้อมอัตราการเปลี่ยนแปลงร้อยละ",
+  "category": "society",
+  "source": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+  "source_url": "https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "pi_pho_so",
+      "label": "Pi Pho So",
+      "type": "number"
+    },
+    {
+      "key": "prachakon",
+      "label": "Prachakon",
+      "type": "number"
+    },
+    {
+      "key": "plianplaeng_roiyala",
+      "label": "Plianplaeng Roiyala",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pi_pho_so": 2549,
+      "prachakon": 62828706,
+      "plianplaeng_roiyala": ""
+    },
+    {
+      "pi_pho_so": 2550,
+      "prachakon": 63038247,
+      "plianplaeng_roiyala": 0.3
+    },
+    {
+      "pi_pho_so": 2551,
+      "prachakon": 63389730,
+      "plianplaeng_roiyala": 0.6
+    },
+    {
+      "pi_pho_so": 2552,
+      "prachakon": 63525062,
+      "plianplaeng_roiyala": 0.2
+    },
+    {
+      "pi_pho_so": 2553,
+      "prachakon": 63878267,
+      "plianplaeng_roiyala": 0.6
+    },
+    {
+      "pi_pho_so": 2554,
+      "prachakon": 64076033,
+      "plianplaeng_roiyala": 0.3
+    },
+    {
+      "pi_pho_so": 2555,
+      "prachakon": 64456695,
+      "plianplaeng_roiyala": 0.6
+    },
+    {
+      "pi_pho_so": 2556,
+      "prachakon": 64785909,
+      "plianplaeng_roiyala": 0.5
+    },
+    {
+      "pi_pho_so": 2557,
+      "prachakon": 65124716,
+      "plianplaeng_roiyala": 0.5
+    },
+    {
+      "pi_pho_so": 2558,
+      "prachakon": 65729098,
+      "plianplaeng_roiyala": 0.9
+    },
+    {
+      "pi_pho_so": 2559,
+      "prachakon": 65931550,
+      "plianplaeng_roiyala": 0.3
+    },
+    {
+      "pi_pho_so": 2560,
+      "prachakon": 66188503,
+      "plianplaeng_roiyala": 0.4
+    },
+    {
+      "pi_pho_so": 2561,
+      "prachakon": 66413979,
+      "plianplaeng_roiyala": 0.3
+    },
+    {
+      "pi_pho_so": 2562,
+      "prachakon": 66558935,
+      "plianplaeng_roiyala": 0.2
+    },
+    {
+      "pi_pho_so": 2563,
+      "prachakon": 66186727,
+      "plianplaeng_roiyala": -0.6
+    },
+    {
+      "pi_pho_so": 2564,
+      "prachakon": 66171439,
+      "plianplaeng_roiyala": 0
+    },
+    {
+      "pi_pho_so": 2565,
+      "prachakon": 66090475,
+      "plianplaeng_roiyala": -0.1
+    },
+    {
+      "pi_pho_so": 2566,
+      "prachakon": 66052615,
+      "plianplaeng_roiyala": -0.1
+    },
+    {
+      "pi_pho_so": 2567,
+      "prachakon": 65951210,
+      "plianplaeng_roiyala": -0.2
+    },
+    {
+      "pi_pho_so": 2568,
+      "prachakon": 65809011,
+      "plianplaeng_roiyala": -0.2
+    }
+  ],
+  "meta": {
+    "title": "จำนวนประชากรไทยตามทะเบียนราษฎรรายปี (พ.ศ. 2549–2568) - ดาวน์โหลดฟรี",
+    "description": "จำนวนประชากรของประเทศไทยตามหลักฐานทะเบียนราษฎร กรมการปกครอง กระทรวงมหาดไทย รายปี พร้อมอัตราการเปลี่ยนแปลงร้อยละ มีทั้งหมด 20 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "จำนวนประชากรไทยตามทะเบียนราษฎรรายปี (พ.ศ. 2549–2568) | ListBase",
+    "seo_description": "ดาวน์โหลด จำนวนประชากรไทยตามทะเบียนราษฎรรายปี (พ.ศ. 2549–2568) — 20 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 20 รายการ / 3 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย"
+    ]
+  }
+}
