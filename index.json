@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-10T02:25:27.916Z",
-  "total_datasets": 793,
-  "total_records": 282170,
+  "generated": "2026-11-10T02:31:44.092Z",
+  "total_datasets": 794,
+  "total_records": 282221,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "units",
@@ -23672,6 +23672,37 @@
         "xlsx": {
           "name": "th-railway-accidents_TH.xlsx",
           "size": 63761
+        }
+      }
+    },
+    {
+      "id": "th-saphan-kham-maenam-chaophraya",
+      "name": "สะพานและจุดข้ามแม่น้ำเจ้าพระยา",
+      "category": "transport",
+      "record_count": 51,
+      "columns": [
+        "km",
+        "chue",
+        "nuai_ngan",
+        "pi_poet_pho_so",
+        "sing_thi_kham",
+        "fang_1",
+        "fang_2",
+        "lat",
+        "lon",
+        "mai_het"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสะพานข้ามแม่น้ำเจ้าพระยา",
+      "updated": "2026-11",
+      "size": 36937,
+      "files": {
+        "csv": {
+          "name": "th-saphan-kham-maenam-chaophraya_TH.csv",
+          "size": 24170
+        },
+        "xlsx": {
+          "name": "th-saphan-kham-maenam-chaophraya_TH.xlsx",
+          "size": 12380
         }
       }
     },
