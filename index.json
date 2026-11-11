@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-10T02:31:44.092Z",
-  "total_datasets": 794,
-  "total_records": 282221,
+  "generated": "2026-11-11T02:16:27.005Z",
+  "total_datasets": 795,
+  "total_records": 282242,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -8917,6 +8917,33 @@
         "xlsx": {
           "name": "th-parties-2569_TH.xlsx",
           "size": 11050
+        }
+      }
+    },
+    {
+      "id": "th-phu-wa-ratchakan-krungthep",
+      "name": "รายชื่อผู้ว่าราชการกรุงเทพมหานคร",
+      "category": "politics",
+      "record_count": 21,
+      "columns": [
+        "no",
+        "name",
+        "origin",
+        "term_start",
+        "term_end",
+        "duration"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อผู้ว่าราชการกรุงเทพมหานคร",
+      "updated": "2026-11",
+      "size": 10368,
+      "files": {
+        "csv": {
+          "name": "th-phu-wa-ratchakan-krungthep_TH.csv",
+          "size": 5061
+        },
+        "xlsx": {
+          "name": "th-phu-wa-ratchakan-krungthep_TH.xlsx",
+          "size": 8376
         }
       }
     },
