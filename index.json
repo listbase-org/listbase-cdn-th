@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-11T02:16:27.005Z",
-  "total_datasets": 795,
-  "total_records": 282242,
+  "generated": "2026-11-11T02:16:37.416Z",
+  "total_datasets": 796,
+  "total_records": 282348,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "units",
@@ -23730,6 +23730,38 @@
         "xlsx": {
           "name": "th-saphan-kham-maenam-chaophraya_TH.xlsx",
           "size": 12380
+        }
+      }
+    },
+    {
+      "id": "th-sathani-rotfai-sai-nuea",
+      "name": "รายชื่อสถานีรถไฟสายเหนือ",
+      "category": "transport",
+      "record_count": 106,
+      "columns": [
+        "station",
+        "station_no",
+        "abbr",
+        "distance_km",
+        "distance_from",
+        "station_class",
+        "tambon",
+        "amphoe",
+        "province",
+        "route_section",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสถานีรถไฟ_สายเหนือ",
+      "updated": "2026-11",
+      "size": 82491,
+      "files": {
+        "csv": {
+          "name": "th-sathani-rotfai-sai-nuea_TH.csv",
+          "size": 55242
+        },
+        "xlsx": {
+          "name": "th-sathani-rotfai-sai-nuea_TH.xlsx",
+          "size": 19221
         }
       }
     },
