@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-11T02:16:37.416Z",
-  "total_datasets": 796,
-  "total_records": 282348,
+  "generated": "2026-11-11T02:16:49.681Z",
+  "total_datasets": 797,
+  "total_records": 282656,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "units",
@@ -23762,6 +23762,38 @@
         "xlsx": {
           "name": "th-sathani-rotfai-sai-nuea_TH.xlsx",
           "size": 19221
+        }
+      }
+    },
+    {
+      "id": "th-sathani-rotfai-sai-tai",
+      "name": "รายชื่อสถานีรถไฟสายใต้",
+      "category": "transport",
+      "record_count": 308,
+      "columns": [
+        "station",
+        "station_no",
+        "abbr",
+        "distance_km",
+        "distance_from",
+        "station_class",
+        "tambon",
+        "amphoe",
+        "province",
+        "route_section",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสถานีรถไฟ_สายใต้",
+      "updated": "2026-11",
+      "size": 225725,
+      "files": {
+        "csv": {
+          "name": "th-sathani-rotfai-sai-tai_TH.csv",
+          "size": 152885
+        },
+        "xlsx": {
+          "name": "th-sathani-rotfai-sai-tai_TH.xlsx",
+          "size": 41126
         }
       }
     },
