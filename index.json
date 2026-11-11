@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-11T02:16:49.681Z",
-  "total_datasets": 797,
-  "total_records": 282656,
+  "generated": "2026-11-11T02:16:58.361Z",
+  "total_datasets": 798,
+  "total_records": 282814,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "units",
@@ -23794,6 +23794,38 @@
         "xlsx": {
           "name": "th-sathani-rotfai-sai-tai_TH.xlsx",
           "size": 41126
+        }
+      }
+    },
+    {
+      "id": "th-sathani-rotfai-sai-tawan-ok-chiang-nuea",
+      "name": "รายชื่อสถานีรถไฟสายตะวันออกเฉียงเหนือ",
+      "category": "transport",
+      "record_count": 158,
+      "columns": [
+        "station",
+        "station_no",
+        "abbr",
+        "distance_km",
+        "distance_from",
+        "station_class",
+        "tambon",
+        "amphoe",
+        "province",
+        "route_section",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อสถานีรถไฟ_สายตะวันออกเฉียงเหนือ",
+      "updated": "2026-11",
+      "size": 123735,
+      "files": {
+        "csv": {
+          "name": "th-sathani-rotfai-sai-tawan-ok-chiang-nuea_TH.csv",
+          "size": 84328
+        },
+        "xlsx": {
+          "name": "th-sathani-rotfai-sai-tawan-ok-chiang-nuea_TH.xlsx",
+          "size": 25289
         }
       }
     },
