@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-11T02:16:58.361Z",
-  "total_datasets": 798,
-  "total_records": 282814,
+  "generated": "2026-11-12T02:25:36.841Z",
+  "total_datasets": 799,
+  "total_records": 283000,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -879,6 +879,33 @@
         "xlsx": {
           "name": "th-nangsao-thai_TH.xlsx",
           "size": 13525
+        }
+      }
+    },
+    {
+      "id": "th-phapphayon-thai-2566-2568",
+      "name": "รายชื่อภาพยนตร์ไทยที่เข้าฉาย พ.ศ. 2566–2568",
+      "category": "entertainment",
+      "record_count": 186,
+      "columns": [
+        "pee",
+        "duean",
+        "wan_thi",
+        "chue_phapphayon",
+        "borisat_phu_sang",
+        "nakhsadaeng_lae_thimngan"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อภาพยนตร์ไทย_พ.ศ._2567",
+      "updated": "2026-11",
+      "size": 136399,
+      "files": {
+        "csv": {
+          "name": "th-phapphayon-thai-2566-2568_TH.csv",
+          "size": 106875
+        },
+        "xlsx": {
+          "name": "th-phapphayon-thai-2566-2568_TH.xlsx",
+          "size": 35985
         }
       }
     },
