@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-12T02:25:51.417Z",
-  "total_datasets": 800,
-  "total_records": 283153,
+  "generated": "2026-11-12T02:26:03.644Z",
+  "total_datasets": 801,
+  "total_records": 283177,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -23662,6 +23662,32 @@
         "xlsx": {
           "name": "th-sathanthi-thongthiao_TH.xlsx",
           "size": 54134
+        }
+      }
+    },
+    {
+      "id": "th-suan-sanuk-suan-nam",
+      "name": "สวนสนุกและสวนน้ำในประเทศไทย",
+      "category": "tourism",
+      "record_count": 24,
+      "columns": [
+        "chue",
+        "phuen_thi",
+        "praphet",
+        "phumiphak",
+        "mai_het"
+      ],
+      "source": "https://th.wikipedia.org/wiki/สวนสนุก",
+      "updated": "2026-11",
+      "size": 10299,
+      "files": {
+        "csv": {
+          "name": "th-suan-sanuk-suan-nam_TH.csv",
+          "size": 5493
+        },
+        "xlsx": {
+          "name": "th-suan-sanuk-suan-nam_TH.xlsx",
+          "size": 8363
         }
       }
     },
