@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-12T02:25:36.841Z",
-  "total_datasets": 799,
-  "total_records": 283000,
+  "generated": "2026-11-12T02:25:51.417Z",
+  "total_datasets": 800,
+  "total_records": 283153,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -771,6 +771,32 @@
         "xlsx": {
           "name": "th-mahawitthayalai_TH.xlsx",
           "size": 10691
+        }
+      }
+    },
+    {
+      "id": "th-rongrian-pracham-changwat",
+      "name": "รายชื่อโรงเรียนประจำจังหวัดในประเทศไทย",
+      "category": "education",
+      "record_count": 153,
+      "columns": [
+        "changwat",
+        "chue_rongrian",
+        "kotang",
+        "phumiphak",
+        "mai_het"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อโรงเรียนประจำจังหวัดในประเทศไทย",
+      "updated": "2026-11",
+      "size": 66354,
+      "files": {
+        "csv": {
+          "name": "th-rongrian-pracham-changwat_TH.csv",
+          "size": 46619
+        },
+        "xlsx": {
+          "name": "th-rongrian-pracham-changwat_TH.xlsx",
+          "size": 14884
         }
       }
     },
