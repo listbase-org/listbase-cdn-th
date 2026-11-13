@@ -1,0 +1,241 @@
+{
+  "id": "th-khrueang-dontri-thai",
+  "name": "เครื่องดนตรีไทย แบ่งตามวิธีการบรรเลง",
+  "title": "เครื่องดนตรีไทย แบ่งตามวิธีการบรรเลง",
+  "description": "รายชื่อเครื่องดนตรีไทยแบ่งตามวิธีการบรรเลง (ดีด สี ตี เป่า) พร้อมชนิดย่อยของเครื่องดนตรีแต่ละประเภท",
+  "category": "music",
+  "source": "https://th.wikipedia.org/wiki/เครื่องดนตรีไทย",
+  "source_url": "https://th.wikipedia.org/wiki/เครื่องดนตรีไทย",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "chue",
+      "label": "Chue",
+      "type": "string"
+    },
+    {
+      "key": "prapet_kan_banleng",
+      "label": "Prapet Kan Banleng",
+      "type": "string"
+    },
+    {
+      "key": "chanit_yoi",
+      "label": "Chanit Yoi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chue": "กระจับปี่",
+      "prapet_kan_banleng": "ดีด",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "จะเข้",
+      "prapet_kan_banleng": "ดีด",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ซึง",
+      "prapet_kan_banleng": "ดีด",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "พิณเพียะ",
+      "prapet_kan_banleng": "ดีด",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "พิณน้ำเต้า",
+      "prapet_kan_banleng": "ดีด",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ไหซอง",
+      "prapet_kan_banleng": "ดีด",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "พิณอีสาน",
+      "prapet_kan_banleng": "ดีด",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ซอ",
+      "prapet_kan_banleng": "สี",
+      "chanit_yoi": "ซอสามสาย ซอด้วง ซออู้"
+    },
+    {
+      "chue": "สะล้อ",
+      "prapet_kan_banleng": "สี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "รือบับ",
+      "prapet_kan_banleng": "สี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ขลุ่ย",
+      "prapet_kan_banleng": "เป่า",
+      "chanit_yoi": "ขลุ่ยหลิบ ขลุ่ยเพียงออ ขลุ่ยอู้ ขลุ่ยกรวด ขลุ่ยล้านนา (ขลุ่ยเมือง) ขลุ่ยโก้"
+    },
+    {
+      "chue": "แคน",
+      "prapet_kan_banleng": "เป่า",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ปี่",
+      "prapet_kan_banleng": "เป่า",
+      "chanit_yoi": "ปี่นอก ปี่กลาง ปี่ใน ปี่ไฉน ปี่ชวา ปี่มอญ ปี่อ้อ ปี่จุม ปี่ภูไท"
+    },
+    {
+      "chue": "โหวด",
+      "prapet_kan_banleng": "เป่า",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองแขก",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองสะบัดชัย",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองสองหน้า",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองทัด",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองมลายู",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองยาว",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองมโหระทึก",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กลองมังคละ",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "กรับ",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": "กรับเสภา, กรับพวง, กรับไม้ไผ่"
+    },
+    {
+      "chue": "ฆ้องวงเล็ก",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ฆ้องวงใหญ่",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ฉาบ",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": "ฉาบเล็ก, ฉาบใหญ่"
+    },
+    {
+      "chue": "ฉิ่ง",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ตะโพน",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": "ตะโพนไทย, ตะโพนมอญ"
+    },
+    {
+      "chue": "โทน",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "โปงลาง",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ระนาดทุ้ม",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ระนาดทุ้มเหล็ก",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ระนาดเอก",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ระนาดเอกเหล็ก",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "ระนาดแก้ว",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "รำมะนา",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "อังกะลุง",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "เปิงมาง",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "โหม่ง",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    },
+    {
+      "chue": "บัณเฑาะว์",
+      "prapet_kan_banleng": "ตี",
+      "chanit_yoi": ""
+    }
+  ],
+  "meta": {
+    "title": "เครื่องดนตรีไทย แบ่งตามวิธีการบรรเลง - ดาวน์โหลดฟรี",
+    "description": "รายชื่อเครื่องดนตรีไทยแบ่งตามวิธีการบรรเลง (ดีด สี ตี เป่า) พร้อมชนิดย่อยของเครื่องดนตรีแต่ละประเภท มีทั้งหมด 40 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "เครื่องดนตรีไทย แบ่งตามวิธีการบรรเลง | ListBase",
+    "seo_description": "ดาวน์โหลด เครื่องดนตรีไทย แบ่งตามวิธีการบรรเลง — 40 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 40 รายการ / 3 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/เครื่องดนตรีไทย"
+    ]
+  }
+}

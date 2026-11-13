@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-12T02:26:03.644Z",
-  "total_datasets": 801,
-  "total_records": 283177,
+  "generated": "2026-11-13T02:11:08.498Z",
+  "total_datasets": 802,
+  "total_records": 283217,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -8767,6 +8767,30 @@
         "xlsx": {
           "name": "music-piano-chords_TH.xlsx",
           "size": 11165
+        }
+      }
+    },
+    {
+      "id": "th-khrueang-dontri-thai",
+      "name": "เครื่องดนตรีไทย แบ่งตามวิธีการบรรเลง",
+      "category": "music",
+      "record_count": 40,
+      "columns": [
+        "chue",
+        "prapet_kan_banleng",
+        "chanit_yoi"
+      ],
+      "source": "https://th.wikipedia.org/wiki/เครื่องดนตรีไทย",
+      "updated": "2026-11",
+      "size": 7650,
+      "files": {
+        "csv": {
+          "name": "th-khrueang-dontri-thai_TH.csv",
+          "size": 2154
+        },
+        "xlsx": {
+          "name": "th-khrueang-dontri-thai_TH.xlsx",
+          "size": 7917
         }
       }
     },
