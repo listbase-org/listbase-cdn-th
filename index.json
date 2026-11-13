@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-13T02:11:08.498Z",
-  "total_datasets": 802,
-  "total_records": 283217,
+  "generated": "2026-11-13T02:11:22.141Z",
+  "total_datasets": 803,
+  "total_records": 283267,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -22827,6 +22827,36 @@
         "xlsx": {
           "name": "th-football-champion-clubs-titles_TH.xlsx",
           "size": 8015
+        }
+      }
+    },
+    {
+      "id": "th-nak-muay-champ-lok-chao-thai",
+      "name": "รายนามนักมวยแชมป์โลกชาวไทย (4 สถาบันหลักและเดอะริง)",
+      "category": "sports",
+      "record_count": 50,
+      "columns": [
+        "lamdap",
+        "chue",
+        "run_lae_sathaban",
+        "samai_1_tangtae",
+        "samai_1_sinsut",
+        "samai_2_tangtae",
+        "samai_2_sinsut",
+        "samai_3_tangtae",
+        "samai_3_sinsut"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายนามนักมวยแชมป์โลกชาวไทย",
+      "updated": "2026-11",
+      "size": 27980,
+      "files": {
+        "csv": {
+          "name": "th-nak-muay-champ-lok-chao-thai_TH.csv",
+          "size": 13426
+        },
+        "xlsx": {
+          "name": "th-nak-muay-champ-lok-chao-thai_TH.xlsx",
+          "size": 10987
         }
       }
     },

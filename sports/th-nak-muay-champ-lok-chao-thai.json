@@ -1,0 +1,621 @@
+{
+  "id": "th-nak-muay-champ-lok-chao-thai",
+  "name": "รายนามนักมวยแชมป์โลกชาวไทย (4 สถาบันหลักและเดอะริง)",
+  "title": "รายนามนักมวยแชมป์โลกชาวไทย (4 สถาบันหลักและเดอะริง)",
+  "description": "รายชื่อนักมวยสากลอาชีพชาวไทยที่ได้แชมป์โลกของสถาบันหลัก (WBC, WBA, IBF, WBO) และเดอะริง ตั้งแต่โผน กิ่งเพชร พร้อมรุ่น สถาบัน และช่วงเวลาครองแชมป์แต่ละสมัย",
+  "category": "sports",
+  "source": "https://th.wikipedia.org/wiki/รายนามนักมวยแชมป์โลกชาวไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายนามนักมวยแชมป์โลกชาวไทย",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "chue",
+      "label": "Chue",
+      "type": "string"
+    },
+    {
+      "key": "run_lae_sathaban",
+      "label": "Run Lae Sathaban",
+      "type": "string"
+    },
+    {
+      "key": "samai_1_tangtae",
+      "label": "Samai 1 Tangtae",
+      "type": "string"
+    },
+    {
+      "key": "samai_1_sinsut",
+      "label": "Samai 1 Sinsut",
+      "type": "string"
+    },
+    {
+      "key": "samai_2_tangtae",
+      "label": "Samai 2 Tangtae",
+      "type": "string"
+    },
+    {
+      "key": "samai_2_sinsut",
+      "label": "Samai 2 Sinsut",
+      "type": "string"
+    },
+    {
+      "key": "samai_3_tangtae",
+      "label": "Samai 3 Tangtae",
+      "type": "string"
+    },
+    {
+      "key": "samai_3_sinsut",
+      "label": "Samai 3 Sinsut",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": 1,
+      "chue": "โผน กิ่งเพชร",
+      "run_lae_sathaban": "ฟลายเวท เดอะริง, สภามวยโลก, สมาคมมวยโลก",
+      "samai_1_tangtae": "16 เมษายน พ.ศ. 2503",
+      "samai_1_sinsut": "10 ตุลาคม พ.ศ. 2505",
+      "samai_2_tangtae": "12 มกราคม พ.ศ. 2506",
+      "samai_2_sinsut": "18 กันยายน พ.ศ. 2506",
+      "samai_3_tangtae": "23 มกราคม พ.ศ. 2507",
+      "samai_3_sinsut": "23 เมษายน พ.ศ. 2508"
+    },
+    {
+      "lamdap": 2,
+      "chue": "ชาติชาย เชี่ยวน้อย",
+      "run_lae_sathaban": "ฟลายเวท สภามวยโลก, สมาคมมวยโลก, เดอะริง",
+      "samai_1_tangtae": "30 ธันวาคม พ.ศ. 2509",
+      "samai_1_sinsut": "23 กุมภาพันธ์ พ.ศ. 2512",
+      "samai_2_tangtae": "20 มีนาคม พ.ศ. 2513",
+      "samai_2_sinsut": "7 ธันวาคม พ.ศ. 2513",
+      "samai_3_tangtae": "17 พฤษภาคม พ.ศ. 2516",
+      "samai_3_sinsut": "18 ตุลาคม พ.ศ. 2517"
+    },
+    {
+      "lamdap": 3,
+      "chue": "เบิกฤกษ์ ชาติวันชัย",
+      "run_lae_sathaban": "ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "10 เมษายน พ.ศ. 2513",
+      "samai_1_sinsut": "22 ตุลาคม พ.ศ. 2513",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 4,
+      "chue": "เวนิส บ.ข.ส.",
+      "run_lae_sathaban": "ฟลายเวท สภามวยโลก, เดอะริง",
+      "samai_1_tangtae": "29 กันยายน พ.ศ. 2515",
+      "samai_1_sinsut": "พ.ศ. 2516 (สละแชมป์เพราะทำน้ำหนักไม่ได้)",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 5,
+      "chue": "แสนศักดิ์ เมืองสุรินทร์",
+      "run_lae_sathaban": "ซูเปอร์ไลท์เวท สภามวยโลก",
+      "samai_1_tangtae": "15 กรกฎาคม พ.ศ. 2518",
+      "samai_1_sinsut": "29 มิถุนายน พ.ศ. 2519",
+      "samai_2_tangtae": "29 ตุลาคม พ.ศ. 2519",
+      "samai_2_sinsut": "30 ธันวาคม พ.ศ. 2521",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 6,
+      "chue": "เนตรน้อย ศ.วรสิงห์",
+      "run_lae_sathaban": "ไลท์ฟลายเวท สภามวยโลก",
+      "samai_1_tangtae": "6 พฤษภาคม พ.ศ. 2521",
+      "samai_1_sinsut": "25 กันยายน พ.ศ. 2521",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 7,
+      "chue": "พเยาว์ พูนธรัตน์",
+      "run_lae_sathaban": "ซูเปอร์ฟลายเวท สภามวยโลก",
+      "samai_1_tangtae": "27 พฤศจิกายน พ.ศ. 2526",
+      "samai_1_sinsut": "5 กรกฎาคม พ.ศ. 2527",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 8,
+      "chue": "สด จิตรลดา",
+      "run_lae_sathaban": "ฟลายเวท สภามวยโลก, เดอะริง",
+      "samai_1_tangtae": "22 มิถุนายน พ.ศ. 2527",
+      "samai_1_sinsut": "24 กรกฎาคม พ.ศ. 2531",
+      "samai_2_tangtae": "3 มิถุนายน พ.ศ. 2532",
+      "samai_2_sinsut": "15 กุมภาพันธ์ พ.ศ. 2534",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 9,
+      "chue": "เขาทราย แกแล็คซี่",
+      "run_lae_sathaban": "ซูเปอร์ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "21 พฤศจิกายน พ.ศ. 2527",
+      "samai_1_sinsut": "22 ธันวาคม พ.ศ. 2534 (สละแชมป์เพราะแขวนนวม)",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 10,
+      "chue": "สามารถ พยัคฆ์อรุณ",
+      "run_lae_sathaban": "ซูเปอร์แบนตั้มเวท สภามวยโลก",
+      "samai_1_tangtae": "18 มกราคม พ.ศ. 2529",
+      "samai_1_sinsut": "8 พฤษภาคม พ.ศ. 2530",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 11,
+      "chue": "สมุทร ศิษย์นฤพนธ์",
+      "run_lae_sathaban": "มินิฟลายเวท สหพันธ์มวยนานาชาติ",
+      "samai_1_tangtae": "24 มีนาคม พ.ศ. 2531",
+      "samai_1_sinsut": "17 มิถุนายน พ.ศ. 2532",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 12,
+      "chue": "เขาค้อ แกแล็คซี่",
+      "run_lae_sathaban": "แบนตั้มเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "9 พฤษภาคม พ.ศ. 2531",
+      "samai_1_sinsut": "14 สิงหาคม พ.ศ. 2531",
+      "samai_2_tangtae": "9 กรกฎาคม พ.ศ. 2532",
+      "samai_2_sinsut": "18 ตุลาคม พ.ศ. 2532",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 13,
+      "chue": "นภา เกียรติวันชัย",
+      "run_lae_sathaban": "สตอร์วเวท สภามวยโลก",
+      "samai_1_tangtae": "13 พฤศจิกายน พ.ศ. 2531",
+      "samai_1_sinsut": "12 กันยายน พ.ศ. 2532",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 14,
+      "chue": "เมืองชัย กิตติเกษม",
+      "run_lae_sathaban": "จูเนียร์ฟลายเวท สหพันธ์มวยนานาชาติ ฟลายเวท สภามวยโลก",
+      "samai_1_tangtae": "2 พฤษภาคม พ.ศ. 2532",
+      "samai_1_sinsut": "29 กรกฎาคม พ.ศ. 2533",
+      "samai_2_tangtae": "15 กุมภาพันธ์ พ.ศ. 2534",
+      "samai_2_sinsut": "23 มิถุนายน พ.ศ. 2535",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 15,
+      "chue": "ฟ้าลั่น ลูกมิ่งขวัญ",
+      "run_lae_sathaban": "มินิฟลายเวท สหพันธ์มวยนานาชาติ",
+      "samai_1_tangtae": "22 กุมภาพันธ์ พ.ศ. 2533",
+      "samai_1_sinsut": "6 กันยายน พ.ศ. 2535",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 16,
+      "chue": "พิชิต ศิษย์บางพระจันทร์",
+      "run_lae_sathaban": "ฟลายเวท สหพันธ์มวยนานาชาติ",
+      "samai_1_tangtae": "29 พฤศจิกายน พ.ศ. 2535",
+      "samai_1_sinsut": "25 พฤศจิกายน พ.ศ. 2537 (สละแชมป์เพราะแขวนนวม)",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 17,
+      "chue": "รัตนพล ส.วรพิน",
+      "run_lae_sathaban": "มินิฟลายเวท สหพันธ์มวยนานาชาติ",
+      "samai_1_tangtae": "10 ธันวาคม พ.ศ. 2535",
+      "samai_1_sinsut": "16 มีนาคม พ.ศ. 2539 (ถูกปลดเพราะทำน้ำหนักไม่ผ่าน)",
+      "samai_2_tangtae": "18 พฤษภาคม พ.ศ. 2539",
+      "samai_2_sinsut": "27 ธันวาคม พ.ศ. 2540",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 18,
+      "chue": "ชนะ ป.เปาอินทร์",
+      "run_lae_sathaban": "มินิมัมเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "10 กุมภาพันธ์ พ.ศ. 2536",
+      "samai_1_sinsut": "2 ธันวาคม พ.ศ. 2538",
+      "samai_2_tangtae": "16 เมษายน พ.ศ. 2544",
+      "samai_2_sinsut": "25 สิงหาคม พ.ศ. 2544",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 19,
+      "chue": "แสน ส.เพลินจิต",
+      "run_lae_sathaban": "ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "13 กุมภาพันธ์ พ.ศ. 2537",
+      "samai_1_sinsut": "24 พฤศจิกายน พ.ศ. 2539",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 20,
+      "chue": "ดาวรุ่ง ชูวัฒนะ",
+      "run_lae_sathaban": "แบนตั้มเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "16 กรกฎาคม พ.ศ. 2537",
+      "samai_1_sinsut": "17 กันยายน พ.ศ. 2538",
+      "samai_2_tangtae": "27 ตุลาคม พ.ศ. 2539",
+      "samai_2_sinsut": "22 มิถุนายน พ.ศ. 2540",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 21,
+      "chue": "สมาน ส.จาตุรงค์",
+      "run_lae_sathaban": "ไลท์ฟลายเวท, สภามวยโลก, จูเนียร์ฟลายเวท สหพันธ์มวยนานาชาติ",
+      "samai_1_tangtae": "15 กรกฎาคม พ.ศ. 2538",
+      "samai_1_sinsut": "17 ตุลาคม พ.ศ. 2542",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 22,
+      "chue": "วีระพล นครหลวงโปรโมชั่น",
+      "run_lae_sathaban": "แบนตั้มเวท สมาคมมวยโลก, สภามวยโลก",
+      "samai_1_tangtae": "17 กันยายน พ.ศ. 2538",
+      "samai_1_sinsut": "28 มกราคม พ.ศ. 2539",
+      "samai_2_tangtae": "29 ธันวาคม พ.ศ. 2541",
+      "samai_2_sinsut": "16 เมษายน พ.ศ. 2548",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 23,
+      "chue": "ศิริมงคล สิงห์มนัสศักดิ์",
+      "run_lae_sathaban": "แบนตั้มเวท, ซูเปอร์เฟเธอร์เวท สภามวยโลก",
+      "samai_1_tangtae": "10 สิงหาคม พ.ศ. 2539",
+      "samai_1_sinsut": "22 พฤศจิกายน พ.ศ. 2540",
+      "samai_2_tangtae": "24 สิงหาคม พ.ศ. 2545",
+      "samai_2_sinsut": "16 สิงหาคม พ.ศ. 2546",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 24,
+      "chue": "หยกไท ศิษย์ อ.",
+      "run_lae_sathaban": "ซูเปอร์ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "24 สิงหาคม พ.ศ. 2539",
+      "samai_1_sinsut": "23 ธันวาคม พ.ศ. 2540",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 25,
+      "chue": "พิชิต ช.ศิริวัฒน์",
+      "run_lae_sathaban": "ไลท์ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "3 ธันวาคม พ.ศ. 2539",
+      "samai_1_sinsut": "สิงหาคม พ.ศ. 2543 (ถูกปลดเพราะไม่ได้ป้องกันตำแหน่งมานาน)",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 26,
+      "chue": "ฉัตรชัย สาสะกุล",
+      "run_lae_sathaban": "ฟลายเวท สภามวยโลก",
+      "samai_1_tangtae": "9 พฤษภาคม พ.ศ. 2540",
+      "samai_1_sinsut": "4 ธันวาคม พ.ศ. 2541",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 27,
+      "chue": "วันดี สิงห์วังชา",
+      "run_lae_sathaban": "สตอร์วเวท สภามวยโลก",
+      "samai_1_tangtae": "23 สิงหาคม พ.ศ. 2541",
+      "samai_1_sinsut": "11 กุมภาพันธ์ พ.ศ. 2543",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 28,
+      "chue": "ศรพิชัย พิษณุราชันย์",
+      "run_lae_sathaban": "ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "3 กันยายน พ.ศ. 2542",
+      "samai_1_sinsut": "5 สิงหาคม พ.ศ. 2543",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 29,
+      "chue": "เม็ดเงิน กระทิงแดงยิม",
+      "run_lae_sathaban": "ฟลายเวท สภามวยโลก",
+      "samai_1_tangtae": "17 กันยายน พ.ศ. 2542",
+      "samai_1_sinsut": "19 พฤษภาคม พ.ศ. 2543",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 30,
+      "chue": "พงษ์ศักดิ์เล็ก ศิษย์คนองศักดิ์",
+      "run_lae_sathaban": "ฟลายเวท สภามวยโลก, เดอะริง",
+      "samai_1_tangtae": "2 มีนาคม พ.ศ. 2544",
+      "samai_1_sinsut": "18 กรกฎาคม พ.ศ. 2550",
+      "samai_2_tangtae": "24 เมษายน พ.ศ. 2552",
+      "samai_2_sinsut": "2 มีนาคม พ.ศ. 2555",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 31,
+      "chue": "ยอดดำรงค์ ศิษย์ยอดธง",
+      "run_lae_sathaban": "ซูเปอร์แบนตั้มเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "21 กุมภาพันธ์ พ.ศ. 2545",
+      "samai_1_sinsut": "18 พฤษภาคม พ.ศ. 2545",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 32,
+      "chue": "ยอดสนั่น 3เคแบตเตอรี่",
+      "run_lae_sathaban": "ซูเปอร์เฟเธอร์เวท สมาคมมวยโลก",
+      "samai_1_tangtae": "13 เมษายน พ.ศ. 2545",
+      "samai_1_sinsut": "30 เมษายน พ.ศ. 2548",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 33,
+      "chue": "อีเกิล เด่น จุลพันธ์",
+      "run_lae_sathaban": "สตอร์วเวท สภามวยโลก",
+      "samai_1_tangtae": "10 มกราคม พ.ศ. 2547",
+      "samai_1_sinsut": "18 ธันวาคม พ.ศ. 2547",
+      "samai_2_tangtae": "6 สิงหาคม พ.ศ. 2548",
+      "samai_2_sinsut": "29 พฤศจิกายน พ.ศ. 2550",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 34,
+      "chue": "รัตนชัย ส.วรพิน",
+      "run_lae_sathaban": "แบนตั้มเวท องค์กรมวยโลก",
+      "samai_1_tangtae": "7 พฤษภาคม พ.ศ. 2547",
+      "samai_1_sinsut": "29 ตุลาคม พ.ศ. 2548",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 35,
+      "chue": "สมศักดิ์ ศิษย์ชัชวาลย์",
+      "run_lae_sathaban": "ซูเปอร์แบนตั้มเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "18 มีนาคม พ.ศ. 2549",
+      "samai_1_sinsut": "4 ตุลาคม พ.ศ. 2549",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 36,
+      "chue": "โอเล่ห์ดง ศักดิ์เสมอชัย",
+      "run_lae_sathaban": "สตอร์วเวท สภามวยโลก",
+      "samai_1_tangtae": "29 พฤศจิกายน พ.ศ. 2550",
+      "samai_1_sinsut": "11 กุมภาพันธ์ พ.ศ. 2554",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 37,
+      "chue": "เด่นเก้าแสน เก้าวิชิต",
+      "run_lae_sathaban": "ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "31 ธันวาคม พ.ศ. 2551",
+      "samai_1_sinsut": "7 กุมภาพันธ์ พ.ศ. 2553",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 38,
+      "chue": "พูนสวัสดิ์ กระทิงแดงยิม",
+      "run_lae_sathaban": "ซูเปอร์แบนตั้มเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "26 กันยายน พ.ศ. 2552",
+      "samai_1_sinsut": "2 ตุลาคม พ.ศ. 2553",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 39,
+      "chue": "ขวัญไทย ศิษย์หมอเส็ง",
+      "run_lae_sathaban": "มินิมัมเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "5 พฤศจิกายน พ.ศ. 2553",
+      "samai_1_sinsut": "19 เมษายน พ.ศ. 2554",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 40,
+      "chue": "พรสวรรค์ ป.ประมุข",
+      "run_lae_sathaban": "มินิมัมเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "30 กรกฎาคม พ.ศ. 2554",
+      "samai_1_sinsut": "24 ตุลาคม พ.ศ. 2554",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 41,
+      "chue": "สุริยัน ศ.รุ่งวิสัย",
+      "run_lae_sathaban": "ซูเปอร์ฟลายเวท สภามวยโลก",
+      "samai_1_tangtae": "19 สิงหาคม พ.ศ. 2554",
+      "samai_1_sinsut": "27 มีนาคม พ.ศ. 2555",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 42,
+      "chue": "เทพฤทธิ์ สิงห์วังชา",
+      "run_lae_sathaban": "ซูเปอร์ฟลายเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "7 ธันวาคม พ.ศ. 2554",
+      "samai_1_sinsut": "31 ธันวาคม พ.ศ. 2555",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 43,
+      "chue": "คมพยัคฆ์ ป.ประมุข",
+      "run_lae_sathaban": "ไลท์ฟลายเวท สภามวยโลก",
+      "samai_1_tangtae": "23 ธันวาคม พ.ศ. 2554",
+      "samai_1_sinsut": "7 ตุลาคม พ.ศ. 2555",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 44,
+      "chue": "ผึ้งหลวง ส.สิงห์อยู่",
+      "run_lae_sathaban": "แบนตั้มเวท องค์กรมวยโลก",
+      "samai_1_tangtae": "20 ตุลาคม พ.ศ. 2555",
+      "samai_1_sinsut": "2 มีนาคม พ.ศ. 2556",
+      "samai_2_tangtae": "7 สิงหาคม พ.ศ. 2558",
+      "samai_2_sinsut": "27 กรกฎาคม พ.ศ. 2559",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 45,
+      "chue": "ศรีสะเกษ ศ.รุ่งวิสัย",
+      "run_lae_sathaban": "ซูเปอร์ฟลายเวท สภามวยโลก, เดอะริง",
+      "samai_1_tangtae": "3 พฤษภาคม พ.ศ. 2556",
+      "samai_1_sinsut": "1 มิถุนายน พ.ศ. 2557",
+      "samai_2_tangtae": "19 มีนาคม พ.ศ. 2560",
+      "samai_2_sinsut": "26 เมษายน 2562",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 46,
+      "chue": "อำนาจ รื่นเริง",
+      "run_lae_sathaban": "ฟลายเวท สหพันธ์มวยนานาชาติ",
+      "samai_1_tangtae": "22 มกราคม พ.ศ. 2557",
+      "samai_1_sinsut": "25 พฤษภาคม พ.ศ. 2559",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 47,
+      "chue": "วันเฮง มีนะโยธิน",
+      "run_lae_sathaban": "สตอร์วเวท สภามวยโลก",
+      "samai_1_tangtae": "6 พฤศจิกายน พ.ศ. 2557",
+      "samai_1_sinsut": "27 พฤศจิกายน พ.ศ. 2563",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 48,
+      "chue": "น็อคเอาท์ ซีพีเฟรชมาร์ท",
+      "run_lae_sathaban": "มินิมัมเวท สมาคมมวยโลก",
+      "samai_1_tangtae": "29 มิถุนายน พ.ศ. 2559",
+      "samai_1_sinsut": "17 พฤศจิกายน พ.ศ.2567",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 49,
+      "chue": "เพชรมณี ก่อเกียรติยิม",
+      "run_lae_sathaban": "สตรอร์วเวท สภามวยโลก",
+      "samai_1_tangtae": "27 พฤศจิกายน​ พ.ศ. 2563",
+      "samai_1_sinsut": "7 ตุลาคม 2566",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    },
+    {
+      "lamdap": 50,
+      "chue": "เพชรโกศล กรีนซึดะยิม",
+      "run_lae_sathaban": "รุ่นไลท์ฟลายเวต (108 ปอนด์)",
+      "samai_1_tangtae": "19 มิถุนายน พ.ศ.2568",
+      "samai_1_sinsut": "ปัจจุบัน",
+      "samai_2_tangtae": "",
+      "samai_2_sinsut": "",
+      "samai_3_tangtae": "",
+      "samai_3_sinsut": ""
+    }
+  ],
+  "meta": {
+    "title": "รายนามนักมวยแชมป์โลกชาวไทย (4 สถาบันหลักและเดอะริง) - ดาวน์โหลดฟรี",
+    "description": "รายชื่อนักมวยสากลอาชีพชาวไทยที่ได้แชมป์โลกของสถาบันหลัก (WBC, WBA, IBF, WBO) และเดอะริง ตั้งแต่โผน กิ่งเพชร พร้อมรุ่น สถาบัน และช่วงเวลาครองแชมป์แต่ละสมัย มีทั้งหมด 50 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายนามนักมวยแชมป์โลกชาวไทย (4 สถาบันหลักและเดอะริง) | ListBase",
+    "seo_description": "ดาวน์โหลด รายนามนักมวยแชมป์โลกชาวไทย (4 สถาบันหลักและเดอะริง) — 50 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 50 รายการ / 9 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายนามนักมวยแชมป์โลกชาวไทย"
+    ]
+  }
+}
