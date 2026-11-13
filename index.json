@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-13T02:11:22.141Z",
-  "total_datasets": 803,
-  "total_records": 283267,
+  "generated": "2026-11-13T02:11:34.668Z",
+  "total_datasets": 804,
+  "total_records": 283306,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "units",
@@ -23806,6 +23806,32 @@
         "xlsx": {
           "name": "th-airports_TH.xlsx",
           "size": 11375
+        }
+      }
+    },
+    {
+      "id": "th-phu-wa-kan-rotfai-haeng-prathet-thai",
+      "name": "รายนามผู้บริหารสูงสุดการรถไฟแห่งประเทศไทย",
+      "category": "transport",
+      "record_count": 39,
+      "columns": [
+        "lamdap",
+        "rainam",
+        "roem_wara",
+        "sinsut_wara",
+        "tamnaeng"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อผู้ว่าการรถไฟแห่งประเทศไทย",
+      "updated": "2026-11",
+      "size": 16237,
+      "files": {
+        "csv": {
+          "name": "th-phu-wa-kan-rotfai-haeng-prathet-thai_TH.csv",
+          "size": 9063
+        },
+        "xlsx": {
+          "name": "th-phu-wa-kan-rotfai-haeng-prathet-thai_TH.xlsx",
+          "size": 9177
         }
       }
     },
