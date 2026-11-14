@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-14T02:12:50.375Z",
-  "total_datasets": 808,
-  "total_records": 283411,
+  "generated": "2026-11-14T02:13:02.713Z",
+  "total_datasets": 809,
+  "total_records": 283427,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "math",
@@ -8631,6 +8631,33 @@
         "xlsx": {
           "name": "th-san-khwaeng_TH.xlsx",
           "size": 11024
+        }
+      }
+    },
+    {
+      "id": "th-tulakan-san-ratthathammanun",
+      "name": "ตุลาการศาลรัฐธรรมนูญไทย (ตั้งแต่ พ.ศ. 2551)",
+      "category": "law",
+      "record_count": 16,
+      "columns": [
+        "name",
+        "selection_source",
+        "term_start",
+        "term_end",
+        "reason_left",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/คณะตุลาการศาลรัฐธรรมนูญ_(ประเทศไทย)",
+      "updated": "2026-11",
+      "size": 10639,
+      "files": {
+        "csv": {
+          "name": "th-tulakan-san-ratthathammanun_TH.csv",
+          "size": 5573
+        },
+        "xlsx": {
+          "name": "th-tulakan-san-ratthathammanun_TH.xlsx",
+          "size": 8143
         }
       }
     },
