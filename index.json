@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-14T02:12:12.722Z",
-  "total_datasets": 805,
-  "total_records": 283360,
+  "generated": "2026-11-14T02:12:25.300Z",
+  "total_datasets": 806,
+  "total_records": 283373,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -24228,6 +24228,33 @@
         "xlsx": {
           "name": "si-units_TH.xlsx",
           "size": 11273
+        }
+      }
+    },
+    {
+      "id": "th-matra-beaufort",
+      "name": "มาตราโบฟอร์ต (มาตราวัดความแรงลม 0–12)",
+      "category": "units",
+      "record_count": 13,
+      "columns": [
+        "force",
+        "description",
+        "wind_speed",
+        "wave_height",
+        "sea_conditions",
+        "land_conditions"
+      ],
+      "source": "https://th.wikipedia.org/wiki/มาตราโบฟอร์ต",
+      "updated": "2026-11",
+      "size": 10647,
+      "files": {
+        "csv": {
+          "name": "th-matra-beaufort_TH.csv",
+          "size": 6098
+        },
+        "xlsx": {
+          "name": "th-matra-beaufort_TH.xlsx",
+          "size": 8528
         }
       }
     },
