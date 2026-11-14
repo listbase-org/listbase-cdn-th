@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-14T02:12:37.306Z",
-  "total_datasets": 807,
-  "total_records": 283394,
+  "generated": "2026-11-14T02:12:50.375Z",
+  "total_datasets": 808,
+  "total_records": 283411,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "food",
@@ -1639,6 +1639,30 @@
         "xlsx": {
           "name": "th-thanabat-thai-baep-tang-tang_TH.xlsx",
           "size": 9097
+        }
+      }
+    },
+    {
+      "id": "th-thanabat-thi-raluek",
+      "name": "ธนบัตรที่ระลึกของไทย",
+      "category": "finance",
+      "record_count": 17,
+      "columns": [
+        "name",
+        "denominations",
+        "issued"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ธนบัตรไทย",
+      "updated": "2026-11",
+      "size": 9972,
+      "files": {
+        "csv": {
+          "name": "th-thanabat-thi-raluek_TH.csv",
+          "size": 6722
+        },
+        "xlsx": {
+          "name": "th-thanabat-thi-raluek_TH.xlsx",
+          "size": 7968
         }
       }
     },
