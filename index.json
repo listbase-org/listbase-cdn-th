@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-13T02:11:34.668Z",
-  "total_datasets": 804,
-  "total_records": 283306,
+  "generated": "2026-11-14T02:12:12.722Z",
+  "total_datasets": 805,
+  "total_records": 283360,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1009,6 +1009,37 @@
         "xlsx": {
           "name": "th-top-grossing-film-by-year_TH.xlsx",
           "size": 8649
+        }
+      }
+    },
+    {
+      "id": "th-chue-phayu-thaifun-thi-thuk-thon",
+      "name": "รายชื่อพายุไต้ฝุ่นแปซิฟิกที่ถูกถอนชื่อ (พ.ศ. 2544 เป็นต้นมา)",
+      "category": "environment",
+      "record_count": 54,
+      "columns": [
+        "season_be",
+        "retired_name",
+        "replacement_name",
+        "active_dates",
+        "intensity",
+        "wind_speed",
+        "pressure",
+        "areas_affected",
+        "deaths",
+        "damage_usd"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อพายุไต้ฝุ่นแปซิฟิกที่ถูกถอนชื่อ",
+      "updated": "2026-11",
+      "size": 35145,
+      "files": {
+        "csv": {
+          "name": "th-chue-phayu-thaifun-thi-thuk-thon_TH.csv",
+          "size": 18986
+        },
+        "xlsx": {
+          "name": "th-chue-phayu-thaifun-thi-thuk-thon_TH.xlsx",
+          "size": 12576
         }
       }
     },
