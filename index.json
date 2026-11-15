@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-15T02:21:09.276Z",
-  "total_datasets": 810,
-  "total_records": 283462,
+  "generated": "2026-11-15T02:21:23.154Z",
+  "total_datasets": 811,
+  "total_records": 283533,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -284,6 +284,31 @@
         "xlsx": {
           "name": "business-thailand-industrial-estates_TH.xlsx",
           "size": 12156
+        }
+      }
+    },
+    {
+      "id": "th-dok-mai-pracham-changwat",
+      "name": "ดอกไม้ประจำจังหวัดของไทย",
+      "category": "culture",
+      "record_count": 71,
+      "columns": [
+        "changwat",
+        "dok_mai_pracham_changwat",
+        "chue_witthayasat",
+        "phak"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายการดอกไม้ประจำจังหวัดของไทย",
+      "updated": "2026-11",
+      "size": 18892,
+      "files": {
+        "csv": {
+          "name": "th-dok-mai-pracham-changwat_TH.csv",
+          "size": 8842
+        },
+        "xlsx": {
+          "name": "th-dok-mai-pracham-changwat_TH.xlsx",
+          "size": 10205
         }
       }
     },

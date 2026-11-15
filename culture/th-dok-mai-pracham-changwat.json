@@ -1,0 +1,472 @@
+{
+  "id": "th-dok-mai-pracham-changwat",
+  "name": "ดอกไม้ประจำจังหวัดของไทย",
+  "title": "ดอกไม้ประจำจังหวัดของไทย",
+  "description": "รายการดอกไม้ประจำจังหวัดของทุกจังหวัดในประเทศไทย พร้อมชื่อวิทยาศาสตร์ แบ่งตามภาค",
+  "category": "culture",
+  "source": "https://th.wikipedia.org/wiki/รายการดอกไม้ประจำจังหวัดของไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายการดอกไม้ประจำจังหวัดของไทย",
+  "updated": "2026-11",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "dok_mai_pracham_changwat",
+      "label": "Dok Mai Pracham Changwat",
+      "type": "string"
+    },
+    {
+      "key": "chue_witthayasat",
+      "label": "Chue Witthayasat",
+      "type": "string"
+    },
+    {
+      "key": "phak",
+      "label": "Phak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "changwat": "เชียงราย",
+      "dok_mai_pracham_changwat": "พวงแสด",
+      "chue_witthayasat": "Pyrostegia venusta",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "เชียงใหม่",
+      "dok_mai_pracham_changwat": "ทองกวาว (กวาว, ก๋าว)",
+      "chue_witthayasat": "Butea monosperma",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "น่าน",
+      "dok_mai_pracham_changwat": "เสี้ยวดอกขาว (เสี้ยวขาว, เสี้ยวป่าดอกขาว)",
+      "chue_witthayasat": "Bauhinia variegata",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "พะเยา",
+      "dok_mai_pracham_changwat": "สารภี",
+      "chue_witthayasat": "Mammea siamensis",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "แพร่",
+      "dok_mai_pracham_changwat": "ยมหิน (ยมขาว)",
+      "chue_witthayasat": "Chukrasia tabularis",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "แม่ฮ่องสอน",
+      "dok_mai_pracham_changwat": "บัวตอง (พอหมื่อนี่)",
+      "chue_witthayasat": "Tithonia diversifolia",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "ลำปาง",
+      "dok_mai_pracham_changwat": "พุทธรักษาญี่ปุ่น (ธรรมรักษา)",
+      "chue_witthayasat": "Heliconia psittacorum",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "ลำพูน",
+      "dok_mai_pracham_changwat": "ทองกวาว (กวาว, ก๋าว)",
+      "chue_witthayasat": "Butea monosperma",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "อุตรดิตถ์",
+      "dok_mai_pracham_changwat": "ประดู่บ้าน (ดู่บ้าน, ประดู่)",
+      "chue_witthayasat": "Pterocarpus indicus",
+      "phak": "ภาคเหนือ"
+    },
+    {
+      "changwat": "กาฬสินธุ์",
+      "dok_mai_pracham_changwat": "พะยอม",
+      "chue_witthayasat": "Shorea roxburghii",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "ขอนแก่น",
+      "dok_mai_pracham_changwat": "ราชพฤกษ์ (คูน)",
+      "chue_witthayasat": "Cassia fistula",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "ชัยภูมิ",
+      "dok_mai_pracham_changwat": "ปทุมมา (กระเจียวบัว)",
+      "chue_witthayasat": "Curcuma alismatifolia",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "นครพนม",
+      "dok_mai_pracham_changwat": "กันเกรา (มันปลา)",
+      "chue_witthayasat": "Fagraea fragrans",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "นครราชสีมา",
+      "dok_mai_pracham_changwat": "สาธร",
+      "chue_witthayasat": "Millettia leucantha var. buteoides",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "บึงกาฬ",
+      "dok_mai_pracham_changwat": "สิรินธรวัลลี (สามสิบสองประดง)",
+      "chue_witthayasat": "Phanera sirindhorniae",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "บุรีรัมย์",
+      "dok_mai_pracham_changwat": "สุพรรณิการ์",
+      "chue_witthayasat": "Cochlospermum regium",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "มหาสารคาม",
+      "dok_mai_pracham_changwat": "ลั่นทมขาว (จำปาขาว)",
+      "chue_witthayasat": "Plumeria alba",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "มุกดาหาร",
+      "dok_mai_pracham_changwat": "ตานเหลือง (ช้างน้าว)",
+      "chue_witthayasat": "Ochna integerrima",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "ยโสธร",
+      "dok_mai_pracham_changwat": "บัวแดง",
+      "chue_witthayasat": "Nymphaea rubra",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "ร้อยเอ็ด",
+      "dok_mai_pracham_changwat": "อินทนิลบก (กาเสลา, กาเสา)",
+      "chue_witthayasat": "Lagerstroemia macrocarpa",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "ศรีสะเกษ",
+      "dok_mai_pracham_changwat": "ลำดวน (รันดฺล)",
+      "chue_witthayasat": "Melodorum fruticosum",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "สกลนคร",
+      "dok_mai_pracham_changwat": "อินทนิล (อินทนิลน้ำ)",
+      "chue_witthayasat": "Lagerstroemia speciosa",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "สุรินทร์",
+      "dok_mai_pracham_changwat": "กันเกรา (มันปลา, ซะตราว)",
+      "chue_witthayasat": "Fagraea fragrans",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "หนองคาย",
+      "dok_mai_pracham_changwat": "ชิงชัน",
+      "chue_witthayasat": "Dalbergia oliveri",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "หนองบัวลำภู",
+      "dok_mai_pracham_changwat": "บัวหลวง",
+      "chue_witthayasat": "Nelumbo nucifera",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "อำนาจเจริญ",
+      "dok_mai_pracham_changwat": "ทองกวาว เหลือง (จานเหลือง)",
+      "chue_witthayasat": "Butea monosperma var. lutea",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "อุดรธานี",
+      "dok_mai_pracham_changwat": "ทองกวาว (จาน)",
+      "chue_witthayasat": "Butea monosperma",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "อุบลราชธานี",
+      "dok_mai_pracham_changwat": "บัว",
+      "chue_witthayasat": "",
+      "phak": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    {
+      "changwat": "กำแพงเพชร",
+      "dok_mai_pracham_changwat": "พิกุล",
+      "chue_witthayasat": "Mimusops elengi",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "ชัยนาท",
+      "dok_mai_pracham_changwat": "ชัยพฤกษ์",
+      "chue_witthayasat": "Cassia javanica",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "นครนายก",
+      "dok_mai_pracham_changwat": "สุพรรณิการ์",
+      "chue_witthayasat": "Cochlospermum regium",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "นครปฐม",
+      "dok_mai_pracham_changwat": "แก้ว",
+      "chue_witthayasat": "Murraya paniculata",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "นครสวรรค์",
+      "dok_mai_pracham_changwat": "เสลา (อินทรชิต)",
+      "chue_witthayasat": "Lagerstroemia loudonii",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "นนทบุรี",
+      "dok_mai_pracham_changwat": "นนทรี (นนทรีบ้าน)",
+      "chue_witthayasat": "Peltophorum pterocarpum",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "ปทุมธานี",
+      "dok_mai_pracham_changwat": "บัวหลวง",
+      "chue_witthayasat": "Nelumbo nucifera",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "พระนครศรีอยุธยา",
+      "dok_mai_pracham_changwat": "โสน",
+      "chue_witthayasat": "Sesbania javanica",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "พิจิตร",
+      "dok_mai_pracham_changwat": "บัวหลวง",
+      "chue_witthayasat": "Nelumbo nucifera",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "พิษณุโลก",
+      "dok_mai_pracham_changwat": "นนทรี (นนทรีบ้าน)",
+      "chue_witthayasat": "Peltophorum pterocarpum",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "เพชรบูรณ์",
+      "dok_mai_pracham_changwat": "มะขาม",
+      "chue_witthayasat": "Tamarindus indica",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "ลพบุรี",
+      "dok_mai_pracham_changwat": "พิกุล",
+      "chue_witthayasat": "Mimusops elengi",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "สมุทรปราการ",
+      "dok_mai_pracham_changwat": "ดาวเรือง",
+      "chue_witthayasat": "Tagetes erecta",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "สมุทรสงคราม",
+      "dok_mai_pracham_changwat": "จิกเล (จิกทะเล)",
+      "chue_witthayasat": "Barringtonia asiatica",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "สระบุรี",
+      "dok_mai_pracham_changwat": "สุพรรณิการ์",
+      "chue_witthayasat": "Cochlospermum regium",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "สุโขทัย",
+      "dok_mai_pracham_changwat": "บัวหลวง",
+      "chue_witthayasat": "Nelumbo nucifera",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "สุพรรณบุรี",
+      "dok_mai_pracham_changwat": "สุพรรณิการ์",
+      "chue_witthayasat": "Cochlospermum regium",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "อุทัยธานี",
+      "dok_mai_pracham_changwat": "สุพรรณิการ์",
+      "chue_witthayasat": "Cochlospermum regium",
+      "phak": "ภาคกลาง"
+    },
+    {
+      "changwat": "จันทบุรี",
+      "dok_mai_pracham_changwat": "เหลืองจันทบูร",
+      "chue_witthayasat": "Dendrobium friedericksianum",
+      "phak": "ภาคตะวันออก"
+    },
+    {
+      "changwat": "ฉะเชิงเทรา",
+      "dok_mai_pracham_changwat": "นนทรี (นนทรีบ้าน)",
+      "chue_witthayasat": "Peltophorum pterocarpum",
+      "phak": "ภาคตะวันออก"
+    },
+    {
+      "changwat": "ชลบุรี",
+      "dok_mai_pracham_changwat": "ประดู่ (ประดู่ป่า)",
+      "chue_witthayasat": "Pterocarpus macrocarpus",
+      "phak": "ภาคตะวันออก"
+    },
+    {
+      "changwat": "ตราด",
+      "dok_mai_pracham_changwat": "กฤษณา ชนิด Aquilaria subintegra",
+      "chue_witthayasat": "Aquilaria subintegra",
+      "phak": "ภาคตะวันออก"
+    },
+    {
+      "changwat": "ปราจีนบุรี",
+      "dok_mai_pracham_changwat": "ปีบ",
+      "chue_witthayasat": "Millingtonia hortensis",
+      "phak": "ภาคตะวันออก"
+    },
+    {
+      "changwat": "ระยอง",
+      "dok_mai_pracham_changwat": "ประดู่ (ประดู่ป่า)",
+      "chue_witthayasat": "Pterocarpus macrocarpus",
+      "phak": "ภาคตะวันออก"
+    },
+    {
+      "changwat": "สระแก้ว",
+      "dok_mai_pracham_changwat": "แก้ว",
+      "chue_witthayasat": "Murraya paniculata",
+      "phak": "ภาคตะวันออก"
+    },
+    {
+      "changwat": "กาญจนบุรี",
+      "dok_mai_pracham_changwat": "กาญจนิการ์",
+      "chue_witthayasat": "Santisukia pagetii",
+      "phak": "ภาคตะวันตก"
+    },
+    {
+      "changwat": "ตาก",
+      "dok_mai_pracham_changwat": "เสี้ยวดอกขาว (เสี้ยวขาว, เสี้ยวป่าดอกขาว)",
+      "chue_witthayasat": "Bauhinia variegata",
+      "phak": "ภาคตะวันตก"
+    },
+    {
+      "changwat": "ประจวบคีรีขันธ์",
+      "dok_mai_pracham_changwat": "เกด",
+      "chue_witthayasat": "Manilkara hexandra",
+      "phak": "ภาคตะวันตก"
+    },
+    {
+      "changwat": "ราชบุรี",
+      "dok_mai_pracham_changwat": "กัลปพฤกษ์",
+      "chue_witthayasat": "Cassia bakeriana",
+      "phak": "ภาคตะวันตก"
+    },
+    {
+      "changwat": "กระบี่",
+      "dok_mai_pracham_changwat": "ทุ้งฟ้า",
+      "chue_witthayasat": "Alstonia macrophylla",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "ชุมพร",
+      "dok_mai_pracham_changwat": "พุทธรักษา",
+      "chue_witthayasat": "Canna indica",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "ตรัง",
+      "dok_mai_pracham_changwat": "ศรีตรังชนิด Jacaranda obtusifolia",
+      "chue_witthayasat": "Jacaranda obtusifolia",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "dok_mai_pracham_changwat": "ราชพฤกษ์",
+      "chue_witthayasat": "Cassia fistula",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "นราธิวาส",
+      "dok_mai_pracham_changwat": "บานบุรี (บานบุรีเหลือง)",
+      "chue_witthayasat": "Allamanda cathartica",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "ปัตตานี",
+      "dok_mai_pracham_changwat": "ชบา",
+      "chue_witthayasat": "Hibiscus rosa-sinensis",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "พังงา",
+      "dok_mai_pracham_changwat": "จำปูน",
+      "chue_witthayasat": "Anaxagorea javanica",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "พัทลุง",
+      "dok_mai_pracham_changwat": "พะยอม",
+      "chue_witthayasat": "Shorea roxburghii",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "ภูเก็ต",
+      "dok_mai_pracham_changwat": "เฟื่องฟ้า",
+      "chue_witthayasat": "Bougainvillea spectabilis",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "ยะลา",
+      "dok_mai_pracham_changwat": "พิกุล",
+      "chue_witthayasat": "Mimusops elengi",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "ระนอง",
+      "dok_mai_pracham_changwat": "เอื้องเงินหลวง (โกมาซุม)",
+      "chue_witthayasat": "Dendrobium formosum",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "สงขลา",
+      "dok_mai_pracham_changwat": "สะเดาเทียม (เทียม, สะเดาช้าง)",
+      "chue_witthayasat": "Azadirachta excelsa",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "สตูล",
+      "dok_mai_pracham_changwat": "กาหลง",
+      "chue_witthayasat": "Bauhinia acuminata",
+      "phak": "ภาคใต้"
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "dok_mai_pracham_changwat": "บัวผุด",
+      "chue_witthayasat": "Rafflesia kerrii",
+      "phak": "ภาคใต้"
+    }
+  ],
+  "meta": {
+    "title": "ดอกไม้ประจำจังหวัดของไทย - ดาวน์โหลดฟรี",
+    "description": "รายการดอกไม้ประจำจังหวัดของทุกจังหวัดในประเทศไทย พร้อมชื่อวิทยาศาสตร์ แบ่งตามภาค มีทั้งหมด 71 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ดอกไม้ประจำจังหวัดของไทย | ListBase",
+    "seo_description": "ดาวน์โหลด ดอกไม้ประจำจังหวัดของไทย — 71 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 71 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายการดอกไม้ประจำจังหวัดของไทย"
+    ]
+  }
+}
