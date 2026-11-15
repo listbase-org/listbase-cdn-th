@@ -1,0 +1,184 @@
+{
+  "id": "th-phonphalit-sinkha-kaset-samkhan-2567-2568",
+  "name": "ผลผลิตสินค้าเกษตรสำคัญของไทย ปี 2567 และไตรมาส 3/2568",
+  "title": "ผลผลิตสินค้าเกษตรสำคัญของไทย ปี 2567 และไตรมาส 3/2568",
+  "description": "ปริมาณผลผลิตสินค้าเกษตรสำคัญของไทย ได้แก่ ข้าว ข้าวโพดเลี้ยงสัตว์ มันสำปะหลัง ยางพารา ปาล์มน้ำมัน ผลไม้ ไก่เนื้อ สุกร ไข่ไก่ น้ำนมดิบ และกุ้งขาว ทั้งปี 2567 เทียบไตรมาส 3 ปี 2567 กับ 2568 (ข้อมูลสำนักงานเศรษฐกิจการเกษตร)",
+  "category": "agriculture",
+  "source": "https://th.wikipedia.org/wiki/เกษตรกรรมในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/เกษตรกรรมในประเทศไทย",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "sinkha",
+      "label": "Sinkha",
+      "type": "string"
+    },
+    {
+      "key": "nuai",
+      "label": "Nuai",
+      "type": "string"
+    },
+    {
+      "key": "phonphalit_pi_2567",
+      "label": "Phonphalit Pi 2567",
+      "type": "number"
+    },
+    {
+      "key": "traimat_3_2567",
+      "label": "Traimat 3 2567",
+      "type": "number"
+    },
+    {
+      "key": "traimat_3_2568",
+      "label": "Traimat 3 2568",
+      "type": "number"
+    },
+    {
+      "key": "kan_plianplaeng_percent",
+      "label": "Kan Plianplaeng Percent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sinkha": "ข้าวนาปี",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 26.98,
+      "traimat_3_2567": 4.31,
+      "traimat_3_2568": 4.36,
+      "kan_plianplaeng_percent": 1.09
+    },
+    {
+      "sinkha": "ข้าวนาปรัง",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 6.54,
+      "traimat_3_2567": 0.19,
+      "traimat_3_2568": 0.28,
+      "kan_plianplaeng_percent": 48.01
+    },
+    {
+      "sinkha": "ข้าวโพดเลี้ยงสัตว์",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 4.56,
+      "traimat_3_2567": 0.85,
+      "traimat_3_2568": 0.91,
+      "kan_plianplaeng_percent": 7.22
+    },
+    {
+      "sinkha": "มันสำปะหลัง",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 28.19,
+      "traimat_3_2567": 1.96,
+      "traimat_3_2568": 1.67,
+      "kan_plianplaeng_percent": -14.83
+    },
+    {
+      "sinkha": "สับปะรดโรงงาน",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 1.08,
+      "traimat_3_2567": 0.16,
+      "traimat_3_2568": 0.2,
+      "kan_plianplaeng_percent": 20.8
+    },
+    {
+      "sinkha": "ยางพารา",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 4.8,
+      "traimat_3_2567": 1.39,
+      "traimat_3_2568": 1.42,
+      "kan_plianplaeng_percent": 2.51
+    },
+    {
+      "sinkha": "ปาล์มน้ำมัน",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 18.61,
+      "traimat_3_2567": 5.18,
+      "traimat_3_2568": 4.91,
+      "kan_plianplaeng_percent": -5.11
+    },
+    {
+      "sinkha": "ลำไย",
+      "nuai": "พันตัน",
+      "phonphalit_pi_2567": 1420,
+      "traimat_3_2567": 668,
+      "traimat_3_2568": 779,
+      "kan_plianplaeng_percent": 16.64
+    },
+    {
+      "sinkha": "ทุเรียน",
+      "nuai": "พันตัน",
+      "phonphalit_pi_2567": 1287,
+      "traimat_3_2567": 352,
+      "traimat_3_2568": 427,
+      "kan_plianplaeng_percent": 21.12
+    },
+    {
+      "sinkha": "มังคุด",
+      "nuai": "พันตัน",
+      "phonphalit_pi_2567": 302,
+      "traimat_3_2567": 98,
+      "traimat_3_2568": 96,
+      "kan_plianplaeng_percent": -2.67
+    },
+    {
+      "sinkha": "เงาะ",
+      "nuai": "พันตัน",
+      "phonphalit_pi_2567": 202,
+      "traimat_3_2567": 54,
+      "traimat_3_2568": 60,
+      "kan_plianplaeng_percent": 10.64
+    },
+    {
+      "sinkha": "ไก่เนื้อ",
+      "nuai": "ล้านตัว",
+      "phonphalit_pi_2567": 2052.42,
+      "traimat_3_2567": 509.41,
+      "traimat_3_2568": 514.75,
+      "kan_plianplaeng_percent": 1.05
+    },
+    {
+      "sinkha": "สุกรมีชีวิต",
+      "nuai": "ล้านตัว",
+      "phonphalit_pi_2567": 23.46,
+      "traimat_3_2567": 5.92,
+      "traimat_3_2568": 5.94,
+      "kan_plianplaeng_percent": 0.23
+    },
+    {
+      "sinkha": "ไข่ไก่",
+      "nuai": "ล้านฟอง",
+      "phonphalit_pi_2567": 15953.1,
+      "traimat_3_2567": 4007.42,
+      "traimat_3_2568": 3957.24,
+      "kan_plianplaeng_percent": -1.25
+    },
+    {
+      "sinkha": "น้ำนมดิบ",
+      "nuai": "ล้านตัน",
+      "phonphalit_pi_2567": 1.03,
+      "traimat_3_2567": 0.236,
+      "traimat_3_2568": 0.244,
+      "kan_plianplaeng_percent": 3.21
+    },
+    {
+      "sinkha": "กุ้งขาวแวนนาไม",
+      "nuai": "พันตัน",
+      "phonphalit_pi_2567": 368.44,
+      "traimat_3_2567": 46.97,
+      "traimat_3_2568": 40.93,
+      "kan_plianplaeng_percent": -12.9
+    }
+  ],
+  "meta": {
+    "title": "ผลผลิตสินค้าเกษตรสำคัญของไทย ปี 2567 และไตรมาส 3/2568 - ดาวน์โหลดฟรี",
+    "description": "ปริมาณผลผลิตสินค้าเกษตรสำคัญของไทย ได้แก่ ข้าว ข้าวโพดเลี้ยงสัตว์ มันสำปะหลัง ยางพารา ปาล์มน้ำมัน ผลไม้ ไก่เนื้อ สุกร ไข่ไก่ น้ำนมดิบ และกุ้งขาว ทั้งปี 2567 เทียบไตรมาส 3 ปี 2567 กับ 2568 (ข้อมูลสำนักงานเศรษฐกิจการเกษตร) มีทั้งหมด 16 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ผลผลิตสินค้าเกษตรสำคัญของไทย ปี 2567 และไตรมาส 3/2568 | ListBase",
+    "seo_description": "ดาวน์โหลด ผลผลิตสินค้าเกษตรสำคัญของไทย ปี 2567 และไตรมาส 3/2568 — 16 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 16 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/เกษตรกรรมในประเทศไทย"
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
   "lang": "th",
-  "generated": "2026-11-15T02:21:35.520Z",
-  "total_datasets": 812,
-  "total_records": 283613,
+  "generated": "2026-11-15T02:21:47.963Z",
+  "total_datasets": 813,
+  "total_records": 283629,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "business",
@@ -181,6 +181,33 @@
         "xlsx": {
           "name": "th-phan-thurian-nai-prathet-thai_TH.xlsx",
           "size": 8356
+        }
+      }
+    },
+    {
+      "id": "th-phonphalit-sinkha-kaset-samkhan-2567-2568",
+      "name": "ผลผลิตสินค้าเกษตรสำคัญของไทย ปี 2567 และไตรมาส 3/2568",
+      "category": "agriculture",
+      "record_count": 16,
+      "columns": [
+        "sinkha",
+        "nuai",
+        "phonphalit_pi_2567",
+        "traimat_3_2567",
+        "traimat_3_2568",
+        "kan_plianplaeng_percent"
+      ],
+      "source": "https://th.wikipedia.org/wiki/เกษตรกรรมในประเทศไทย",
+      "updated": "2026-11",
+      "size": 7283,
+      "files": {
+        "csv": {
+          "name": "th-phonphalit-sinkha-kaset-samkhan-2567-2568_TH.csv",
+          "size": 1422
+        },
+        "xlsx": {
+          "name": "th-phonphalit-sinkha-kaset-samkhan-2567-2568_TH.xlsx",
+          "size": 7645
         }
       }
     },
