@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-14T02:13:02.713Z",
-  "total_datasets": 809,
-  "total_records": 283427,
+  "generated": "2026-11-15T02:21:09.276Z",
+  "total_datasets": 810,
+  "total_records": 283462,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -8049,6 +8049,33 @@
         "xlsx": {
           "name": "vitamins_TH.xlsx",
           "size": 9464
+        }
+      }
+    },
+    {
+      "id": "th-bukkhon-thai-thi-unesco-chalong-wara-khrop-rop",
+      "name": "บุคคลสำคัญของไทยที่ยูเนสโกร่วมเฉลิมฉลองวาระครบรอบ",
+      "category": "history",
+      "record_count": 35,
+      "columns": [
+        "lamdap",
+        "phu_dai_rap_kan_chalong",
+        "kan_ngan",
+        "wan_thi_chalong",
+        "chalong_nai_wara",
+        "sathana"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อเหตุการณ์ในประเทศไทยที่ได้รับการฉลองวาระครบรอบโดยยูเนสโก",
+      "updated": "2026-11",
+      "size": 27696,
+      "files": {
+        "csv": {
+          "name": "th-bukkhon-thai-thi-unesco-chalong-wara-khrop-rop_TH.csv",
+          "size": 18688
+        },
+        "xlsx": {
+          "name": "th-bukkhon-thai-thi-unesco-chalong-wara-khrop-rop_TH.xlsx",
+          "size": 11111
         }
       }
     },
