@@ -1,0 +1,526 @@
+{
+  "id": "th-kha-chang-khan-tam-rai-changwat-2568",
+  "name": "อัตราค่าจ้างขั้นต่ำรายจังหวัด (ฉบับที่ 14 มีผล 1 ก.ค. 2568)",
+  "title": "อัตราค่าจ้างขั้นต่ำรายจังหวัด (ฉบับที่ 14 มีผล 1 ก.ค. 2568)",
+  "description": "อัตราค่าจ้างขั้นต่ำรายวันของทุกจังหวัดในประเทศไทย ตามประกาศคณะกรรมการค่าจ้าง เรื่อง อัตราค่าจ้างขั้นต่ำ (ฉบับที่ 14) มีผลตั้งแต่ 1 กรกฎาคม 2568 (ยังใช้ในปี 2569) แยกพื้นที่พิเศษระดับอำเภอ พร้อมค่าเทียบเท่ารายเดือน 26 วัน",
+  "category": "economy",
+  "source": "https://www.mol.go.th/อัตราค่าจ้างขั้นต่ำ",
+  "source_url": "https://www.mol.go.th/อัตราค่าจ้างขั้นต่ำ",
+  "updated": "2026-11",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "phuenthi",
+      "label": "Phuenthi",
+      "type": "string"
+    },
+    {
+      "key": "kha_chang_khan_tam_baht_to_wan",
+      "label": "Kha Chang Khan Tam Baht To Wan",
+      "type": "number"
+    },
+    {
+      "key": "thiao_thao_rai_duean_26_wan",
+      "label": "Thiao Thao Rai Duean 26 Wan",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat": "กรุงเทพมหานคร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 400,
+      "thiao_thao_rai_duean_26_wan": 10400
+    },
+    {
+      "changwat": "ฉะเชิงเทรา",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 400,
+      "thiao_thao_rai_duean_26_wan": 10400
+    },
+    {
+      "changwat": "ชลบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 400,
+      "thiao_thao_rai_duean_26_wan": 10400
+    },
+    {
+      "changwat": "ภูเก็ต",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 400,
+      "thiao_thao_rai_duean_26_wan": 10400
+    },
+    {
+      "changwat": "ระยอง",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 400,
+      "thiao_thao_rai_duean_26_wan": 10400
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "phuenthi": "เฉพาะอำเภอเกาะสมุย",
+      "kha_chang_khan_tam_baht_to_wan": 400,
+      "thiao_thao_rai_duean_26_wan": 10400
+    },
+    {
+      "changwat": "สงขลา",
+      "phuenthi": "เฉพาะอำเภอหาดใหญ่",
+      "kha_chang_khan_tam_baht_to_wan": 380,
+      "thiao_thao_rai_duean_26_wan": 9880
+    },
+    {
+      "changwat": "เชียงใหม่",
+      "phuenthi": "เฉพาะอำเภอเมืองเชียงใหม่",
+      "kha_chang_khan_tam_baht_to_wan": 380,
+      "thiao_thao_rai_duean_26_wan": 9880
+    },
+    {
+      "changwat": "นครปฐม",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 372,
+      "thiao_thao_rai_duean_26_wan": 9672
+    },
+    {
+      "changwat": "นนทบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 372,
+      "thiao_thao_rai_duean_26_wan": 9672
+    },
+    {
+      "changwat": "ปทุมธานี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 372,
+      "thiao_thao_rai_duean_26_wan": 9672
+    },
+    {
+      "changwat": "สมุทรปราการ",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 372,
+      "thiao_thao_rai_duean_26_wan": 9672
+    },
+    {
+      "changwat": "สมุทรสาคร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 372,
+      "thiao_thao_rai_duean_26_wan": 9672
+    },
+    {
+      "changwat": "นครราชสีมา",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 359,
+      "thiao_thao_rai_duean_26_wan": 9334
+    },
+    {
+      "changwat": "สมุทรสงคราม",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 358,
+      "thiao_thao_rai_duean_26_wan": 9308
+    },
+    {
+      "changwat": "ขอนแก่น",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 357,
+      "thiao_thao_rai_duean_26_wan": 9282
+    },
+    {
+      "changwat": "ปราจีนบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 357,
+      "thiao_thao_rai_duean_26_wan": 9282
+    },
+    {
+      "changwat": "พระนครศรีอยุธยา",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 357,
+      "thiao_thao_rai_duean_26_wan": 9282
+    },
+    {
+      "changwat": "สระบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 357,
+      "thiao_thao_rai_duean_26_wan": 9282
+    },
+    {
+      "changwat": "เชียงใหม่",
+      "phuenthi": "ยกเว้นอำเภอเมืองเชียงใหม่",
+      "kha_chang_khan_tam_baht_to_wan": 357,
+      "thiao_thao_rai_duean_26_wan": 9282
+    },
+    {
+      "changwat": "ลพบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 356,
+      "thiao_thao_rai_duean_26_wan": 9256
+    },
+    {
+      "changwat": "นครนายก",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 355,
+      "thiao_thao_rai_duean_26_wan": 9230
+    },
+    {
+      "changwat": "สุพรรณบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 355,
+      "thiao_thao_rai_duean_26_wan": 9230
+    },
+    {
+      "changwat": "หนองคาย",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 355,
+      "thiao_thao_rai_duean_26_wan": 9230
+    },
+    {
+      "changwat": "กระบี่",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 354,
+      "thiao_thao_rai_duean_26_wan": 9204
+    },
+    {
+      "changwat": "ตราด",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 354,
+      "thiao_thao_rai_duean_26_wan": 9204
+    },
+    {
+      "changwat": "กาญจนบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "จันทบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "ตาก",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "นครพนม",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "บุรีรัมย์",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "ประจวบคีรีขันธ์",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "พังงา",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "พิษณุโลก",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "มุกดาหาร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "สกลนคร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "สงขลา",
+      "phuenthi": "ยกเว้นอำเภอหาดใหญ่",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "สระแก้ว",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "phuenthi": "ยกเว้นอำเภอเกาะสมุย",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "อุบลราชธานี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "เชียงราย",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 352,
+      "thiao_thao_rai_duean_26_wan": 9152
+    },
+    {
+      "changwat": "ชุมพร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 351,
+      "thiao_thao_rai_duean_26_wan": 9126
+    },
+    {
+      "changwat": "สุรินทร์",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 351,
+      "thiao_thao_rai_duean_26_wan": 9126
+    },
+    {
+      "changwat": "เพชรบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 351,
+      "thiao_thao_rai_duean_26_wan": 9126
+    },
+    {
+      "changwat": "นครสวรรค์",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 350,
+      "thiao_thao_rai_duean_26_wan": 9100
+    },
+    {
+      "changwat": "ยโสธร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 350,
+      "thiao_thao_rai_duean_26_wan": 9100
+    },
+    {
+      "changwat": "ลำพูน",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 350,
+      "thiao_thao_rai_duean_26_wan": 9100
+    },
+    {
+      "changwat": "กาฬสินธุ์",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 349,
+      "thiao_thao_rai_duean_26_wan": 9074
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 349,
+      "thiao_thao_rai_duean_26_wan": 9074
+    },
+    {
+      "changwat": "บึงกาฬ",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 349,
+      "thiao_thao_rai_duean_26_wan": 9074
+    },
+    {
+      "changwat": "ร้อยเอ็ด",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 349,
+      "thiao_thao_rai_duean_26_wan": 9074
+    },
+    {
+      "changwat": "เพชรบูรณ์",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 349,
+      "thiao_thao_rai_duean_26_wan": 9074
+    },
+    {
+      "changwat": "ชัยนาท",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 348,
+      "thiao_thao_rai_duean_26_wan": 9048
+    },
+    {
+      "changwat": "ชัยภูมิ",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 348,
+      "thiao_thao_rai_duean_26_wan": 9048
+    },
+    {
+      "changwat": "พัทลุง",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 348,
+      "thiao_thao_rai_duean_26_wan": 9048
+    },
+    {
+      "changwat": "สิงห์บุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 348,
+      "thiao_thao_rai_duean_26_wan": 9048
+    },
+    {
+      "changwat": "อ่างทอง",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 348,
+      "thiao_thao_rai_duean_26_wan": 9048
+    },
+    {
+      "changwat": "กำแพงเพชร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "พิจิตร",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "มหาสารคาม",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "ระนอง",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "ราชบุรี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "ลำปาง",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "ศรีสะเกษ",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "สตูล",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "สุโขทัย",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "หนองบัวลำภู",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "อำนาจเจริญ",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "อุดรธานี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "อุตรดิตถ์",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "อุทัยธานี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "เลย",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "แม่ฮ่องสอน",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 347,
+      "thiao_thao_rai_duean_26_wan": 9022
+    },
+    {
+      "changwat": "ตรัง",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 345,
+      "thiao_thao_rai_duean_26_wan": 8970
+    },
+    {
+      "changwat": "น่าน",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 345,
+      "thiao_thao_rai_duean_26_wan": 8970
+    },
+    {
+      "changwat": "พะเยา",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 345,
+      "thiao_thao_rai_duean_26_wan": 8970
+    },
+    {
+      "changwat": "แพร่",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 345,
+      "thiao_thao_rai_duean_26_wan": 8970
+    },
+    {
+      "changwat": "นราธิวาส",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 337,
+      "thiao_thao_rai_duean_26_wan": 8762
+    },
+    {
+      "changwat": "ปัตตานี",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 337,
+      "thiao_thao_rai_duean_26_wan": 8762
+    },
+    {
+      "changwat": "ยะลา",
+      "phuenthi": "ทั้งจังหวัด",
+      "kha_chang_khan_tam_baht_to_wan": 337,
+      "thiao_thao_rai_duean_26_wan": 8762
+    }
+  ],
+  "meta": {
+    "title": "อัตราค่าจ้างขั้นต่ำรายจังหวัด (ฉบับที่ 14 มีผล 1 ก.ค. 2568) - ดาวน์โหลดฟรี",
+    "description": "อัตราค่าจ้างขั้นต่ำรายวันของทุกจังหวัดในประเทศไทย ตามประกาศคณะกรรมการค่าจ้าง เรื่อง อัตราค่าจ้างขั้นต่ำ (ฉบับที่ 14) มีผลตั้งแต่ 1 กรกฎาคม 2568 (ยังใช้ในปี 2569) แยกพื้นที่พิเศษระดับอำเภอ พร้อมค่าเทียบเท่ารายเดือน 26 วัน มีทั้งหมด 80 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "อัตราค่าจ้างขั้นต่ำรายจังหวัด (ฉบับที่ 14 มีผล 1 ก.ค. 2568) | ListBase",
+    "seo_description": "ดาวน์โหลด อัตราค่าจ้างขั้นต่ำรายจังหวัด (ฉบับที่ 14 มีผล 1 ก.ค. 2568) — 80 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 80 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://www.mol.go.th/อัตราค่าจ้างขั้นต่ำ"
+    ]
+  }
+}

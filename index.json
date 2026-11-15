@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-15T02:21:23.154Z",
-  "total_datasets": 811,
-  "total_records": 283533,
+  "generated": "2026-11-15T02:21:35.520Z",
+  "total_datasets": 812,
+  "total_records": 283613,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -571,6 +571,31 @@
         "xlsx": {
           "name": "th-gdp-growth-rate_TH.xlsx",
           "size": 7294
+        }
+      }
+    },
+    {
+      "id": "th-kha-chang-khan-tam-rai-changwat-2568",
+      "name": "อัตราค่าจ้างขั้นต่ำรายจังหวัด (ฉบับที่ 14 มีผล 1 ก.ค. 2568)",
+      "category": "economy",
+      "record_count": 80,
+      "columns": [
+        "changwat",
+        "phuenthi",
+        "kha_chang_khan_tam_baht_to_wan",
+        "thiao_thao_rai_duean_26_wan"
+      ],
+      "source": "https://www.mol.go.th/อัตราค่าจ้างขั้นต่ำ",
+      "updated": "2026-11",
+      "size": 19621,
+      "files": {
+        "csv": {
+          "name": "th-kha-chang-khan-tam-rai-changwat-2568_TH.csv",
+          "size": 6254
+        },
+        "xlsx": {
+          "name": "th-kha-chang-khan-tam-rai-changwat-2568_TH.xlsx",
+          "size": 9041
         }
       }
     },
