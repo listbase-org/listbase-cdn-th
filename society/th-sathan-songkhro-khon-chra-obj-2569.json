@@ -1,0 +1,142 @@
+{
+  "id": "th-sathan-songkhro-khon-chra-obj-2569",
+  "name": "สถานสงเคราะห์คนชราขององค์การบริหารส่วนจังหวัดและจำนวนผู้สูงอายุ ปี 2569",
+  "title": "สถานสงเคราะห์คนชราขององค์การบริหารส่วนจังหวัดและจำนวนผู้สูงอายุ ปี 2569",
+  "description": "รายชื่อสถานสงเคราะห์คนชราและศูนย์บริการทางสังคมที่อยู่ในความดูแลขององค์การบริหารส่วนจังหวัด (อบจ.) พร้อมจำนวนผู้สูงอายุที่อยู่ในความอุปการะ แยกชาย–หญิง ประจำปี พ.ศ. 2569 จากกรมส่งเสริมการปกครองท้องถิ่น",
+  "category": "society",
+  "source": "https://data.go.th/dataset/older2026",
+  "source_url": "https://data.go.th/dataset/older2026",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "chue_sathan_songkhro",
+      "label": "Chue Sathan Songkhro",
+      "type": "string"
+    },
+    {
+      "key": "phusungayu_thangmot",
+      "label": "Phusungayu Thangmot",
+      "type": "number"
+    },
+    {
+      "key": "chai",
+      "label": "Chai",
+      "type": "number"
+    },
+    {
+      "key": "ying",
+      "label": "Ying",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": 1,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราเฉลิมราชกุมารี (หลวงพ่อลำไยอุปถัมภ์) อบจ.กาญจนบุรี",
+      "phusungayu_thangmot": 91,
+      "chai": 9,
+      "ying": 82
+    },
+    {
+      "lamdap": 2,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราบ้านจันทบุรี อบจ.จันทบุรี",
+      "phusungayu_thangmot": 42,
+      "chai": 21,
+      "ying": 21
+    },
+    {
+      "lamdap": 3,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราบ้านอู่ทอง-พนังตัก อบจ.ชุมพร",
+      "phusungayu_thangmot": 58,
+      "chai": 29,
+      "ying": 29
+    },
+    {
+      "lamdap": 4,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราวัยทองนิเวศน์ อบจ.เชียงใหม่",
+      "phusungayu_thangmot": 70,
+      "chai": 29,
+      "ying": 41
+    },
+    {
+      "lamdap": 5,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราบ้านศรีตรัง อบจ.ตรัง",
+      "phusungayu_thangmot": 58,
+      "chai": 24,
+      "ying": 34
+    },
+    {
+      "lamdap": 6,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราบ้านนครปฐม อบจ.นครปฐม",
+      "phusungayu_thangmot": 58,
+      "chai": 42,
+      "ying": 16
+    },
+    {
+      "lamdap": 7,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราเฉลิมราชกุมารี (หลวงพ่อเปิ่นอุปถัมภ์) อบจ.นครปฐม",
+      "phusungayu_thangmot": 56,
+      "chai": "",
+      "ying": 56
+    },
+    {
+      "lamdap": 8,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราบ้านลพบุรี อบจ.ลพบุรี",
+      "phusungayu_thangmot": 105,
+      "chai": 39,
+      "ying": 66
+    },
+    {
+      "lamdap": 9,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชรามหาสารคาม อบจ.มหาสารคาม",
+      "phusungayu_thangmot": 68,
+      "chai": 36,
+      "ying": 32
+    },
+    {
+      "lamdap": 10,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราบ้านธรรมปกรณ์โพธิ์กลาง อบจ.นครราชสีมา",
+      "phusungayu_thangmot": 73,
+      "chai": 53,
+      "ying": 20
+    },
+    {
+      "lamdap": 11,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราธรรมปกรณ์วัดม่วง อบจ.นครราชสีมา",
+      "phusungayu_thangmot": 62,
+      "chai": "",
+      "ying": 62
+    },
+    {
+      "lamdap": 12,
+      "chue_sathan_songkhro": "สถานสงเคราะห์คนชราบ้านเขาบ่อแก้ว อบจ.นครสวรรค์",
+      "phusungayu_thangmot": 103,
+      "chai": 42,
+      "ying": 61
+    },
+    {
+      "lamdap": 13,
+      "chue_sathan_songkhro": "ศูนย์บริการทางสังคมผู้สูงอายุศรีสุคต อบจ.พิษณุโลก (ไป - กลับ)",
+      "phusungayu_thangmot": 244,
+      "chai": 37,
+      "ying": 207
+    }
+  ],
+  "meta": {
+    "title": "สถานสงเคราะห์คนชราขององค์การบริหารส่วนจังหวัดและจำนวนผู้สูงอายุ ปี 2569 - ดาวน์โหลดฟรี",
+    "description": "รายชื่อสถานสงเคราะห์คนชราและศูนย์บริการทางสังคมที่อยู่ในความดูแลขององค์การบริหารส่วนจังหวัด (อบจ.) พร้อมจำนวนผู้สูงอายุที่อยู่ในความอุปการะ แยกชาย–หญิง ประจำปี พ.ศ. 2569 จากกรมส่งเสริมการปกครองท้องถิ่น มีทั้งหมด 13 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สถานสงเคราะห์คนชราขององค์การบริหารส่วนจังหวัดและจำนวนผู้สูงอายุ ปี 2569 | ListBase",
+    "seo_description": "ดาวน์โหลด สถานสงเคราะห์คนชราขององค์การบริหารส่วนจังหวัดและจำนวนผู้สูงอายุ ปี 2569 — 13 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 13 รายการ / 5 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://data.go.th/dataset/older2026"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-16T02:25:13.656Z",
-  "total_datasets": 816,
-  "total_records": 283766,
+  "generated": "2026-11-16T02:25:26.621Z",
+  "total_datasets": 817,
+  "total_records": 283779,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -23004,6 +23004,32 @@
         "xlsx": {
           "name": "th-religions-population_TH.xlsx",
           "size": 7483
+        }
+      }
+    },
+    {
+      "id": "th-sathan-songkhro-khon-chra-obj-2569",
+      "name": "สถานสงเคราะห์คนชราขององค์การบริหารส่วนจังหวัดและจำนวนผู้สูงอายุ ปี 2569",
+      "category": "society",
+      "record_count": 13,
+      "columns": [
+        "lamdap",
+        "chue_sathan_songkhro",
+        "phusungayu_thangmot",
+        "chai",
+        "ying"
+      ],
+      "source": "https://data.go.th/dataset/older2026",
+      "updated": "2026-11",
+      "size": 7174,
+      "files": {
+        "csv": {
+          "name": "th-sathan-songkhro-khon-chra-obj-2569_TH.csv",
+          "size": 2189
+        },
+        "xlsx": {
+          "name": "th-sathan-songkhro-khon-chra-obj-2569_TH.xlsx",
+          "size": 7559
         }
       }
     },
