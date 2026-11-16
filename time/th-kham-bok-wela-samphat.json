@@ -1,0 +1,236 @@
+{
+  "id": "th-kham-bok-wela-samphat",
+  "name": "คำบอกเวลาแบบสัมพัทธ์ในภาษาไทย (เมื่อวาน พรุ่งนี้ สัปดาห์หน้า 3 วันที่ผ่านมา…)",
+  "title": "คำบอกเวลาแบบสัมพัทธ์ในภาษาไทย (เมื่อวาน พรุ่งนี้ สัปดาห์หน้า 3 วันที่ผ่านมา…)",
+  "description": "คำและรูปแบบการบอกเวลาแบบสัมพัทธ์ในภาษาไทย เช่น เมื่อวานซืน เมื่อวาน วันนี้ พรุ่งนี้ มะรืนนี้ เดือนที่แล้ว สัปดาห์หน้า “ในอีก {0} วัน” “{0} ชั่วโมงที่ผ่านมา” สำหรับทุกหน่วยเวลาและวันในสัปดาห์ จาก Unicode CLDR (th)",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/th.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/th.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "nuai",
+      "label": "Nuai",
+      "type": "string"
+    },
+    {
+      "key": "kon_na_kon",
+      "label": "Kon Na Kon",
+      "type": "string"
+    },
+    {
+      "key": "kon_na",
+      "label": "Kon Na",
+      "type": "string"
+    },
+    {
+      "key": "patchuban",
+      "label": "Patchuban",
+      "type": "string"
+    },
+    {
+      "key": "thadpai",
+      "label": "Thadpai",
+      "type": "string"
+    },
+    {
+      "key": "thadpai_ik",
+      "label": "Thadpai Ik",
+      "type": "string"
+    },
+    {
+      "key": "rupbaep_anakhot",
+      "label": "Rupbaep Anakhot",
+      "type": "string"
+    },
+    {
+      "key": "rupbaep_adit",
+      "label": "Rupbaep Adit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "field": "year",
+      "nuai": "ปี",
+      "kon_na_kon": "",
+      "kon_na": "ปีที่แล้ว",
+      "patchuban": "ปีนี้",
+      "thadpai": "ปีหน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} ปี",
+      "rupbaep_adit": "{0} ปีที่แล้ว"
+    },
+    {
+      "field": "quarter",
+      "nuai": "ไตรมาส",
+      "kon_na_kon": "",
+      "kon_na": "ไตรมาสที่แล้ว",
+      "patchuban": "ไตรมาสนี้",
+      "thadpai": "ไตรมาสหน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} ไตรมาส",
+      "rupbaep_adit": "{0} ไตรมาสที่แล้ว"
+    },
+    {
+      "field": "month",
+      "nuai": "เดือน",
+      "kon_na_kon": "",
+      "kon_na": "เดือนที่แล้ว",
+      "patchuban": "เดือนนี้",
+      "thadpai": "เดือนหน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} เดือน",
+      "rupbaep_adit": "{0} เดือนที่ผ่านมา"
+    },
+    {
+      "field": "week",
+      "nuai": "สัปดาห์",
+      "kon_na_kon": "",
+      "kon_na": "สัปดาห์ที่แล้ว",
+      "patchuban": "สัปดาห์นี้",
+      "thadpai": "สัปดาห์หน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} สัปดาห์",
+      "rupbaep_adit": "{0} สัปดาห์ที่ผ่านมา"
+    },
+    {
+      "field": "day",
+      "nuai": "วัน",
+      "kon_na_kon": "เมื่อวานซืน",
+      "kon_na": "เมื่อวาน",
+      "patchuban": "วันนี้",
+      "thadpai": "พรุ่งนี้",
+      "thadpai_ik": "มะรืนนี้",
+      "rupbaep_anakhot": "ในอีก {0} วัน",
+      "rupbaep_adit": "{0} วันที่ผ่านมา"
+    },
+    {
+      "field": "sun",
+      "nuai": "วันอาทิตย์",
+      "kon_na_kon": "",
+      "kon_na": "วันอาทิตย์ที่แล้ว",
+      "patchuban": "วันอาทิตย์นี้",
+      "thadpai": "วันอาทิตย์หน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "วันอาทิตย์ในอีก {0} สัปดาห์",
+      "rupbaep_adit": "วันอาทิตย์เมื่อ {0} สัปดาห์ที่แล้ว"
+    },
+    {
+      "field": "mon",
+      "nuai": "วันจันทร์",
+      "kon_na_kon": "",
+      "kon_na": "จันทร์ที่แล้ว",
+      "patchuban": "จันทร์นี้",
+      "thadpai": "จันทร์หน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} จันทร์",
+      "rupbaep_adit": "{0} จันทร์ที่แล้ว"
+    },
+    {
+      "field": "tue",
+      "nuai": "วันอังคาร",
+      "kon_na_kon": "",
+      "kon_na": "อังคารที่แล้ว",
+      "patchuban": "อังคารนี้",
+      "thadpai": "อังคารหน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} อังคาร",
+      "rupbaep_adit": "{0} อังคารที่แล้ว"
+    },
+    {
+      "field": "wed",
+      "nuai": "วันพุธ",
+      "kon_na_kon": "",
+      "kon_na": "พุธที่แล้ว",
+      "patchuban": "พุธนี้",
+      "thadpai": "พุธหน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} พุธ",
+      "rupbaep_adit": "{0} พุธที่แล้ว"
+    },
+    {
+      "field": "thu",
+      "nuai": "วันพฤหัสบดี",
+      "kon_na_kon": "",
+      "kon_na": "พฤหัสที่แล้ว",
+      "patchuban": "พฤหัสนี้",
+      "thadpai": "พฤหัสหน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} พฤหัส",
+      "rupbaep_adit": "{0} พฤหัสที่แล้ว"
+    },
+    {
+      "field": "fri",
+      "nuai": "วันศุกร์",
+      "kon_na_kon": "",
+      "kon_na": "ศุกร์ที่แล้ว",
+      "patchuban": "ศุกร์นี้",
+      "thadpai": "ศุกร์หน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} ศุกร์",
+      "rupbaep_adit": "{0} ศุกร์ที่แล้ว"
+    },
+    {
+      "field": "sat",
+      "nuai": "วันเสาร์",
+      "kon_na_kon": "",
+      "kon_na": "เสาร์ที่แล้ว",
+      "patchuban": "เสาร์นี้",
+      "thadpai": "เสาร์หน้า",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} เสาร์",
+      "rupbaep_adit": "{0} เสาร์ที่แล้ว"
+    },
+    {
+      "field": "hour",
+      "nuai": "ชั่วโมง",
+      "kon_na_kon": "",
+      "kon_na": "",
+      "patchuban": "ชั่วโมงนี้",
+      "thadpai": "",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} ชั่วโมง",
+      "rupbaep_adit": "{0} ชั่วโมงที่ผ่านมา"
+    },
+    {
+      "field": "minute",
+      "nuai": "นาที",
+      "kon_na_kon": "",
+      "kon_na": "",
+      "patchuban": "นาทีนี้",
+      "thadpai": "",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} นาที",
+      "rupbaep_adit": "{0} นาทีที่ผ่านมา"
+    },
+    {
+      "field": "second",
+      "nuai": "วินาที",
+      "kon_na_kon": "",
+      "kon_na": "",
+      "patchuban": "ขณะนี้",
+      "thadpai": "",
+      "thadpai_ik": "",
+      "rupbaep_anakhot": "ในอีก {0} วินาที",
+      "rupbaep_adit": "{0} วินาทีที่ผ่านมา"
+    }
+  ],
+  "meta": {
+    "title": "คำบอกเวลาแบบสัมพัทธ์ในภาษาไทย (เมื่อวาน พรุ่งนี้ สัปดาห์หน้า 3 วันที่ผ่านมา…) - ดาวน์โหลดฟรี",
+    "description": "คำและรูปแบบการบอกเวลาแบบสัมพัทธ์ในภาษาไทย เช่น เมื่อวานซืน เมื่อวาน วันนี้ พรุ่งนี้ มะรืนนี้ เดือนที่แล้ว สัปดาห์หน้า “ในอีก {0} วัน” “{0} ชั่วโมงที่ผ่านมา” สำหรับทุกหน่วยเวลาและวันในสัปดาห์ จาก Unicode CLDR (th) มีทั้งหมด 15 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "คำบอกเวลาแบบสัมพัทธ์ในภาษาไทย (เมื่อวาน พรุ่งนี้ สัปดาห์หน้า 3 วันที่ผ่านมา…) | ListBase",
+    "seo_description": "ดาวน์โหลด คำบอกเวลาแบบสัมพัทธ์ในภาษาไทย (เมื่อวาน พรุ่งนี้ สัปดาห์หน้า 3 วันที่ผ่านมา…) — 15 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 15 รายการ / 9 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://github.com/unicode-org/cldr/blob/main/common/main/th.xml"
+    ]
+  }
+}

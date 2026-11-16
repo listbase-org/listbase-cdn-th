@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-15T02:21:47.963Z",
-  "total_datasets": 813,
-  "total_records": 283629,
+  "generated": "2026-11-16T02:24:47.904Z",
+  "total_datasets": 814,
+  "total_records": 283644,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -23641,6 +23641,36 @@
         "xlsx": {
           "name": "chinese-zodiac_TH.xlsx",
           "size": 8510
+        }
+      }
+    },
+    {
+      "id": "th-kham-bok-wela-samphat",
+      "name": "คำบอกเวลาแบบสัมพัทธ์ในภาษาไทย (เมื่อวาน พรุ่งนี้ สัปดาห์หน้า 3 วันที่ผ่านมา…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "field",
+        "nuai",
+        "kon_na_kon",
+        "kon_na",
+        "patchuban",
+        "thadpai",
+        "thadpai_ik",
+        "rupbaep_anakhot",
+        "rupbaep_adit"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/th.xml",
+      "updated": "2026-11",
+      "size": 10091,
+      "files": {
+        "csv": {
+          "name": "th-kham-bok-wela-samphat_TH.csv",
+          "size": 3318
+        },
+        "xlsx": {
+          "name": "th-kham-bok-wela-samphat_TH.xlsx",
+          "size": 7998
         }
       }
     },
