@@ -1,0 +1,196 @@
+{
+  "id": "th-ran-ahan-thai-select-chiang-mai",
+  "name": "ร้านอาหารที่ได้รับตรามาตรฐาน Thai SELECT จังหวัดเชียงใหม่ (2563–2569)",
+  "title": "ร้านอาหารที่ได้รับตรามาตรฐาน Thai SELECT จังหวัดเชียงใหม่ (2563–2569)",
+  "description": "รายชื่อร้านอาหารและภัตตาคารในจังหวัดเชียงใหม่ที่ได้รับการรับรองมาตรฐานอาหารไทย Thai SELECT (กรมส่งเสริมการค้าระหว่างประเทศ) จำแนกตามปีที่ได้รับการรับรอง พ.ศ. 2563–2569 จากสำนักงานจังหวัดเชียงใหม่",
+  "category": "food",
+  "source": "https://data.go.th/dataset/_67_69",
+  "source_url": "https://data.go.th/dataset/_67_69",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "pi_thi_dai_rap_rongrong",
+      "label": "Pi Thi Dai Rap Rongrong",
+      "type": "number"
+    },
+    {
+      "key": "chue_ran",
+      "label": "Chue Ran",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pi_thi_dai_rap_rongrong": 2563,
+      "chue_ran": "ครัวนฤตยะ"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2563,
+      "chue_ran": "ครัวอาจารย์สายหยุดและหมอทราย"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2563,
+      "chue_ran": "เฮือนคำใบ"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2564,
+      "chue_ran": "กินปูดูนา คอฟฟี่แอนด์ซีฟู้ด"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "กู้ดวิว สาขาแม่เหี้ยะ The​ Good​ View​ Village​ Restaurant​ &​ Karaoke"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "ครัวย่า Kruaya"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "คุ้มเวียงยอง"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "จินเจอร์ฟาร์มคิทเช่น"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "นาซิจำปู๋"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "ร้าน เขียวไข่กา สาขาวันนิมมาน"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "ร้านเฮือนม่วนใจ๋"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "เฮือนใจ๋ยอง"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2565,
+      "chue_ran": "แกงร้อนบ้านสวน"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2566,
+      "chue_ran": "Hello Solao ฮัลโหล โซลาว สาขา ถ.คลองชลประทาน"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2566,
+      "chue_ran": "Parc Thai Eatery"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2566,
+      "chue_ran": "The View Bar"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2566,
+      "chue_ran": "กินดีมีสุข เชียงใหม่"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2566,
+      "chue_ran": "กิ่งไกร"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2566,
+      "chue_ran": "ครัวอาจารย์สายหยุดและหมอทราย"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2567,
+      "chue_ran": "กินปูดูนา คอฟฟี่แอนด์ซีฟู้ด"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2567,
+      "chue_ran": "บ้านนา Barn Na Organic Farm & Halal Food"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2567,
+      "chue_ran": "ร้านก๋วยเตี๋ยวคำหวาน (สาขาทุ่งโฮเต็ล)"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2567,
+      "chue_ran": "ร้านครัวคำหวาน สาขาสันผีเสื้อ"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2567,
+      "chue_ran": "ร้านมล่าวเมลา"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2568,
+      "chue_ran": "The View Village Chiang Mai"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2568,
+      "chue_ran": "ครัวอาจารย์สายหยุดและหมอทราย"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2568,
+      "chue_ran": "ชม คาเฟ่ แอนด์ เรสเทอรองท์"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2568,
+      "chue_ran": "บ้านลันได แม่ริม"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2568,
+      "chue_ran": "ร้านเขียวไข่กา เชียงใหม่ วัน นิมมาน"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2568,
+      "chue_ran": "เรือนรักษ์ไทย"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2568,
+      "chue_ran": "เฮือนใจ๋ยอง"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "คำปอย CNX"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "จินเจอร์ฟาร์มคิทเช่น สาขานิมมาน"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "ช้อนพูน"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "ฤดูกาล"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "สามเสนวิลล่า สาขาเชียงใหม่"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "อิงปิง"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "เอกฉันท์"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "แหลมเจริญซีฟู้ด สาขาเซ็นทรัล เฟสติวัล เชียงใหม่"
+    },
+    {
+      "pi_thi_dai_rap_rongrong": 2569,
+      "chue_ran": "แหลมเจริญซีฟู้ด สาขาเซ็นทรัลเชียงใหม่แอร์พอร์ต"
+    }
+  ],
+  "meta": {
+    "title": "ร้านอาหารที่ได้รับตรามาตรฐาน Thai SELECT จังหวัดเชียงใหม่ (2563–2569) - ดาวน์โหลดฟรี",
+    "description": "รายชื่อร้านอาหารและภัตตาคารในจังหวัดเชียงใหม่ที่ได้รับการรับรองมาตรฐานอาหารไทย Thai SELECT (กรมส่งเสริมการค้าระหว่างประเทศ) จำแนกตามปีที่ได้รับการรับรอง พ.ศ. 2563–2569 จากสำนักงานจังหวัดเชียงใหม่ มีทั้งหมด 40 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ร้านอาหารที่ได้รับตรามาตรฐาน Thai SELECT จังหวัดเชียงใหม่ (2563–2569) | ListBase",
+    "seo_description": "ดาวน์โหลด ร้านอาหารที่ได้รับตรามาตรฐาน Thai SELECT จังหวัดเชียงใหม่ (2563–2569) — 40 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 40 รายการ / 2 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://data.go.th/dataset/_67_69"
+    ]
+  }
+}

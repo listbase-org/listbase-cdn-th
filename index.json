@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-16T02:25:01.600Z",
-  "total_datasets": 815,
-  "total_records": 283726,
+  "generated": "2026-11-16T02:25:13.656Z",
+  "total_datasets": 816,
+  "total_records": 283766,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1906,6 +1906,29 @@
         "xlsx": {
           "name": "th-ran-ahan-michelin_TH.xlsx",
           "size": 150643
+        }
+      }
+    },
+    {
+      "id": "th-ran-ahan-thai-select-chiang-mai",
+      "name": "ร้านอาหารที่ได้รับตรามาตรฐาน Thai SELECT จังหวัดเชียงใหม่ (2563–2569)",
+      "category": "food",
+      "record_count": 40,
+      "columns": [
+        "pi_thi_dai_rap_rongrong",
+        "chue_ran"
+      ],
+      "source": "https://data.go.th/dataset/_67_69",
+      "updated": "2026-11",
+      "size": 8227,
+      "files": {
+        "csv": {
+          "name": "th-ran-ahan-thai-select-chiang-mai_TH.csv",
+          "size": 2724
+        },
+        "xlsx": {
+          "name": "th-ran-ahan-thai-select-chiang-mai_TH.xlsx",
+          "size": 7961
         }
       }
     },
