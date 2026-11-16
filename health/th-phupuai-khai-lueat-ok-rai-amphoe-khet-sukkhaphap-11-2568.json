@@ -1,0 +1,538 @@
+{
+  "id": "th-phupuai-khai-lueat-ok-rai-amphoe-khet-sukkhaphap-11-2568",
+  "name": "จำนวนผู้ป่วยและผู้เสียชีวิตโรคไข้เลือดออกรายอำเภอ เขตสุขภาพที่ 11 ปี 2568",
+  "title": "จำนวนผู้ป่วยและผู้เสียชีวิตโรคไข้เลือดออกรายอำเภอ เขตสุขภาพที่ 11 ปี 2568",
+  "description": "ผลรวมจำนวนผู้ป่วยและผู้เสียชีวิตด้วยโรคไข้เลือดออกตลอดปี 2568 (สัปดาห์ที่ 1–53) รายอำเภอในจังหวัดเขตสุขภาพที่ 11 (นครศรีธรรมราช กระบี่ พังงา ภูเก็ต สุราษฎร์ธานี ระนอง ชุมพร) จากรายงานสถานการณ์โรคไข้เลือดออก กรมควบคุมโรค",
+  "category": "health",
+  "source": "https://data.go.th/dataset/gdpublish-ddc11dengue",
+  "source_url": "https://data.go.th/dataset/gdpublish-ddc11dengue",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "amphoe",
+      "label": "Amphoe",
+      "type": "string"
+    },
+    {
+      "key": "phupuai",
+      "label": "Phupuai",
+      "type": "number"
+    },
+    {
+      "key": "phusiachiwit",
+      "label": "Phusiachiwit",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "changwat": "กระบี่",
+      "amphoe": "กระบี่",
+      "phupuai": 452,
+      "phusiachiwit": 1
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "คลองท่อม",
+      "phupuai": 47,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "ปลายพระยา",
+      "phupuai": 18,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "ลำทับ",
+      "phupuai": 4,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "อ่าวลึก",
+      "phupuai": 18,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "เกาะลันตา",
+      "phupuai": 28,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "เขาพนม",
+      "phupuai": 86,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "เมืองกระบี่",
+      "phupuai": 658,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "กระบี่",
+      "amphoe": "เหนือคลอง",
+      "phupuai": 44,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "ชุมพร",
+      "phupuai": 173,
+      "phusiachiwit": 1
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "ทุ่งตะโก",
+      "phupuai": 12,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "ท่าแซะ",
+      "phupuai": 94,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "ปะทิว",
+      "phupuai": 44,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "พะโต๊ะ",
+      "phupuai": 46,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "ละแม",
+      "phupuai": 10,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "สวี",
+      "phupuai": 26,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "หลังสวน",
+      "phupuai": 16,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ชุมพร",
+      "amphoe": "เมืองชุมพร",
+      "phupuai": 98,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ขนอม",
+      "phupuai": 59,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "จุฬาภรณ์",
+      "phupuai": 62,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ฉวาง",
+      "phupuai": 9,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ชะอวด",
+      "phupuai": 64,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ช้างกลาง",
+      "phupuai": 24,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ถ้ำพรรณรา",
+      "phupuai": 10,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ทุ่งสง",
+      "phupuai": 114,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ทุ่งใหญ่",
+      "phupuai": 34,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ท่าศาลา",
+      "phupuai": 72,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "นครศรีธรรมราช",
+      "phupuai": 755,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "นบพิตำ",
+      "phupuai": 24,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "นาบอน",
+      "phupuai": 82,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "บางขัน",
+      "phupuai": 50,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ปากพนัง",
+      "phupuai": 118,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "พรหมคีรี",
+      "phupuai": 16,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "พระพรหม",
+      "phupuai": 64,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "พิปูน",
+      "phupuai": 56,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ร่อนพิบูลย์",
+      "phupuai": 42,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "ลานสกา",
+      "phupuai": 34,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "สิชล",
+      "phupuai": 48,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "หัวไทร",
+      "phupuai": 34,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "เฉลิมพระเกียรติ",
+      "phupuai": 62,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "เชียรใหญ่",
+      "phupuai": 32,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "นครศรีธรรมราช",
+      "amphoe": "เมืองนครศรีธรรมราช",
+      "phupuai": 398,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "กะปง",
+      "phupuai": 32,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "คุระบุรี",
+      "phupuai": 42,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "ตะกั่วทุ่ง",
+      "phupuai": 42,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "ตะกั่วป่า",
+      "phupuai": 70,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "ทับปุด",
+      "phupuai": 124,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "ท้ายเหมือง",
+      "phupuai": 110,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "พังงา",
+      "phupuai": 226,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "เกาะยาว",
+      "phupuai": 18,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "พังงา",
+      "amphoe": "เมืองพังงา",
+      "phupuai": 14,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ภูเก็ต",
+      "amphoe": "กะทู้",
+      "phupuai": 464,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "ภูเก็ต",
+      "amphoe": "ถลาง",
+      "phupuai": 676,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ภูเก็ต",
+      "amphoe": "ภูเก็ต",
+      "phupuai": 1546,
+      "phusiachiwit": 1
+    },
+    {
+      "changwat": "ภูเก็ต",
+      "amphoe": "เมืองภูเก็ต",
+      "phupuai": 1952,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ระนอง",
+      "amphoe": "กระบุรี",
+      "phupuai": 28,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ระนอง",
+      "amphoe": "กะเปอร์",
+      "phupuai": 4,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ระนอง",
+      "amphoe": "ระนอง",
+      "phupuai": 72,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ระนอง",
+      "amphoe": "ละอุ่น",
+      "phupuai": 6,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ระนอง",
+      "amphoe": "สุขสำราญ",
+      "phupuai": 12,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "ระนอง",
+      "amphoe": "เมืองระนอง",
+      "phupuai": 94,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "กาญจนดิษฐ์",
+      "phupuai": 340,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "คีรีรัฐนิคม",
+      "phupuai": 90,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "ชัยบุรี",
+      "phupuai": 34,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "ดอนสัก",
+      "phupuai": 46,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "ท่าฉาง",
+      "phupuai": 116,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "ท่าชนะ",
+      "phupuai": 138,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "บ้านขุนตาล",
+      "phupuai": 39,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "บ้านตาขุน",
+      "phupuai": 39,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "บ้านนาสาร",
+      "phupuai": 134,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "บ้านนาเดิม",
+      "phupuai": 50,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "พนม",
+      "phupuai": 180,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "พระแสง",
+      "phupuai": 156,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "พุนพิน",
+      "phupuai": 272,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "วิภาวดี",
+      "phupuai": 84,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "สุราษฎร์ธานี",
+      "phupuai": 2009,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "เกาะพะงัน",
+      "phupuai": 655,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "เกาะสมุย",
+      "phupuai": 582,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "เคียนซา",
+      "phupuai": 82,
+      "phusiachiwit": 2
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "เมืองสุราษฎร์ธานี",
+      "phupuai": 669,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "เวียงสระ",
+      "phupuai": 142,
+      "phusiachiwit": 0
+    },
+    {
+      "changwat": "สุราษฎร์ธานี",
+      "amphoe": "ไชยา",
+      "phupuai": 159,
+      "phusiachiwit": 0
+    }
+  ],
+  "meta": {
+    "title": "จำนวนผู้ป่วยและผู้เสียชีวิตโรคไข้เลือดออกรายอำเภอ เขตสุขภาพที่ 11 ปี 2568 - ดาวน์โหลดฟรี",
+    "description": "ผลรวมจำนวนผู้ป่วยและผู้เสียชีวิตด้วยโรคไข้เลือดออกตลอดปี 2568 (สัปดาห์ที่ 1–53) รายอำเภอในจังหวัดเขตสุขภาพที่ 11 (นครศรีธรรมราช กระบี่ พังงา ภูเก็ต สุราษฎร์ธานี ระนอง ชุมพร) จากรายงานสถานการณ์โรคไข้เลือดออก กรมควบคุมโรค มีทั้งหมด 82 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "จำนวนผู้ป่วยและผู้เสียชีวิตโรคไข้เลือดออกรายอำเภอ เขตสุขภาพที่ 11 ปี 2568 | ListBase",
+    "seo_description": "ดาวน์โหลด จำนวนผู้ป่วยและผู้เสียชีวิตโรคไข้เลือดออกรายอำเภอ เขตสุขภาพที่ 11 ปี 2568 — 82 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 82 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://data.go.th/dataset/gdpublish-ddc11dengue"
+    ]
+  }
+}

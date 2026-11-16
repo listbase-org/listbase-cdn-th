@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-16T02:24:47.904Z",
-  "total_datasets": 814,
-  "total_records": 283644,
+  "generated": "2026-11-16T02:25:01.600Z",
+  "total_datasets": 815,
+  "total_records": 283726,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -7995,6 +7995,31 @@
         "xlsx": {
           "name": "th-medical-schools_TH.xlsx",
           "size": 8676
+        }
+      }
+    },
+    {
+      "id": "th-phupuai-khai-lueat-ok-rai-amphoe-khet-sukkhaphap-11-2568",
+      "name": "จำนวนผู้ป่วยและผู้เสียชีวิตโรคไข้เลือดออกรายอำเภอ เขตสุขภาพที่ 11 ปี 2568",
+      "category": "health",
+      "record_count": 82,
+      "columns": [
+        "changwat",
+        "amphoe",
+        "phupuai",
+        "phusiachiwit"
+      ],
+      "source": "https://data.go.th/dataset/gdpublish-ddc11dengue",
+      "updated": "2026-11",
+      "size": 15960,
+      "files": {
+        "csv": {
+          "name": "th-phupuai-khai-lueat-ok-rai-amphoe-khet-sukkhaphap-11-2568_TH.csv",
+          "size": 5443
+        },
+        "xlsx": {
+          "name": "th-phupuai-khai-lueat-ok-rai-amphoe-khet-sukkhaphap-11-2568_TH.xlsx",
+          "size": 9003
         }
       }
     },
