@@ -1,12 +1,12 @@
 {
   "lang": "th",
-  "generated": "2026-11-16T02:25:26.621Z",
-  "total_datasets": 817,
-  "total_records": 283779,
+  "generated": "2026-11-17T02:19:53.236Z",
+  "total_datasets": 818,
+  "total_records": 283881,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "business",
@@ -208,6 +208,33 @@
         "xlsx": {
           "name": "th-phonphalit-sinkha-kaset-samkhan-2567-2568_TH.xlsx",
           "size": 7645
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-kaset-lae-sahakon",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ของไทย",
+      "category": "agriculture",
+      "record_count": 102,
+      "columns": [
+        "lamdap",
+        "ratthamontri",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara",
+        "tamnaeng"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ของไทย",
+      "updated": "2026-11",
+      "size": 47863,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-kaset-lae-sahakon_TH.csv",
+          "size": 29785
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-kaset-lae-sahakon_TH.xlsx",
+          "size": 12683
         }
       }
     },
