@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-17T02:20:09.787Z",
-  "total_datasets": 819,
-  "total_records": 283897,
+  "generated": "2026-11-17T02:20:25.368Z",
+  "total_datasets": 820,
+  "total_records": 283995,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -875,6 +875,33 @@
         "xlsx": {
           "name": "th-mahawitthayalai_TH.xlsx",
           "size": 10691
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-sueksathikan",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงศึกษาธิการของไทย",
+      "category": "education",
+      "record_count": 98,
+      "columns": [
+        "lamdap",
+        "ratthamontri",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara",
+        "tamnaeng"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงศึกษาธิการของไทย",
+      "updated": "2026-11",
+      "size": 46773,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-sueksathikan_TH.csv",
+          "size": 29498
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-sueksathikan_TH.xlsx",
+          "size": 12289
         }
       }
     },
