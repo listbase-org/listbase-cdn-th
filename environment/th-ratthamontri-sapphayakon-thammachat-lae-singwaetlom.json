@@ -1,0 +1,163 @@
+{
+  "id": "th-ratthamontri-sapphayakon-thammachat-lae-singwaetlom",
+  "name": "รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย",
+  "title": "รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย",
+  "description": "รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2545 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง",
+  "category": "environment",
+  "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "ratthamontri",
+      "label": "Ratthamontri",
+      "type": "string"
+    },
+    {
+      "key": "khana_ratthamontri",
+      "label": "Khana Ratthamontri",
+      "type": "number"
+    },
+    {
+      "key": "roem_wara",
+      "label": "Roem Wara",
+      "type": "string"
+    },
+    {
+      "key": "sinsut_wara",
+      "label": "Sinsut Wara",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": "1",
+      "ratthamontri": "ประพัฒน์ ปัญญาชาติรักษ์",
+      "khana_ratthamontri": "54",
+      "roem_wara": "3 ตุลาคม พ.ศ. 2545",
+      "sinsut_wara": "10 มีนาคม พ.ศ. 2547"
+    },
+    {
+      "lamdap": "2 (1)",
+      "ratthamontri": "สุวิทย์ คุณกิตติ",
+      "khana_ratthamontri": "54",
+      "roem_wara": "10 มีนาคม พ.ศ. 2547",
+      "sinsut_wara": "11 มีนาคม พ.ศ. 2548"
+    },
+    {
+      "lamdap": "3",
+      "ratthamontri": "ยงยุทธ ติยะไพรัช",
+      "khana_ratthamontri": "55",
+      "roem_wara": "11 มีนาคม พ.ศ. 2548",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2549"
+    },
+    {
+      "lamdap": "4",
+      "ratthamontri": "เกษม สนิทวงศ์ ณ อยุธยา",
+      "khana_ratthamontri": "56",
+      "roem_wara": "9 ตุลาคม พ.ศ. 2549",
+      "sinsut_wara": "6 กุมภาพันธ์ พ.ศ. 2551"
+    },
+    {
+      "lamdap": "5 (1,2)",
+      "ratthamontri": "อนงค์วรรณ เทพสุทิน",
+      "khana_ratthamontri": "57",
+      "roem_wara": "6 กุมภาพันธ์ พ.ศ. 2551",
+      "sinsut_wara": "9 กันยายน พ.ศ. 2551"
+    },
+    {
+      "lamdap": "5 (1,2)",
+      "ratthamontri": "อนงค์วรรณ เทพสุทิน",
+      "khana_ratthamontri": "58",
+      "roem_wara": "9 กันยายน พ.ศ. 2551",
+      "sinsut_wara": "2 ธันวาคม พ.ศ. 2551"
+    },
+    {
+      "lamdap": "2 (2)",
+      "ratthamontri": "สุวิทย์ คุณกิตติ",
+      "khana_ratthamontri": "59",
+      "roem_wara": "20 ธันวาคม พ.ศ. 2551",
+      "sinsut_wara": "8 สิงหาคม พ.ศ. 2554"
+    },
+    {
+      "lamdap": "6",
+      "ratthamontri": "ปรีชา เร่งสมบูรณ์สุข",
+      "khana_ratthamontri": "60",
+      "roem_wara": "9 สิงหาคม พ.ศ. 2554",
+      "sinsut_wara": "30 มิถุนายน พ.ศ. 2556"
+    },
+    {
+      "lamdap": "7",
+      "ratthamontri": "วิเชษฐ์ เกษมทองศรี",
+      "khana_ratthamontri": "60",
+      "roem_wara": "30 มิถุนายน พ.ศ. 2556",
+      "sinsut_wara": "22 พฤษภาคม พ.ศ. 2557"
+    },
+    {
+      "lamdap": "8",
+      "ratthamontri": "พลเอก ดาว์พงษ์ รัตนสุวรรณ",
+      "khana_ratthamontri": "61",
+      "roem_wara": "30 สิงหาคม พ.ศ. 2557",
+      "sinsut_wara": "19 สิงหาคม พ.ศ. 2558"
+    },
+    {
+      "lamdap": "9",
+      "ratthamontri": "สุรศักดิ์ กาญจนรัตน์",
+      "khana_ratthamontri": "61",
+      "roem_wara": "19 สิงหาคม พ.ศ. 2558",
+      "sinsut_wara": "8 พฤษภาคม พ.ศ. 2562"
+    },
+    {
+      "lamdap": "10",
+      "ratthamontri": "วราวุธ ศิลปอาชา",
+      "khana_ratthamontri": "62",
+      "roem_wara": "10 กรกฎาคม พ.ศ. 2562",
+      "sinsut_wara": "1 กันยายน พ.ศ. 2566"
+    },
+    {
+      "lamdap": "11",
+      "ratthamontri": "พลตำรวจเอก พัชรวาท วงษ์สุวรรณ",
+      "khana_ratthamontri": "63",
+      "roem_wara": "1 กันยายน พ.ศ. 2566",
+      "sinsut_wara": "3 กันยายน พ.ศ. 2567"
+    },
+    {
+      "lamdap": "12",
+      "ratthamontri": "เฉลิมชัย ศรีอ่อน",
+      "khana_ratthamontri": "64",
+      "roem_wara": "3 กันยายน พ.ศ. 2567",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2568"
+    },
+    {
+      "lamdap": "13 (1,2)",
+      "ratthamontri": "สุชาติ ชมกลิ่น",
+      "khana_ratthamontri": "65",
+      "roem_wara": "19 กันยายน พ.ศ. 2568",
+      "sinsut_wara": "30 มีนาคม พ.ศ. 2569"
+    },
+    {
+      "lamdap": "13 (1,2)",
+      "ratthamontri": "สุชาติ ชมกลิ่น",
+      "khana_ratthamontri": "66",
+      "roem_wara": "30 มีนาคม พ.ศ. 2569",
+      "sinsut_wara": "อยู่ในวาระ"
+    }
+  ],
+  "meta": {
+    "title": "รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย - ดาวน์โหลดฟรี",
+    "description": "รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2545 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง มีทั้งหมด 16 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย — 16 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 16 รายการ / 5 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย"
+    ]
+  }
+}

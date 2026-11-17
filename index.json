@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-17T02:19:53.236Z",
-  "total_datasets": 818,
-  "total_records": 283881,
+  "generated": "2026-11-17T02:20:09.787Z",
+  "total_datasets": 819,
+  "total_records": 283897,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1217,6 +1217,32 @@
         "xlsx": {
           "name": "th-provincial-auspicious-trees_TH.xlsx",
           "size": 10628
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-sapphayakon-thammachat-lae-singwaetlom",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย",
+      "category": "environment",
+      "record_count": 16,
+      "columns": [
+        "lamdap",
+        "ratthamontri",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมของไทย",
+      "updated": "2026-11",
+      "size": 8128,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-sapphayakon-thammachat-lae-singwaetlom_TH.csv",
+          "size": 2452
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-sapphayakon-thammachat-lae-singwaetlom_TH.xlsx",
+          "size": 7820
         }
       }
     },
