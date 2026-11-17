@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-17T02:20:25.368Z",
-  "total_datasets": 820,
-  "total_records": 283995,
+  "generated": "2026-11-17T02:20:37.068Z",
+  "total_datasets": 821,
+  "total_records": 284092,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "math",
@@ -8837,6 +8837,33 @@
         "xlsx": {
           "name": "th-prathan-san-dika_TH.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-yuttitham",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงยุติธรรมของไทย",
+      "category": "law",
+      "record_count": 97,
+      "columns": [
+        "lamdap",
+        "ratthamontri",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara",
+        "tamnaeng"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงยุติธรรมของไทย",
+      "updated": "2026-11",
+      "size": 44126,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-yuttitham_TH.csv",
+          "size": 27222
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-yuttitham_TH.xlsx",
+          "size": 12203
         }
       }
     },
