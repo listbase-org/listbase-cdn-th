@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-18T02:20:30.221Z",
-  "total_datasets": 822,
-  "total_records": 284191,
+  "generated": "2026-11-18T02:20:42.931Z",
+  "total_datasets": 823,
+  "total_records": 284213,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -23110,6 +23110,32 @@
         "xlsx": {
           "name": "th-prachakon-thai-raipi-thabian-rat_TH.xlsx",
           "size": 7144
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-phatthana-sangkhom",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย",
+      "category": "society",
+      "record_count": 22,
+      "columns": [
+        "lamdap",
+        "ratthamontri",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย",
+      "updated": "2026-11",
+      "size": 10238,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-phatthana-sangkhom_TH.csv",
+          "size": 3698
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-phatthana-sangkhom_TH.xlsx",
+          "size": 8164
         }
       }
     },

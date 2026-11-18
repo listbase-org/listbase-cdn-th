@@ -1,0 +1,205 @@
+{
+  "id": "th-ratthamontri-phatthana-sangkhom",
+  "name": "รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย",
+  "title": "รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย",
+  "description": "รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2545 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง",
+  "category": "society",
+  "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "ratthamontri",
+      "label": "Ratthamontri",
+      "type": "string"
+    },
+    {
+      "key": "khana_ratthamontri",
+      "label": "Khana Ratthamontri",
+      "type": "number"
+    },
+    {
+      "key": "roem_wara",
+      "label": "Roem Wara",
+      "type": "string"
+    },
+    {
+      "key": "sinsut_wara",
+      "label": "Sinsut Wara",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": "1",
+      "ratthamontri": "อนุรักษ์ จุรีมาศ",
+      "khana_ratthamontri": "54",
+      "roem_wara": "3 ตุลาคม พ.ศ. 2545",
+      "sinsut_wara": "8 พฤศจิกายน พ.ศ. 2546"
+    },
+    {
+      "lamdap": "2",
+      "ratthamontri": "สรอรรถ กลิ่นประทุม",
+      "khana_ratthamontri": "54",
+      "roem_wara": "8 พฤศจิกายน พ.ศ. 2546",
+      "sinsut_wara": "11 มีนาคม พ.ศ. 2548"
+    },
+    {
+      "lamdap": "3",
+      "ratthamontri": "ประชา มาลีนนท์",
+      "khana_ratthamontri": "55",
+      "roem_wara": "11 มีนาคม พ.ศ. 2548",
+      "sinsut_wara": "2 สิงหาคม พ.ศ. 2548"
+    },
+    {
+      "lamdap": "4",
+      "ratthamontri": "วัฒนา เมืองสุข",
+      "khana_ratthamontri": "55",
+      "roem_wara": "2 สิงหาคม พ.ศ. 2548",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2549"
+    },
+    {
+      "lamdap": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "ratthamontri": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "khana_ratthamontri": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "roem_wara": "19 กันยายน พ.ศ. 2549",
+      "sinsut_wara": "1 ตุลาคม พ.ศ. 2549"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "ไพบูลย์ วัฒนศิริธรรม",
+      "khana_ratthamontri": "56",
+      "roem_wara": "9 ตุลาคม พ.ศ. 2549",
+      "sinsut_wara": "6 กุมภาพันธ์ พ.ศ. 2551"
+    },
+    {
+      "lamdap": "6",
+      "ratthamontri": "สุธา ชันแสง",
+      "khana_ratthamontri": "57",
+      "roem_wara": "6 กุมภาพันธ์ พ.ศ. 2551",
+      "sinsut_wara": "8 พฤษภาคม พ.ศ. 2551"
+    },
+    {
+      "lamdap": "7",
+      "ratthamontri": "ชวรัตน์ ชาญวีรกูล",
+      "khana_ratthamontri": "57",
+      "roem_wara": "23 พฤษภาคม พ.ศ. 2551",
+      "sinsut_wara": "2 สิงหาคม พ.ศ. 2551"
+    },
+    {
+      "lamdap": "8",
+      "ratthamontri": "อนุสรณ์ วงศ์วรรณ",
+      "khana_ratthamontri": "57",
+      "roem_wara": "2 สิงหาคม พ.ศ. 2551",
+      "sinsut_wara": "9 กันยายน พ.ศ. 2551"
+    },
+    {
+      "lamdap": "9",
+      "ratthamontri": "อุดมเดช รัตนเสถียร",
+      "khana_ratthamontri": "58",
+      "roem_wara": "24 กันยายน พ.ศ. 2551",
+      "sinsut_wara": "2 ธันวาคม พ.ศ. 2551"
+    },
+    {
+      "lamdap": "10",
+      "ratthamontri": "วิฑูรย์ นามบุตร",
+      "khana_ratthamontri": "59",
+      "roem_wara": "20 ธันวาคม พ.ศ. 2551",
+      "sinsut_wara": "3 กุมภาพันธ์ พ.ศ. 2552"
+    },
+    {
+      "lamdap": "11",
+      "ratthamontri": "อิสสระ สมชัย",
+      "khana_ratthamontri": "59",
+      "roem_wara": "10 กุมภาพันธ์ พ.ศ. 2552",
+      "sinsut_wara": "9 สิงหาคม พ.ศ. 2554"
+    },
+    {
+      "lamdap": "12",
+      "ratthamontri": "สันติ พร้อมพัฒน์",
+      "khana_ratthamontri": "60",
+      "roem_wara": "9 สิงหาคม พ.ศ. 2554",
+      "sinsut_wara": "30 มิถุนายน พ.ศ. 2556"
+    },
+    {
+      "lamdap": "13",
+      "ratthamontri": "ปวีณา หงสกุล",
+      "khana_ratthamontri": "60",
+      "roem_wara": "30 มิถุนายน พ.ศ. 2556",
+      "sinsut_wara": "22 พฤษภาคม พ.ศ. 2557"
+    },
+    {
+      "lamdap": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "ratthamontri": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "khana_ratthamontri": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "roem_wara": "22 พฤษภาคม พ.ศ. 2557",
+      "sinsut_wara": "30 สิงหาคม พ.ศ. 2557"
+    },
+    {
+      "lamdap": "14",
+      "ratthamontri": "พลตำรวจเอก อดุลย์ แสงสิงแก้ว",
+      "khana_ratthamontri": "61",
+      "roem_wara": "30 สิงหาคม พ.ศ. 2557",
+      "sinsut_wara": "23 พฤศจิกายน พ.ศ. 2560"
+    },
+    {
+      "lamdap": "15",
+      "ratthamontri": "พลเอก อนันตพร กาญจนรัตน์",
+      "khana_ratthamontri": "61",
+      "roem_wara": "23 พฤศจิกายน พ.ศ. 2560",
+      "sinsut_wara": "8 พฤษภาคม พ.ศ. 2562"
+    },
+    {
+      "lamdap": "16",
+      "ratthamontri": "จุติ ไกรฤกษ์",
+      "khana_ratthamontri": "62",
+      "roem_wara": "10 กรกฎาคม พ.ศ. 2562",
+      "sinsut_wara": "1 กันยายน พ.ศ. 2566"
+    },
+    {
+      "lamdap": "17 (1,2)",
+      "ratthamontri": "วราวุธ ศิลปอาชา",
+      "khana_ratthamontri": "63",
+      "roem_wara": "1 กันยายน พ.ศ. 2566",
+      "sinsut_wara": "3 กันยายน พ.ศ. 2567"
+    },
+    {
+      "lamdap": "17 (1,2)",
+      "ratthamontri": "วราวุธ ศิลปอาชา",
+      "khana_ratthamontri": "64",
+      "roem_wara": "3 กันยายน พ.ศ. 2567",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2568"
+    },
+    {
+      "lamdap": "18",
+      "ratthamontri": "อัครา พรหมเผ่า",
+      "khana_ratthamontri": "65",
+      "roem_wara": "19 กันยายน พ.ศ. 2568",
+      "sinsut_wara": "30 มีนาคม พ.ศ. 2569"
+    },
+    {
+      "lamdap": "19",
+      "ratthamontri": "นิกร โสมกลาง",
+      "khana_ratthamontri": "66",
+      "roem_wara": "30 มีนาคม พ.ศ. 2569",
+      "sinsut_wara": "ปัจจุบัน"
+    }
+  ],
+  "meta": {
+    "title": "รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย - ดาวน์โหลดฟรี",
+    "description": "รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2545 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง มีทั้งหมด 22 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายนามรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย — 22 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 22 รายการ / 5 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ของไทย"
+    ]
+  }
+}
