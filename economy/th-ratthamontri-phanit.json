@@ -1,0 +1,848 @@
+{
+  "id": "th-ratthamontri-phanit",
+  "name": "รายนามรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย",
+  "title": "รายนามรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย",
+  "description": "รายนามเสนาบดีและรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทยจนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง",
+  "category": "economy",
+  "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย",
+  "updated": "2026-11",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "ratthamontri",
+      "label": "Ratthamontri",
+      "type": "string"
+    },
+    {
+      "key": "khana_ratthamontri",
+      "label": "Khana Ratthamontri",
+      "type": "number"
+    },
+    {
+      "key": "roem_wara",
+      "label": "Roem Wara",
+      "type": "string"
+    },
+    {
+      "key": "sinsut_wara",
+      "label": "Sinsut Wara",
+      "type": "string"
+    },
+    {
+      "key": "tamnaeng",
+      "label": "Tamnaeng",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": "1",
+      "ratthamontri": "นายพลตรี พระเจ้าพี่ยาเธอ กรมพระจันทบุรีนฤนาถ",
+      "khana_ratthamontri": "",
+      "roem_wara": "20 สิงหาคม พ.ศ. 2463",
+      "sinsut_wara": "15 พฤษภาคม พ.ศ. 2469",
+      "tamnaeng": "ก่อนเปลี่ยนแปลงการปกครอง"
+    },
+    {
+      "lamdap": "2",
+      "ratthamontri": "นายพลเอก พระเจ้าพี่ยาเธอ กรมหลวงกำแพงเพชรอัครโยธิน",
+      "khana_ratthamontri": "",
+      "roem_wara": "15 พฤษภาคม พ.ศ. 2469",
+      "sinsut_wara": "10 ธันวาคม พ.ศ. 2475",
+      "tamnaeng": "ก่อนเปลี่ยนแปลงการปกครอง"
+    },
+    {
+      "lamdap": "1",
+      "ratthamontri": "เจ้าพระยาวงษานุประพัทธ์ (หม่อมราชวงศ์สท้าน สนิทวงศ์)",
+      "khana_ratthamontri": "2",
+      "roem_wara": "10 ธันวาคม พ.ศ. 2475",
+      "sinsut_wara": "1 เมษายน พ.ศ. 2476",
+      "tamnaeng": "กระทรวงเกษตรพาณิชยการ (2475 – 2476)"
+    },
+    {
+      "lamdap": "1",
+      "ratthamontri": "เจ้าพระยาวงษานุประพัทธ์ (หม่อมราชวงศ์สท้าน สนิทวงศ์)",
+      "khana_ratthamontri": "3",
+      "roem_wara": "1 เมษายน พ.ศ. 2476",
+      "sinsut_wara": "20 มิถุนายน พ.ศ. 2476",
+      "tamnaeng": "กระทรวงเกษตรพาณิชยการ (2475 – 2476)"
+    },
+    {
+      "lamdap": "2",
+      "ratthamontri": "พระยาโกมารกุลมนตรี (ชื่น โกมารกุล ณ นคร)",
+      "khana_ratthamontri": "4",
+      "roem_wara": "21 มิถุนายน พ.ศ. 2476",
+      "sinsut_wara": "16 ธันวาคม พ.ศ. 2476",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "2",
+      "ratthamontri": "พระยาโกมารกุลมนตรี (ชื่น โกมารกุล ณ นคร)",
+      "khana_ratthamontri": "5",
+      "roem_wara": "21 มิถุนายน พ.ศ. 2476",
+      "sinsut_wara": "29 มีนาคม พ.ศ. 2477",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "3",
+      "ratthamontri": "พระสารสาสน์พลขันธ์ (ลอง สุนทานนท์)",
+      "khana_ratthamontri": "5",
+      "roem_wara": "29 มีนาคม พ.ศ. 2477",
+      "sinsut_wara": "22 กันยายน พ.ศ. 2477",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "4",
+      "ratthamontri": "นายพลเรือตรี พระยาศรยุทธเสนี (กระแส ประวาหะนาวิน)",
+      "khana_ratthamontri": "6",
+      "roem_wara": "22 กันยายน พ.ศ. 2477",
+      "sinsut_wara": "12 กุมภาพันธ์ พ.ศ. 2478",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "นายพันเอก พระบริภัณฑ์ยุทธกิจ (เภา เพียรเลิศ)",
+      "khana_ratthamontri": "6",
+      "roem_wara": "12 กุมภาพันธ์ พ.ศ. 2478",
+      "sinsut_wara": "9 สิงหาคม พ.ศ. 2480",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "นายพันเอก พระบริภัณฑ์ยุทธกิจ (เภา เพียรเลิศ)",
+      "khana_ratthamontri": "7",
+      "roem_wara": "9 สิงหาคม พ.ศ. 2480",
+      "sinsut_wara": "21 ธันวาคม พ.ศ. 2480",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "นายพันเอก พระบริภัณฑ์ยุทธกิจ (เภา เพียรเลิศ)",
+      "khana_ratthamontri": "8",
+      "roem_wara": "21 ธันวาคม พ.ศ. 2480",
+      "sinsut_wara": "16 ธันวาคม พ.ศ. 2481",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "นายพันเอก พระบริภัณฑ์ยุทธกิจ (เภา เพียรเลิศ)",
+      "khana_ratthamontri": "9",
+      "roem_wara": "16 ธันวาคม พ.ศ. 2481",
+      "sinsut_wara": "19 สิงหาคม พ.ศ. 2484",
+      "tamnaeng": "กระทรวงเศรษฐการ (2476 – 2484)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "นายพลตรี พระบริภัณฑ์ยุทธกิจ (เภา เพียรเลิศ)",
+      "khana_ratthamontri": "9",
+      "roem_wara": "19 สิงหาคม พ.ศ. 2484",
+      "sinsut_wara": "16 กุมภาพันธ์ พ.ศ. 2485",
+      "tamnaeng": "กระทรวงเศรษฐกิจ (2484 – 2485)"
+    },
+    {
+      "lamdap": "6",
+      "ratthamontri": "นายพลเรือโท สินธุ์ กมลนาวิน",
+      "khana_ratthamontri": "9",
+      "roem_wara": "16 กุมภาพันธ์ พ.ศ. 2485",
+      "sinsut_wara": "6 มีนาคม พ.ศ. 2485",
+      "tamnaeng": "กระทรวงเศรษฐกิจ (2484 – 2485)"
+    },
+    {
+      "lamdap": "7",
+      "ratthamontri": "นายพลตรี จรูญ รัตนกุล เสรีเริงฤทธิ์",
+      "khana_ratthamontri": "10",
+      "roem_wara": "7 มีนาคม พ.ศ. 2485",
+      "sinsut_wara": "5 พฤษภาคม พ.ศ. 2485",
+      "tamnaeng": "กระทรวงเศรษฐกิจ (2484 – 2485)"
+    },
+    {
+      "lamdap": "7",
+      "ratthamontri": "นายพลตรี หลวงเสรีเริงฤทธิ์ (จรูญ รัตนกุล)",
+      "khana_ratthamontri": "10",
+      "roem_wara": "5 พฤษภาคม พ.ศ. 2485",
+      "sinsut_wara": "8 กันยายน พ.ศ. 2485",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "8 (1)",
+      "ratthamontri": "พันตรี ควง อภัยวงศ์",
+      "khana_ratthamontri": "10",
+      "roem_wara": "8 กันยายน พ.ศ. 2485",
+      "sinsut_wara": "17 กุมภาพันธ์ พ.ศ. 2486",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "9 (1)",
+      "ratthamontri": "หม่อมหลวงเดช สนิทวงศ์",
+      "khana_ratthamontri": "10",
+      "roem_wara": "17 กุมภาพันธ์ พ.ศ. 2486",
+      "sinsut_wara": "20 กันยายน พ.ศ. 2487",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "8 (2)",
+      "ratthamontri": "พันตรี ควง อภัยวงศ์ ​",
+      "khana_ratthamontri": "11",
+      "roem_wara": "10 มกราคม พ.ศ. 2488",
+      "sinsut_wara": "31 สิงหาคม พ.ศ. 2488",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "10",
+      "ratthamontri": "นาวาเอก หลวงศุภชลาศัย (บุง ศุภชลาศัย)",
+      "khana_ratthamontri": "12",
+      "roem_wara": "31 สิงหาคม พ.ศ. 2488",
+      "sinsut_wara": "17 กันยายน พ.ศ. 2488",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "11",
+      "ratthamontri": "หม่อมหลวงอุดม สนิทวงศ์",
+      "khana_ratthamontri": "13",
+      "roem_wara": "17 กันยายน พ.ศ. 2488",
+      "sinsut_wara": "31 มกราคม พ.ศ. 2489",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "12 (1)",
+      "ratthamontri": "พลอากาศตรี มุนี มหาสันทนะ เวชยันต์รังสฤษฎ์",
+      "khana_ratthamontri": "14",
+      "roem_wara": "31 มกราคม พ.ศ. 2489",
+      "sinsut_wara": "24 มีนาคม พ.ศ. 2489",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "13",
+      "ratthamontri": "หม่อมหลวงกรี เดชาติวงศ์",
+      "khana_ratthamontri": "15",
+      "roem_wara": "24 มีนาคม พ.ศ. 2489",
+      "sinsut_wara": "11 มิถุนายน พ.ศ. 2489",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "13",
+      "ratthamontri": "หม่อมหลวงกรี เดชาติวงศ์",
+      "khana_ratthamontri": "16",
+      "roem_wara": "11 มิถุนายน พ.ศ. 2489",
+      "sinsut_wara": "23 สิงหาคม พ.ศ. 2489",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "14",
+      "ratthamontri": "พันตรี วิลาศ โอสถานนท์",
+      "khana_ratthamontri": "17",
+      "roem_wara": "23 สิงหาคม พ.ศ. 2489",
+      "sinsut_wara": "30 พฤษภาคม พ.ศ. 2490",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "15",
+      "ratthamontri": "เดือน บุนนาค",
+      "khana_ratthamontri": "18",
+      "roem_wara": "30 พฤษภาคม พ.ศ. 2490",
+      "sinsut_wara": "8 พฤศจิกายน พ.ศ. 2490",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "9 (2)",
+      "ratthamontri": "หม่อมหลวงเดช สนิทวงศ์ ​",
+      "khana_ratthamontri": "19",
+      "roem_wara": "10 พฤศจิกายน พ.ศ. 2490",
+      "sinsut_wara": "21 กุมภาพันธ์ พ.ศ. 2491",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "12 (2)",
+      "ratthamontri": "พลอากาศตรี มุนี มหาสันทนะ เวชยันต์รังสฤษฎ์ ​",
+      "khana_ratthamontri": "20",
+      "roem_wara": "21 กุมภาพันธ์ พ.ศ. 2491",
+      "sinsut_wara": "8 เมษายน พ.ศ. 2491",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "16",
+      "ratthamontri": "พระยามไหสวรรย์ (กวย สมบัติศิริ)",
+      "khana_ratthamontri": "21",
+      "roem_wara": "8 เมษายน พ.ศ. 2491",
+      "sinsut_wara": "16 พฤศจิกายน พ.ศ. 2491",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "พลตรี เภา เพียรเลิศ บริภัณฑ์ยุทธกิจ ​",
+      "khana_ratthamontri": "21",
+      "roem_wara": "16 พฤศจิกายน พ.ศ. 2491",
+      "sinsut_wara": "25 มิถุนายน พ.ศ. 2492",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "พลตรี เภา เพียรเลิศ บริภัณฑ์ยุทธกิจ ​",
+      "khana_ratthamontri": "22",
+      "roem_wara": "25 มิถุนายน พ.ศ. 2492",
+      "sinsut_wara": "29 พฤศจิกายน พ.ศ. 2494",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "12 (3)",
+      "ratthamontri": "พลอากาศตรี มุนี มหาสันทนะ เวชยันตรังสฤษฏ์ ​",
+      "khana_ratthamontri": "23",
+      "roem_wara": "29 พฤศจิกายน พ.ศ. 2494",
+      "sinsut_wara": "6 ธันวาคม พ.ศ. 2494",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "17",
+      "ratthamontri": "พลตรี หลวงวิจิตรวาทการ (วิจิตร วิจิตรวาทการ)",
+      "khana_ratthamontri": "24",
+      "roem_wara": "6 ธันวาคม พ.ศ. 2494",
+      "sinsut_wara": "23 มีนาคม พ.ศ. 2495",
+      "tamnaeng": "กระทรวงพาณิชย์ (2485 – 2495)"
+    },
+    {
+      "lamdap": "18",
+      "ratthamontri": "พันเอก นายวรการบัญชา (บุญเกิด สุตันตานนท์)",
+      "khana_ratthamontri": "25",
+      "roem_wara": "24 มีนาคม พ.ศ. 2495",
+      "sinsut_wara": "4 กุมภาพันธ์ พ.ศ. 2497",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "19",
+      "ratthamontri": "จอมพล แปลก พิบูลสงคราม",
+      "khana_ratthamontri": "25",
+      "roem_wara": "4 กุมภาพันธ์ พ.ศ. 2497",
+      "sinsut_wara": "23 มีนาคม พ.ศ. 2497",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "20",
+      "ratthamontri": "พลตรี ศิริ สิริโยธิน",
+      "khana_ratthamontri": "25",
+      "roem_wara": "23 มีนาคม พ.ศ. 2497",
+      "sinsut_wara": "21 มีนาคม พ.ศ. 2500",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "5",
+      "ratthamontri": "พลเอก เภา เพียรเลิศ บริภัณฑ์ยุทธกิจ ​",
+      "khana_ratthamontri": "26",
+      "roem_wara": "21 มีนาคม พ.ศ. 2500",
+      "sinsut_wara": "16 กันยายน พ.ศ. 2500",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "21",
+      "ratthamontri": "นาย สุกิจ นิมมานเหมินท์",
+      "khana_ratthamontri": "27",
+      "roem_wara": "21 กันยายน พ.ศ. 2500",
+      "sinsut_wara": "1 มกราคม พ.ศ. 2501",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "21",
+      "ratthamontri": "นาย สุกิจ นิมมานเหมินท์",
+      "khana_ratthamontri": "28",
+      "roem_wara": "1 มกราคม พ.ศ. 2501",
+      "sinsut_wara": "20 ตุลาคม พ.ศ. 2501",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "22 (1)",
+      "ratthamontri": "สุนทร หงส์ลดารมภ์",
+      "khana_ratthamontri": "29",
+      "roem_wara": "9 กุมภาพันธ์ พ.ศ. 2502",
+      "sinsut_wara": "1 พฤษภาคม พ.ศ. 2502",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "23",
+      "ratthamontri": "เกษม ศรีพยัคฆ์",
+      "khana_ratthamontri": "29",
+      "roem_wara": "1 พฤษภาคม พ.ศ. 2502",
+      "sinsut_wara": "8 ธันวาคม พ.ศ. 2506",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "23",
+      "ratthamontri": "เกษม ศรีพยัคฆ์",
+      "khana_ratthamontri": "30",
+      "roem_wara": "9 ธันวาคม พ.ศ. 2506",
+      "sinsut_wara": "5 กรกฎาคม พ.ศ. 2508",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "22 (2)",
+      "ratthamontri": "สุนทร หงส์ลดารมภ์ ​",
+      "khana_ratthamontri": "30",
+      "roem_wara": "8 กรกฎาคม พ.ศ. 2508",
+      "sinsut_wara": "10 กุมภาพันธ์ พ.ศ. 2511",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "23",
+      "ratthamontri": "พจน์ สารสิน",
+      "khana_ratthamontri": "30",
+      "roem_wara": "10 กุมภาพันธ์ พ.ศ. 2511",
+      "sinsut_wara": "7 มีนาคม พ.ศ. 2512",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "24",
+      "ratthamontri": "บุญชนะ อัตถากร",
+      "khana_ratthamontri": "31",
+      "roem_wara": "9 มีนาคม พ.ศ. 2512",
+      "sinsut_wara": "17 พฤศจิกายน พ.ศ. 2514",
+      "tamnaeng": "กระทรวงเศรษฐการ (2495–2514)"
+    },
+    {
+      "lamdap": "25",
+      "ratthamontri": "ประสิทธิ์ กาญจนวัฒน์",
+      "khana_ratthamontri": "32",
+      "roem_wara": "18 ธันวาคม พ.ศ. 2515",
+      "sinsut_wara": "14 ตุลาคม พ.ศ. 2516",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "26",
+      "ratthamontri": "ชาญชัย ลี้ถาวร",
+      "khana_ratthamontri": "33",
+      "roem_wara": "14 ตุลาคม พ.ศ. 2516",
+      "sinsut_wara": "22 พฤษภาคม พ.ศ. 2517",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "27",
+      "ratthamontri": "วิจารณ์ นิวาตวงศ์",
+      "khana_ratthamontri": "34",
+      "roem_wara": "27 พฤษภาคม พ.ศ. 2517",
+      "sinsut_wara": "14 กุมภาพันธ์ พ.ศ. 2518",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "28",
+      "ratthamontri": "ดำรง ลัทธพิพัฒน์",
+      "khana_ratthamontri": "35",
+      "roem_wara": "15 กุมภาพันธ์ พ.ศ. 2518",
+      "sinsut_wara": "13 มีนาคม พ.ศ. 2518",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "29",
+      "ratthamontri": "ทองหยด จิตตวีระ",
+      "khana_ratthamontri": "36",
+      "roem_wara": "14 มีนาคม พ.ศ. 2518",
+      "sinsut_wara": "12 มกราคม พ.ศ. 2519",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "28",
+      "ratthamontri": "ดำรง ลัทธพิพัฒน์ ​",
+      "khana_ratthamontri": "36",
+      "roem_wara": "20 เมษายน พ.ศ. 2519",
+      "sinsut_wara": "20 เมษายน พ.ศ. 2519",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "28",
+      "ratthamontri": "ดำรง ลัทธพิพัฒน์ ​",
+      "khana_ratthamontri": "37",
+      "roem_wara": "20 เมษายน พ.ศ. 2519",
+      "sinsut_wara": "25 กันยายน พ.ศ. 2519",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "28",
+      "ratthamontri": "ดำรง ลัทธพิพัฒน์ ​",
+      "khana_ratthamontri": "38",
+      "roem_wara": "25 กันยายน พ.ศ. 2519",
+      "sinsut_wara": "6 ตุลาคม พ.ศ. 2519",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "30",
+      "ratthamontri": "สุธี นาทวรทัต",
+      "khana_ratthamontri": "39",
+      "roem_wara": "8 ตุลาคม พ.ศ. 2519",
+      "sinsut_wara": "19 ตุลาคม พ.ศ. 2520",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "31",
+      "ratthamontri": "นาม พูนวัตถุ",
+      "khana_ratthamontri": "40",
+      "roem_wara": "11 พฤศจิกายน พ.ศ. 2520",
+      "sinsut_wara": "21 ธันวาคม พ.ศ. 2521",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "32",
+      "ratthamontri": "อบ วสุรัตน์",
+      "khana_ratthamontri": "41",
+      "roem_wara": "12 พฤษภาคม พ.ศ. 2522",
+      "sinsut_wara": "3 มีนาคม พ.ศ. 2523",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "33",
+      "ratthamontri": "ตามใจ ขำภโต",
+      "khana_ratthamontri": "42",
+      "roem_wara": "3 มีนาคม พ.ศ. 2523",
+      "sinsut_wara": "22 มกราคม พ.ศ. 2524",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "34 (1)",
+      "ratthamontri": "นาวาอากาศตรี ปุณมี ปุณศรี",
+      "khana_ratthamontri": "42",
+      "roem_wara": "22 มกราคม พ.ศ. 2524",
+      "sinsut_wara": "4 มีนาคม พ.ศ. 2524",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "35",
+      "ratthamontri": "ชวน หลีกภัย",
+      "khana_ratthamontri": "42",
+      "roem_wara": "11 มีนาคม พ.ศ. 2524",
+      "sinsut_wara": "19 ธันวาคม พ.ศ. 2524",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "34 (2)",
+      "ratthamontri": "นาวาอากาศตรี ปุณมี ปุณศรี ​",
+      "khana_ratthamontri": "42",
+      "roem_wara": "19 ธันวาคม พ.ศ. 2524",
+      "sinsut_wara": "19 มีนาคม พ.ศ. 2526",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "36",
+      "ratthamontri": "โกศล ไกรฤกษ์",
+      "khana_ratthamontri": "43",
+      "roem_wara": "30 เมษายน พ.ศ. 2526",
+      "sinsut_wara": "15 มกราคม พ.ศ. 2529",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "37",
+      "ratthamontri": "ร้อยตำรวจเอก สุรัตน์ โอสถานุเคราะห์",
+      "khana_ratthamontri": "43",
+      "roem_wara": "15 มกราคม พ.ศ. 2529",
+      "sinsut_wara": "4 สิงหาคม พ.ศ. 2529",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "37",
+      "ratthamontri": "ร้อยตำรวจเอก สุรัตน์ โอสถานุเคราะห์",
+      "khana_ratthamontri": "44",
+      "roem_wara": "5 สิงหาคม พ.ศ. 2529",
+      "sinsut_wara": "6 พฤศจิกายน พ.ศ. 2529",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "38",
+      "ratthamontri": "มนตรี พงษ์พานิช",
+      "khana_ratthamontri": "44",
+      "roem_wara": "7 พฤศจิกายน พ.ศ. 2529",
+      "sinsut_wara": "4 สิงหาคม พ.ศ. 2531",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "39",
+      "ratthamontri": "สุบิน ปิ่นขยัน",
+      "khana_ratthamontri": "45",
+      "roem_wara": "4 สิงหาคม พ.ศ. 2531",
+      "sinsut_wara": "26 สิงหาคม พ.ศ. 2533",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "40 (1,2,3)",
+      "ratthamontri": "อมเรศ ศิลาอ่อน",
+      "khana_ratthamontri": "45",
+      "roem_wara": "26 สิงหาคม พ.ศ. 2533",
+      "sinsut_wara": "9 ธันวาคม พ.ศ. 2533",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "40 (1,2,3)",
+      "ratthamontri": "อมเรศ ศิลาอ่อน",
+      "khana_ratthamontri": "46",
+      "roem_wara": "9 ธันวาคม พ.ศ. 2533",
+      "sinsut_wara": "23 กุมภาพันธ์ พ.ศ. 2534",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "40 (1,2,3)",
+      "ratthamontri": "อมเรศ ศิลาอ่อน",
+      "khana_ratthamontri": "47",
+      "roem_wara": "23 กุมภาพันธ์ พ.ศ. 2534",
+      "sinsut_wara": "22 มีนาคม พ.ศ. 2535",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "41",
+      "ratthamontri": "อนุวรรตน์ วัฒนพงศ์ศิริ",
+      "khana_ratthamontri": "48",
+      "roem_wara": "7 เมษายน พ.ศ. 2535",
+      "sinsut_wara": "10 มิถุนายน พ.ศ. 2535",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "40 (4)",
+      "ratthamontri": "อมเรศ ศิลาอ่อน ​",
+      "khana_ratthamontri": "49",
+      "roem_wara": "10 มิถุนายน พ.ศ. 2535",
+      "sinsut_wara": "23 กันยายน พ.ศ. 2535",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "42",
+      "ratthamontri": "อุทัย พิมพ์ใจชน",
+      "khana_ratthamontri": "50",
+      "roem_wara": "23 กันยายน พ.ศ. 2535",
+      "sinsut_wara": "12 กรกฎาคม พ.ศ. 2538",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "43",
+      "ratthamontri": "ชูชีพ หาญสวัสดิ์",
+      "khana_ratthamontri": "51",
+      "roem_wara": "13 กรกฎาคม พ.ศ. 2538",
+      "sinsut_wara": "24 พฤศจิกายน พ.ศ. 2539",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "44",
+      "ratthamontri": "ณรงค์ชัย อัครเศรณี",
+      "khana_ratthamontri": "52",
+      "roem_wara": "25 พฤศจิกายน พ.ศ. 2539",
+      "sinsut_wara": "24 ตุลาคม พ.ศ. 2540",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "45",
+      "ratthamontri": "สม จาตุศรีพิทักษ์",
+      "khana_ratthamontri": "52",
+      "roem_wara": "24 ตุลาคม พ.ศ. 2540",
+      "sinsut_wara": "8 พฤศจิกายน พ.ศ. 2540",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "46",
+      "ratthamontri": "ศุภชัย พานิชภักดิ์",
+      "khana_ratthamontri": "53",
+      "roem_wara": "14 พฤศจิกายน พ.ศ. 2540",
+      "sinsut_wara": "9 พฤศจิกายน พ.ศ. 2543",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "47",
+      "ratthamontri": "อดิศัย โพธารามิก",
+      "khana_ratthamontri": "54",
+      "roem_wara": "17 กุมภาพันธ์ พ.ศ. 2544",
+      "sinsut_wara": "8 พฤศจิกายน พ.ศ. 2546",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "48",
+      "ratthamontri": "วัฒนา เมืองสุข",
+      "khana_ratthamontri": "54",
+      "roem_wara": "8 พฤศจิกายน พ.ศ. 2546",
+      "sinsut_wara": "11 มีนาคม พ.ศ. 2548",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "49",
+      "ratthamontri": "ทนง พิทยะ",
+      "khana_ratthamontri": "55",
+      "roem_wara": "11 มีนาคม พ.ศ. 2548",
+      "sinsut_wara": "2 สิงหาคม พ.ศ. 2548",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "50",
+      "ratthamontri": "สมคิด จาตุศรีพิทักษ์",
+      "khana_ratthamontri": "55",
+      "roem_wara": "2 สิงหาคม พ.ศ. 2548",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2549",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "ratthamontri": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "khana_ratthamontri": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "roem_wara": "19 กันยายน พ.ศ. 2549",
+      "sinsut_wara": "1 ตุลาคม พ.ศ. 2549",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "51",
+      "ratthamontri": "เกริกไกร จีระแพทย์",
+      "khana_ratthamontri": "56",
+      "roem_wara": "8 ตุลาคม พ.ศ. 2549",
+      "sinsut_wara": "6 กุมภาพันธ์ พ.ศ. 2551",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "52",
+      "ratthamontri": "มิ่งขวัญ แสงสุวรรณ์",
+      "khana_ratthamontri": "57",
+      "roem_wara": "6 กุมภาพันธ์ พ.ศ. 2551",
+      "sinsut_wara": "2 สิงหาคม พ.ศ. 2551",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "53 (1,2)",
+      "ratthamontri": "ไชยา สะสมทรัพย์",
+      "khana_ratthamontri": "57",
+      "roem_wara": "2 สิงหาคม พ.ศ. 2551",
+      "sinsut_wara": "9 กันยายน พ.ศ. 2551",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "53 (1,2)",
+      "ratthamontri": "ไชยา สะสมทรัพย์",
+      "khana_ratthamontri": "58",
+      "roem_wara": "24 กันยายน พ.ศ. 2551",
+      "sinsut_wara": "2 ธันวาคม พ.ศ. 2551",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "54",
+      "ratthamontri": "พรทิวา นาคาศัย",
+      "khana_ratthamontri": "59",
+      "roem_wara": "20 ธันวาคม พ.ศ. 2551",
+      "sinsut_wara": "9 สิงหาคม พ.ศ. 2554",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "55",
+      "ratthamontri": "กิตติรัตน์ ณ ระนอง ​",
+      "khana_ratthamontri": "60",
+      "roem_wara": "9 สิงหาคม พ.ศ. 2554",
+      "sinsut_wara": "18 มกราคม พ.ศ. 2555",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "56",
+      "ratthamontri": "บุญทรง เตริยาภิรมย์ ​",
+      "khana_ratthamontri": "60",
+      "roem_wara": "18 มกราคม พ.ศ. 2555",
+      "sinsut_wara": "30 มิถุนายน พ.ศ. 2556",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "57",
+      "ratthamontri": "นิวัฒน์ธำรง บุญทรงไพศาล ​",
+      "khana_ratthamontri": "60",
+      "roem_wara": "30 มิถุนายน พ.ศ. 2556",
+      "sinsut_wara": "22 พฤษภาคม พ.ศ. 2557",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "ratthamontri": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "khana_ratthamontri": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "roem_wara": "22 พฤษภาคม พ.ศ. 2557",
+      "sinsut_wara": "30 สิงหาคม พ.ศ. 2557",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "58",
+      "ratthamontri": "พลเอก ฉัตรชัย สาริกัลยะ ​",
+      "khana_ratthamontri": "61",
+      "roem_wara": "30 สิงหาคม พ.ศ. 2557",
+      "sinsut_wara": "19 สิงหาคม พ.ศ. 2558",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "59",
+      "ratthamontri": "อภิรดี ตันตราภรณ์ ​",
+      "khana_ratthamontri": "61",
+      "roem_wara": "19 สิงหาคม พ.ศ. 2558",
+      "sinsut_wara": "23 พฤศจิกายน 2560",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "60",
+      "ratthamontri": "สนธิรัตน์ สนธิจิรวงศ์ ​",
+      "khana_ratthamontri": "61",
+      "roem_wara": "23 พฤศจิกายน พ.ศ. 2560",
+      "sinsut_wara": "29 มกราคม พ.ศ. 2562",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "-",
+      "ratthamontri": "ชุติมา บุณยประภัศร",
+      "khana_ratthamontri": "61",
+      "roem_wara": "29 มกราคม พ.ศ. 2562",
+      "sinsut_wara": "10 กรกฎาคม พ.ศ. 2562",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "61",
+      "ratthamontri": "จุรินทร์ ลักษณวิศิษฏ์ ​",
+      "khana_ratthamontri": "62",
+      "roem_wara": "10 กรกฎาคม พ.ศ. 2562",
+      "sinsut_wara": "1 กันยายน พ.ศ. 2566",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "62",
+      "ratthamontri": "ภูมิธรรม เวชยชัย ​",
+      "khana_ratthamontri": "63",
+      "roem_wara": "1 กันยายน พ.ศ. 2566",
+      "sinsut_wara": "3 กันยายน พ.ศ. 2567",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "63",
+      "ratthamontri": "พิชัย นริพทะพันธุ์ ​",
+      "khana_ratthamontri": "64",
+      "roem_wara": "3 กันยายน พ.ศ. 2567",
+      "sinsut_wara": "30 มิถุนายน พ.ศ. 2568",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "64",
+      "ratthamontri": "จตุพร บุรุษพัฒน์",
+      "khana_ratthamontri": "64",
+      "roem_wara": "30 มิถุนายน พ.ศ. 2568",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2568",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "65 (1,2)",
+      "ratthamontri": "ศุภจี สุธรรมพันธุ์",
+      "khana_ratthamontri": "65",
+      "roem_wara": "19 กันยายน พ.ศ. 2568",
+      "sinsut_wara": "30 มีนาคม พ.ศ. 2569",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    },
+    {
+      "lamdap": "65 (1,2)",
+      "ratthamontri": "ศุภจี สุธรรมพันธุ์",
+      "khana_ratthamontri": "66",
+      "roem_wara": "30 มีนาคม พ.ศ. 2569",
+      "sinsut_wara": "อยู่ในวาระ",
+      "tamnaeng": "กระทรวงพาณิชย์ (2515–ปัจจุบัน)"
+    }
+  ],
+  "meta": {
+    "title": "รายนามรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย - ดาวน์โหลดฟรี",
+    "description": "รายนามเสนาบดีและรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทยจนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง มีทั้งหมด 99 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายนามรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายนามรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย — 99 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 99 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย"
+    ]
+  }
+}

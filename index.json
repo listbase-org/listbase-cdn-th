@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-17T02:20:37.068Z",
-  "total_datasets": 821,
-  "total_records": 284092,
+  "generated": "2026-11-18T02:20:30.221Z",
+  "total_datasets": 822,
+  "total_records": 284191,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -711,6 +711,33 @@
         "xlsx": {
           "name": "th-phu-wa-kan-thanakhan-haeng-prathet-thai_TH.xlsx",
           "size": 8166
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-phanit",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย",
+      "category": "economy",
+      "record_count": 99,
+      "columns": [
+        "lamdap",
+        "ratthamontri",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara",
+        "tamnaeng"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงพาณิชย์ของไทย",
+      "updated": "2026-11",
+      "size": 41022,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-phanit_TH.csv",
+          "size": 24031
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-phanit_TH.xlsx",
+          "size": 12264
         }
       }
     },
