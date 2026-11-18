@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-18T02:20:42.931Z",
-  "total_datasets": 823,
-  "total_records": 284213,
+  "generated": "2026-11-18T02:20:55.219Z",
+  "total_datasets": 824,
+  "total_records": 284234,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -24168,6 +24168,32 @@
         "xlsx": {
           "name": "th-prapakhan_TH.xlsx",
           "size": 7958
+        }
+      }
+    },
+    {
+      "id": "th-ratthamontri-thongthiao-lae-kila",
+      "name": "รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย",
+      "category": "tourism",
+      "record_count": 21,
+      "columns": [
+        "lamdap",
+        "ratthamontri",
+        "khana_ratthamontri",
+        "roem_wara",
+        "sinsut_wara"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย",
+      "updated": "2026-11",
+      "size": 9642,
+      "files": {
+        "csv": {
+          "name": "th-ratthamontri-thongthiao-lae-kila_TH.csv",
+          "size": 3674
+        },
+        "xlsx": {
+          "name": "th-ratthamontri-thongthiao-lae-kila_TH.xlsx",
+          "size": 8052
         }
       }
     },

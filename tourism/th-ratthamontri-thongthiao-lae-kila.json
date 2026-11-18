@@ -1,0 +1,198 @@
+{
+  "id": "th-ratthamontri-thongthiao-lae-kila",
+  "name": "รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย",
+  "title": "รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย",
+  "description": "รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2545 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง",
+  "category": "tourism",
+  "source": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "lamdap",
+      "label": "Lamdap",
+      "type": "number"
+    },
+    {
+      "key": "ratthamontri",
+      "label": "Ratthamontri",
+      "type": "string"
+    },
+    {
+      "key": "khana_ratthamontri",
+      "label": "Khana Ratthamontri",
+      "type": "number"
+    },
+    {
+      "key": "roem_wara",
+      "label": "Roem Wara",
+      "type": "string"
+    },
+    {
+      "key": "sinsut_wara",
+      "label": "Sinsut Wara",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lamdap": "1",
+      "ratthamontri": "สนธยา คุณปลื้ม",
+      "khana_ratthamontri": "54",
+      "roem_wara": "3 ตุลาคม พ.ศ. 2545",
+      "sinsut_wara": "10 มีนาคม พ.ศ. 2547"
+    },
+    {
+      "lamdap": "2",
+      "ratthamontri": "สมศักดิ์ เทพสุทิน",
+      "khana_ratthamontri": "54",
+      "roem_wara": "3 ตุลาคม พ.ศ. 2545",
+      "sinsut_wara": "10 มีนาคม พ.ศ. 2547"
+    },
+    {
+      "lamdap": "2",
+      "ratthamontri": "สมศักดิ์ เทพสุทิน",
+      "khana_ratthamontri": "54",
+      "roem_wara": "10 มีนาคม พ.ศ. 2547",
+      "sinsut_wara": "2 สิงหาคม พ.ศ. 2548"
+    },
+    {
+      "lamdap": "2",
+      "ratthamontri": "สมศักดิ์ เทพสุทิน",
+      "khana_ratthamontri": "55",
+      "roem_wara": "10 มีนาคม พ.ศ. 2547",
+      "sinsut_wara": "2 สิงหาคม พ.ศ. 2548"
+    },
+    {
+      "lamdap": "3",
+      "ratthamontri": "ประชา มาลีนนท์",
+      "khana_ratthamontri": "55",
+      "roem_wara": "2 สิงหาคม พ.ศ. 2548",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2549"
+    },
+    {
+      "lamdap": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "ratthamontri": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "khana_ratthamontri": "คณะปฏิรูปการปกครองในระบอบประชาธิปไตยฯ (คปค.)",
+      "roem_wara": "19 กันยายน พ.ศ. 2549",
+      "sinsut_wara": "1 ตุลาคม พ.ศ. 2549"
+    },
+    {
+      "lamdap": "4",
+      "ratthamontri": "ร้อยโท สุวิทย์ ยอดมณี",
+      "khana_ratthamontri": "56",
+      "roem_wara": "9 ตุลาคม พ.ศ. 2549",
+      "sinsut_wara": "6 กุมภาพันธ์ พ.ศ. 2551"
+    },
+    {
+      "lamdap": "5 (1,2)",
+      "ratthamontri": "วีระศักดิ์ โควสุรัตน์",
+      "khana_ratthamontri": "57",
+      "roem_wara": "6 กุมภาพันธ์ พ.ศ. 2551",
+      "sinsut_wara": "9 กันยายน พ.ศ. 2551"
+    },
+    {
+      "lamdap": "5 (1,2)",
+      "ratthamontri": "วีระศักดิ์ โควสุรัตน์",
+      "khana_ratthamontri": "58",
+      "roem_wara": "9 กันยายน พ.ศ. 2551",
+      "sinsut_wara": "2 ธันวาคม พ.ศ. 2551"
+    },
+    {
+      "lamdap": "6 (1,2)",
+      "ratthamontri": "ชุมพล ศิลปอาชา",
+      "khana_ratthamontri": "59",
+      "roem_wara": "20 ธันวาคม พ.ศ. 2551",
+      "sinsut_wara": "9 สิงหาคม พ.ศ. 2554"
+    },
+    {
+      "lamdap": "6 (1,2)",
+      "ratthamontri": "ชุมพล ศิลปอาชา",
+      "khana_ratthamontri": "60",
+      "roem_wara": "9 สิงหาคม พ.ศ. 2554",
+      "sinsut_wara": "21 มกราคม พ.ศ. 2556"
+    },
+    {
+      "lamdap": "7",
+      "ratthamontri": "สมศักย์ ภูรีศรีศักดิ์",
+      "khana_ratthamontri": "60",
+      "roem_wara": "2 เมษายน พ.ศ. 2556",
+      "sinsut_wara": "22 พฤษภาคม พ.ศ. 2557"
+    },
+    {
+      "lamdap": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "ratthamontri": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "khana_ratthamontri": "คณะรักษาความสงบแห่งชาติ (คสช.)",
+      "roem_wara": "22 พฤษภาคม พ.ศ. 2557",
+      "sinsut_wara": "30 สิงหาคม พ.ศ. 2557"
+    },
+    {
+      "lamdap": "8",
+      "ratthamontri": "กอบกาญจน์ วัฒนวรางกูร",
+      "khana_ratthamontri": "61",
+      "roem_wara": "30 สิงหาคม พ.ศ. 2557",
+      "sinsut_wara": "23 พฤศจิกายน พ.ศ. 2560"
+    },
+    {
+      "lamdap": "5 (3)",
+      "ratthamontri": "วีระศักดิ์ โควสุรัตน์",
+      "khana_ratthamontri": "61",
+      "roem_wara": "23 พฤศจิกายน พ.ศ. 2560",
+      "sinsut_wara": "8 พฤษภาคม พ.ศ. 2562"
+    },
+    {
+      "lamdap": "9",
+      "ratthamontri": "พิพัฒน์ รัชกิจประการ",
+      "khana_ratthamontri": "62",
+      "roem_wara": "10 กรกฎาคม พ.ศ. 2562",
+      "sinsut_wara": "1 กันยายน พ.ศ. 2566"
+    },
+    {
+      "lamdap": "10",
+      "ratthamontri": "สุดาวรรณ หวังศุภกิจโกศล",
+      "khana_ratthamontri": "63",
+      "roem_wara": "1 กันยายน พ.ศ. 2566",
+      "sinsut_wara": "27 เมษายน พ.ศ. 2567"
+    },
+    {
+      "lamdap": "11",
+      "ratthamontri": "เสริมศักดิ์ พงษ์พานิช",
+      "khana_ratthamontri": "63",
+      "roem_wara": "27 เมษายน พ.ศ. 2567",
+      "sinsut_wara": "3 กันยายน พ.ศ. 2567"
+    },
+    {
+      "lamdap": "12",
+      "ratthamontri": "สรวงศ์ เทียนทอง",
+      "khana_ratthamontri": "64",
+      "roem_wara": "3 กันยายน พ.ศ. 2567",
+      "sinsut_wara": "19 กันยายน พ.ศ. 2568"
+    },
+    {
+      "lamdap": "13",
+      "ratthamontri": "อรรถกร ศิริลัทธยากร",
+      "khana_ratthamontri": "65",
+      "roem_wara": "19 กันยายน พ.ศ. 2568",
+      "sinsut_wara": "30 มีนาคม พ.ศ. 2569"
+    },
+    {
+      "lamdap": "14",
+      "ratthamontri": "สุรศักดิ์ พันธ์เจริญวรกุล",
+      "khana_ratthamontri": "66",
+      "roem_wara": "30 มีนาคม พ.ศ. 2569",
+      "sinsut_wara": "ปัจจุบัน"
+    }
+  ],
+  "meta": {
+    "title": "รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย - ดาวน์โหลดฟรี",
+    "description": "รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทยตั้งแต่ก่อตั้งกระทรวงเมื่อ พ.ศ. 2545 จนถึงปัจจุบัน พร้อมคณะรัฐมนตรีและวาระการดำรงตำแหน่ง มีทั้งหมด 21 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายนามรัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย — 21 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 21 รายการ / 5 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รัฐมนตรีว่าการกระทรวงการท่องเที่ยวและกีฬาของไทย"
+    ]
+  }
+}
