@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-18T02:20:55.219Z",
-  "total_datasets": 824,
-  "total_records": 284234,
+  "generated": "2026-11-19T02:27:23.065Z",
+  "total_datasets": 825,
+  "total_records": 284267,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -23356,6 +23356,36 @@
         "xlsx": {
           "name": "th-prathet-thai-nai-asian-games_TH.xlsx",
           "size": 7773
+        }
+      }
+    },
+    {
+      "id": "th-prathet-thai-nai-sea-games-rian-raikhrang",
+      "name": "ประเทศไทยในซีเกมส์ — เหรียญรางวัลรายครั้ง (1959–2025)",
+      "category": "sports",
+      "record_count": 33,
+      "columns": [
+        "pi_kho_so",
+        "pi_pho_so",
+        "chao_phap",
+        "kan_khaengkhan",
+        "thong",
+        "ngoen",
+        "thongdaeng",
+        "ruam",
+        "andap"
+      ],
+      "source": "https://th.wikipedia.org/wiki/ประเทศไทยในซีเกมส์",
+      "updated": "2026-11",
+      "size": 12508,
+      "files": {
+        "csv": {
+          "name": "th-prathet-thai-nai-sea-games-rian-raikhrang_TH.csv",
+          "size": 3747
+        },
+        "xlsx": {
+          "name": "th-prathet-thai-nai-sea-games-rian-raikhrang_TH.xlsx",
+          "size": 8581
         }
       }
     },

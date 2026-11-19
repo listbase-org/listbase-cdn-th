@@ -1,0 +1,434 @@
+{
+  "id": "th-prathet-thai-nai-sea-games-rian-raikhrang",
+  "name": "ประเทศไทยในซีเกมส์ — เหรียญรางวัลรายครั้ง (1959–2025)",
+  "title": "ประเทศไทยในซีเกมส์ — เหรียญรางวัลรายครั้ง (1959–2025)",
+  "description": "จำนวนเหรียญทอง เงิน ทองแดง และอันดับรวมของทัพนักกีฬาไทยในกีฬาแหลมทองและกีฬาซีเกมส์แต่ละครั้ง ตั้งแต่ พ.ศ. 2502 ถึง พ.ศ. 2568 พร้อมเมืองเจ้าภาพ",
+  "category": "sports",
+  "source": "https://th.wikipedia.org/wiki/ประเทศไทยในซีเกมส์",
+  "source_url": "https://th.wikipedia.org/wiki/ประเทศไทยในซีเกมส์",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "pi_kho_so",
+      "label": "Pi Kho So",
+      "type": "number"
+    },
+    {
+      "key": "pi_pho_so",
+      "label": "Pi Pho So",
+      "type": "number"
+    },
+    {
+      "key": "chao_phap",
+      "label": "Chao Phap",
+      "type": "string"
+    },
+    {
+      "key": "kan_khaengkhan",
+      "label": "Kan Khaengkhan",
+      "type": "string"
+    },
+    {
+      "key": "thong",
+      "label": "Thong",
+      "type": "number"
+    },
+    {
+      "key": "ngoen",
+      "label": "Ngoen",
+      "type": "number"
+    },
+    {
+      "key": "thongdaeng",
+      "label": "Thongdaeng",
+      "type": "number"
+    },
+    {
+      "key": "ruam",
+      "label": "Ruam",
+      "type": "number"
+    },
+    {
+      "key": "andap",
+      "label": "Andap",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pi_kho_so": 1959,
+      "pi_pho_so": 2502,
+      "chao_phap": "กรุงเทพมหานคร",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 35,
+      "ngoen": 26,
+      "thongdaeng": 16,
+      "ruam": 77,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1961,
+      "pi_pho_so": 2504,
+      "chao_phap": "ย่างกุ้ง",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 21,
+      "ngoen": 18,
+      "thongdaeng": 22,
+      "ruam": 61,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1965,
+      "pi_pho_so": 2508,
+      "chao_phap": "กัวลาลัมเปอร์",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 38,
+      "ngoen": 33,
+      "thongdaeng": 35,
+      "ruam": 106,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1967,
+      "pi_pho_so": 2510,
+      "chao_phap": "กรุงเทพมหานคร",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 77,
+      "ngoen": 48,
+      "thongdaeng": 40,
+      "ruam": 165,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1969,
+      "pi_pho_so": 2512,
+      "chao_phap": "ย่างกุ้ง",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 32,
+      "ngoen": 32,
+      "thongdaeng": 45,
+      "ruam": 109,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1971,
+      "pi_pho_so": 2514,
+      "chao_phap": "กัวลาลัมเปอร์",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 44,
+      "ngoen": 27,
+      "thongdaeng": 38,
+      "ruam": 109,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1973,
+      "pi_pho_so": 2516,
+      "chao_phap": "สิงคโปร์",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 47,
+      "ngoen": 25,
+      "thongdaeng": 27,
+      "ruam": 99,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1975,
+      "pi_pho_so": 2518,
+      "chao_phap": "กรุงเทพมหานคร",
+      "kan_khaengkhan": "กีฬาแหลมทอง",
+      "thong": 80,
+      "ngoen": 45,
+      "thongdaeng": 39,
+      "ruam": 164,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1977,
+      "pi_pho_so": 2520,
+      "chao_phap": "กัวลาลัมเปอร์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 37,
+      "ngoen": 35,
+      "thongdaeng": 33,
+      "ruam": 105,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1979,
+      "pi_pho_so": 2522,
+      "chao_phap": "จาการ์ตา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 50,
+      "ngoen": 46,
+      "thongdaeng": 29,
+      "ruam": 125,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1981,
+      "pi_pho_so": 2524,
+      "chao_phap": "มะนิลา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 62,
+      "ngoen": 45,
+      "thongdaeng": 41,
+      "ruam": 148,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1983,
+      "pi_pho_so": 2526,
+      "chao_phap": "สิงคโปร์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 49,
+      "ngoen": 40,
+      "thongdaeng": 38,
+      "ruam": 127,
+      "andap": 3
+    },
+    {
+      "pi_kho_so": 1985,
+      "pi_pho_so": 2528,
+      "chao_phap": "กรุงเทพมหานคร",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 92,
+      "ngoen": 66,
+      "thongdaeng": 59,
+      "ruam": 217,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1987,
+      "pi_pho_so": 2530,
+      "chao_phap": "จาการ์ตา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 63,
+      "ngoen": 57,
+      "thongdaeng": 67,
+      "ruam": 187,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1989,
+      "pi_pho_so": 2532,
+      "chao_phap": "กัวลาลัมเปอร์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 62,
+      "ngoen": 63,
+      "thongdaeng": 96,
+      "ruam": 191,
+      "andap": 3
+    },
+    {
+      "pi_kho_so": 1991,
+      "pi_pho_so": 2534,
+      "chao_phap": "มะนิลา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 72,
+      "ngoen": 80,
+      "thongdaeng": 69,
+      "ruam": 221,
+      "andap": 3
+    },
+    {
+      "pi_kho_so": 1993,
+      "pi_pho_so": 2536,
+      "chao_phap": "สิงคโปร์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 63,
+      "ngoen": 70,
+      "thongdaeng": 63,
+      "ruam": 196,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1995,
+      "pi_pho_so": 2538,
+      "chao_phap": "เชียงใหม่",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 157,
+      "ngoen": 98,
+      "thongdaeng": 91,
+      "ruam": 346,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 1997,
+      "pi_pho_so": 2540,
+      "chao_phap": "จาการ์ตา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 83,
+      "ngoen": 97,
+      "thongdaeng": 78,
+      "ruam": 258,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 1999,
+      "pi_pho_so": 2542,
+      "chao_phap": "บันดาร์เซอรีเบอกาวัน",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 65,
+      "ngoen": 48,
+      "thongdaeng": 56,
+      "ruam": 169,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 2001,
+      "pi_pho_so": 2544,
+      "chao_phap": "กัวลาลัมเปอร์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 103,
+      "ngoen": 86,
+      "thongdaeng": 89,
+      "ruam": 278,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 2003,
+      "pi_pho_so": 2546,
+      "chao_phap": "ฮานอย, นครโฮจิมินห์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 90,
+      "ngoen": 93,
+      "thongdaeng": 98,
+      "ruam": 281,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 2005,
+      "pi_pho_so": 2548,
+      "chao_phap": "ฟิลิปปินส์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 87,
+      "ngoen": 78,
+      "thongdaeng": 118,
+      "ruam": 283,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 2007,
+      "pi_pho_so": 2550,
+      "chao_phap": "นครราชสีมา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 183,
+      "ngoen": 123,
+      "thongdaeng": 103,
+      "ruam": 409,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 2009,
+      "pi_pho_so": 2552,
+      "chao_phap": "เวียงจันทน์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 86,
+      "ngoen": 83,
+      "thongdaeng": 97,
+      "ruam": 266,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 2011,
+      "pi_pho_so": 2554,
+      "chao_phap": "ปาเล็มบัง, จาการ์ตา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 109,
+      "ngoen": 100,
+      "thongdaeng": 120,
+      "ruam": 329,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 2013,
+      "pi_pho_so": 2556,
+      "chao_phap": "เนปยีดอ",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 107,
+      "ngoen": 94,
+      "thongdaeng": 81,
+      "ruam": 282,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 2015,
+      "pi_pho_so": 2558,
+      "chao_phap": "สิงคโปร์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 95,
+      "ngoen": 83,
+      "thongdaeng": 69,
+      "ruam": 247,
+      "andap": 1
+    },
+    {
+      "pi_kho_so": 2017,
+      "pi_pho_so": 2560,
+      "chao_phap": "กัวลาลัมเปอร์",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 72,
+      "ngoen": 86,
+      "thongdaeng": 88,
+      "ruam": 246,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 2019,
+      "pi_pho_so": 2562,
+      "chao_phap": "มะนิลา",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 92,
+      "ngoen": 103,
+      "thongdaeng": 123,
+      "ruam": 318,
+      "andap": 3
+    },
+    {
+      "pi_kho_so": 2021,
+      "pi_pho_so": 2564,
+      "chao_phap": "ฮานอย",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 92,
+      "ngoen": 103,
+      "thongdaeng": 136,
+      "ruam": 331,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 2023,
+      "pi_pho_so": 2566,
+      "chao_phap": "พนมเปญ",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 108,
+      "ngoen": 96,
+      "thongdaeng": 108,
+      "ruam": 312,
+      "andap": 2
+    },
+    {
+      "pi_kho_so": 2025,
+      "pi_pho_so": 2568,
+      "chao_phap": "กรุงเทพมหานคร-ชลบุรี",
+      "kan_khaengkhan": "กีฬาซีเกมส์",
+      "thong": 233,
+      "ngoen": 154,
+      "thongdaeng": 112,
+      "ruam": 499,
+      "andap": 1
+    }
+  ],
+  "meta": {
+    "title": "ประเทศไทยในซีเกมส์ — เหรียญรางวัลรายครั้ง (1959–2025) - ดาวน์โหลดฟรี",
+    "description": "จำนวนเหรียญทอง เงิน ทองแดง และอันดับรวมของทัพนักกีฬาไทยในกีฬาแหลมทองและกีฬาซีเกมส์แต่ละครั้ง ตั้งแต่ พ.ศ. 2502 ถึง พ.ศ. 2568 พร้อมเมืองเจ้าภาพ มีทั้งหมด 33 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ประเทศไทยในซีเกมส์ — เหรียญรางวัลรายครั้ง (1959–2025) | ListBase",
+    "seo_description": "ดาวน์โหลด ประเทศไทยในซีเกมส์ — เหรียญรางวัลรายครั้ง (1959–2025) — 33 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 33 รายการ / 9 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/ประเทศไทยในซีเกมส์"
+    ]
+  }
+}
