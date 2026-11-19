@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-19T02:27:23.065Z",
-  "total_datasets": 825,
-  "total_records": 284267,
+  "generated": "2026-11-19T02:27:35.048Z",
+  "total_datasets": 826,
+  "total_records": 285257,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -9207,6 +9207,29 @@
         "xlsx": {
           "name": "th-phleng-thai-doem_TH.xlsx",
           "size": 15896
+        }
+      }
+    },
+    {
+      "id": "th-rai-chue-wong-dontri-thai",
+      "name": "รายชื่อวงดนตรีและกลุ่มดนตรีสัญชาติไทย",
+      "category": "music",
+      "record_count": 990,
+      "columns": [
+        "chue_wong",
+        "chue_phasa_angkrit"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อกลุ่มดนตรีสัญชาติไทย",
+      "updated": "2026-11",
+      "size": 103749,
+      "files": {
+        "csv": {
+          "name": "th-rai-chue-wong-dontri-thai_TH.csv",
+          "size": 40653
+        },
+        "xlsx": {
+          "name": "th-rai-chue-wong-dontri-thai_TH.xlsx",
+          "size": 33553
         }
       }
     },

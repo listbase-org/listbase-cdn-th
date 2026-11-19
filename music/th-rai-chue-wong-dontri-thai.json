@@ -1,0 +1,3996 @@
+{
+  "id": "th-rai-chue-wong-dontri-thai",
+  "name": "รายชื่อวงดนตรีและกลุ่มดนตรีสัญชาติไทย",
+  "title": "รายชื่อวงดนตรีและกลุ่มดนตรีสัญชาติไทย",
+  "description": "รายชื่อวงดนตรี วงร็อก วงป๊อป บอยแบนด์ เกิร์ลกรุ๊ป และกลุ่มดนตรีสัญชาติไทยเรียงตามตัวอักษร พร้อมชื่อภาษาอังกฤษ (ถ้ามี) จากวิกิพีเดียภาษาไทย",
+  "category": "music",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อกลุ่มดนตรีสัญชาติไทย",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อกลุ่มดนตรีสัญชาติไทย",
+  "updated": "2026-11",
+  "record_count": 990,
+  "columns": [
+    {
+      "key": "chue_wong",
+      "label": "Chue Wong",
+      "type": "string"
+    },
+    {
+      "key": "chue_phasa_angkrit",
+      "label": "Chue Phasa Angkrit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chue_wong": "กงล้อ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กรรมาชน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กรีนแอปเปิลส์",
+      "chue_phasa_angkrit": "Green Apples"
+    },
+    {
+      "chue_wong": "กรุงเทพมาราธอน",
+      "chue_phasa_angkrit": "Krungthep Marathon"
+    },
+    {
+      "chue_wong": "กรู๊ฟไรเดอร์ส",
+      "chue_phasa_angkrit": "Groove Riders"
+    },
+    {
+      "chue_wong": "กรู๊ฟวี่ แอร์ไลน์",
+      "chue_phasa_angkrit": "Groovy Airline"
+    },
+    {
+      "chue_wong": "กล้วยไทย",
+      "chue_phasa_angkrit": "Kluay Thai"
+    },
+    {
+      "chue_wong": "กอล์ฟ-ไมค์",
+      "chue_phasa_angkrit": "Golf-Mike"
+    },
+    {
+      "chue_wong": "กอหญ้า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กัมปะนี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กะท้อน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กะลา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กางเกง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ก้านคอบอยส์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กาเนชา",
+      "chue_phasa_angkrit": "Ganesha"
+    },
+    {
+      "chue_wong": "กินรี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "กู๊ด บอยส์",
+      "chue_phasa_angkrit": "Good Boys"
+    },
+    {
+      "chue_wong": "กูดเซปเทมเบอร์",
+      "chue_phasa_angkrit": "Good September"
+    },
+    {
+      "chue_wong": "เก็ตสึโนวา",
+      "chue_phasa_angkrit": "Getsunova"
+    },
+    {
+      "chue_wong": "เกิร์ล",
+      "chue_phasa_angkrit": "Girl"
+    },
+    {
+      "chue_wong": "เกิร์ลฟอร์ซ",
+      "chue_phasa_angkrit": "Girl Force"
+    },
+    {
+      "chue_wong": "เกิร์ลลีเบอร์รี",
+      "chue_phasa_angkrit": "Girly Berry"
+    },
+    {
+      "chue_wong": "เกียร์ไนต์",
+      "chue_phasa_angkrit": "Gear Knight"
+    },
+    {
+      "chue_wong": "แกงเนื้อ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แก๊งโฟร์",
+      "chue_phasa_angkrit": "Gang 4"
+    },
+    {
+      "chue_wong": "แก๊งปากซอย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แกรนด์เอ็กซ์",
+      "chue_phasa_angkrit": "Grand Ex'"
+    },
+    {
+      "chue_wong": "กราวิตี้",
+      "chue_phasa_angkrit": "Gravity"
+    },
+    {
+      "chue_wong": "โกแกง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โกรว์วิ่ง เพน",
+      "chue_phasa_angkrit": "Growing Pain"
+    },
+    {
+      "chue_wong": "ขอนแก่น",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ขัดใจแม่",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ข้าราชการคลาสสิก",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ไข่เดือน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คณะดนตรีร่วมสมัย คณะมะขามป้อม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คณะมโหรีดนตรีสกา",
+      "chue_phasa_angkrit": "The Superglasses Ska Ensemble"
+    },
+    {
+      "chue_wong": "คนกันเอง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คนคู่",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คนด่านเกวียน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คนมอ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คร็อคโคไดล์ จูเนียร์",
+      "chue_phasa_angkrit": "Crocodile Junior"
+    },
+    {
+      "chue_wong": "ครับ",
+      "chue_phasa_angkrit": "Crub"
+    },
+    {
+      "chue_wong": "คริสตัล",
+      "chue_phasa_angkrit": "Crystal"
+    },
+    {
+      "chue_wong": "ครีม",
+      "chue_phasa_angkrit": "Cream"
+    },
+    {
+      "chue_wong": "ควอนตั้ม",
+      "chue_phasa_angkrit": "Quantum"
+    },
+    {
+      "chue_wong": "ค็อกเทล",
+      "chue_phasa_angkrit": "Cocktail"
+    },
+    {
+      "chue_wong": "คอมมอนเซนส์",
+      "chue_phasa_angkrit": "Common Sense"
+    },
+    {
+      "chue_wong": "คันไถ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คาซอย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คาซาม่า",
+      "chue_phasa_angkrit": "Kasama"
+    },
+    {
+      "chue_wong": "คาราบาว",
+      "chue_phasa_angkrit": "Carabao"
+    },
+    {
+      "chue_wong": "คาราวาน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คาราเมล",
+      "chue_phasa_angkrit": "Karamail"
+    },
+    {
+      "chue_wong": "คาไลโดสโคป",
+      "chue_phasa_angkrit": "Kaleidoscope"
+    },
+    {
+      "chue_wong": "คาวบอยน้ำปู๋",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คำภีร์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คิดแน็ปเปอร์ส",
+      "chue_phasa_angkrit": "Kidnappers"
+    },
+    {
+      "chue_wong": "คิดอินเซน",
+      "chue_phasa_angkrit": "Kid Insane"
+    },
+    {
+      "chue_wong": "คินเดอร์การ์เท็น",
+      "chue_phasa_angkrit": "Kindergarten"
+    },
+    {
+      "chue_wong": "คิว",
+      "chue_phasa_angkrit": "Q"
+    },
+    {
+      "chue_wong": "คิวตี้",
+      "chue_phasa_angkrit": "Q'Ty"
+    },
+    {
+      "chue_wong": "คิส มี ไฟฟ์",
+      "chue_phasa_angkrit": "Kiss Me Five"
+    },
+    {
+      "chue_wong": "คีตาญชลี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คีรีบูน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คุกคู",
+      "chue_phasa_angkrit": "Cuckoo"
+    },
+    {
+      "chue_wong": "คุณคำรณ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "คูณสามซูเปอร์แก๊งค์",
+      "chue_phasa_angkrit": "X3 Super Gang"
+    },
+    {
+      "chue_wong": "เครซี่",
+      "chue_phasa_angkrit": "Crazy"
+    },
+    {
+      "chue_wong": "เควก",
+      "chue_phasa_angkrit": "Quake"
+    },
+    {
+      "chue_wong": "เคลิ้ม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เคลิ้มสมาคม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เคลียร์",
+      "chue_phasa_angkrit": "Klear"
+    },
+    {
+      "chue_wong": "เคหะสถาน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เคไนน์",
+      "chue_phasa_angkrit": "K-9"
+    },
+    {
+      "chue_wong": "เครสเชนโด้",
+      "chue_phasa_angkrit": "Crescendo"
+    },
+    {
+      "chue_wong": "เค-โอติก",
+      "chue_phasa_angkrit": "K-OTIC"
+    },
+    {
+      "chue_wong": "แคท-แพท",
+      "chue_phasa_angkrit": "Kat-Pat"
+    },
+    {
+      "chue_wong": "แคนดี้มาเฟีย",
+      "chue_phasa_angkrit": "Candy Mafia"
+    },
+    {
+      "chue_wong": "แคลช",
+      "chue_phasa_angkrit": "Clash"
+    },
+    {
+      "chue_wong": "แคลอรี่ส์ บลาห์ บลาห์",
+      "chue_phasa_angkrit": "Calories Blah Blah"
+    },
+    {
+      "chue_wong": "โคคำราม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โคโค่แจ๊ส",
+      "chue_phasa_angkrit": "Coco Jazz"
+    },
+    {
+      "chue_wong": "โคโคนัตซันเดย์",
+      "chue_phasa_angkrit": "Coconut Sunday"
+    },
+    {
+      "chue_wong": "โคบาล",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โคลน",
+      "chue_phasa_angkrit": "Clone"
+    },
+    {
+      "chue_wong": "ไคโจบราเธอร์ส",
+      "chue_phasa_angkrit": "Kai-Jo Brothers"
+    },
+    {
+      "chue_wong": "ไคลแม็กซ์",
+      "chue_phasa_angkrit": "Climax"
+    },
+    {
+      "chue_wong": "จริญตนาใก",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "จอยบอย",
+      "chue_phasa_angkrit": "JoyBoy"
+    },
+    {
+      "chue_wong": "จำรัส แอนด์ เดอะ เรดิโอ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "จี-จูเนียร์",
+      "chue_phasa_angkrit": "G-Jr"
+    },
+    {
+      "chue_wong": "จีซิกพีดี",
+      "chue_phasa_angkrit": "G6pd"
+    },
+    {
+      "chue_wong": "จี-ทเวนตี้",
+      "chue_phasa_angkrit": "G-TWENTY"
+    },
+    {
+      "chue_wong": "จีทูจี",
+      "chue_phasa_angkrit": "G2G"
+    },
+    {
+      "chue_wong": "จีว่า",
+      "chue_phasa_angkrit": "JIWA"
+    },
+    {
+      "chue_wong": "จุฬารัตน์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "จูซ",
+      "chue_phasa_angkrit": "Juice"
+    },
+    {
+      "chue_wong": "เจ เคน ไอซ์",
+      "chue_phasa_angkrit": "JKI"
+    },
+    {
+      "chue_wong": "เจเนอเรชั่น",
+      "chue_phasa_angkrit": "Generation"
+    },
+    {
+      "chue_wong": "เจอาร์-วอย",
+      "chue_phasa_angkrit": "JR-Voy"
+    },
+    {
+      "chue_wong": "เจ็ตเซ็ตเตอร์",
+      "chue_phasa_angkrit": "Jetset'er"
+    },
+    {
+      "chue_wong": "เจียะ ป้า บ่อ สื่อ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แจมป์",
+      "chue_phasa_angkrit": "Jamp"
+    },
+    {
+      "chue_wong": "แจสมิน",
+      "chue_phasa_angkrit": "Jeasmine"
+    },
+    {
+      "chue_wong": "โจ-ป๊อป",
+      "chue_phasa_angkrit": "Jo-Pop"
+    },
+    {
+      "chue_wong": "โจ๋แฟกซ์",
+      "chue_phasa_angkrit": "Jofax"
+    },
+    {
+      "chue_wong": "ไจแอนท์",
+      "chue_phasa_angkrit": "Giant"
+    },
+    {
+      "chue_wong": "ฉ่ำ ฉ่ำ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เฉลียง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เฉย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ช็อคโกแล็ตคิท",
+      "chue_phasa_angkrit": "Chocolate Kit"
+    },
+    {
+      "chue_wong": "ชัคกี้ ธัญญรัตน์ แอนด์ เดอะ บลู แพลเน็ต",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ชาตรี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ชาย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ชายกะสัน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ชิลลี่ไวท์ช็อค",
+      "chue_phasa_angkrit": "Chilli White Choc"
+    },
+    {
+      "chue_wong": "ชีส",
+      "chue_phasa_angkrit": "Zheese"
+    },
+    {
+      "chue_wong": "ชูการ์ อายส์",
+      "chue_phasa_angkrit": "Sugar Eyes"
+    },
+    {
+      "chue_wong": "เชอร์รี่ ดั๊ก",
+      "chue_phasa_angkrit": "Sherry Duck"
+    },
+    {
+      "chue_wong": "เชอร์รี่แบล็ค",
+      "chue_phasa_angkrit": "Cherry Black"
+    },
+    {
+      "chue_wong": "แชมพู",
+      "chue_phasa_angkrit": "Shampoo"
+    },
+    {
+      "chue_wong": "โชกุนจั๊มป์",
+      "chue_phasa_angkrit": "Shogun Jump"
+    },
+    {
+      "chue_wong": "ไชน่าดอลส์",
+      "chue_phasa_angkrit": "China Dolls"
+    },
+    {
+      "chue_wong": "ซัคเซส",
+      "chue_phasa_angkrit": "Success"
+    },
+    {
+      "chue_wong": "ซันไชน์",
+      "chue_phasa_angkrit": "Sunshine"
+    },
+    {
+      "chue_wong": "ซันเดย์พาเหรด",
+      "chue_phasa_angkrit": "Sundae Parade"
+    },
+    {
+      "chue_wong": "ซันเดย์ บอย",
+      "chue_phasa_angkrit": "Sunday Boy"
+    },
+    {
+      "chue_wong": "ซันนี่ พาเหรด",
+      "chue_phasa_angkrit": "Sunny Parade"
+    },
+    {
+      "chue_wong": "ซับใน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ซับเทนชั่น",
+      "chue_phasa_angkrit": "Subtention"
+    },
+    {
+      "chue_wong": "ซัมเมอร์เดรส",
+      "chue_phasa_angkrit": "Summer Dress"
+    },
+    {
+      "chue_wong": "ซัสเทนเนอร์",
+      "chue_phasa_angkrit": "Sustainer"
+    },
+    {
+      "chue_wong": "ซาซ่า",
+      "chue_phasa_angkrit": "Zaza"
+    },
+    {
+      "chue_wong": "ซาแน็กซ์",
+      "chue_phasa_angkrit": "Zanax"
+    },
+    {
+      "chue_wong": "ซามูไรลาว",
+      "chue_phasa_angkrit": "Samurai Loud"
+    },
+    {
+      "chue_wong": "ซาไลวาบาสตาดส์",
+      "chue_phasa_angkrit": "Saliva Bastards"
+    },
+    {
+      "chue_wong": "ซาวด์เซิร์ฟ",
+      "chue_phasa_angkrit": "Soundsurf"
+    },
+    {
+      "chue_wong": "ซาวด์ วอล์กเกอร์",
+      "chue_phasa_angkrit": "Sound Walker"
+    },
+    {
+      "chue_wong": "ซ่าหริ่ม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ซิกซ์เซ้นซ์",
+      "chue_phasa_angkrit": "Six Sense"
+    },
+    {
+      "chue_wong": "ซิกซ์ตี้ ซี",
+      "chue_phasa_angkrit": "60 C"
+    },
+    {
+      "chue_wong": "ซิกซ์ตี้ ไมล์ส",
+      "chue_phasa_angkrit": "Sixty Miles"
+    },
+    {
+      "chue_wong": "ซิกแซก",
+      "chue_phasa_angkrit": "Zigzag"
+    },
+    {
+      "chue_wong": "ซิกเนเจอร์",
+      "chue_phasa_angkrit": "Signature"
+    },
+    {
+      "chue_wong": "ซิงกูล่าร์",
+      "chue_phasa_angkrit": "Singular"
+    },
+    {
+      "chue_wong": "ซินญอริต้า",
+      "chue_phasa_angkrit": "Senorita"
+    },
+    {
+      "chue_wong": "ซินเดอเรลล่า",
+      "chue_phasa_angkrit": "Cinderella"
+    },
+    {
+      "chue_wong": "ซิลเวอร์แซนด์",
+      "chue_phasa_angkrit": "Silver Sand"
+    },
+    {
+      "chue_wong": "ซิลลี่ฟูลส์",
+      "chue_phasa_angkrit": "Silly Fools"
+    },
+    {
+      "chue_wong": "ซิสก้า",
+      "chue_phasa_angkrit": "Siska"
+    },
+    {
+      "chue_wong": "ซิสเต็ม โฟร์",
+      "chue_phasa_angkrit": "System 4"
+    },
+    {
+      "chue_wong": "ซีควินท์",
+      "chue_phasa_angkrit": "C-Quint"
+    },
+    {
+      "chue_wong": "ซีซั่นไฟว์",
+      "chue_phasa_angkrit": "Season 5"
+    },
+    {
+      "chue_wong": "ซีบรา",
+      "chue_phasa_angkrit": "Zebra"
+    },
+    {
+      "chue_wong": "ซีเปีย",
+      "chue_phasa_angkrit": "Sepia"
+    },
+    {
+      "chue_wong": "ซีโร่ ฮีโร่",
+      "chue_phasa_angkrit": "Zero Hero"
+    },
+    {
+      "chue_wong": "ซีเรียสเบคอน",
+      "chue_phasa_angkrit": "Serious Bacon"
+    },
+    {
+      "chue_wong": "ซีล",
+      "chue_phasa_angkrit": "Zeal"
+    },
+    {
+      "chue_wong": "ซีลพิลโลว",
+      "chue_phasa_angkrit": "Seal Pillow"
+    },
+    {
+      "chue_wong": "ซีโอทู",
+      "chue_phasa_angkrit": "CO 2"
+    },
+    {
+      "chue_wong": "ซูซู",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ซูเปอร์กลู",
+      "chue_phasa_angkrit": "Super Glue"
+    },
+    {
+      "chue_wong": "ซูเปอร์พาวเวอร์กลู",
+      "chue_phasa_angkrit": "Super Power Glue"
+    },
+    {
+      "chue_wong": "ซูเปอร์ซับ",
+      "chue_phasa_angkrit": "Supersub"
+    },
+    {
+      "chue_wong": "ซูเปอร์เบเกอร์",
+      "chue_phasa_angkrit": "Superbaker"
+    },
+    {
+      "chue_wong": "ซูเปอร์สตริงส์",
+      "chue_phasa_angkrit": "Superstrings"
+    },
+    {
+      "chue_wong": "เซ็งลี้",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เซน",
+      "chue_phasa_angkrit": "Sane"
+    },
+    {
+      "chue_wong": "เซนซิทีฟ แอเรีย",
+      "chue_phasa_angkrit": "Sensitive Area"
+    },
+    {
+      "chue_wong": "เซมิโคล่อน",
+      "chue_phasa_angkrit": "Semi-colon;"
+    },
+    {
+      "chue_wong": "เซเวนเดส์",
+      "chue_phasa_angkrit": "Seven Days"
+    },
+    {
+      "chue_wong": "เซเว่นเดย์ เครซี่",
+      "chue_phasa_angkrit": "7Days Crazy"
+    },
+    {
+      "chue_wong": "เซเว่นธ์ซีน",
+      "chue_phasa_angkrit": "7th Scene"
+    },
+    {
+      "chue_wong": "เซอร์เคิล กรีน",
+      "chue_phasa_angkrit": "Circle Green"
+    },
+    {
+      "chue_wong": "เซาท์ไซด์",
+      "chue_phasa_angkrit": "Southside"
+    },
+    {
+      "chue_wong": "เซอร์เรนเด้อ ออฟ ดิวินิตี้",
+      "chue_phasa_angkrit": "Surrender of Divinity"
+    },
+    {
+      "chue_wong": "แซทเทอร์เดย์ เซโกะ",
+      "chue_phasa_angkrit": "Saturday Seiko"
+    },
+    {
+      "chue_wong": "แซนด์-แบงค์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แซนด์ สโตน",
+      "chue_phasa_angkrit": "Sand Stone"
+    },
+    {
+      "chue_wong": "โซคูล",
+      "chue_phasa_angkrit": "So Cool"
+    },
+    {
+      "chue_wong": "โซมีเดย์",
+      "chue_phasa_angkrit": "So-Me-Day"
+    },
+    {
+      "chue_wong": "โซดา",
+      "chue_phasa_angkrit": "Soda"
+    },
+    {
+      "chue_wong": "โซฟา",
+      "chue_phasa_angkrit": "Sofa"
+    },
+    {
+      "chue_wong": "โซลดา",
+      "chue_phasa_angkrit": "Soul-Da"
+    },
+    {
+      "chue_wong": "โซลอาฟเตอร์ซิกซ์",
+      "chue_phasa_angkrit": "Soul After Six"
+    },
+    {
+      "chue_wong": "โซลเอาต์",
+      "chue_phasa_angkrit": "Soul Out"
+    },
+    {
+      "chue_wong": "โซลิดสเตต",
+      "chue_phasa_angkrit": "Solid State"
+    },
+    {
+      "chue_wong": "ไซโคสลิม",
+      "chue_phasa_angkrit": "Psychoslim"
+    },
+    {
+      "chue_wong": "ไซเลนท์ สครีม",
+      "chue_phasa_angkrit": "Silent Scream"
+    },
+    {
+      "chue_wong": "ไซมีซเก็ตโต",
+      "chue_phasa_angkrit": "Siamese Ghetto"
+    },
+    {
+      "chue_wong": "ไซแอม",
+      "chue_phasa_angkrit": "Syam"
+    },
+    {
+      "chue_wong": "ฌามา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เฌอ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ญารินดา แอนด์ เฟรนด์ส",
+      "chue_phasa_angkrit": "Yarinda and Friends"
+    },
+    {
+      "chue_wong": "ดร.คิดส์",
+      "chue_phasa_angkrit": "Dr.Kids"
+    },
+    {
+      "chue_wong": "ดราก้อนไฟว์",
+      "chue_phasa_angkrit": "Dragon 5"
+    },
+    {
+      "chue_wong": "ดราม่า สตรีม",
+      "chue_phasa_angkrit": "Drama Stream"
+    },
+    {
+      "chue_wong": "ด็อกเตอร์ ฟู",
+      "chue_phasa_angkrit": "Dr.Fuu"
+    },
+    {
+      "chue_wong": "ดอกเบี้ยบานแบนด์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ดอกไม้ป่า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ดอนผีบิน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ดับเบิ้ล ยู",
+      "chue_phasa_angkrit": "Double U"
+    },
+    {
+      "chue_wong": "ดาคิลเลอส์",
+      "chue_phasa_angkrit": "Da Killerz"
+    },
+    {
+      "chue_wong": "ดาวพลูโต",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ดิ ออริจินอล ทรี",
+      "chue_phasa_angkrit": "The Original Three"
+    },
+    {
+      "chue_wong": "ดิ ออฟติก",
+      "chue_phasa_angkrit": "The Optic"
+    },
+    {
+      "chue_wong": "ดิ อิมพอสซิเบิ้ล",
+      "chue_phasa_angkrit": "The Impossible"
+    },
+    {
+      "chue_wong": "ดิ อินโนเซ้นท์",
+      "chue_phasa_angkrit": "The Innocent"
+    },
+    {
+      "chue_wong": "ดิแอทลาส",
+      "chue_phasa_angkrit": "The Atlas"
+    },
+    {
+      "chue_wong": "ดิโอเปี้ยม",
+      "chue_phasa_angkrit": "Di-Opium"
+    },
+    {
+      "chue_wong": "ดิ โอฬาร โปรเจ็คต์",
+      "chue_phasa_angkrit": "The Olarn Project"
+    },
+    {
+      "chue_wong": "ดินสอดำ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ดีซีแบนด์",
+      "chue_phasa_angkrit": "D.C. Band"
+    },
+    {
+      "chue_wong": "ดีเซมเบอร์",
+      "chue_phasa_angkrit": "Dezember"
+    },
+    {
+      "chue_wong": "ดีทูบี",
+      "chue_phasa_angkrit": "D2B"
+    },
+    {
+      "chue_wong": "ดีเทลส์",
+      "chue_phasa_angkrit": "Details"
+    },
+    {
+      "chue_wong": "ดีปลี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ดูบาดู",
+      "chue_phasa_angkrit": "Doobadoo"
+    },
+    {
+      "chue_wong": "เดจา วู",
+      "chue_phasa_angkrit": "Deja Vu"
+    },
+    {
+      "chue_wong": "เดย์ ทริปเปอร์",
+      "chue_phasa_angkrit": "Day Tripper"
+    },
+    {
+      "chue_wong": "เดอะ จั๊กส์",
+      "chue_phasa_angkrit": "The Jukks"
+    },
+    {
+      "chue_wong": "เดอะซัน",
+      "chue_phasa_angkrit": "The Sun"
+    },
+    {
+      "chue_wong": "เดอะ ซิตี้ คอรัส",
+      "chue_phasa_angkrit": "The City Chorus"
+    },
+    {
+      "chue_wong": "เดอะซิส",
+      "chue_phasa_angkrit": "The Sis"
+    },
+    {
+      "chue_wong": "เดอะเซ้นท์",
+      "chue_phasa_angkrit": "The Saint"
+    },
+    {
+      "chue_wong": "เดอะ ไดเอต พิลส์",
+      "chue_phasa_angkrit": "The Diet Pills"
+    },
+    {
+      "chue_wong": "เดอะ เทอร์ตี้ เอท เยียร์ส อโก",
+      "chue_phasa_angkrit": "The 38 Years Ago"
+    },
+    {
+      "chue_wong": "เดอะไทคูน",
+      "chue_phasa_angkrit": "The Tycoon"
+    },
+    {
+      "chue_wong": "เดอะ โน้ต",
+      "chue_phasa_angkrit": "The Note"
+    },
+    {
+      "chue_wong": "เดอะ บอททอม บลูส์",
+      "chue_phasa_angkrit": "The Bottom Blues"
+    },
+    {
+      "chue_wong": "เดอะ บีกินส์",
+      "chue_phasa_angkrit": "The Begins"
+    },
+    {
+      "chue_wong": "เดอะ เบลสส์",
+      "chue_phasa_angkrit": "The Bless"
+    },
+    {
+      "chue_wong": "เดอะ แบ็คอัพ",
+      "chue_phasa_angkrit": "The Back Up"
+    },
+    {
+      "chue_wong": "เดอะ เป็ด",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เดอะ เปเปอส์",
+      "chue_phasa_angkrit": "The Papers"
+    },
+    {
+      "chue_wong": "เดอะ พีชแบนด์",
+      "chue_phasa_angkrit": "The Peach Band"
+    },
+    {
+      "chue_wong": "เดอะพีเพิล",
+      "chue_phasa_angkrit": "The People"
+    },
+    {
+      "chue_wong": "เดอะ ฟ็อกซ์",
+      "chue_phasa_angkrit": "The Fox"
+    },
+    {
+      "chue_wong": "เดอะ ฟิน",
+      "chue_phasa_angkrit": "The Fin"
+    },
+    {
+      "chue_wong": "เดอะ โฟโต้ สติกเกอร์ แมชีน",
+      "chue_phasa_angkrit": "The Photo Sticker Machine"
+    },
+    {
+      "chue_wong": "เดอะม้ง",
+      "chue_phasa_angkrit": "The hmong"
+    },
+    {
+      "chue_wong": "เดอะ มัสต์",
+      "chue_phasa_angkrit": "The Must"
+    },
+    {
+      "chue_wong": "เดอะมูสส์",
+      "chue_phasa_angkrit": "The Mousses"
+    },
+    {
+      "chue_wong": "เดอะเยอร์ส",
+      "chue_phasa_angkrit": "The Yers"
+    },
+    {
+      "chue_wong": "เดอะริชแมนทอย",
+      "chue_phasa_angkrit": "The Richman Toy"
+    },
+    {
+      "chue_wong": "เดอะ เวิร์ม",
+      "chue_phasa_angkrit": "The Worm"
+    },
+    {
+      "chue_wong": "เดอะ ฮอตเปปเปอร์ซิงเกอร์",
+      "chue_phasa_angkrit": "The Hot Pepper Singers"
+    },
+    {
+      "chue_wong": "แดดดี้ ด็อก",
+      "chue_phasa_angkrit": "Daddy Dog"
+    },
+    {
+      "chue_wong": "แดน-บีม",
+      "chue_phasa_angkrit": "Dan-Beam"
+    },
+    {
+      "chue_wong": "แดนซ์ อาร์มี่",
+      "chue_phasa_angkrit": "Dance Army"
+    },
+    {
+      "chue_wong": "โดส",
+      "chue_phasa_angkrit": "Dos"
+    },
+    {
+      "chue_wong": "โดมิแนนท์",
+      "chue_phasa_angkrit": "Dominant"
+    },
+    {
+      "chue_wong": "ตเลง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ต้อง แอนด์ เจนนี่",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ตะกร้า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ตาวัน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เตกีล่า ซันเซ็ต",
+      "chue_phasa_angkrit": "Tequila Sunset"
+    },
+    {
+      "chue_wong": "เตปาป้า",
+      "chue_phasa_angkrit": "Tepapa"
+    },
+    {
+      "chue_wong": "ทรงหรรษา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ทรัย",
+      "chue_phasa_angkrit": "Try"
+    },
+    {
+      "chue_wong": "ทรานซ์ ซิสเตอร์",
+      "chue_phasa_angkrit": "Trance Ziztor"
+    },
+    {
+      "chue_wong": "ทราย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ทรายมายชูส์",
+      "chue_phasa_angkrit": "Trymyshoes"
+    },
+    {
+      "chue_wong": "ทรีจี",
+      "chue_phasa_angkrit": "3G"
+    },
+    {
+      "chue_wong": "ทรี แซทเทอร์เดย์",
+      "chue_phasa_angkrit": "Three Saturday"
+    },
+    {
+      "chue_wong": "ทรีดิฟฟ์",
+      "chue_phasa_angkrit": "3Diff"
+    },
+    {
+      "chue_wong": "ทรีดีซี",
+      "chue_phasa_angkrit": "3DC"
+    },
+    {
+      "chue_wong": "ทรี ทู วัน",
+      "chue_phasa_angkrit": "3.2.1"
+    },
+    {
+      "chue_wong": "ทรีพลัสวัน",
+      "chue_phasa_angkrit": "Three Plus One"
+    },
+    {
+      "chue_wong": "ทรีแมนดาวน์",
+      "chue_phasa_angkrit": "Three Man Down"
+    },
+    {
+      "chue_wong": "ทวินโซล",
+      "chue_phasa_angkrit": "Twin Soul"
+    },
+    {
+      "chue_wong": "ทเวนติไฟว์ฮาวส์",
+      "chue_phasa_angkrit": "25 hours"
+    },
+    {
+      "chue_wong": "ทโมน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ทอล์คเลส",
+      "chue_phasa_angkrit": "Talkless"
+    },
+    {
+      "chue_wong": "ทักซ์ แมนชั่น",
+      "chue_phasa_angkrit": "Thugz Mansion"
+    },
+    {
+      "chue_wong": "ทัวร์",
+      "chue_phasa_angkrit": "Tour"
+    },
+    {
+      "chue_wong": "ทาบาสโก้",
+      "chue_phasa_angkrit": "Tabasco"
+    },
+    {
+      "chue_wong": "ทาร์ซานส์ บอย",
+      "chue_phasa_angkrit": "Tarzan's Boy"
+    },
+    {
+      "chue_wong": "ทิค แทค โท",
+      "chue_phasa_angkrit": "Tic Tac To"
+    },
+    {
+      "chue_wong": "ทีนเอจเกรดเอ",
+      "chue_phasa_angkrit": "Teen 8 Grade A"
+    },
+    {
+      "chue_wong": "ทีโบน",
+      "chue_phasa_angkrit": "T-Bone"
+    },
+    {
+      "chue_wong": "ทีฟอร์ทรี",
+      "chue_phasa_angkrit": "Tea For Three"
+    },
+    {
+      "chue_wong": "ทีมอร์โรว์",
+      "chue_phasa_angkrit": "T-Morrow"
+    },
+    {
+      "chue_wong": "ทิลลี่เบิร์ด",
+      "chue_phasa_angkrit": "Tilly Birds"
+    },
+    {
+      "chue_wong": "ทีสเกิ๊ต",
+      "chue_phasa_angkrit": "T-Skirt"
+    },
+    {
+      "chue_wong": "ทีเคโอ",
+      "chue_phasa_angkrit": "TKO"
+    },
+    {
+      "chue_wong": "ทู",
+      "chue_phasa_angkrit": "Two"
+    },
+    {
+      "chue_wong": "ทู พีซเซส",
+      "chue_phasa_angkrit": "2 Pcs."
+    },
+    {
+      "chue_wong": "ทูฟลาวเวอร์ส",
+      "chue_phasa_angkrit": "Twoflowers"
+    },
+    {
+      "chue_wong": "ทู ไฮ",
+      "chue_phasa_angkrit": "2 High"
+    },
+    {
+      "chue_wong": "ทูเดย์ส อะโกคิดส์",
+      "chue_phasa_angkrit": "2 Days Ago Kids"
+    },
+    {
+      "chue_wong": "เท็ดดี้ สกา แบนด์",
+      "chue_phasa_angkrit": "Teddy Ska Band"
+    },
+    {
+      "chue_wong": "เท็น ทู ทเวลฟ์",
+      "chue_phasa_angkrit": "Ten to Twelve"
+    },
+    {
+      "chue_wong": "เท็นอีเลฟเวน",
+      "chue_phasa_angkrit": "1011"
+    },
+    {
+      "chue_wong": "เทอร์ตี้ทู อ็อคโทเบอร์",
+      "chue_phasa_angkrit": "32 October"
+    },
+    {
+      "chue_wong": "เทอร์โบ",
+      "chue_phasa_angkrit": "Turbo"
+    },
+    {
+      "chue_wong": "เทอร์ราคอตตา",
+      "chue_phasa_angkrit": "Terracotta"
+    },
+    {
+      "chue_wong": "เทอร์แรนส์ อาร์ ชีทเทอร์ส",
+      "chue_phasa_angkrit": "Terrans Are Cheaters!"
+    },
+    {
+      "chue_wong": "แท็กซี่",
+      "chue_phasa_angkrit": "Taxi"
+    },
+    {
+      "chue_wong": "แทททูคัลเลอร์",
+      "chue_phasa_angkrit": "Tattoo Colour"
+    },
+    {
+      "chue_wong": "แทสมาเนียน",
+      "chue_phasa_angkrit": "Tazzmanian"
+    },
+    {
+      "chue_wong": "เทิร์นออน",
+      "chue_phasa_angkrit": "Turn On"
+    },
+    {
+      "chue_wong": "ไทม์",
+      "chue_phasa_angkrit": "Time"
+    },
+    {
+      "chue_wong": "ไทยเทเนี่ยม",
+      "chue_phasa_angkrit": "Thaitanium"
+    },
+    {
+      "chue_wong": "ไทยแลนด์ ฟิลฮาร์โมนิก ออเคสตรา",
+      "chue_phasa_angkrit": "Thailand Philharmonic Orchestra"
+    },
+    {
+      "chue_wong": "ไทรอัมพ์ส คิงดอม",
+      "chue_phasa_angkrit": "Triumphs Kingdom"
+    },
+    {
+      "chue_wong": "ไทร็อก",
+      "chue_phasa_angkrit": "Thai Rock"
+    },
+    {
+      "chue_wong": "ไทละเมอ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ไทลากูน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ธาร์ มาส ด่า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นกแล",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นกแสก",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "น็อคเดอะน็อค",
+      "chue_phasa_angkrit": "Knock The Knock"
+    },
+    {
+      "chue_wong": "น็อต-เก็น",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นอน ท็อกซิค",
+      "chue_phasa_angkrit": "Non-Toxic"
+    },
+    {
+      "chue_wong": "นอนมา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นอยซ์",
+      "chue_phasa_angkrit": "Noize"
+    },
+    {
+      "chue_wong": "นอส",
+      "chue_phasa_angkrit": "Nos"
+    },
+    {
+      "chue_wong": "นักเพลง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นัทแครกเกอร์",
+      "chue_phasa_angkrit": "Nutcracker"
+    },
+    {
+      "chue_wong": "นั่งเล่น",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นาตาลี - แจ๊สกี้",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นานา",
+      "chue_phasa_angkrit": "Nana"
+    },
+    {
+      "chue_wong": "น้า น้า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นานาช่า",
+      "chue_phasa_angkrit": "Na Na Cha"
+    },
+    {
+      "chue_wong": "นายครรชิตกับทิดแหลม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นาวิน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "น้ำใจ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นิธิทัศน์แบนด์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นิรนาม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นิว-จิ๋ว",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นิวสคูล",
+      "chue_phasa_angkrit": "New School"
+    },
+    {
+      "chue_wong": "นิว โอลด์ สต็อก",
+      "chue_phasa_angkrit": "New Old Stock"
+    },
+    {
+      "chue_wong": "นีซ",
+      "chue_phasa_angkrit": "Niece"
+    },
+    {
+      "chue_wong": "นีโอย้อนแยง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นีโอ-เอ็กซ์",
+      "chue_phasa_angkrit": "NEO-X"
+    },
+    {
+      "chue_wong": "นูโว (Nuvo",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "นูทราไลซ์",
+      "chue_phasa_angkrit": "Neutralize"
+    },
+    {
+      "chue_wong": "เนโกะ จัมพ์",
+      "chue_phasa_angkrit": "Neko Jump"
+    },
+    {
+      "chue_wong": "เนิร์สเซอรี่ซาวด์",
+      "chue_phasa_angkrit": "Nursery Sound"
+    },
+    {
+      "chue_wong": "เนื้อกับหนัง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แน็พ อะ ลีน",
+      "chue_phasa_angkrit": "Nap a Lean"
+    },
+    {
+      "chue_wong": "โนชั่น แอ้ต",
+      "chue_phasa_angkrit": "notion8"
+    },
+    {
+      "chue_wong": "โน้ต-ตูน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โน้ต-บาส",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โน้ต แอนด์ ฮ็อท ทู ทร็อท",
+      "chue_phasa_angkrit": "Note and Hot to Trot"
+    },
+    {
+      "chue_wong": "โน มอร์ เทียร์",
+      "chue_phasa_angkrit": "No More Tear"
+    },
+    {
+      "chue_wong": "โน รีฟันด์",
+      "chue_phasa_angkrit": "No Refund"
+    },
+    {
+      "chue_wong": "โนโลโก้",
+      "chue_phasa_angkrit": "Nologo"
+    },
+    {
+      "chue_wong": "โน้ส แคนดี้",
+      "chue_phasa_angkrit": "Nose Candy"
+    },
+    {
+      "chue_wong": "ไนซ์ ทู มีท ยู",
+      "chue_phasa_angkrit": "Nice 2 Meet U"
+    },
+    {
+      "chue_wong": "บราเธอร์ส",
+      "chue_phasa_angkrit": "Brothers"
+    },
+    {
+      "chue_wong": "บราวน์ ฟลายอิ้ง",
+      "chue_phasa_angkrit": "Brown Flying"
+    },
+    {
+      "chue_wong": "บรั่นดี",
+      "chue_phasa_angkrit": "Brandy"
+    },
+    {
+      "chue_wong": "บรูเนทไฟว์",
+      "chue_phasa_angkrit": "Brunet 5"
+    },
+    {
+      "chue_wong": "บลูด็อค",
+      "chue_phasa_angkrit": "Blue Dock"
+    },
+    {
+      "chue_wong": "บลูเบอร์รี่ อาร์-สยาม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "บ็อกเซอร์",
+      "chue_phasa_angkrit": "Boxer"
+    },
+    {
+      "chue_wong": "บอดี้สแลม",
+      "chue_phasa_angkrit": "Bodyslam"
+    },
+    {
+      "chue_wong": "บอยไทย",
+      "chue_phasa_angkrit": "Boy Thai"
+    },
+    {
+      "chue_wong": "บอยสเก๊าท์",
+      "chue_phasa_angkrit": "Boyscout"
+    },
+    {
+      "chue_wong": "บอลพลาสติก",
+      "chue_phasa_angkrit": "Ballplastic"
+    },
+    {
+      "chue_wong": "บั๊ก บันจี้",
+      "chue_phasa_angkrit": "Bug Bunji"
+    },
+    {
+      "chue_wong": "บังกลาเทศ แบนด์",
+      "chue_phasa_angkrit": "Bangladesh Band"
+    },
+    {
+      "chue_wong": "บัตเตอร์ คาราเมล",
+      "chue_phasa_angkrit": "Butter Caramel"
+    },
+    {
+      "chue_wong": "บัตเตอร์ฟลาย",
+      "chue_phasa_angkrit": "Butterfly"
+    },
+    {
+      "chue_wong": "บัตเตอร์ฟลาย เอฟเฟ็กต์",
+      "chue_phasa_angkrit": "Butterfly Effect"
+    },
+    {
+      "chue_wong": "บับเบิ้ลเกิร์ลส์",
+      "chue_phasa_angkrit": "Bubble Girls"
+    },
+    {
+      "chue_wong": "บัวหิมะ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "บางกอก จิ๊กกะโล่",
+      "chue_phasa_angkrit": "Bangkok Gigolo"
+    },
+    {
+      "chue_wong": "บางกอก ซิมโฟนี ออเคสตรา",
+      "chue_phasa_angkrit": "Bangkok Symphony Orchestra"
+    },
+    {
+      "chue_wong": "บางแก้ว",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "บางลำพู แบนด์",
+      "chue_phasa_angkrit": "Banglumpoo Band"
+    },
+    {
+      "chue_wong": "บาซู",
+      "chue_phasa_angkrit": "Bazoo"
+    },
+    {
+      "chue_wong": "บาซูก้า",
+      "chue_phasa_angkrit": "Bazooka"
+    },
+    {
+      "chue_wong": "บาย ฮาร์ท",
+      "chue_phasa_angkrit": "By Heart"
+    },
+    {
+      "chue_wong": "บาร์บี้",
+      "chue_phasa_angkrit": "Barbie"
+    },
+    {
+      "chue_wong": "บาราคูดัส",
+      "chue_phasa_angkrit": "Barracudas"
+    },
+    {
+      "chue_wong": "บา-ลา-มี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "บาสเก็ตแบนด์",
+      "chue_phasa_angkrit": "Basket Band"
+    },
+    {
+      "chue_wong": "บลิสโซนิค",
+      "chue_phasa_angkrit": "Blissonic"
+    },
+    {
+      "chue_wong": "บิ๊กกัน",
+      "chue_phasa_angkrit": "Biggun"
+    },
+    {
+      "chue_wong": "บิ๊กทรี",
+      "chue_phasa_angkrit": "Big 3"
+    },
+    {
+      "chue_wong": "บิ๊ก บ๊อบ บีต",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "บิ๊กแบง",
+      "chue_phasa_angkrit": "Big Bang"
+    },
+    {
+      "chue_wong": "บิ๊กโบ",
+      "chue_phasa_angkrit": "ฺBig Beau"
+    },
+    {
+      "chue_wong": "บิ๊กแอ๊ปเปิ้ล",
+      "chue_phasa_angkrit": "Big Apple"
+    },
+    {
+      "chue_wong": "บิ๊กแอส",
+      "chue_phasa_angkrit": "Big Ass"
+    },
+    {
+      "chue_wong": "บิ๊กฮาร์ทิค",
+      "chue_phasa_angkrit": "Bighartic"
+    },
+    {
+      "chue_wong": "บิกินี",
+      "chue_phasa_angkrit": "Bikiny"
+    },
+    {
+      "chue_wong": "บิวตี้ จี",
+      "chue_phasa_angkrit": "Beauty G"
+    },
+    {
+      "chue_wong": "บิสกิต",
+      "chue_phasa_angkrit": "Biscuit"
+    },
+    {
+      "chue_wong": "บีน",
+      "chue_phasa_angkrit": "Bean"
+    },
+    {
+      "chue_wong": "บี-มิกซ์",
+      "chue_phasa_angkrit": "B-Mix"
+    },
+    {
+      "chue_wong": "บีคิง",
+      "chue_phasa_angkrit": "B-King"
+    },
+    {
+      "chue_wong": "บีเคเค",
+      "chue_phasa_angkrit": "BKK"
+    },
+    {
+      "chue_wong": "บีไฟว์",
+      "chue_phasa_angkrit": "B5"
+    },
+    {
+      "chue_wong": "บีโอ",
+      "chue_phasa_angkrit": "BeeO"
+    },
+    {
+      "chue_wong": "บี-โอ-วาย",
+      "chue_phasa_angkrit": "B.O.Y. Blood Of Youth"
+    },
+    {
+      "chue_wong": "บุดดาเบลส",
+      "chue_phasa_angkrit": "Buddha Bless"
+    },
+    {
+      "chue_wong": "บุดดิสต์ ฮอลิเดย์",
+      "chue_phasa_angkrit": "Buddist Holiday"
+    },
+    {
+      "chue_wong": "บุปผาชน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "บูโดกัน",
+      "chue_phasa_angkrit": "Budokan"
+    },
+    {
+      "chue_wong": "บู แมนชั่น",
+      "chue_phasa_angkrit": "Boo Mansion"
+    },
+    {
+      "chue_wong": "บูสท์",
+      "chue_phasa_angkrit": "Boost"
+    },
+    {
+      "chue_wong": "เบดรูม ออดิโอ",
+      "chue_phasa_angkrit": "Bedroom Audio"
+    },
+    {
+      "chue_wong": "เบทเทอร์ เวเธอร์",
+      "chue_phasa_angkrit": "Better Weather"
+    },
+    {
+      "chue_wong": "เบบี้คอร์น",
+      "chue_phasa_angkrit": "Baby Corn"
+    },
+    {
+      "chue_wong": "เบบี้ซิตเตอร์",
+      "chue_phasa_angkrit": "Babysitter"
+    },
+    {
+      "chue_wong": "เบบี้ บูลล์",
+      "chue_phasa_angkrit": "Baby Bull"
+    },
+    {
+      "chue_wong": "เบรกฟาสต์ อิน เบด",
+      "chue_phasa_angkrit": "Breakfast in Bed"
+    },
+    {
+      "chue_wong": "เบิร์ดกะฮาร์ท",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แบง แบง",
+      "chue_phasa_angkrit": "Bang Bang"
+    },
+    {
+      "chue_wong": "แบชเชอร์",
+      "chue_phasa_angkrit": "Basher"
+    },
+    {
+      "chue_wong": "แบดกายส์",
+      "chue_phasa_angkrit": "Bad Guys"
+    },
+    {
+      "chue_wong": "แบดเทสต์",
+      "chue_phasa_angkrit": "Badtaste"
+    },
+    {
+      "chue_wong": "แบดบอย",
+      "chue_phasa_angkrit": "Bad Boy"
+    },
+    {
+      "chue_wong": "แบดซ์",
+      "chue_phasa_angkrit": "Badz"
+    },
+    {
+      "chue_wong": "แบมบู",
+      "chue_phasa_angkrit": "Bamboo"
+    },
+    {
+      "chue_wong": "แบล็คบิวตี้",
+      "chue_phasa_angkrit": "Black Beauty"
+    },
+    {
+      "chue_wong": "แบล็ควานิลลา",
+      "chue_phasa_angkrit": "Black Vanilla"
+    },
+    {
+      "chue_wong": "แบล็คเฮด",
+      "chue_phasa_angkrit": "Blackhead"
+    },
+    {
+      "chue_wong": "แบนด์วากอน",
+      "chue_phasa_angkrit": "Bandwagon"
+    },
+    {
+      "chue_wong": "โบกี้-ดอดจ์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โบโซ่",
+      "chue_phasa_angkrit": "bozo"
+    },
+    {
+      "chue_wong": "ประจัญบาน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปลานิลเต็มบ้าน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปลื้ม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปะการัง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปัจฉิมลิขิต",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปา-ท่อง-โก๋",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปานามา",
+      "chue_phasa_angkrit": "Panama"
+    },
+    {
+      "chue_wong": "ปาร์คและแจกัน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปิ๊ก-อัพ",
+      "chue_phasa_angkrit": "Pick-Up"
+    },
+    {
+      "chue_wong": "ปิ่นโต",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ปุยฝ้าย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เปเปอร์ แจม",
+      "chue_phasa_angkrit": "Paper Jam"
+    },
+    {
+      "chue_wong": "เปเปอร์ แพลน",
+      "chue_phasa_angkrit": "Paper Plans"
+    },
+    {
+      "chue_wong": "8 ไม้เท้า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โปงลางสะออน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โปเตโต้",
+      "chue_phasa_angkrit": "Potato"
+    },
+    {
+      "chue_wong": "ไปส่งกู บขส. ดู๊",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ผู้หญิง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แผ่นดิน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ฝันดี-ฝันเด่น",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พรรณนา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พราว",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พริกไทย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พริ้งกี้ กรูฟ",
+      "chue_phasa_angkrit": "Prinky Groove"
+    },
+    {
+      "chue_wong": "พริตตี้ พลีส",
+      "chue_phasa_angkrit": "Pretty Please"
+    },
+    {
+      "chue_wong": "พริ้ว",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พรีเทนเดอร์",
+      "chue_phasa_angkrit": "Pretender"
+    },
+    {
+      "chue_wong": "พรู",
+      "chue_phasa_angkrit": "Pru"
+    },
+    {
+      "chue_wong": "พลพรรครักเอย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พล็อต",
+      "chue_phasa_angkrit": "Plot"
+    },
+    {
+      "chue_wong": "วงพลอย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พลเอก",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พลัสม่า",
+      "chue_phasa_angkrit": "PLASMA"
+    },
+    {
+      "chue_wong": "พล่าน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พลาสติก พลาสติก",
+      "chue_phasa_angkrit": "Plastic Plastic"
+    },
+    {
+      "chue_wong": "พอง พอง",
+      "chue_phasa_angkrit": "Pong Pong"
+    },
+    {
+      "chue_wong": "พ็อพชิพ",
+      "chue_phasa_angkrit": "Popship"
+    },
+    {
+      "chue_wong": "พ็อพ แองเจิลส์",
+      "chue_phasa_angkrit": "Pop Angels"
+    },
+    {
+      "chue_wong": "พอร์คีปเปอร์ส",
+      "chue_phasa_angkrit": "Porkeepers"
+    },
+    {
+      "chue_wong": "พอส",
+      "chue_phasa_angkrit": "Pause"
+    },
+    {
+      "chue_wong": "พัซเซิล",
+      "chue_phasa_angkrit": "Puzzle"
+    },
+    {
+      "chue_wong": "พาย",
+      "chue_phasa_angkrit": "Pi"
+    },
+    {
+      "chue_wong": "พาร์ทไทม์ มิวสิคเชียนส์",
+      "chue_phasa_angkrit": "Part Time Musicians"
+    },
+    {
+      "chue_wong": "พาราไซท์",
+      "chue_phasa_angkrit": "Parasite"
+    },
+    {
+      "chue_wong": "พาราณสี ออร์เคสตรา",
+      "chue_phasa_angkrit": "Varanasi Orchestra"
+    },
+    {
+      "chue_wong": "พาราด็อกซ์",
+      "chue_phasa_angkrit": "Paradox"
+    },
+    {
+      "chue_wong": "พาวเวอร์แพท",
+      "chue_phasa_angkrit": "Power Pat"
+    },
+    {
+      "chue_wong": "พิกซิล",
+      "chue_phasa_angkrit": "Pixyl"
+    },
+    {
+      "chue_wong": "พิกเซล",
+      "chue_phasa_angkrit": "Pixel"
+    },
+    {
+      "chue_wong": "พิงค์แพนเตอร์",
+      "chue_phasa_angkrit": "Pink Panther"
+    },
+    {
+      "chue_wong": "พิ้งค์",
+      "chue_phasa_angkrit": "Pink"
+    },
+    {
+      "chue_wong": "พิณ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พิมาน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "พีค",
+      "chue_phasa_angkrit": "Peak"
+    },
+    {
+      "chue_wong": "พีซเมเกอร์",
+      "chue_phasa_angkrit": "Peacemaker"
+    },
+    {
+      "chue_wong": "พีเอมเซเว่น",
+      "chue_phasa_angkrit": "PM Seven"
+    },
+    {
+      "chue_wong": "พีเอมไฟว์",
+      "chue_phasa_angkrit": "PM Five"
+    },
+    {
+      "chue_wong": "พีโอพี",
+      "chue_phasa_angkrit": "P.O.P"
+    },
+    {
+      "chue_wong": "พีทูวอร์ชิพ",
+      "chue_phasa_angkrit": "P2Warship"
+    },
+    {
+      "chue_wong": "เพชรพิณทอง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เพนทาแกรม",
+      "chue_phasa_angkrit": "Pentagram"
+    },
+    {
+      "chue_wong": "เพนแทงเกิล",
+      "chue_phasa_angkrit": "Pentangle"
+    },
+    {
+      "chue_wong": "เพรสซิเดนต์",
+      "chue_phasa_angkrit": "President"
+    },
+    {
+      "chue_wong": "เพรสเซนต์ เพอร์เฟ็กต์",
+      "chue_phasa_angkrit": "Present Perfect"
+    },
+    {
+      "chue_wong": "เพลย์",
+      "chue_phasa_angkrit": "Play"
+    },
+    {
+      "chue_wong": "เพลย์กราวด์",
+      "chue_phasa_angkrit": "Playground"
+    },
+    {
+      "chue_wong": "เพลินจิตอาเขต",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เพอร์กาทอรี",
+      "chue_phasa_angkrit": "Purgatory"
+    },
+    {
+      "chue_wong": "เพอร์เฟ็กต์ ซันเดย์",
+      "chue_phasa_angkrit": "Perfect Sunday"
+    },
+    {
+      "chue_wong": "เพอร์เฟ็กต์ ร็อกสตาร์ส",
+      "chue_phasa_angkrit": "Perfect Rock Stars"
+    },
+    {
+      "chue_wong": "เพาเวอร์แบนด์",
+      "chue_phasa_angkrit": "Power Band"
+    },
+    {
+      "chue_wong": "เพียว",
+      "chue_phasa_angkrit": "Pure"
+    },
+    {
+      "chue_wong": "เพียว ฟีล",
+      "chue_phasa_angkrit": "Pure Feel"
+    },
+    {
+      "chue_wong": "เพื่อน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แพนเค้ก",
+      "chue_phasa_angkrit": "Pancake"
+    },
+    {
+      "chue_wong": "แพนิค สตาร์ตเตอร์",
+      "chue_phasa_angkrit": "Panic Starter"
+    },
+    {
+      "chue_wong": "แพลม",
+      "chue_phasa_angkrit": "Plam"
+    },
+    {
+      "chue_wong": "โพสิชั่น",
+      "chue_phasa_angkrit": "Position"
+    },
+    {
+      "chue_wong": "โพลารอยด์",
+      "chue_phasa_angkrit": "Polaroid"
+    },
+    {
+      "chue_wong": "โพลีแคท",
+      "chue_phasa_angkrit": "Polycat"
+    },
+    {
+      "chue_wong": "ไพบูลส์",
+      "chue_phasa_angkrit": "Paiblus"
+    },
+    {
+      "chue_wong": "ฟรายเดย์",
+      "chue_phasa_angkrit": "Friday"
+    },
+    {
+      "chue_wong": "ฟริค",
+      "chue_phasa_angkrit": "Frick"
+    },
+    {
+      "chue_wong": "ฟรีเบิร์ดส",
+      "chue_phasa_angkrit": "Freebirds"
+    },
+    {
+      "chue_wong": "ฟรีเพลย์",
+      "chue_phasa_angkrit": "Freeplay"
+    },
+    {
+      "chue_wong": "ฟรุตตี้",
+      "chue_phasa_angkrit": "Fruity"
+    },
+    {
+      "chue_wong": "ฟลาย",
+      "chue_phasa_angkrit": "Fly"
+    },
+    {
+      "chue_wong": "ฟลายอิ้ง ซูโม่",
+      "chue_phasa_angkrit": "Flying Sumo"
+    },
+    {
+      "chue_wong": "ฟลัวร์",
+      "chue_phasa_angkrit": "Flure"
+    },
+    {
+      "chue_wong": "ฟองน้ำ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ฟองสบู่",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ฟอร์กอต ยัวร์ เคส",
+      "chue_phasa_angkrit": "Forgot Your Case"
+    },
+    {
+      "chue_wong": "ฟอร์เกท มี นอท",
+      "chue_phasa_angkrit": "Forget Me Not"
+    },
+    {
+      "chue_wong": "ฟอร์เต้",
+      "chue_phasa_angkrit": "Forté"
+    },
+    {
+      "chue_wong": "ฟอร์แมท",
+      "chue_phasa_angkrit": "Format"
+    },
+    {
+      "chue_wong": "ฟอร์เอฟเวอร์",
+      "chue_phasa_angkrit": "Forever"
+    },
+    {
+      "chue_wong": "ฟอสซิล",
+      "chue_phasa_angkrit": "Fossil"
+    },
+    {
+      "chue_wong": "ฟังกี เบอร์เกอร์",
+      "chue_phasa_angkrit": "Funky Burger"
+    },
+    {
+      "chue_wong": "ฟังค์ชัน",
+      "chue_phasa_angkrit": "Funktion"
+    },
+    {
+      "chue_wong": "ฟาเรนไฮธ์",
+      "chue_phasa_angkrit": "Fahrenheit"
+    },
+    {
+      "chue_wong": "ฟ้าใหม่",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ฟิฟ",
+      "chue_phasa_angkrit": "FiF"
+    },
+    {
+      "chue_wong": "ฟิฟทีน ซีนเนอรี่",
+      "chue_phasa_angkrit": "Fifteenth Scenery"
+    },
+    {
+      "chue_wong": "ฟีดแบค",
+      "chue_phasa_angkrit": "Feedback"
+    },
+    {
+      "chue_wong": "ฟีนิกซ์",
+      "chue_phasa_angkrit": "Phoenix"
+    },
+    {
+      "chue_wong": "ฟีเมล ฟรุตตี้ บุลด็อก",
+      "chue_phasa_angkrit": "Female Fruity Bulldog"
+    },
+    {
+      "chue_wong": "ฟื้น",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ฟุตปาธ",
+      "chue_phasa_angkrit": "Footpath"
+    },
+    {
+      "chue_wong": "ฟูนัน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ฟูตอง",
+      "chue_phasa_angkrit": "Futon"
+    },
+    {
+      "chue_wong": "เฟธ",
+      "chue_phasa_angkrit": "Faith"
+    },
+    {
+      "chue_wong": "เฟม",
+      "chue_phasa_angkrit": "Fame"
+    },
+    {
+      "chue_wong": "เฟรปเป้ เมจิ",
+      "chue_phasa_angkrit": "Frappe Meiji"
+    },
+    {
+      "chue_wong": "เฟรม",
+      "chue_phasa_angkrit": "Frame"
+    },
+    {
+      "chue_wong": "เฟลม",
+      "chue_phasa_angkrit": "Flame"
+    },
+    {
+      "chue_wong": "เฟลเวอร์",
+      "chue_phasa_angkrit": "Flavour"
+    },
+    {
+      "chue_wong": "เฟย์ ฟาง แก้ว",
+      "chue_phasa_angkrit": "Faye Fang Kaew"
+    },
+    {
+      "chue_wong": "เฟิสท์แก็งค์",
+      "chue_phasa_angkrit": "Firstgang"
+    },
+    {
+      "chue_wong": "แฟกต์ ยู",
+      "chue_phasa_angkrit": "Fact U"
+    },
+    {
+      "chue_wong": "แฟชั่นโชว์",
+      "chue_phasa_angkrit": "Fashion Show"
+    },
+    {
+      "chue_wong": "แฟลช",
+      "chue_phasa_angkrit": "Flash"
+    },
+    {
+      "chue_wong": "แฟรี่ เทลส์",
+      "chue_phasa_angkrit": "Fairy Tales"
+    },
+    {
+      "chue_wong": "โฟกัสซั่ม",
+      "chue_phasa_angkrit": "4Gzm"
+    },
+    {
+      "chue_wong": "โฟโน",
+      "chue_phasa_angkrit": "Fono"
+    },
+    {
+      "chue_wong": "โฟร์ & มด",
+      "chue_phasa_angkrit": "Four - Mod"
+    },
+    {
+      "chue_wong": "โฟร์กอตเทน",
+      "chue_phasa_angkrit": "4 Gotten"
+    },
+    {
+      "chue_wong": "โฟร์มังกี้ซีซั่น",
+      "chue_phasa_angkrit": "4 Monkey s Season"
+    },
+    {
+      "chue_wong": "ไฟท์",
+      "chue_phasa_angkrit": "Fight"
+    },
+    {
+      "chue_wong": "ไฟนอล คิด",
+      "chue_phasa_angkrit": "Final Kid"
+    },
+    {
+      "chue_wong": "ไฟลท์ 787",
+      "chue_phasa_angkrit": "Flight 787"
+    },
+    {
+      "chue_wong": "ภราดร",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ภารต้า",
+      "chue_phasa_angkrit": "Parata"
+    },
+    {
+      "chue_wong": "มนต์รัก โบรา โบร่า",
+      "chue_phasa_angkrit": "Monruk Bora Bora"
+    },
+    {
+      "chue_wong": "มอนสเตอร์",
+      "chue_phasa_angkrit": "Monster"
+    },
+    {
+      "chue_wong": "มอนสเตอร์ส เซอร์คัส",
+      "chue_phasa_angkrit": "Monsters Circus"
+    },
+    {
+      "chue_wong": "มอร์กะจาย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มอร์แกน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มอร์นิ่ง เซิร์ฟเฟอร์ส",
+      "chue_phasa_angkrit": "Morning Surfers"
+    },
+    {
+      "chue_wong": "มอร์นิ่ง ทีชเชอร์ส",
+      "chue_phasa_angkrit": "Morning Teachers"
+    },
+    {
+      "chue_wong": "มอร์ ฟันนิ่ง",
+      "chue_phasa_angkrit": "More Funning"
+    },
+    {
+      "chue_wong": "มะตูม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มะลิ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มะลิลา บราซิลเลี่ยน",
+      "chue_phasa_angkrit": "Malila Brazillian"
+    },
+    {
+      "chue_wong": "มักกะโรนี",
+      "chue_phasa_angkrit": "Macaroni"
+    },
+    {
+      "chue_wong": "มังกี้แพนต์ส",
+      "chue_phasa_angkrit": "Monky Pants"
+    },
+    {
+      "chue_wong": "มังกี้แอ๊ค",
+      "chue_phasa_angkrit": "Monky Act"
+    },
+    {
+      "chue_wong": "มังกี้ เกิร์ล",
+      "chue_phasa_angkrit": "Monkey GirlZ"
+    },
+    {
+      "chue_wong": "มังกี้ ฮีโร่",
+      "chue_phasa_angkrit": "Monkey Hero"
+    },
+    {
+      "chue_wong": "มัลฟังค์ชั่น",
+      "chue_phasa_angkrit": "MALFUNKTION"
+    },
+    {
+      "chue_wong": "มัวร์",
+      "chue_phasa_angkrit": "Moor"
+    },
+    {
+      "chue_wong": "มัสเกตเทียส์",
+      "chue_phasa_angkrit": "Musketeers"
+    },
+    {
+      "chue_wong": "มัชรูม",
+      "chue_phasa_angkrit": "Mushroom"
+    },
+    {
+      "chue_wong": "มาเจนต้า",
+      "chue_phasa_angkrit": "Magenta"
+    },
+    {
+      "chue_wong": "มาตาฮีโร่",
+      "chue_phasa_angkrit": "Matahari"
+    },
+    {
+      "chue_wong": "มานะ มานี ปิติ ชูใจ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มาฟ",
+      "chue_phasa_angkrit": "MAF"
+    },
+    {
+      "chue_wong": "มายด์",
+      "chue_phasa_angkrit": "Mild"
+    },
+    {
+      "chue_wong": "มายา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มาลัย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มาลีฮวนน่า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ม้าเหล็ก",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มิติ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "มิราคูลัส",
+      "chue_phasa_angkrit": "Miraculous"
+    },
+    {
+      "chue_wong": "มิลิทารี่",
+      "chue_phasa_angkrit": "Military"
+    },
+    {
+      "chue_wong": "มิสเตอร์ทีม",
+      "chue_phasa_angkrit": "Mr.Team"
+    },
+    {
+      "chue_wong": "มิสเตอร์ซิสเตอร์",
+      "chue_phasa_angkrit": "Mr.Sister"
+    },
+    {
+      "chue_wong": "มูน",
+      "chue_phasa_angkrit": "Moon"
+    },
+    {
+      "chue_wong": "มูแลตโต",
+      "chue_phasa_angkrit": "Mulatto"
+    },
+    {
+      "chue_wong": "มูเทร่า",
+      "chue_phasa_angkrit": "Mutera"
+    },
+    {
+      "chue_wong": "เมดูซา",
+      "chue_phasa_angkrit": "Meduza"
+    },
+    {
+      "chue_wong": "เมนทอลลี่ อิล",
+      "chue_phasa_angkrit": "Mentally ill"
+    },
+    {
+      "chue_wong": "เมลโรส",
+      "chue_phasa_angkrit": "Malerose"
+    },
+    {
+      "chue_wong": "เมอร์รี โก ราวนด์",
+      "chue_phasa_angkrit": "Merry Go Round"
+    },
+    {
+      "chue_wong": "แมคอินทอช",
+      "chue_phasa_angkrit": "Macintoch"
+    },
+    {
+      "chue_wong": "แมด แพ็ค อิท",
+      "chue_phasa_angkrit": "Mad Pack It"
+    },
+    {
+      "chue_wong": "แมทนิแมร์",
+      "chue_phasa_angkrit": "Mattnimare"
+    },
+    {
+      "chue_wong": "โมเดิร์นด็อก",
+      "chue_phasa_angkrit": "Modern Dog"
+    },
+    {
+      "chue_wong": "โมทีฟ",
+      "chue_phasa_angkrit": "Motif"
+    },
+    {
+      "chue_wong": "โมโน",
+      "chue_phasa_angkrit": "Mono"
+    },
+    {
+      "chue_wong": "โมโนโทน กรุ๊ป",
+      "chue_phasa_angkrit": "Monotone Group"
+    },
+    {
+      "chue_wong": "โมโนมาเนีย",
+      "chue_phasa_angkrit": "Monomania"
+    },
+    {
+      "chue_wong": "โมลา โมล่า ซันไชน์",
+      "chue_phasa_angkrit": "Mola Mola Sunshine"
+    },
+    {
+      "chue_wong": "ไมเกรท ทู ดิ โอเชี่ยน",
+      "chue_phasa_angkrit": "Migrate to the Ocean"
+    },
+    {
+      "chue_wong": "ไมโคร",
+      "chue_phasa_angkrit": "Micro"
+    },
+    {
+      "chue_wong": "ไมตี้ ควีน",
+      "chue_phasa_angkrit": "Mighty Queen"
+    },
+    {
+      "chue_wong": "ไม้ไผ่",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ไม้เมือง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ไมลด์ เกรน",
+      "chue_phasa_angkrit": "Mild Gain"
+    },
+    {
+      "chue_wong": "มังกี้ เฮด",
+      "chue_phasa_angkrit": "Monkëy Head"
+    },
+    {
+      "chue_wong": "ยัง ซิง",
+      "chue_phasa_angkrit": "Young Sing"
+    },
+    {
+      "chue_wong": "ย้ากส์ แล็ป",
+      "chue_phasa_angkrit": "Yaak Lab"
+    },
+    {
+      "chue_wong": "ยิ้มกริ่ม",
+      "chue_phasa_angkrit": "Yimgrimm"
+    },
+    {
+      "chue_wong": "ยูจีน",
+      "chue_phasa_angkrit": "U-Gene"
+    },
+    {
+      "chue_wong": "ยูเอชที",
+      "chue_phasa_angkrit": "UHT"
+    },
+    {
+      "chue_wong": "ยูโฟร์",
+      "chue_phasa_angkrit": "U-4"
+    },
+    {
+      "chue_wong": "ยูเรเซีย",
+      "chue_phasa_angkrit": "Eurasia"
+    },
+    {
+      "chue_wong": "ยูเรเนียม",
+      "chue_phasa_angkrit": "Uranium"
+    },
+    {
+      "chue_wong": "ยูสด์",
+      "chue_phasa_angkrit": "Used"
+    },
+    {
+      "chue_wong": "ยูสเลส แลนด์สเคป",
+      "chue_phasa_angkrit": "Useless Landscape"
+    },
+    {
+      "chue_wong": "เยื้อง เจนเทิลแมน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เยื่อไม้",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แย้กับบอมบ์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โยคีเพลย์บอย",
+      "chue_phasa_angkrit": "Yokee Playboys"
+    },
+    {
+      "chue_wong": "ร่มไทร",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "รวมดาวกระจุย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "รอยัลสไปรท์",
+      "chue_phasa_angkrit": "Royal Sprite"
+    },
+    {
+      "chue_wong": "ร็อกเกอร์ส",
+      "chue_phasa_angkrit": "Rockers"
+    },
+    {
+      "chue_wong": "ร็อกเคสตร้า",
+      "chue_phasa_angkrit": "Rockesta"
+    },
+    {
+      "chue_wong": "ร็อกฟาเธอร์",
+      "chue_phasa_angkrit": "Rockfather"
+    },
+    {
+      "chue_wong": "ระบาย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "รัน แรน รัน",
+      "chue_phasa_angkrit": "Run Ran Run"
+    },
+    {
+      "chue_wong": "รันเวย์",
+      "chue_phasa_angkrit": "Runway"
+    },
+    {
+      "chue_wong": "รามสูร",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "รามา อวตาร",
+      "chue_phasa_angkrit": "Rama Avatar"
+    },
+    {
+      "chue_wong": "ริทึมมาติก",
+      "chue_phasa_angkrit": "Rhythmatique"
+    },
+    {
+      "chue_wong": "รีแคป",
+      "chue_phasa_angkrit": "Recap"
+    },
+    {
+      "chue_wong": "รูกกีบีบี",
+      "chue_phasa_angkrit": "Rookie BB"
+    },
+    {
+      "chue_wong": "รูฟ",
+      "chue_phasa_angkrit": "Roof"
+    },
+    {
+      "chue_wong": "รูม 39",
+      "chue_phasa_angkrit": "Room 39"
+    },
+    {
+      "chue_wong": "รูลดาร์ก",
+      "chue_phasa_angkrit": "Rule Dark"
+    },
+    {
+      "chue_wong": "เรดคิงพาเลซ",
+      "chue_phasa_angkrit": "Red King Palace"
+    },
+    {
+      "chue_wong": "เรดทเวนตี้",
+      "chue_phasa_angkrit": "Red Twenty"
+    },
+    {
+      "chue_wong": "เรดิโอ การ์เด้น",
+      "chue_phasa_angkrit": "Radio Garden"
+    },
+    {
+      "chue_wong": "เรดิโอนิกซ์",
+      "chue_phasa_angkrit": "Radionix"
+    },
+    {
+      "chue_wong": "เรโทรสเปกต์",
+      "chue_phasa_angkrit": "Retrospect"
+    },
+    {
+      "chue_wong": "เรนโบว์",
+      "chue_phasa_angkrit": "Rainbow"
+    },
+    {
+      "chue_wong": "เราระบาย",
+      "chue_phasa_angkrit": "Lullaby"
+    },
+    {
+      "chue_wong": "แรคคูนส์ พาร์ตี้",
+      "chue_phasa_angkrit": "Raccoon's Party"
+    },
+    {
+      "chue_wong": "แรมเพจ",
+      "chue_phasa_angkrit": "Rampage"
+    },
+    {
+      "chue_wong": "แร็พเตอร์",
+      "chue_phasa_angkrit": "Raptor"
+    },
+    {
+      "chue_wong": "แร็ปบิทดอลส์",
+      "chue_phasa_angkrit": "Rapbit Dolls"
+    },
+    {
+      "chue_wong": "โรงงานผลิตเต้าเจี้ยว",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โรเมอร์",
+      "chue_phasa_angkrit": "Romer"
+    },
+    {
+      "chue_wong": "โรแมนติก",
+      "chue_phasa_angkrit": "Romantic"
+    },
+    {
+      "chue_wong": "ไรทาลิน",
+      "chue_phasa_angkrit": "Ritallin"
+    },
+    {
+      "chue_wong": "ลอลลี่ป๊อป",
+      "chue_phasa_angkrit": "Lolly Pop"
+    },
+    {
+      "chue_wong": "ละมุน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ละอองฟอง",
+      "chue_phasa_angkrit": "La-Ong-Fong"
+    },
+    {
+      "chue_wong": "ละอ่อน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ลันตา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ลาโคนิคส์",
+      "chue_phasa_angkrit": "Laconics"
+    },
+    {
+      "chue_wong": "ลา ซิสต้า",
+      "chue_phasa_angkrit": "La Sista"
+    },
+    {
+      "chue_wong": "ลาเซอ",
+      "chue_phasa_angkrit": "Lasur"
+    },
+    {
+      "chue_wong": "ลาบานูน",
+      "chue_phasa_angkrit": "Labanoon"
+    },
+    {
+      "chue_wong": "ลาฟฟิ่ง สกัลล์",
+      "chue_phasa_angkrit": "Laughing Skull"
+    },
+    {
+      "chue_wong": "ลาฟเฟอร์-แอมเมอร์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ลาวา",
+      "chue_phasa_angkrit": "Lawa"
+    },
+    {
+      "chue_wong": "ลำดวน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ลิงก์ คอร์เนอร์",
+      "chue_phasa_angkrit": "Link Corner"
+    },
+    {
+      "chue_wong": "ลิเบอร์ตี้",
+      "chue_phasa_angkrit": "Liberty"
+    },
+    {
+      "chue_wong": "ลิปตา",
+      "chue_phasa_angkrit": "Lipta"
+    },
+    {
+      "chue_wong": "ลิฟท์ & ออย",
+      "chue_phasa_angkrit": "Lift & Oil"
+    },
+    {
+      "chue_wong": "ลีฟวิ่ง รูม",
+      "chue_phasa_angkrit": "Living Room"
+    },
+    {
+      "chue_wong": "ลีโซว่า",
+      "chue_phasa_angkrit": "Lesova"
+    },
+    {
+      "chue_wong": "ลูกหิน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ลูนาทิค",
+      "chue_phasa_angkrit": "Lunatic"
+    },
+    {
+      "chue_wong": "เลเซอร์",
+      "chue_phasa_angkrit": "Laser"
+    },
+    {
+      "chue_wong": "เลดี้คิลเลอร์",
+      "chue_phasa_angkrit": "Lady killers"
+    },
+    {
+      "chue_wong": "เล็บ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เลบง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เลเบอร์",
+      "chue_phasa_angkrit": "Labour"
+    },
+    {
+      "chue_wong": "เลม่อนซุป",
+      "chue_phasa_angkrit": "Lemon Soup"
+    },
+    {
+      "chue_wong": "เลม่อน ป๊อป",
+      "chue_phasa_angkrit": "Lemon Pop"
+    },
+    {
+      "chue_wong": "เลซซิ่ง",
+      "chue_phasa_angkrit": "Lassing"
+    },
+    {
+      "chue_wong": "เลอโดม",
+      "chue_phasa_angkrit": "LEDOME"
+    },
+    {
+      "chue_wong": "เล้าโลม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เลิฟ มี พลีส",
+      "chue_phasa_angkrit": "Love Me Please"
+    },
+    {
+      "chue_wong": "เลื้อยคลาน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โลโซ",
+      "chue_phasa_angkrit": "Loso"
+    },
+    {
+      "chue_wong": "โลกเบี้ยว",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โลนลี่ แพลเน็ต",
+      "chue_phasa_angkrit": "Lonely Planet"
+    },
+    {
+      "chue_wong": "โลโมโซนิก",
+      "chue_phasa_angkrit": "Lomosonic"
+    },
+    {
+      "chue_wong": "โลลิต้า",
+      "chue_phasa_angkrit": "Lolita"
+    },
+    {
+      "chue_wong": "วงกลม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "วอลรัส",
+      "chue_phasa_angkrit": "Walrus"
+    },
+    {
+      "chue_wong": "วัชราวลี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "วันเดอร์เกย์",
+      "chue_phasa_angkrit": "Wonder Gay"
+    },
+    {
+      "chue_wong": "วันเดอเรอร์ส",
+      "chue_phasa_angkrit": "Wanderers"
+    },
+    {
+      "chue_wong": "วัน ทู ทรี โซล",
+      "chue_phasa_angkrit": "1 2 3 Soul"
+    },
+    {
+      "chue_wong": "วาเคชั่น",
+      "chue_phasa_angkrit": "Vacation"
+    },
+    {
+      "chue_wong": "วาย น็อต เซเว่น",
+      "chue_phasa_angkrit": "Y Not 7"
+    },
+    {
+      "chue_wong": "วาร์เปเปอร์",
+      "chue_phasa_angkrit": "Warpaper"
+    },
+    {
+      "chue_wong": "วาสนา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "วาสุชา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "วิธยูแอทโฮม",
+      "chue_phasa_angkrit": "withyouathome"
+    },
+    {
+      "chue_wong": "วิบัติ ชน",
+      "chue_phasa_angkrit": "Wibutchon"
+    },
+    {
+      "chue_wong": "วิปลาส",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "วิวาเช่",
+      "chue_phasa_angkrit": "Vivace"
+    },
+    {
+      "chue_wong": "วิวิด",
+      "chue_phasa_angkrit": "Vivid"
+    },
+    {
+      "chue_wong": "วิเศษนิยม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "วีนัส",
+      "chue_phasa_angkrit": "Venus"
+    },
+    {
+      "chue_wong": "วีนัส บัตเตอร์ฟลาย",
+      "chue_phasa_angkrit": "Venus Butterfly"
+    },
+    {
+      "chue_wong": "วีนัส ฟลายแทร็บ",
+      "chue_phasa_angkrit": "Venus Flytrap"
+    },
+    {
+      "chue_wong": "วีวี่โค",
+      "chue_phasa_angkrit": "ViviCo"
+    },
+    {
+      "chue_wong": "วีไอพี",
+      "chue_phasa_angkrit": "VIP"
+    },
+    {
+      "chue_wong": "วูล์ฟแพ็ค",
+      "chue_phasa_angkrit": "Wolf Pack"
+    },
+    {
+      "chue_wong": "เวค อัพ เออร์ลี่",
+      "chue_phasa_angkrit": "Wake up Early"
+    },
+    {
+      "chue_wong": "เวตาล่า",
+      "chue_phasa_angkrit": "Vetala"
+    },
+    {
+      "chue_wong": "เวย์ สเตชัน",
+      "chue_phasa_angkrit": "Way Station"
+    },
+    {
+      "chue_wong": "แวน ฮาร์แมน",
+      "chue_phasa_angkrit": "Van Harman"
+    },
+    {
+      "chue_wong": "ศรีราชา ร็อกเกอร์ส",
+      "chue_phasa_angkrit": "Srirajah Rockers"
+    },
+    {
+      "chue_wong": "ศาลา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ศิลา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ศูนย์ศูนย์หนึ่ง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สกั๊งค์",
+      "chue_phasa_angkrit": "Skunk"
+    },
+    {
+      "chue_wong": "สกาเบอร์รี่",
+      "chue_phasa_angkrit": "Skaberry"
+    },
+    {
+      "chue_wong": "สกาแล็กซี่",
+      "chue_phasa_angkrit": "Skalaxy"
+    },
+    {
+      "chue_wong": "สกายคิ๊กเรนเจอร์",
+      "chue_phasa_angkrit": "Skykick Ranger"
+    },
+    {
+      "chue_wong": "สกายแบนด์",
+      "chue_phasa_angkrit": "Sky Band"
+    },
+    {
+      "chue_wong": "สกายพาส",
+      "chue_phasa_angkrit": "Sky Pass"
+    },
+    {
+      "chue_wong": "สกูบา",
+      "chue_phasa_angkrit": "Skooba"
+    },
+    {
+      "chue_wong": "สก็อต จั้มป์",
+      "chue_phasa_angkrit": "Scotch jamp"
+    },
+    {
+      "chue_wong": "สครับบ",
+      "chue_phasa_angkrit": "Scrubb"
+    },
+    {
+      "chue_wong": "สควีซแอนิมอล",
+      "chue_phasa_angkrit": "Sqweez Animal"
+    },
+    {
+      "chue_wong": "สคัม",
+      "chue_phasa_angkrit": "Scum"
+    },
+    {
+      "chue_wong": "สคิปปิท",
+      "chue_phasa_angkrit": "Skipit"
+    },
+    {
+      "chue_wong": "สคูลเกิร์ลเมมโมรี่",
+      "chue_phasa_angkrit": "School Girl Memory"
+    },
+    {
+      "chue_wong": "สตรีทฟังก์โรลเลอร์ส",
+      "chue_phasa_angkrit": "Street Funk Rollers"
+    },
+    {
+      "chue_wong": "สตอรีไลน์",
+      "chue_phasa_angkrit": "Storyline"
+    },
+    {
+      "chue_wong": "สติวเดนต์อั๊กลี่",
+      "chue_phasa_angkrit": "Student Ugly"
+    },
+    {
+      "chue_wong": "สตูดิโอโตโม",
+      "chue_phasa_angkrit": "Ztudiotomo"
+    },
+    {
+      "chue_wong": "สตูนดิโอ",
+      "chue_phasa_angkrit": "Stoondio"
+    },
+    {
+      "chue_wong": "สเตทเอ็กซ์เพรส",
+      "chue_phasa_angkrit": "State Express"
+    },
+    {
+      "chue_wong": "สเตป วัน",
+      "chue_phasa_angkrit": "Step One"
+    },
+    {
+      "chue_wong": "สเตอร์",
+      "chue_phasa_angkrit": "Ster"
+    },
+    {
+      "chue_wong": "สโตนโซล",
+      "chue_phasa_angkrit": "Stone Soul"
+    },
+    {
+      "chue_wong": "สไตรเกอร์ส",
+      "chue_phasa_angkrit": "Strikerz"
+    },
+    {
+      "chue_wong": "สไตรีนจังเกิล",
+      "chue_phasa_angkrit": "Styrene Jungle"
+    },
+    {
+      "chue_wong": "สไตลิช นอนเซ็นส์",
+      "chue_phasa_angkrit": "Stylish Nonsense"
+    },
+    {
+      "chue_wong": "สเนล",
+      "chue_phasa_angkrit": "Snail"
+    },
+    {
+      "chue_wong": "สโนว์บอลล์",
+      "chue_phasa_angkrit": "Znowball"
+    },
+    {
+      "chue_wong": "สปัญ",
+      "chue_phasa_angkrit": "Span"
+    },
+    {
+      "chue_wong": "สปาย",
+      "chue_phasa_angkrit": "Spy"
+    },
+    {
+      "chue_wong": "สปินนาเคิล",
+      "chue_phasa_angkrit": "Spinnacle"
+    },
+    {
+      "chue_wong": "สปิน เฮด",
+      "chue_phasa_angkrit": "Spin Head"
+    },
+    {
+      "chue_wong": "สปูนฟูลซ์",
+      "chue_phasa_angkrit": "Spoonfulz"
+    },
+    {
+      "chue_wong": "สฟิงซ์",
+      "chue_phasa_angkrit": "Sphinx"
+    },
+    {
+      "chue_wong": "สมเกียรติ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สมรม แบนด์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สมิธแอนด์เชน",
+      "chue_phasa_angkrit": "Smith & Shane"
+    },
+    {
+      "chue_wong": "สไมล์บัฟฟาโล่",
+      "chue_phasa_angkrit": "Smile Buffalo"
+    },
+    {
+      "chue_wong": "สยาม ซีเคร็ต เซอร์วิส",
+      "chue_phasa_angkrit": "Siam Secret Service"
+    },
+    {
+      "chue_wong": "สราญรมย์แบน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สล็อต แมชชีน",
+      "chue_phasa_angkrit": "Slot Machine"
+    },
+    {
+      "chue_wong": "สลัด",
+      "chue_phasa_angkrit": "Salad"
+    },
+    {
+      "chue_wong": "สลีปปี้งชี้ป",
+      "chue_phasa_angkrit": "Sleeping Sheep"
+    },
+    {
+      "chue_wong": "สลีป-ปี้",
+      "chue_phasa_angkrit": "Sleep-Py"
+    },
+    {
+      "chue_wong": "สโลว์ รีเวิร์ส",
+      "chue_phasa_angkrit": "Slow Reverse"
+    },
+    {
+      "chue_wong": "สวอน",
+      "chue_phasa_angkrit": "Swan"
+    },
+    {
+      "chue_wong": "สวิงกิ้ง",
+      "chue_phasa_angkrit": "Swinging"
+    },
+    {
+      "chue_wong": "สวีต ดี",
+      "chue_phasa_angkrit": "SWEE:D"
+    },
+    {
+      "chue_wong": "สวีตมัลเล็ต",
+      "chue_phasa_angkrit": "Sweet Mullet"
+    },
+    {
+      "chue_wong": "สวีต แบล็ค",
+      "chue_phasa_angkrit": "Sweet Black"
+    },
+    {
+      "chue_wong": "สองวัย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สองหนุ่ม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "2549",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สะเดาะเคราะห์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สเลอ",
+      "chue_phasa_angkrit": "Slur"
+    },
+    {
+      "chue_wong": "สันขวานเรคคอร์ด",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สันติภาพ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สาธร",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สามหน่อ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สามโทน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สามบอมบ์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สามโลกธาตุ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สามศักดิ์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สามเสนเลเซอร์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สามเสนสเตชัน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สาวรำวง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สาว สาว สาว",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สิชล",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สิงห์เหนือ-เสือใต้",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สิงหลกะ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สินเจริญบราเธอร์ส",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "18 กะรัต",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สิบล้อ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สิริ เย็นสุข",
+      "chue_phasa_angkrit": "Siri Yensook"
+    },
+    {
+      "chue_wong": "สี่เต่าเธอ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "๔ ยอดกุมาร",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สีลม ดีไลท์",
+      "chue_phasa_angkrit": "Silom D.Light"
+    },
+    {
+      "chue_wong": "สุขุมวิท 66",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สุเทพ แอนด์ เดอะ แซ็กส์",
+      "chue_phasa_angkrit": "Suthep and the Sax"
+    },
+    {
+      "chue_wong": "วงดนตรีสุนทราภรณ์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สุนทรี",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "สุเมธแอนด์เดอะปั๋ง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เสมอ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เสือโคร่ง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เสือน้อย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เสือใหญ่",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เสียด",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เสียงอิสาน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "แสตมป์",
+      "chue_phasa_angkrit": "Stamp"
+    },
+    {
+      "chue_wong": "แสนแสบ ดีพาร์ตเมนต์",
+      "chue_phasa_angkrit": "Sansab Department"
+    },
+    {
+      "chue_wong": "หนึ่ง โม่ โจ้ หวัง",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "หน่อยน้อยนอย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "หรู",
+      "chue_phasa_angkrit": "H.R.U."
+    },
+    {
+      "chue_wong": "หมีพูห์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "หมีน้อย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "หมูกระทะ 69",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "หมูสว่าน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "หวานเย็น",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "หิน เหล็ก ไฟ",
+      "chue_phasa_angkrit": "Stone Metal Fire"
+    },
+    {
+      "chue_wong": "หินอ่อน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เหน็บ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เหมี่ยวเอ๋อ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ไหมไทย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อนัตตา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อพาร์ตเมนต์คุณป้า",
+      "chue_phasa_angkrit": "Apartment Khunpa"
+    },
+    {
+      "chue_wong": "อภิรมย์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อมตะ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อวสานเซลส์แมน",
+      "chue_phasa_angkrit": "Death of a Salesman"
+    },
+    {
+      "chue_wong": "อวอร์ด",
+      "chue_phasa_angkrit": "Award"
+    },
+    {
+      "chue_wong": "ออกัส",
+      "chue_phasa_angkrit": "The August Band"
+    },
+    {
+      "chue_wong": "ออโต้บาห์น",
+      "chue_phasa_angkrit": "Autobahn"
+    },
+    {
+      "chue_wong": "ออร์ฟุส",
+      "chue_phasa_angkrit": "Orpheus"
+    },
+    {
+      "chue_wong": "ออล กู๊ด ธิงส์",
+      "chue_phasa_angkrit": "ALL Good Things"
+    },
+    {
+      "chue_wong": "ออลโมสต์ 100",
+      "chue_phasa_angkrit": "Almost 100"
+    },
+    {
+      "chue_wong": "อะคินริก",
+      "chue_phasa_angkrit": "Akinlic"
+    },
+    {
+      "chue_wong": "อะแค็ปเปล่า เซเว่น",
+      "chue_phasa_angkrit": "Acappella 7"
+    },
+    {
+      "chue_wong": "อะไรจ๊ะ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อะลัม ซัมซัม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อะลาดิน",
+      "chue_phasa_angkrit": "Aladdin"
+    },
+    {
+      "chue_wong": "อะอา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อันมิดี้",
+      "chue_phasa_angkrit": "Unmidi"
+    },
+    {
+      "chue_wong": "อัลตร้า สลิม",
+      "chue_phasa_angkrit": "Ultra Slim"
+    },
+    {
+      "chue_wong": "อัศจรรย์จักรวาล",
+      "chue_phasa_angkrit": "Assajan Jakgawan"
+    },
+    {
+      "chue_wong": "อัสนี & วสันต์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อาฟเตอร์นูน",
+      "chue_phasa_angkrit": "Afternoon"
+    },
+    {
+      "chue_wong": "อาฟเตอร์ บลูส์มูน",
+      "chue_phasa_angkrit": "After Bluesmoon"
+    },
+    {
+      "chue_wong": "อามาตา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อาร์ทฟลอร์",
+      "chue_phasa_angkrit": "artfloor"
+    },
+    {
+      "chue_wong": "อาร์มแชร์",
+      "chue_phasa_angkrit": "Armchair"
+    },
+    {
+      "chue_wong": "อาร์สยาม คอรัส",
+      "chue_phasa_angkrit": "R-Siam Chorus"
+    },
+    {
+      "chue_wong": "อาร์-อาร์ม",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อาร์อาร์อาร์แอนด์บี",
+      "chue_phasa_angkrit": "RRR&B"
+    },
+    {
+      "chue_wong": "อารักษ์ แอนด์ เดอะ ปีศาจ แบนด์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อ่าวอันดา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อิงฟ้า",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อินสติงต์",
+      "chue_phasa_angkrit": "Instinct"
+    },
+    {
+      "chue_wong": "อินคา",
+      "chue_phasa_angkrit": "Inca"
+    },
+    {
+      "chue_wong": "อินโดจีน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อินทนิล",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "อินโทรดัคชั่น",
+      "chue_phasa_angkrit": "Introduction"
+    },
+    {
+      "chue_wong": "อินฟินิตี้",
+      "chue_phasa_angkrit": "Infinity"
+    },
+    {
+      "chue_wong": "อินเฟมัส",
+      "chue_phasa_angkrit": "Infamous"
+    },
+    {
+      "chue_wong": "อินเฟอร์โน",
+      "chue_phasa_angkrit": "Inferno"
+    },
+    {
+      "chue_wong": "อินสไปเรทีฟ",
+      "chue_phasa_angkrit": "Inspirative"
+    },
+    {
+      "chue_wong": "อิ๊มป์",
+      "chue_phasa_angkrit": "Imp"
+    },
+    {
+      "chue_wong": "อิลสลิก",
+      "chue_phasa_angkrit": "illslick"
+    },
+    {
+      "chue_wong": "อิเล็กทริก นีออน แลมพ์",
+      "chue_phasa_angkrit": "electric.neon.lamp"
+    },
+    {
+      "chue_wong": "อีซี่ อีซี่",
+      "chue_phasa_angkrit": "Easy Easy"
+    },
+    {
+      "chue_wong": "อีนีมี่",
+      "chue_phasa_angkrit": "Enemy"
+    },
+    {
+      "chue_wong": "อีทีซี",
+      "chue_phasa_angkrit": "ETC"
+    },
+    {
+      "chue_wong": "อีเทริ์นนิตี้บ็อกซ์",
+      "chue_phasa_angkrit": "Eternity-Box"
+    },
+    {
+      "chue_wong": "อีเทอร์เนิล ซันเซ็ท",
+      "chue_phasa_angkrit": "Eternal sunseT"
+    },
+    {
+      "chue_wong": "อีโบล่า",
+      "chue_phasa_angkrit": "Ebola"
+    },
+    {
+      "chue_wong": "อีฟ",
+      "chue_phasa_angkrit": "Eve"
+    },
+    {
+      "chue_wong": "อีฟ แอนด์ ดิ อดัมส์",
+      "chue_phasa_angkrit": "Eve and the Adams"
+    },
+    {
+      "chue_wong": "อีโมชั่น ทาวน์",
+      "chue_phasa_angkrit": "Emotion Town"
+    },
+    {
+      "chue_wong": "อีเลฟแฟนท์ ก๊อด",
+      "chue_phasa_angkrit": "Elephant God"
+    },
+    {
+      "chue_wong": "อีเลฟเว่นอาร์ดี",
+      "chue_phasa_angkrit": "11rd"
+    },
+    {
+      "chue_wong": "อีเวอร์รี่",
+      "chue_phasa_angkrit": "Ewery"
+    },
+    {
+      "chue_wong": "อีสซึ่น",
+      "chue_phasa_angkrit": "Isn't"
+    },
+    {
+      "chue_wong": "อุลตร้า ชวดซ์",
+      "chue_phasa_angkrit": "Ultra Chuadz"
+    },
+    {
+      "chue_wong": "เอ็สซีที",
+      "chue_phasa_angkrit": "S.C.T"
+    },
+    {
+      "chue_wong": "เอสดีเอฟ",
+      "chue_phasa_angkrit": "S. D. F"
+    },
+    {
+      "chue_wong": "เอช",
+      "chue_phasa_angkrit": "H"
+    },
+    {
+      "chue_wong": "เอ็กซิต",
+      "chue_phasa_angkrit": "Exit"
+    },
+    {
+      "chue_wong": "เอ็กซ์วายแซด",
+      "chue_phasa_angkrit": "XYZ"
+    },
+    {
+      "chue_wong": "เอ็กซ์แอลสเต็ป",
+      "chue_phasa_angkrit": "XL Step"
+    },
+    {
+      "chue_wong": "เอกซ์ ไอ เอส",
+      "chue_phasa_angkrit": "X-I-S"
+    },
+    {
+      "chue_wong": "เอ็กตาซี่",
+      "chue_phasa_angkrit": "Extazy"
+    },
+    {
+      "chue_wong": "เอเชีย",
+      "chue_phasa_angkrit": "Asia"
+    },
+    {
+      "chue_wong": "เอเซียร์",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เอ็ด-มาร์ท",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เอท ฟลอร์",
+      "chue_phasa_angkrit": "8th Floor"
+    },
+    {
+      "chue_wong": "เอ็นโดรฟิน",
+      "chue_phasa_angkrit": "Endorphine"
+    },
+    {
+      "chue_wong": "เอ็นไนน์",
+      "chue_phasa_angkrit": "N9"
+    },
+    {
+      "chue_wong": "เอ็นเอ็มซี",
+      "chue_phasa_angkrit": "N.M.C."
+    },
+    {
+      "chue_wong": "เอนี่ธิง เอลส์",
+      "chue_phasa_angkrit": "Anything Else"
+    },
+    {
+      "chue_wong": "เอ เนเจอร์",
+      "chue_phasa_angkrit": "A Nature"
+    },
+    {
+      "chue_wong": "เอบีนอร์มัล",
+      "chue_phasa_angkrit": "AB Normal"
+    },
+    {
+      "chue_wong": "เอพริล ฟูลส์ เดย์",
+      "chue_phasa_angkrit": "April Fool's Day"
+    },
+    {
+      "chue_wong": "เอฟ บี ไอ",
+      "chue_phasa_angkrit": "F.B.I."
+    },
+    {
+      "chue_wong": "เอ็มตี้ กลาส มีน น็อตติ้ง",
+      "chue_phasa_angkrit": "Empty Glass Means Nothing"
+    },
+    {
+      "chue_wong": "เอ็มพีทู",
+      "chue_phasa_angkrit": "MPII"
+    },
+    {
+      "chue_wong": "เอ็ม โรมานซ์",
+      "chue_phasa_angkrit": "M-Romance"
+    },
+    {
+      "chue_wong": "เอมีลี่",
+      "chue_phasa_angkrit": "Emely"
+    },
+    {
+      "chue_wong": "เอราวัณ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เอรีน่า แอนด์ ดี อัฟโฟร โบรส์",
+      "chue_phasa_angkrit": "Erina and the Afro Bros"
+    },
+    {
+      "chue_wong": "เอโอเค",
+      "chue_phasa_angkrit": "A.O.K"
+    },
+    {
+      "chue_wong": "เอลิเซ่",
+      "chue_phasa_angkrit": "Alize'"
+    },
+    {
+      "chue_wong": "เอลีน-เบส",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เอสร่า",
+      "chue_phasa_angkrit": "Ezra"
+    },
+    {
+      "chue_wong": "เออ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เอา",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เอาท์",
+      "chue_phasa_angkrit": "Out"
+    },
+    {
+      "chue_wong": "เอาท์ไซเดอร์",
+      "chue_phasa_angkrit": "Outsider"
+    },
+    {
+      "chue_wong": "เอาท์โทร",
+      "chue_phasa_angkrit": "Outro"
+    },
+    {
+      "chue_wong": "เอียร์เบิร์นเนอร์",
+      "chue_phasa_angkrit": "Ear Burner"
+    },
+    {
+      "chue_wong": "แองเจิล",
+      "chue_phasa_angkrit": "Angel"
+    },
+    {
+      "chue_wong": "แองเจิล คอล",
+      "chue_phasa_angkrit": "Angel Call"
+    },
+    {
+      "chue_wong": "แอซิด ทาวน์",
+      "chue_phasa_angkrit": "Acid Town"
+    },
+    {
+      "chue_wong": "แอนตี้-ออล",
+      "chue_phasa_angkrit": "Anti-All"
+    },
+    {
+      "chue_wong": "แอนนาลิน",
+      "chue_phasa_angkrit": "Annalynn"
+    },
+    {
+      "chue_wong": "แอทเทมพท์",
+      "chue_phasa_angkrit": "Attempt"
+    },
+    {
+      "chue_wong": "แอปเปิล เกิร์ลส แบนด์",
+      "chue_phasa_angkrit": "Apple Girls Band"
+    },
+    {
+      "chue_wong": "แอมฟายน์",
+      "chue_phasa_angkrit": "Am Fine"
+    },
+    {
+      "chue_wong": "แอม ไฟน์ แทงค์ยู",
+      "chue_phasa_angkrit": "I'm Fine Thank You"
+    },
+    {
+      "chue_wong": "แอเรีย 51",
+      "chue_phasa_angkrit": "Area 51"
+    },
+    {
+      "chue_wong": "แอร์บอร์น",
+      "chue_phasa_angkrit": "Airborne"
+    },
+    {
+      "chue_wong": "แอร์เฮด",
+      "chue_phasa_angkrit": "Airhead"
+    },
+    {
+      "chue_wong": "อ็อบบลิเวียส",
+      "chue_phasa_angkrit": "Oblivious"
+    },
+    {
+      "chue_wong": "โอเค มอคค่า",
+      "chue_phasa_angkrit": "OK Mocca"
+    },
+    {
+      "chue_wong": "โอโซน",
+      "chue_phasa_angkrit": "Ozone"
+    },
+    {
+      "chue_wong": "โอ๋ โมเดลลิ่ง",
+      "chue_phasa_angkrit": "O Modeling"
+    },
+    {
+      "chue_wong": "โอเรียนทอล ฟังก์",
+      "chue_phasa_angkrit": "Oriental Funk"
+    },
+    {
+      "chue_wong": "โอลีฟส์",
+      "chue_phasa_angkrit": "Olives"
+    },
+    {
+      "chue_wong": "โอเวชั่น",
+      "chue_phasa_angkrit": "Ovation"
+    },
+    {
+      "chue_wong": "โอเวอร์คลอก",
+      "chue_phasa_angkrit": "Over Clock"
+    },
+    {
+      "chue_wong": "โอเวอร์มี",
+      "chue_phasa_angkrit": "Over Me"
+    },
+    {
+      "chue_wong": "โอเวอร์เฮียร์",
+      "chue_phasa_angkrit": "Overhear"
+    },
+    {
+      "chue_wong": "โอ๋-แอน",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "โอโฮ",
+      "chue_phasa_angkrit": "OHO"
+    },
+    {
+      "chue_wong": "ไอ-แซกซ์",
+      "chue_phasa_angkrit": "I-Zax"
+    },
+    {
+      "chue_wong": "ไอดี คิดส์",
+      "chue_phasa_angkrit": "I.D. Kids"
+    },
+    {
+      "chue_wong": "ไอน้ำ",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ไอ-เบบี้",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ไอเฟล",
+      "chue_phasa_angkrit": "Eiffel"
+    },
+    {
+      "chue_wong": "ไอเร่",
+      "chue_phasa_angkrit": "Aire"
+    },
+    {
+      "chue_wong": "ไอวี่",
+      "chue_phasa_angkrit": "IVY"
+    },
+    {
+      "chue_wong": "ไอศครีม",
+      "chue_phasa_angkrit": "Ice Cream"
+    },
+    {
+      "chue_wong": "ไอสครีม",
+      "chue_phasa_angkrit": "I-Scream"
+    },
+    {
+      "chue_wong": "ไอ อิส มี",
+      "chue_phasa_angkrit": "I Is Me"
+    },
+    {
+      "chue_wong": "ไอ เอ็น ดี วาย",
+      "chue_phasa_angkrit": "i.n.d.y."
+    },
+    {
+      "chue_wong": "ไอโอเนียน",
+      "chue_phasa_angkrit": "Ionion"
+    },
+    {
+      "chue_wong": "ฮอบบิท",
+      "chue_phasa_angkrit": "Hobbit"
+    },
+    {
+      "chue_wong": "ฮอลลี่ เบอร์รี่",
+      "chue_phasa_angkrit": "Holly Berry"
+    },
+    {
+      "chue_wong": "ฮัม",
+      "chue_phasa_angkrit": "Hum"
+    },
+    {
+      "chue_wong": "ฮาร์ทบีท",
+      "chue_phasa_angkrit": "Heartbeat"
+    },
+    {
+      "chue_wong": "ฮาร์โมนิก้า ซันไรส์",
+      "chue_phasa_angkrit": "Harmonica Sunrise"
+    },
+    {
+      "chue_wong": "ฮาริกึ่ม ซาโบ้ย",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "ฮาเร็ม เบลล์",
+      "chue_phasa_angkrit": "Harem Belle"
+    },
+    {
+      "chue_wong": "ฮาล์ฟ สปูน",
+      "chue_phasa_angkrit": "Half spoon"
+    },
+    {
+      "chue_wong": "ฮิร็อคชิม่า",
+      "chue_phasa_angkrit": "Hirockshima"
+    },
+    {
+      "chue_wong": "ฮิวมัส",
+      "chue_phasa_angkrit": "Humus"
+    },
+    {
+      "chue_wong": "ฮูฟส์",
+      "chue_phasa_angkrit": "Hooves"
+    },
+    {
+      "chue_wong": "เฮฟวี่ มด",
+      "chue_phasa_angkrit": ""
+    },
+    {
+      "chue_wong": "เฮฟวี่ เมาน์เทน",
+      "chue_phasa_angkrit": "Heavy Mountain"
+    },
+    {
+      "chue_wong": "เฮท ทู เฮด",
+      "chue_phasa_angkrit": "Hate2Head"
+    },
+    {
+      "chue_wong": "เฮโรเทคซ์",
+      "chue_phasa_angkrit": "Herotex"
+    },
+    {
+      "chue_wong": "เฮเรติค แองเจลส์",
+      "chue_phasa_angkrit": "Heretic Angels"
+    },
+    {
+      "chue_wong": "เฮลเมท เฮดส์",
+      "chue_phasa_angkrit": "Helmet Heads"
+    },
+    {
+      "chue_wong": "เฮ้าส์แท็ป",
+      "chue_phasa_angkrit": "Housetrap"
+    },
+    {
+      "chue_wong": "แฮรี่ เทรนด์",
+      "chue_phasa_angkrit": "Hairy trend"
+    },
+    {
+      "chue_wong": "แฮงก์",
+      "chue_phasa_angkrit": "Hang"
+    },
+    {
+      "chue_wong": "แฮงแมน",
+      "chue_phasa_angkrit": "Hangman"
+    },
+    {
+      "chue_wong": "แฮปปี้แบนด์",
+      "chue_phasa_angkrit": "Happyband"
+    },
+    {
+      "chue_wong": "แฮมเมอร์",
+      "chue_phasa_angkrit": "Hammer"
+    },
+    {
+      "chue_wong": "โฮป",
+      "chue_phasa_angkrit": "Hope"
+    },
+    {
+      "chue_wong": "ไฮแจ็ค",
+      "chue_phasa_angkrit": "Hi-Jack"
+    },
+    {
+      "chue_wong": "ไฮดร้า",
+      "chue_phasa_angkrit": "Hydra"
+    },
+    {
+      "chue_wong": "ไฮเปอร์",
+      "chue_phasa_angkrit": "Hyper"
+    },
+    {
+      "chue_wong": "ไฮ-ร็อก",
+      "chue_phasa_angkrit": "Hi-Rock"
+    },
+    {
+      "chue_wong": "ไฮโร",
+      "chue_phasa_angkrit": ""
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อวงดนตรีและกลุ่มดนตรีสัญชาติไทย - ดาวน์โหลดฟรี",
+    "description": "รายชื่อวงดนตรี วงร็อก วงป๊อป บอยแบนด์ เกิร์ลกรุ๊ป และกลุ่มดนตรีสัญชาติไทยเรียงตามตัวอักษร พร้อมชื่อภาษาอังกฤษ (ถ้ามี) จากวิกิพีเดียภาษาไทย มีทั้งหมด 990 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายชื่อวงดนตรีและกลุ่มดนตรีสัญชาติไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายชื่อวงดนตรีและกลุ่มดนตรีสัญชาติไทย — 990 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 990 รายการ / 2 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อกลุ่มดนตรีสัญชาติไทย"
+    ]
+  }
+}
