@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-20T02:15:09.862Z",
-  "total_datasets": 827,
-  "total_records": 285277,
+  "generated": "2026-11-20T02:15:19.327Z",
+  "total_datasets": 828,
+  "total_records": 285408,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -8228,6 +8228,32 @@
         "xlsx": {
           "name": "th-rongphayaban-ekachon-tam-khrueakhai_TH.xlsx",
           "size": 12504
+        }
+      }
+    },
+    {
+      "id": "th-rongphayaban-sun-lae-thuapai-tiang",
+      "name": "รายชื่อโรงพยาบาลศูนย์และโรงพยาบาลทั่วไป สังกัดกระทรวงสาธารณสุข พร้อมจำนวนเตียง",
+      "category": "health",
+      "record_count": 131,
+      "columns": [
+        "name",
+        "province",
+        "district",
+        "hospital_type",
+        "beds_2567"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อโรงพยาบาลในประเทศไทย",
+      "updated": "2026-11",
+      "size": 38567,
+      "files": {
+        "csv": {
+          "name": "th-rongphayaban-sun-lae-thuapai-tiang_TH.csv",
+          "size": 21049
+        },
+        "xlsx": {
+          "name": "th-rongphayaban-sun-lae-thuapai-tiang_TH.xlsx",
+          "size": 12152
         }
       }
     },
