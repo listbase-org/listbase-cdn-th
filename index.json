@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-20T02:15:19.327Z",
-  "total_datasets": 828,
-  "total_records": 285408,
+  "generated": "2026-11-20T02:15:28.026Z",
+  "total_datasets": 829,
+  "total_records": 285428,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -8412,6 +8412,34 @@
         "xlsx": {
           "name": "th-rattaprahan-nai-prathet-thai_TH.xlsx",
           "size": 7923
+        }
+      }
+    },
+    {
+      "id": "th-somdet-phra-sangkharat-rattanakosin",
+      "name": "รายพระนามสมเด็จพระสังฆราชแห่งกรุงรัตนโกสินทร์",
+      "category": "history",
+      "record_count": 20,
+      "columns": [
+        "order",
+        "title",
+        "birth_name",
+        "term_start",
+        "term_end",
+        "sect",
+        "temple"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายพระนามสมเด็จพระสังฆราชแห่งกรุงรัตนโกสินทร์",
+      "updated": "2026-11",
+      "size": 13885,
+      "files": {
+        "csv": {
+          "name": "th-somdet-phra-sangkharat-rattanakosin_TH.csv",
+          "size": 7817
+        },
+        "xlsx": {
+          "name": "th-somdet-phra-sangkharat-rattanakosin_TH.xlsx",
+          "size": 8816
         }
       }
     },
