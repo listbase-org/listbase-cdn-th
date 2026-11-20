@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-19T02:27:35.048Z",
-  "total_datasets": 826,
-  "total_records": 285257,
+  "generated": "2026-11-20T02:15:09.862Z",
+  "total_datasets": 827,
+  "total_records": 285277,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -980,6 +980,33 @@
         "xlsx": {
           "name": "th-sathaban-udomsueksa-ekachon_TH.xlsx",
           "size": 10400
+        }
+      }
+    },
+    {
+      "id": "th-chong-thorathat-digital",
+      "name": "รายชื่อช่องโทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย",
+      "category": "entertainment",
+      "record_count": 20,
+      "columns": [
+        "channel_number",
+        "channel_name",
+        "organization",
+        "service_type",
+        "license_type",
+        "note"
+      ],
+      "source": "https://th.wikipedia.org/wiki/โทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย",
+      "updated": "2026-11",
+      "size": 11567,
+      "files": {
+        "csv": {
+          "name": "th-chong-thorathat-digital_TH.csv",
+          "size": 5193
+        },
+        "xlsx": {
+          "name": "th-chong-thorathat-digital_TH.xlsx",
+          "size": 8228
         }
       }
     },

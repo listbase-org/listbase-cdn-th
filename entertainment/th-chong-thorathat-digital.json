@@ -1,0 +1,216 @@
+{
+  "id": "th-chong-thorathat-digital",
+  "name": "รายชื่อช่องโทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย",
+  "title": "รายชื่อช่องโทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย",
+  "description": "ช่องโทรทัศน์ดิจิทัลภาคพื้นดินที่ออกอากาศในประเทศไทย พร้อมหมายเลขช่อง ชื่อช่อง องค์กรผู้ดำเนินการ ประเภทบริการ และลักษณะใบอนุญาต (ไม่รวมช่องที่ว่าง) จากวิกิพีเดียภาษาไทย",
+  "category": "entertainment",
+  "source": "https://th.wikipedia.org/wiki/โทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย",
+  "source_url": "https://th.wikipedia.org/wiki/โทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "channel_number",
+      "label": "Channel Number",
+      "type": "number"
+    },
+    {
+      "key": "channel_name",
+      "label": "Channel Name",
+      "type": "string"
+    },
+    {
+      "key": "organization",
+      "label": "Organization",
+      "type": "string"
+    },
+    {
+      "key": "service_type",
+      "label": "Service Type",
+      "type": "string"
+    },
+    {
+      "key": "license_type",
+      "label": "License Type",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "channel_number": 2,
+      "channel_name": "NBT",
+      "organization": "กรมประชาสัมพันธ์",
+      "service_type": "ประเภทบริการสาธารณะ",
+      "license_type": "ภาครัฐ",
+      "note": ""
+    },
+    {
+      "channel_number": 3,
+      "channel_name": "Thai PBS",
+      "organization": "องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย",
+      "service_type": "ประเภทบริการสาธารณะ",
+      "license_type": "ภาครัฐ",
+      "note": ""
+    },
+    {
+      "channel_number": 5,
+      "channel_name": "ททบ.5 HD",
+      "organization": "แผนกวิทยุโทรทัศน์ กองการกระจายเสียงและวิทยุโทรทัศน์ กรมการทหารสื่อสาร กองทัพบกไทย",
+      "service_type": "ประเภทบริการสาธารณะ",
+      "license_type": "ภาครัฐ",
+      "note": "เดิมคือ ททบ.5 เอชดี 1 เคยออกอากาศทางช่องหมายเลข 1"
+    },
+    {
+      "channel_number": 7,
+      "channel_name": "T Sports 7",
+      "organization": "กระทรวงการท่องเที่ยวและกีฬา",
+      "service_type": "ประเภทบริการสาธารณะ",
+      "license_type": "ภาครัฐ",
+      "note": ""
+    },
+    {
+      "channel_number": 10,
+      "channel_name": "TPTV",
+      "organization": "สำนักงานเลขาธิการสภาผู้แทนราษฎร",
+      "service_type": "ประเภทบริการสาธารณะ",
+      "license_type": "ภาครัฐ",
+      "note": ""
+    },
+    {
+      "channel_number": 11,
+      "channel_name": "NBT ส่วนภูมิภาค",
+      "organization": "กรมประชาสัมพันธ์",
+      "service_type": "ประเภทบริการสาธารณะ",
+      "license_type": "ภาครัฐ",
+      "note": ""
+    },
+    {
+      "channel_number": 16,
+      "channel_name": "TNN16",
+      "organization": "บริษัท ไทยนิวส์เน็ตเวิร์ก จำกัด",
+      "service_type": "ประเภทรายการข่าวสารและสาระ",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 22,
+      "channel_name": "Nation TV 22",
+      "organization": "บริษัท เอ็นบีซีเน็กซ์วิชัน จำกัด",
+      "service_type": "ประเภทรายการข่าวสารและสาระ",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 23,
+      "channel_name": "Workpoint 23",
+      "organization": "บริษัท ไทยบรอดคาสติง จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดมาตรฐาน (Standard Definition - SD) (576i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 24,
+      "channel_name": "True4U",
+      "organization": "บริษัท ทรูโฟร์ยู สเตชัน จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดมาตรฐาน (Standard Definition - SD) (576i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 25,
+      "channel_name": "GMM25",
+      "organization": "บริษัท จีเอ็มเอ็ม แชนแนล จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดมาตรฐาน (Standard Definition - SD) (576i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 27,
+      "channel_name": "ช่อง 8",
+      "organization": "บริษัท อาร์เอส มัลติมีเดีย จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดมาตรฐาน (Standard Definition - SD) (576i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 29,
+      "channel_name": "MONOMAX Sports",
+      "organization": "บริษัท โมโน บรอดคาซท์ จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดมาตรฐาน (Standard Definition - SD) (576i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 30,
+      "channel_name": "ช่อง 9 MCOT HD",
+      "organization": "บริษัท อสมท จำกัด (มหาชน)",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดสูง (High Definition - HD) (1080i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 31,
+      "channel_name": "ONE31",
+      "organization": "บริษัท วัน สามสิบเอ็ด จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดสูง (High Definition - HD) (1080i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 32,
+      "channel_name": "ไทยรัฐทีวี ช่อง 32",
+      "organization": "บริษัท ทริปเปิลวีบรอดคาสต์ จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดสูง (High Definition - HD) (1080i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 33,
+      "channel_name": "ช่อง 3 HD",
+      "organization": "บริษัท บีอีซี-มัลติมีเดีย จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดสูง (High Definition - HD) (1080i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 34,
+      "channel_name": "Amarin TV HD 34",
+      "organization": "บริษัท อมรินทร์เทเลวิชัน จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดสูง (High Definition - HD) (1080i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 35,
+      "channel_name": "ช่อง 7 HD",
+      "organization": "บริษัท กรุงเทพโทรทัศน์และวิทยุ จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดสูง (High Definition - HD) (1080i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    },
+    {
+      "channel_number": 36,
+      "channel_name": "PPTV HD 36",
+      "organization": "บริษัท บางกอกมีเดียแอนด์บรอดคาสติง จำกัด",
+      "service_type": "ประเภทรายการทั่วไป ภาพคมชัดสูง (High Definition - HD) (1080i)",
+      "license_type": "ใบอนุญาต",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "รายชื่อช่องโทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย - ดาวน์โหลดฟรี",
+    "description": "ช่องโทรทัศน์ดิจิทัลภาคพื้นดินที่ออกอากาศในประเทศไทย พร้อมหมายเลขช่อง ชื่อช่อง องค์กรผู้ดำเนินการ ประเภทบริการ และลักษณะใบอนุญาต (ไม่รวมช่องที่ว่าง) จากวิกิพีเดียภาษาไทย มีทั้งหมด 20 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "รายชื่อช่องโทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย | ListBase",
+    "seo_description": "ดาวน์โหลด รายชื่อช่องโทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย — 20 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 20 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/โทรทัศน์ภาคพื้นดินระบบดิจิทัลในประเทศไทย"
+    ]
+  }
+}
