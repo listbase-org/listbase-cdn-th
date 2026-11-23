@@ -1,0 +1,190 @@
+{
+  "id": "th-nalika-hok-chua-mong",
+  "name": "นาฬิกาหกชั่วโมง: การบอกเวลาแบบไทย (ตี โมง ทุ่ม)",
+  "title": "นาฬิกาหกชั่วโมง: การบอกเวลาแบบไทย (ตี โมง ทุ่ม)",
+  "description": "ตารางเทียบการบอกเวลาแบบไทยตามระบบนาฬิกาหกชั่วโมง (ตี โมงเช้า บ่าย โมงเย็น ทุ่ม) ทั้งแบบมาตรฐานและแบบแผลง กับการอ่านเวลาแบบ 24 ชั่วโมง ครบ 24 ชั่วโมง จากวิกิพีเดียภาษาไทย",
+  "category": "time",
+  "source": "https://th.wikipedia.org/wiki/นาฬิกาหกชั่วโมง",
+  "source_url": "https://th.wikipedia.org/wiki/นาฬิกาหกชั่วโมง",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "six_hour_clock",
+      "label": "Six Hour Clock",
+      "type": "string"
+    },
+    {
+      "key": "six_hour_clock_variant",
+      "label": "Six Hour Clock Variant",
+      "type": "string"
+    },
+    {
+      "key": "twenty_four_hour",
+      "label": "Twenty Four Hour",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "time": "1:00 น.",
+      "six_hour_clock": "ตีหนึ่ง",
+      "six_hour_clock_variant": "ตีหนึ่ง",
+      "twenty_four_hour": "หนึ่งนาฬิกา"
+    },
+    {
+      "time": "2:00 น.",
+      "six_hour_clock": "ตีสอง",
+      "six_hour_clock_variant": "ตีสอง",
+      "twenty_four_hour": "สองนาฬิกา"
+    },
+    {
+      "time": "3:00 น.",
+      "six_hour_clock": "ตีสาม, ยามสาม",
+      "six_hour_clock_variant": "ตีสาม",
+      "twenty_four_hour": "สามนาฬิกา"
+    },
+    {
+      "time": "4:00 น.",
+      "six_hour_clock": "ตีสี่",
+      "six_hour_clock_variant": "ตีสี่",
+      "twenty_four_hour": "สี่นาฬิกา"
+    },
+    {
+      "time": "5:00 น.",
+      "six_hour_clock": "ตีห้า",
+      "six_hour_clock_variant": "ตีห้า",
+      "twenty_four_hour": "ห้านาฬิกา"
+    },
+    {
+      "time": "6:00 น.",
+      "six_hour_clock": "ย่ำรุ่ง, ตีหก, ยามสี่",
+      "six_hour_clock_variant": "ตีหก, หกโมงเช้า, หกโมง",
+      "twenty_four_hour": "หกนาฬิกา"
+    },
+    {
+      "time": "7:00 น.",
+      "six_hour_clock": "โมงเช้า, หนึ่งโมงเช้า",
+      "six_hour_clock_variant": "เจ็ดโมงเช้า, เจ็ดโมง",
+      "twenty_four_hour": "เจ็ดนาฬิกา"
+    },
+    {
+      "time": "8:00 น.",
+      "six_hour_clock": "สองโมงเช้า",
+      "six_hour_clock_variant": "แปดโมงเช้า, แปดโมง",
+      "twenty_four_hour": "แปดนาฬิกา"
+    },
+    {
+      "time": "9:00 น.",
+      "six_hour_clock": "สามโมงเช้า",
+      "six_hour_clock_variant": "เก้าโมง",
+      "twenty_four_hour": "เก้านาฬิกา"
+    },
+    {
+      "time": "10:00 น.",
+      "six_hour_clock": "สี่โมงเช้า",
+      "six_hour_clock_variant": "สิบโมง",
+      "twenty_four_hour": "สิบนาฬิกา"
+    },
+    {
+      "time": "11:00 น.",
+      "six_hour_clock": "ห้าโมงเช้า",
+      "six_hour_clock_variant": "สิบเอ็ดโมง",
+      "twenty_four_hour": "สิบเอ็ดนาฬิกา"
+    },
+    {
+      "time": "12:00 น.",
+      "six_hour_clock": "ย่ำเที่ยง, เที่ยงวัน, เที่ยง",
+      "six_hour_clock_variant": "เที่ยงวัน, เที่ยง",
+      "twenty_four_hour": "สิบสองนาฬิกา"
+    },
+    {
+      "time": "13:00 น.",
+      "six_hour_clock": "บ่ายโมง",
+      "six_hour_clock_variant": "บ่ายโมง, บ่ายหนึ่ง",
+      "twenty_four_hour": "สิบสามนาฬิกา"
+    },
+    {
+      "time": "14:00 น.",
+      "six_hour_clock": "บ่ายสองโมง",
+      "six_hour_clock_variant": "บ่ายสอง",
+      "twenty_four_hour": "สิบสี่นาฬิกา"
+    },
+    {
+      "time": "15:00 น.",
+      "six_hour_clock": "บ่ายสามโมง",
+      "six_hour_clock_variant": "บ่ายสาม",
+      "twenty_four_hour": "สิบห้านาฬิกา"
+    },
+    {
+      "time": "16:00 น.",
+      "six_hour_clock": "บ่ายสี่โมง",
+      "six_hour_clock_variant": "สี่โมงเย็น, สี่โมง",
+      "twenty_four_hour": "สิบหกนาฬิกา"
+    },
+    {
+      "time": "17:00 น.",
+      "six_hour_clock": "บ่ายห้าโมง",
+      "six_hour_clock_variant": "ห้าโมงเย็น, ห้าโมง",
+      "twenty_four_hour": "สิบเจ็ดนาฬิกา"
+    },
+    {
+      "time": "18:00 น.",
+      "six_hour_clock": "ย่ำค่ำ, หกโมงเย็น",
+      "six_hour_clock_variant": "หกโมงเย็น, หกโมง",
+      "twenty_four_hour": "สิบแปดนาฬิกา"
+    },
+    {
+      "time": "19:00 น.",
+      "six_hour_clock": "หนึ่งทุ่ม",
+      "six_hour_clock_variant": "หนึ่งทุ่ม",
+      "twenty_four_hour": "สิบเก้านาฬิกา"
+    },
+    {
+      "time": "20:00 น.",
+      "six_hour_clock": "สองทุ่ม",
+      "six_hour_clock_variant": "สองทุ่ม",
+      "twenty_four_hour": "ยี่สิบนาฬิกา"
+    },
+    {
+      "time": "21:00 น.",
+      "six_hour_clock": "สามทุ่ม, ยามหนึ่ง",
+      "six_hour_clock_variant": "สามทุ่ม",
+      "twenty_four_hour": "ยี่สิบเอ็ดนาฬิกา"
+    },
+    {
+      "time": "22:00 น.",
+      "six_hour_clock": "สี่ทุ่ม",
+      "six_hour_clock_variant": "สี่ทุ่ม",
+      "twenty_four_hour": "ยี่สิบสองนาฬิกา"
+    },
+    {
+      "time": "23:00 น.",
+      "six_hour_clock": "ห้าทุ่ม",
+      "six_hour_clock_variant": "ห้าทุ่ม",
+      "twenty_four_hour": "ยี่สิบสามนาฬิกา"
+    },
+    {
+      "time": "24:00 น., 00:00 น.",
+      "six_hour_clock": "หกทุ่ม, เที่ยงคืน, สองยาม",
+      "six_hour_clock_variant": "หกทุ่ม, เที่ยงคืน",
+      "twenty_four_hour": "ยี่สิบสี่นาฬิกา, ศูนย์นาฬิกา"
+    }
+  ],
+  "meta": {
+    "title": "นาฬิกาหกชั่วโมง: การบอกเวลาแบบไทย (ตี โมง ทุ่ม) - ดาวน์โหลดฟรี",
+    "description": "ตารางเทียบการบอกเวลาแบบไทยตามระบบนาฬิกาหกชั่วโมง (ตี โมงเช้า บ่าย โมงเย็น ทุ่ม) ทั้งแบบมาตรฐานและแบบแผลง กับการอ่านเวลาแบบ 24 ชั่วโมง ครบ 24 ชั่วโมง จากวิกิพีเดียภาษาไทย มีทั้งหมด 24 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "นาฬิกาหกชั่วโมง: การบอกเวลาแบบไทย (ตี โมง ทุ่ม) | ListBase",
+    "seo_description": "ดาวน์โหลด นาฬิกาหกชั่วโมง: การบอกเวลาแบบไทย (ตี โมง ทุ่ม) — 24 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 24 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/นาฬิกาหกชั่วโมง"
+    ]
+  }
+}

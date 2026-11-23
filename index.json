@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-20T02:15:28.026Z",
-  "total_datasets": 829,
-  "total_records": 285428,
+  "generated": "2026-11-23T02:23:21.278Z",
+  "total_datasets": 830,
+  "total_records": 285452,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -24039,6 +24039,31 @@
         "xlsx": {
           "name": "th-kham-bok-wela-samphat_TH.xlsx",
           "size": 7998
+        }
+      }
+    },
+    {
+      "id": "th-nalika-hok-chua-mong",
+      "name": "นาฬิกาหกชั่วโมง: การบอกเวลาแบบไทย (ตี โมง ทุ่ม)",
+      "category": "time",
+      "record_count": 24,
+      "columns": [
+        "time",
+        "six_hour_clock",
+        "six_hour_clock_variant",
+        "twenty_four_hour"
+      ],
+      "source": "https://th.wikipedia.org/wiki/นาฬิกาหกชั่วโมง",
+      "updated": "2026-11",
+      "size": 8695,
+      "files": {
+        "csv": {
+          "name": "th-nalika-hok-chua-mong_TH.csv",
+          "size": 3022
+        },
+        "xlsx": {
+          "name": "th-nalika-hok-chua-mong_TH.xlsx",
+          "size": 7776
         }
       }
     },
