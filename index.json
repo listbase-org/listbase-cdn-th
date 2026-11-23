@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-23T02:23:21.278Z",
-  "total_datasets": 830,
-  "total_records": 285452,
+  "generated": "2026-11-23T02:23:30.860Z",
+  "total_datasets": 831,
+  "total_records": 285532,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -711,6 +711,38 @@
         "xlsx": {
           "name": "th-phu-wa-kan-thanakhan-haeng-prathet-thai_TH.xlsx",
           "size": 8166
+        }
+      }
+    },
+    {
+      "id": "th-rakha-khai-plik-namman-raiduean",
+      "name": "ราคาขายปลีกน้ำมันเชื้อเพลิงเฉลี่ยรายเดือนของไทย (2563–2569)",
+      "category": "economy",
+      "record_count": 80,
+      "columns": [
+        "year",
+        "month",
+        "benzine_95",
+        "gasohol_95_e10",
+        "gasohol_e20",
+        "gasohol_e85",
+        "gasohol_91",
+        "diesel_b7",
+        "diesel_b20",
+        "diesel_premium",
+        "lpg_cooking_baht_kg"
+      ],
+      "source": "https://data.go.th/dataset/dataset_11_58",
+      "updated": "2026-11",
+      "size": 28550,
+      "files": {
+        "csv": {
+          "name": "th-rakha-khai-plik-namman-raiduean_TH.csv",
+          "size": 6651
+        },
+        "xlsx": {
+          "name": "th-rakha-khai-plik-namman-raiduean_TH.xlsx",
+          "size": 11356
         }
       }
     },
