@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-23T02:23:30.860Z",
-  "total_datasets": 831,
-  "total_records": 285532,
+  "generated": "2026-11-23T02:23:39.899Z",
+  "total_datasets": 832,
+  "total_records": 285752,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -2095,6 +2095,36 @@
         "xlsx": {
           "name": "th-ran-ahan-thai-select-chiang-mai_TH.xlsx",
           "size": 7961
+        }
+      }
+    },
+    {
+      "id": "th-sinkha-gi-ahan-lae-kaset",
+      "name": "สินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ไทย ประเภทอาหารและสินค้าเกษตร",
+      "category": "food",
+      "record_count": 220,
+      "columns": [
+        "name",
+        "name_en",
+        "province",
+        "region",
+        "product_type",
+        "products",
+        "registration_number",
+        "registration_date",
+        "season"
+      ],
+      "source": "https://data.go.th/dataset/dip_060801021",
+      "updated": "2026-11",
+      "size": 110907,
+      "files": {
+        "csv": {
+          "name": "th-sinkha-gi-ahan-lae-kaset_TH.csv",
+          "size": 63544
+        },
+        "xlsx": {
+          "name": "th-sinkha-gi-ahan-lae-kaset_TH.xlsx",
+          "size": 26116
         }
       }
     },
