@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-23T02:23:39.899Z",
-  "total_datasets": 832,
-  "total_records": 285752,
+  "generated": "2026-11-23T02:23:48.895Z",
+  "total_datasets": 833,
+  "total_records": 285801,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -527,6 +527,35 @@
         "xlsx": {
           "name": "th-royal-temples_TH.xlsx",
           "size": 27423
+        }
+      }
+    },
+    {
+      "id": "th-sinkha-gi-hatthakam-lae-pha",
+      "name": "สินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ไทย ประเภทหัตถกรรมและผ้า",
+      "category": "culture",
+      "record_count": 49,
+      "columns": [
+        "name",
+        "name_en",
+        "province",
+        "region",
+        "product_type",
+        "products",
+        "registration_number",
+        "registration_date"
+      ],
+      "source": "https://data.go.th/dataset/dip_060801021",
+      "updated": "2026-11",
+      "size": 27466,
+      "files": {
+        "csv": {
+          "name": "th-sinkha-gi-hatthakam-lae-pha_TH.csv",
+          "size": 15118
+        },
+        "xlsx": {
+          "name": "th-sinkha-gi-hatthakam-lae-pha_TH.xlsx",
+          "size": 11994
         }
       }
     },

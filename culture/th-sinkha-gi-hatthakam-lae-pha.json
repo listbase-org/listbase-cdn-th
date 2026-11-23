@@ -1,0 +1,556 @@
+{
+  "id": "th-sinkha-gi-hatthakam-lae-pha",
+  "name": "สินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ไทย ประเภทหัตถกรรมและผ้า",
+  "title": "สินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ไทย ประเภทหัตถกรรมและผ้า",
+  "description": "รายการสินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ของไทยกลุ่มหัตถกรรมและผ้าทอ เช่น ผ้าไหม เครื่องปั้นดินเผา และเครื่องจักสาน พร้อมจังหวัด เลขทะเบียน และวันที่ขึ้นทะเบียน จากกรมทรัพย์สินทางปัญญา",
+  "category": "culture",
+  "source": "https://data.go.th/dataset/dip_060801021",
+  "source_url": "https://data.go.th/dataset/dip_060801021",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "product_type",
+      "label": "Product Type",
+      "type": "string"
+    },
+    {
+      "key": "products",
+      "label": "Products",
+      "type": "string"
+    },
+    {
+      "key": "registration_number",
+      "label": "Registration Number",
+      "type": "number"
+    },
+    {
+      "key": "registration_date",
+      "label": "Registration Date",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ผ้าตีนจกแม่แจ่ม",
+      "name_en": "PA TEEN JOK MAE JAEM",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าตีนจกแม่แจ่ม",
+      "registration_number": "50100015",
+      "registration_date": "2007-10-24"
+    },
+    {
+      "name": "ผ้าไหมยกดอกลำพูน",
+      "name_en": "LAMPHUN BROCADE THAI SILK",
+      "province": "ลำพูน",
+      "region": "ภาคเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าไหมยกดอกลำพูน, ผ้าชุด, ผ้าซิ่น, ผ้าชิ้น, ผ้าสไบ, ผ้าคลุมไหล่",
+      "registration_number": "50100020",
+      "registration_date": "2007-10-24"
+    },
+    {
+      "name": "ผ้าไหมแพรวากาฬสินธุ์",
+      "name_en": "PRAWA KALASIN THAI SILK",
+      "province": "กาฬสินธุ์",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าไหมแพรวาและผลิตภัณฑ์จากผ้าไหมแพรวา",
+      "registration_number": "50100021",
+      "registration_date": "2007-10-24"
+    },
+    {
+      "name": "ร่มบ่อสร้าง",
+      "name_en": "BOR SANG UMBRELLA",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "ร่มที่ทำจากผ้าฝ้าย ผ้าแพร ผ้าดิบ ร่มทำจากกระดาษสา หุ้มบนโครงไม้ไผ่",
+      "registration_number": "52100028",
+      "registration_date": "2009-06-10"
+    },
+    {
+      "name": "เครื่องปั้นดินเผาบ้านเชียง",
+      "name_en": "BAN CHIANG POTTERY",
+      "province": "อุดรธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องปั้นดิน",
+      "registration_number": "52100029",
+      "registration_date": "2009-06-10"
+    },
+    {
+      "name": "ศิลาดลเชียงใหม่",
+      "name_en": "CHIANG MAI CELADON",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "ผลิตภัณฑ์เครื่องปั้นดินเผาศิลาดล",
+      "registration_number": "52100030",
+      "registration_date": "2009-06-10"
+    },
+    {
+      "name": "เครื่องจักสานพนัสนิคม",
+      "name_en": "KRUENG JAK SAN PHANAT NIKHOM",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องจักสาน",
+      "registration_number": "53100033",
+      "registration_date": "2010-04-30"
+    },
+    {
+      "name": "ผ้าไหมมัดหมี่ชนบท",
+      "name_en": "CHONNABOT MUDMEE THAI SILK",
+      "province": "ขอนแก่น",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าไหมมัดหมี่",
+      "registration_number": "53100035",
+      "registration_date": "2010-04-30"
+    },
+    {
+      "name": "ญอกมละบริน่าน",
+      "name_en": "YOK MLABRI NAN",
+      "province": "น่าน",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "ถุงย่ามมละบริ",
+      "registration_number": "54100038",
+      "registration_date": "2011-11-15"
+    },
+    {
+      "name": "เครื่องปั้นดินเผาเกาะเกร็ด",
+      "name_en": "KOHKRET POTTERY",
+      "province": "นนทบุรี",
+      "region": "ภาคกลาง",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องปั้นดินเผา",
+      "registration_number": "55100040",
+      "registration_date": "2012-01-31"
+    },
+    {
+      "name": "เส้นไหมไทยพื้นบ้านอีสาน",
+      "name_en": "ISAN INDIGENOUS THAI SILK YARN",
+      "province": "กาฬสินธุ์",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เส้นไหม",
+      "registration_number": "56100050",
+      "registration_date": "2013-04-09"
+    },
+    {
+      "name": "ครกหินอ่างศิลา",
+      "name_en": "ANGSILA MORTAR STONE",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "product_type": "หัตถกรรม",
+      "products": "ครกหิน",
+      "registration_number": "56100057",
+      "registration_date": "2013-09-30"
+    },
+    {
+      "name": "ผ้าฝ้ายทอผสมขนแกะบ้านห้วยห้อม",
+      "name_en": "BAN HUAI HOM COTTON AND WOOL BLENDED FABRIC",
+      "province": "แม่ฮ่องสอน",
+      "region": "ภาคเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าฝ้ายทอผสมขนเเกะ",
+      "registration_number": "56100059",
+      "registration_date": "2013-09-30"
+    },
+    {
+      "name": "ชามไก่ลำปาง",
+      "name_en": "Lampang chicken Bowl หรือ Cham Kai Lampang",
+      "province": "ลำปาง",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "ชามและผลิตภัณฑ์เซรามิกประเภทเครื่องใช้บนโต๊ะอาหารที่วาดลวดลายไก่ ดอกโบตั๋น และต้นกล้วย",
+      "registration_number": "56100060",
+      "registration_date": "2013-12-18"
+    },
+    {
+      "name": "ผ้าครามธรรมชาติสกลนคร",
+      "name_en": "SAKON NAKHON NATURAL INDIGO DYED FRABIC",
+      "province": "สกลนคร",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าคราม",
+      "registration_number": "58100068",
+      "registration_date": "2015-03-11"
+    },
+    {
+      "name": "ผ้าไหมมัดหมี่ซิ่นตีนแดงบุรีรัมย์",
+      "name_en": "PHAMAI – MADMEE – CINTEANDANG BURIRAM",
+      "province": "บุรีรัมย์",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าไหมมัดหมี่",
+      "registration_number": "58100072",
+      "registration_date": "2015-08-06"
+    },
+    {
+      "name": "ผ้าหมักโคลนหนองสูง",
+      "name_en": "NONG SUNG’S FERMENTED MUD CLOTH",
+      "province": "มุกดาหาร",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าหมักโคลนหนองสูง",
+      "registration_number": "60100090",
+      "registration_date": "2017-03-17"
+    },
+    {
+      "name": "สังคโลกสุโขทัย",
+      "name_en": "SANGKHALOK SUKHOTHAI",
+      "province": "สุโขทัย",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องปั้นดินเผา",
+      "registration_number": "61100106",
+      "registration_date": "2018-05-07"
+    },
+    {
+      "name": "เสื่อจันทบูร",
+      "name_en": "CHANTHABOON MAT",
+      "province": "จันทบุรี",
+      "region": "ภาคตะวันออก",
+      "product_type": "หัตถกรรม",
+      "products": "เสื่อกกและผลิตภัณฑ์แปรรูปจากเสื่อกก",
+      "registration_number": "61100108",
+      "registration_date": "2018-06-13"
+    },
+    {
+      "name": "เครื่องปั้นดินเผาบ้านมอญ",
+      "name_en": "BAN MON POTTERY",
+      "province": "นครสวรรค์",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องปั้นดินเผา",
+      "registration_number": "61100114",
+      "registration_date": "2018-06-27"
+    },
+    {
+      "name": "นิลเมืองกาญจน์",
+      "name_en": "NIL MUANG KAN",
+      "province": "กาญจนบุรี",
+      "region": "ภาคกลาง",
+      "product_type": "หัตถกรรม",
+      "products": "นิล",
+      "registration_number": "61100115",
+      "registration_date": "2018-06-27"
+    },
+    {
+      "name": "เครื่องปั้นดินเผาด่านเกวียน",
+      "name_en": "DAN KWIAN POTTERY",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องปั้นดินเผา",
+      "registration_number": "62100125",
+      "registration_date": "2019-07-08"
+    },
+    {
+      "name": "ผ้าไหมเก็บบ้านเมืองหลวง",
+      "name_en": "PHA MAI KEP BAN MUEANGLUANG",
+      "province": "ศรีสะเกษ",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าไหมและผลิตภัณฑ์จากผ้าไหมเก็บบ้านเมืองหลวง",
+      "registration_number": "62100129",
+      "registration_date": "2019-09-16"
+    },
+    {
+      "name": "ผ้าหม้อห้อมแพร่",
+      "name_en": "MOR HOM PHRAE FABRIC",
+      "province": "แพร่",
+      "region": "ภาคเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าหม้อห้อมและผลิตภัณฑ์สิ่งทอที่ใช้ผ้าหม้อห้อมในการแปรรูป",
+      "registration_number": "63100137",
+      "registration_date": "2020-03-30"
+    },
+    {
+      "name": "โอ่งมังกรราชบุรี",
+      "name_en": "ONG MANG-GON RATCHABURI",
+      "province": "ราชบุรี",
+      "region": "ภาคกลาง",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องปั้นดินเผา",
+      "registration_number": "63100141",
+      "registration_date": "2020-05-21"
+    },
+    {
+      "name": "กลองเอกราช",
+      "name_en": "Klong Ekkarat",
+      "province": "อ่างทอง",
+      "region": "ภาคกลาง",
+      "product_type": "หัตถกรรม",
+      "products": "กลองยาว กลองเพล (กลองทัด)",
+      "registration_number": "64100156",
+      "registration_date": "2021-06-22"
+    },
+    {
+      "name": "เครื่องเคลือบเวียงกาหลง",
+      "name_en": "Wiang Kalong Pottery Krueang Kleuab Wiang Kalong",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องปั้นดินเผาชนิดเคลือบ",
+      "registration_number": "64100158",
+      "registration_date": "2021-07-12"
+    },
+    {
+      "name": "เสื่อกกบ้านสร้าง",
+      "name_en": "Ban Sang Mat Suer Kok Ban Sang",
+      "province": "ปราจีนบุรี",
+      "region": "ภาคตะวันออก",
+      "product_type": "หัตถกรรม",
+      "products": "เสื่อกกและผลิตภัณฑ์แปรรูปจากเสื่อกก",
+      "registration_number": "64100166",
+      "registration_date": "2021-09-27"
+    },
+    {
+      "name": "ครกหินแกรนิตตาก",
+      "name_en": "Tak Granite Mortar Krok Hin Granite Tak",
+      "province": "ตาก",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "ครกหิน",
+      "registration_number": "65100171",
+      "registration_date": "2022-01-25"
+    },
+    {
+      "name": "ผ้าไหมสาเกต",
+      "name_en": "Saket Silk Pha Mai Saket",
+      "province": "ร้อยเอ็ด",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าพันคอ ผ้าคลุมไหล่ ผ้าผืน",
+      "registration_number": "65100173",
+      "registration_date": "2022-03-07"
+    },
+    {
+      "name": "ผ้าตีนจกโหล่งลี้ลำพูน",
+      "name_en": "Pha Teen Jok Lhong Li Lamphun Teen Jok Lhong Li Lamphun Textiles",
+      "province": "ลำพูน",
+      "region": "ภาคเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าตีนจก",
+      "registration_number": "65100175",
+      "registration_date": "2022-05-11"
+    },
+    {
+      "name": "ผ้าไหมปักธงชัย",
+      "name_en": "Pak Thong Chai Thai Silk Pha Mai Pak Thong Chai",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าพื้น ผ้าชิ้น",
+      "registration_number": "65100178",
+      "registration_date": "2022-07-04"
+    },
+    {
+      "name": "ผ้าไหมคึมมะอุบัวลาย",
+      "name_en": "Khum Ma Au Bua Lai Silk และ/หรือ Pha Mai Khum Ma Au Bua Lai",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าไหมทอมือ",
+      "registration_number": "65100180",
+      "registration_date": "2022-08-26"
+    },
+    {
+      "name": "ดินสอพองลพบุรี",
+      "name_en": "Lop Buri White Clay Filler Din Sor Pong Lop Buri",
+      "province": "ลพบุรี",
+      "region": "ภาคกลาง",
+      "product_type": "หัตถกรรม",
+      "products": "ดินสอพองแบบก้อน ดินสอพองแบบผง",
+      "registration_number": "65100188",
+      "registration_date": "2022-09-29"
+    },
+    {
+      "name": "ครุน้อยบ้านสะอางศรีสะเกษ",
+      "name_en": "Kru Noi Ban Sa-ang Si Sa Ket",
+      "province": "ศรีสะเกษ",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เครื่องจักสานไม้ไผ่",
+      "registration_number": "66100214",
+      "registration_date": "2023-11-30"
+    },
+    {
+      "name": "ผ้าหมักโคลนบึงกาฬ",
+      "name_en": "Bueng Kan Fermented Mud Cloth หรือ Pha Muk Klon Buengkan",
+      "province": "บึงกาฬ",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าผืน และผลิตภัณฑ์สิ่งทอ ที่ผลิตจากผ้าหมักโคลนบึงกาฬ",
+      "registration_number": "67100220",
+      "registration_date": "2024-01-22"
+    },
+    {
+      "name": "เสื่อกกนาหมอม้า",
+      "name_en": "Na Mor Ma Mat หรือ Suer Kok Na Mor Ma",
+      "province": "อำนาจเจริญ",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "เสื่อกก และผลิตภัณฑ์แปรรูปจากเสื่อกก",
+      "registration_number": "67100230",
+      "registration_date": "2024-09-09"
+    },
+    {
+      "name": "หินอ่อนพรานกระต่าย",
+      "name_en": "Phran Kratai Marble หรือ Hin On Phran Kratai",
+      "province": "กำแพงเพชร",
+      "region": "ภาคเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "หินอ่อนก้อน หินอ่อนแปรรูปจากโรงงาน หินอ่อนแปรรูปจากงานหัตถกรรม",
+      "registration_number": "67100231",
+      "registration_date": "2024-09-09"
+    },
+    {
+      "name": "ผ้ากาบบัวอุบลราชธานี",
+      "name_en": "Ubon Ratchathani Kap Bua Fabric หรือ Pha Kap Bua Ubon Ratchathani",
+      "province": "อุบลราชธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าผืน ผ้าพันคอ ผ้าคลุมไหล่ ทอมือด้วยไหมหรือฝ้าย และเสื้อผ้าสำเร็จรูป กระเป๋า ผลิตภัณฑ์ที่ผลิตจากผ้ากาบบัวอุบลราชธานี",
+      "registration_number": "67100241",
+      "registration_date": "2024-12-13"
+    },
+    {
+      "name": "ผ้าฝ้ายเมืองเลย",
+      "name_en": "Mueang Loei Cotton Fabric และ/หรือ Pha Fai Mueang Loei",
+      "province": "เลย",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าผืน ผ้าคลุมไหล่ ผ้าพันคอ",
+      "registration_number": "68100253",
+      "registration_date": "2025-04-03"
+    },
+    {
+      "name": "กระจูดพัทลุง",
+      "name_en": "Krajood Phatthalung",
+      "province": "พัทลุง",
+      "region": "ภาคใต้",
+      "product_type": "หัตถกรรม",
+      "products": "ผลิตภัณฑ์จักสานจากกระจูด",
+      "registration_number": "68100263",
+      "registration_date": "2025-09-25"
+    },
+    {
+      "name": "กกเหล่าพัฒนา",
+      "name_en": "Phalitphanth kok Ban Lao Pattana หรือ Ban Lao Pattana Sedge Products",
+      "province": "นครพนม",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "กกและผลิตภัณฑ์แปรรูปจากเส้นกก",
+      "registration_number": "68100264",
+      "registration_date": "2025-10-10"
+    },
+    {
+      "name": "ผ้าทอนาหมื่นศรี",
+      "name_en": "Phatho Na Muen Sri/ Na Muen Sri Woven Fabric",
+      "province": "ตรัง",
+      "region": "ภาคใต้",
+      "product_type": "ผ้า",
+      "products": "ผ้าผืน ผ้าซิ่น ผ้าพันคอ ผ้าสไบ ผ้าขาวม้ายกดอก ผลิตภัณฑ์จากผ้าทอนาหมื่นศรี",
+      "registration_number": "68100267",
+      "registration_date": "2025-11-07"
+    },
+    {
+      "name": "ตุ๊กตาชาววังบ้านบางเสด็จ",
+      "name_en": "Baan Bang Sadet Court Doll และหรือ tuk ka-ta chao wang baan bang sadet",
+      "province": "อ่างทอง",
+      "region": "ภาคกลาง",
+      "product_type": "หัตถกรรม",
+      "products": "ตุ๊กตาปั้นดินเผา",
+      "registration_number": "68100271",
+      "registration_date": "2025-12-22"
+    },
+    {
+      "name": "ครกดินเผาบ้านกลาง",
+      "name_en": "Khok Din Phao Ban Klang หรือ Ban Klang Clay Mortar",
+      "province": "นครพนม",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "ครกดินเผา",
+      "registration_number": "69100276",
+      "registration_date": "2026-02-03"
+    },
+    {
+      "name": "ผ้าย้อมครั่งลำปาง",
+      "name_en": "Lampang Lac Dyed Fabric และ/หรือ Pha Yom Krung Lampang",
+      "province": "ลำปาง",
+      "region": "ภาคเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าผืน และผลิตภัณฑ์สิ่งทอผ้าย้อมครั่งลำปาง",
+      "registration_number": "69100277",
+      "registration_date": "2026-02-03"
+    },
+    {
+      "name": "ผ้าขิดสลับหมี่หนองบัวลำภู",
+      "name_en": "Nongbualumphu Khid Salab Mee หรือ Pha Khid Salab Mee Nongbualumphu",
+      "province": "หนองบัวลำภู",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "ผ้า",
+      "products": "ผ้าทอขิดสลับหมี่ (ผ้าไหมขิดสลับหมี่ ผ้าฝ้ายขิดสลับหมี่ ผ้าไหมแกมฝ้ายขิดสลับหมี่)",
+      "registration_number": "69100288",
+      "registration_date": "2026-06-29"
+    },
+    {
+      "name": "กระจูดควนเคร็ง นครศรีธรรมราช",
+      "name_en": "Krajood Khuan Khreng Nakhon Si Thammarat",
+      "province": "นครศรีธรรมราช",
+      "region": "ภาคใต้",
+      "product_type": "หัตถกรรม",
+      "products": "ผลิตภัณฑ์เครื่องใช้ของตกแต่งบ้าน และของใช้ในชีวิตประจำวัน",
+      "registration_number": "69100293",
+      "registration_date": "2026-08-05"
+    },
+    {
+      "name": "ผลิตภัณฑ์คล้าศรีบุญเรือง",
+      "name_en": "Phalitphanth kla Sribunrueng หรือ Sribunrueng Product of Kla",
+      "province": "หนองบัวลำภู",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "product_type": "หัตถกรรม",
+      "products": "คล้าและผลิตภัณฑ์แปรรูปจากเส้นคล้า",
+      "registration_number": "69100295",
+      "registration_date": "2026-08-13"
+    }
+  ],
+  "meta": {
+    "title": "สินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ไทย ประเภทหัตถกรรมและผ้า - ดาวน์โหลดฟรี",
+    "description": "รายการสินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ของไทยกลุ่มหัตถกรรมและผ้าทอ เช่น ผ้าไหม เครื่องปั้นดินเผา และเครื่องจักสาน พร้อมจังหวัด เลขทะเบียน และวันที่ขึ้นทะเบียน จากกรมทรัพย์สินทางปัญญา มีทั้งหมด 49 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "สินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ไทย ประเภทหัตถกรรมและผ้า | ListBase",
+    "seo_description": "ดาวน์โหลด สินค้าสิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ไทย ประเภทหัตถกรรมและผ้า — 49 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 49 รายการ / 8 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://data.go.th/dataset/dip_060801021"
+    ]
+  }
+}
