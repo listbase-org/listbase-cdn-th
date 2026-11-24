@@ -1,0 +1,672 @@
+{
+  "id": "th-parimarn-khaya-munlafoi-rai-changwat-2563-2567",
+  "name": "ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้นรายจังหวัด พ.ศ. 2563–2567",
+  "title": "ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้นรายจังหวัด พ.ศ. 2563–2567",
+  "description": "ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้น (ตัน/วัน) ของ 76 จังหวัดและกรุงเทพมหานคร ปี พ.ศ. 2563 ถึง 2567 จากกรมควบคุมมลพิษ เรียงตามปริมาณปี 2567",
+  "category": "environment",
+  "source": "https://data.go.th/dataset/13_7_waste_commu_generate_prov",
+  "source_url": "https://data.go.th/dataset/13_7_waste_commu_generate_prov",
+  "updated": "2026-11",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "waste_tons_per_day_2563",
+      "label": "Waste Tons Per Day 2563",
+      "type": "number"
+    },
+    {
+      "key": "waste_tons_per_day_2564",
+      "label": "Waste Tons Per Day 2564",
+      "type": "number"
+    },
+    {
+      "key": "waste_tons_per_day_2565",
+      "label": "Waste Tons Per Day 2565",
+      "type": "number"
+    },
+    {
+      "key": "waste_tons_per_day_2566",
+      "label": "Waste Tons Per Day 2566",
+      "type": "number"
+    },
+    {
+      "key": "waste_tons_per_day_2567",
+      "label": "Waste Tons Per Day 2567",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "province": "กรุงเทพมหานคร",
+      "waste_tons_per_day_2563": 12281.7,
+      "waste_tons_per_day_2564": 12214,
+      "waste_tons_per_day_2565": 12890,
+      "waste_tons_per_day_2566": 12748,
+      "waste_tons_per_day_2567": 12847
+    },
+    {
+      "province": "ชลบุรี",
+      "waste_tons_per_day_2563": 2683.7,
+      "waste_tons_per_day_2564": 2750,
+      "waste_tons_per_day_2565": 3107,
+      "waste_tons_per_day_2566": 3374,
+      "waste_tons_per_day_2567": 3228
+    },
+    {
+      "province": "สมุทรปราการ",
+      "waste_tons_per_day_2563": 2341.5,
+      "waste_tons_per_day_2564": 2515,
+      "waste_tons_per_day_2565": 3120,
+      "waste_tons_per_day_2566": 3465,
+      "waste_tons_per_day_2567": 3177
+    },
+    {
+      "province": "นครราชสีมา",
+      "waste_tons_per_day_2563": 2337.3,
+      "waste_tons_per_day_2564": 2271,
+      "waste_tons_per_day_2565": 2228,
+      "waste_tons_per_day_2566": 2588,
+      "waste_tons_per_day_2567": 2562
+    },
+    {
+      "province": "นนทบุรี",
+      "waste_tons_per_day_2563": 1960.9,
+      "waste_tons_per_day_2564": 1989,
+      "waste_tons_per_day_2565": 2012,
+      "waste_tons_per_day_2566": 2065,
+      "waste_tons_per_day_2567": 2085
+    },
+    {
+      "province": "ปทุมธานี",
+      "waste_tons_per_day_2563": 1719.6,
+      "waste_tons_per_day_2564": 1714,
+      "waste_tons_per_day_2565": 1950,
+      "waste_tons_per_day_2566": 2060,
+      "waste_tons_per_day_2567": 2080
+    },
+    {
+      "province": "เชียงใหม่",
+      "waste_tons_per_day_2563": 1434.4,
+      "waste_tons_per_day_2564": 1415,
+      "waste_tons_per_day_2565": 1445,
+      "waste_tons_per_day_2566": 1475,
+      "waste_tons_per_day_2567": 1635
+    },
+    {
+      "province": "ระยอง",
+      "waste_tons_per_day_2563": 1010.2,
+      "waste_tons_per_day_2564": 1086,
+      "waste_tons_per_day_2565": 1140,
+      "waste_tons_per_day_2566": 1370,
+      "waste_tons_per_day_2567": 1602
+    },
+    {
+      "province": "สงขลา",
+      "waste_tons_per_day_2563": 1140.3,
+      "waste_tons_per_day_2564": 1236,
+      "waste_tons_per_day_2565": 1207,
+      "waste_tons_per_day_2566": 1599,
+      "waste_tons_per_day_2567": 1596
+    },
+    {
+      "province": "อุดรธานี",
+      "waste_tons_per_day_2563": 1072,
+      "waste_tons_per_day_2564": 1127,
+      "waste_tons_per_day_2565": 1368,
+      "waste_tons_per_day_2566": 1452,
+      "waste_tons_per_day_2567": 1577
+    },
+    {
+      "province": "อุบลราชธานี",
+      "waste_tons_per_day_2563": 1611.2,
+      "waste_tons_per_day_2564": 1580,
+      "waste_tons_per_day_2565": 1654,
+      "waste_tons_per_day_2566": 1514,
+      "waste_tons_per_day_2567": 1523
+    },
+    {
+      "province": "ขอนแก่น",
+      "waste_tons_per_day_2563": 1221.4,
+      "waste_tons_per_day_2564": 1289,
+      "waste_tons_per_day_2565": 1348,
+      "waste_tons_per_day_2566": 1402,
+      "waste_tons_per_day_2567": 1390
+    },
+    {
+      "province": "สุรินทร์",
+      "waste_tons_per_day_2563": 1104.4,
+      "waste_tons_per_day_2564": 1139,
+      "waste_tons_per_day_2565": 1170,
+      "waste_tons_per_day_2566": 1223,
+      "waste_tons_per_day_2567": 1377
+    },
+    {
+      "province": "นครปฐม",
+      "waste_tons_per_day_2563": 1276.3,
+      "waste_tons_per_day_2564": 1225,
+      "waste_tons_per_day_2565": 1144,
+      "waste_tons_per_day_2566": 1239,
+      "waste_tons_per_day_2567": 1368
+    },
+    {
+      "province": "สุราษฎร์ธานี",
+      "waste_tons_per_day_2563": 1034.8,
+      "waste_tons_per_day_2564": 988,
+      "waste_tons_per_day_2565": 1215,
+      "waste_tons_per_day_2566": 1295,
+      "waste_tons_per_day_2567": 1311
+    },
+    {
+      "province": "บุรีรัมย์",
+      "waste_tons_per_day_2563": 1698.5,
+      "waste_tons_per_day_2564": 1380,
+      "waste_tons_per_day_2565": 1072,
+      "waste_tons_per_day_2566": 1314,
+      "waste_tons_per_day_2567": 1310
+    },
+    {
+      "province": "นครศรีธรรมราช",
+      "waste_tons_per_day_2563": 1100.6,
+      "waste_tons_per_day_2564": 1150,
+      "waste_tons_per_day_2565": 1402,
+      "waste_tons_per_day_2566": 1163,
+      "waste_tons_per_day_2567": 1120
+    },
+    {
+      "province": "พระนครศรีอยุธยา",
+      "waste_tons_per_day_2563": 1351.8,
+      "waste_tons_per_day_2564": 1287,
+      "waste_tons_per_day_2565": 1100,
+      "waste_tons_per_day_2566": 1200,
+      "waste_tons_per_day_2567": 1120
+    },
+    {
+      "province": "สมุทรสาคร",
+      "waste_tons_per_day_2563": 839.1,
+      "waste_tons_per_day_2564": 868,
+      "waste_tons_per_day_2565": 908,
+      "waste_tons_per_day_2566": 996,
+      "waste_tons_per_day_2567": 1007
+    },
+    {
+      "province": "ภูเก็ต",
+      "waste_tons_per_day_2563": 994.5,
+      "waste_tons_per_day_2564": 722,
+      "waste_tons_per_day_2565": 742,
+      "waste_tons_per_day_2566": 961,
+      "waste_tons_per_day_2567": 1000
+    },
+    {
+      "province": "ร้อยเอ็ด",
+      "waste_tons_per_day_2563": 952.4,
+      "waste_tons_per_day_2564": 938,
+      "waste_tons_per_day_2565": 981,
+      "waste_tons_per_day_2566": 985,
+      "waste_tons_per_day_2567": 985
+    },
+    {
+      "province": "ชัยภูมิ",
+      "waste_tons_per_day_2563": 939.5,
+      "waste_tons_per_day_2564": 896,
+      "waste_tons_per_day_2565": 880,
+      "waste_tons_per_day_2566": 1028,
+      "waste_tons_per_day_2567": 971
+    },
+    {
+      "province": "เชียงราย",
+      "waste_tons_per_day_2563": 776.4,
+      "waste_tons_per_day_2564": 834,
+      "waste_tons_per_day_2565": 930,
+      "waste_tons_per_day_2566": 874,
+      "waste_tons_per_day_2567": 940
+    },
+    {
+      "province": "เพชรบูรณ์",
+      "waste_tons_per_day_2563": 742.1,
+      "waste_tons_per_day_2564": 637,
+      "waste_tons_per_day_2565": 587,
+      "waste_tons_per_day_2566": 795,
+      "waste_tons_per_day_2567": 907
+    },
+    {
+      "province": "นครสวรรค์",
+      "waste_tons_per_day_2563": 787.9,
+      "waste_tons_per_day_2564": 815,
+      "waste_tons_per_day_2565": 836,
+      "waste_tons_per_day_2566": 897,
+      "waste_tons_per_day_2567": 885
+    },
+    {
+      "province": "ราชบุรี",
+      "waste_tons_per_day_2563": 759.8,
+      "waste_tons_per_day_2564": 697,
+      "waste_tons_per_day_2565": 798,
+      "waste_tons_per_day_2566": 773,
+      "waste_tons_per_day_2567": 882
+    },
+    {
+      "province": "สุพรรณบุรี",
+      "waste_tons_per_day_2563": 691,
+      "waste_tons_per_day_2564": 755,
+      "waste_tons_per_day_2565": 786,
+      "waste_tons_per_day_2566": 837,
+      "waste_tons_per_day_2567": 878
+    },
+    {
+      "province": "กาญจนบุรี",
+      "waste_tons_per_day_2563": 794.8,
+      "waste_tons_per_day_2564": 849,
+      "waste_tons_per_day_2565": 657,
+      "waste_tons_per_day_2566": 698,
+      "waste_tons_per_day_2567": 875
+    },
+    {
+      "province": "สกลนคร",
+      "waste_tons_per_day_2563": 896.1,
+      "waste_tons_per_day_2564": 890,
+      "waste_tons_per_day_2565": 843,
+      "waste_tons_per_day_2566": 872,
+      "waste_tons_per_day_2567": 850
+    },
+    {
+      "province": "พิษณุโลก",
+      "waste_tons_per_day_2563": 812.4,
+      "waste_tons_per_day_2564": 815,
+      "waste_tons_per_day_2565": 846,
+      "waste_tons_per_day_2566": 857,
+      "waste_tons_per_day_2567": 802
+    },
+    {
+      "province": "นราธิวาส",
+      "waste_tons_per_day_2563": 744.5,
+      "waste_tons_per_day_2564": 745,
+      "waste_tons_per_day_2565": 725,
+      "waste_tons_per_day_2566": 772,
+      "waste_tons_per_day_2567": 777
+    },
+    {
+      "province": "ลพบุรี",
+      "waste_tons_per_day_2563": 798.6,
+      "waste_tons_per_day_2564": 872,
+      "waste_tons_per_day_2565": 795,
+      "waste_tons_per_day_2566": 794,
+      "waste_tons_per_day_2567": 774
+    },
+    {
+      "province": "ตาก",
+      "waste_tons_per_day_2563": 708,
+      "waste_tons_per_day_2564": 711,
+      "waste_tons_per_day_2565": 773,
+      "waste_tons_per_day_2566": 653,
+      "waste_tons_per_day_2567": 719
+    },
+    {
+      "province": "ปัตตานี",
+      "waste_tons_per_day_2563": 1023.3,
+      "waste_tons_per_day_2564": 662,
+      "waste_tons_per_day_2565": 366,
+      "waste_tons_per_day_2566": 693,
+      "waste_tons_per_day_2567": 697
+    },
+    {
+      "province": "ฉะเชิงเทรา",
+      "waste_tons_per_day_2563": 674.9,
+      "waste_tons_per_day_2564": 771,
+      "waste_tons_per_day_2565": 704,
+      "waste_tons_per_day_2566": 683,
+      "waste_tons_per_day_2567": 683
+    },
+    {
+      "province": "ศรีสะเกษ",
+      "waste_tons_per_day_2563": 946,
+      "waste_tons_per_day_2564": 835,
+      "waste_tons_per_day_2565": 601,
+      "waste_tons_per_day_2566": 864,
+      "waste_tons_per_day_2567": 675
+    },
+    {
+      "province": "นครพนม",
+      "waste_tons_per_day_2563": 663.91,
+      "waste_tons_per_day_2564": 450,
+      "waste_tons_per_day_2565": 650,
+      "waste_tons_per_day_2566": 663,
+      "waste_tons_per_day_2567": 672
+    },
+    {
+      "province": "ตรัง",
+      "waste_tons_per_day_2563": 509.7,
+      "waste_tons_per_day_2564": 452,
+      "waste_tons_per_day_2565": 450,
+      "waste_tons_per_day_2566": 515,
+      "waste_tons_per_day_2567": 655
+    },
+    {
+      "province": "เลย",
+      "waste_tons_per_day_2563": 541.8,
+      "waste_tons_per_day_2564": 595,
+      "waste_tons_per_day_2565": 630,
+      "waste_tons_per_day_2566": 632,
+      "waste_tons_per_day_2567": 655
+    },
+    {
+      "province": "สระบุรี",
+      "waste_tons_per_day_2563": 631.7,
+      "waste_tons_per_day_2564": 621,
+      "waste_tons_per_day_2565": 647,
+      "waste_tons_per_day_2566": 642,
+      "waste_tons_per_day_2567": 621
+    },
+    {
+      "province": "มหาสารคาม",
+      "waste_tons_per_day_2563": 677.5,
+      "waste_tons_per_day_2564": 610,
+      "waste_tons_per_day_2565": 589,
+      "waste_tons_per_day_2566": 613,
+      "waste_tons_per_day_2567": 613
+    },
+    {
+      "province": "ประจวบคีรีขันธ์",
+      "waste_tons_per_day_2563": 640.4,
+      "waste_tons_per_day_2564": 610,
+      "waste_tons_per_day_2565": 612,
+      "waste_tons_per_day_2566": 616,
+      "waste_tons_per_day_2567": 593
+    },
+    {
+      "province": "กระบี่",
+      "waste_tons_per_day_2563": 491,
+      "waste_tons_per_day_2564": 435,
+      "waste_tons_per_day_2565": 495,
+      "waste_tons_per_day_2566": 523,
+      "waste_tons_per_day_2567": 558
+    },
+    {
+      "province": "จันทบุรี",
+      "waste_tons_per_day_2563": 485.3,
+      "waste_tons_per_day_2564": 495,
+      "waste_tons_per_day_2565": 540,
+      "waste_tons_per_day_2566": 527,
+      "waste_tons_per_day_2567": 550
+    },
+    {
+      "province": "สุโขทัย",
+      "waste_tons_per_day_2563": 373.1,
+      "waste_tons_per_day_2564": 421,
+      "waste_tons_per_day_2565": 560,
+      "waste_tons_per_day_2566": 553,
+      "waste_tons_per_day_2567": 549
+    },
+    {
+      "province": "สระแก้ว",
+      "waste_tons_per_day_2563": 436.7,
+      "waste_tons_per_day_2564": 493,
+      "waste_tons_per_day_2565": 435,
+      "waste_tons_per_day_2566": 462,
+      "waste_tons_per_day_2567": 534
+    },
+    {
+      "province": "กาฬสินธุ์",
+      "waste_tons_per_day_2563": 746,
+      "waste_tons_per_day_2564": 738,
+      "waste_tons_per_day_2565": 735,
+      "waste_tons_per_day_2566": 670,
+      "waste_tons_per_day_2567": 530
+    },
+    {
+      "province": "กำแพงเพชร",
+      "waste_tons_per_day_2563": 529.1,
+      "waste_tons_per_day_2564": 543,
+      "waste_tons_per_day_2565": 514,
+      "waste_tons_per_day_2566": 463,
+      "waste_tons_per_day_2567": 522
+    },
+    {
+      "province": "ชุมพร",
+      "waste_tons_per_day_2563": 414.9,
+      "waste_tons_per_day_2564": 416,
+      "waste_tons_per_day_2565": 446,
+      "waste_tons_per_day_2566": 507,
+      "waste_tons_per_day_2567": 517
+    },
+    {
+      "province": "พัทลุง",
+      "waste_tons_per_day_2563": 353,
+      "waste_tons_per_day_2564": 381,
+      "waste_tons_per_day_2565": 448,
+      "waste_tons_per_day_2566": 455,
+      "waste_tons_per_day_2567": 512
+    },
+    {
+      "province": "หนองคาย",
+      "waste_tons_per_day_2563": 784.5,
+      "waste_tons_per_day_2564": 654,
+      "waste_tons_per_day_2565": 485,
+      "waste_tons_per_day_2566": 490,
+      "waste_tons_per_day_2567": 488
+    },
+    {
+      "province": "เพชรบุรี",
+      "waste_tons_per_day_2563": 438.6,
+      "waste_tons_per_day_2564": 487,
+      "waste_tons_per_day_2565": 454,
+      "waste_tons_per_day_2566": 528,
+      "waste_tons_per_day_2567": 469
+    },
+    {
+      "province": "ปราจีนบุรี",
+      "waste_tons_per_day_2563": 511.6,
+      "waste_tons_per_day_2564": 485,
+      "waste_tons_per_day_2565": 448,
+      "waste_tons_per_day_2566": 451,
+      "waste_tons_per_day_2567": 460
+    },
+    {
+      "province": "ลำปาง",
+      "waste_tons_per_day_2563": 483.9,
+      "waste_tons_per_day_2564": 563,
+      "waste_tons_per_day_2565": 447,
+      "waste_tons_per_day_2566": 450,
+      "waste_tons_per_day_2567": 435
+    },
+    {
+      "province": "อุตรดิตถ์",
+      "waste_tons_per_day_2563": 319.8,
+      "waste_tons_per_day_2564": 332,
+      "waste_tons_per_day_2565": 423,
+      "waste_tons_per_day_2566": 416,
+      "waste_tons_per_day_2567": 422
+    },
+    {
+      "province": "ยโสธร",
+      "waste_tons_per_day_2563": 424.6,
+      "waste_tons_per_day_2564": 441,
+      "waste_tons_per_day_2565": 417,
+      "waste_tons_per_day_2566": 436,
+      "waste_tons_per_day_2567": 403
+    },
+    {
+      "province": "สตูล",
+      "waste_tons_per_day_2563": 302.5,
+      "waste_tons_per_day_2564": 310,
+      "waste_tons_per_day_2565": 320,
+      "waste_tons_per_day_2566": 335,
+      "waste_tons_per_day_2567": 370
+    },
+    {
+      "province": "ยะลา",
+      "waste_tons_per_day_2563": 434.6,
+      "waste_tons_per_day_2564": 410,
+      "waste_tons_per_day_2565": 350,
+      "waste_tons_per_day_2566": 350,
+      "waste_tons_per_day_2567": 350
+    },
+    {
+      "province": "ชัยนาท",
+      "waste_tons_per_day_2563": 289.5,
+      "waste_tons_per_day_2564": 289,
+      "waste_tons_per_day_2565": 333,
+      "waste_tons_per_day_2566": 332,
+      "waste_tons_per_day_2567": 330
+    },
+    {
+      "province": "บึงกาฬ",
+      "waste_tons_per_day_2563": 305,
+      "waste_tons_per_day_2564": 280,
+      "waste_tons_per_day_2565": 323,
+      "waste_tons_per_day_2566": 318,
+      "waste_tons_per_day_2567": 323
+    },
+    {
+      "province": "พังงา",
+      "waste_tons_per_day_2563": 243.1,
+      "waste_tons_per_day_2564": 242,
+      "waste_tons_per_day_2565": 286,
+      "waste_tons_per_day_2566": 301,
+      "waste_tons_per_day_2567": 307
+    },
+    {
+      "province": "ลำพูน",
+      "waste_tons_per_day_2563": 265.6,
+      "waste_tons_per_day_2564": 280,
+      "waste_tons_per_day_2565": 296,
+      "waste_tons_per_day_2566": 306,
+      "waste_tons_per_day_2567": 303
+    },
+    {
+      "province": "พิจิตร",
+      "waste_tons_per_day_2563": 324.7,
+      "waste_tons_per_day_2564": 327,
+      "waste_tons_per_day_2565": 336,
+      "waste_tons_per_day_2566": 344,
+      "waste_tons_per_day_2567": 296
+    },
+    {
+      "province": "มุกดาหาร",
+      "waste_tons_per_day_2563": 222.3,
+      "waste_tons_per_day_2564": 246,
+      "waste_tons_per_day_2565": 260,
+      "waste_tons_per_day_2566": 287,
+      "waste_tons_per_day_2567": 294
+    },
+    {
+      "province": "แพร่",
+      "waste_tons_per_day_2563": 303.1,
+      "waste_tons_per_day_2564": 426,
+      "waste_tons_per_day_2565": 324,
+      "waste_tons_per_day_2566": 315,
+      "waste_tons_per_day_2567": 290
+    },
+    {
+      "province": "หนองบัวลำภู",
+      "waste_tons_per_day_2563": 355.8,
+      "waste_tons_per_day_2564": 325,
+      "waste_tons_per_day_2565": 285,
+      "waste_tons_per_day_2566": 299,
+      "waste_tons_per_day_2567": 274
+    },
+    {
+      "province": "พะเยา",
+      "waste_tons_per_day_2563": 275.2,
+      "waste_tons_per_day_2564": 285,
+      "waste_tons_per_day_2565": 267,
+      "waste_tons_per_day_2566": 271,
+      "waste_tons_per_day_2567": 250
+    },
+    {
+      "province": "นครนายก",
+      "waste_tons_per_day_2563": 213.4,
+      "waste_tons_per_day_2564": 217,
+      "waste_tons_per_day_2565": 243,
+      "waste_tons_per_day_2566": 242,
+      "waste_tons_per_day_2567": 242
+    },
+    {
+      "province": "น่าน",
+      "waste_tons_per_day_2563": 286.1,
+      "waste_tons_per_day_2564": 276,
+      "waste_tons_per_day_2565": 258,
+      "waste_tons_per_day_2566": 260,
+      "waste_tons_per_day_2567": 240
+    },
+    {
+      "province": "ระนอง",
+      "waste_tons_per_day_2563": 277,
+      "waste_tons_per_day_2564": 235,
+      "waste_tons_per_day_2565": 232,
+      "waste_tons_per_day_2566": 236,
+      "waste_tons_per_day_2567": 234
+    },
+    {
+      "province": "อำนาจเจริญ",
+      "waste_tons_per_day_2563": 221.3,
+      "waste_tons_per_day_2564": 218,
+      "waste_tons_per_day_2565": 363,
+      "waste_tons_per_day_2566": 223,
+      "waste_tons_per_day_2567": 225
+    },
+    {
+      "province": "ตราด",
+      "waste_tons_per_day_2563": 212,
+      "waste_tons_per_day_2564": 202,
+      "waste_tons_per_day_2565": 191,
+      "waste_tons_per_day_2566": 206,
+      "waste_tons_per_day_2567": 215
+    },
+    {
+      "province": "แม่ฮ่องสอน",
+      "waste_tons_per_day_2563": 168.6,
+      "waste_tons_per_day_2564": 206,
+      "waste_tons_per_day_2565": 195,
+      "waste_tons_per_day_2566": 215,
+      "waste_tons_per_day_2567": 214
+    },
+    {
+      "province": "อุทัยธานี",
+      "waste_tons_per_day_2563": 209.1,
+      "waste_tons_per_day_2564": 204,
+      "waste_tons_per_day_2565": 243,
+      "waste_tons_per_day_2566": 249,
+      "waste_tons_per_day_2567": 210
+    },
+    {
+      "province": "อ่างทอง",
+      "waste_tons_per_day_2563": 377,
+      "waste_tons_per_day_2564": 235,
+      "waste_tons_per_day_2565": 175,
+      "waste_tons_per_day_2566": 173,
+      "waste_tons_per_day_2567": 210
+    },
+    {
+      "province": "สิงห์บุรี",
+      "waste_tons_per_day_2563": 140,
+      "waste_tons_per_day_2564": 154,
+      "waste_tons_per_day_2565": 186,
+      "waste_tons_per_day_2566": 185,
+      "waste_tons_per_day_2567": 198
+    },
+    {
+      "province": "สมุทรสงคราม",
+      "waste_tons_per_day_2563": 177.1,
+      "waste_tons_per_day_2564": 178,
+      "waste_tons_per_day_2565": 190,
+      "waste_tons_per_day_2566": 203,
+      "waste_tons_per_day_2567": 181
+    }
+  ],
+  "meta": {
+    "title": "ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้นรายจังหวัด พ.ศ. 2563–2567 - ดาวน์โหลดฟรี",
+    "description": "ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้น (ตัน/วัน) ของ 76 จังหวัดและกรุงเทพมหานคร ปี พ.ศ. 2563 ถึง 2567 จากกรมควบคุมมลพิษ เรียงตามปริมาณปี 2567 มีทั้งหมด 77 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้นรายจังหวัด พ.ศ. 2563–2567 | ListBase",
+    "seo_description": "ดาวน์โหลด ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้นรายจังหวัด พ.ศ. 2563–2567 — 77 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 77 รายการ / 6 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://data.go.th/dataset/13_7_waste_commu_generate_prov"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-24T02:12:56.392Z",
-  "total_datasets": 834,
-  "total_records": 285957,
+  "generated": "2026-11-24T02:13:05.019Z",
+  "total_datasets": 835,
+  "total_records": 286034,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -1335,6 +1335,33 @@
         "xlsx": {
           "name": "th-palm-nai-prathet-thai_TH.xlsx",
           "size": 10799
+        }
+      }
+    },
+    {
+      "id": "th-parimarn-khaya-munlafoi-rai-changwat-2563-2567",
+      "name": "ปริมาณขยะมูลฝอยชุมชนที่เกิดขึ้นรายจังหวัด พ.ศ. 2563–2567",
+      "category": "environment",
+      "record_count": 77,
+      "columns": [
+        "province",
+        "waste_tons_per_day_2563",
+        "waste_tons_per_day_2564",
+        "waste_tons_per_day_2565",
+        "waste_tons_per_day_2566",
+        "waste_tons_per_day_2567"
+      ],
+      "source": "https://data.go.th/dataset/13_7_waste_commu_generate_prov",
+      "updated": "2026-11",
+      "size": 22374,
+      "files": {
+        "csv": {
+          "name": "th-parimarn-khaya-munlafoi-rai-changwat-2563-2567_TH.csv",
+          "size": 4671
+        },
+        "xlsx": {
+          "name": "th-parimarn-khaya-munlafoi-rai-changwat-2563-2567_TH.xlsx",
+          "size": 10066
         }
       }
     },
