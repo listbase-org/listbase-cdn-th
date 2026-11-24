@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-23T02:23:48.895Z",
-  "total_datasets": 833,
-  "total_records": 285801,
+  "generated": "2026-11-24T02:12:56.392Z",
+  "total_datasets": 834,
+  "total_records": 285957,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -24365,6 +24365,42 @@
         "xlsx": {
           "name": "th-laeng-thongthiao-wanuthayan_TH.xlsx",
           "size": 16905
+        }
+      }
+    },
+    {
+      "id": "th-nakthongthiao-uthayan-haengchat-pi-ngop-2567",
+      "name": "จำนวนนักท่องเที่ยวในอุทยานแห่งชาติ รายเดือน ปีงบประมาณ พ.ศ. 2567",
+      "category": "tourism",
+      "record_count": 156,
+      "columns": [
+        "national_park",
+        "office",
+        "oct_2566",
+        "nov_2566",
+        "dec_2566",
+        "jan_2567",
+        "feb_2567",
+        "mar_2567",
+        "apr_2567",
+        "may_2567",
+        "jun_2567",
+        "jul_2567",
+        "aug_2567",
+        "sep_2567",
+        "total_visitors_fy2567"
+      ],
+      "source": "https://data.go.th/dataset/gdpublish-stat-tourism",
+      "updated": "2026-11",
+      "size": 88160,
+      "files": {
+        "csv": {
+          "name": "th-nakthongthiao-uthayan-haengchat-pi-ngop-2567_TH.csv",
+          "size": 39133
+        },
+        "xlsx": {
+          "name": "th-nakthongthiao-uthayan-haengchat-pi-ngop-2567_TH.xlsx",
+          "size": 21746
         }
       }
     },
