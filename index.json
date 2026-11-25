@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-25T02:21:14.627Z",
-  "total_datasets": 837,
-  "total_records": 286165,
+  "generated": "2026-11-25T02:21:25.467Z",
+  "total_datasets": 838,
+  "total_records": 288770,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "law",
@@ -8986,6 +8986,32 @@
         "xlsx": {
           "name": "th-phasa-tam-samnomano-prachakon_TH.xlsx",
           "size": 7676
+        }
+      }
+    },
+    {
+      "id": "th-photchananukrom-sap-phaet-phaen-thai",
+      "name": "พจนานุกรมศัพท์แพทย์และเภสัชกรรมแผนไทย ฉบับราชบัณฑิตยสภา พ.ศ. 2559",
+      "category": "language",
+      "record_count": 2605,
+      "columns": [
+        "lamdap",
+        "kham",
+        "ang_ing",
+        "chanit_kham",
+        "khwam_mai"
+      ],
+      "source": "https://data.go.th/dataset/dtam-acad-001",
+      "updated": "2026-11",
+      "size": 3579636,
+      "files": {
+        "csv": {
+          "name": "th-photchananukrom-sap-phaet-phaen-thai_TH.csv",
+          "size": 3305328
+        },
+        "xlsx": {
+          "name": "th-photchananukrom-sap-phaet-phaen-thai_TH.xlsx",
+          "size": 443102
         }
       }
     },
