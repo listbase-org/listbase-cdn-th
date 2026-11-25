@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-25T02:21:05.967Z",
-  "total_datasets": 836,
-  "total_records": 286090,
+  "generated": "2026-11-25T02:21:14.627Z",
+  "total_datasets": 837,
+  "total_records": 286165,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -8294,6 +8294,31 @@
         "xlsx": {
           "name": "th-medical-schools_TH.xlsx",
           "size": 8676
+        }
+      }
+    },
+    {
+      "id": "th-phaet-phaen-thai-rai-changwat-2568",
+      "name": "จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ในโรงพยาบาลสังกัดกระทรวงสาธารณสุข รายจังหวัด ปี 2568",
+      "category": "health",
+      "record_count": 75,
+      "columns": [
+        "khet_sukkhaphap",
+        "changwat",
+        "phaet_phaen_thai",
+        "phaet_phaen_thai_prayuk"
+      ],
+      "source": "https://data.go.th/dataset/dtam-serv-001",
+      "updated": "2026-11",
+      "size": 18272,
+      "files": {
+        "csv": {
+          "name": "th-phaet-phaen-thai-rai-changwat-2568_TH.csv",
+          "size": 5813
+        },
+        "xlsx": {
+          "name": "th-phaet-phaen-thai-rai-changwat-2568_TH.xlsx",
+          "size": 9037
         }
       }
     },

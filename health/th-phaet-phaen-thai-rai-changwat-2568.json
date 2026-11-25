@@ -1,0 +1,496 @@
+{
+  "id": "th-phaet-phaen-thai-rai-changwat-2568",
+  "name": "จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ในโรงพยาบาลสังกัดกระทรวงสาธารณสุข รายจังหวัด ปี 2568",
+  "title": "จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ในโรงพยาบาลสังกัดกระทรวงสาธารณสุข รายจังหวัด ปี 2568",
+  "description": "จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ที่ปฏิบัติงานในโรงพยาบาลสังกัดกระทรวงสาธารณสุข จำแนกตามเขตสุขภาพและจังหวัด (75 จังหวัด ไม่รวมกรุงเทพมหานคร) ปี พ.ศ. 2568 จากกรมการแพทย์แผนไทยและการแพทย์ทางเลือก (เครื่องหมาย - ในต้นฉบับแสดงเป็น 0)",
+  "category": "health",
+  "source": "https://data.go.th/dataset/dtam-serv-001",
+  "source_url": "https://data.go.th/dataset/dtam-serv-001",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "khet_sukkhaphap",
+      "label": "Khet Sukkhaphap",
+      "type": "string"
+    },
+    {
+      "key": "changwat",
+      "label": "Changwat",
+      "type": "string"
+    },
+    {
+      "key": "phaet_phaen_thai",
+      "label": "Phaet Phaen Thai",
+      "type": "number"
+    },
+    {
+      "key": "phaet_phaen_thai_prayuk",
+      "label": "Phaet Phaen Thai Prayuk",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "พะเยา",
+      "phaet_phaen_thai": 44,
+      "phaet_phaen_thai_prayuk": 7
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "แพร่",
+      "phaet_phaen_thai": 44,
+      "phaet_phaen_thai_prayuk": 1
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "น่าน",
+      "phaet_phaen_thai": 40,
+      "phaet_phaen_thai_prayuk": 3
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "เชียงราย",
+      "phaet_phaen_thai": 160,
+      "phaet_phaen_thai_prayuk": 0
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "ลำพูน",
+      "phaet_phaen_thai": 42,
+      "phaet_phaen_thai_prayuk": 13
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "ลำปาง",
+      "phaet_phaen_thai": 89,
+      "phaet_phaen_thai_prayuk": 6
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "แม่ฮ่องสอน",
+      "phaet_phaen_thai": 24,
+      "phaet_phaen_thai_prayuk": 1
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 1",
+      "changwat": "เชียงใหม่",
+      "phaet_phaen_thai": 85,
+      "phaet_phaen_thai_prayuk": 1
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 2",
+      "changwat": "อุตรดิตถ์",
+      "phaet_phaen_thai": 61,
+      "phaet_phaen_thai_prayuk": 15
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 2",
+      "changwat": "ตาก",
+      "phaet_phaen_thai": 69,
+      "phaet_phaen_thai_prayuk": 7
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 2",
+      "changwat": "สุโขทัย",
+      "phaet_phaen_thai": 29,
+      "phaet_phaen_thai_prayuk": 12
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 2",
+      "changwat": "เพชรบูรณ์",
+      "phaet_phaen_thai": 63,
+      "phaet_phaen_thai_prayuk": 38
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 2",
+      "changwat": "พิษณุโลก",
+      "phaet_phaen_thai": 45,
+      "phaet_phaen_thai_prayuk": 8
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 3",
+      "changwat": "นครสวรรค์",
+      "phaet_phaen_thai": 22,
+      "phaet_phaen_thai_prayuk": 54
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 3",
+      "changwat": "อุทัยธานี",
+      "phaet_phaen_thai": 16,
+      "phaet_phaen_thai_prayuk": 19
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 3",
+      "changwat": "กำแพงเพชร",
+      "phaet_phaen_thai": 36,
+      "phaet_phaen_thai_prayuk": 38
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 3",
+      "changwat": "พิจิตร",
+      "phaet_phaen_thai": 53,
+      "phaet_phaen_thai_prayuk": 13
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 3",
+      "changwat": "ชัยนาท",
+      "phaet_phaen_thai": 16,
+      "phaet_phaen_thai_prayuk": 5
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "สระบุรี",
+      "phaet_phaen_thai": 51,
+      "phaet_phaen_thai_prayuk": 51
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "ลพบุรี",
+      "phaet_phaen_thai": 1,
+      "phaet_phaen_thai_prayuk": 2
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "นครนายก",
+      "phaet_phaen_thai": 3,
+      "phaet_phaen_thai_prayuk": 8
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "พระนครศรีอยุธยา",
+      "phaet_phaen_thai": 13,
+      "phaet_phaen_thai_prayuk": 31
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "อ่างทอง",
+      "phaet_phaen_thai": 22,
+      "phaet_phaen_thai_prayuk": 2
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "ปทุมธานี",
+      "phaet_phaen_thai": 24,
+      "phaet_phaen_thai_prayuk": 23
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "สิงห์บุรี",
+      "phaet_phaen_thai": 10,
+      "phaet_phaen_thai_prayuk": 13
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 4",
+      "changwat": "นนทบุรี",
+      "phaet_phaen_thai": 44,
+      "phaet_phaen_thai_prayuk": 44
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 5",
+      "changwat": "เพชรบุรี",
+      "phaet_phaen_thai": 24,
+      "phaet_phaen_thai_prayuk": 15
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 5",
+      "changwat": "สมุทรสาคร",
+      "phaet_phaen_thai": 43,
+      "phaet_phaen_thai_prayuk": 3
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 5",
+      "changwat": "สมุทรสงคราม",
+      "phaet_phaen_thai": 7,
+      "phaet_phaen_thai_prayuk": 13
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 5",
+      "changwat": "ราชบุรี",
+      "phaet_phaen_thai": 23,
+      "phaet_phaen_thai_prayuk": 19
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 5",
+      "changwat": "สุพรรณบุรี",
+      "phaet_phaen_thai": 24,
+      "phaet_phaen_thai_prayuk": 18
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 5",
+      "changwat": "นครปฐม",
+      "phaet_phaen_thai": 22,
+      "phaet_phaen_thai_prayuk": 42
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 5",
+      "changwat": "ประจวบคีรีขันธ์",
+      "phaet_phaen_thai": 31,
+      "phaet_phaen_thai_prayuk": 18
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "ระยอง",
+      "phaet_phaen_thai": 104,
+      "phaet_phaen_thai_prayuk": 47
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "ชลบุรี",
+      "phaet_phaen_thai": 73,
+      "phaet_phaen_thai_prayuk": 54
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "จันทบุรี",
+      "phaet_phaen_thai": 27,
+      "phaet_phaen_thai_prayuk": 25
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "ปราจีนบุรี",
+      "phaet_phaen_thai": 25,
+      "phaet_phaen_thai_prayuk": 50
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "ตราด",
+      "phaet_phaen_thai": 6,
+      "phaet_phaen_thai_prayuk": 14
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "สมุทรปราการ",
+      "phaet_phaen_thai": 22,
+      "phaet_phaen_thai_prayuk": 30
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "ฉะเชิงเทรา",
+      "phaet_phaen_thai": 30,
+      "phaet_phaen_thai_prayuk": 27
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 6",
+      "changwat": "สระแก้ว",
+      "phaet_phaen_thai": 41,
+      "phaet_phaen_thai_prayuk": 6
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 7",
+      "changwat": "กาฬสินธุ์",
+      "phaet_phaen_thai": 78,
+      "phaet_phaen_thai_prayuk": 24
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 7",
+      "changwat": "ขอนแก่น",
+      "phaet_phaen_thai": 58,
+      "phaet_phaen_thai_prayuk": 25
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 7",
+      "changwat": "มหาสารคาม",
+      "phaet_phaen_thai": 45,
+      "phaet_phaen_thai_prayuk": 15
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 7",
+      "changwat": "ร้อยเอ็ด",
+      "phaet_phaen_thai": 78,
+      "phaet_phaen_thai_prayuk": 39
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 8",
+      "changwat": "เลย",
+      "phaet_phaen_thai": 45,
+      "phaet_phaen_thai_prayuk": 17
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 8",
+      "changwat": "หนองบัวลำภู",
+      "phaet_phaen_thai": 39,
+      "phaet_phaen_thai_prayuk": 5
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 8",
+      "changwat": "อุดรธานี",
+      "phaet_phaen_thai": 120,
+      "phaet_phaen_thai_prayuk": 20
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 8",
+      "changwat": "นครพนม",
+      "phaet_phaen_thai": 54,
+      "phaet_phaen_thai_prayuk": 6
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 8",
+      "changwat": "หนองคาย",
+      "phaet_phaen_thai": 41,
+      "phaet_phaen_thai_prayuk": 9
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 8",
+      "changwat": "บึงกาฬ",
+      "phaet_phaen_thai": 22,
+      "phaet_phaen_thai_prayuk": 13
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 8",
+      "changwat": "สกลนคร",
+      "phaet_phaen_thai": 42,
+      "phaet_phaen_thai_prayuk": 201
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 9",
+      "changwat": "นครราชสีมา",
+      "phaet_phaen_thai": 91,
+      "phaet_phaen_thai_prayuk": 57
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 9",
+      "changwat": "บุรีรัมย์",
+      "phaet_phaen_thai": 73,
+      "phaet_phaen_thai_prayuk": 36
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 9",
+      "changwat": "ชัยภูมิ",
+      "phaet_phaen_thai": 43,
+      "phaet_phaen_thai_prayuk": 20
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 9",
+      "changwat": "สุรินทร์",
+      "phaet_phaen_thai": 90,
+      "phaet_phaen_thai_prayuk": 25
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 10",
+      "changwat": "มุกดาหาร",
+      "phaet_phaen_thai": 23,
+      "phaet_phaen_thai_prayuk": 7
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 10",
+      "changwat": "อุบลราชธานี",
+      "phaet_phaen_thai": 122,
+      "phaet_phaen_thai_prayuk": 14
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 10",
+      "changwat": "ศรีสะเกษ",
+      "phaet_phaen_thai": 124,
+      "phaet_phaen_thai_prayuk": 34
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 10",
+      "changwat": "ยโสธร",
+      "phaet_phaen_thai": 41,
+      "phaet_phaen_thai_prayuk": 11
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 10",
+      "changwat": "อำนาจเจริญ",
+      "phaet_phaen_thai": 33,
+      "phaet_phaen_thai_prayuk": 7
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 11",
+      "changwat": "นครศรีธรรมราช",
+      "phaet_phaen_thai": 132,
+      "phaet_phaen_thai_prayuk": 9
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 11",
+      "changwat": "ภูเก็ต",
+      "phaet_phaen_thai": 39,
+      "phaet_phaen_thai_prayuk": 11
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 11",
+      "changwat": "ระนอง",
+      "phaet_phaen_thai": 31,
+      "phaet_phaen_thai_prayuk": 4
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 11",
+      "changwat": "พังงา",
+      "phaet_phaen_thai": 30,
+      "phaet_phaen_thai_prayuk": 5
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 11",
+      "changwat": "สุราษฎร์ธานี",
+      "phaet_phaen_thai": 187,
+      "phaet_phaen_thai_prayuk": 46
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 11",
+      "changwat": "กระบี่",
+      "phaet_phaen_thai": 66,
+      "phaet_phaen_thai_prayuk": 0
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 11",
+      "changwat": "ชุมพร",
+      "phaet_phaen_thai": 34,
+      "phaet_phaen_thai_prayuk": 5
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 12",
+      "changwat": "ปัตตานี",
+      "phaet_phaen_thai": 98,
+      "phaet_phaen_thai_prayuk": 14
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 12",
+      "changwat": "ตรัง",
+      "phaet_phaen_thai": 64,
+      "phaet_phaen_thai_prayuk": 16
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 12",
+      "changwat": "ยะลา",
+      "phaet_phaen_thai": 38,
+      "phaet_phaen_thai_prayuk": 5
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 12",
+      "changwat": "พัทลุง",
+      "phaet_phaen_thai": 48,
+      "phaet_phaen_thai_prayuk": 4
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 12",
+      "changwat": "สตูล",
+      "phaet_phaen_thai": 38,
+      "phaet_phaen_thai_prayuk": 5
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 12",
+      "changwat": "สงขลา",
+      "phaet_phaen_thai": 98,
+      "phaet_phaen_thai_prayuk": 2
+    },
+    {
+      "khet_sukkhaphap": "เขตสุขภาพที่ 12",
+      "changwat": "นราธิวาส",
+      "phaet_phaen_thai": 143,
+      "phaet_phaen_thai_prayuk": 19
+    }
+  ],
+  "meta": {
+    "title": "จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ในโรงพยาบาลสังกัดกระทรวงสาธารณสุข รายจังหวัด ปี 2568 - ดาวน์โหลดฟรี",
+    "description": "จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ที่ปฏิบัติงานในโรงพยาบาลสังกัดกระทรวงสาธารณสุข จำแนกตามเขตสุขภาพและจังหวัด (75 จังหวัด ไม่รวมกรุงเทพมหานคร) ปี พ.ศ. 2568 จากกรมการแพทย์แผนไทยและการแพทย์ทางเลือก (เครื่องหมาย - ในต้นฉบับแสดงเป็น 0) มีทั้งหมด 75 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ในโรงพยาบาลสังกัดกระทรวงสาธารณสุข รายจังหวัด ปี 2568 | ListBase",
+    "seo_description": "ดาวน์โหลด จำนวนแพทย์แผนไทยและแพทย์แผนไทยประยุกต์ในโรงพยาบาลสังกัดกระทรวงสาธารณสุข รายจังหวัด ปี 2568 — 75 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 75 รายการ / 4 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://data.go.th/dataset/dtam-serv-001"
+    ]
+  }
+}
