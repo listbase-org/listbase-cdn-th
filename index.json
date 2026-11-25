@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-24T02:13:05.019Z",
-  "total_datasets": 835,
-  "total_records": 286034,
+  "generated": "2026-11-25T02:21:05.967Z",
+  "total_datasets": 836,
+  "total_records": 286090,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -471,6 +471,30 @@
         "xlsx": {
           "name": "th-nangsuephim_TH.xlsx",
           "size": 11904
+        }
+      }
+    },
+    {
+      "id": "th-pha-mai-ekkalak-thongthin",
+      "name": "ผ้าไหมและผ้าทอเอกลักษณ์ในท้องถิ่นต่างๆ ของไทย",
+      "category": "culture",
+      "record_count": 56,
+      "columns": [
+        "chue_pha",
+        "khwam_mai",
+        "url"
+      ],
+      "source": "https://data.go.th/dataset/encyclopedia",
+      "updated": "2026-11",
+      "size": 84080,
+      "files": {
+        "csv": {
+          "name": "th-pha-mai-ekkalak-thongthin_TH.csv",
+          "size": 77688
+        },
+        "xlsx": {
+          "name": "th-pha-mai-ekkalak-thongthin_TH.xlsx",
+          "size": 20804
         }
       }
     },
