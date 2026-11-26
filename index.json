@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-25T02:21:25.467Z",
-  "total_datasets": 838,
-  "total_records": 288770,
+  "generated": "2026-11-26T02:26:48.777Z",
+  "total_datasets": 839,
+  "total_records": 297585,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -8501,6 +8501,36 @@
         "xlsx": {
           "name": "vitamins_TH.xlsx",
           "size": 9464
+        }
+      }
+    },
+    {
+      "id": "th-borannasathan-thabian-krom-sinlapakon",
+      "name": "โบราณสถานในประเทศไทยตามทะเบียนกรมศิลปากร",
+      "category": "history",
+      "record_count": 8815,
+      "columns": [
+        "tabian",
+        "chue",
+        "thi_tang",
+        "tambon",
+        "amphoe",
+        "changwat",
+        "latitude",
+        "longitude",
+        "sathana_prakat"
+      ],
+      "source": "https://th.wikipedia.org/wiki/พิเศษ:ดัชนีคำนำหน้า/รายชื่อโบราณสถานใน",
+      "updated": "2026-11",
+      "size": 3662103,
+      "files": {
+        "csv": {
+          "name": "th-borannasathan-thabian-krom-sinlapakon_TH.csv",
+          "size": 2106024
+        },
+        "xlsx": {
+          "name": "th-borannasathan-thabian-krom-sinlapakon_TH.xlsx",
+          "size": 504840
         }
       }
     },
