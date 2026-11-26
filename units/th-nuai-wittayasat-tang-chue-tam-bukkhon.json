@@ -1,0 +1,604 @@
+{
+  "id": "th-nuai-wittayasat-tang-chue-tam-bukkhon",
+  "name": "หน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล",
+  "title": "หน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล",
+  "description": "รายชื่อหน่วยวัดทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล เช่น แอมแปร์ เคลวิน นิวตัน พร้อมตัวย่อ ปริมาณที่วัด ชื่อบุคคลที่เป็นที่มาของชื่อหน่วย และกลุ่มของหน่วย (หน่วยฐาน SI หน่วยอนุพันธ์ SI หน่วยอื่น ๆ) จากวิกิพีเดียภาษาไทย",
+  "category": "units",
+  "source": "https://th.wikipedia.org/wiki/รายชื่อหน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล",
+  "source_url": "https://th.wikipedia.org/wiki/รายชื่อหน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล",
+  "updated": "2026-11",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "chue_nuai",
+      "label": "Chue Nuai",
+      "type": "string"
+    },
+    {
+      "key": "tua_yo",
+      "label": "Tua Yo",
+      "type": "string"
+    },
+    {
+      "key": "parimann_thi_wat",
+      "label": "Parimann Thi Wat",
+      "type": "string"
+    },
+    {
+      "key": "tang_chue_tam",
+      "label": "Tang Chue Tam",
+      "type": "string"
+    },
+    {
+      "key": "klum",
+      "label": "Klum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chue_nuai": "แอมแปร์",
+      "tua_yo": "A",
+      "parimann_thi_wat": "กระแสไฟฟ้า",
+      "tang_chue_tam": "อ็องเดร-มารี อ็องแปร์",
+      "klum": "หน่วยฐานเอสไอ"
+    },
+    {
+      "chue_nuai": "เคลวิน",
+      "tua_yo": "K",
+      "parimann_thi_wat": "อุณหภูมิอุณหพลวัติ",
+      "tang_chue_tam": "วิลเลียม ทอมสัน บารอนเคลวินที่ 1",
+      "klum": "หน่วยฐานเอสไอ"
+    },
+    {
+      "chue_nuai": "แบ็กแรล",
+      "tua_yo": "Bq",
+      "parimann_thi_wat": "กัมมันตภาพรังสี",
+      "tang_chue_tam": "อ็องรี แบ็กแรล",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "องศาเซลเซียส",
+      "tua_yo": "°C",
+      "parimann_thi_wat": "อุณหภูมิ",
+      "tang_chue_tam": "แอนเดอร์ เซลเซียส",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "คูลอมบ์",
+      "tua_yo": "C",
+      "parimann_thi_wat": "ประจุไฟฟ้า",
+      "tang_chue_tam": "ชาร์ล-โอกุสแต็ง เดอ กูลง",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "เดซิเบล",
+      "tua_yo": "dB",
+      "parimann_thi_wat": "อัตราส่วน",
+      "tang_chue_tam": "อเล็กซานเดอร์ เกรแฮม เบลล์",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "ฟารัด",
+      "tua_yo": "F",
+      "parimann_thi_wat": "ความจุไฟฟ้า",
+      "tang_chue_tam": "ไมเคิล ฟาราเดย์",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "เกรย์",
+      "tua_yo": "Gy",
+      "parimann_thi_wat": "ปริมาณดูดกลืนของรังสี",
+      "tang_chue_tam": "หลุยส์ แฮโรลด์ เกรย์",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "เฮนรี",
+      "tua_yo": "H",
+      "parimann_thi_wat": "ความเหนี่ยวนำ",
+      "tang_chue_tam": "โจเซฟ เฮนรี",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "เฮิรตซ์",
+      "tua_yo": "Hz",
+      "parimann_thi_wat": "ความถี่",
+      "tang_chue_tam": "ไฮน์ริช เฮิร์ตซ์",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "จูล",
+      "tua_yo": "J",
+      "parimann_thi_wat": "พลังงาน, งาน, ความร้อน",
+      "tang_chue_tam": "เจมส์ จูล",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "นิวตัน",
+      "tua_yo": "N",
+      "parimann_thi_wat": "แรง",
+      "tang_chue_tam": "ไอแซก นิวตัน",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "โอห์ม",
+      "tua_yo": "Ω",
+      "parimann_thi_wat": "ความต้านทานไฟฟ้า",
+      "tang_chue_tam": "จอร์จ ไซมอน โอห์ม",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "ปาสกาล",
+      "tua_yo": "Pa",
+      "parimann_thi_wat": "ความดัน",
+      "tang_chue_tam": "แบลซ ปัสกาล",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "เรย์ล",
+      "tua_yo": "Rayl",
+      "parimann_thi_wat": "อิมพีแดนซ์เสียง",
+      "tang_chue_tam": "จอห์น วิลเลียม สตรัท บารอนเรย์ลีห์ที่ 3",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "ซีเมนส์",
+      "tua_yo": "S",
+      "parimann_thi_wat": "ความนำไฟฟ้า",
+      "tang_chue_tam": "เวอร์เนอร์ ฟัน ซีเมนส์",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "ซีเวอร์ต",
+      "tua_yo": "Sv",
+      "parimann_thi_wat": "ปริมาณรังสีสมมูล",
+      "tang_chue_tam": "รอล์ฟ ซีเวอร์ต",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "เทสลา",
+      "tua_yo": "T",
+      "parimann_thi_wat": "ความหนาแน่นฟลักซ์แม่เหล็ก",
+      "tang_chue_tam": "นิโคลา เทสลา",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "โวลต์",
+      "tua_yo": "V",
+      "parimann_thi_wat": "ความต่างศักย์ไฟฟ้า",
+      "tang_chue_tam": "อาเลสซานโดร โวลตา",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "วัตต์",
+      "tua_yo": "W",
+      "parimann_thi_wat": "กำลัง",
+      "tang_chue_tam": "เจมส์ วัตต์",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "เวเบอร์",
+      "tua_yo": "Wb",
+      "parimann_thi_wat": "ฟลักซ์แม่เหล็ก",
+      "tang_chue_tam": "วิลเฮล์ม เอดูอาร์ด เวเบอร์",
+      "klum": "หน่วยอนุพันธ์เอสไอ"
+    },
+    {
+      "chue_nuai": "บีโย",
+      "tua_yo": "Bi",
+      "parimann_thi_wat": "กระแสไฟฟ้า",
+      "tang_chue_tam": "ฌ็อง-บาติสต์ บีโย",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "บักกิงแฮม",
+      "tua_yo": "B",
+      "parimann_thi_wat": "โมเมนต์ไฟฟ้าสี่ขั้ว",
+      "tang_chue_tam": "เอ. เดวิด บักกิงแฮม",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "เดบาย",
+      "tua_yo": "D",
+      "parimann_thi_wat": "โมเมนต์ไฟฟ้าสองขั้ว",
+      "tang_chue_tam": "ปีเตอร์ เดบาย",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "เอิตวอส",
+      "tua_yo": "E",
+      "parimann_thi_wat": "การไล่ระดับแรงโน่มถ่วง",
+      "tang_chue_tam": "โลแรนด์ เอิตเวิช",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "กัล",
+      "tua_yo": "Gal",
+      "parimann_thi_wat": "ความเร่ง",
+      "tang_chue_tam": "กาลิเลโอ กาลิเลอี",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "เกาส์",
+      "tua_yo": "G, Gs",
+      "parimann_thi_wat": "ความหนาแน่นฟลักซ์แม่เหล็ก",
+      "tang_chue_tam": "คาร์ล ฟรีดริช เกาส์",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "กิลเบิร์ต",
+      "tua_yo": "Gb",
+      "parimann_thi_wat": "แรงเคลื่อนแม่เหล็ก",
+      "tang_chue_tam": "วิลเลียม กิลเบิร์ต",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "เกิปเพิร์ต-เมเยอร์",
+      "tua_yo": "GM",
+      "parimann_thi_wat": "ภาพตัดขวางของการดูดกลืนโฟตอนสองอนุภาค",
+      "tang_chue_tam": "มาเรีย เกิปเพิร์ต-เมเยอร์",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "ไคเซอร์",
+      "tua_yo": "kayser",
+      "parimann_thi_wat": "เลขคลื่น",
+      "tang_chue_tam": "ไฮน์ริช ไคเซอร์",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "แมกซ์เวลล์",
+      "tua_yo": "Mx",
+      "parimann_thi_wat": "ฟลักซ์แม่เหล็ก",
+      "tang_chue_tam": "เจมส์ เคลิร์ก แมกซ์เวลล์",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "เออร์สเตด",
+      "tua_yo": "Oe",
+      "parimann_thi_wat": "ความเข้มสนามแม่เหล็ก",
+      "tang_chue_tam": "ฮันส์ คริสเทียน เออร์สเตด",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "พอยซ์",
+      "tua_yo": "P",
+      "parimann_thi_wat": "ความหนืดทางพลศาสตร์",
+      "tang_chue_tam": "ฌ็อง เลโอนาร์ด มารี พัวซุย",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "เรย์ล",
+      "tua_yo": "Rayl",
+      "parimann_thi_wat": "อิมพีแดนซ์เสียง",
+      "tang_chue_tam": "จอห์น วิลเลียม สตรัท บารอนเรย์ลีห์ที่ 3",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "เรย์ลีห์",
+      "tua_yo": "R",
+      "parimann_thi_wat": "ฟลักซ์โฟตอน",
+      "tang_chue_tam": "รอเบิร์ต สตรัท บารอนเรย์ลีห์ที่ 4",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "สโตกส์",
+      "tua_yo": "S, St",
+      "parimann_thi_wat": "ความหนืดทางจลศาสตร์",
+      "tang_chue_tam": "เซอร์ จอร์จ สโตกส์ บารอนเน็ตที่ 1",
+      "klum": "มาตราซีจีเอส"
+    },
+    {
+      "chue_nuai": "แฟรงคลิน",
+      "tua_yo": "Fr",
+      "parimann_thi_wat": "ประจุไฟฟ้า",
+      "tang_chue_tam": "เบนจามิน แฟรงคลิน",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "เคลาซิอุส",
+      "tua_yo": "Cl",
+      "parimann_thi_wat": "เอนโทรปี",
+      "tang_chue_tam": "รูดอล์ฟ เคลาซิอุส",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "อังสตรอม",
+      "tua_yo": "Å",
+      "parimann_thi_wat": "ระยะทาง",
+      "tang_chue_tam": "อันเดอร์ส โยนาส อองสเตริม",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "บอด",
+      "tua_yo": "Bd",
+      "parimann_thi_wat": "อัตราสัญลักษณ์",
+      "tang_chue_tam": "เอมีล โบดอต",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราบาร์ค",
+      "tua_yo": "",
+      "parimann_thi_wat": "มาตรวัดทางจิตสวนศาสตร์",
+      "tang_chue_tam": "ไฮน์ริช บาร์คเฮาเซน",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "บริวสเตอร์",
+      "tua_yo": "B",
+      "parimann_thi_wat": "สัมประสิทธิ์ความเค้นของแสง",
+      "tang_chue_tam": "เดวิด บริวสเตอร์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "เซนติมอร์แกน",
+      "tua_yo": "cM",
+      "parimann_thi_wat": "ความถี่การรวมตัวใหม่ของยีน",
+      "tang_chue_tam": "ทอมัส ฮันต์ มอร์แกน",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "คูรี",
+      "tua_yo": "Ci",
+      "parimann_thi_wat": "กัมมันตภาพรังสี",
+      "tang_chue_tam": "ปีแยร์ และ มารี กูว์รี",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "ดาลตัน",
+      "tua_yo": "Da",
+      "parimann_thi_wat": "มวลอะตอม",
+      "tang_chue_tam": "จอห์น ดาลตัน",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "ดาร์ซี",
+      "tua_yo": "D",
+      "parimann_thi_wat": "ความให้ซึมผ่านได้",
+      "tang_chue_tam": "อ็องรี ดาร์ซี",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "เดซิเบล",
+      "tua_yo": "dB",
+      "parimann_thi_wat": "อัตราส่วน",
+      "tang_chue_tam": "อเล็กซานเดอร์ เกรแฮม เบลล์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราแรนคิน",
+      "tua_yo": "°R",
+      "parimann_thi_wat": "อุณหภูมิ",
+      "tang_chue_tam": "วิลเลียม จอห์น แมคควอน แรนคิน",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "หน่วยด็อบสัน",
+      "tua_yo": "DU",
+      "parimann_thi_wat": "ปริมาณโอโซนในชั้นบรรยากาศ",
+      "tang_chue_tam": "จี. เอ็ม. บี. ด็อบสัน",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "เออร์แลง",
+      "tua_yo": "E",
+      "parimann_thi_wat": "ปริมาณการใช้งานทางโทรคมนาคม",
+      "tang_chue_tam": "แอกเนอร์ ครารัป เออร์แลง",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "องศาฟาเรนไฮต์",
+      "tua_yo": "°F",
+      "parimann_thi_wat": "อุณหภูมิ",
+      "tang_chue_tam": "แดเนียล กาเบรียล ฟาเรนไฮต์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "เฟอร์มี",
+      "tua_yo": "fm",
+      "parimann_thi_wat": "ระยะทาง",
+      "tang_chue_tam": "เอนรีโก แฟร์มี",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "ฮาร์ตเลย์",
+      "tua_yo": "Hart",
+      "parimann_thi_wat": "ข้อมูล",
+      "tang_chue_tam": "ราล์ฟ ฮาร์ตเลย์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราเฮานส์ฟิลด์",
+      "tua_yo": "HU",
+      "parimann_thi_wat": "ความหนาแน่นรังสี",
+      "tang_chue_tam": "ก็อดฟรีย์ เฮานส์ฟิลด์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "แจนสกี",
+      "tua_yo": "Jy",
+      "parimann_thi_wat": "ฟลักซ์แม่เหล็กไฟฟ้า",
+      "tang_chue_tam": "คาร์ล แจนสกี",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "แลงลีย์",
+      "tua_yo": "ly",
+      "parimann_thi_wat": "รังสีสุริยะ",
+      "tang_chue_tam": "ซามูเอล เพียร์พอนต์ แลงลีย์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "แลงมัวร์",
+      "tua_yo": "L",
+      "parimann_thi_wat": "ปริมาณแก๊สที่สัมผัสได้",
+      "tang_chue_tam": "เออร์วิง แลงมัวร์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "เลขมัค",
+      "tua_yo": "Ma",
+      "parimann_thi_wat": "ความเร็วสัมพัทธ์",
+      "tang_chue_tam": "แอนสท์ มัค",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "เนเปอร์",
+      "tua_yo": "Np",
+      "parimann_thi_wat": "ระดับกำลังสัมพัทธ์",
+      "tang_chue_tam": "จอห์น เนเปียร์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราเอิคสเล",
+      "tua_yo": "°Oe",
+      "parimann_thi_wat": "ความหนาแน่น",
+      "tang_chue_tam": "เฟอร์ดินานด์ เอิคสเล",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราร็อคเวล",
+      "tua_yo": "HR",
+      "parimann_thi_wat": "ความแข็งแบบกด",
+      "tang_chue_tam": "ฮิวและสแตนลีย์ ร็อคเวล",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "เรินต์เกน",
+      "tua_yo": "R",
+      "parimann_thi_wat": "การแผ่รังสีเอกซ์หรือรังสีแกมมา",
+      "tang_chue_tam": "วิลเฮล์ม คอนราด เรินต์เกน",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราริกเตอร์",
+      "tua_yo": "",
+      "parimann_thi_wat": "พลังงานแผ่นดินไหว",
+      "tang_chue_tam": "ชาลส์ ฟรานซิส ริกเตอร์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราสโกวิลล์",
+      "tua_yo": "",
+      "parimann_thi_wat": "ปริมาณแคปไซซินในพริก",
+      "tang_chue_tam": "วิลเบอร์ สโกวิลล์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "ซีกบาห์น",
+      "tua_yo": "xu",
+      "parimann_thi_wat": "ระยะทาง",
+      "tang_chue_tam": "แมนน์ ซีกบาห์น",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "แชนนอน",
+      "tua_yo": "Sh",
+      "parimann_thi_wat": "ข้อมูล",
+      "tang_chue_tam": "คล็อด แชนนอน",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "สเวดแบร์ย",
+      "tua_yo": "S, Sv",
+      "parimann_thi_wat": "อัตราการตกตะกอน",
+      "tang_chue_tam": "เทออดอร์ สเวดแบร์ย",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "สเวดรุป",
+      "tua_yo": "Sv",
+      "parimann_thi_wat": "ปริมาตรของน้ำที่เคลื่อนตัวในกระแสน้ำ",
+      "tang_chue_tam": "ฮาราลด์ สเวดรุป",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "ทอร์",
+      "tua_yo": "Torr",
+      "parimann_thi_wat": "ความดัน",
+      "tang_chue_tam": "เอวานเจลิสตา โตร์ริเชลลี",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "ทรอแลนด์",
+      "tua_yo": "Td",
+      "parimann_thi_wat": "ความส่องสว่างของดวงตามนุษย์",
+      "tang_chue_tam": "ลีโอนาร์ด ที. ทรอแลนด์",
+      "klum": "อื่น ๆ"
+    },
+    {
+      "chue_nuai": "มาตราเมร์กัลลี",
+      "tua_yo": "",
+      "parimann_thi_wat": "ความรุนแรงของแผ่นดินไหว",
+      "tang_chue_tam": "จูเซปเป เมร์กัลลี",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "องศาโรเมอร์",
+      "tua_yo": "°R",
+      "parimann_thi_wat": "อุณหภูมิ",
+      "tang_chue_tam": "เรอเน อ็องตวน แฟร์โชล เดอ เรโอมูร์",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "มาตราดีไลล์",
+      "tua_yo": "°D",
+      "parimann_thi_wat": "อุณหภูมิ",
+      "tang_chue_tam": "โจเซฟ-นิโคลาส์ ดีไลล์",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "มาตรานิวตัน",
+      "tua_yo": "°N",
+      "parimann_thi_wat": "อุณหภูมิ",
+      "tang_chue_tam": "ไอแซก นิวตัน",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "มาตราเรอเมอร์",
+      "tua_yo": "°Rø",
+      "parimann_thi_wat": "อุณหภูมิ",
+      "tang_chue_tam": "โอเลอ เรอเมอร์",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "มาตราบอเม",
+      "tua_yo": "°Bé",
+      "parimann_thi_wat": "ความหนาแน่น",
+      "tang_chue_tam": "อ็องตวน บอเม",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "ไอน์สไตน์",
+      "tua_yo": "E",
+      "parimann_thi_wat": "พลังงานใน 1 โมลของโฟตอน",
+      "tang_chue_tam": "อัลเบิร์ต ไอน์สไตน์",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "พอนเซเลต์",
+      "tua_yo": "p",
+      "parimann_thi_wat": "กำลัง",
+      "tang_chue_tam": "ฌ็อง-วิกเตอร์ พอนเซเลต์",
+      "klum": "ไม่ใช้แล้ว"
+    },
+    {
+      "chue_nuai": "ฟาราเดย์",
+      "tua_yo": "Fd",
+      "parimann_thi_wat": "ประจุไฟฟ้า",
+      "tang_chue_tam": "ไมเคิล ฟาราเดย์",
+      "klum": "ไม่ใช้แล้ว"
+    }
+  ],
+  "meta": {
+    "title": "หน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล - ดาวน์โหลดฟรี",
+    "description": "รายชื่อหน่วยวัดทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล เช่น แอมแปร์ เคลวิน นิวตัน พร้อมตัวย่อ ปริมาณที่วัด ชื่อบุคคลที่เป็นที่มาของชื่อหน่วย และกลุ่มของหน่วย (หน่วยฐาน SI หน่วยอนุพันธ์ SI หน่วยอื่น ๆ) จากวิกิพีเดียภาษาไทย มีทั้งหมด 79 รายการ. ดาวน์โหลดในรูปแบบ Excel, CSV, PDF.",
+    "seo_title": "หน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล | ListBase",
+    "seo_description": "ดาวน์โหลด หน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล — 79 รายการ. มีในรูปแบบ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "มีทั้งหมด 79 รายการ / 5 คอลัมน์",
+      "ดาวน์โหลดฟรีในรูปแบบ Excel, CSV และ PDF",
+      "แหล่งข้อมูล: https://th.wikipedia.org/wiki/รายชื่อหน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล"
+    ]
+  }
+}

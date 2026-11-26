@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-26T02:26:48.777Z",
-  "total_datasets": 839,
-  "total_records": 297585,
+  "generated": "2026-11-26T02:26:59.276Z",
+  "total_datasets": 840,
+  "total_records": 297664,
   "categories": [
     {
       "id": "agriculture",
@@ -106,7 +106,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -25143,6 +25143,32 @@
         "xlsx": {
           "name": "th-matra-beaufort_TH.xlsx",
           "size": 8528
+        }
+      }
+    },
+    {
+      "id": "th-nuai-wittayasat-tang-chue-tam-bukkhon",
+      "name": "หน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล",
+      "category": "units",
+      "record_count": 79,
+      "columns": [
+        "chue_nuai",
+        "tua_yo",
+        "parimann_thi_wat",
+        "tang_chue_tam",
+        "klum"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อหน่วยทางวิทยาศาสตร์ที่ตั้งชื่อตามบุคคล",
+      "updated": "2026-11",
+      "size": 26234,
+      "files": {
+        "csv": {
+          "name": "th-nuai-wittayasat-tang-chue-tam-bukkhon_TH.csv",
+          "size": 13612
+        },
+        "xlsx": {
+          "name": "th-nuai-wittayasat-tang-chue-tam-bukkhon_TH.xlsx",
+          "size": 11486
         }
       }
     },
