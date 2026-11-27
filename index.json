@@ -1,8 +1,8 @@
 {
   "lang": "th",
-  "generated": "2026-11-26T02:26:59.276Z",
-  "total_datasets": 840,
-  "total_records": 297664,
+  "generated": "2026-11-27T02:18:24.048Z",
+  "total_datasets": 841,
+  "total_records": 298330,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "food",
@@ -1912,6 +1912,33 @@
         "xlsx": {
           "name": "th-banks_TH.xlsx",
           "size": 9807
+        }
+      }
+    },
+    {
+      "id": "th-rian-kasap-thi-raluek",
+      "name": "เหรียญกษาปณ์ที่ระลึกของประเทศไทย",
+      "category": "finance",
+      "record_count": 666,
+      "columns": [
+        "pi_tee_phalit",
+        "okat",
+        "chanit_loha",
+        "rakha_na_rian_baht",
+        "rakha_raek_chamnai_baht",
+        "chamnuan_phalit"
+      ],
+      "source": "https://th.wikipedia.org/wiki/รายชื่อเหรียญกษาปณ์ที่ระลึกในประเทศไทย",
+      "updated": "2026-11",
+      "size": 330512,
+      "files": {
+        "csv": {
+          "name": "th-rian-kasap-thi-raluek_TH.csv",
+          "size": 223421
+        },
+        "xlsx": {
+          "name": "th-rian-kasap-thi-raluek_TH.xlsx",
+          "size": 33023
         }
       }
     },
